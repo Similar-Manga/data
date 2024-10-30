@@ -33,14 +33,18 @@
   },
   "links": {
    "amz": "https://amazon.co.jp/dp/B07RPMPHDL",
+   "bw": "series/205044/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/446613/A001847631/",
    "engtl": "https://www.ebookrenta.com/renta/sc/frm/item/141864",
    "mu": "163771",
    "raw": "https://renta.papy.co.jp/renta/sc/frm/item/186908/"
   },
   "originalLanguage": "ja",
+  "lastVolume": "6",
+  "lastChapter": "42",
   "publicationDemographic": "josei",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2018,
   "contentRating": "erotica",
   "availableTranslatedLanguages": [
    "en"
@@ -85,9 +89,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2020-05-26T19:02:15+00:00",
-  "updatedAt": "2021-05-25T15:43:35+00:00"
+  "updatedAt": "2024-10-23T14:45:42+00:00"
  },
  "relationships": [
   {
@@ -143,16 +147,16 @@
    }
   },
   {
-   "id": "f86b8f52-3597-4f11-bc20-2e3eaf027dfe",
+   "id": "73a30122-e3eb-493a-8adf-b207f2a55c12",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:57:16+00:00",
+    "createdAt": "2024-10-23T14:50:09+00:00",
     "description": "",
-    "fileName": "66290b23-cdbe-4123-a181-f710cdd9ef9a.jpg",
+    "fileName": "edd36ae9-36ce-4573-9465-b215db1deab9.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:57:16+00:00",
+    "updatedAt": "2024-10-23T14:50:09+00:00",
     "version": 1,
-    "volume": null
+    "volume": "6"
    }
   }
  ]

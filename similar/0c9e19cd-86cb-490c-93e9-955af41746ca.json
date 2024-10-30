@@ -11,7 +11,7 @@
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.28431368,
+   "score": 0.28430098,
    "languages": [
     "es-la",
     "en",
@@ -27,28 +27,24 @@
    ]
   },
   {
-   "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
    "title": {
-    "en": "Kingdom"
+    "en": "HUNTER x HUNTER"
    },
    "contentRating": "safe",
-   "score": 0.24786517,
+   "score": 0.24332765,
    "languages": [
-    "en",
-    "it",
-    "vi",
-    "ar",
-    "ru",
-    "uk",
-    "es",
-    "pt-br",
     "pl",
+    "en",
+    "pt-br",
+    "vi",
     "es-la",
-    "tr",
-    "ro",
-    "id",
-    "fr",
-    "de"
+    "ru",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "fr"
    ]
   },
   {
@@ -57,7 +53,7 @@
     "en": "Fool Night"
    },
    "contentRating": "safe",
-   "score": 0.2363681,
+   "score": 0.23637126,
    "languages": [
     "pt-br",
     "ru",
@@ -69,33 +65,12 @@
    ]
   },
   {
-   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
-   "title": {
-    "en": "Hunter x Hunter"
-   },
-   "contentRating": "safe",
-   "score": 0.23472078,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br",
-    "es-la",
-    "ru",
-    "vi",
-    "it",
-    "fa",
-    "ar",
-    "es",
-    "fr"
-   ]
-  },
-  {
    "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
    "title": {
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.23335497,
+   "score": 0.2333548,
    "languages": [
     "en",
     "pt-br",
@@ -113,11 +88,27 @@
     "en": "Repeat"
    },
    "contentRating": "safe",
-   "score": 0.23305336,
+   "score": 0.23316458,
    "languages": [
     "it",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "fa0fb27a-d1db-4826-b400-fa3375468353",
+   "title": {
+    "en": "Re:Zero kara Hajimeru Isekai Seikatsu - Daigoshou - Mizu no Miyako to Eiyuu no Uta"
+   },
+   "contentRating": "safe",
+   "score": 0.23150663,
+   "languages": [
+    "pt-br",
+    "id",
+    "en",
+    "es-la",
+    "ar",
+    "fr"
    ]
   },
   {
@@ -126,19 +117,35 @@
     "en": "Wind Spirit"
    },
    "contentRating": "safe",
-   "score": 0.23076679,
+   "score": 0.23089299,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
+   "id": "fa3b04d5-399f-4c92-80b9-a43f413ea932",
    "title": {
-    "en": "Record of Ragnarok"
+    "en": "Historié"
    },
    "contentRating": "safe",
-   "score": 0.22429742,
+   "score": 0.22422838,
+   "languages": [
+    "tr",
+    "pt-br",
+    "en",
+    "fr",
+    "it",
+    "id"
+   ]
+  },
+  {
+   "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
+   "title": {
+    "en": "Shuumatsu no Valkyrie"
+   },
+   "contentRating": "safe",
+   "score": 0.22244477,
    "languages": [
     "zh-hk",
     "en",
@@ -159,22 +166,6 @@
    ]
   },
   {
-   "id": "fa3b04d5-399f-4c92-80b9-a43f413ea932",
-   "title": {
-    "en": "Historié"
-   },
-   "contentRating": "safe",
-   "score": 0.22423375,
-   "languages": [
-    "tr",
-    "pt-br",
-    "en",
-    "fr",
-    "it",
-    "id"
-   ]
-  },
-  {
    "id": "8211bac6-a392-4e37-b3b6-dac0f4512d24",
    "title": {
     "en": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou"
@@ -192,31 +183,40 @@
    ]
   },
   {
-   "id": "fa0fb27a-d1db-4826-b400-fa3375468353",
-   "title": {
-    "en": "Re:Zero kara Hajimeru Isekai Seikatsu - Daigoshou - Mizu no Miyako to Eiyuu no Uta"
-   },
-   "contentRating": "safe",
-   "score": 0.22182737,
-   "languages": [
-    "pt-br",
-    "id",
-    "en",
-    "es-la",
-    "ar",
-    "fr"
-   ]
-  },
-  {
    "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
    "title": {
     "en": "Cyborg 009"
    },
    "contentRating": "safe",
-   "score": 0.22172315,
+   "score": 0.2217015,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
+   "title": {
+    "en": "Kingdom"
+   },
+   "contentRating": "safe",
+   "score": 0.22047858,
+   "languages": [
+    "en",
+    "it",
+    "vi",
+    "ar",
+    "ru",
+    "uk",
+    "es",
+    "pt-br",
+    "pl",
+    "es-la",
+    "tr",
+    "ro",
+    "id",
+    "fr",
+    "de"
    ]
   },
   {
@@ -225,7 +225,7 @@
     "en": "Rengoku no Ashe"
    },
    "contentRating": "safe",
-   "score": 0.20972677,
+   "score": 0.20963798,
    "languages": [
     "tr",
     "en",
@@ -243,7 +243,7 @@
     "en": "Kiba no Tabishounin - The Arms Peddler"
    },
    "contentRating": "safe",
-   "score": 0.20894234,
+   "score": 0.20894249,
    "languages": [
     "pt-br",
     "en",
@@ -258,7 +258,7 @@
     "en": "I Created a Salvation Organization"
    },
    "contentRating": "safe",
-   "score": 0.20784193,
+   "score": 0.20783588,
    "languages": [
     "pt-br",
     "en"
@@ -270,12 +270,12 @@
     "en": "X \u0026 Ash"
    },
    "contentRating": "safe",
-   "score": 0.2043195,
+   "score": 0.20423019,
    "languages": [
     "en",
     "pt-br"
    ]
   }
  ],
- "updatedAt": "2024-10-21T19:55:18+00:00"
+ "updatedAt": "2024-10-29T18:54:42+00:00"
 }

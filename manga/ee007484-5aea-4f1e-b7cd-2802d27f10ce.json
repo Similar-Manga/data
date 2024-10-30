@@ -1,0 +1,137 @@
+{
+ "id": "ee007484-5aea-4f1e-b7cd-2802d27f10ce",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Cannabis"
+  },
+  "altTitles": [
+   {
+    "ja": "カンナビス"
+   }
+  ],
+  "description": {},
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/%E4%BD%90%E4%BC%8A%E6%9D%91%E5%8F%B8-ebook/dp/B0DDXHVXBN/ref=sr_1_3?dib=eyJ2IjoiMSJ9.10t7ny4C9NNLIFW5jsQqu9rqOxH3VDJOqxdKkD5gFNzjt96k5GfllER3uhhzffwq_k97DRjlZqqKj2o-YTqnZBmlVExjLLxAqq1-MzNUYQMabqXK_gVaAMkg_RV89BOvhpixvwE6eF7Dnrh2zYH0T0kY49MBiljhZhcD8ZqkjJjIJETckFbWPl2r6vqKOzgmmeDWkg90R5MxuixgWzrObi1HluwrNGRPih_OC1IFOAtKrT5T5xQY56HBckcRTvzx_sDfM8pFZkUmttx1RWI8gEWloMG6uMrrLKqJUgSCDIc.Us6rg4shIsSueUN5MyfY0na16o5ymbWCCbO6jYVvSGw\u0026dib_tag=se\u0026keywords=%E3%82%AB%E3%83%B3%E3%83%8A%E3%83%93%E3%82%B9\u0026qid=1729799673\u0026sr=8-3",
+   "mu": "h7aliu4"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-24T19:55:29+00:00",
+  "updatedAt": "2024-10-24T19:55:37+00:00"
+ },
+ "relationships": [
+  {
+   "id": "494cce57-7444-4583-b8ee-cf1bccfcfcbf",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Saimura Tsukasa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "494cce57-7444-4583-b8ee-cf1bccfcfcbf",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Saimura Tsukasa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "87629bfa-1266-4cee-af56-6c5272240348",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-24T19:55:31+00:00",
+    "description": "",
+    "fileName": "37d85082-3cbe-4ddc-bb6c-22a848211f79.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-24T19:55:31+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "6640d5cb-18a0-4264-8c0a-9dcbe39be5ef",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "id": "69391162-a628-490a-a2f6-5c2e77221f56",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Teeth"
+  },
+  "altTitles": [
+   {
+    "ja": "歯"
+   },
+   {
+    "ja-ro": "Ha"
+   }
+  ],
+  "description": {
+   "en": "Akane, a reckless elementary schooler, chips her front tooth after jumping from the second floor of her school.\nAs she starts visiting the dentist, she runs into Tatchi, a classmate who's stopped going to school.\nThe two begin to get along with each other, but where will their friendship lead?\n\nSource: MangaPlus",
+   "ja": "向こうみずで破天荒な小学生・茜。\n学校の2階から飛び降りて歯を折ってしまい、歯医者に通うことになってしまう。\nそこで不登校だった同級生タッチと出会い、2人は仲を深めていくが…？"
+  },
+  "links": {
+   "ap": "tooth",
+   "engtl": "https://mangaplus.shueisha.co.jp/titles/100379",
+   "mal": "175683",
+   "raw": "https://shonenjumpplus.com/episode/17106567256216463424"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "cd811a0a-721c-423b-969f-bf997d20e582",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-25T18:39:31+00:00",
+  "updatedAt": "2024-10-26T15:45:23+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f52c88ab-36d6-4680-a04e-b7cc62273bb1",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T18:11:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asumi Asu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T18:11:00+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f52c88ab-36d6-4680-a04e-b7cc62273bb1",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T18:11:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asumi Asu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T18:11:00+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b1e362ed-3b18-4448-999b-9a2927cb3b50",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-25T18:44:06+00:00",
+    "description": "",
+    "fileName": "590fffd9-211e-4643-bea5-f59b4297db2a.png",
+    "locale": "ja",
+    "updatedAt": "2024-10-25T18:44:06+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f56aa6ad-6e44-4018-8a3d-43aaa00bc383",
+   "type": "creator"
+  }
+ ]
+}

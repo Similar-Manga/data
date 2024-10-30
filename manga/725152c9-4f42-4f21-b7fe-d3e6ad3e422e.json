@@ -1,0 +1,145 @@
+{
+ "id": "725152c9-4f42-4f21-b7fe-d3e6ad3e422e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Acchanchi"
+  },
+  "altTitles": [
+   {
+    "ja": "あっちゃんち"
+   },
+   {
+    "ja-ro": "Acchanchi"
+   }
+  ],
+  "description": {
+   "en": "Akiko is a 33-year-old single woman who moved from the countryside to Tokyo and became the manager of a general store called \"Wahldo.\" One day, she finds a cardboard box with the words \"please pick me up\" written on it. When she opens it, an old lady with a funky look pops out! Her name is Atsuko, and she said she came to Tokyo looking for someone. The two women begin a life together full of warmth and chaos!"
+  },
+  "links": {
+   "mu": "5ognlxl"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-27T18:42:38+00:00",
+  "updatedAt": "2024-10-27T18:50:45+00:00"
+ },
+ "relationships": [
+  {
+   "id": "56e1c83d-9b9a-4ac2-b64f-9b80377c62bb",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language**: 西炯子"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nishi Keiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/namarakowakatta",
+    "updatedAt": "2024-03-15T04:09:39+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "56e1c83d-9b9a-4ac2-b64f-9b80377c62bb",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language**: 西炯子"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nishi Keiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/namarakowakatta",
+    "updatedAt": "2024-03-15T04:09:39+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1fc3f06f-11a1-48a4-9c07-f683ee6fc686",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-27T18:42:41+00:00",
+    "description": "",
+    "fileName": "aab031b0-2330-4b6a-8fe4-b6ece07849a0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-27T18:42:41+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "132c7600-c1bd-4263-bcaf-c0e0c1a644ab",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "id": "4aadc0c8-3f4d-46b8-9aa6-00cdc41c5bd3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Prodigy"
+  },
+  "altTitles": [
+   {
+    "en": "Talented one"
+   }
+  ],
+  "description": {
+   "en": "A boy named  Ben Jackson after losing a football match and his best friend goes home only to find that his parents are dead. Read and find out what happens to him and follow his journey in football and life.  With new people supporting his every decision, he finds a purpose to live by."
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-25T08:55:22+00:00",
+  "updatedAt": "2024-10-25T15:51:44+00:00"
+ },
+ "relationships": [
+  {
+   "id": "92368ea3-880b-4415-9a7f-ef6fd986b5c6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Rui",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "92368ea3-880b-4415-9a7f-ef6fd986b5c6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Rui",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e1e3634f-3e4a-4c0b-bc68-d3e413dbe936",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-25T08:55:24+00:00",
+    "description": "",
+    "fileName": "52c4a3ed-a06f-4541-b1ca-f2a72a1eae88.jpg",
+    "locale": "en",
+    "updatedAt": "2024-10-25T08:55:24+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "472b144b-d766-4cf5-b500-d88efd099864",
+   "type": "creator"
+  }
+ ]
+}

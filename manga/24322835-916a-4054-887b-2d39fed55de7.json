@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Legend of Zelda: Ocarina of Time"
+   "en": "Legend of Zelda: Ocarina of Time"
   },
   "altTitles": [
    {
@@ -11,9 +11,13 @@
    },
    {
     "ja-ro": "Zelda no Densetsu - Toki no Ocarina"
+   },
+   {
+    "el": "Ο Θρύλος της Ζέλντα: Η Οκαρίνα του Χρόνου"
    }
   ],
   "description": {
+   "el": "Το manga The Legend of Zelda: Ocarina of Time (Ο Θρύλος της Ζέλντα: Η Οκαρίνα του Χρόνου) βασίζεται στο δημοφιλές παιχνίδι του Nintendo 64 με το ίδιο όνομα. Ο νεαρός ήρωας Λίνκ ταξιδεύει στον κόσμο του Άιρουλ σε αναζήτηση για τις πνευματικές πέτρες, συναντά πολλά φιλικά πρόσωπα σε όλη τη διάρκεια του ταξιδιού του, συμπεριλαμβανομένου της Ζέλντα, πριγκίπισσας του Άιρουλ. Το επίκεντρο της θαρραλέας αναζήτησης του Λίνκ είναι να ματαιώσει τα σχέδια του κακού βασιλιά Γκάνοντορφ να κυβερνήσει τον Άιρουλ, αλλά όταν ο ήρωάς μας λείπει για επτά χρόνια, ο Γκάνοντορφ έχει την ευκαιρία να αποκτήσει τη δύναμη των θεών.",
    "en": "The Legend of Zelda: Ocarina of Time manga is based off of the popular Nintendo 64 game of the same name. Young hero Link travels the world of Hyrule in search of the Spiritual Stones and encounters many friendly faces throughout his journey, including Zelda, the princess of Hyrule. The focus of Link's courageous quest is to thwart the evil king Ganondorf's plans to rule Hyrule. But when our hero is absent for seven years, Ganondorf has the opportunity to obtain the power of the gods, the Triforce."
   },
   "links": {
@@ -37,9 +41,10 @@
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
-   "pt-br"
+   "pt-br",
+   "el"
   ],
-  "latestUploadedChapter": "9a748f25-0384-41e6-8155-2ad004a35a5d",
+  "latestUploadedChapter": "38c56f21-4988-4a12-b38d-a2865e5e0e58",
   "tags": [
    {
     "id": "292e862b-2d17-4062-90a2-0356caa4ae27",
@@ -139,9 +144,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 13,
   "createdAt": "2018-03-30T01:59:55+00:00",
-  "updatedAt": "2022-10-23T22:17:32+00:00"
+  "updatedAt": "2024-10-27T13:53:25+00:00"
  },
  "relationships": [
   {

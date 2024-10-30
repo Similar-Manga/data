@@ -12,6 +12,7 @@
   ],
   "description": {},
   "links": {
+   "al": "61831",
    "mu": "8l66var"
   },
   "originalLanguage": "ja",
@@ -24,10 +25,24 @@
    "en"
   ],
   "latestUploadedChapter": "04ebc2cc-c60d-4a26-904b-96c3ca9d88c2",
+  "tags": [
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2019-12-29T00:27:43+00:00",
-  "updatedAt": "2022-08-27T04:22:35+00:00"
+  "updatedAt": "2024-10-26T13:38:31+00:00"
  },
  "relationships": [
   {
@@ -83,16 +98,16 @@
    }
   },
   {
-   "id": "fbe0a25d-c001-4f94-af30-090a42386e49",
+   "id": "e3542e74-2582-4e52-9ac8-640e4963fe9b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:39:10+00:00",
+    "createdAt": "2024-10-26T13:38:30+00:00",
     "description": "",
-    "fileName": "29a10cd0-32c4-4406-81c8-624f74fcaa14.jpg",
+    "fileName": "f418e6b8-96ef-4f0c-8e3d-4cfd5d6ef0c6.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:39:10+00:00",
+    "updatedAt": "2024-10-26T13:38:30+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

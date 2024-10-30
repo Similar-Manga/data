@@ -1,0 +1,162 @@
+{
+ "id": "7c60d3a7-642a-44ca-a8f0-730b261afb02",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Engi Daketoka Gachi Tannai!"
+  },
+  "altTitles": [
+   {
+    "ja": "演技だけとかガチ足んない！"
+   }
+  ],
+  "description": {
+   "en": "A youthful love story between a gyaru and a theater student that can't be escaped!\n\nChiharu, a gyaru, is pushed aside by Makoto, a good looking but stupid theater student, and ends up helping out at a theater circle! Her youth and talent, which she had given up on, blossom!"
+  },
+  "links": {
+   "raw": "https://flowercomics.jp/title/552"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "fad12b5e-68ba-460e-b933-9ae8318f5b65",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gyaru"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-27T19:44:49+00:00",
+  "updatedAt": "2024-10-27T19:45:56+00:00"
+ },
+ "relationships": [
+  {
+   "id": "075b1e71-861d-4905-ad4d-af083873fec4",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-23T09:28:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morinaga Chihiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-23T09:28:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "075b1e71-861d-4905-ad4d-af083873fec4",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-23T09:28:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morinaga Chihiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-23T09:28:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5911cd24-b246-4f71-88b0-0181e9d5e13a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-27T19:45:13+00:00",
+    "description": "",
+    "fileName": "c5e57dd5-f3cc-40d3-bc40-028771ad9434.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-27T19:45:13+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

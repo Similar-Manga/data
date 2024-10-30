@@ -7,34 +7,32 @@
   },
   "altTitles": [
    {
-    "en": "3Gatsu no Kodomo"
+    "ja-ro": "Suki desu, Sensei"
    },
    {
-    "en": "Sangatsu no Kodomo"
+    "ja": "好きです、先生"
    },
    {
-    "en": "Suki desu, Sensei"
-   },
-   {
-    "en": "三月のこども"
-   },
-   {
-    "en": "好きです、先生"
-   },
-   {
-    "en": "我爱你，老师"
+    "zh": "我爱你，老师"
    }
   ],
   "description": {
-   "en": "A collection of three short stories."
+   "en": "A collection of three short stories.\n\n**Sukidesu, Sensei**\nWhile attending a high school for his teaching internship, Shota, a university student, meets Kogure, a nearly 190cm tall basketball player. Shota has a complex about his short height, but as he was once the captain of the basketball team, he is subtly concerned about Kogure. When he is alone with Kogure in the biology preparation room, he is suddenly kissed and confesses, \"I love you, teacher.\" What will Shota do when Kogure, who is usually expressionless and quiet, continues to express his feelings sincerely afterwards?"
   },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/4344838262/",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1999822",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/385203/",
    "kt": "52101",
    "mal": "111618",
-   "mu": "136295"
+   "mu": "136295",
+   "raw": "https://www.cmoa.jp/title/121959/"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "5",
   "status": "completed",
+  "year": 2016,
   "contentRating": "safe",
   "tags": [
    {
@@ -75,16 +73,18 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 3,
   "createdAt": "2019-05-08T19:03:24+00:00",
-  "updatedAt": "2019-05-08T19:03:24+00:00"
+  "updatedAt": "2024-10-27T03:21:58+00:00"
  },
  "relationships": [
   {
    "id": "e6bbffe5-c9e8-4509-8dbe-87101fa838b9",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n木田さっつ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -95,13 +95,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=222047",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/sattsu_k",
+    "updatedAt": "2024-10-27T03:04:28+00:00",
+    "version": 3,
+    "website": "https://satsukik31.wixsite.com/mysite",
     "weibo": null,
     "youtube": null
    }
@@ -110,7 +110,9 @@
    "id": "e6bbffe5-c9e8-4509-8dbe-87101fa838b9",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n木田さっつ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -121,28 +123,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=222047",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/sattsu_k",
+    "updatedAt": "2024-10-27T03:04:28+00:00",
+    "version": 3,
+    "website": "https://satsukik31.wixsite.com/mysite",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "0a587c21-dad4-4f33-8f36-cbb9385c68f5",
+   "id": "9e29e00a-36c8-49a0-b303-86e9a37323e1",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:11:07+00:00",
+    "createdAt": "2024-10-27T03:21:57+00:00",
     "description": "",
-    "fileName": "7bcc7f43-f24e-4bee-af80-684e18ab46a0.png",
+    "fileName": "24276fc5-9e36-485c-b88a-c1fc91251528.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:11:07+00:00",
+    "updatedAt": "2024-10-27T03:21:57+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

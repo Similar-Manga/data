@@ -3,11 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Gakuen THE iDOLM@STER 4-koma Comic"
+   "en": "Gakum@s 4-koma"
   },
   "altTitles": [
    {
-    "en": "Gakum@s 4-koma, Gakumas 4-koma"
+    "ja": "学園マス4コマ"
+   },
+   {
+    "ja-ro": "Gakumas 4-koma"
+   },
+   {
+    "en": "Gakuen Idolm@ster 4-koma"
+   },
+   {
+    "en": "Gakuen THE iDOLM@STER 4-koma Comic"
    }
   ],
   "description": {
@@ -15,7 +24,7 @@
    "vi": "Một nhánh THE iDOLM@STER hoàn toàn mới - Gakuen THE iDOLM@STER. Truyện giới thiệu về các nhân vật và những điều liên quan đến Học viện tư lập Hatsuboshi."
   },
   "links": {
-   "raw": "https://twitter.com/gkmas_official"
+   "raw": "https://gakuen.idolmaster-official.jp/media/comics/"
   },
   "originalLanguage": "ja",
   "status": "ongoing",
@@ -114,9 +123,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-03-05T12:01:12+00:00",
-  "updatedAt": "2024-03-09T12:13:08+00:00"
+  "updatedAt": "2024-10-24T07:41:41+00:00"
  },
  "relationships": [
   {
@@ -183,6 +192,11 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "bce90ee1-4a1d-4a64-a01e-2463cf1be061",
+   "type": "manga",
+   "related": "same_franchise"
   },
   {
    "id": "39a43b47-987d-49d9-b540-abff2224c240",

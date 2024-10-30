@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c06155f7-a59a-4d45-a7fc-874b469e23de",
+   "title": {
+    "en": "Genie in a Bottle"
+   },
+   "contentRating": "safe",
+   "score": 0.14285715,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "52d4ad1e-d02c-4fef-81d6-1e758e699d31",
    "title": {
     "en": "Hatarakanai Futari"
@@ -18,18 +30,6 @@
     "pl",
     "pt-br",
     "tr",
-    "es"
-   ]
-  },
-  {
-   "id": "c06155f7-a59a-4d45-a7fc-874b469e23de",
-   "title": {
-    "en": "Genie in a Bottle"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "en",
     "es"
    ]
   },
@@ -50,7 +50,7 @@
     "en": "Watari Tori to Katatsumuri"
    },
    "contentRating": "safe",
-   "score": 0.12633903,
+   "score": 0.12633389,
    "languages": [
     "es-la",
     "es"
@@ -109,6 +109,31 @@
    ]
   },
   {
+   "id": "879c5278-5041-4290-9bf0-f7fa5ed3d8d5",
+   "title": {
+    "en": "Majo no Complex"
+   },
+   "contentRating": "safe",
+   "score": 0.090350784,
+   "languages": [
+    "en",
+    "es",
+    "tr"
+   ]
+  },
+  {
+   "id": "41e0a561-e9c6-4c1a-8552-e399b5eba20c",
+   "title": {
+    "en": "Lever Gacha Archive"
+   },
+   "contentRating": "safe",
+   "score": 0.090350784,
+   "languages": [
+    "es-la",
+    "es"
+   ]
+  },
+  {
    "id": "ed996855-70de-449f-bba2-e8e24224c14d",
    "title": {
     "en": "Onii-chan Is Done For!"
@@ -135,37 +160,12 @@
    ]
   },
   {
-   "id": "41e0a561-e9c6-4c1a-8552-e399b5eba20c",
-   "title": {
-    "en": "Lever Gacha Archive"
-   },
-   "contentRating": "safe",
-   "score": 0.090350784,
-   "languages": [
-    "es-la",
-    "es"
-   ]
-  },
-  {
-   "id": "879c5278-5041-4290-9bf0-f7fa5ed3d8d5",
-   "title": {
-    "en": "Majo no Complex"
-   },
-   "contentRating": "safe",
-   "score": 0.090350784,
-   "languages": [
-    "en",
-    "es",
-    "tr"
-   ]
-  },
-  {
    "id": "ea875336-eaad-42c0-ad62-c0986af975ad",
    "title": {
     "en": "Asahinagu"
    },
    "contentRating": "safe",
-   "score": 0.08873286,
+   "score": 0.088740654,
    "languages": [
     "ru",
     "en",
@@ -240,7 +240,7 @@
     "en": "Bungo"
    },
    "contentRating": "safe",
-   "score": 0.013943908,
+   "score": 0.0139395045,
    "languages": [
     "en",
     "pt-br",
@@ -250,5 +250,5 @@
    ]
   }
  ],
- "updatedAt": "2024-10-21T20:28:30+00:00"
+ "updatedAt": "2024-10-29T19:30:54+00:00"
 }

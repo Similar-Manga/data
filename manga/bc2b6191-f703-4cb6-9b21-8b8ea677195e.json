@@ -1,0 +1,139 @@
+{
+ "id": "bc2b6191-f703-4cb6-9b21-8b8ea677195e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ode to Judo"
+  },
+  "altTitles": [
+   {
+    "en": "Anthem to Judo"
+   },
+   {
+    "ja-ro": "Judo Sanka"
+   },
+   {
+    "en": "Hymn to Judo"
+   },
+   {
+    "es": "Pasion por el Judo"
+   },
+   {
+    "ja": "柔道讃歌"
+   }
+  ],
+  "description": {
+   "en": "The protagonist, Tomoe Tosshinta, is a short boy who loves to fight. He enrolls in Chiba Prefectural Koyo High School and meets the new teacher, Togama Ryuhei. There is something ineffable about him, and he seems to be hiding some kind of secret.\n\nIn order to become the leader of his high school, Tsushinta challenges all the sports clubs to fights and wins, but he is beaten badly by the captain of the judo club, Daitobo. However, he wins in the end with a Tomoe-nage throw , and is recognized by Daitobo and joins the judo club.\n\nIn fact, Tsushinta's mother, Teruko, was a genius judoka known as the female Sanshiro at the Kodokan in the past, and once threw Rikama's older brother, which caused him to go astray in life and die alone. To get revenge, Rikama devotes himself to judo and masters his special move, Tenchi Gaeshi. Unable to forgive the woman's son who killed his brother, he becomes the coach of the judo club and thoroughly disciplines Tsushinta and the others.\n\nVarious rivals appear before Tosshin-ta. In the battles with them, Tosshin-ta develops his own special moves and grows as both a judoka and a person."
+  },
+  "links": {
+   "mu": "6gcohwf"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "6",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1972,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-24T04:07:59+00:00",
+  "updatedAt": "2024-10-24T04:12:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2b538e85-7a71-4e09-b0b6-060f60d6a39a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kajiwara Ikki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5646ef7f-2fcd-4155-b8f1-b92024e84d96",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-01-18T19:56:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kaizuka Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-01-18T19:56:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6c2d57aa-ee17-4446-9c69-98a94dc9ff41",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-24T04:08:02+00:00",
+    "description": "",
+    "fileName": "08385d4b-b375-4084-913f-7caa2e19413e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-24T04:08:02+00:00",
+    "version": 1,
+    "volume": "6"
+   }
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

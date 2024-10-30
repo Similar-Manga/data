@@ -1,0 +1,221 @@
+{
+ "id": "3ff5ba3a-0550-4d65-b28c-8fc9d3ed236a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Date shiyo"
+  },
+  "altTitles": [
+   {
+    "vi": "Đi hẹn hò nào"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "1",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi"
+  ],
+  "latestUploadedChapter": "7e79a2c4-6f89-4dfe-9a98-06f22597008a",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-10-27T08:39:40+00:00",
+  "updatedAt": "2024-10-27T23:27:23+00:00"
+ },
+ "relationships": [
+  {
+   "id": "30a8b4f4-bc4d-40b5-a879-0affe1a4932c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: しょぼコン\n\n**Alt. names**:\nSyobocon\nShobokon\n\n**Members**:\n[Kitamura Tooru](https://mangadex.org/author/761c5714-69e8-461b-8d7f-a3d4a5bc5143)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=12533",
+    "name": "Shobocon (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-03-07T11:24:38+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "761c5714-69e8-461b-8d7f-a3d4a5bc5143",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: きたむらとおる \n\n**Circle name**: [Shobocon](https://mangadex.org/author/30a8b4f4-bc4d-40b5-a879-0affe1a4932c) (しょぼコン)\n\n**Alt. names**:\nKitamuratooru"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kitamura Tooru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/831544",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tooru1001",
+    "updatedAt": "2024-03-07T07:39:07+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "30a8b4f4-bc4d-40b5-a879-0affe1a4932c",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: しょぼコン\n\n**Alt. names**:\nSyobocon\nShobokon\n\n**Members**:\n[Kitamura Tooru](https://mangadex.org/author/761c5714-69e8-461b-8d7f-a3d4a5bc5143)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=12533",
+    "name": "Shobocon (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-03-07T11:24:38+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "761c5714-69e8-461b-8d7f-a3d4a5bc5143",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: きたむらとおる \n\n**Circle name**: [Shobocon](https://mangadex.org/author/30a8b4f4-bc4d-40b5-a879-0affe1a4932c) (しょぼコン)\n\n**Alt. names**:\nKitamuratooru"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kitamura Tooru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/831544",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tooru1001",
+    "updatedAt": "2024-03-07T07:39:07+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5dfe6ed7-083f-4fef-b8aa-46f77b5755db",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-27T08:46:27+00:00",
+    "description": "",
+    "fileName": "dc85e399-2595-44c8-8392-f8da61da082d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-27T08:46:45+00:00",
+    "version": 2,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "6557783f-6a60-447f-a08e-644fdd8cb5d9",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,19 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Nail-chan to Fukadzume-san.: Maji de Riako na Watashitachi hen"
+   "en": "Nail-chan to Fukazume-san. Maji de Riako na Watashi-tachi-hen"
   },
   "altTitles": [
    {
     "ja": "ネイルちゃんと深爪さん。 マジでリアコな私たち編"
    },
    {
-    "en": "Nail and Fukazume. We are real and in love"
+    "en": "Nail and Fukazume. We are Really Real and in Love"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "The first volume of the *Nail and Fukazume* series."
+  },
   "links": {
-   "amz": "https://www.amazon.co.jp/dp/B08LN4NV4N/"
+   "amz": "https://www.amazon.co.jp/dp/B08LN4NV4N/",
+   "bw": "de72551614-95ef-4c2a-9e07-1e795065e4a3",
+   "mu": "y59g003"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -27,10 +31,36 @@
    "ko"
   ],
   "latestUploadedChapter": "c791138d-3084-4a58-9647-d25626e8cf63",
+  "tags": [
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2023-11-26T00:45:00+00:00",
-  "updatedAt": "2023-11-26T00:45:22+00:00"
+  "updatedAt": "2024-10-28T00:02:30+00:00"
  },
  "relationships": [
   {

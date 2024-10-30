@@ -11,7 +11,7 @@
     "en": "Kono Oto Tomare!"
    },
    "contentRating": "safe",
-   "score": 0.29293,
+   "score": 0.2929327,
    "languages": [
     "fr",
     "vi",
@@ -30,9 +30,10 @@
     "en": "Wakaba-sanchi no Aoi Koi"
    },
    "contentRating": "safe",
-   "score": 0.28915507,
+   "score": 0.28917685,
    "languages": [
-    "en"
+    "en",
+    "vi"
    ]
   },
   {
@@ -41,7 +42,7 @@
     "en": "Hoshi ni Negai wo"
    },
    "contentRating": "safe",
-   "score": 0.2804341,
+   "score": 0.28047612,
    "languages": [
     "en",
     "pl",
@@ -57,7 +58,7 @@
     "en": "Asaoka High School Baseball Team Journal - Over Fence"
    },
    "contentRating": "safe",
-   "score": 0.27391088,
+   "score": 0.2739091,
    "languages": [
     "it",
     "pt-br",
@@ -70,7 +71,7 @@
     "en": "Show-ha Shou-ten!"
    },
    "contentRating": "safe",
-   "score": 0.273435,
+   "score": 0.27344808,
    "languages": [
     "zh-hk",
     "en"
@@ -82,7 +83,7 @@
     "en": "Kaoru Hana wa Rin to Saku"
    },
    "contentRating": "safe",
-   "score": 0.27277833,
+   "score": 0.27263275,
    "languages": [
     "pt-br",
     "ru",
@@ -97,12 +98,30 @@
    ]
   },
   {
+   "id": "3da96505-f8e8-49d5-8c26-fbe4786a897f",
+   "title": {
+    "en": "Make Heroine ga Oosugiru! @comic"
+   },
+   "contentRating": "safe",
+   "score": 0.27124238,
+   "languages": [
+    "en",
+    "es-la",
+    "id",
+    "vi",
+    "ru",
+    "pt-br",
+    "fr",
+    "es"
+   ]
+  },
+  {
    "id": "0a4bdf95-dc11-4011-937e-7bdc4dd6e786",
    "title": {
     "en": "Mayonaka Heart Tune"
    },
    "contentRating": "safe",
-   "score": 0.26986432,
+   "score": 0.2698717,
    "languages": [
     "en",
     "ru",
@@ -119,7 +138,7 @@
     "en": "\"Bungaku Shoujo\" to Ue Kawaku Yuurei"
    },
    "contentRating": "safe",
-   "score": 0.26967642,
+   "score": 0.2696825,
    "languages": [
     "en",
     "vi"
@@ -131,7 +150,7 @@
     "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
    },
    "contentRating": "safe",
-   "score": 0.2678376,
+   "score": 0.2678259,
    "languages": [
     "en",
     "pt-br",
@@ -150,57 +169,9 @@
     "en": "One Piece in Love"
    },
    "contentRating": "safe",
-   "score": 0.26645225,
+   "score": 0.26646525,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "38179337-1640-4927-8851-9bedd8d19e82",
-   "title": {
-    "en": "Shiotaiou no Sato-san ga Ore ni dake Amai"
-   },
-   "contentRating": "safe",
-   "score": 0.26150388,
-   "languages": [
-    "en",
-    "id",
-    "pt-br",
-    "es-la",
-    "vi",
-    "ar"
-   ]
-  },
-  {
-   "id": "12311367-3e5c-416e-9e26-29d8f5c30050",
-   "title": {
-    "en": "School Back"
-   },
-   "contentRating": "safe",
-   "score": 0.2614489,
-   "languages": [
-    "vi",
-    "es-la",
-    "pt-br",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
-   "title": {
-    "en": "My Clueless First Friend"
-   },
-   "contentRating": "safe",
-   "score": 0.26074198,
-   "languages": [
-    "en",
-    "uk",
-    "pt-br",
-    "vi",
-    "id",
-    "es-la",
-    "ru"
    ]
   },
   {
@@ -209,7 +180,7 @@
     "en": "Blue Box"
    },
    "contentRating": "safe",
-   "score": 0.26066303,
+   "score": 0.26268455,
    "languages": [
     "vi",
     "es-la",
@@ -231,35 +202,66 @@
    ]
   },
   {
+   "id": "38179337-1640-4927-8851-9bedd8d19e82",
+   "title": {
+    "en": "Shiotaiou no Sato-san ga Ore ni dake Amai"
+   },
+   "contentRating": "safe",
+   "score": 0.26151216,
+   "languages": [
+    "en",
+    "id",
+    "pt-br",
+    "es-la",
+    "vi",
+    "ar"
+   ]
+  },
+  {
+   "id": "12311367-3e5c-416e-9e26-29d8f5c30050",
+   "title": {
+    "en": "School Back"
+   },
+   "contentRating": "safe",
+   "score": 0.26145265,
+   "languages": [
+    "vi",
+    "es-la",
+    "pt-br",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
+   "title": {
+    "en": "My Clueless First Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.26074862,
+   "languages": [
+    "en",
+    "uk",
+    "pt-br",
+    "ru",
+    "vi",
+    "id",
+    "es-la"
+   ]
+  },
+  {
    "id": "c1cf1700-3f87-4b29-89f2-d89d58307830",
    "title": {
     "en": "Idol A"
    },
    "contentRating": "safe",
-   "score": 0.2581956,
+   "score": 0.2581837,
    "languages": [
     "pt-br",
     "en",
     "pl"
    ]
-  },
-  {
-   "id": "32252a48-b20a-4a1d-b1b0-b46679bbae47",
-   "title": {
-    "en": "Shimotsuki-san wa Mobu ga Suki ~Hitomishiri na Kanojo wa Ore ni Dake Dere Amai~"
-   },
-   "contentRating": "safe",
-   "score": 0.25613484,
-   "languages": [
-    "id",
-    "es-la",
-    "en",
-    "pl",
-    "uk",
-    "vi",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2024-10-21T20:18:37+00:00"
+ "updatedAt": "2024-10-29T19:19:48+00:00"
 }

@@ -1,0 +1,188 @@
+{
+ "id": "657eb7e8-5ebd-4d5c-904f-d65511cf31fe",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Fingers"
+  },
+  "altTitles": [
+   {
+    "ko": "핑거스"
+   }
+  ],
+  "description": {
+   "en": "One finger in exchange for one hint -- this is the price to pay to solve the puzzle. Eight creators of an entertainment news app find themselves in a locked room after a drunken party to celebrate their success. They’re given a puzzle to solve by 7 AM the next morning, or else everyone dies. However, solving the puzzle isn’t easy. They’re desperately in need of hints, but at the cost of cutting off their fingers. Who is their mysterious assailant and can they escape in time?"
+  },
+  "links": {
+   "engtl": "https://www.webtoons.com/en/thriller/fingers/list?title_no=4674",
+   "mu": "pdtltrt",
+   "raw": "https://series.naver.com/comic/detail.series?productNo=6006441"
+  },
+  "originalLanguage": "ko",
+  "lastChapter": "44",
+  "status": "completed",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-25T07:12:55+00:00",
+  "updatedAt": "2024-10-26T07:00:05+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e69ab589-159b-4c6f-a5d4-2bd0c0bd19b3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T07:10:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sseoljag",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T07:10:15+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "062bb951-3811-434a-b0e7-3a1473af8261",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-12-01T11:43:16+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Park Jeong Sik",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-12-01T11:43:16+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d4c63633-f61d-453e-af28-ff0b24d67f69",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-25T08:03:33+00:00",
+    "description": "",
+    "fileName": "b9b855ab-09a1-4142-b08c-760cebde0004.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-10-25T08:03:33+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "59ae7314-9903-49f6-bff9-e2f2ded72438",
+   "type": "creator"
+  }
+ ]
+}

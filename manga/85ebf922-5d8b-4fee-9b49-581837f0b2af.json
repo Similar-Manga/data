@@ -31,15 +31,16 @@
    "amz": "https://www.amazon.co.jp/dp/B0981P4JKC",
    "ap": "karami-zakari-boku-no-honto-to-kimi-no-uso",
    "bw": "series/292731",
-   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD%3A14\u0026q=%E3%82%AB%E3%83%A9%E3%83%9F%E3%81%96%E3%81%8B%E3%82%8A+%E3%83%9C%E3%82%AF%E3%81%AE%E3%81%BB%E3%82%93%E3%81%A8%E3%81%A8%E5%90%9B%E3%81%AE%E5%98%98\u0026order=reldesc\u0026opt.exclude_prx=on",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD:14\u0026q=カラミざかり+ボクのほんとと君の嘘\u0026order=reldesc\u0026opt.exclude_prx=on",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/627135/",
    "mal": "136753",
    "mu": "175927",
-   "raw": "https://yanmaga.jp/comics/%E3%82%AB%E3%83%A9%E3%83%9F%E3%81%96%E3%81%8B%E3%82%8A_%E3%83%9C%E3%82%AF%E3%81%AE%E3%81%BB%E3%82%93%E3%81%A8%E3%81%A8%E5%90%9B%E3%81%AE%E5%98%98"
+   "raw": "https://yanmaga.jp/comics/カラミざかり_ボクのほんとと君の嘘"
   },
   "originalLanguage": "ja",
   "lastVolume": "8",
   "lastChapter": "50.5",
+  "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2020,
   "contentRating": "erotica",
@@ -113,9 +114,9 @@
    }
   ],
   "state": "published",
-  "version": 27,
+  "version": 28,
   "createdAt": "2021-10-13T16:14:54+00:00",
-  "updatedAt": "2024-05-21T20:08:05+00:00"
+  "updatedAt": "2024-10-22T10:07:19+00:00"
  },
  "relationships": [
   {
@@ -182,6 +183,16 @@
     "version": 1,
     "volume": "8"
    }
+  },
+  {
+   "id": "57b4ca24-de23-472a-b63d-03a76d114b16",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "a081472f-6169-4c49-9e97-72068efd3bac",
+   "type": "manga",
+   "related": "alternate_story"
   },
   {
    "id": "e28dd697-d2b5-4f4c-980e-a744326ace7a",

@@ -8,14 +8,23 @@
   "altTitles": [
    {
     "ja": "ナイトライトハウンズ"
+   },
+   {
+    "ru": "Гончие Ночного Света"
+   },
+   {
+    "ru": "Гончие ночных огней"
    }
   ],
   "description": {
-   "en": "Jimmy is a gang member in one of the world's few underground cities, Silent Bay City. One day, he meets a girl and gets embroiled in a fight between the creatures of the night. Brought to you by the author of \"Levius\", Haruhisa Nakata, Night Light Hounds is a thrilling dark fantasy!"
+   "en": "Jimmy is a gang member in one of the world's few underground cities, Silent Bay City. One day, he meets a girl and gets embroiled in a fight between the creatures of the night. Brought to you by the author of \"Levius\", Haruhisa Nakata, Night Light Hounds is a thrilling dark fantasy!",
+   "ru": "Джимми — член банды в одном из нескольких городов, оккупированных подпольным бизнесом, — Сайлент Бэй Сити. Однажды он встречает девочку и попадает в битву между порождениями ночи."
   },
   "links": {
    "al": "182696",
+   "ap": "night-light-hounds",
    "engtl": "https://mangaplus.shueisha.co.jp/titles/100374",
+   "kt": "night-light-hounds",
    "mal": "175401",
    "mu": "v5dcaz1",
    "raw": "https://shonenjumpplus.com/episode/17106567255948777695"
@@ -26,10 +35,12 @@
   "year": 2024,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
+   "ru",
    "en",
+   "id",
    "vi"
   ],
-  "latestUploadedChapter": "d5706d3d-da66-49ab-af86-f275d0be1617",
+  "latestUploadedChapter": "53d2a8c3-1a56-4afc-801c-7e35f30bb2ac",
   "tags": [
    {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
@@ -78,12 +89,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 9,
   "createdAt": "2024-10-18T12:16:31+00:00",
-  "updatedAt": "2024-10-19T04:53:30+00:00"
+  "updatedAt": "2024-10-28T09:02:52+00:00"
  },
  "relationships": [
   {

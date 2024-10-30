@@ -14,18 +14,21 @@
    }
   ],
   "description": {
-   "en": "A common scene. A person dies, their soul sent to the great beyond. A goddess plucks it from the ether and offers a deal - she will send the soul to another world she has created. She will also bequeath the human with skills that are so powerful they could be considered cheats. The goddess only asks for one thing in return: that they use their special powers to save her world from destruction. \n\nThe soul is summoned to another world and given the powers of a demigod. And as power corrupts, so too do the summoned humans abuse their abilities for wanton greed and violence. \n\nZyzz is a slave of one such otherworlder, who voluntarily became his servant to search for his sister. Then one day, he meets Kaina, a woman who calls herself the “last summoned person”, who was hand-picked by the goddess to eat those who have reneged on their promises… \n\nThe newest work from the author of Corpse Princess."
+   "en": "A common scene. A person dies, their soul sent to the great beyond. A goddess plucks it from the ether and offers a deal - she will send the soul to another world she has created. She will also bequeath the human with skills that are so powerful they could be considered cheats. The goddess only asks for one thing in return: that they use their special powers to save her world from destruction. \n\nThe soul is summoned to another world and given the powers of a demigod. And as power corrupts, so too do the summoned humans abuse their abilities for wanton greed and violence. \n\nZyzz is a slave of one such otherworlder, who voluntarily became his servant to search for his sister. Then one day, he meets Kaina, a woman who calls herself the \"last summoned person\", who was hand-picked by the goddess to eat those who have reneged on their promises...",
+   "ja": "女神によって異世界から喚ばれた召喚者たち。彼らはチートスキルと呼ばれる人知を越えた能力を授かり、来るべき「滅び」から世界を救うため闘うかに思われた・・・。だが彼らはそのチートスキルを私利私欲に使い、人々を虐げ、世界をより混沌へと誘っていってしまう・・・。そんなチート召喚者たちの対抗策として女神が喚んだのは、「最後の召喚者」カイナだった・・・！？"
   },
   "links": {
    "al": "150308",
-   "amz": "https://www.amazon.co.jp/dp/B09TL823H2",
+   "amz": "https://www.amazon.co.jp/dp/B0B77GKJJQ",
    "ap": "cheat-eater-isekai-shoukan-kotogotoku-horobubeshi",
-   "bw": "series/345743/list",
+   "bw": "series/345743",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/687688/",
    "mal": "170163",
    "mu": "199497",
    "raw": "https://storia.takeshobo.co.jp/manga/cheateater/"
   },
   "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2021,
   "contentRating": "suggestive",
@@ -43,6 +46,18 @@
     "attributes": {
      "name": {
       "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
      },
      "description": {},
      "group": "genre",
@@ -72,12 +87,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 11,
   "createdAt": "2022-04-03T17:41:32+00:00",
-  "updatedAt": "2024-05-14T21:34:12+00:00"
+  "updatedAt": "2024-10-23T22:13:40+00:00"
  },
  "relationships": [
   {
@@ -133,16 +160,16 @@
    }
   },
   {
-   "id": "42def5a3-5f97-40a1-a810-5bbef57b7cf6",
+   "id": "12704e14-9901-4530-8370-91708ba72ca3",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-05-06T17:46:18+00:00",
+    "createdAt": "2024-10-23T22:13:40+00:00",
     "description": "",
-    "fileName": "2f360041-6ebe-4dd1-8731-037dc6207b66.jpg",
+    "fileName": "5eef513b-405a-4b69-8ae3-3b31ac046bd6.jpg",
     "locale": "ja",
-    "updatedAt": "2023-05-06T17:46:18+00:00",
+    "updatedAt": "2024-10-23T22:13:40+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "4"
    }
   },
   {

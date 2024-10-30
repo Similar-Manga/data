@@ -11,7 +11,7 @@
     "en": "Itonami Itonamezu"
    },
    "contentRating": "suggestive",
-   "score": 0.26506737,
+   "score": 0.26863447,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "Now That We Draw"
    },
    "contentRating": "suggestive",
-   "score": 0.26339152,
+   "score": 0.2633979,
    "languages": [
     "es-la",
     "id",
@@ -40,12 +40,12 @@
     "en": "Shingeki no Eroko-san ~Hen na Oneesan wa Danshikousei to Nakayoku Naritai~"
    },
    "contentRating": "suggestive",
-   "score": 0.26218018,
+   "score": 0.26217502,
    "languages": [
+    "vi",
     "en",
     "pt-br",
     "es-la",
-    "vi",
     "fr"
    ]
   },
@@ -55,7 +55,7 @@
     "en": "Kannou Sensei"
    },
    "contentRating": "suggestive",
-   "score": 0.25911096,
+   "score": 0.25910747,
    "languages": [
     "es-la",
     "pt-br",
@@ -68,9 +68,34 @@
     "en": "Shizuto-kun no Hajimete, Ubatte shimaimashita"
    },
    "contentRating": "suggestive",
-   "score": 0.25769186,
+   "score": 0.25767958,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a799cead-c82b-458c-8f1c-6bc19577bda6",
+   "title": {
+    "en": "Osananajimi no Koukousei no Aida ni Nikutai Kankei wa Seiritsu suru ka."
+   },
+   "contentRating": "suggestive",
+   "score": 0.25509605,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "7c34b0ca-86c9-4806-928a-e943a6b227a8",
+   "title": {
+    "en": "Akumade Kujaku no Hanashi desu."
+   },
+   "contentRating": "suggestive",
+   "score": 0.25509605,
+   "languages": [
+    "es-la"
    ]
   },
   {
@@ -86,30 +111,6 @@
     "pt-br",
     "ru",
     "id"
-   ]
-  },
-  {
-   "id": "a799cead-c82b-458c-8f1c-6bc19577bda6",
-   "title": {
-    "en": "Osananajimi no Koukousei no Aida ni Nikutai Kankei wa Seiritsu suru ka."
-   },
-   "contentRating": "suggestive",
-   "score": 0.25509605,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "ru"
-   ]
-  },
-  {
-   "id": "7c34b0ca-86c9-4806-928a-e943a6b227a8",
-   "title": {
-    "en": "Akumade Kujaku no Hanashi desu."
-   },
-   "contentRating": "suggestive",
-   "score": 0.25509605,
-   "languages": [
-    "es-la"
    ]
   },
   {
@@ -131,40 +132,9 @@
     "en": "My Home Mirano"
    },
    "contentRating": "suggestive",
-   "score": 0.25174254,
+   "score": 0.25174743,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "ab7aef75-57a7-4304-bd5b-c5599f98054a",
-   "title": {
-    "en": "Tsuma ga Kanpeki Sugiru node, Chotto Ran Shite Ī Desu ka?"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24983473,
-   "languages": [
-    "es-la",
-    "vi",
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "30f33cd0-a65b-4b13-a660-bee2940bc551",
-   "title": {
-    "en": "Henjo ~Hen na Joshi Kousei Amaguri Senko~"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24983473,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi",
-    "fr",
-    "hu",
-    "tr",
-    "id"
    ]
   },
   {
@@ -193,30 +163,61 @@
    ]
   },
   {
-   "id": "e63fc981-7fd2-469d-9d89-a1bbb0b609b4",
-   "title": {
-    "en": "Oku-san"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24983473,
-   "languages": [
-    "en",
-    "de",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
    "id": "c8e3ef99-430a-4ac5-8a38-8907f4048494",
    "title": {
-    "en": "Dark Twilight Sanctuary"
+    "en": "Meimeimeishoku Sanctuary"
    },
    "contentRating": "suggestive",
    "score": 0.24983473,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "ab7aef75-57a7-4304-bd5b-c5599f98054a",
+   "title": {
+    "en": "Tsuma ga Kanpeki sugiru no de, Chotto Midashite Ii desu ka?"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24983473,
+   "languages": [
+    "es-la",
+    "vi",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "30f33cd0-a65b-4b13-a660-bee2940bc551",
+   "title": {
+    "en": "Henjo ~Hen na Joshi Kousei Amaguri Senko~"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24983473,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi",
+    "fr",
+    "hu",
+    "tr",
+    "id"
+   ]
+  },
+  {
+   "id": "a316c12d-3d43-4ebd-8bde-9f744dd83831",
+   "title": {
+    "en": "Koibito Ijou no Koto wo, Kanojo Janai Kimi to"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24638642,
+   "languages": [
+    "es-la",
+    "en",
+    "id",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2024-10-21T20:06:16+00:00"
+ "updatedAt": "2024-10-29T19:06:23+00:00"
 }

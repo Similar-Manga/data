@@ -33,7 +33,9 @@
   },
   "links": {
    "al": "43084",
+   "amz": "https://www.amazon.co.jp/dp/B076DCZL2Z",
    "ap": "artist-acro",
+   "bw": "series/128942",
    "kt": "23658",
    "mal": "13084",
    "mu": "33225"
@@ -100,9 +102,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2018-03-21T06:55:32+00:00",
-  "updatedAt": "2023-01-08T21:47:10+00:00"
+  "updatedAt": "2024-10-28T14:12:34+00:00"
  },
  "relationships": [
   {
@@ -162,16 +164,16 @@
    }
   },
   {
-   "id": "59966de8-905e-4f28-bda0-118e237a547f",
+   "id": "1bafb390-205f-44da-89bd-8089c2d82905",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:21:26+00:00",
-    "description": "",
-    "fileName": "7cd7f58a-e191-4743-bf13-a9bb614232fe.png",
+    "createdAt": "2024-10-28T14:12:32+00:00",
+    "description": "Format:  Shinshoban\r\nImprint: Shounen Sunday Comics\r\nPublisher: Shogakukan\r\nYear: 2009",
+    "fileName": "c8d19dcf-4d4f-443c-b14c-58995c6c6c5f.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:21:26+00:00",
+    "updatedAt": "2024-10-28T14:12:32+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

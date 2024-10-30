@@ -3,23 +3,30 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Karamizakari Re: Reincarnated as a bald DT"
+   "en": "Karami Zakari Re: Tensei Shitara Bouzudatta DT"
   },
   "altTitles": [
    {
-    "en": "Karamizakari Re: Reincarnated as a bald alpha male"
-   },
-   {
-    "ja-ro": "Karami-zakari Re: Tensei shitara bōzudatta DT"
-   },
-   {
     "ja": "カラミざかりRe: 転生したら坊主だったDT"
+   },
+   {
+    "ja-ro": "Karami Zakari Re: Reborn Shitara Bouzudatta Doutei"
+   },
+   {
+    "en": "Entanglement Re: A Male Virgin Reincarnated as the Boy with the Shaved Head"
+   },
+   {
+    "en": "Karamizakari Re: The Male Virgin Who Got Reincarnated as the Bald Guy"
    }
   ],
   "description": {
-   "en": "The second spin-off from Young Magazine of the monumental adult doujinshi manga \"Karamizakari\"! The protagonist this time is Takeshi, a virgin college student who is an avid reader of \"Karamizakari\". Takeshi tries to help a female college student who looks like Takeuchi-senpai who is being harassed by delinquents, but is beaten back and even hit by a truck. When he wakes up, he has been reincarnated as Takashi, the monk from \"Karamizakari\"! Although he is in the world of his beloved \"Karamizakari\", Takashi is one of the most promiscuous characters in the work..."
+   "en": "The protagonist this time is Takeshi, a male virgin college student who is an avid reader of Karami Zakari. A female college student who looks like Takeuchi-senpai from the manga is being accosted by hoodlums, and when Takeshi tries to help her, he gets the tables turned on him and worse, he gets hit by a truck. The next time Takeshi opens his eyes, he has been reincarnated as Takashi, the boy with the shaved head from Karami Zakari! And within the world of his beloved Karami Zakari, it's known that Takashi will become one of the most promiscuous characters in it...",
+   "ja": "成人向け同人漫画の金字塔『カラミざかり』のヤンマガ発スピンオフ第2弾‼ 今度の主人公は『カラミざかり』を愛読する童貞大学生タケシ。不良に絡まれる竹内先輩似の女子大生を助けようとしたタケシは、返り討ちに会い、さらにはトラックに引かれ――。目を覚ますと彼は、『カラミざかり』の坊主こと貴史に転生していた！愛する『カラミざかり』の世界ではあるものの、貴史といえば作中屈指のヤリチンキャラで……。"
   },
   "links": {
+   "al": "182559",
+   "amz": "https://www.amazon.co.jp/dp/4065379989",
+   "mu": "y92m06c",
    "raw": "https://yanmaga.jp/comics/カラミざかRe_転生したら坊主だったDT"
   },
   "originalLanguage": "ja",
@@ -77,18 +84,6 @@
     }
    },
    {
-    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Harem"
-     },
-     "description": {},
-     "group": "theme",
-     "version": 1
-    }
-   },
-   {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
@@ -101,34 +96,22 @@
     }
    },
    {
-    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Fantasy"
+      "en": "Supernatural"
      },
      "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Slice of Life"
-     },
-     "description": {},
-     "group": "genre",
+     "group": "theme",
      "version": 1
     }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 22,
   "createdAt": "2024-10-20T05:44:42+00:00",
-  "updatedAt": "2024-10-20T17:00:07+00:00"
+  "updatedAt": "2024-10-25T16:47:46+00:00"
  },
  "relationships": [
   {
@@ -168,7 +151,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Hajime Seiryu",
+    "name": "Seiryuu Hajime",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -176,86 +159,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-20T05:40:47+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "7d6f3c4e-9bc7-41f5-8ccb-9c622ec8abb7",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2024-10-20T05:38:56+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Sakamoto Akami",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-20T05:38:56+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "243c94d4-09d5-4f4d-bc2c-65535659f8eb",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-10-13T16:13:25+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Katsura Airi",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/2078750",
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/airikatsura",
-    "updatedAt": "2022-08-16T20:22:14+00:00",
-    "version": 4,
-    "website": "https://airi-k.wixsite.com/airikatsura",
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "3d7c9d28-ab8e-418f-a3c7-27fc21d006e9",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2024-10-20T05:40:47+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Hajime Seiryu",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-20T05:40:47+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-22T09:19:41+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -299,6 +204,11 @@
     "version": 1,
     "volume": "0"
    }
+  },
+  {
+   "id": "e28dd697-d2b5-4f4c-980e-a744326ace7a",
+   "type": "manga",
+   "related": "adapted_from"
   },
   {
    "id": "3e321797-e9cf-4a93-8483-761c733b8066",

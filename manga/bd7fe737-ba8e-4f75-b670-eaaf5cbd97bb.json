@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Mahou Shoujo Madoka Magica - Onayami Akuma to Kawaranu Futari (Doujinshi)"
+   "en": "Mahou Shoujo Madoka Magica - Onayami Akuma to Kawaranu Futari. (Doujinshi)"
   },
   "altTitles": [
    {
-    "ja": "お悩み悪魔と変わらぬふたり(魔法少女まどか☆マギカ)"
+    "ja": "お悩み悪魔と変わらぬふたり。(魔法少女まどか☆マギカ)"
    },
    {
-    "en": "Puella Magi Madoka Magica - Devil's Worries and the Unchanging Duo (Doujinshi)"
+    "en": "Puella Magi Madoka Magica - Devil's Worries and the Unchanging Duo. (Doujinshi)"
    }
   ],
   "description": {},
@@ -20,6 +20,7 @@
   },
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2015,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
@@ -88,9 +89,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-10-09T11:10:23+00:00",
-  "updatedAt": "2024-10-09T19:59:46+00:00"
+  "updatedAt": "2024-10-22T00:31:03+00:00"
  },
  "relationships": [
   {
@@ -108,12 +109,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/388188",
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-21T22:10:11+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -160,12 +161,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/388188",
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-21T22:10:11+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -209,6 +210,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "020dc431-58d2-4a31-9221-b26b2dce149d",
+   "type": "manga",
+   "related": "based_on"
   },
   {
    "id": "3c236770-0ee0-4669-9840-f86d77f06b9a",

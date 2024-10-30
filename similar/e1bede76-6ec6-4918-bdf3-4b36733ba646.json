@@ -6,17 +6,6 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "dab0f51c-9858-41bd-9087-dbe729cc55c0",
-   "title": {
-    "en": "Hen-Zemi"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e31b62b8-68ec-4bb6-bf7e-33db5be5e0b0",
    "title": {
     "en": "Boku no Suki na Hito ga Suki na Hito"
@@ -30,6 +19,17 @@
     "vi",
     "th",
     "ru"
+   ]
+  },
+  {
+   "id": "dab0f51c-9858-41bd-9087-dbe729cc55c0",
+   "title": {
+    "en": "Hen-Zemi"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -49,7 +49,7 @@
     "en": "Love Class (Pre-Serialization)"
    },
    "contentRating": "suggestive",
-   "score": 0.28281245,
+   "score": 0.28281835,
    "languages": [
     "es-la"
    ]
@@ -60,20 +60,9 @@
     "en": "Hakui no Kanojo (Pre-Serialization)"
    },
    "contentRating": "suggestive",
-   "score": 0.26720485,
+   "score": 0.26718304,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "4fd133cf-e8e9-4456-be34-01954efc5eaa",
-   "title": {
-    "en": "Tacchan, Who Will You Pick?"
-   },
-   "contentRating": "suggestive",
-   "score": 0.25820795,
-   "languages": [
-    "es-la"
    ]
   },
   {
@@ -82,10 +71,21 @@
     "en": "Yoshida Lemon Drops"
    },
    "contentRating": "suggestive",
-   "score": 0.25726366,
+   "score": 0.257273,
    "languages": [
     "es-la",
     "en"
+   ]
+  },
+  {
+   "id": "4fd133cf-e8e9-4456-be34-01954efc5eaa",
+   "title": {
+    "en": "Tacchan, Docchi Toru?"
+   },
+   "contentRating": "suggestive",
+   "score": 0.25672874,
+   "languages": [
+    "es-la"
    ]
   },
   {
@@ -94,12 +94,12 @@
     "en": "Grand Blue Dreaming"
    },
    "contentRating": "suggestive",
-   "score": 0.25604433,
+   "score": 0.25604242,
    "languages": [
+    "vi",
     "pt-br",
     "en",
     "ro",
-    "vi",
     "ru",
     "fa",
     "it",
@@ -115,7 +115,7 @@
     "en": "Boku wo Shirita Sugiru Shimizu-san"
    },
    "contentRating": "suggestive",
-   "score": 0.25367406,
+   "score": 0.2536756,
    "languages": [
     "en",
     "pt-br",
@@ -130,7 +130,7 @@
     "en": "Classroom of the Elite"
    },
    "contentRating": "suggestive",
-   "score": 0.24896844,
+   "score": 0.2490191,
    "languages": [
     "it",
     "en",
@@ -155,18 +155,21 @@
    ]
   },
   {
-   "id": "cb98bd40-a903-4416-bdd0-dab93d8f36ad",
+   "id": "d422ddc8-eea3-4b0a-82a4-291bbd8c9285",
    "title": {
-    "en": "R15+ Ja Dame Desuka?"
+    "en": "The Shiunji Family Children"
    },
    "contentRating": "suggestive",
    "score": 0.24743582,
    "languages": [
-    "en",
     "pt-br",
-    "pl",
+    "fr",
+    "es-la",
+    "en",
+    "ar",
+    "vi",
     "ru",
-    "vi"
+    "es"
    ]
   },
   {
@@ -181,32 +184,6 @@
    ]
   },
   {
-   "id": "0c760cc8-24f2-429c-8b16-e72befe4e862",
-   "title": {
-    "en": "Maria Sensei wa Imouto Gachizei!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8c701f22-8ef9-4b0d-ae4e-0e17ac3cd074",
-   "title": {
-    "en": "Nanjou-san wa Boku ni Dakaretai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "vi",
-    "pl",
-    "it",
-    "id"
-   ]
-  },
-  {
    "id": "7e1ce208-6ff6-4a9f-bd19-7d956b592cd5",
    "title": {
     "en": "Yumegahara-san wa Yumemigachi!"
@@ -216,7 +193,38 @@
    "languages": [
     "vi"
    ]
+  },
+  {
+   "id": "9b78663c-850f-434b-8b33-d88d43cc3151",
+   "title": {
+    "en": "Arakure Ojousama wa Monmon Shiteiru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "ru",
+    "id",
+    "en",
+    "vi",
+    "de"
+   ]
+  },
+  {
+   "id": "cb98bd40-a903-4416-bdd0-dab93d8f36ad",
+   "title": {
+    "en": "R15+ Ja Dame Desuka?"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl",
+    "ru",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2024-10-21T21:19:38+00:00"
+ "updatedAt": "2024-10-29T20:27:06+00:00"
 }

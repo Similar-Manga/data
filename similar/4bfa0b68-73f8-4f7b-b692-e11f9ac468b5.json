@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e3a2a97b-d32e-4333-a293-991ea3f4ffce",
+   "title": {
+    "en": "My Koshien"
+   },
+   "contentRating": "safe",
+   "score": 0.31395268
+  },
+  {
    "id": "13c383df-ac2e-498f-9190-cd5d59781ec8",
    "title": {
     "en": "Seishun Dissonance"
    },
    "contentRating": "safe",
-   "score": 0.30953795
+   "score": 0.30968106
   },
   {
    "id": "5c6d6932-8d7e-40c3-b92d-1652b8211864",
@@ -19,7 +27,7 @@
     "en": "Mushoku no Gakkou - Shokugyou Kunrenkou de no 200-kakan"
    },
    "contentRating": "safe",
-   "score": 0.3069678
+   "score": 0.30698285
   },
   {
    "id": "f3debf0b-cc75-4827-a554-e517e8f1560b",
@@ -27,7 +35,7 @@
     "en": "Alice, Dokomademo"
    },
    "contentRating": "safe",
-   "score": 0.30603823
+   "score": 0.30604237
   },
   {
    "id": "85e701c4-f832-41d7-8c9d-2718ebe191b0",
@@ -35,15 +43,7 @@
     "en": "Gin no Kuni"
    },
    "contentRating": "safe",
-   "score": 0.30492824
-  },
-  {
-   "id": "0b858141-95c8-4973-9d2a-71be1eb80a8c",
-   "title": {
-    "en": "Mekuri, Meguru"
-   },
-   "contentRating": "safe",
-   "score": 0.30434972
+   "score": 0.30492663
   },
   {
    "id": "2683ac56-bf14-4b7f-8e24-c7382cae04ac",
@@ -51,7 +51,7 @@
     "en": "Become You"
    },
    "contentRating": "safe",
-   "score": 0.30280417
+   "score": 0.30277053
   },
   {
    "id": "c6934407-0eda-4a4f-a5ae-edfb9b48aa1f",
@@ -59,7 +59,15 @@
     "en": "Shokugyou, Nisemono - Anata ni Nise wa Minukenai"
    },
    "contentRating": "safe",
-   "score": 0.30130062
+   "score": 0.30136836
+  },
+  {
+   "id": "0b858141-95c8-4973-9d2a-71be1eb80a8c",
+   "title": {
+    "en": "Mekuri, Meguru"
+   },
+   "contentRating": "safe",
+   "score": 0.30009326
   },
   {
    "id": "8c8a2f80-6682-4f22-b645-7d4dce3140df",
@@ -67,15 +75,7 @@
     "en": "Riot"
    },
    "contentRating": "safe",
-   "score": 0.29489836
-  },
-  {
-   "id": "97179e01-f407-46c0-9021-8373d5f58068",
-   "title": {
-    "en": "Bara-mura e Youkoso"
-   },
-   "contentRating": "safe",
-   "score": 0.29394004
+   "score": 0.2949042
   },
   {
    "id": "279d7e00-1178-4d58-86c7-2ac0c099353f",
@@ -83,19 +83,27 @@
     "en": "Hitohira"
    },
    "contentRating": "safe",
-   "score": 0.2925921,
+   "score": 0.29259646,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "e3a2a97b-d32e-4333-a293-991ea3f4ffce",
+   "id": "97179e01-f407-46c0-9021-8373d5f58068",
    "title": {
-    "en": "My Koshien"
+    "en": "Bara-mura e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.2916165
+   "score": 0.289929
+  },
+  {
+   "id": "6d48176d-f1f9-4a84-877f-a2b0c24a7c4f",
+   "title": {
+    "en": "Sarracenia"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
   },
   {
    "id": "6b804c1a-2d85-4f09-b6ca-8b109e0191e6",
@@ -121,14 +129,6 @@
    "score": 0.2851258
   },
   {
-   "id": "6d48176d-f1f9-4a84-877f-a2b0c24a7c4f",
-   "title": {
-    "en": "Sarracenia"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258
-  },
-  {
    "id": "4a191ad3-e790-4aa5-ab63-0e0ba1fd39cc",
    "title": {
     "en": "Dou ni mo Kou ni mo"
@@ -145,5 +145,5 @@
    "score": 0.2851258
   }
  ],
- "updatedAt": "2024-10-21T20:21:02+00:00"
+ "updatedAt": "2024-10-29T19:22:41+00:00"
 }

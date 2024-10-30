@@ -11,7 +11,7 @@
     "en": "Shinomiya Kouta wa Mada Shinenai -Border of the Dead-"
    },
    "contentRating": "safe",
-   "score": 0.40143728,
+   "score": 0.40093789,
    "languages": [
     "en",
     "vi"
@@ -20,10 +20,10 @@
   {
    "id": "fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8",
    "title": {
-    "en": "On the Balcony Again Today"
+    "en": "Kyou mo Veranda de"
    },
    "contentRating": "safe",
-   "score": 0.32759017,
+   "score": 0.32313195,
    "languages": [
     "vi",
     "en",
@@ -40,7 +40,7 @@
     "en": "Minami-ke"
    },
    "contentRating": "safe",
-   "score": 0.32180315,
+   "score": 0.3218401,
    "languages": [
     "fr",
     "pt-br",
@@ -59,7 +59,18 @@
     "en": "Uchi no Chiisa na Jochuu-san"
    },
    "contentRating": "safe",
-   "score": 0.32095397
+   "score": 0.32098848
+  },
+  {
+   "id": "ff299f33-10a6-44c7-a58f-0fb99bf5410f",
+   "title": {
+    "en": "Today Is My Death Day"
+   },
+   "contentRating": "safe",
+   "score": 0.31668863,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "4000a5d1-e97a-4654-8732-1821b31c5747",
@@ -67,7 +78,7 @@
     "en": "Luna Heights"
    },
    "contentRating": "safe",
-   "score": 0.31284994
+   "score": 0.3128784
   },
   {
    "id": "b34f25c1-048d-49de-b8da-d2cc0b122566",
@@ -75,7 +86,7 @@
     "en": "Emiya-san Chi no Kyou no Gohan"
    },
    "contentRating": "safe",
-   "score": 0.31125796,
+   "score": 0.31125244,
    "languages": [
     "fr",
     "en",
@@ -89,20 +100,9 @@
     "en": "Misojibyou no Uta"
    },
    "contentRating": "safe",
-   "score": 0.30922583,
+   "score": 0.3092183,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "ff299f33-10a6-44c7-a58f-0fb99bf5410f",
-   "title": {
-    "en": "Today Is My Death Day"
-   },
-   "contentRating": "safe",
-   "score": 0.30846396,
-   "languages": [
     "en"
    ]
   },
@@ -112,7 +112,7 @@
     "en": "Hazukashigariya no Tsuma to Shinkon Seikatsu Hajimemashita"
    },
    "contentRating": "safe",
-   "score": 0.30805928,
+   "score": 0.3080566,
    "languages": [
     "vi",
     "en",
@@ -126,7 +126,7 @@
     "en": "Citizen Ogre"
    },
    "contentRating": "safe",
-   "score": 0.3076763,
+   "score": 0.307701,
    "languages": [
     "en"
    ]
@@ -137,43 +137,11 @@
     "en": "Kyou wa Kanojo no Shinu Hi"
    },
    "contentRating": "safe",
-   "score": 0.30707112,
+   "score": 0.30706862,
    "languages": [
     "en",
     "es-la"
    ]
-  },
-  {
-   "id": "81271c9a-25d8-4b37-8151-b31f4c021221",
-   "title": {
-    "en": "Sansanroku"
-   },
-   "contentRating": "safe",
-   "score": 0.30605328
-  },
-  {
-   "id": "93121df6-5513-4960-9bdd-16892f2a58cb",
-   "title": {
-    "en": "From today onward, I'm Aoki-Kun"
-   },
-   "contentRating": "safe",
-   "score": 0.3059168
-  },
-  {
-   "id": "593c42c0-ea28-4c60-949d-0edc4654b820",
-   "title": {
-    "en": "Ane to Otouto ga Maamaa Nakayoku Kurasu Nichijou."
-   },
-   "contentRating": "safe",
-   "score": 0.30419067
-  },
-  {
-   "id": "4bfa0b68-73f8-4f7b-b692-e11f9ac468b5",
-   "title": {
-    "en": "Shiro no Sakana"
-   },
-   "contentRating": "safe",
-   "score": 0.30383316
   },
   {
    "id": "dcc32a02-3c63-4c19-9ea3-a992b5dd7968",
@@ -181,8 +149,43 @@
     "en": "The 461 Bento Boxes are a Promise Between a Father and his Son."
    },
    "contentRating": "safe",
-   "score": 0.30370733
+   "score": 0.30679178
+  },
+  {
+   "id": "81271c9a-25d8-4b37-8151-b31f4c021221",
+   "title": {
+    "en": "Sansanroku"
+   },
+   "contentRating": "safe",
+   "score": 0.30607435
+  },
+  {
+   "id": "93121df6-5513-4960-9bdd-16892f2a58cb",
+   "title": {
+    "en": "From today onward, I'm Aoki-Kun"
+   },
+   "contentRating": "safe",
+   "score": 0.30590972
+  },
+  {
+   "id": "593c42c0-ea28-4c60-949d-0edc4654b820",
+   "title": {
+    "en": "Ane to Otouto ga Maamaa Nakayoku Kurasu Nichijou."
+   },
+   "contentRating": "safe",
+   "score": 0.30418485
+  },
+  {
+   "id": "3365e784-dfac-40cd-86d0-6e7c51856155",
+   "title": {
+    "en": "Happy Happia!"
+   },
+   "contentRating": "safe",
+   "score": 0.30390427,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-10-21T20:35:16+00:00"
+ "updatedAt": "2024-10-29T19:38:11+00:00"
 }

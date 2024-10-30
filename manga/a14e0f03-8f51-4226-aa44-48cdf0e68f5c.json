@@ -49,7 +49,7 @@
    "id",
    "es-la"
   ],
-  "latestUploadedChapter": "dbfd2b9c-bf21-4138-a53d-b9a9460ade23",
+  "latestUploadedChapter": "85b40075-26bc-4c26-aa88-127009883dc0",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -148,6 +148,18 @@
     }
    },
    {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -185,9 +197,9 @@
    }
   ],
   "state": "published",
-  "version": 27,
+  "version": 28,
   "createdAt": "2023-01-23T18:49:45+00:00",
-  "updatedAt": "2024-08-26T05:32:23+00:00"
+  "updatedAt": "2024-10-26T08:21:50+00:00"
  },
  "relationships": [
   {

@@ -1,0 +1,118 @@
+{
+ "id": "081e42ab-5572-456b-967c-9fc9a50333ab",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Bara to Koroshiya"
+  },
+  "altTitles": [
+   {
+    "ja": "薔薇と殺し屋"
+   },
+   {
+    "en": "Rose and Killer"
+   }
+  ],
+  "description": {},
+  "links": {
+   "ap": "bara-to-koroshiya",
+   "mu": "7lgos7g",
+   "raw": "https://cheese.shogakukan.co.jp/category/mino_nozomi_003/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-24T19:39:09+00:00",
+  "updatedAt": "2024-10-24T19:39:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "cda64a54-4fcd-4aa5-9856-20f9f69e91ba",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mino Nozomi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cda64a54-4fcd-4aa5-9856-20f9f69e91ba",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mino Nozomi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "aa0b525c-f355-4fe6-89cd-e296796d33d2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-24T19:39:12+00:00",
+    "description": "",
+    "fileName": "ac1e65e8-96b0-4489-a76d-1e63a759e67e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-24T19:39:12+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "6640d5cb-18a0-4264-8c0a-9dcbe39be5ef",
+   "type": "creator"
+  }
+ ]
+}

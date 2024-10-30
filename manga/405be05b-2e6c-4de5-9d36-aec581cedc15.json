@@ -3,14 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Angel Delivery Service"
+   "en": "Tenshi Takkyuubin"
   },
   "altTitles": [
    {
-    "ja-ro": "Tenshi takkyūbin"
+    "ja": "天使宅急便"
    },
    {
-    "ja": "天使宅急便"
+    "ja-ro": "Tenshi Takkyūbin"
+   },
+   {
+    "en": "Angel Delivery Service"
    },
    {
     "id": "layanan pengiriman malaikat"
@@ -98,9 +101,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-09-29T11:14:02+00:00",
-  "updatedAt": "2024-09-30T01:28:48+00:00"
+  "updatedAt": "2024-10-21T10:52:00+00:00"
  },
  "relationships": [
   {

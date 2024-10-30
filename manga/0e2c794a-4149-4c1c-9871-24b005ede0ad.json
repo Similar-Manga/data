@@ -12,7 +12,7 @@
   ],
   "description": {},
   "links": {
-   "amz": "https://www.amazon.co.jp/%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E-%E3%81%82%E3%81%86%E3%81%A8%E3%81%A9%E3%81%82%E7%95%B0%E8%81%9E-%E5%88%80%E5%89%A3%E9%87%8E%E5%96%B6-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-ikra/dp/4253276512",
+   "amz": "https://www.amazon.co.jp/刀剣乱舞-あうとどあ異聞-刀剣野営-プリンセス・コミックス-ikra/dp/4253276512",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/761533/A004114679/",
    "mu": "2jhmxp0",
    "raw": "http://arc.akitashoten.co.jp/comics/toukencamp/1"
@@ -60,6 +60,18 @@
     }
    },
    {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -97,9 +109,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2023-07-05T10:51:24+00:00",
-  "updatedAt": "2023-07-08T21:02:31+00:00"
+  "updatedAt": "2024-10-27T21:50:08+00:00"
  },
  "relationships": [
   {
@@ -207,16 +219,16 @@
    }
   },
   {
-   "id": "775e2cee-ef4f-4d6f-905b-053401480367",
+   "id": "56dc237a-ad18-4605-81fd-76f95890274e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-07-05T10:51:27+00:00",
+    "createdAt": "2024-10-27T21:50:08+00:00",
     "description": "",
-    "fileName": "23f3ec26-7d74-4bc3-bf47-7dcb2e5a7291.jpg",
+    "fileName": "eb2a6ee2-025b-4065-9326-1828ef1f51f6.jpg",
     "locale": "ja",
-    "updatedAt": "2023-07-05T10:51:27+00:00",
+    "updatedAt": "2024-10-27T21:50:08+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

@@ -11,6 +11,12 @@
    },
    {
     "zh": "修仙归来在校园"
+   },
+   {
+    "en": "Cultivator Returns to School"
+   },
+   {
+    "en": "Super Teacher"
    }
   ],
   "description": {
@@ -22,7 +28,8 @@
    "raw": "https://ac.qq.com/Comic/comicInfo/id/643893"
   },
   "originalLanguage": "zh",
-  "status": "hiatus",
+  "lastChapter": "451",
+  "status": "completed",
   "year": 2019,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -57,18 +64,6 @@
     }
    },
    {
-    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Romance"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
-   {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
     "attributes": {
@@ -81,11 +76,23 @@
     }
    },
    {
-    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Adventure"
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "acc803a4-c95a-4c22-86fc-eb6b582d82a2",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Wuxia"
      },
      "description": {},
      "group": "genre",
@@ -93,14 +100,14 @@
     }
    },
    {
-    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Drama"
+      "en": "School Life"
      },
      "description": {},
-     "group": "genre",
+     "group": "theme",
      "version": 1
     }
    },
@@ -118,9 +125,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2020-09-27T02:16:59+00:00",
-  "updatedAt": "2024-06-19T18:23:21+00:00"
+  "updatedAt": "2024-10-28T14:10:58+00:00"
  },
  "relationships": [
   {
@@ -191,6 +198,11 @@
     "version": 1,
     "volume": "2"
    }
+  },
+  {
+   "id": "aed258c1-33e6-492e-8927-eec7b2a32a40",
+   "type": "manga",
+   "related": "sequel"
   }
  ]
 }

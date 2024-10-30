@@ -1,0 +1,103 @@
+{
+ "id": "8f1c5772-7a41-446d-996d-51a2f83cd9bc",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Les anecdotes de la DS"
+  },
+  "description": {},
+  "originalLanguage": "fr",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-25T12:16:49+00:00",
+  "updatedAt": "2024-10-25T12:16:55+00:00"
+ },
+ "relationships": [
+  {
+   "id": "dd59ead9-02cc-450c-94d6-36c0f1c394e8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T12:11:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hykko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T12:11:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "dd59ead9-02cc-450c-94d6-36c0f1c394e8",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T12:11:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hykko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T12:11:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2d40343a-fede-4d9d-b509-3e15594ff1ac",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-25T12:16:52+00:00",
+    "description": "",
+    "fileName": "6da5184f-4f18-4973-88af-716ceb412d9f.png",
+    "locale": "fr",
+    "updatedAt": "2024-10-25T12:16:52+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a70b9dde-5149-4da1-9c48-8f10f03a5a0c",
+   "type": "creator"
+  }
+ ]
+}

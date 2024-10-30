@@ -3,24 +3,59 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Mahou Shoujo Madoka★Magica - Smiles, Ghosts, and Carbonated Drinks – Manga Time Kirara Magica 6 (Doujinshi)"
+   "en": "Egao to Obake to Tansan Inryou."
   },
   "altTitles": [
    {
-    "en": "Smiles, Ghosts, and Carbonated Drinks – Manga Time Kirara Magica 6 (Puella Magi Madoka Magica)"
+    "ja": "笑顔とオバケと炭酸飲料。"
+   },
+   {
+    "ja-ro": "Egao to Obake to Tansaninryou."
+   },
+   {
+    "en": "Smiles, Ghosts, and Carbonated Drinks."
    }
   ],
   "description": {
-   "en": ""
+   "en": "A Mahou Shoujo Madoka★Magica short spin-off story.\n\nPublished in Manga Time Kirara Magica Vol. 6 (まんがタイムきらら☆マギカ)."
+  },
+  "links": {
+   "mu": "uaw95hh"
   },
   "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
   "status": "completed",
+  "year": 2013,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "095304c0-c343-4032-a6ce-20a7ac7a118f",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
     "type": "tag",
@@ -34,22 +69,22 @@
     }
    },
    {
-    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Doujinshi"
+      "en": "Slice of Life"
      },
      "description": {},
-     "group": "format",
+     "group": "genre",
      "version": 1
     }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 8,
   "createdAt": "2020-02-07T16:08:52+00:00",
-  "updatedAt": "2021-05-25T15:41:30+00:00"
+  "updatedAt": "2024-10-22T08:03:54+00:00"
  },
  "relationships": [
   {
@@ -67,12 +102,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/388188",
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-21T22:10:11+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -119,12 +154,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/388188",
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-21T22:10:11+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -168,6 +203,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "c52565c9-d99a-4380-9dc8-67369d448eb7",
+   "type": "manga",
+   "related": "adapted_from"
   }
  ]
 }

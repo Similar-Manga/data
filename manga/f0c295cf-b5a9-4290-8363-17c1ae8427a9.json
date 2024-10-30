@@ -1,0 +1,167 @@
+{
+ "id": "f0c295cf-b5a9-4290-8363-17c1ae8427a9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mezon Bungou"
+  },
+  "altTitles": [
+   {
+    "ja": "めぞん文豪"
+   }
+  ],
+  "description": {
+   "en": "Dazai Osamu was in despair when “Gyakkou,” his first Akutagawa Award nominee, was not selected. He was picked up by Hiroshi Kikuchi, the president of Bungeishunju, and taken to a share house he had built to support writers. There he meets Saneatsu Mushanokouji, Ango Sakaguchi, and Yasunari Kawabata, who was a critical critic of “Gyakkou”!? This is a comedy about famous writers of modern literature!"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/gp/product/B09WXPYC8Z?ref_=dbs_p_mng_rwt_ser_shvlr\u0026storeType=ebooks",
+   "bw": "series/324851/?srsltid=AfmBOorEI06m5hIwF8YLLcPUpOpTKDhXOaf_lx4ByiIDfX8az6bfMT0i",
+   "mu": "3fryb8l",
+   "raw": "https://www.cmoa.jp/title/232258/"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-29T01:48:57+00:00",
+  "updatedAt": "2024-10-29T03:19:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "240bc580-0a0b-4316-8b65-6c38d0f8560c",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-29T01:40:21+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanda Keiichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T03:20:00+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "77463606-17af-4f4a-9832-8e63f69c64af",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-29T01:40:33+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kikuchi Ryou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T03:20:13+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bdc5913d-f820-4a59-a53c-caa0fc98b977",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-02-05T20:23:02+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kawajiri Mitsuru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-02-05T20:23:02+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "95b9571c-3ed1-4b83-981e-707b4a25a495",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-29T01:48:59+00:00",
+    "description": "",
+    "fileName": "eafbe015-6ba4-49de-ace3-46ba6035901e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-29T01:48:59+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "f532795c-169c-4047-a31d-04cb563413f4",
+   "type": "creator"
+  }
+ ]
+}

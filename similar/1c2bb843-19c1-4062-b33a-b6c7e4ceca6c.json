@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "45ca45e8-9044-4dde-bb2f-0e336becf3a9",
-   "title": {
-    "en": "Sherlock Holmes Whispers to the Shadows"
-   },
-   "contentRating": "safe",
-   "score": 0.28852856
-  },
-  {
    "id": "42325fd0-df5f-412b-8433-65b8c7a736fc",
    "title": {
     "en": "Arsène Lupin"
@@ -49,7 +41,7 @@
     "en": "Replica Datte, Koi wo suru."
    },
    "contentRating": "safe",
-   "score": 0.19376658,
+   "score": 0.19376253,
    "languages": [
     "ru",
     "en",
@@ -57,6 +49,14 @@
     "es-la",
     "id"
    ]
+  },
+  {
+   "id": "45ca45e8-9044-4dde-bb2f-0e336becf3a9",
+   "title": {
+    "en": "Sherlock Holmes Whispers to the Shadows"
+   },
+   "contentRating": "safe",
+   "score": 0.19339758
   },
   {
    "id": "e3150cb2-5144-4b88-b850-87145751063c",
@@ -67,9 +67,9 @@
    "score": 0.19047621
   },
   {
-   "id": "92e5496a-b1bc-4109-8a5a-1eef502531e7",
+   "id": "ad1cafb3-a7b3-421c-9e70-44a8b04b88ba",
    "title": {
-    "en": "écriture - Shinjin Sakka Sugiura Rina no Suiron"
+    "en": "Medium: Reibai Tantei Jouzuka Hisui"
    },
    "contentRating": "safe",
    "score": 0.19047621
@@ -101,17 +101,9 @@
    ]
   },
   {
-   "id": "b299f5bb-f808-49c8-bc8f-2cc2f0dc4f09",
+   "id": "92e5496a-b1bc-4109-8a5a-1eef502531e7",
    "title": {
-    "en": "Flowers from Algernon"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621
-  },
-  {
-   "id": "ad1cafb3-a7b3-421c-9e70-44a8b04b88ba",
-   "title": {
-    "en": "Medium: Reibai Tantei Jouzuka Hisui"
+    "en": "écriture - Shinjin Sakka Sugiura Rina no Suiron"
    },
    "contentRating": "safe",
    "score": 0.19047621
@@ -128,12 +120,20 @@
    ]
   },
   {
+   "id": "b299f5bb-f808-49c8-bc8f-2cc2f0dc4f09",
+   "title": {
+    "en": "Flowers from Algernon"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621
+  },
+  {
    "id": "de53dc3b-9306-4f37-a5b1-ec9f8726a968",
    "title": {
     "ja": "Shinigami no Hatsukoi"
    },
    "contentRating": "safe",
-   "score": 0.1890018,
+   "score": 0.18902361,
    "languages": [
     "en"
    ]
@@ -157,7 +157,7 @@
     "en": "Dokuzetsu Shoujo wa Amanojaku"
    },
    "contentRating": "safe",
-   "score": 0.18646514,
+   "score": 0.18647784,
    "languages": [
     "vi",
     "en",
@@ -172,8 +172,8 @@
     "en": "Koiseyo Kimono Otome"
    },
    "contentRating": "safe",
-   "score": 0.17857835
+   "score": 0.17853905
   }
  ],
- "updatedAt": "2024-10-21T20:01:37+00:00"
+ "updatedAt": "2024-10-29T19:01:25+00:00"
 }

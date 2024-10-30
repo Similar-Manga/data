@@ -1,0 +1,146 @@
+{
+ "id": "d024adec-8104-4568-8e15-8435d088d207",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Munou Yuusha no Fukushuutan ~Isekai de Suterareta Shounen wa Hangyaku wo Chikau~"
+  },
+  "altTitles": [
+   {
+    "ja": "無能勇者の復讐譚～異世界で捨てられた少年は反逆を誓う～"
+   },
+   {
+    "en": "A Tale of Revenge of the Incompetent Hero"
+   }
+  ],
+  "description": {
+   "ja": "ごく普通の少年・カズキは「勇者」として異世界に召喚されるも、人間たちに右手を切り落とされ「無能」の烙印とともに追放される。息も絶え絶えな彼の元に現れたのは、絶滅したはずの古代ドラゴン族の生き残りを名乗る少女・ルタだった。「うぬよ、生きたいか？　ただし死ぬまで働いてもらう―」カズキは復讐のためにルタと同盟を結び、次第に『魂力（チャクラ）』と『魂装（カルマ）』という秘められた力に目覚めていく…！ドラゴン、エルフ、亜人たち、人間に虐げられた異種族の仲間と共に世界の構造をひっくり返せ！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CYQR11MK",
+   "bw": "series/463556",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/819018/",
+   "mu": "glll50r"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "10",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-27T21:56:15+00:00",
+  "updatedAt": "2024-10-27T21:56:43+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8d3d35e2-b2b5-4c33-8b2e-54e2295b2350",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-27T21:52:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aoi Saku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-27T21:52:29+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "481ee668-5827-48af-a49b-2ac6a372686e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-27T21:52:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sanjiro ♨",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-27T21:52:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6098730c-f7e0-4b71-977a-b422ac7249a2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-27T21:56:17+00:00",
+    "description": "",
+    "fileName": "905d024a-b0dc-422f-88d5-c11507959744.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-27T21:56:17+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

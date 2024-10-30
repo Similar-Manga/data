@@ -1,0 +1,129 @@
+{
+ "id": "f66cd885-b5f0-4b3e-b157-2e8dd92a6ca1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Rakuen wo Mezashite"
+  },
+  "altTitles": [
+   {
+    "ja": "楽園をめざして"
+   },
+   {
+    "ja-ro": "Rakuen o Mezashite"
+   }
+  ],
+  "description": {
+   "en": "The younger brother of a comedian died. He leaves behind his daughter, who is not yet one year old, and his wife, Kyoko. The elder brother, Shoji, tries to live together under one roof to support them. However, he has two extremely different sides to him: “Manic” and “Depressed” he eats, works, sleeps, and wakes up. They are unable to live a normal life, but they reach for the hope of living."
+  },
+  "links": {
+   "raw": "https://comic-days.com/episode/2550912964646107218"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-28T20:26:42+00:00",
+  "updatedAt": "2024-10-29T04:09:19+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6901da6e-91d2-48ea-9eb6-ff1a686d25b0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fumi Fumiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/fumifumiko23235",
+    "updatedAt": "2022-03-05T05:54:05+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6901da6e-91d2-48ea-9eb6-ff1a686d25b0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fumi Fumiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/fumifumiko23235",
+    "updatedAt": "2022-03-05T05:54:05+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c6f700c3-a48f-495f-8805-389f4f4ee4db",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-28T20:26:44+00:00",
+    "description": "",
+    "fileName": "14feefab-a200-4c0a-87b0-d1c987dd441c.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-28T20:26:44+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

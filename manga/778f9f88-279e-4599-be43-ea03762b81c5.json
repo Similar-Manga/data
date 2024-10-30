@@ -1,0 +1,174 @@
+{
+ "id": "778f9f88-279e-4599-be43-ea03762b81c5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "My Hero Academia - Bunseki Notebook (Doujinshi)"
+  },
+  "description": {
+   "en": "Pairing: Midoriya Izuku x Bakugou Katsuki"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2015,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "9998953f-724d-42fa-a4b7-d9a7df3d31fd",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Boys' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-26T20:13:06+00:00",
+  "updatedAt": "2024-10-28T15:50:30+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ff7cfe8a-64c7-4fe9-9a45-07a74b9ec352",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-26T20:12:14+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Corner (Sumi)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-26T20:12:14+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ff7cfe8a-64c7-4fe9-9a45-07a74b9ec352",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-26T20:12:14+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Corner (Sumi)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-26T20:12:14+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "765e3039-ace9-445d-aa01-6f6c8fb5f8ef",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-26T20:13:09+00:00",
+    "description": "",
+    "fileName": "ffc9c04e-9887-466a-b8e1-3df434f19f56.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-26T20:13:09+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "4f3bcae4-2d96-4c9d-932c-90181d9c873e",
+   "type": "manga",
+   "related": "based_on"
+  },
+  {
+   "id": "b0db63f6-e90c-4ae2-9719-1ebfef3755c6",
+   "type": "creator"
+  }
+ ]
+}

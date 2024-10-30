@@ -10,9 +10,6 @@
     "ja-ro": "Ashita no Yoichi!"
    },
    {
-    "en": "High School Samurai"
-   },
-   {
     "ru": "Ёйти завтрашнего дня!"
    },
    {
@@ -29,6 +26,9 @@
    },
    {
     "ko": "내일의 요이치！"
+   },
+   {
+    "en": "Samurai Harem: Asu no Yoichi"
    }
   ],
   "description": {
@@ -40,10 +40,12 @@
    "amz": "https://www.amazon.co.jp/dp/B074CH51RZ",
    "ap": "samurai-harem-asu-no-yoichi",
    "bw": "series/3870/list",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-936591",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/162885/",
    "kt": "6964",
    "mal": "3214",
-   "mu": "5873"
+   "mu": "5873",
+   "raw": "https://www.akitashoten.co.jp/series/2036"
   },
   "originalLanguage": "ja",
   "lastVolume": "15",
@@ -145,9 +147,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2018-01-23T14:01:53+00:00",
-  "updatedAt": "2023-02-12T23:29:15+00:00"
+  "updatedAt": "2024-10-28T21:59:23+00:00"
  },
  "relationships": [
   {
@@ -207,15 +209,15 @@
    }
   },
   {
-   "id": "57f91fbc-d795-4f05-b1af-fa5cb16d8007",
+   "id": "a39c7dec-13d0-46bd-bf13-a0bd94138957",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-23T06:38:29+00:00",
+    "createdAt": "2024-10-28T21:56:20+00:00",
     "description": "",
-    "fileName": "eea44020-4c4f-4005-b255-e49279976bbb.png",
+    "fileName": "92fc8679-e039-4bd2-b27e-de485a793315.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-23T06:38:29+00:00",
-    "version": 2,
+    "updatedAt": "2024-10-28T21:56:20+00:00",
+    "version": 1,
     "volume": "15"
    }
   }

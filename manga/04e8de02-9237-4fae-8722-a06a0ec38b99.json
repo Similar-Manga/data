@@ -1,0 +1,182 @@
+{
+ "id": "04e8de02-9237-4fae-8722-a06a0ec38b99",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "OSAMU"
+  },
+  "description": {
+   "en": "When Tokyo is attacked by evil monsters, who better to save the day than the Super-Ultra-Mega-Level-Anti-Monster-Specialized-human-Final-Boss-Weapon OSAMU!!! \n\nGolden Future Cup Oneshot #3 2024"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "8fb995b4-11f0-4679-a175-20239123dc8d",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-21T20:31:16+00:00",
+  "updatedAt": "2024-10-21T20:31:26+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7532d458-5def-474f-963c-7c4ddc8c0cc0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-21T20:29:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sengi Chiki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-21T20:29:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7532d458-5def-474f-963c-7c4ddc8c0cc0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-21T20:29:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sengi Chiki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-21T20:29:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5521ca3b-b509-4c16-84a2-21a1781fdaf4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-21T20:31:20+00:00",
+    "description": "",
+    "fileName": "3f2c7032-7813-4113-a0c6-ad591f5ec3c6.png",
+    "locale": "ja",
+    "updatedAt": "2024-10-21T20:31:20+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "148a0a76-6015-4358-87a3-1c02c37d902d",
+   "type": "creator"
+  }
+ ]
+}

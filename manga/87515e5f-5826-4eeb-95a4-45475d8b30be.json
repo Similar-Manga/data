@@ -3,22 +3,35 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "THE IDOLM@STER MILLION LIVE! Blooming Clover"
+   "en": "THE iDOLM@STER MILLION LIVE! Blooming Clover"
   },
   "altTitles": [
    {
-    "en": "アイドルマスター ミリオンライブ! Blooming Clover"
+    "ja": "アイドルマスター ミリオンライブ! Blooming Clover"
+   },
+   {
+    "en": "The Idolmaster Million Live! Blooming Clover"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Part of [THE iDOLM@STER](https://mangadex.org/?page=search\u0026title=iDOLM%40STER) series."
+  },
   "links": {
+   "al": "116632",
    "amz": "https://www.amazon.co.jp/dp/B078NKL79T",
+   "ap": "the-idolmster-million-live-blooming-clover",
+   "bw": "series/138043/list",
    "kt": "48622",
    "mal": "105925",
-   "mu": "140449"
+   "mu": "140449",
+   "raw": "https://comic-walker.com/detail/KC_002256_S"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "16",
+  "lastChapter": "67",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2017,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "vi",
@@ -64,6 +77,18 @@
     }
    },
    {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
     "type": "tag",
     "attributes": {
@@ -77,9 +102,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 10,
   "createdAt": "2019-02-20T01:41:52+00:00",
-  "updatedAt": "2024-01-04T10:26:58+00:00"
+  "updatedAt": "2024-10-27T19:02:53+00:00"
  },
  "relationships": [
   {
@@ -94,6 +119,32 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Inayama Kakuya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "662d7b28-d6a2-4ca6-8ef3-1f2aab14f44d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bandai Namco Entertainment",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -135,20 +186,45 @@
    }
   },
   {
-   "id": "07d3b13f-f7de-4f27-9fbc-f104ec0252df",
+   "id": "86aba11e-01e3-41a4-8c1c-fd0ea9da7ac3",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:01:56+00:00",
+    "createdAt": "2024-10-27T13:23:17+00:00",
     "description": "",
-    "fileName": "cbef9799-816f-4dc5-8c3e-77f99ff08490.jpg",
+    "fileName": "d85f34ad-caf7-4dfa-ac5c-cd78ad9e90a9.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:01:56+00:00",
+    "updatedAt": "2024-10-27T13:23:17+00:00",
     "version": 1,
-    "volume": null
+    "volume": "9"
    }
   },
   {
+   "id": "38ef3fbc-c78a-402f-af44-90784cf48ce9",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "45aa9111-2315-455c-af56-adaed298d9df",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "5bc8c314-13c8-4be9-aa51-59e8d60db3be",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
    "id": "a07ddb79-26d8-462a-9c7b-93961eb9b85f",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "a8957d4f-f8b4-42be-bde6-918b26a8c490",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "a8e00bce-728a-4de2-bea1-a8fb7c89236e",
    "type": "manga",
    "related": "same_franchise"
   }

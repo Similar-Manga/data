@@ -3,14 +3,18 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Struggling Girls ~Ippatsu Gyakuten no Zunou Kessen~"
+   "en": "Struggling Girls: A Showdown of Wits to Turn Things Around"
   },
   "altTitles": [
    {
     "ja": "ストラグリング・ガールズ～一発逆転の頭脳決戦～"
+   },
+   {
+    "ja-ro": "Struggling Girls ~Ippatsu Gyakuten no Zunou Kessen~"
    }
   ],
   "description": {
+   "en": "If you pass the graduation exam, you'll be secure for life, but if you fail, you'll die instantly!",
    "ja": "卒業試験にパスすれば一生安泰、でも落第すれば即死亡！"
   },
   "links": {
@@ -55,9 +59,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-09-14T22:16:12+00:00",
-  "updatedAt": "2024-10-11T11:34:19+00:00"
+  "updatedAt": "2024-10-24T21:44:48+00:00"
  },
  "relationships": [
   {

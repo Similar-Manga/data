@@ -11,7 +11,7 @@
     "en": "Iroha ni Ai wo"
    },
    "contentRating": "safe",
-   "score": 0.35287014,
+   "score": 0.35287648,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Hoteru Watashi ni Koi wo Oshiete"
    },
    "contentRating": "safe",
-   "score": 0.32385835,
+   "score": 0.32394725,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "AM8:02, hatsukoi"
    },
    "contentRating": "safe",
-   "score": 0.32140854,
+   "score": 0.32136914,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "ja": "Risou no Kareshi no Hazunanoni"
    },
    "contentRating": "safe",
-   "score": 0.31549957,
+   "score": 0.31547827,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "Tsumugu to Koi ni Naru Futari"
    },
    "contentRating": "safe",
-   "score": 0.31254557,
+   "score": 0.31252813,
    "languages": [
     "en",
     "es"
@@ -67,7 +67,7 @@
     "en": "Osananajimi to, Kiss shitakunakunai."
    },
    "contentRating": "safe",
-   "score": 0.3061061,
+   "score": 0.30612242,
    "languages": [
     "en",
     "es-la"
@@ -79,7 +79,7 @@
     "ja": "Hashiba Kaede wa Tokimekitai"
    },
    "contentRating": "safe",
-   "score": 0.2990923,
+   "score": 0.29905483,
    "languages": [
     "en"
    ]
@@ -90,7 +90,7 @@
     "en": "Futsuu na Bokura no"
    },
    "contentRating": "safe",
-   "score": 0.29395938,
+   "score": 0.29395995,
    "languages": [
     "en",
     "es-la"
@@ -102,7 +102,18 @@
     "en": "My Boyfriend"
    },
    "contentRating": "safe",
-   "score": 0.2896974,
+   "score": 0.28964218,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e93b870c-28f4-498a-9007-4c41005ec2a0",
+   "title": {
+    "en": "Sailor Suit and Himawari"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
    "languages": [
     "en"
    ]
@@ -115,63 +126,6 @@
    "contentRating": "safe",
    "score": 0.2851258,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3c2b0184-3bba-474e-9156-75a41440635e",
-   "title": {
-    "en": "Hatsukoi no Tsuzuki wa Danshiryou de"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "84bb011c-6124-4b11-800c-65206badc0d1",
-   "title": {
-    "en": "Dekiai Nante Zuru Sugiru!!"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "42ef035b-37c9-4dfc-90e4-a598885d1c3d",
-   "title": {
-    "en": "Shirobara-sama no Iu toori."
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "05d5d608-11f8-4c07-b5ad-523d807214c8",
-   "title": {
-    "en": "The Boy Out Of My Reach"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "dbc280ae-48b9-43d5-acbb-a0ec5abd2fa4",
-   "title": {
-    "en": "Bye Bye, Ame."
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -190,7 +144,58 @@
     "fr",
     "es-la"
    ]
+  },
+  {
+   "id": "6f82c3a0-3c2e-48f7-8399-c993a5ebc963",
+   "title": {
+    "en": "Chihiro-kun wa, Atashi Holic."
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "es-la",
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "05d5d608-11f8-4c07-b5ad-523d807214c8",
+   "title": {
+    "en": "The Boy Out Of My Reach"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "42ef035b-37c9-4dfc-90e4-a598885d1c3d",
+   "title": {
+    "en": "Shirobara-sama no Iu toori."
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "567b51cb-ae4c-4a27-af49-92468c5ff4a4",
+   "title": {
+    "en": "Kawaii nante Kiitenai!!"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "hu",
+    "fr",
+    "en",
+    "vi",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-10-21T20:06:22+00:00"
+ "updatedAt": "2024-10-29T19:06:28+00:00"
 }

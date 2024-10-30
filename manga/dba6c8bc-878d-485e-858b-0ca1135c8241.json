@@ -1,0 +1,157 @@
+{
+ "id": "dba6c8bc-878d-485e-858b-0ca1135c8241",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kuro Hitsuji no Ayumi"
+  },
+  "altTitles": [
+   {
+    "ja": "黒羊の歩み"
+   }
+  ],
+  "description": {
+   "ja": "この町の人々は【何か】を隠しているー… ７年ぶり生まれた故郷に帰ってきた主人公・朝陽。 大好きな幼馴染・晴彦に久々に再会し心踊らせていた。 緊張しながらも転校初日が過ごせそうと思った矢先、 朝陽は窓の外に＜恐ろしいもの＞を見てしまうー…。"
+  },
+  "links": {
+   "al": "176550",
+   "amz": "https://www.amazon.co.jp/dp/B09RSNV62B",
+   "bw": "series/280077",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/615468/",
+   "mu": "gntlrbh",
+   "raw": "https://ganma.jp/kokuyou"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "4",
+  "lastChapter": "37",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2020,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-24T20:51:05+00:00",
+  "updatedAt": "2024-10-24T20:51:19+00:00"
+ },
+ "relationships": [
+  {
+   "id": "83f12165-24fa-41d6-8df4-6f21396f5fed",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-08-16T00:50:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizuo Sora",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-08-26T10:12:00+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "83f12165-24fa-41d6-8df4-6f21396f5fed",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-08-16T00:50:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizuo Sora",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-08-26T10:12:00+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6ab2126d-7f90-4c04-a7e5-02fdfcb9476b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-24T20:51:07+00:00",
+    "description": "",
+    "fileName": "84e35b3f-7ec4-449c-b74d-aa500332de08.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-24T20:51:07+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

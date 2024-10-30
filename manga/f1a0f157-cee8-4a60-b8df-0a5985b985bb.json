@@ -1,0 +1,174 @@
+{
+ "id": "f1a0f157-cee8-4a60-b8df-0a5985b985bb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Go Chumon Wa Samenai Koi De"
+  },
+  "altTitles": [
+   {
+    "ja": "ご注文は冷めない恋で"
+   }
+  ],
+  "description": {
+   "en": "Since her parents' divorce, Nekomiya Tsunagi has lost faith in people's feelings. She tries to stay inconspicuous in her high school life and avoid being remembered by others, but during a visit to a coffee shop as a hobby, she meets Flame Aozumi!"
+  },
+  "links": {
+   "raw": "https://flowercomics.jp/title/1799"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-29T10:44:32+00:00",
+  "updatedAt": "2024-10-29T10:45:57+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2e4a2684-4b7d-4797-b27e-1c95da8486b9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-29T10:41:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuzurihawa Minato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T10:41:06+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2e4a2684-4b7d-4797-b27e-1c95da8486b9",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-29T10:41:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuzurihawa Minato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T10:41:06+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "af54165b-fa48-4bcf-953b-b96064e5d699",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-29T10:44:42+00:00",
+    "description": "",
+    "fileName": "e876d09c-5e24-4db7-a713-d3ff121949ce.png",
+    "locale": "ja",
+    "updatedAt": "2024-10-29T10:44:42+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "id": "d4e21c02-0549-48aa-ab50-5fec2c76f74c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kao dake yoi Classmate ga Yatara to Guigui Kuru Yuri no Hanashi"
+  },
+  "altTitles": [
+   {
+    "ja": "顔だけ良いクラスメイトがやたらとグイグイ来る百合の話"
+   },
+   {
+    "en": "A Yuri Story About How My Classmate Whose Only Good Trait Is Her Excessively Pretty Face Comes at Me Relentlessly"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mal": "175730",
+   "raw": "https://comic-walker.com/detail/KC_005942_S/episodes/KC_0059420000200011_E?episodeType=first"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en",
+   "ko"
+  ],
+  "latestUploadedChapter": "b608bdc9-9c37-4758-aa59-be90dcc8a3d6",
+  "tags": [
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-10-26T17:05:12+00:00",
+  "updatedAt": "2024-10-28T14:20:31+00:00"
+ },
+ "relationships": [
+  {
+   "id": "332b0523-124c-4646-9ec2-26dd419129ce",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-26T17:00:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Noshiro Ryo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-26T17:00:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f42c4ed2-5a83-4601-a8d3-4e93abeb3543",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "aka Hachiko (hati12)\n"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hachiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/1510254",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hachikoko_",
+    "updatedAt": "2022-04-12T16:44:10+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3105dab5-04ac-47ac-bfec-4e778806a83e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-26T17:05:22+00:00",
+    "description": "",
+    "fileName": "4ddd7a3e-6a07-4efd-b811-9451e71934f0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-26T17:05:22+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "6d27972a-5468-4980-9681-18fa1c33dced",
+   "type": "creator"
+  }
+ ]
+}

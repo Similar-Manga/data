@@ -19,7 +19,9 @@
     "ja-ro": "37564 Gakuen"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "A crazy hyper violent splatter horror story that was serialized in a SHOUJO magazine!?!?!?!? It's violent! Disgusting! Totally dark and humorous!\n\nWelcome to the prestigious Flower Girls' Academy, an old boarding school. Because it's address is 564, 7-3, Kurohana-cho, it is also known as \"37564 (Minagoroshi/ Everyone is gonna fie) Academy.\" There is a rumor going around at this school that \"at midnight, the statue of Christ in the auditorium sheds tears of blood.\" Girls, scream out!"
+  },
   "links": {
    "raw": "https://manba.co.jp/boards/71268/books"
   },
@@ -39,6 +41,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -113,12 +127,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-05-12T15:58:03+00:00",
-  "updatedAt": "2024-10-06T06:36:44+00:00"
+  "updatedAt": "2024-10-27T16:15:35+00:00"
  },
  "relationships": [
   {

@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Amazing Sarutobi"
+   "en": "Sasuga no Sarutobi"
   },
   "altTitles": [
    {
@@ -16,7 +16,7 @@
     "ja": "さすがの猿飛"
    },
    {
-    "ja-ro": "Sasuga no Sarutobi"
+    "en": "Amazing Sarutobi"
    }
   ],
   "description": {
@@ -26,7 +26,7 @@
    "al": "43283",
    "ap": "sasuga-no-sarutobi",
    "bw": "series/129005",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/162817/",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/162817",
    "kt": "23917",
    "mal": "13283",
    "mu": "48046"
@@ -141,9 +141,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2018-02-06T02:01:43+00:00",
-  "updatedAt": "2023-09-05T04:42:33+00:00"
+  "updatedAt": "2024-10-28T14:17:11+00:00"
  },
  "relationships": [
   {
@@ -203,15 +203,15 @@
    }
   },
   {
-   "id": "2e5527cc-4408-4363-ab81-b5e2e36f8a2d",
+   "id": "683c72c7-f902-4bb0-acf8-518fc1678a38",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-05-14T16:58:57+00:00",
-    "description": "",
-    "fileName": "81be9c09-222b-4a3d-afd8-680a9cc0ca2d.png",
+    "createdAt": "2024-10-28T14:16:12+00:00",
+    "description": "Format: Shinshoban\r\nImprint: Shounen Sunday Comics\r\nPublisher: Shogakukan\r\nYear: 1982",
+    "fileName": "a2311630-76c7-4f2e-8dd2-45df1401329d.jpg",
     "locale": "ja",
-    "updatedAt": "2022-05-26T06:21:03+00:00",
-    "version": 2,
+    "updatedAt": "2024-10-28T14:16:12+00:00",
+    "version": 1,
     "volume": "1"
    }
   },

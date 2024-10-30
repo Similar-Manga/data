@@ -1,0 +1,180 @@
+{
+ "id": "ea702fd4-ad55-41ae-8770-6fdaf1b7e52a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Scales and Tales"
+  },
+  "description": {
+   "en": "Jade has always wanted to be a knight and the moment she hears of a vacancy at Luccio Draquia, the kingdom's capital, she doesn't hesitate to travel there to accept it. After signing a contract with dubious clauses, Jade finally fulfils her dream, the only problem? To become a knight, she must serve Liadan Stellaris, the King's witch, and fulfil everything she desires, and her requests are extremely unconventional."
+  },
+  "links": {
+   "engtl": "https://namicomi.com/en/title/JwFGGvB6/scales-and-tales"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-22T16:37:46+00:00",
+  "updatedAt": "2024-10-22T16:37:54+00:00"
+ },
+ "relationships": [
+  {
+   "id": "df89e07b-35df-4d69-ac61-80e521a05048",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-22T16:34:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Lucia Cid",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-22T16:34:12+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "204b14d7-c070-4cca-914d-4b79b52c4771",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-22T16:34:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Pirugato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-22T16:34:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7f63138c-ba91-4eba-a723-edfe9ba44abe",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-22T16:37:50+00:00",
+    "description": "",
+    "fileName": "824fd264-ada2-4d5d-862e-cdadcfba1499.png",
+    "locale": "en",
+    "updatedAt": "2024-10-22T16:37:50+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "b3c0e648-21b4-4492-9de1-98ee3d3588c9",
+   "type": "creator"
+  }
+ ]
+}

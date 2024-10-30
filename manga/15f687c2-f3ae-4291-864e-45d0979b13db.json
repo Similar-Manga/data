@@ -124,11 +124,39 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 11,
   "createdAt": "2023-09-11T13:04:37+00:00",
-  "updatedAt": "2024-08-29T05:02:10+00:00"
+  "updatedAt": "2024-10-28T18:30:07+00:00"
  },
  "relationships": [
+  {
+   "id": "50200613-ef62-4ec8-b879-6d9ecd022e66",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Associated Names:**\n- REDICE\n- Red-Ice Studio\n- Studio Redice\n- REDICE Studio (레드아이스 스튜디오)\n\nFounder is [**Jang Sung-Rak** (장성락)](https://mangadex.org/author/86f43f7f-7f32-4ecb-8dd9-7cd2ae16932b/jang-sung-rak).\n\n*(Note: **don't change the name** of the studio, because there are a lot of artist having redice studio between coma. It'll be impossible to find Redice Studio after changing.)*"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "REDICE Studio (레드아이스 스튜디오)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/REDICE_STUDIO",
+    "updatedAt": "2023-11-21T20:10:23+00:00",
+    "version": 10,
+    "website": "http://www.red-ice.me/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCaooDfqjq_O_0sQ3xINVBpg"
+   }
+  },
   {
    "id": "801f09ce-d2c7-4b02-a8e4-1eb3a6b30e1b",
    "type": "author",
@@ -205,6 +233,34 @@
     "website": null,
     "weibo": null,
     "youtube": null
+   }
+  },
+  {
+   "id": "50200613-ef62-4ec8-b879-6d9ecd022e66",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated Names:**\n- REDICE\n- Red-Ice Studio\n- Studio Redice\n- REDICE Studio (레드아이스 스튜디오)\n\nFounder is [**Jang Sung-Rak** (장성락)](https://mangadex.org/author/86f43f7f-7f32-4ecb-8dd9-7cd2ae16932b/jang-sung-rak).\n\n*(Note: **don't change the name** of the studio, because there are a lot of artist having redice studio between coma. It'll be impossible to find Redice Studio after changing.)*"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "REDICE Studio (레드아이스 스튜디오)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/REDICE_STUDIO",
+    "updatedAt": "2023-11-21T20:10:23+00:00",
+    "version": 10,
+    "website": "http://www.red-ice.me/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCaooDfqjq_O_0sQ3xINVBpg"
    }
   },
   {

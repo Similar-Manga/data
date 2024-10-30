@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "IJUUDOUKITAN"
+   "en": "Ijuudou Kitan"
   },
   "altTitles": [
    {
@@ -14,6 +14,9 @@
    },
    {
     "en": "Strange Tales of Strange Beasts Hall"
+   },
+   {
+    "ja-ro": "IJUUDOUKITAN"
    }
   ],
   "description": {
@@ -21,11 +24,14 @@
    "ja": "路地の奥にひっそりと佇む異獣堂に今日も叶えられぬ心の渇きを抱えた人間が引き寄せられる。\n異獣はその渇きを癒すのか？　それとも……。\n鬼才が描く幻想ホラーSTORY。"
   },
   "links": {
+   "bw": "series/476043/list",
+   "mu": "jnbhb5x",
    "raw": "https://comic-medu.com/series/347dfe77aa89b"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
   "status": "ongoing",
+  "year": 2023,
   "contentRating": "safe",
   "tags": [
    {
@@ -126,9 +132,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-06-03T22:03:02+00:00",
-  "updatedAt": "2024-07-10T12:20:33+00:00"
+  "updatedAt": "2024-10-26T17:06:46+00:00"
  },
  "relationships": [
   {
@@ -184,16 +190,16 @@
    }
   },
   {
-   "id": "83d41256-909d-48c9-8d10-77b00104ada5",
+   "id": "fa38e5d7-ace9-4473-bd36-dee5785af9d5",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-06-09T14:32:09+00:00",
+    "createdAt": "2024-10-26T17:07:53+00:00",
     "description": "",
-    "fileName": "ccf2774d-7899-4b93-a7ad-5e884586fcfa.jpg",
+    "fileName": "6352f871-e3b4-4a0f-abcc-e747507ffee6.jpg",
     "locale": "ja",
-    "updatedAt": "2024-06-09T14:32:09+00:00",
+    "updatedAt": "2024-10-26T17:07:53+00:00",
     "version": 1,
-    "volume": "1.2"
+    "volume": "1"
    }
   },
   {

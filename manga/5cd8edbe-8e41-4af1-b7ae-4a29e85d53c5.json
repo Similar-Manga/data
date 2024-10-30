@@ -17,7 +17,7 @@
    "al": "62913",
    "amz": "https://www.amazon.co.jp/gp/product/B074CDHB99",
    "ap": "ultraman",
-   "bw": "series/19365",
+   "bw": "series/19365/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/129932/",
    "engtl": "https://www.viz.com/ultraman",
    "kt": "6257",
@@ -183,9 +183,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2018-06-11T16:40:51+00:00",
-  "updatedAt": "2024-05-11T15:44:09+00:00"
+  "updatedAt": "2024-10-25T17:07:50+00:00"
  },
  "relationships": [
   {
@@ -293,16 +293,16 @@
    }
   },
   {
-   "id": "e734bceb-17b6-4eb1-8a25-d1844afe21a7",
+   "id": "5a1d5848-ba4f-4733-ac9a-b59580791144",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-02-11T23:18:03+00:00",
+    "createdAt": "2024-10-25T17:09:47+00:00",
     "description": "",
-    "fileName": "42132cba-8a90-424a-998b-7c88aef0d2d1.jpg",
+    "fileName": "cb378a4d-ecfd-4bfd-b37f-1995ce2a14ea.jpg",
     "locale": "ja",
-    "updatedAt": "2023-02-11T23:18:03+00:00",
+    "updatedAt": "2024-10-25T17:09:47+00:00",
     "version": 1,
-    "volume": "19"
+    "volume": "20"
    }
   },
   {
@@ -344,6 +344,11 @@
    "id": "c5c58dcd-b331-4423-bde5-1b42e042274f",
    "type": "manga",
    "related": "same_franchise"
+  },
+  {
+   "id": "d7577f79-4dcf-425c-89f2-12add5868311",
+   "type": "manga",
+   "related": "alternate_story"
   }
  ]
 }

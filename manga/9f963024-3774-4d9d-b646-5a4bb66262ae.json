@@ -3,15 +3,18 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Rival-ten no Onna no Kiyomi Nankanee yo"
+   "en": "Rival-ten no Onna ni Kiyomi Nankanee yo"
   },
   "altTitles": [
    {
     "ja": "ライバル店の女に興味なんかねぇよ"
+   },
+   {
+    "en": "I'm Not Interested in the Girl from the Rival Electronics Store"
    }
   ],
   "description": {
-   "en": "“Isn't she cute?\"\n\nNinoma Ryouichi, an employee of Kutsuma Denki, falls in love with Mutsuki Sakura, a clerk at his rival store. As the person in charge, he tries to hide it from his colleagues by saying, \"I'm not interested in the woman from the rival store.''\n\nA forbidden (?) complicated love between a man who is bad at love and a woman who is too serious as he tries to get close to her!"
+   "en": "“Isn't she cute?\" Ninomae Ryouichi, an employee of Kutsuma Denki, falls in love with Mutsuki Sakura, a clerk at his rival store. As the person in charge, he tries to hide it from his colleagues by saying, \"I'm not interested in the woman from the rival store.''A forbidden (?) complicated love between a man who is bad at love and a woman who is too serious as he tries to get close to her!"
   },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0CLKW4GFC",
@@ -51,6 +54,18 @@
     }
    },
    {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -64,9 +79,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-05-16T10:50:42+00:00",
-  "updatedAt": "2024-05-16T20:03:53+00:00"
+  "updatedAt": "2024-10-23T05:38:17+00:00"
  },
  "relationships": [
   {

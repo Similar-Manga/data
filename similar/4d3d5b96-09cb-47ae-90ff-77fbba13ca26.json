@@ -11,7 +11,7 @@
     "en": "Return From the World of Immortals"
    },
    "contentRating": "safe",
-   "score": 0.41107014,
+   "score": 0.41086718,
    "languages": [
     "es-la",
     "ru",
@@ -26,7 +26,7 @@
     "en": "The Frozen Player Returns"
    },
    "contentRating": "safe",
-   "score": 0.36809197,
+   "score": 0.36806247,
    "languages": [
     "en",
     "es-la",
@@ -44,7 +44,7 @@
     "en": "The Book of Lagier"
    },
    "contentRating": "safe",
-   "score": 0.35949787,
+   "score": 0.3594954,
    "languages": [
     "es-la",
     "pt-br",
@@ -54,12 +54,23 @@
    ]
   },
   {
+   "id": "6c6def7e-c48d-457b-bb11-2e78a35f605d",
+   "title": {
+    "en": "Home Inhabited by the Heavens"
+   },
+   "contentRating": "safe",
+   "score": 0.35540652,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d8863585-8652-43b5-8211-b425f8776e39",
    "title": {
     "en": "Picked up From Another World"
    },
    "contentRating": "safe",
-   "score": 0.3517816,
+   "score": 0.3517882,
    "languages": [
     "en",
     "vi"
@@ -71,9 +82,21 @@
     "ko": "(PROMO) The Returning Warrior’s Alley Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.34777296,
+   "score": 0.34772944,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "d0511db6-9851-4802-b224-eb3e356f395b",
+   "title": {
+    "en": "Celestial Phenomenon"
+   },
+   "contentRating": "safe",
+   "score": 0.345162,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -82,7 +105,7 @@
     "en": "Despite Coming From the Abyss, I Will Save Humanity"
    },
    "contentRating": "safe",
-   "score": 0.3380705,
+   "score": 0.338198,
    "languages": [
     "en",
     "pl",
@@ -92,14 +115,15 @@
    ]
   },
   {
-   "id": "6c6def7e-c48d-457b-bb11-2e78a35f605d",
+   "id": "50bbbb16-69e8-4b91-9671-6069500fd296",
    "title": {
-    "en": "Home Inhabited by the Heavens"
+    "en": "Last on Earth"
    },
    "contentRating": "safe",
-   "score": 0.33337474,
+   "score": 0.3344358,
    "languages": [
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
@@ -108,7 +132,7 @@
     "en": "The Returning Hero's Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.33210164,
+   "score": 0.33211148,
    "languages": [
     "es-la",
     "en",
@@ -117,36 +141,12 @@
    ]
   },
   {
-   "id": "d0511db6-9851-4802-b224-eb3e356f395b",
-   "title": {
-    "en": "Celestial Phenomenon"
-   },
-   "contentRating": "safe",
-   "score": 0.32253358,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "51fc25ce-6480-4c57-a626-83d3a05df26c",
-   "title": {
-    "en": "Rin of the Demon"
-   },
-   "contentRating": "safe",
-   "score": 0.3209671,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "16126824-8f68-4fc5-bad8-050a97a203df",
    "title": {
     "en": "Handling the Demoness and Saintess"
    },
    "contentRating": "safe",
-   "score": 0.316499,
+   "score": 0.3163344,
    "languages": [
     "en",
     "ru"
@@ -158,7 +158,7 @@
     "en": "Level Up with the Gods"
    },
    "contentRating": "safe",
-   "score": 0.31508666,
+   "score": 0.3150428,
    "languages": [
     "es-la",
     "pl",
@@ -173,7 +173,7 @@
     "en": "Level 1 Player"
    },
    "contentRating": "safe",
-   "score": 0.3145624,
+   "score": 0.31453443,
    "languages": [
     "en",
     "fr",
@@ -188,7 +188,7 @@
     "en": "Child of the Sheath"
    },
    "contentRating": "safe",
-   "score": 0.31426433,
+   "score": 0.31422064,
    "languages": [
     "fr",
     "es-la",
@@ -198,29 +198,29 @@
    ]
   },
   {
-   "id": "50bbbb16-69e8-4b91-9671-6069500fd296",
-   "title": {
-    "en": "Last on Earth"
-   },
-   "contentRating": "safe",
-   "score": 0.31169486,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "80bfed02-1f24-47d0-9fac-6fdb50b1aac6",
    "title": {
     "en": "I’m the Only One Loved by the Constellations!"
    },
    "contentRating": "safe",
-   "score": 0.30747038,
+   "score": 0.30738762,
    "languages": [
     "pt-br",
     "es-la"
    ]
+  },
+  {
+   "id": "51fc25ce-6480-4c57-a626-83d3a05df26c",
+   "title": {
+    "en": "Rin of the Demon"
+   },
+   "contentRating": "safe",
+   "score": 0.30530056,
+   "languages": [
+    "fr",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-10-21T20:21:30+00:00"
+ "updatedAt": "2024-10-29T19:23:13+00:00"
 }

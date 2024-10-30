@@ -18,16 +18,22 @@
   },
   "links": {
    "al": "90871",
+   "amz": "https://www.amazon.co.jp/dp/B074CHJLQB",
    "ap": "a-bout-asagiri-daikatsuyaku-hen",
+   "bw": "series/10737/list",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1544709",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/199895/",
    "kt": "27276",
    "mal": "68691",
-   "mu": "99612"
+   "mu": "99612",
+   "raw": "https://kc.kodansha.co.jp/title?code=1000006444"
   },
   "originalLanguage": "ja",
   "lastVolume": "5",
-  "lastChapter": "43",
+  "lastChapter": "38",
   "publicationDemographic": "shounen",
   "status": "completed",
+  "year": 2013,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -72,9 +78,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2018-10-30T01:56:09+00:00",
-  "updatedAt": "2024-07-27T19:15:42+00:00"
+  "updatedAt": "2024-10-22T15:26:32+00:00"
  },
  "relationships": [
   {
@@ -130,17 +136,22 @@
    }
   },
   {
-   "id": "c1fbde3e-947c-4fc2-bbb2-28bc3e584222",
+   "id": "6a20d00d-8e62-4fbe-a533-d9a46caaa8d7",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:49:53+00:00",
+    "createdAt": "2021-05-23T05:51:24+00:00",
     "description": "",
-    "fileName": "5412d66d-11c1-42f7-bdf9-194b3a31602a.png",
+    "fileName": "6ed4c63c-bd16-446b-a85f-b80e05997c11.png",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:49:53+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T05:51:25+00:00",
+    "version": 2,
+    "volume": "5"
    }
+  },
+  {
+   "id": "8a83af87-bf1d-445b-8551-eef62ac38f70",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "cf43b9e3-396a-41bc-ab72-715f66cdb7e1",

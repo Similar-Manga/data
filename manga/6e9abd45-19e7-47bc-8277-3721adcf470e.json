@@ -3,20 +3,33 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Onna Senshito"
+   "en": "Dragon Quest III - Onna Senshi to (Doujinshi)"
   },
   "altTitles": [
    {
-    "en": "女戦士と"
+    "ja": "女戦士と (ドラゴンクエストIII)"
+   },
+   {
+    "en": "Woman Soldier"
    }
   ],
-  "description": {
-   "en": "Woman Soldier"
-  },
+  "description": {},
   "originalLanguage": "ja",
   "status": "completed",
   "contentRating": "pornographic",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
     "type": "tag",
@@ -28,12 +41,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "ddefd648-5140-4e5f-ba18-4eca4071d19b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Shota"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2020-01-29T21:36:08+00:00",
-  "updatedAt": "2023-12-24T11:50:52+00:00"
+  "updatedAt": "2024-10-27T14:49:44+00:00"
  },
  "relationships": [
   {

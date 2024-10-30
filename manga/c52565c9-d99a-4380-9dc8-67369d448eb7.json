@@ -35,7 +35,7 @@
    "al": "54457",
    "amz": "https://www.amazon.co.jp/dp/B09MYN2Z3B",
    "ap": "puella-magi-madoka-magica",
-   "bw": "series/326239",
+   "bw": "series/326239/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/668670/",
    "engtl": "https://yenpress.com/series/puella-magi-madoka-magica",
    "kt": "16820",
@@ -180,9 +180,9 @@
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 16,
   "createdAt": "2018-01-30T05:55:10+00:00",
-  "updatedAt": "2024-10-10T05:04:27+00:00"
+  "updatedAt": "2024-10-22T18:02:34+00:00"
  },
  "relationships": [
   {
@@ -323,6 +323,11 @@
    "related": "sequel"
   },
   {
+   "id": "1a75bbe9-dd49-4fb6-a636-6b31fe312bb9",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
    "id": "1f952cb2-6b5d-4a0a-b278-8378a55a38a5",
    "type": "manga",
    "related": "doujinshi"
@@ -356,6 +361,16 @@
    "id": "3b943939-acf8-415f-853a-824b8f50fcc6",
    "type": "manga",
    "related": "shared_universe"
+  },
+  {
+   "id": "3d8f809d-1a5b-43d9-a321-4a2972d81053",
+   "type": "manga",
+   "related": "spin_off"
+  },
+  {
+   "id": "3fe8ead8-34a3-48ad-8789-0e6c07fb7d05",
+   "type": "manga",
+   "related": "doujinshi"
   },
   {
    "id": "41048a91-8449-4a1d-8663-0d2f23753184",
@@ -393,12 +408,22 @@
    "related": "doujinshi"
   },
   {
+   "id": "4bd1d6f8-384a-4caf-9dee-02c191e0d1f4",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
    "id": "5421b195-3827-447b-acff-f82c65f91a05",
    "type": "manga",
    "related": "doujinshi"
   },
   {
    "id": "5525348f-9b16-46d8-901d-c187a8791348",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
+   "id": "57e9a74e-759d-43d6-8ba6-0f1d94bceab0",
    "type": "manga",
    "related": "doujinshi"
   },
@@ -443,6 +468,11 @@
    "related": "doujinshi"
   },
   {
+   "id": "693b08f3-978d-4d58-8c65-a80ae57b6448",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
    "id": "6bfbdbb4-38d1-4b91-a046-ef4624342e52",
    "type": "manga",
    "related": "spin_off"
@@ -458,12 +488,22 @@
    "related": "doujinshi"
   },
   {
+   "id": "71d8b8c6-ca0b-4207-a3b4-0945b69fcacb",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
    "id": "7214d12a-ea27-4532-83d2-72ab5b5f2fb3",
    "type": "manga",
    "related": "doujinshi"
   },
   {
    "id": "7303f286-3767-40b5-907b-2f3ea8ce38d3",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
+   "id": "76e73372-135b-49b5-b5e2-f6a1e9996e42",
    "type": "manga",
    "related": "doujinshi"
   },
@@ -573,6 +613,11 @@
    "related": "doujinshi"
   },
   {
+   "id": "bb6deed2-1db9-48cc-ae49-ae6004911b7d",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
    "id": "be39ae8f-6a7f-43ce-9aa7-4cac6f4d86fb",
    "type": "manga",
    "related": "spin_off"
@@ -643,7 +688,17 @@
    "related": "doujinshi"
   },
   {
+   "id": "d97c4a79-6356-4674-83c5-0deb257c01cd",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
    "id": "dc27cd81-ba23-4bdf-a625-82f69dc4bb3a",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
+   "id": "de1e9b15-dd6e-43cc-b10b-02dc7e45e627",
    "type": "manga",
    "related": "doujinshi"
   },
@@ -656,6 +711,11 @@
    "id": "e4add290-af7d-40a5-a228-5a16c12442b0",
    "type": "manga",
    "related": "spin_off"
+  },
+  {
+   "id": "e60e67ff-8ea5-4a6e-8d31-4920a89d7c0a",
+   "type": "manga",
+   "related": "doujinshi"
   },
   {
    "id": "e71dcc42-8190-40a8-bcb1-41b3493f94bf",
@@ -679,6 +739,11 @@
   },
   {
    "id": "ed8a09e1-f228-4175-a2c1-885006ee9c19",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
+   "id": "ef7816b0-c60a-435d-b1a9-b2cf6feefc7e",
    "type": "manga",
    "related": "doujinshi"
   },

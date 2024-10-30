@@ -3,24 +3,28 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "THE iDOLM@STER Million Live! Theater Days - LIVELY FLOWERS"
+   "en": "THE iDOLM@STER MILLION LIVE! Theater Days - LIVELY FLOWERS"
   },
   "altTitles": [
    {
-    "en": "アイドルマスター ミリオンライブ！ シアターデイズ LIVELY FLOWERS"
+    "ja": "アイドルマスター ミリオンライブ！ シアターデイズ LIVELY FLOWERS"
+   },
+   {
+    "en": "The Idolmaster Million Live! Theater Days Lively Flowers"
    }
   ],
   "description": {
-   "en": "Manga spin-off of The IDOLM@STER Million Live! Theater Days series. Take a look into the daily lives of the idols of the 765Pro Theater!  \n  \nPart of The IDOLM@STER series."
+   "en": "Manga spin-off of The IDOLM@STER Million Live! Theater Days series. Take a look into the daily lives of the idols of the 765Pro Theater!  \n  \nPart of [THE iDOLM@STER](https://mangadex.org/?page=search\u0026title=iDOLM%40STER) series."
   },
   "links": {
    "ap": "the-idolmster-million-live-theater-days-lively-flowers",
    "bw": "series/309229",
-   "mal": "150616"
+   "mal": "150616",
+   "mu": "k6ro9x9"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
-  "lastChapter": "14",
+  "lastChapter": "16",
   "status": "completed",
   "year": 2020,
   "contentRating": "safe",
@@ -52,14 +56,54 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Music"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 9,
   "createdAt": "2020-05-30T20:07:52+00:00",
-  "updatedAt": "2023-06-30T20:28:48+00:00"
+  "updatedAt": "2024-10-27T19:06:35+00:00"
  },
  "relationships": [
+  {
+   "id": "2257b010-0c11-4f8d-a877-42ada32ad423",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "### Alternative Names:\n* 凪庵\n* Rojiura Yorozutei (Nagian)\n* 路地裏萬亭 (凪庵)\n\n### Trackers:\n* [MangaUpdates](https://www.mangaupdates.com/author/mmvipq8/)\n* [MyAnimeList](https://myanimelist.net/people/18351/)\n* [AniList](https://anilist.co/staff/113351/)\n* [Anime-Planet](https://www.anime-planet.com/people/nagian)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://nagian.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nagian",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/79280",
+    "skeb": "https://skeb.jp/@nagian",
+    "tumblr": null,
+    "twitter": "https://twitter.com/nagian",
+    "updatedAt": "2023-09-27T04:51:28+00:00",
+    "version": 4,
+    "website": "http://yoroz.jp/main.html",
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "662d7b28-d6a2-4ca6-8ef3-1f2aab14f44d",
    "type": "author",
@@ -126,6 +170,31 @@
     "version": 1,
     "volume": "2"
    }
+  },
+  {
+   "id": "38ef3fbc-c78a-402f-af44-90784cf48ce9",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "45aa9111-2315-455c-af56-adaed298d9df",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "5bc8c314-13c8-4be9-aa51-59e8d60db3be",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "87515e5f-5826-4eeb-95a4-45475d8b30be",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "a8e00bce-728a-4de2-bea1-a8fb7c89236e",
+   "type": "manga",
+   "related": "same_franchise"
   }
  ]
 }

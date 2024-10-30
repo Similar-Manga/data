@@ -8,6 +8,9 @@
   "altTitles": [
    {
     "ja": "付き合ってやってよ"
+   },
+   {
+    "en": "Just Go Out Already!"
    }
   ],
   "description": {},
@@ -87,9 +90,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2024-10-09T01:10:47+00:00",
-  "updatedAt": "2024-10-10T05:23:22+00:00"
+  "updatedAt": "2024-10-26T07:16:00+00:00"
  },
  "relationships": [
   {
@@ -169,12 +172,17 @@
   {
    "id": "93477e09-3546-4841-b88f-e2456efc058d",
    "type": "manga",
-   "related": "serialization"
+   "related": "prequel"
   },
   {
    "id": "9a0f1e7e-d84b-46e6-8596-ae5a60529e81",
    "type": "manga",
-   "related": "prequel"
+   "related": "serialization"
+  },
+  {
+   "id": "c0d13558-fbb3-4621-8edc-277490171310",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "9872825c-2d06-4768-842b-09e70b0c2409",

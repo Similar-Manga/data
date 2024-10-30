@@ -1,0 +1,231 @@
+{
+ "id": "b31e10b4-ec67-46f5-bfad-96d8111ead3e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Your reality"
+  },
+  "altTitles": [
+   {
+    "ja": "あなたの現実"
+   },
+   {
+    "cs": "Tvá realita"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-29T15:00:51+00:00",
+  "updatedAt": "2024-10-29T17:14:11+00:00"
+ },
+ "relationships": [
+  {
+   "id": "282c7868-a829-4518-b4ce-11b9ce07cfb6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-29T05:30:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Chren4915",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T05:30:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "282c7868-a829-4518-b4ce-11b9ce07cfb6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-29T05:30:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Chren4915",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T05:30:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e8bf01f8-560f-4938-83ab-ffb0435ce567",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-29T15:00:54+00:00",
+    "description": "A DDLC fan manga where everything is same but at the same time isn't. The story follows a young boy called Michael and his friends in the literature club. One they they got an emergency and Michael with Monika will go fix it. Little did they know it was a trap.",
+    "fileName": "f1a3a687-4049-4bea-b89f-66632a951444.png",
+    "locale": "en",
+    "updatedAt": "2024-10-29T15:00:54+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "e2c3953a-55a4-45ff-b3cf-52321a873786",
+   "type": "creator"
+  }
+ ]
+}

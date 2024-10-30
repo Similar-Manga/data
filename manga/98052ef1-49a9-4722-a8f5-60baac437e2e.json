@@ -13,18 +13,6 @@
     "ja-ro": "Hataraku Maou-sama!"
    },
    {
-    "en": "Demon Lord at Work!"
-   },
-   {
-    "en": "Work! Demon King!"
-   },
-   {
-    "ru": "Сатана на подработке!"
-   },
-   {
-    "id": "Raja Iblis Magang!"
-   },
-   {
     "ko": "알바하는 마왕님!"
    },
    {
@@ -32,10 +20,16 @@
    },
    {
     "zh": "打工吧魔王大人"
+   },
+   {
+    "id": "Raja Iblis Magang!"
+   },
+   {
+    "ru": "Сатана на подработке!"
    }
   ],
   "description": {
-   "en": "After being soundly thrashed by the hero Emilia, the Devil King and his general beat a hasty retreat to a parallel universe… only to land plop in the middle of bustling, modern-day Tokyo! Lacking the magic necessary to return home, the two are forced to assume human identities and live average human lives until they can find a better solution. And to make ends meet, Satan finds gainful employment at a nearby fast food joint! With his devilish mind set on working his way up the management food chain, what will become of his thirst for conquest?",
+   "en": "After being soundly thrashed by the hero Emilia, the Devil King and his general beat a hasty retreat to a parallel universe... only to land plop in the middle of bustling, modern-day Tokyo! Lacking the magic necessary to return home, the two are forced to assume human identities and live average human lives until they can find a better solution. And to make ends meet, Satan finds gainful employment at a nearby fast food joint! With his devilish mind set on working his way up the management food chain, what will become of his thirst for conquest?",
    "ja": "勇者に敗れ異世界へ撤退した魔王サタンと腹心のアルシエルがたどり着いたのは、魔王をして常識を超えた超高度文明の世界、ずばり東京都渋谷区笹塚だった。この世界では魔王といえどお金がなければなにもできない。元の世界エンテ・イスラへ帰る力をたくわえるため、魔王改め真奥貞夫は、今日も幡ヶ谷駅前のマグドでアルバイトに励むっ！"
   },
   "links": {
@@ -190,9 +184,9 @@
    }
   ],
   "state": "published",
-  "version": 26,
+  "version": 29,
   "createdAt": "2018-05-26T02:16:49+00:00",
-  "updatedAt": "2024-09-25T10:10:09+00:00"
+  "updatedAt": "2024-10-26T19:36:23+00:00"
  },
  "relationships": [
   {
@@ -248,17 +242,22 @@
    }
   },
   {
-   "id": "d3499fe3-7853-4a81-8985-15aa054ff5ef",
+   "id": "db7fb555-ce28-498c-9b2f-0d566b8863c6",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-12-17T18:30:57+00:00",
+    "createdAt": "2024-10-22T13:52:10+00:00",
     "description": "",
-    "fileName": "67d59990-304e-4eb4-8af6-e018831a07b6.jpg",
+    "fileName": "3669d44e-7251-4cc8-8df3-fd75670fb108.jpg",
     "locale": "ja",
-    "updatedAt": "2023-12-17T18:30:57+00:00",
+    "updatedAt": "2024-10-22T13:52:10+00:00",
     "version": 1,
-    "volume": "22"
+    "volume": "23"
    }
+  },
+  {
+   "id": "06d5a0ba-91e5-4a11-873c-e636535479bb",
+   "type": "manga",
+   "related": "doujinshi"
   },
   {
    "id": "23851521-b43b-4a82-a65c-8247fe120935",

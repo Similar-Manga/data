@@ -3,19 +3,36 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "THE iDOLM@STER: Shiny Colors (4koma)"
+   "en": "THE iDOLM@STER: Shiny Colors - Shinymas Everyday!"
   },
   "altTitles": [
    {
-    "en": "アイドルマスター シャイニーカラーズ"
+    "ja": "アイドルマスターシャイニーカラーズ シャニマスえぶりでい！"
+   },
+   {
+    "en": "The IDOLMASTER Shiny Colors: Shinymas Everyday!"
+   },
+   {
+    "en": "iDOLM@STER: Shiny Colors Shinymas Everyday!"
    }
   ],
   "description": {
-   "en": "Official 4koma for the browser game THE iDOLM@STER: Shiny Colors.  \n  \n(translation by [@ShinyColors\\_ENG](https://twitter.com/ShinyColors_ENG))  \n  \nPart of [THE iDOLM@STER](https://mangadex.org/?page=search\u0026title=iDOLM%40STER) series."
+   "en": "Official 4koma for the video game series *THE iDOLM@STER: Shiny Colors*.",
+   "ja": "２８３プロのアイドルたちの日常をポップに描いて大人気の公式４コマが公式４コマが書籍になって登場！"
+  },
+  "links": {
+   "al": "132383",
+   "amz": "https://www.amazon.co.jp/dp/B0928346L4",
+   "ap": "the-idolmster-shiny-colors-web-4-koma-manga",
+   "bw": "series/296948/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/635136/",
+   "mu": "cpe2qpf",
+   "raw": "https://shinycolors.idolmaster.jp/comic/"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "ongoing",
+  "year": 2018,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -35,23 +52,47 @@
     }
    },
    {
-    "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Video Games"
-     },
-     "description": {},
-     "group": "theme",
-     "version": 1
-    }
-   },
-   {
     "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
     "type": "tag",
     "attributes": {
      "name": {
       "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
      },
      "description": {},
      "group": "format",
@@ -72,13 +113,13 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 10,
   "createdAt": "2019-03-16T18:48:48+00:00",
-  "updatedAt": "2021-05-25T15:39:05+00:00"
+  "updatedAt": "2024-10-24T00:41:58+00:00"
  },
  "relationships": [
   {
-   "id": "2da91984-f46e-422b-80f9-20ca59253303",
+   "id": "662d7b28-d6a2-4ca6-8ef3-1f2aab14f44d",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -88,7 +129,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Bandai Namco Games",
+    "name": "Bandai Namco Entertainment",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -104,22 +145,93 @@
    }
   },
   {
-   "id": "1523aaa3-881f-4f69-83df-23b4c4610ad7",
+   "id": "aa5b9173-14e5-4401-9d5a-f1e756f541ee",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Alternative Names: Gimme\n\n[AniList](https://anilist.co/staff/277379/Gimmy), [MangaUpdates](https://www.mangaupdates.com/author/qfbg8l9/gimme)"
+    },
+    "booth": null,
+    "createdAt": "2022-08-25T05:41:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Gimmy (ギミー)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T00:25:06+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "aa5b9173-14e5-4401-9d5a-f1e756f541ee",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Alternative Names: Gimme\n\n[AniList](https://anilist.co/staff/277379/Gimmy), [MangaUpdates](https://www.mangaupdates.com/author/qfbg8l9/gimme)"
+    },
+    "booth": null,
+    "createdAt": "2022-08-25T05:41:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Gimmy (ギミー)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T00:25:06+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d6dadf54-9120-4d87-a14a-e1f9b742bee2",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:04:45+00:00",
+    "createdAt": "2024-10-24T00:21:21+00:00",
     "description": "",
-    "fileName": "9011a4fb-c205-42c3-936e-9799bee5e837.jpg",
+    "fileName": "79f1e429-ffbe-45bc-8c30-d2d5fd4337f8.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:04:45+00:00",
+    "updatedAt": "2024-10-24T00:21:21+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
+  },
+  {
+   "id": "1ed6a432-e852-41fd-88bb-cc8507b17165",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
+   "id": "686426b9-f1cc-4faf-a345-f5471f19d5ac",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
+   "id": "c44c4ee8-312a-497f-92e7-b270ca175437",
+   "type": "manga",
+   "related": "shared_universe"
   },
   {
    "id": "e6ead041-631d-4294-a1b7-d0c48b572134",
    "type": "manga",
-   "related": "same_franchise"
+   "related": "shared_universe"
   }
  ]
 }

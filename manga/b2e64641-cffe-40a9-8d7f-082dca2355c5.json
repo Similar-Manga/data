@@ -28,8 +28,9 @@
    "raw": "https://magazine.jp.square-enix.com/yg/introduction/pandora"
   },
   "originalLanguage": "ja",
+  "lastVolume": "6",
   "publicationDemographic": "seinen",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2021,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -135,23 +136,25 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2021-12-19T16:06:40+00:00",
-  "updatedAt": "2023-09-04T21:39:35+00:00"
+  "updatedAt": "2024-10-22T13:01:28+00:00"
  },
  "relationships": [
   {
    "id": "b2d4d36e-d0d8-402d-a70c-9f0fd9b0d579",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 萱島雄太"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kayashima Yuta",
+    "name": "Kayashima Yuuta",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -159,9 +162,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/kayashi",
-    "updatedAt": "2022-10-26T14:13:46+00:00",
-    "version": 2,
-    "website": null,
+    "updatedAt": "2024-10-24T09:55:12+00:00",
+    "version": 4,
+    "website": "http://boiledscope.com/",
     "weibo": null,
     "youtube": null
    }
@@ -170,14 +173,16 @@
    "id": "b2d4d36e-d0d8-402d-a70c-9f0fd9b0d579",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 萱島雄太"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kayashima Yuta",
+    "name": "Kayashima Yuuta",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -185,24 +190,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/kayashi",
-    "updatedAt": "2022-10-26T14:13:46+00:00",
-    "version": 2,
-    "website": null,
+    "updatedAt": "2024-10-24T09:55:12+00:00",
+    "version": 4,
+    "website": "http://boiledscope.com/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "d02396f7-9fe1-4a9c-be40-c68a72a8ebf4",
+   "id": "3c666555-5fbf-4c36-93ac-e6c7ac61369a",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-09-04T21:39:37+00:00",
-    "description": "Volume Cover From BookWalker",
-    "fileName": "94047310-a669-4096-b08b-23821c08410a.jpg",
+    "createdAt": "2024-10-22T13:05:06+00:00",
+    "description": "",
+    "fileName": "0b447b18-e391-4765-b29a-10c3953bb75d.jpg",
     "locale": "ja",
-    "updatedAt": "2023-09-04T21:39:37+00:00",
+    "updatedAt": "2024-10-22T13:05:06+00:00",
     "version": 1,
-    "volume": "4"
+    "volume": "6"
    }
   },
   {

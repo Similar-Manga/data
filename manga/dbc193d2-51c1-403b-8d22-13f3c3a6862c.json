@@ -1,0 +1,164 @@
+{
+ "id": "dbc193d2-51c1-403b-8d22-13f3c3a6862c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Can Boys be Cute in Maid Dresses too?"
+  },
+  "altTitles": [
+   {
+    "ja": "男の子もメイド服でかわいくなっていいですか？"
+   },
+   {
+    "ja-ro": "Otoko no Ko mo Maid-fuku de kawaikunatte ii desuka?"
+   },
+   {
+    "en": "Can Boys be cute in maid dresses too?"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/_yukimadoka/status/1846505366487785936"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crossdressing"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-10-29T04:31:32+00:00",
+  "updatedAt": "2024-10-29T04:32:58+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0239de9d-ec90-4a54-834c-744c963b528c",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-29T04:32:37+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuki Madoka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/109013288",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/_yukimadoka",
+    "updatedAt": "2024-10-29T04:36:13+00:00",
+    "version": 2,
+    "website": "https://lit.link/en/yukimadoka",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0239de9d-ec90-4a54-834c-744c963b528c",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-29T04:32:37+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuki Madoka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/109013288",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/_yukimadoka",
+    "updatedAt": "2024-10-29T04:36:13+00:00",
+    "version": 2,
+    "website": "https://lit.link/en/yukimadoka",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e2c82708-e803-445c-bbcc-863e7d0b2ee7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-29T04:31:41+00:00",
+    "description": "",
+    "fileName": "f8e32bce-fb25-4ce2-b665-be0e0e4631b2.png",
+    "locale": "ja",
+    "updatedAt": "2024-10-29T04:31:41+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4e4f1cff-887b-474a-bb2b-d0a9ae50171b",
+   "type": "creator"
+  }
+ ]
+}

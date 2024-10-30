@@ -1,0 +1,142 @@
+{
+ "id": "1e00d59a-d9a4-42f3-9772-ddc3066b6439",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shujin to Juusha"
+  },
+  "altTitles": [
+   {
+    "en": "Master and Servant"
+   },
+   {
+    "ja": "主人と従者"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/PNPN181/status/1312042954568028164/"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2020,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "feedeeca-e421-4fc5-b017-7f2ba8938f4a",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-24T14:51:27+00:00",
+  "updatedAt": "2024-10-24T14:52:50+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f77dcd24-dc8b-4f0a-840f-87cc69e00b6f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-05-13T12:50:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshida Tatsuya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-05-13T12:50:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f77dcd24-dc8b-4f0a-840f-87cc69e00b6f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-05-13T12:50:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshida Tatsuya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-05-13T12:50:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "263f0559-7f6c-4882-bb8f-010ef484e60b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-24T14:51:29+00:00",
+    "description": "",
+    "fileName": "913b6320-bd16-4954-ac17-1813d91f57b7.png",
+    "locale": "ja",
+    "updatedAt": "2024-10-24T14:51:29+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "08d2df3f-4451-4146-abe5-25dc09e5a768",
+   "type": "creator"
+  }
+ ]
+}

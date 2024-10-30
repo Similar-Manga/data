@@ -1,0 +1,170 @@
+{
+ "id": "bc9b9edf-8ea7-47c9-9dc2-8b08ee07ecf9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Surviving in a Romance Fantasy Novel"
+  },
+  "altTitles": [
+   {
+    "ko": "로판에서 살아남기"
+   }
+  ],
+  "description": {
+   "en": "I, Seo Tae-pyung, ended up transmigrating as the younger brother of the heroine in the fantasy romance novel *Celestial Love*. As romantic as this place is supposed to be, I was too busy just trying to adapt to my new life. Romance? Yeah, right. My goal was to keep a low profile and live quietly… But then… “How could you make the crown princess fall for you of all people?!” At that point, I had no idea. I was only just beginning to scrape the surface of this bizarre turn of events…"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-27T10:31:39+00:00",
+  "updatedAt": "2024-10-27T10:36:53+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0d1e382c-8a48-49af-ab58-d2c53df46009",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bread",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a5007894-ec60-40de-850b-c4c808f8e4be",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-27T10:31:02+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Corita",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-27T10:31:02+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "79313460-4d96-4bdc-b29d-d07acdde30b7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-27T10:31:41+00:00",
+    "description": "",
+    "fileName": "191cff6e-349f-4da0-ba6c-d9eb503db7ed.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-10-27T10:31:41+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}

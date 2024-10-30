@@ -32,7 +32,7 @@
    "en",
    "es-la"
   ],
-  "latestUploadedChapter": "2c8b8efe-00f9-4c92-8e9d-cd04be917a06",
+  "latestUploadedChapter": "7b1422eb-8d3a-4eb1-8dc6-f7465b1dd633",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -55,6 +55,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -131,6 +143,18 @@
     }
    },
    {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -156,9 +180,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 11,
   "createdAt": "2023-09-22T19:16:18+00:00",
-  "updatedAt": "2024-10-09T17:05:42+00:00"
+  "updatedAt": "2024-10-27T07:20:56+00:00"
  },
  "relationships": [
   {

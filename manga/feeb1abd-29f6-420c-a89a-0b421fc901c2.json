@@ -1,0 +1,152 @@
+{
+ "id": "feeb1abd-29f6-420c-a89a-0b421fc901c2",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Konzen Tohiko"
+  },
+  "altTitles": [
+   {
+    "ja": "婚前逃避行"
+   }
+  ],
+  "description": {
+   "en": "Ichimine is a sheltered girl who grew up in a closed town. When she was desperate because she had decided to marry a man whose face she did not know, she meets a mysterious man who is in town on business. Ichimine nicknames him “Monogusan” and gradually becomes attracted to him. After meeting him, Ichimine decides to go against the rules of life and runs away from the town with “Monogusan”...?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/%E5%A9%9A%E5%89%8D%E9%80%83%E9%81%BF%E8%A1%8C%E3%80%90%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%80%91%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%CE%B1-%E5%B1%B1%E6%9C%AC%E5%B7%B3%E6%9C%AA-ebook/dp/B0DF2HZGNP",
+   "bw": "de28a119f2-3f0e-4749-88b6-ac0c127dc88b",
+   "raw": "https://flowercomics.jp/title/1334"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-24T10:43:15+00:00",
+  "updatedAt": "2024-10-24T10:44:24+00:00"
+ },
+ "relationships": [
+  {
+   "id": "93569569-d0a5-4c16-a687-fbb4ea5ce587",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-24T10:40:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamamoto Mimi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T10:40:42+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "93569569-d0a5-4c16-a687-fbb4ea5ce587",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-24T10:40:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamamoto Mimi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T10:40:42+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "48fb32d5-12a8-4598-a697-4a2687023174",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-24T10:43:19+00:00",
+    "description": "",
+    "fileName": "a65971f7-3958-4075-bf91-ed92016eccb2.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-24T10:43:19+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

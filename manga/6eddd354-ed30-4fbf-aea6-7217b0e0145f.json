@@ -1,0 +1,130 @@
+{
+ "id": "6eddd354-ed30-4fbf-aea6-7217b0e0145f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "\"Omae wo Tsuihou suru\" Tsuihousareta no wa Ore de wa Naku Mukuchi na Mahou Shoujo deshita"
+  },
+  "altTitles": [
+   {
+    "ja": "「お前を追放する」追放されたのは俺ではなく無口な魔法少女でした"
+   }
+  ],
+  "description": {
+   "ja": "虐げられた最強Sランク美少女を拾って成り上がる！！「お前を追放する！」新米ソロ冒険者・ガリオンが出会ったのは、Sランク冒険者パーティ『栄光の剣』を追放された無口な魔法使いの少女・テレサ。落ち込む彼女を慰め、パーティを結成、冒険の日々を共にすることに。そんな中、落ち目になった『栄光の剣』はテレサを陥れる計画を画策。ガリオンは彼女の穏やかな冒険ライフを守るため、下剋上を決意する――!！"
+  },
+  "links": {
+   "al": "176537",
+   "amz": "https://www.amazon.co.jp/dp/B0CZ4P1R26",
+   "ap": "omae-wo-tsuihousuru-tsuihousareta-no-wa-ore-dewa-naku-mukuchi-na-mahou-shoujo-deshita",
+   "bw": "series/463965",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/820364/",
+   "mu": "2nw5hvw"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-27T00:06:18+00:00",
+  "updatedAt": "2024-10-27T00:06:42+00:00"
+ },
+ "relationships": [
+  {
+   "id": "dfa9b0e4-5994-433e-8085-befcdcf7574e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-08-15T20:24:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Marusei",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-08-15T20:24:34+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8b047b7a-50ff-4e18-9bde-2a84e9b2c840",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-27T00:04:22+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hachio Takumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-27T00:04:22+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fdabcd25-b6c1-42dc-9638-00dc40c88107",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-27T00:06:21+00:00",
+    "description": "",
+    "fileName": "1a34a4ae-9535-47a7-93ac-c6fea6b7dd42.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-27T00:06:21+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

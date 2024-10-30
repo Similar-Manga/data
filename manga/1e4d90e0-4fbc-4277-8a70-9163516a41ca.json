@@ -7,22 +7,25 @@
   },
   "altTitles": [
    {
+    "ja": "さぐりちゃん探検隊"
+   },
+   {
     "en": "Saguri-chan Exploration Party"
    },
    {
-    "en": "Исследовательский отряд Сагури-чан"
+    "en": "Saguri-chan Expedition Party"
    },
    {
-    "en": "さぐりちゃん探検隊"
+    "ru": "Исследовательский отряд Сагури-чан"
    }
   ],
   "description": {
    "en": "Let's go exploring with a cute girl!! A landscape painted by the beautiful stroke of a paintbrush can be found anywhere!! An exploration manga filled with comedy that will make you say, \"Let's go there tomorrow!\"",
-   "pt": "Vamos explorar com uma linda garota! Uma paisagem pintada pelo lindo movimento de um pincel pode ser encontrada em qualquer lugar! Um Mangá de exploração repleto de comédia que vai te fazer dizer \"Vamos lá amanhã!\".  \n  \n**Links:**  \n- [Author's Twitter](https://twitter.com/akiyamayoco)\n"
+   "pt": "Vamos explorar com uma linda garota! Uma paisagem pintada pelo lindo movimento de um pincel pode ser encontrada em qualquer lugar! Um Mangá de exploração repleto de comédia que vai te fazer dizer \"Vamos lá amanhã!\".  \n  \n**Links:**  \n- [Author's Twitter](https://twitter.com/akiyamayoco)"
   },
   "links": {
    "al": "100497",
-   "amz": "https://www.amazon.co.jp/dp/B0789K8LB6/",
+   "amz": "https://www.amazon.co.jp/dp/B07DX5YD7B",
    "ap": "saguri-chan-tankentai",
    "bw": "series/142144",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/441027/",
@@ -36,6 +39,7 @@
   "lastChapter": "35",
   "publicationDemographic": "shounen",
   "status": "completed",
+  "year": 2017,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "id",
@@ -72,6 +76,18 @@
     }
    },
    {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -85,23 +101,25 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2019-03-03T16:50:32+00:00",
-  "updatedAt": "2022-01-25T07:35:18+00:00"
+  "updatedAt": "2024-10-26T05:20:37+00:00"
  },
  "relationships": [
   {
    "id": "74828944-5432-46fd-8859-cab89be785d6",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** あきやま陽光"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Akiyama Yoco",
+    "name": "Akiyama Youkou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -109,8 +127,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/akiyamayoco",
-    "updatedAt": "2023-05-31T16:49:19+00:00",
-    "version": 2,
+    "updatedAt": "2024-10-26T03:42:56+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -120,14 +138,16 @@
    "id": "74828944-5432-46fd-8859-cab89be785d6",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** あきやま陽光"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Akiyama Yoco",
+    "name": "Akiyama Youkou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -135,24 +155,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/akiyamayoco",
-    "updatedAt": "2023-05-31T16:49:19+00:00",
-    "version": 2,
+    "updatedAt": "2024-10-26T03:42:56+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "abfab544-9406-4fcb-9c72-597e02a5d590",
+   "id": "989ff073-c849-4f03-899d-4090403ff8e9",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:03:18+00:00",
+    "createdAt": "2021-05-23T06:26:18+00:00",
     "description": "",
-    "fileName": "e2b7e730-fa1d-4f72-ae31-684ceaed8e2b.jpg",
+    "fileName": "23eff8e6-29cb-45aa-8f1a-ff1e38593178.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:03:18+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:26:18+00:00",
+    "version": 2,
+    "volume": "4"
    }
   },
   {

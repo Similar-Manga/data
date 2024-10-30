@@ -22,9 +22,10 @@
   "year": 2024,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "en"
+   "en",
+   "fr"
   ],
-  "latestUploadedChapter": "447af923-7634-4045-8632-afb25f719997",
+  "latestUploadedChapter": "c9a81543-8820-4cdb-a0f5-3daac6cb7875",
   "tags": [
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
@@ -123,6 +124,18 @@
     }
    },
    {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
@@ -136,9 +149,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-10-15T15:15:04+00:00",
-  "updatedAt": "2024-10-15T17:51:58+00:00"
+  "updatedAt": "2024-10-27T00:59:43+00:00"
  },
  "relationships": [
   {

@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hakoniwa Monster - Shoujo Mangaka, Tokidoki Kamibukuro"
+   "en": "Hakoniwa Monster ~Shoujo Mangaka, Tokidoki Kamibukuro~"
   },
   "altTitles": [
    {
@@ -11,10 +11,15 @@
    }
   ],
   "description": {
-   "en": "The workplace comedy manga centers on a manga creator who worked in an exploitative shounen manga magazine that had tight deadlines and bad working conditions. Once he quits and joins a shoujo manga magazine, despite never having read a shoujo manga himself, he is expecting a literal heaven, but gets something more than he bargained for.\n\n(Source: Anime News Network)"
+   "en": "The workplace comedy manga centers on a manga creator who worked in an exploitative shounen manga magazine that had tight deadlines and bad working conditions. Once he quits and joins a shoujo manga magazine, despite never having read a shoujo manga himself, he is expecting a literal heaven, but gets something more than he bargained for.\n\n(Source: Anime News Network)",
+   "ja": "ブラック部署である週刊誌編集部から、少女漫画編集部に異動になった主人公・臼井英。喜んだのもつかの間、少女漫画部署は社内で「魔窟」と呼ばれていることを知る。その理由は、少女漫画家＝魔物だから！担当作家の奇想天外な言動に右往左往しながらも、臼井の少女漫画編集者としての日常が始まる……。"
   },
   "links": {
-   "bw": "series/446118/list",
+   "al": "167252",
+   "amz": "https://www.amazon.co.jp/dp/B0CLKXFBP9",
+   "ap": "hakoniwa-monster-shoujo-mangakka-tokidoki-kamibukuro",
+   "bw": "series/446118",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/798489/",
    "mal": "160832",
    "mu": "g7idema",
    "raw": "https://comic-days.com/episode/4856001361517201050"
@@ -38,6 +43,18 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -51,9 +68,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2023-07-27T00:40:00+00:00",
-  "updatedAt": "2024-10-11T10:49:47+00:00"
+  "updatedAt": "2024-10-25T22:08:48+00:00"
  },
  "relationships": [
   {

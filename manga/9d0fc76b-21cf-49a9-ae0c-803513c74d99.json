@@ -10,10 +10,14 @@
     "ja": "ハローワークモンスターズ"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "In a world where the war between humans and monsters has ended, Stan, the son of the hero who ended the war, and his maid Myra decide to live in a town where humans and monsters coexist. Heim, the former head of the Demon King's army, proposes an unexpected method of town development…!?\n___\n[Official X](https://x.com/h_w_monsters)"
+  },
   "links": {
+   "al": "177485",
+   "amz": "https://www.amazon.co.jp/dp/B0CTHR2QCM",
    "ap": "hello-work-monsters",
-   "bw": "series/482119/list",
+   "bw": "series/482119",
    "mal": "169532",
    "mu": "2cfvntn",
    "raw": "https://www.sunday-webry.com/episode/2550689798447385112"
@@ -47,19 +51,33 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 8,
   "createdAt": "2024-05-01T10:10:06+00:00",
-  "updatedAt": "2024-08-16T18:01:15+00:00"
+  "updatedAt": "2024-10-26T07:26:14+00:00"
  },
  "relationships": [
   {
    "id": "270e8eb4-7ba0-40f3-9d4f-100fa06ac61e",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 旗町マコ"
+    },
     "booth": null,
     "createdAt": "2023-11-10T06:47:58+00:00",
     "fanBox": null,
@@ -74,8 +92,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2023-11-10T06:47:58+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-26T06:58:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -85,7 +103,9 @@
    "id": "270e8eb4-7ba0-40f3-9d4f-100fa06ac61e",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 旗町マコ"
+    },
     "booth": null,
     "createdAt": "2023-11-10T06:47:58+00:00",
     "fanBox": null,
@@ -100,8 +120,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2023-11-10T06:47:58+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-26T06:58:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

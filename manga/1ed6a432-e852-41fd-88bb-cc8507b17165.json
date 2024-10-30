@@ -14,7 +14,7 @@
    }
   ],
   "description": {
-   "en": "\"283 Production\" is a place where idols with striking personalities hang out and gather, a tiny yet lively agency that makes them feel right at home.\nDealing with phone calls, preparing documents, accounting expenses, and so on... With a job different from \"producing\", office staff are the ones who support idols who shine.\n283 Production's office staff, Nanakusa Hazuki. Being a staff, a daughter, and an older sister, the experiences she gathered from her daily life and her feelings shall become the light to help the idols \"shine\". \nA new \"Idolm@ster Shiny Colors\" will begin to unfold──from the perspective of an office staff!",
+   "en": "\"283 Production\" is a place where idols with striking personalities hang out and gather, a tiny yet lively agency that makes them feel right at home. Dealing with phone calls, preparing documents, accounting expenses, and so on... With a job different from \"producing\", office staff are the ones who support idols who shine.\n\n283 Production's office staff, Nanakusa Hazuki. Being a staff, a daughter, and an older sister, the experiences she gathered from her daily life and her feelings shall become the light to help the idols \"shine\". \n\nA new \"Idolm@ster Shiny Colors\" will begin to unfold──from the perspective of an office staff!",
    "ja": "「283プロダクション」 個性豊かなアイドルたちが集まる、小さいながら賑やかな「家」のような事務所。 電話対応、書類作成、経費精算などなど…… 「プロデュース」とは別のお仕事で、輝くアイドルたちを支えているのが事務員さんです。 283プロの事務員・七草はづき。 事務員として、娘として、そして姉として 積み重なった日々と想いが、アイドルを“輝かせる”明かりとなる── 事務員視点で綴る、新たな「アイドルマスター シャイニーカラーズ」開幕です！"
   },
   "links": {
@@ -51,6 +51,18 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -61,12 +73,36 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Music"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 9,
   "createdAt": "2023-10-21T16:19:01+00:00",
-  "updatedAt": "2024-10-13T11:04:31+00:00"
+  "updatedAt": "2024-10-24T02:19:33+00:00"
  },
  "relationships": [
   {
@@ -133,6 +169,26 @@
     "version": 1,
     "volume": "2"
    }
+  },
+  {
+   "id": "074f85ea-54c0-492a-bb2b-fe879e9a25aa",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
+   "id": "686426b9-f1cc-4faf-a345-f5471f19d5ac",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
+   "id": "c44c4ee8-312a-497f-92e7-b270ca175437",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
+   "id": "e6ead041-631d-4294-a1b7-d0c48b572134",
+   "type": "manga",
+   "related": "shared_universe"
   },
   {
    "id": "4246aa9d-2d89-4f7f-b190-1687bf8749bc",

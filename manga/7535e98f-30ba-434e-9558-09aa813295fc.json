@@ -5,14 +5,25 @@
   "title": {
    "en": "Ibitsu na Boku wo Douka Aishite"
   },
+  "altTitles": [
+   {
+    "ja": "いびつな僕をどうか愛して"
+   },
+   {
+    "en": "Please love the twisted me"
+   }
+  ],
   "description": {
    "en": "Everyone has secrets. Secrets that they would do anything to protect. However, there will always come a time when everything will be discovered. Can Toujo survive when his own secrets will be discovered?"
   },
   "links": {
-   "mu": "151623"
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/392395/",
+   "mu": "151623",
+   "raw": "https://www.cmoa.jp/title/124755/"
   },
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2017,
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en"
@@ -69,16 +80,18 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2019-08-30T18:33:53+00:00",
-  "updatedAt": "2021-05-25T15:43:51+00:00"
+  "updatedAt": "2024-10-27T03:02:38+00:00"
  },
  "relationships": [
   {
    "id": "e6bbffe5-c9e8-4509-8dbe-87101fa838b9",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n木田さっつ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -89,13 +102,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=222047",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/sattsu_k",
+    "updatedAt": "2024-10-27T03:04:28+00:00",
+    "version": 3,
+    "website": "https://satsukik31.wixsite.com/mysite",
     "weibo": null,
     "youtube": null
    }
@@ -104,7 +117,9 @@
    "id": "e6bbffe5-c9e8-4509-8dbe-87101fa838b9",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n木田さっつ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -115,28 +130,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=222047",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/sattsu_k",
+    "updatedAt": "2024-10-27T03:04:28+00:00",
+    "version": 3,
+    "website": "https://satsukik31.wixsite.com/mysite",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "74306fe6-6b65-4f4f-89f8-5258b02cb0ad",
+   "id": "f4dfde10-5002-4bda-85dc-2123bc5123dd",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:24:43+00:00",
+    "createdAt": "2024-10-27T03:02:38+00:00",
     "description": "",
-    "fileName": "82cb3321-1076-4d47-bf73-9f9178688980.jpg",
+    "fileName": "726fe51b-d3bd-48c3-8d71-5e9498c03045.png",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:24:43+00:00",
+    "updatedAt": "2024-10-27T03:02:38+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

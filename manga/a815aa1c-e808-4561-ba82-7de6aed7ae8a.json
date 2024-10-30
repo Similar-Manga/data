@@ -1,0 +1,142 @@
+{
+ "id": "a815aa1c-e808-4561-ba82-7de6aed7ae8a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Soto Benkei-san"
+  },
+  "altTitles": [
+   {
+    "ja": "外弁慶さん"
+   },
+   {
+    "en": "Strong Outside, but a Softie at Home"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/chimairasuzuki/status/1834794227089522916"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "637a71b2-38ab-4b6f-8aa3-791a22c82c4c",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-10-22T18:03:54+00:00",
+  "updatedAt": "2024-10-23T02:44:11+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e63578ce-da01-45e5-9f6c-381129725253",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yano Keito",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/1032496",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/chimairasuzuki",
+    "updatedAt": "2022-02-16T16:29:55+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e63578ce-da01-45e5-9f6c-381129725253",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yano Keito",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/1032496",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/chimairasuzuki",
+    "updatedAt": "2022-02-16T16:29:55+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d738b90d-271c-450b-a121-37e1ec2a763c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-22T18:03:59+00:00",
+    "description": "",
+    "fileName": "bb4dc8a7-35d9-4947-ae49-44ffd7326199.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-22T18:03:59+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "f97a9a67-01cc-48d0-a542-59ea341174c0",
+   "type": "creator"
+  }
+ ]
+}

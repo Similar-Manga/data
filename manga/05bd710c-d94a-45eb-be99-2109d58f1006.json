@@ -58,7 +58,7 @@
    "en",
    "id"
   ],
-  "latestUploadedChapter": "0edc4cf9-c4a4-4053-a1d4-60905169fc83",
+  "latestUploadedChapter": "57a82523-4657-4dc7-8a5f-e1d113e977ef",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -81,6 +81,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -122,9 +134,9 @@
    }
   ],
   "state": "published",
-  "version": 39,
+  "version": 40,
   "createdAt": "2021-02-12T18:22:43+00:00",
-  "updatedAt": "2024-09-28T16:20:47+00:00"
+  "updatedAt": "2024-10-25T16:08:55+00:00"
  },
  "relationships": [
   {
@@ -132,7 +144,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "Native Name:\n甜米らくれ\n\nAssociated Name:\nRaclette Umagome"
+     "en": "**Name In Native Language:** 甜米らくれ\n\n**Circle:** Rakure Cheese Koubou (らくれチーズ工房)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -144,12 +156,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/60061502",
+    "pixiv": "https://www.pixiv.net/users/60061502",
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/UMA_raclette",
-    "updatedAt": "2023-09-01T14:33:51+00:00",
-    "version": 4,
+    "updatedAt": "2024-10-25T11:44:31+00:00",
+    "version": 6,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -160,7 +172,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "Native Name:\n甜米らくれ\n\nAssociated Name:\nRaclette Umagome"
+     "en": "**Name In Native Language:** 甜米らくれ\n\n**Circle:** Rakure Cheese Koubou (らくれチーズ工房)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -172,12 +184,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/60061502",
+    "pixiv": "https://www.pixiv.net/users/60061502",
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/UMA_raclette",
-    "updatedAt": "2023-09-01T14:33:51+00:00",
-    "version": 4,
+    "updatedAt": "2024-10-25T11:44:31+00:00",
+    "version": 6,
     "website": null,
     "weibo": null,
     "youtube": null

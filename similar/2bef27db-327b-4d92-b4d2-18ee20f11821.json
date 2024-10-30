@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
-   "title": {
-    "en": "The Twin Empires"
-   },
-   "contentRating": "safe",
-   "score": 0.20352875,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "70e55f28-fcba-4f4c-9984-42b4cce4079a",
    "title": {
     "en": "Dorara"
@@ -31,6 +19,18 @@
    ]
   },
   {
+   "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
+   "title": {
+    "en": "The Twin Empires"
+   },
+   "contentRating": "safe",
+   "score": 0.20352875,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "4d6decd4-835d-4905-9534-2571dae07bcd",
    "title": {
     "en": "Lord El-Melloi II-sei no Jikenbo"
@@ -40,6 +40,7 @@
    "languages": [
     "vi",
     "en",
+    "es",
     "ru",
     "id",
     "es-la",
@@ -60,17 +61,6 @@
    ]
   },
   {
-   "id": "961031ed-86bd-4f06-a9f1-2001d34bb172",
-   "title": {
-    "en": "Seirei Tsukai Elementalors: Chito no Jinshi"
-   },
-   "contentRating": "safe",
-   "score": 0.17066404,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
    "id": "45b0ce64-680d-4754-a7a3-74a660e5c300",
    "title": {
     "en": "Fushi no Sougishi"
@@ -86,19 +76,14 @@
    ]
   },
   {
-   "id": "7888380e-b90a-432d-ad0d-a20cdda8d595",
+   "id": "961031ed-86bd-4f06-a9f1-2001d34bb172",
    "title": {
-    "en": "Me \u0026 the Devil Blues"
+    "en": "Seirei Tsukai Elementalors: Chito no Jinshi"
    },
    "contentRating": "safe",
-   "score": 0.16997482,
+   "score": 0.17066404,
    "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "es-la",
-    "uk",
-    "pl"
+    "es-la"
    ]
   },
   {
@@ -133,7 +118,7 @@
     "en": "Vampire Hunter D"
    },
    "contentRating": "safe",
-   "score": 0.14595293,
+   "score": 0.14595854,
    "languages": [
     "es-la",
     "ar"
@@ -152,6 +137,22 @@
     "pt-br",
     "es",
     "tr"
+   ]
+  },
+  {
+   "id": "7888380e-b90a-432d-ad0d-a20cdda8d595",
+   "title": {
+    "en": "Me \u0026 the Devil Blues"
+   },
+   "contentRating": "safe",
+   "score": 0.14061736,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en",
+    "es-la",
+    "uk",
+    "pl"
    ]
   },
   {
@@ -210,7 +211,7 @@
     "en": "Witch Hat Atelier"
    },
    "contentRating": "safe",
-   "score": 0.12966664,
+   "score": 0.12968081,
    "languages": [
     "my",
     "es-la",
@@ -228,7 +229,7 @@
     "en": "Asadora!"
    },
    "contentRating": "safe",
-   "score": 0.12915555,
+   "score": 0.12915409,
    "languages": [
     "es-la",
     "en",
@@ -236,5 +237,5 @@
    ]
   }
  ],
- "updatedAt": "2024-10-21T20:08:05+00:00"
+ "updatedAt": "2024-10-29T19:08:30+00:00"
 }

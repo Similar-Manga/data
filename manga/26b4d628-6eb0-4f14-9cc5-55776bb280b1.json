@@ -1,0 +1,161 @@
+{
+ "id": "26b4d628-6eb0-4f14-9cc5-55776bb280b1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shin Koihime Musou - Otome Ryouran Sangokushi Engi"
+  },
+  "description": {},
+  "originalLanguage": "ja",
+  "lastVolume": "5",
+  "lastChapter": "25",
+  "status": "completed",
+  "year": 2009,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi"
+  ],
+  "latestUploadedChapter": "07ac7148-2980-44c5-8edd-2d4bbb9fe370",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-29T14:57:50+00:00",
+  "updatedAt": "2024-10-29T14:58:10+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ad0d65ac-afe4-4f18-a232-506a8afd38b5",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nAkari Ryuryu\nあかりりゅりゅ羽 "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://akariryuryuu88.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akari Ryuryuu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/287441",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/akariryuryuu",
+    "updatedAt": "2023-01-16T19:32:18+00:00",
+    "version": 2,
+    "website": "http://akaryuu.blog.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ad0d65ac-afe4-4f18-a232-506a8afd38b5",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nAkari Ryuryu\nあかりりゅりゅ羽 "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://akariryuryuu88.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akari Ryuryuu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/287441",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/akariryuryuu",
+    "updatedAt": "2023-01-16T19:32:18+00:00",
+    "version": 2,
+    "website": "http://akaryuu.blog.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6043d30a-963c-4777-8022-350f9a072b3e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-29T14:57:51+00:00",
+    "description": "",
+    "fileName": "e2bcae50-42ac-46ca-9f29-17d081045b9d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-29T14:57:51+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "6d4afafa-97f3-4962-932f-e12c1cdbc699",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "id": "23c26ad1-a9d5-4b34-b166-3611a8577e47",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Watashi-tachi wa Kakechigatteiru"
+  },
+  "altTitles": [
+   {
+    "ja": "私たちはカケちがっている"
+   }
+  ],
+  "description": {
+   "en": "The story follows the shy and elegant \"Idomu\" Takaku, who becomes interested in his beautiful classmate Hazuki Shinohara, who sits beside him in class. She seems to keep everyone else at a distance, but the truth is that she has no idea how to communicate with others. Hazuki is secretly interested in Idomu as well, but the two have no idea how to communicate their feelings to each other."
+  },
+  "links": {
+   "mal": "175615",
+   "raw": "https://championcross.jp/episodes/116f258363958/"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "c5c73199-d221-41d6-af26-8849f53fda4e",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-10-23T03:33:32+00:00",
+  "updatedAt": "2024-10-23T10:22:08+00:00"
+ },
+ "relationships": [
+  {
+   "id": "45684b07-85ff-4483-b854-7dc5ae9faf0d",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nMinamoto You\nみなもと悠"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Minamoto Yuu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/minamotoyou",
+    "updatedAt": "2023-04-19T21:59:53+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "45684b07-85ff-4483-b854-7dc5ae9faf0d",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nMinamoto You\nみなもと悠"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Minamoto Yuu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/minamotoyou",
+    "updatedAt": "2023-04-19T21:59:53+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0967d9ef-93fb-4d82-ab1b-b05ce25f6920",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-23T03:33:36+00:00",
+    "description": "",
+    "fileName": "f34599c3-ef94-457e-956d-37fd7609793a.png",
+    "locale": "ja",
+    "updatedAt": "2024-10-23T03:33:36+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "d502c90c-d700-4523-94c2-82177d3ec08f",
+   "type": "creator"
+  }
+ ]
+}

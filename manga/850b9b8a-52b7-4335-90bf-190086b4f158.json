@@ -1,0 +1,174 @@
+{
+ "id": "850b9b8a-52b7-4335-90bf-190086b4f158",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "A Broken Promise"
+  },
+  "altTitles": [
+   {
+    "ko": "지키지 못한 약속"
+   },
+   {
+    "ko-ro": "jikiji motan yakssok"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://reunion.unikorea.go.kr/reuni/home/cms/page/Webtoon.do?mid=SM00000278\u0026webToonNum=50"
+  },
+  "originalLanguage": "ko",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-10-24T01:37:14+00:00",
+  "updatedAt": "2024-10-25T15:50:53+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d230347d-16f0-45b9-9a96-507fc064c8a2",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hyeon A Cho",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d230347d-16f0-45b9-9a96-507fc064c8a2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hyeon A Cho",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8c32a8be-f195-4815-94aa-1414e903f752",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-24T01:37:16+00:00",
+    "description": "",
+    "fileName": "3ef1fd4e-4863-4dac-94c0-61914f5fd6ae.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-10-24T01:37:16+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "21566228-18c8-493c-9d81-edeac029a0da",
+   "type": "creator"
+  }
+ ]
+}

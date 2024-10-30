@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "b15443e6-a9dd-401c-9e74-a568d804054c",
-   "title": {
-    "en": "Totodon"
-   },
-   "contentRating": "safe",
-   "score": 0.28256705,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e42f6486-e018-4f29-b54c-7baed2ee855d",
    "title": {
     "en": "Minigram (MILGRAM 4koma)"
@@ -29,12 +18,23 @@
    ]
   },
   {
+   "id": "b15443e6-a9dd-401c-9e74-a568d804054c",
+   "title": {
+    "en": "Totodon"
+   },
+   "contentRating": "safe",
+   "score": 0.28256705,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a0d76ebd-99d5-4702-b35b-349be10c6af3",
    "title": {
     "en": "Ikusaba Animation"
    },
    "contentRating": "safe",
-   "score": 0.27977723,
+   "score": 0.2798093,
    "languages": [
     "en",
     "fr"
@@ -46,7 +46,7 @@
     "en": "Sketchbook"
    },
    "contentRating": "safe",
-   "score": 0.2642368,
+   "score": 0.26539013,
    "languages": [
     "en",
     "pl",
@@ -60,49 +60,9 @@
     "en": "Chrome Shelled Regios Felli's Poem: a four frame comic strip"
    },
    "contentRating": "safe",
-   "score": 0.25572798,
+   "score": 0.25573456,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "3c30229a-e6a3-44fa-a1ac-61a208c2ebad",
-   "title": {
-    "en": "Yaotome x 2"
-   },
-   "contentRating": "safe",
-   "score": 0.24471025,
-   "languages": [
-    "en",
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "812b8e07-86bd-4327-ba85-ea441575e460",
-   "title": {
-    "en": "Oshikake Twin Tail"
-   },
-   "contentRating": "safe",
-   "score": 0.24471025,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "31fbb1af-3df1-496e-992f-b7f96a34d1ab",
-   "title": {
-    "en": "Lucky☆Star"
-   },
-   "contentRating": "safe",
-   "score": 0.24471025,
-   "languages": [
-    "it",
-    "pl",
-    "es",
-    "pt-br",
-    "en",
-    "fr"
    ]
   },
   {
@@ -128,9 +88,9 @@
    ]
   },
   {
-   "id": "0fe716b8-ad54-48b1-9c81-13d0894ecebb",
+   "id": "812b8e07-86bd-4327-ba85-ea441575e460",
    "title": {
-    "en": "Shobo Shobo Man"
+    "en": "Oshikake Twin Tail"
    },
    "contentRating": "safe",
    "score": 0.24471025,
@@ -139,18 +99,32 @@
    ]
   },
   {
-   "id": "840ebe1f-d1a5-4205-9dd0-58124bdda8f7",
+   "id": "3c30229a-e6a3-44fa-a1ac-61a208c2ebad",
    "title": {
-    "en": "Ichigo Mashimaro"
+    "en": "Yaotome x 2"
    },
    "contentRating": "safe",
-   "score": 0.24331515,
+   "score": 0.24471025,
    "languages": [
-    "pl",
     "en",
     "es-la",
-    "zh-hk",
     "pt-br"
+   ]
+  },
+  {
+   "id": "31fbb1af-3df1-496e-992f-b7f96a34d1ab",
+   "title": {
+    "en": "Lucky☆Star"
+   },
+   "contentRating": "safe",
+   "score": 0.24471025,
+   "languages": [
+    "it",
+    "pl",
+    "es",
+    "pt-br",
+    "en",
+    "fr"
    ]
   },
   {
@@ -159,7 +133,7 @@
     "en": "Aka Pro!!! - Akarui Sanshimai Project"
    },
    "contentRating": "safe",
-   "score": 0.23227811,
+   "score": 0.23229265,
    "languages": [
     "en",
     "uk"
@@ -171,7 +145,7 @@
     "en": "A Silent Voice Special Movie Book"
    },
    "contentRating": "safe",
-   "score": 0.22458553,
+   "score": 0.22463629,
    "languages": [
     "en",
     "fr",
@@ -183,14 +157,16 @@
    ]
   },
   {
-   "id": "a57b2144-ed01-44d0-9b83-dd7000125c7e",
+   "id": "a43509ba-f5a9-4a41-b693-0674e7709dc6",
    "title": {
-    "en": "Gattai Idol! Snow-chan"
+    "en": "Non-Special Day"
    },
    "contentRating": "safe",
-   "score": 0.22089154,
+   "score": 0.22299765,
    "languages": [
-    "en"
+    "tr",
+    "en",
+    "ru"
    ]
   },
   {
@@ -199,11 +175,34 @@
     "en": "Kanakana"
    },
    "contentRating": "safe",
-   "score": 0.21945249,
+   "score": 0.22116746,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a57b2144-ed01-44d0-9b83-dd7000125c7e",
+   "title": {
+    "en": "Gattai Idol! Snow-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.22087286,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6af5379f-ace2-453f-a9dd-94f7c443937a",
+   "title": {
+    "en": "Shinozaki Himeno's Love Q\u0026A"
+   },
+   "contentRating": "safe",
+   "score": 0.21887551,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-10-21T21:26:52+00:00"
+ "updatedAt": "2024-10-29T20:34:21+00:00"
 }

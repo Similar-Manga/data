@@ -1,0 +1,151 @@
+{
+ "id": "440dbc4d-3f17-4637-941b-fe5754c41ca6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Heavenly Demon Tavern"
+  },
+  "altTitles": [
+   {
+    "ko": "천마 객잔"
+   },
+   {
+    "en": "Thousand Horse Guest Glass"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mu": "oxrp5w9",
+   "raw": "https://page.kakao.com/content/65133537"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-27T10:48:53+00:00",
+  "updatedAt": "2024-10-27T11:17:16+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d25c5b8c-4956-4f56-8b9b-a718365e5e36",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T17:55:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jonghyeon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T17:55:06+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d25c5b8c-4956-4f56-8b9b-a718365e5e36",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T17:55:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jonghyeon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T17:55:06+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "aed85a95-f52d-4375-88b5-b130e2a8562f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-27T10:49:04+00:00",
+    "description": "",
+    "fileName": "dae2559b-01af-44b0-b71c-938a3fbcfce1.png",
+    "locale": "ko",
+    "updatedAt": "2024-10-27T10:49:04+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0b79d7be-f0b8-4c71-a8cb-bead0f91651d",
+   "type": "creator"
+  }
+ ]
+}

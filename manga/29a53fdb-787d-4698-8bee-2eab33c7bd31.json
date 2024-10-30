@@ -3,14 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Touhou - Making Udon With Sakuya's Leftover Bathwater Has Gotta Be Delicious (Doujinshi)"
+   "en": "Touhou - Sakuya-san no Ofuro no Nokoriyu ni Shime ni Udon Iretara Zettai Oishii (Doujinshi)"
   },
   "altTitles": [
    {
-    "ja-ro": "Sakuya-san no Ofuro no Nokoriyu ni Shime ni Udon Iretara Zettai Oishii"
+    "ja": "咲夜さんのお風呂の残り湯にシメにうどん入れたら絶対おいしい (東方)"
    },
    {
-    "ja": "咲夜さんのお風呂の残り湯にシメにうどん入れたら絶対おいしい"
+    "ja-ro": "Sakuya-san no Ofuro no Nokoriyu ni Shime ni Udon Iretara Zettai Oishii (Touhou)"
+   },
+   {
+    "en": "Making Udon With Sakuya's Leftover Bathwater Has Gotta Be Delicious (Touhou Project)"
    }
   ],
   "description": {
@@ -110,9 +113,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2019-06-30T06:38:08+00:00",
-  "updatedAt": "2024-03-28T00:45:16+00:00"
+  "updatedAt": "2024-10-24T07:08:43+00:00"
  },
  "relationships": [
   {
@@ -144,6 +147,32 @@
    }
   },
   {
+   "id": "f035b236-ad1b-4706-92ea-f37113c2c2c5",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-08-08T21:24:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hitori de Dekirumon! (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T07:08:34+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "77b54c4a-bd47-4247-9e94-1cbedc218435",
    "type": "artist",
    "attributes": {
@@ -167,6 +196,32 @@
     "updatedAt": "2023-03-16T04:55:41+00:00",
     "version": 2,
     "website": "http://hitoriandyou.blog.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f035b236-ad1b-4706-92ea-f37113c2c2c5",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-08-08T21:24:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hitori de Dekirumon! (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T07:08:34+00:00",
+    "version": 2,
+    "website": null,
     "weibo": null,
     "youtube": null
    }

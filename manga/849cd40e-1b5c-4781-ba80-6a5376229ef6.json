@@ -16,18 +16,19 @@
     "en": "少女回路"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "links": {
    "ap": "shoujo-kairo",
+   "bw": "series/113196",
    "kt": "43117",
    "mal": "93860",
    "mu": "125474"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
   "publicationDemographic": "seinen",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2015,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -72,9 +73,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2018-11-19T06:20:55+00:00",
-  "updatedAt": "2021-05-25T15:44:33+00:00"
+  "updatedAt": "2024-10-26T10:19:22+00:00"
  },
  "relationships": [
   {
@@ -130,16 +131,16 @@
    }
   },
   {
-   "id": "e88c3a18-8421-4fe4-a694-ec1a34ae4240",
+   "id": "1d0ec337-9df9-4ace-828d-dfb72a0917f6",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:52:02+00:00",
+    "createdAt": "2024-10-26T10:19:22+00:00",
     "description": "",
-    "fileName": "f80c4553-fde7-443c-a287-55352c364f20.jpg",
+    "fileName": "52f54bc8-8e67-4949-b505-8424d119c90d.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:52:02+00:00",
+    "updatedAt": "2024-10-26T10:19:22+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

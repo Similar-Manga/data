@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tako de, Gomen ne."
+   "en": "Sorry, I'm an Octopus"
   },
   "altTitles": [
    {
@@ -11,6 +11,9 @@
    },
    {
     "ja": "タコで、ごめんね。"
+   },
+   {
+    "ja-ro": "Tako de, Gomen ne."
    }
   ],
   "description": {
@@ -92,9 +95,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2024-05-29T09:03:50+00:00",
-  "updatedAt": "2024-06-03T15:38:21+00:00"
+  "updatedAt": "2024-10-26T17:03:17+00:00"
  },
  "relationships": [
   {

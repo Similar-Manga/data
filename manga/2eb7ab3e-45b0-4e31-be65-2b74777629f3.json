@@ -1,0 +1,155 @@
+{
+ "id": "2eb7ab3e-45b0-4e31-be65-2b74777629f3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Akuyaku Reijou, Juukai Shindara Nanka Kowareta."
+  },
+  "altTitles": [
+   {
+    "ja": "悪役令嬢、十回死んだらなんか壊れた。"
+   }
+  ],
+  "description": {
+   "ja": "「お姉さん、大好き！」「私、今世はこの美少年と添い遂げます！」\n\n何度も裏切られ、何度も死んだせいか、出会いも別れも、もはやどうでもいいと思っていたのに…!? 17歳にして「煉獄の魔女」と呼ばれ、人々から恐れられているフィオラ（ただし、聖女メセラは除く）。今世もどうせ同じよ・・・と、ひとりでさっさと魔王を倒しに出かけてみたら、出会ってしまった!! 魔王レペテラ君に!!!　ハイ、決めました。私、今世はこの美少年と添い遂げます！"
+  },
+  "links": {
+   "al": "179321",
+   "amz": "https://www.amazon.co.jp/dp/B0DJBPFGKW",
+   "bw": "series/490269",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/855548/",
+   "mu": "o6qsh3g",
+   "raw": "https://comic-walker.com/detail/KC_005663_S"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-27T23:38:41+00:00",
+  "updatedAt": "2024-10-27T23:39:11+00:00"
+ },
+ "relationships": [
+  {
+   "id": "44dba287-c64f-4f06-adaf-4469f1b7f407",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-08-12T23:15:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shimano Yuuhi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-08-12T23:15:34+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "036eb4d4-e1a2-4fa1-91a2-66855a1897d2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-04-17T23:34:57+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hoshino Sumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-04-17T23:34:57+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7e0b4ade-81a6-4aa2-ad9d-0029dd3f21fb",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-27T23:38:44+00:00",
+    "description": "",
+    "fileName": "ce97c8b8-ed16-40d3-a9fa-6a9177fb4676.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-27T23:38:44+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

@@ -7,10 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "Kankin kuiki reberu X"
+    "ja-ro": "Kankin kuiki reberu X"
    },
    {
-    "en": "監禁区域レベルX"
+    "ja": "監禁区域レベルX"
    }
   ],
   "description": {
@@ -18,13 +18,35 @@
   },
   "links": {
    "al": "122113",
+   "bw": "series/279799/list",
    "engtl": "https://denpa.pub/series/lockdown-zone",
+   "mal": "129910",
    "raw": "https://comic-action.com/episode/13933686331674749649"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "3",
+  "lastChapter": "22",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2020,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "ru"
+  ],
+  "latestUploadedChapter": "0c3bdd64-a29e-4ea4-98b6-f35f9c3f1e63",
   "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
@@ -36,12 +58,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 5,
   "createdAt": "2020-09-07T15:48:41+00:00",
-  "updatedAt": "2020-09-07T15:48:41+00:00"
+  "updatedAt": "2024-10-26T11:53:14+00:00"
  },
  "relationships": [
   {
@@ -123,14 +157,14 @@
    }
   },
   {
-   "id": "5ef16475-baa4-42df-abbb-068d66664cc7",
+   "id": "6c9b7d42-c4fc-4870-9669-b57f2fd1d7d3",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-02-27T12:10:01+00:00",
+    "createdAt": "2024-10-26T11:35:05+00:00",
     "description": "",
-    "fileName": "d374bdff-991b-41c1-bd94-9e612a80eee3.jpg",
+    "fileName": "0629572a-d256-4dd5-b957-838b8de788cc.jpg",
     "locale": "ja",
-    "updatedAt": "2024-02-27T12:10:01+00:00",
+    "updatedAt": "2024-10-26T11:35:05+00:00",
     "version": 1,
     "volume": "3"
    }

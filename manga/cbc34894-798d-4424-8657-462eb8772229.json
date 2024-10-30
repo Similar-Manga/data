@@ -3,14 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Minotaurus' Sweetheart"
+   "en": "Minotauros no Omoibito"
   },
   "altTitles": [
+   {
+    "ja": "ミノタウロスの想い人"
+   },
    {
     "ja-ro": "Minotauros no Omoibito"
    },
    {
-    "ja": "ミノタウロスの想い人"
+    "en": "Minotaurus' Sweetheart"
    }
   ],
   "description": {
@@ -113,32 +116,34 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2020-04-14T20:44:47+00:00",
-  "updatedAt": "2024-04-18T09:45:53+00:00"
+  "updatedAt": "2024-10-25T17:45:24+00:00"
  },
  "relationships": [
   {
    "id": "e6601481-17ac-4fea-98eb-9b801858a8d3",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: けいじろー\n\n**Alt. names**:\nKeizirou\nmukunozaltusou"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://keiziro.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Keijirou",
+    "name": "Keijirou (けいじろー)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/102627897",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/mukunozaltusou",
+    "updatedAt": "2024-10-25T02:44:04+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

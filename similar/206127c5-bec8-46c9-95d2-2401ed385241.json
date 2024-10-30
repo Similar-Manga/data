@@ -6,26 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "b40ede21-1360-4a35-a86c-b1e7883eb243",
-   "title": {
-    "en": "Watashi-tachi wa Douka shiteiru"
-   },
-   "contentRating": "safe",
-   "score": 0.35548133,
-   "languages": [
-    "pt-br",
-    "ru",
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "72165c63-997a-4a8b-a740-5bc7cda30022",
    "title": {
     "en": "Yoake wo Matsu Kimi no Tame ni"
    },
    "contentRating": "safe",
-   "score": 0.33013758,
+   "score": 0.3301868,
    "languages": [
     "en"
    ]
@@ -36,7 +22,7 @@
     "en": "White Lover"
    },
    "contentRating": "safe",
-   "score": 0.3154951,
+   "score": 0.3155195,
    "languages": [
     "pl",
     "en",
@@ -50,8 +36,22 @@
     "en": "Nao Go Straight -Guide Dog Trainer-"
    },
    "contentRating": "safe",
-   "score": 0.30944198,
+   "score": 0.30956444,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b40ede21-1360-4a35-a86c-b1e7883eb243",
+   "title": {
+    "en": "Watashi-tachi wa Douka shiteiru"
+   },
+   "contentRating": "safe",
+   "score": 0.3001859,
+   "languages": [
+    "pt-br",
+    "ru",
+    "es-la",
     "en"
    ]
   },
@@ -61,7 +61,7 @@
     "en": "Gorgeous Takashino Ichizoku"
    },
    "contentRating": "safe",
-   "score": 0.29444152,
+   "score": 0.29446557,
    "languages": [
     "en"
    ]
@@ -72,7 +72,7 @@
     "en": "Saijoukyuu FORTUNE"
    },
    "contentRating": "safe",
-   "score": 0.2907721,
+   "score": 0.29076806,
    "languages": [
     "en"
    ]
@@ -83,37 +83,15 @@
     "en": "Boku no Papa to Papa no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.28417116,
+   "score": 0.2842102,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c056190c-ba36-4039-bd40-6fd6cb55fd2f",
+   "id": "534e868e-97ea-426f-b760-58bc3baeb0bb",
    "title": {
-    "en": "Abareru Inu"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "beadccb5-3ff5-4a84-9ce6-e4ec9f91ce17",
-   "title": {
-    "en": "Koishiteru to Iu Koto ni Shita"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1ca12c64-c2aa-40b2-9635-811c64863d83",
-   "title": {
-    "en": "The Assassin Dislikes Fish"
+    "en": "Tasogare, Kimi ni Ai ni Iku"
    },
    "contentRating": "safe",
    "score": 0.28350797,
@@ -134,20 +112,9 @@
    ]
   },
   {
-   "id": "e32a6616-f3d6-4c4a-88b1-879a9d7396cf",
+   "id": "beadccb5-3ff5-4a84-9ce6-e4ec9f91ce17",
    "title": {
-    "en": "Koisuru Intelligence"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "534e868e-97ea-426f-b760-58bc3baeb0bb",
-   "title": {
-    "en": "Tasogare, Kimi ni Ai ni Iku"
+    "en": "Koishiteru to Iu Koto ni Shita"
    },
    "contentRating": "safe",
    "score": 0.28350797,
@@ -167,12 +134,45 @@
    ]
   },
   {
+   "id": "1ca12c64-c2aa-40b2-9635-811c64863d83",
+   "title": {
+    "en": "The Assassin Dislikes Fish"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c056190c-ba36-4039-bd40-6fd6cb55fd2f",
+   "title": {
+    "en": "Abareru Inu"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e32a6616-f3d6-4c4a-88b1-879a9d7396cf",
+   "title": {
+    "en": "Koisuru Intelligence"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "71e6d8b3-087b-4589-85ee-2e10d77752c7",
    "title": {
     "en": "Kenshuui wa Koakuma to Odoru"
    },
    "contentRating": "safe",
-   "score": 0.2657555,
+   "score": 0.26572007,
    "languages": [
     "en"
    ]
@@ -183,12 +183,12 @@
     "en": "Uruwashi no Tinker Bell Sou"
    },
    "contentRating": "safe",
-   "score": 0.26379925,
+   "score": 0.26381287,
    "languages": [
     "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2024-10-21T20:03:20+00:00"
+ "updatedAt": "2024-10-29T19:03:11+00:00"
 }

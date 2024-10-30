@@ -7,7 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "保护我方大大"
+    "zh": "保护我方大大"
+   },
+   {
+    "ko": "최애에게 들켜버렸다"
    }
   ],
   "description": {
@@ -16,17 +19,32 @@
   "links": {
    "engtl": "https://comics.inkr.com/title/649-protect-my-star?utm_source=mgd",
    "kt": "58714",
-   "mu": "161151"
+   "mu": "161151",
+   "raw": "https://www.pocketcomics.com/comic/9131?languageCode=en"
   },
   "originalLanguage": "zh",
+  "lastChapter": "151",
   "publicationDemographic": "shoujo",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2019,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "560156b3-228c-452d-a4a3-2169ace2be7a",
   "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -62,12 +80,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2020-04-03T07:11:07+00:00",
-  "updatedAt": "2022-11-04T05:44:40+00:00"
+  "updatedAt": "2024-10-22T13:54:40+00:00"
  },
  "relationships": [
   {

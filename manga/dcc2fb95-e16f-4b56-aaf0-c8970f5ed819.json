@@ -1,0 +1,129 @@
+{
+ "id": "dcc2fb95-e16f-4b56-aaf0-c8970f5ed819",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Wolf Falls In Love With The Moon"
+  },
+  "altTitles": [
+   {
+    "en": "The Love between Two Perfect and Useless People(Serialized)"
+   }
+  ],
+  "description": {
+   "en": "Ookamigawa Runa is the beautiful and perfect student council president. She's scary when she's angry, so he calls her \"Wolf Senpai\" (Senpai), the frivolous and incompetent vice president Tsukiyama Yuga. Like the moon and the turtle, these two are polar opposites and don't get along. One day, Tsukiyama finds out about Wolf Senpai's true nature through a secret part-time job...!? The mismatched love story between these two people with secret faces begins!"
+  },
+  "links": {
+   "raw": "https://urasunday.com/title/3005/264977"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-20T04:13:35+00:00",
+  "updatedAt": "2024-10-27T23:28:36+00:00"
+ },
+ "relationships": [
+  {
+   "id": "bd0b8595-8dbd-4fde-966f-bdc2d7ff8e96",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n小牧まりあ\nOriyama Baku"
+    },
+    "booth": "https://oriyama89.booth.pm/",
+    "createdAt": "2022-08-26T00:04:49+00:00",
+    "fanBox": "https://maria-komaki.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Komaki Maria",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/29008055",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/maria_komaki",
+    "updatedAt": "2023-08-17T03:58:00+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bd0b8595-8dbd-4fde-966f-bdc2d7ff8e96",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n小牧まりあ\nOriyama Baku"
+    },
+    "booth": "https://oriyama89.booth.pm/",
+    "createdAt": "2022-08-26T00:04:49+00:00",
+    "fanBox": "https://maria-komaki.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Komaki Maria",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/29008055",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/maria_komaki",
+    "updatedAt": "2023-08-17T03:58:00+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ad4426ef-56cf-411d-b7c3-deedc2152505",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-20T04:13:36+00:00",
+    "description": "",
+    "fileName": "c415e638-12ec-4e44-ab87-830c3d79337d.png",
+    "locale": "en",
+    "updatedAt": "2024-10-20T04:13:36+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "14cec953-af55-42ce-b39b-babff3c1134f",
+   "type": "creator"
+  }
+ ]
+}

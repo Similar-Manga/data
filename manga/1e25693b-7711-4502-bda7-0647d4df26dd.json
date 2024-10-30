@@ -1,0 +1,143 @@
+{
+ "id": "1e25693b-7711-4502-bda7-0647d4df26dd",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ganbatte Ikimasshoi"
+  },
+  "altTitles": [
+   {
+    "ja": "がんばっていきまっしょい"
+   },
+   {
+    "en": "Let's Do Our Best!"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "182775",
+   "raw": "https://comic-walker.com/detail/KC_005946_S/episodes/KC_0059460000200011_E"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "suggestive",
+  "availableTranslatedLanguages": [
+   "ru"
+  ],
+  "latestUploadedChapter": "8d7af3f7-894b-43a7-b1df-21eaf012b969",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-25T17:45:24+00:00",
+  "updatedAt": "2024-10-26T06:55:58+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f58b69e9-369c-4e5b-aa70-d47bc1519848",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T17:38:49+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshiko Shikimura",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T17:38:49+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1034c351-c71c-4d66-9d85-82a67647f5a1",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuromaru Kyousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4e15691b-8afd-42ec-b07b-e8106909b0fe",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-25T17:45:29+00:00",
+    "description": "",
+    "fileName": "11cc45d9-082f-4fdc-a596-8cfb0bfd2a8c.png",
+    "locale": "ja",
+    "updatedAt": "2024-10-25T17:45:29+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "8d70a4bf-8f75-43b7-b47c-75933fb27a7c",
+   "type": "creator"
+  }
+ ]
+}

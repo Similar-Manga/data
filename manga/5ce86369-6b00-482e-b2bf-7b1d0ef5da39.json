@@ -3,18 +3,22 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Magia Record: Mahou Shoujo Madoka★Magica Side Story - IroKuroe's Raison d'Etre (Doujinshi)"
+   "en": "Magia Record: Mahou Shoujo Madoka★Magica Side Story - IroKuro no Raison d'Etre (Doujinshi)"
   },
   "altTitles": [
    {
-    "en": "Raison d'Etre"
+    "en": "Magia Record: Puella Magi Madoka★Magica Side Story - IroKuroe's Raison d'Etre (Doujinshi)"
    },
    {
-    "ja": "深黒のレゾンデートル"
+    "ja": "深黒のレゾンデートル (マギアレコード 魔法少女まどか☆マギカ外伝)"
    }
   ],
   "description": {
    "en": "Kuroe and Iroha spend their days battling Wraiths and hanging out as friends. But things are not as idyllic as they seem...."
+  },
+  "links": {
+   "mu": "ylyufdp",
+   "raw": "https://www.pixiv.net/en/artworks/103867002"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -160,9 +164,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2023-04-13T18:23:08+00:00",
-  "updatedAt": "2023-11-20T12:56:22+00:00"
+  "updatedAt": "2024-10-22T05:08:32+00:00"
  },
  "relationships": [
   {
@@ -194,28 +198,56 @@
    }
   },
   {
-   "id": "7b811992-7798-4e2e-a174-429f69445269",
+   "id": "0b9cfd38-e3c9-4ace-8b3f-4a268770c4f9",
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Native name**: ゲッチュンチ\n\n**Alt. names**:\nGetchunchi\nGechunchi\n\n**Members**:\n[Gecchu](https://mangadex.org/author/0b9cfd38-e3c9-4ace-8b3f-4a268770c4f9)\n[owanta](https://mangadex.org/author/f6f41e14-d4b7-43fc-9ab2-78c81cc24c3d)"
+     "en": "**Native name**: ゲッチュ \n\n**Alt. names**:\nGechu\nGetchu\n\n**Circle/s**:\n[Gecchunchi](https://mangadex.org/author/7b811992-7798-4e2e-a174-429f69445269)"
     },
-    "booth": "https://getchunchi.booth.pm/",
+    "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Gecchunchi (Circle)",
+    "name": "Gecchu",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=148741",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-07T07:05:43+00:00",
-    "version": 4,
+    "twitter": "https://twitter.com/Getchunchi",
+    "updatedAt": "2024-10-07T07:03:41+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f6f41e14-d4b7-43fc-9ab2-78c81cc24c3d",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Circle/s**:\n[Gecchunchi](https://mangadex.org/author/7b811992-7798-4e2e-a174-429f69445269)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "owanta",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=3412954",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "http://twitter.com/owantajp",
+    "updatedAt": "2024-10-07T07:05:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -229,9 +261,9 @@
     "description": "",
     "fileName": "afdcf95b-ad0e-431c-a45f-8faa97e2fb3f.jpg",
     "locale": "ja",
-    "updatedAt": "2023-04-13T18:23:11+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-10-22T05:08:31+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

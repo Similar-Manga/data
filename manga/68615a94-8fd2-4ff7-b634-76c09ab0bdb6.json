@@ -24,22 +24,37 @@
    "al": "138167",
    "amz": "https://www.amazon.co.jp/dp/B09HSCG2D6",
    "ap": "isekai-nanpa-mushoku-hikikomori-no-ore-ga-skill-wo-kushishite-nekoningen-ya-shinuchuu-dragon-ni-koe-wo-kaketemimashita",
-   "bw": "series/298572",
+   "bw": "series/298572/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/637118/",
    "mal": "137530",
    "mu": "5oglh1y",
    "raw": "https://urasunday.com/title/1581"
   },
   "originalLanguage": "ja",
+  "lastVolume": "6",
+  "lastChapter": "54",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2021,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
-   "id"
+   "id",
+   "en"
   ],
-  "latestUploadedChapter": "344b7e42-33ab-4599-aee8-89eeee0a0408",
+  "latestUploadedChapter": "b1ac20e7-5f45-462f-96fb-c9f9effe0ca6",
   "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
     "type": "tag",
@@ -65,6 +80,18 @@
     }
    },
    {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -78,9 +105,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2021-01-27T22:26:49+00:00",
-  "updatedAt": "2024-08-12T22:18:01+00:00"
+  "updatedAt": "2024-10-25T22:07:51+00:00"
  },
  "relationships": [
   {
@@ -136,14 +163,14 @@
    }
   },
   {
-   "id": "f3f04b12-dd0b-4896-bf54-a08964994a38",
+   "id": "bc24127d-1097-435f-b9f6-7f6862d24213",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-08-12T22:17:59+00:00",
+    "createdAt": "2024-10-25T22:07:49+00:00",
     "description": "",
-    "fileName": "d0f23bfa-2574-44a0-b63d-3efb82393dd3.jpg",
+    "fileName": "2894b354-221a-4bd6-bf8b-ed53cac3093c.jpg",
     "locale": "ja",
-    "updatedAt": "2024-08-12T22:17:59+00:00",
+    "updatedAt": "2024-10-25T22:07:49+00:00",
     "version": 1,
     "volume": "6"
    }

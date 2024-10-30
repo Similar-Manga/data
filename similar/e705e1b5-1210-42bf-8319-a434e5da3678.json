@@ -11,7 +11,7 @@
     "en": "At the End of 4 Minutes"
    },
    "contentRating": "safe",
-   "score": 0.24658139,
+   "score": 0.24593759,
    "languages": [
     "vi",
     "fr",
@@ -26,7 +26,7 @@
     "en": "Hoshi ni Negai o Futatabi"
    },
    "contentRating": "safe",
-   "score": 0.22190712,
+   "score": 0.22118132,
    "languages": [
     "tr",
     "en"
@@ -45,12 +45,29 @@
    ]
   },
   {
-   "id": "d9495e19-f64a-4e78-b00a-236f5eae3e45",
+   "id": "0045474a-dd44-4307-982f-c4cd085153d6",
    "title": {
-    "en": "Gravity Cloud"
+    "en": "Suwaru Onna"
    },
    "contentRating": "safe",
-   "score": 0.2086253
+   "score": 0.2086253,
+   "languages": [
+    "id",
+    "pl",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "41ceb1c6-9836-43bc-a9c8-eed46f0f2a8f",
+   "title": {
+    "en": "Aoi no Yukiusagi"
+   },
+   "contentRating": "safe",
+   "score": 0.2086253,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "570b5b99-02a2-4f0f-84d6-1251aa5ad12f",
@@ -66,6 +83,14 @@
    ]
   },
   {
+   "id": "d9495e19-f64a-4e78-b00a-236f5eae3e45",
+   "title": {
+    "en": "Gravity Cloud"
+   },
+   "contentRating": "safe",
+   "score": 0.2086253
+  },
+  {
    "id": "d4485198-5e6c-483e-8241-87aeb46859a4",
    "title": {
     "en": "Fasting"
@@ -77,31 +102,6 @@
     "pt-br",
     "pl",
     "en"
-   ]
-  },
-  {
-   "id": "41ceb1c6-9836-43bc-a9c8-eed46f0f2a8f",
-   "title": {
-    "en": "Aoi no Yukiusagi"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0045474a-dd44-4307-982f-c4cd085153d6",
-   "title": {
-    "en": "Suwaru Onna"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "id",
-    "pl",
-    "en",
-    "it"
    ]
   },
   {
@@ -138,14 +138,6 @@
    ]
   },
   {
-   "id": "8802e55f-b058-430a-b240-43197198db78",
-   "title": {
-    "en": "Honmei wa Kokoro Zoukei Chocolate"
-   },
-   "contentRating": "safe",
-   "score": 0.19471695
-  },
-  {
    "id": "a215e6c7-6d44-40a5-98b4-a78f606c3d07",
    "title": {
     "en": "Obaa-chan no Poi"
@@ -155,6 +147,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "8802e55f-b058-430a-b240-43197198db78",
+   "title": {
+    "en": "Honmei wa Kokoro Zoukei Chocolate"
+   },
+   "contentRating": "safe",
+   "score": 0.19471695
   },
   {
    "id": "eda814c4-e6f5-4d38-a64a-7929251a7303",
@@ -194,13 +194,17 @@
    ]
   },
   {
-   "id": "af465433-8a29-4f27-bf13-314956996f5c",
+   "id": "32f48067-68bf-451a-99aa-0acc3c73fa1b",
    "title": {
-    "en": "Shoya ga Tsutsuganaku"
+    "en": "Mikami-san wo Furimukasetai"
    },
    "contentRating": "safe",
-   "score": 0.19471695
+   "score": 0.19471695,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-10-21T21:21:57+00:00"
+ "updatedAt": "2024-10-29T20:29:25+00:00"
 }

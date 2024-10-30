@@ -11,11 +11,22 @@
     "en": "All Around Type-Moon"
    },
    "contentRating": "safe",
-   "score": 0.28071082,
+   "score": 0.28042346,
    "languages": [
     "en",
     "pt-br",
     "es"
+   ]
+  },
+  {
+   "id": "4826e1fd-5c4c-4d19-8db1-f5c257b00fa4",
+   "title": {
+    "en": "The Doraemon's Special"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -41,34 +52,12 @@
    ]
   },
   {
-   "id": "4826e1fd-5c4c-4d19-8db1-f5c257b00fa4",
-   "title": {
-    "en": "The Doraemon's Special"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "ba0bdc41-ccf7-4ffe-89ed-65ed131efc99",
    "title": {
     "en": "THE iDOLM@STER Cinderella Girls - After20"
    },
    "contentRating": "safe",
    "score": 0.21502191,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5a68b16e-bb1c-4a48-a705-2ec7e5652488",
-   "title": {
-    "en": "The Homeless Saint in the Abandoned Park"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
    "languages": [
     "en"
    ]
@@ -82,67 +71,6 @@
    "score": 0.20158304,
    "languages": [
     "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "0efeb9d1-8b66-417c-8c6b-252f02191593",
-   "title": {
-    "en": "Nakanaka Kishou na Mitsuya-san"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "03a0487f-b933-40b8-8675-ab51b1984390",
-   "title": {
-    "en": "Kobito no Tsumamigui"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
-   "languages": [
-    "fr",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "fbb62d28-a83c-4ea5-8546-d6877ab533c6",
-   "title": {
-    "en": "Mahou Tsukai ni Taisetsu na Koto"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8788728f-702c-43e5-b9e7-4c173c903b00",
-   "title": {
-    "en": "Eternal Ring"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "6bf646fb-d8d1-40fa-94aa-a9393857b8c1",
-   "title": {
-    "en": "Kami-sama no iru Keshiki"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
-   "languages": [
-    "en",
-    "id",
     "ru"
    ]
   },
@@ -164,9 +92,9 @@
    ]
   },
   {
-   "id": "e347dda0-4506-4616-ad94-92a427e5a73e",
+   "id": "5a68b16e-bb1c-4a48-a705-2ec7e5652488",
    "title": {
-    "en": "Kaede and Snake"
+    "en": "The Homeless Saint in the Abandoned Park"
    },
    "contentRating": "safe",
    "score": 0.20158304,
@@ -186,17 +114,89 @@
    ]
   },
   {
+   "id": "fbb62d28-a83c-4ea5-8546-d6877ab533c6",
+   "title": {
+    "en": "Mahou Tsukai ni Taisetsu na Koto"
+   },
+   "contentRating": "safe",
+   "score": 0.20158304,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0efeb9d1-8b66-417c-8c6b-252f02191593",
+   "title": {
+    "en": "Nakanaka Kishou na Mitsuya-san"
+   },
+   "contentRating": "safe",
+   "score": 0.20158304,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "e347dda0-4506-4616-ad94-92a427e5a73e",
+   "title": {
+    "en": "Kaede and Snake"
+   },
+   "contentRating": "safe",
+   "score": 0.20158304,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "03a0487f-b933-40b8-8675-ab51b1984390",
+   "title": {
+    "en": "Kobito no Tsumamigui"
+   },
+   "contentRating": "safe",
+   "score": 0.20158304,
+   "languages": [
+    "fr",
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "6bf646fb-d8d1-40fa-94aa-a9393857b8c1",
+   "title": {
+    "en": "Kami-sama no iru Keshiki"
+   },
+   "contentRating": "safe",
+   "score": 0.20158304,
+   "languages": [
+    "en",
+    "id",
+    "ru"
+   ]
+  },
+  {
+   "id": "8788728f-702c-43e5-b9e7-4c173c903b00",
+   "title": {
+    "en": "Eternal Ring"
+   },
+   "contentRating": "safe",
+   "score": 0.20158304,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "ddaebcf0-0589-458f-8192-ac972c171c51",
    "title": {
     "en": "Ari no Su Dungeon e Youkoso!"
    },
    "contentRating": "safe",
-   "score": 0.19347604,
+   "score": 0.19348699,
    "languages": [
     "es-la",
     "en"
    ]
   }
  ],
- "updatedAt": "2024-10-21T20:20:44+00:00"
+ "updatedAt": "2024-10-29T19:22:19+00:00"
 }

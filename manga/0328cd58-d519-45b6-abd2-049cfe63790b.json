@@ -3,17 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kanmuri's Watch Workshop"
+   "en": "Kanmuri-san's Watch Workshop"
   },
   "altTitles": [
-   {
-    "en": "Kanmuri-san's Watch Workshop"
-   },
    {
     "ja": "冠さんの時計工房"
    },
    {
     "ja-ro": "Kanmuri-san no Tokei Koubou"
+   },
+   {
+    "en": "Kanmuri's Watch Workshop"
    }
   ],
   "description": {
@@ -21,16 +21,16 @@
   },
   "links": {
    "al": "111299",
-   "amz": "https://www.amazon.co.jp/gp/product/B08MDQZRVN",
+   "amz": "https://www.amazon.co.jp/dp/B08MDQZRVN",
    "ap": "kanmuri-san-no-tokei-koubou",
    "bw": "series/222800",
    "mal": "140559",
    "mu": "157252",
-   "raw": "https://mangacross.jp/comics/kanmurisan"
+   "raw": "https://www.akitashoten.co.jp/series/9862"
   },
   "originalLanguage": "ja",
   "lastVolume": "5",
-  "lastChapter": "30.5",
+  "lastChapter": "31",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2019,
@@ -78,9 +78,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2019-12-05T21:20:23+00:00",
-  "updatedAt": "2024-08-28T23:32:52+00:00"
+  "updatedAt": "2024-10-23T05:55:20+00:00"
  },
  "relationships": [
   {
@@ -140,16 +140,16 @@
    }
   },
   {
-   "id": "57ea6582-9df0-4fd1-b76f-d55953cd9586",
+   "id": "b0ebb1bb-438c-446b-b982-96b16557f7a1",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-23T07:06:50+00:00",
+    "createdAt": "2022-04-12T13:30:45+00:00",
     "description": "",
-    "fileName": "04893b44-7b75-47c3-97a6-11397bb38699.jpg",
+    "fileName": "b7e27646-3066-4afb-b907-6b7202ec01eb.png",
     "locale": "ja",
-    "updatedAt": "2021-05-23T07:06:50+00:00",
-    "version": 2,
-    "volume": "2"
+    "updatedAt": "2022-04-12T13:30:45+00:00",
+    "version": 1,
+    "volume": "5"
    }
   }
  ]

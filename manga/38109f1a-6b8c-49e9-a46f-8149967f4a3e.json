@@ -3,17 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "My Hero Academia: Team Up Mission"
+   "en": "My Hero Academia: Team-Up Missions"
   },
   "altTitles": [
    {
-    "ja-ro": "Boku no Hero Academia: Team Up Mission"
-   },
-   {
-    "ja": "僕のヒーローアカデミア チームアップミッション -Team Up Mission-"
-   },
-   {
     "ja": "僕のヒーローアカデミア チームアップミッション"
+   },
+   {
+    "ja-ro": "Boku no Hero Academia - Team Up Mission"
+   },
+   {
+    "en": "My Hero Academia: Team Up Mission"
    }
   ],
   "description": {
@@ -21,13 +21,14 @@
   },
   "links": {
    "al": "110981",
-   "amz": "https://www.amazon.co.jp/僕のヒーローアカデミア-チームアップミッション-1-ジャンプコミックスDIGITAL-あきやま陽光-ebook/dp/B0847H3KVH/",
-   "bw": "series/236132/list",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/580546/A002336883/",
-   "engtl": "https://www.viz.com/read/manga/my-hero-academia-team-up-missions/all",
+   "amz": "https://www.amazon.co.jp/dp/B08YMYV7PT",
+   "bw": "series/236132",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/580546/",
+   "engtl": "https://www.viz.com/shonenjump/chapters/my-hero-academia-team-up-missions",
    "kt": "56025",
    "mal": "120881",
-   "mu": "157737"
+   "mu": "157737",
+   "raw": "https://shonenjumpplus.com/episode/4856001361260520416"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
@@ -80,23 +81,25 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 11,
   "createdAt": "2020-01-25T23:40:29+00:00",
-  "updatedAt": "2024-07-04T04:46:29+00:00"
+  "updatedAt": "2024-10-26T03:48:20+00:00"
  },
  "relationships": [
   {
    "id": "74828944-5432-46fd-8859-cab89be785d6",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** あきやま陽光"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Akiyama Yoco",
+    "name": "Akiyama Youkou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -104,8 +107,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/akiyamayoco",
-    "updatedAt": "2023-05-31T16:49:19+00:00",
-    "version": 2,
+    "updatedAt": "2024-10-26T03:42:56+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -115,14 +118,16 @@
    "id": "74828944-5432-46fd-8859-cab89be785d6",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** あきやま陽光"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Akiyama Yoco",
+    "name": "Akiyama Youkou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -130,8 +135,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/akiyamayoco",
-    "updatedAt": "2023-05-31T16:49:19+00:00",
-    "version": 2,
+    "updatedAt": "2024-10-26T03:42:56+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

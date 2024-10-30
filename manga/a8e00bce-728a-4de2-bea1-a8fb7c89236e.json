@@ -8,10 +8,13 @@
   "altTitles": [
    {
     "ja": "アイドルマスター ミリオンライブ!"
+   },
+   {
+    "en": "The Idolmaster Million Live!"
    }
   ],
   "description": {
-   "en": "Part of [THE iDOLM@STER](https://mangadex.org/?page=search\u0026title=iDOLM%40STER) series.\n\n\n---\nOfficial Release:\n- Indonesian release by Elex Media Komputindo as **The Idolm@Ster Million Live!** (2019)"
+   "en": "Part of [THE iDOLM@STER](https://mangadex.org/?page=search\u0026title=iDOLM%40STER) series.\n\n---\nOfficial Releases:\n- Indonesian release by Elex Media Komputindo as **The Idolm@Ster Million Live!** (2019)"
   },
   "links": {
    "al": "85788",
@@ -85,9 +88,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2018-10-07T08:50:22+00:00",
-  "updatedAt": "2023-01-17T14:00:59+00:00"
+  "updatedAt": "2024-10-27T13:54:23+00:00"
  },
  "relationships": [
   {
@@ -102,6 +105,32 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Bandai Namco Games",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "33f887f3-71ef-42f3-9f49-b292e7bafcfa",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuki Monji",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -161,9 +190,29 @@
    "related": "doujinshi"
   },
   {
+   "id": "38ef3fbc-c78a-402f-af44-90784cf48ce9",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "45aa9111-2315-455c-af56-adaed298d9df",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
    "id": "45b7d607-bb2a-438d-b9fb-4d513065adef",
    "type": "manga",
    "related": "doujinshi"
+  },
+  {
+   "id": "5bc8c314-13c8-4be9-aa51-59e8d60db3be",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "87515e5f-5826-4eeb-95a4-45475d8b30be",
+   "type": "manga",
+   "related": "same_franchise"
   },
   {
    "id": "9700a53a-39e7-4776-8d11-9902c4b7e803",
@@ -191,12 +240,22 @@
    "related": "doujinshi"
   },
   {
+   "id": "a8957d4f-f8b4-42be-bde6-918b26a8c490",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
    "id": "a8df519e-d19b-4167-ba14-3eb4457ae451",
    "type": "manga",
    "related": "doujinshi"
   },
   {
    "id": "bcbf6abb-3e50-4049-951e-73b2d49f1368",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
+   "id": "c7e743f3-7a34-47f3-a7f8-97389bca2fb9",
    "type": "manga",
    "related": "doujinshi"
   },

@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d5b72291-7bf2-4c69-9822-9df8f2fd37d0",
-   "title": {
-    "en": "Linda"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "bg",
-    "pl"
-   ]
-  },
-  {
    "id": "43e0daab-eda3-4ae2-bf2c-5fe4bf19fb7c",
    "title": {
     "en": "Hell of Regret"
@@ -42,12 +30,24 @@
    ]
   },
   {
+   "id": "d5b72291-7bf2-4c69-9822-9df8f2fd37d0",
+   "title": {
+    "en": "Linda"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "bg",
+    "pl"
+   ]
+  },
+  {
    "id": "1113e7a6-341b-4f63-83ae-954d4aebaf2c",
    "title": {
     "en": "Wings"
    },
    "contentRating": "safe",
-   "score": 0.25367948,
+   "score": 0.25368628,
    "languages": [
     "fr",
     "bg",
@@ -65,11 +65,24 @@
     "en": "The Researcher and her Undead Husband"
    },
    "contentRating": "safe",
-   "score": 0.2405189,
+   "score": 0.24369974,
    "languages": [
     "en",
     "pl",
     "id"
+   ]
+  },
+  {
+   "id": "1f788597-b91b-4cd3-b63f-993967609404",
+   "title": {
+    "en": "Neko to Ookami"
+   },
+   "contentRating": "safe",
+   "score": 0.23286977,
+   "languages": [
+    "pl",
+    "it",
+    "en"
    ]
   },
   {
@@ -84,19 +97,6 @@
     "es-la",
     "fr",
     "pl"
-   ]
-  },
-  {
-   "id": "1f788597-b91b-4cd3-b63f-993967609404",
-   "title": {
-    "en": "Neko to Ookami"
-   },
-   "contentRating": "safe",
-   "score": 0.23286977,
-   "languages": [
-    "pl",
-    "it",
-    "en"
    ]
   },
   {
@@ -127,6 +127,19 @@
    ]
   },
   {
+   "id": "5b3efa84-b1b7-443a-a011-5af084c5ccff",
+   "title": {
+    "en": "Fox Daughter"
+   },
+   "contentRating": "safe",
+   "score": 0.21559551,
+   "languages": [
+    "pl",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "16e91911-3f2d-4653-a466-08e8756e3f46",
    "title": {
     "en": "L∞P"
@@ -141,28 +154,29 @@
    ]
   },
   {
-   "id": "5b3efa84-b1b7-443a-a011-5af084c5ccff",
-   "title": {
-    "en": "Fox Daughter"
-   },
-   "contentRating": "safe",
-   "score": 0.21559551,
-   "languages": [
-    "pl",
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "23f1d1b1-5828-472d-964d-6e55c528f74b",
    "title": {
     "en": "Yume Kurai"
    },
    "contentRating": "safe",
-   "score": 0.21015902,
+   "score": 0.21016403,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "0045474a-dd44-4307-982f-c4cd085153d6",
+   "title": {
+    "en": "Suwaru Onna"
+   },
+   "contentRating": "safe",
+   "score": 0.2086253,
+   "languages": [
+    "id",
+    "pl",
+    "en",
+    "it"
    ]
   },
   {
@@ -194,20 +208,6 @@
    ]
   },
   {
-   "id": "0045474a-dd44-4307-982f-c4cd085153d6",
-   "title": {
-    "en": "Suwaru Onna"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "id",
-    "pl",
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "3adb2795-fe82-425e-ac1a-de970ea481b0",
    "title": {
     "en": "The Outside Inflation"
@@ -219,5 +219,5 @@
    ]
   }
  ],
- "updatedAt": "2024-10-21T19:59:19+00:00"
+ "updatedAt": "2024-10-29T18:59:00+00:00"
 }

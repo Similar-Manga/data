@@ -1,0 +1,117 @@
+{
+ "id": "b2e34609-6e3c-4922-95bf-eee1be09f026",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "\"Muscle Training\""
+  },
+  "altTitles": [
+   {
+    "ja": "「筋トレ」"
+   },
+   {
+    "ja-ro": "\"Kintore\""
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/tomatokeikakuan/status/1760928678106767711/photo/1"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "193e0e78-e535-459b-8006-8bf0916cdcf5",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-25T09:02:33+00:00",
+  "updatedAt": "2024-10-25T14:11:33+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ee9d7844-5e51-4974-9500-f1069e0cf947",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T09:01:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Okatomato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T09:01:27+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ee9d7844-5e51-4974-9500-f1069e0cf947",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T09:01:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Okatomato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T09:01:27+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6e553cf5-94e9-4a2d-9c8f-5caf68ddd802",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-25T09:02:34+00:00",
+    "description": "",
+    "fileName": "d39f01eb-120b-47e6-ba3a-b817b85a7d87.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-25T09:02:34+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "2e690821-e435-4222-8e58-f10a8d317220",
+   "type": "creator"
+  }
+ ]
+}

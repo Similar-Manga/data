@@ -19,6 +19,9 @@
   "description": {
    "en": "Released at Comiket 92."
   },
+  "links": {
+   "raw": "https://www.pixiv.net/en/artworks/64304798"
+  },
   "originalLanguage": "ja",
   "status": "completed",
   "year": 2017,
@@ -37,6 +40,18 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -78,40 +93,12 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2020-02-04T03:11:27+00:00",
-  "updatedAt": "2024-10-09T10:27:49+00:00"
+  "updatedAt": "2024-10-22T08:53:29+00:00"
  },
  "relationships": [
   {
-   "id": "0b9cfd38-e3c9-4ace-8b3f-4a268770c4f9",
-   "type": "author",
-   "attributes": {
-    "biography": {
-     "en": "**Native name**: ゲッチュ \n\n**Alt. names**:\nGechu\nGetchu\n\n**Circle/s**:\n[Gecchunchi](https://mangadex.org/author/7b811992-7798-4e2e-a174-429f69445269)"
-    },
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Gecchu",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "http://www.pixiv.net/member.php?id=148741",
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/Getchunchi",
-    "updatedAt": "2024-10-07T07:03:41+00:00",
-    "version": 5,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
    "id": "7b811992-7798-4e2e-a174-429f69445269",
    "type": "author",
    "attributes": {
@@ -134,34 +121,6 @@
     "twitter": null,
     "updatedAt": "2024-10-07T07:05:43+00:00",
     "version": 4,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "f6f41e14-d4b7-43fc-9ab2-78c81cc24c3d",
-   "type": "author",
-   "attributes": {
-    "biography": {
-     "en": "**Circle/s**:\n[Gecchunchi](https://mangadex.org/author/7b811992-7798-4e2e-a174-429f69445269)"
-    },
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "owanta",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "http://www.pixiv.net/member.php?id=3412954",
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "http://twitter.com/owantajp",
-    "updatedAt": "2024-10-07T07:05:01+00:00",
-    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -196,34 +155,6 @@
    }
   },
   {
-   "id": "7b811992-7798-4e2e-a174-429f69445269",
-   "type": "artist",
-   "attributes": {
-    "biography": {
-     "en": "**Native name**: ゲッチュンチ\n\n**Alt. names**:\nGetchunchi\nGechunchi\n\n**Members**:\n[Gecchu](https://mangadex.org/author/0b9cfd38-e3c9-4ace-8b3f-4a268770c4f9)\n[owanta](https://mangadex.org/author/f6f41e14-d4b7-43fc-9ab2-78c81cc24c3d)"
-    },
-    "booth": "https://getchunchi.booth.pm/",
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Gecchunchi (Circle)",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-07T07:05:43+00:00",
-    "version": 4,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
    "id": "f6f41e14-d4b7-43fc-9ab2-78c81cc24c3d",
    "type": "artist",
    "attributes": {
@@ -252,14 +183,14 @@
    }
   },
   {
-   "id": "c5d352c1-2fa5-4f3f-8b1a-c6c7c99ce9f0",
+   "id": "079c2f75-904f-4b7a-9b15-20f67dffb24d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:43:40+00:00",
+    "createdAt": "2024-10-22T08:51:55+00:00",
     "description": "",
-    "fileName": "1f25d528-f5d1-46f6-b187-5f9c5aba1f17.jpg",
+    "fileName": "da1e0960-f6cd-4ecc-80e5-05e943871e5a.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:43:40+00:00",
+    "updatedAt": "2024-10-22T08:51:55+00:00",
     "version": 1,
     "volume": null
    }

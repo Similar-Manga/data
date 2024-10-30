@@ -1,0 +1,141 @@
+{
+ "id": "354afc20-c5e0-466d-b708-468dd3fa1b7f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Breakup"
+  },
+  "altTitles": [
+   {
+    "ja": "破局"
+   },
+   {
+    "ja-ro": "Hakyoku"
+   },
+   {
+    "vi": "Tai nạn"
+   },
+   {
+    "en": "Crash"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/ldoll_itk/status/1850492648194236534"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi",
+   "en"
+  ],
+  "latestUploadedChapter": "80a971c6-5d0b-42b3-ba53-1c25a8d20456",
+  "tags": [
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-29T07:21:19+00:00",
+  "updatedAt": "2024-10-29T07:21:27+00:00"
+ },
+ "relationships": [
+  {
+   "id": "20056790-2da1-4f83-94b1-da15f6085170",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- イトコ"
+    },
+    "booth": null,
+    "createdAt": "2024-09-23T14:36:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Itoko (ldoll_itk)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/8408900",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ldoll_itk",
+    "updatedAt": "2024-09-23T15:13:45+00:00",
+    "version": 3,
+    "website": "https://marshmallow-qa.com/uq73s3v0mzuce2t",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "20056790-2da1-4f83-94b1-da15f6085170",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- イトコ"
+    },
+    "booth": null,
+    "createdAt": "2024-09-23T14:36:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Itoko (ldoll_itk)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/8408900",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ldoll_itk",
+    "updatedAt": "2024-09-23T15:13:45+00:00",
+    "version": 3,
+    "website": "https://marshmallow-qa.com/uq73s3v0mzuce2t",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b04da3c2-cc18-40eb-b5d9-5767d50ab1a4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-29T07:21:21+00:00",
+    "description": "",
+    "fileName": "58434f19-608e-46f6-b3ff-b32df8341c83.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-29T07:21:21+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "f97a9a67-01cc-48d0-a542-59ea341174c0",
+   "type": "creator"
+  }
+ ]
+}

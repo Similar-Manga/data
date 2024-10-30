@@ -7,7 +7,7 @@
   },
   "altTitles": [
    {
-    "en": "らいか・デイズ"
+    "ja": "らいか・デイズ"
    }
   ],
   "description": {
@@ -16,12 +16,15 @@
   "links": {
    "al": "55729",
    "ap": "raika-days",
+   "bw": "series/54206/list",
    "kt": "19073",
    "mal": "25729",
    "mu": "14754"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "35",
+  "status": "completed",
+  "year": 2005,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -66,9 +69,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-03-29T18:40:26+00:00",
-  "updatedAt": "2021-05-25T15:40:27+00:00"
+  "updatedAt": "2024-10-25T18:10:07+00:00"
  },
  "relationships": [
   {
@@ -124,16 +127,16 @@
    }
   },
   {
-   "id": "d814d7e3-a394-4fc0-b875-d112776b79cd",
+   "id": "ec2b75d2-8adc-44da-97be-a05b995db6eb",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:06:17+00:00",
+    "createdAt": "2024-10-25T18:24:13+00:00",
     "description": "",
-    "fileName": "442022b7-4bfb-4406-a8fc-3f8b6e80f300.jpg",
+    "fileName": "aa1d44a2-958f-4027-ad47-b7e75929f3d7.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:06:17+00:00",
+    "updatedAt": "2024-10-25T18:24:13+00:00",
     "version": 1,
-    "volume": null
+    "volume": "35"
    }
   }
  ]

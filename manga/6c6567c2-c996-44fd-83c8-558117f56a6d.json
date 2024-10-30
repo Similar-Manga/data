@@ -8,6 +8,9 @@
   "altTitles": [
    {
     "ja": "カブトムシと兄ちゃん"
+   },
+   {
+    "en": "Rhinoceros Beetles \u0026 Big Bro"
    }
   ],
   "description": {},
@@ -62,16 +65,18 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2023-11-10T06:52:01+00:00",
-  "updatedAt": "2023-11-11T02:03:22+00:00"
+  "updatedAt": "2024-10-26T07:04:59+00:00"
  },
  "relationships": [
   {
    "id": "270e8eb4-7ba0-40f3-9d4f-100fa06ac61e",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 旗町マコ"
+    },
     "booth": null,
     "createdAt": "2023-11-10T06:47:58+00:00",
     "fanBox": null,
@@ -86,8 +91,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2023-11-10T06:47:58+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-26T06:58:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -97,7 +102,9 @@
    "id": "270e8eb4-7ba0-40f3-9d4f-100fa06ac61e",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 旗町マコ"
+    },
     "booth": null,
     "createdAt": "2023-11-10T06:47:58+00:00",
     "fanBox": null,
@@ -112,8 +119,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2023-11-10T06:47:58+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-26T06:58:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -127,9 +134,9 @@
     "description": "",
     "fileName": "09d1cef5-6b2e-4bda-89ba-3f0c4cf8c1e0.png",
     "locale": "ja",
-    "updatedAt": "2023-11-10T06:52:04+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-10-26T07:04:58+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

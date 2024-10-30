@@ -1,0 +1,143 @@
+{
+ "id": "3f2bcfe7-8a12-405b-adff-f9ce7e19dd9e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Chiisana Shima no Yasashii Hibi"
+  },
+  "altTitles": [
+   {
+    "ja": "ちいさな 島 の やさしい 日々"
+   },
+   {
+    "en": "Sweet Daily in a Small Island"
+   }
+  ],
+  "description": {
+   "en": "Kurasawa Shizuka met Masaki Tsutomu in a small clinic on a small island and they’ve grown from friends to lovers there.\n\nTheir situation has changed, since Tsutomu is now a university student, however, their feelings for each other haven’t changed. Secure in his position with Tsutomu, Shizuka suggests telling their families about their relationship.\n\nThe first person who should know about it is Tsutomu’s father, Shuuichirou. Shizuka goes to have a talk with him, but Shuuichirou makes him leave without listening to him. This doesn’t discourage Shizuka. Along with Tsutomu, they’re ready to do their best to get approval for their relationship from Shuuichirou.\n\nThis is a love story of two people living on a small island and their tender days."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/4801968155",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2428324",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/571290/",
+   "mu": "beso10b",
+   "raw": "https://www.cmoa.jp/title/187905/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "7.5",
+  "status": "completed",
+  "year": 2019,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Boys' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-10-22T07:07:07+00:00",
+  "updatedAt": "2024-10-22T07:08:34+00:00"
+ },
+ "relationships": [
+  {
+   "id": "147c09ad-f4c8-48a6-a76e-e9d2d78c1274",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\n麻倉カムイ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asakura Kamui",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/3288569",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/askr_kmi",
+    "updatedAt": "2023-11-12T16:49:27+00:00",
+    "version": 2,
+    "website": "http://askrkmi.blog.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "147c09ad-f4c8-48a6-a76e-e9d2d78c1274",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\n麻倉カムイ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asakura Kamui",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/3288569",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/askr_kmi",
+    "updatedAt": "2023-11-12T16:49:27+00:00",
+    "version": 2,
+    "website": "http://askrkmi.blog.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1434ab95-268d-4d58-9ddc-f86be2cd3dad",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-22T07:07:09+00:00",
+    "description": "",
+    "fileName": "8a1f3211-cf18-4be1-bb8c-fc49c8f88e13.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-22T07:07:09+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "45e5dfed-4229-4354-91b6-f9232d162323",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "6a755577-e79e-4309-98d1-da53af854b2e",
+   "type": "creator"
+  }
+ ]
+}

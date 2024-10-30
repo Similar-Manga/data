@@ -1,0 +1,194 @@
+{
+ "id": "adde33f8-4d40-4028-8ecc-f89da0543f58",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Welfare Center"
+  },
+  "altTitles": [
+   {
+    "ko": "복지원"
+   },
+   {
+    "ja": "福祉園～血まみれの天使～"
+   },
+   {
+    "ko-ro": "Bok Ji Won"
+   }
+  ],
+  "description": {
+   "en": "Seonghye wakes up in a room she does not recognize, surrounded by women she does not know. It is a torturous, malevolent prison, ironically called the Pureum Welfare Center. With no memory of how she got there, and using nothing but her wits, Seonghye must overcome hostile social dynamics, unknown dangers, and her own psychological roadblocks to rediscover her past and free herself from the Welfare Center."
+  },
+  "links": {
+   "engtl": "https://www.webtoons.com/en/thriller/welfare-center/list?title_no=4675",
+   "mu": "9o23cm3",
+   "raw": "https://series.naver.com/comic/detail.series?productNo=10315809"
+  },
+  "originalLanguage": "ko",
+  "lastChapter": "56",
+  "status": "completed",
+  "year": 2020,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-25T07:44:31+00:00",
+  "updatedAt": "2024-10-26T07:00:08+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d71f7107-7c00-400f-a6ba-72df36ad8f1e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T07:37:38+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kwak Nana",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T07:37:38+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d71f7107-7c00-400f-a6ba-72df36ad8f1e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T07:37:38+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kwak Nana",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T07:37:38+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5449078b-220a-4dfe-bf50-b469d73ca8b1",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-26T06:57:21+00:00",
+    "description": "",
+    "fileName": "a4e0bf43-f0b1-461c-99bc-8ecc998418e6.png",
+    "locale": "ko",
+    "updatedAt": "2024-10-26T06:57:21+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "59ae7314-9903-49f6-bff9-e2f2ded72438",
+   "type": "creator"
+  }
+ ]
+}

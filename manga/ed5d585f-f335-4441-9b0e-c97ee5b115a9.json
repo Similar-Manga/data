@@ -1,0 +1,180 @@
+{
+ "id": "ed5d585f-f335-4441-9b0e-c97ee5b115a9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Company - Stardom Nakama-tachi"
+  },
+  "altTitles": [
+   {
+    "ja": "COMPANYースターダムな仲間たちー"
+   }
+  ],
+  "description": {
+   "en": "The president of the entertainment agency “M's Company,” Kimiko, has an accident, and the agency is in chaos. In order to keep the fact hidden from the public, her daughter Misaki decides to take over management of the company. This nonstop roller-coaster entertainment story depicts the intrigues and underbelly of the entertainment world through the eyes of Misaki, a schoolgirl!"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/gp/product/B0D7LV8SSJ?ref_=dbs_p_pwh_rwt_anx_cl_0\u0026storeType=ebooks",
+   "bw": "series/476372",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/836799/A005210435/",
+   "mu": "ts5npvw",
+   "raw": "https://www.cmoa.jp/title/297158/vol/7/"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-24T17:38:05+00:00",
+  "updatedAt": "2024-10-24T17:39:59+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4c702533-cb71-45e5-9d9c-b848210b9b9d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-24T17:36:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Arishima Mina",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T17:36:53+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ac44aa15-711f-4f3c-bd75-38c115799642",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-24T17:37:09+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nakayama Shiki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T17:37:09+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e869e5ff-85d7-48ab-8743-27c53e868838",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-24T17:37:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tsutsui Hiroko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T17:37:28+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d02f330d-0831-4261-9f39-5ae73fb36d56",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-24T17:38:10+00:00",
+    "description": "",
+    "fileName": "b83eec8d-c932-4370-9365-3f21b574e684.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-24T17:38:10+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

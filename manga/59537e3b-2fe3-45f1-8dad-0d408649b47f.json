@@ -3,8 +3,16 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kuroko no Basuke - His Light is (Doujinshi)"
+   "en": "Kuroko no Basuke - Aitsu no Hikari wa (Doujinshi)"
   },
+  "altTitles": [
+   {
+    "ja": "黒子のバスケ - アイツの光は (Doujinshi)"
+   },
+   {
+    "en": "Kuroko's Basketball - His Light is (Doujinshi)"
+   }
+  ],
   "description": {
    "en": "Kagami x Kuroko x Aomine"
   },
@@ -39,61 +47,77 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2020-10-16T13:16:56+00:00",
-  "updatedAt": "2024-06-01T05:35:17+00:00"
+  "updatedAt": "2024-10-24T03:18:18+00:00"
  },
  "relationships": [
   {
-   "id": "f14d570f-0b60-44ad-84e8-7b9bee27b4cf",
+   "id": "e79b10f3-f771-45a7-b550-f7e45046daa7",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "BL artist."
+    },
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2024-02-21T23:39:08+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "A",
+    "name": "Inu (犬)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/91556",
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-24T03:17:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "f14d570f-0b60-44ad-84e8-7b9bee27b4cf",
+   "id": "e79b10f3-f771-45a7-b550-f7e45046daa7",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "BL artist."
+    },
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2024-02-21T23:39:08+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "A",
+    "name": "Inu (犬)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/91556",
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-24T03:17:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

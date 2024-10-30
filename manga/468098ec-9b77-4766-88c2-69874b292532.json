@@ -3,17 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Atatamete Kureru Hito"
+   "en": "Atatamete Kureru Hito."
   },
   "altTitles": [
-   {
-    "ja-ro": "Atatamete Kureru Hito."
-   },
    {
     "en": "Heat Up, Warm Up"
    },
    {
-    "ja": "あたためてくれるひと"
+    "ja": "あたためてくれるひと。"
    }
   ],
   "description": {
@@ -21,19 +18,25 @@
   },
   "links": {
    "al": "106214",
+   "amz": "https://www.amazon.co.jp/dp/4813030602",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1708323",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/269833/",
    "kt": "52296",
    "mal": "112044",
-   "mu": "108509"
+   "mu": "108509",
+   "raw": "https://www.cmoa.jp/title/85116/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "5.5",
   "status": "completed",
+  "year": 2013,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "en"
+   "en",
+   "vi"
   ],
-  "latestUploadedChapter": "8f8ebc80-329a-4d01-8e43-ddcc273d6acd",
+  "latestUploadedChapter": "e7e0e94c-3b09-4b9b-a64d-7f0ec625f3bc",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -85,16 +88,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-10-16T18:45:02+00:00",
-  "updatedAt": "2022-12-29T04:03:39+00:00"
+  "updatedAt": "2024-10-26T13:53:09+00:00"
  },
  "relationships": [
   {
    "id": "80a84a19-2933-470f-85b8-8961619b6a15",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nヤスエイ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -105,13 +110,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=1658958",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "http://twitter.com/k_yasu28",
+    "updatedAt": "2024-10-26T13:54:29+00:00",
+    "version": 2,
+    "website": "http://kakusen28.blog130.fc2.com/",
     "weibo": null,
     "youtube": null
    }
@@ -120,7 +125,9 @@
    "id": "80a84a19-2933-470f-85b8-8961619b6a15",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nヤスエイ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -131,13 +138,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=1658958",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "http://twitter.com/k_yasu28",
+    "updatedAt": "2024-10-26T13:54:29+00:00",
+    "version": 2,
+    "website": "http://kakusen28.blog130.fc2.com/",
     "weibo": null,
     "youtube": null
    }
@@ -150,9 +157,9 @@
     "description": "",
     "fileName": "b9d9df6e-7838-4370-8f85-2e910a62402c.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:30:26+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-10-26T13:53:09+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

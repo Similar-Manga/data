@@ -35,6 +35,30 @@
   "contentRating": "safe",
   "tags": [
    {
+    "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Loli"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
     "attributes": {
@@ -71,6 +95,30 @@
     }
    },
    {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -79,6 +127,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -96,9 +156,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2023-10-15T16:28:04+00:00",
-  "updatedAt": "2024-06-12T12:43:20+00:00"
+  "updatedAt": "2024-10-26T16:38:11+00:00"
  },
  "relationships": [
   {

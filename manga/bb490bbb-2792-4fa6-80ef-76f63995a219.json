@@ -20,6 +20,7 @@
    "al": "140292",
    "amz": "https://www.amazon.co.jp/アンサングヒーロー-1-ヤンマガKCスペシャル-鯛噛/dp/406525860X",
    "ap": "unsung-hero",
+   "bw": "series/328092/list",
    "cdj": "https://www.cdjapan.co.jp/searches?term.media_format=book\u0026f=major\u0026q=アンサングヒーロー\u0026f=major\u0026q=\u0026f=major\u0026q=\u0026order=scoreboost_cdj\u0026range.rel=\u0026range.sale_price=\u0026term.caption=\u0026term.audio_language=",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/663216/",
    "mal": "139517",
@@ -72,12 +73,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Music"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 13,
   "createdAt": "2021-11-10T09:45:15+00:00",
-  "updatedAt": "2022-07-17T09:14:24+00:00"
+  "updatedAt": "2024-10-26T14:33:43+00:00"
  },
  "relationships": [
   {
@@ -133,16 +146,16 @@
    }
   },
   {
-   "id": "2480be1b-37b3-4835-afe8-094e68e7aaf2",
+   "id": "4fc4d719-ed4e-47ae-a3b3-623ff6a868b5",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-06-10T00:47:24+00:00",
+    "createdAt": "2024-10-26T14:33:14+00:00",
     "description": "",
-    "fileName": "c1183904-0eb2-4311-ad3b-bd6ae982ec4d.jpg",
+    "fileName": "28273ff7-3428-4b31-bc02-e4cf3c048fc6.jpg",
     "locale": "ja",
-    "updatedAt": "2022-06-10T00:47:24+00:00",
+    "updatedAt": "2024-10-26T14:33:14+00:00",
     "version": 1,
-    "volume": "3"
+    "volume": "4"
    }
   },
   {

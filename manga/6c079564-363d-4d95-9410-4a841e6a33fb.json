@@ -45,8 +45,20 @@
    "id",
    "en"
   ],
-  "latestUploadedChapter": "3cd9b2c2-627e-4520-a058-21f7c79307e6",
+  "latestUploadedChapter": "dc4b80fd-f850-4187-a107-d120b6bf6ad1",
   "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
@@ -133,9 +145,9 @@
    }
   ],
   "state": "published",
-  "version": 28,
+  "version": 29,
   "createdAt": "2023-06-27T06:51:19+00:00",
-  "updatedAt": "2024-09-30T15:55:35+00:00"
+  "updatedAt": "2024-10-25T08:17:47+00:00"
  },
  "relationships": [
   {

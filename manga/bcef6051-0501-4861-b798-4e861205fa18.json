@@ -28,6 +28,7 @@
   "lastVolume": "3",
   "lastChapter": "24",
   "status": "completed",
+  "year": 2018,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "es-la",
@@ -83,12 +84,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2019-09-17T22:25:50+00:00",
-  "updatedAt": "2023-08-30T19:29:40+00:00"
+  "updatedAt": "2024-10-25T00:58:05+00:00"
  },
  "relationships": [
   {
@@ -144,16 +157,16 @@
    }
   },
   {
-   "id": "2faee41b-4e3a-4fbf-abea-2c12ecab8bf5",
+   "id": "5c62d4ff-89ba-4f4e-aefd-9071791810ec",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:26:59+00:00",
+    "createdAt": "2021-05-23T06:55:02+00:00",
     "description": "",
-    "fileName": "746a9cfa-b77c-462e-b89b-6e25b11a7d80.jpg",
+    "fileName": "ed594e52-9fd5-45a0-b950-9fc03af77d84.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:26:59+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:55:02+00:00",
+    "version": 2,
+    "volume": "3"
    }
   },
   {

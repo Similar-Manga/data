@@ -11,7 +11,7 @@
     "en": "I'm an Idiot"
    },
    "contentRating": "safe",
-   "score": 0.3133396,
+   "score": 0.31335795,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "We Don't Like Love Songs"
    },
    "contentRating": "safe",
-   "score": 0.30645636,
+   "score": 0.30649513,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Parlor"
    },
    "contentRating": "safe",
-   "score": 0.30126384,
+   "score": 0.30146304,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "A Carefree Life"
    },
    "contentRating": "safe",
-   "score": 0.29471654,
+   "score": 0.29473257,
    "languages": [
     "en",
     "id",
@@ -57,7 +57,7 @@
     "en": "Treatment Time"
    },
    "contentRating": "safe",
-   "score": 0.29258674,
+   "score": 0.29260376,
    "languages": [
     "es-la",
     "en"
@@ -69,16 +69,39 @@
     "en": "Sensei to JK"
    },
    "contentRating": "safe",
-   "score": 0.28836104,
+   "score": 0.288546,
    "languages": [
     "id",
     "en"
    ]
   },
   {
-   "id": "c106e999-0732-4464-817e-ddd8f113522d",
+   "id": "e1b08943-1195-4eab-85a4-a7bfc0766eed",
    "title": {
-    "en": "Fuu \u0026 Mei's Birthday Day"
+    "en": "One-Armed Amy"
+   },
+   "contentRating": "safe",
+   "score": 0.287161,
+   "languages": [
+    "fr",
+    "hu",
+    "hi",
+    "he",
+    "uk",
+    "en",
+    "it",
+    "pt-br",
+    "id",
+    "es-la",
+    "pl",
+    "ca",
+    "ru"
+   ]
+  },
+  {
+   "id": "f1cb8ebf-d00d-4a49-9eb0-1b70bf5e39bf",
+   "title": {
+    "en": "The Other Side of a Blank Page"
    },
    "contentRating": "safe",
    "score": 0.2842377,
@@ -87,15 +110,26 @@
    ]
   },
   {
-   "id": "4df21dbf-e4f4-4f57-8162-38a974d2803d",
+   "id": "b234a2b6-5805-45c6-83f9-57940d0cd02a",
    "title": {
-    "en": "Satou-san is on the left"
+    "en": "Back Alley Romance"
    },
    "contentRating": "safe",
    "score": 0.2842377,
    "languages": [
-    "en",
-    "es-la"
+    "en"
+   ]
+  },
+  {
+   "id": "12d0d588-5710-4a14-a198-69cdb0684c03",
+   "title": {
+    "en": "Mata Ashita, Ano Seki de."
+   },
+   "contentRating": "safe",
+   "score": 0.2842377,
+   "languages": [
+    "ko",
+    "en"
    ]
   },
   {
@@ -111,32 +145,9 @@
    ]
   },
   {
-   "id": "3c8cce29-530d-4de2-b66d-15773876e6a2",
+   "id": "f3f2c468-9040-407a-ad15-f972d3af714b",
    "title": {
-    "en": "Splash"
-   },
-   "contentRating": "safe",
-   "score": 0.2842377,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "1d95205c-7b89-4722-8c25-a5293bfeb87a",
-   "title": {
-    "en": "You Looked Up Smile Today"
-   },
-   "contentRating": "safe",
-   "score": 0.2842377,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e6b76cc8-1354-40ee-86ad-65b1f88c4039",
-   "title": {
-    "en": "Orange Sweet Olive Blossoms"
+    "en": "Girls Yearning For What They Don't Have"
    },
    "contentRating": "safe",
    "score": 0.2842377,
@@ -157,28 +168,6 @@
    ]
   },
   {
-   "id": "f1cb8ebf-d00d-4a49-9eb0-1b70bf5e39bf",
-   "title": {
-    "en": "The Other Side of a Blank Page"
-   },
-   "contentRating": "safe",
-   "score": 0.2842377,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7d8f4701-0292-41cc-bf28-dcc2cf57a8c6",
-   "title": {
-    "en": "Finder no Saki ni"
-   },
-   "contentRating": "safe",
-   "score": 0.2842377,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "4beb8e69-75e5-41d5-9b38-2bb977627ad7",
    "title": {
     "en": "Nanpa otoko ni karamareta Yuri-puru no Hanashi"
@@ -188,7 +177,32 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "6e03398e-71f3-4abb-85d8-e674c8f575b6",
+   "title": {
+    "en": "The moon is beautiful"
+   },
+   "contentRating": "safe",
+   "score": 0.2842377,
+   "languages": [
+    "ko",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "3c8cce29-530d-4de2-b66d-15773876e6a2",
+   "title": {
+    "en": "Splash"
+   },
+   "contentRating": "safe",
+   "score": 0.2842377,
+   "languages": [
+    "fr",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-10-21T20:27:43+00:00"
+ "updatedAt": "2024-10-29T19:30:01+00:00"
 }

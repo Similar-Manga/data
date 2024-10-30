@@ -3,14 +3,11 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Fluffy Paradise"
+   "en": "Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu."
   },
   "altTitles": [
    {
-    "en": "I'm Working Hard to do *pat-pat* *the pluffy* in Another World."
-   },
-   {
-    "en": "I'm Doing My Best to Make Myself at Home in Another World"
+    "en": "Fluffy Paradise"
    },
    {
     "ja": "異世界でもふもふなでなでするためにがんばってます。"
@@ -19,7 +16,10 @@
     "zh": "为了在异世界也能抚摸毛茸茸"
    },
    {
-    "ja-ro": "Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu."
+    "en": "I'm Working Hard to do *pat-pat* *the pluffy* in Another World."
+   },
+   {
+    "en": "I'm Doing My Best to Make Myself at Home in Another World"
    }
   ],
   "description": {
@@ -27,7 +27,10 @@
   },
   "links": {
    "al": "109202",
+   "amz": "https://www.amazon.co.jp/kindle-dbs/product/B08FV671WJ",
    "ap": "isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu",
+   "bw": "series/161239/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/stories/113332/",
    "engtl": "https://coolmic.me/titles/373",
    "kt": "53590",
    "mal": "114259",
@@ -59,6 +62,18 @@
     }
    },
    {
+    "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Loli"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
     "type": "tag",
     "attributes": {
@@ -71,6 +86,18 @@
     }
    },
    {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
     "type": "tag",
     "attributes": {
@@ -79,6 +106,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -120,9 +159,9 @@
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 14,
   "createdAt": "2019-11-23T10:08:37+00:00",
-  "updatedAt": "2024-01-26T22:30:44+00:00"
+  "updatedAt": "2024-10-23T16:43:39+00:00"
  },
  "relationships": [
   {
@@ -178,16 +217,16 @@
    }
   },
   {
-   "id": "84d1f67b-1115-4e68-bc07-d210487ddd72",
+   "id": "9a666560-5ebb-4399-a95f-de30cee9f31d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-04-02T14:32:28+00:00",
+    "createdAt": "2024-10-23T16:43:37+00:00",
     "description": "",
-    "fileName": "37b0a148-bd52-42c2-ab00-cac9949592b5.jpg",
+    "fileName": "adb934e0-2e34-4958-a11c-cbca72e8f043.jpg",
     "locale": "ja",
-    "updatedAt": "2023-04-02T14:32:28+00:00",
+    "updatedAt": "2024-10-23T16:43:37+00:00",
     "version": 1,
-    "volume": "10"
+    "volume": "14"
    }
   },
   {

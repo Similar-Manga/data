@@ -11,13 +11,13 @@
     "en": "Boku no Kanojo wa Dekkawaii"
    },
    "contentRating": "safe",
-   "score": 0.31676656,
+   "score": 0.32187974,
    "languages": [
     "vi",
     "pl",
+    "en",
     "pt-br",
     "id",
-    "en",
     "fr"
    ]
   },
@@ -27,7 +27,7 @@
     "en": "Kesa Mo Yuraretemasu"
    },
    "contentRating": "safe",
-   "score": 0.304319,
+   "score": 0.30432767,
    "languages": [
     "vi",
     "pt-br",
@@ -43,9 +43,10 @@
     "en": "Wakaba-sanchi no Aoi Koi"
    },
    "contentRating": "safe",
-   "score": 0.3026391,
+   "score": 0.3026528,
    "languages": [
-    "en"
+    "en",
+    "vi"
    ]
   },
   {
@@ -54,7 +55,7 @@
     "en": "Code Geass: Lelouch The Private Home Tutor"
    },
    "contentRating": "safe",
-   "score": 0.2996732,
+   "score": 0.29987237,
    "languages": [
     "pt-br",
     "en"
@@ -66,7 +67,7 @@
     "en": "Momose Akira no Hatsukoi Hatan-chuu."
    },
    "contentRating": "safe",
-   "score": 0.29936305,
+   "score": 0.2993623,
    "languages": [
     "vi",
     "tr",
@@ -85,7 +86,7 @@
     "en": "Aisupe @"
    },
    "contentRating": "safe",
-   "score": 0.29701096,
+   "score": 0.29702273,
    "languages": [
     "en"
    ]
@@ -96,7 +97,7 @@
     "en": "Kusunoki's Flunking Her High School Glow-Up"
    },
    "contentRating": "safe",
-   "score": 0.29629645,
+   "score": 0.29629675,
    "languages": [
     "en",
     "vi",
@@ -111,7 +112,7 @@
     "en": "Itsuki-kun wa Tadasaretai"
    },
    "contentRating": "safe",
-   "score": 0.29567122,
+   "score": 0.295682,
    "languages": [
     "fr",
     "uk",
@@ -125,7 +126,7 @@
     "en": "Tsuji-kun And Miyazono-san"
    },
    "contentRating": "safe",
-   "score": 0.2928411,
+   "score": 0.2928423,
    "languages": [
     "pl",
     "en",
@@ -145,34 +146,6 @@
    ]
   },
   {
-   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
-   "title": {
-    "en": "My Clueless First Friend"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en",
-    "uk",
-    "pt-br",
-    "vi",
-    "id",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
-   "id": "c0e068aa-e7a5-41fc-b72f-39b613613a61",
-   "title": {
-    "en": "Amagami LS ~Haruka Another~"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9ba43723-337b-4123-912c-03e9dfa5e632",
    "title": {
     "en": "Takamori-kun o Damarasetai!!"
@@ -188,13 +161,14 @@
    ]
   },
   {
-   "id": "0d8da574-3a62-48a8-aad2-05225160b1a6",
+   "id": "57e0dd82-503b-4ba1-81a3-f3323f8f6456",
    "title": {
-    "en": "One Piece in Love"
+    "en": "Urasaki-san wants to tell Omoteno-kun."
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
+    "vi",
     "en"
    ]
   },
@@ -214,30 +188,58 @@
    ]
   },
   {
-   "id": "57e0dd82-503b-4ba1-81a3-f3323f8f6456",
+   "id": "0d8da574-3a62-48a8-aad2-05225160b1a6",
    "title": {
-    "en": "Urasaki-san wants to tell Omoteno-kun."
+    "en": "One Piece in Love"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
-    "vi",
     "en"
+   ]
+  },
+  {
+   "id": "c0e068aa-e7a5-41fc-b72f-39b613613a61",
+   "title": {
+    "en": "Amagami LS ~Haruka Another~"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
+   "title": {
+    "en": "My Clueless First Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "uk",
+    "pt-br",
+    "ru",
+    "vi",
+    "id",
+    "es-la"
    ]
   },
   {
    "id": "ad75039d-686c-457f-b478-e56fc3b3c069",
    "title": {
-    "en": "Kajidaikou no Arbeit wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiniirarechaimashita"
+    "en": "Kaji Daikou no Arubaito wo Hajimetara Gakuen Ichi no Bishoujo no Kazoku ni Kiniirarechaimashita"
    },
    "contentRating": "safe",
-   "score": 0.2833042,
+   "score": 0.28319985,
    "languages": [
     "id",
+    "pt-br",
     "en",
     "vi"
    ]
   }
  ],
- "updatedAt": "2024-10-21T20:31:48+00:00"
+ "updatedAt": "2024-10-29T19:34:30+00:00"
 }

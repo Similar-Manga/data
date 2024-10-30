@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "b32a84d0-bf75-4d9c-a4bb-17c74f83416f",
-   "title": {
-    "en": "Crown"
-   },
-   "contentRating": "safe",
-   "score": 0.305688,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e234edfc-c141-4601-a6ae-bceba94dffea",
    "title": {
     "en": "Ledd"
    },
    "contentRating": "safe",
-   "score": 0.30150732
+   "score": 0.30741376
+  },
+  {
+   "id": "b32a84d0-bf75-4d9c-a4bb-17c74f83416f",
+   "title": {
+    "en": "Crown"
+   },
+   "contentRating": "safe",
+   "score": 0.30733994,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "a4f453e7-34c7-404f-a032-8b7cb885d94b",
@@ -30,7 +30,37 @@
     "en": "Lucciola to Makyou no Shoukanin"
    },
    "contentRating": "safe",
-   "score": 0.2992711
+   "score": 0.30039427
+  },
+  {
+   "id": "a1482630-b3e7-453c-9bb8-fecd25b959aa",
+   "title": {
+    "en": "Final Re:Quest"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "70c81754-05ab-4c0b-bc27-ebab13941ec8",
+   "title": {
+    "en": "Ignite"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7513bbc8-f2c0-4f32-b7cd-f8041d8af1a8",
+   "title": {
+    "en": "Gokuudou"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
   },
   {
    "id": "4846e4da-8fe7-4fe4-8ecd-2ec3f182d5ee",
@@ -64,61 +94,12 @@
    "score": 0.2857143
   },
   {
-   "id": "70c81754-05ab-4c0b-bc27-ebab13941ec8",
-   "title": {
-    "en": "Ignite"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7513bbc8-f2c0-4f32-b7cd-f8041d8af1a8",
-   "title": {
-    "en": "Gokuudou"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "a1482630-b3e7-453c-9bb8-fecd25b959aa",
-   "title": {
-    "en": "Final Re:Quest"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0be1d042-bf44-41a6-b0ad-b35f5f5de54b",
-   "title": {
-    "en": "The Totem Warrior"
-   },
-   "contentRating": "safe",
-   "score": 0.25531304,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e839bba5-0e2f-4a76-8985-f773f78165f0",
-   "title": {
-    "en": "Everdark"
-   },
-   "contentRating": "safe",
-   "score": 0.254703
-  },
-  {
    "id": "d1a04156-400d-4032-b885-007c29a8a3c0",
    "title": {
     "en": "Return From the World of Immortals"
    },
    "contentRating": "safe",
-   "score": 0.25322,
+   "score": 0.26799008,
    "languages": [
     "es-la",
     "ru",
@@ -128,12 +109,15 @@
    ]
   },
   {
-   "id": "1e66c25a-76f2-45f9-96a0-042530500f5c",
+   "id": "0be1d042-bf44-41a6-b0ad-b35f5f5de54b",
    "title": {
-    "en": "Saigami"
+    "en": "The Totem Warrior"
    },
    "contentRating": "safe",
-   "score": 0.25125316
+   "score": 0.2597351,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "6bdacebd-f492-4248-b322-25dfda53283a",
@@ -141,7 +125,23 @@
     "en": "Cloth Weaver"
    },
    "contentRating": "safe",
-   "score": 0.24560566
+   "score": 0.25817135
+  },
+  {
+   "id": "e839bba5-0e2f-4a76-8985-f773f78165f0",
+   "title": {
+    "en": "Everdark"
+   },
+   "contentRating": "safe",
+   "score": 0.2564763
+  },
+  {
+   "id": "1e66c25a-76f2-45f9-96a0-042530500f5c",
+   "title": {
+    "en": "Saigami"
+   },
+   "contentRating": "safe",
+   "score": 0.2527395
   },
   {
    "id": "ad59bfad-cf87-4fcb-8ef9-25e27896af8a",
@@ -149,7 +149,7 @@
     "en": "Boukensha Party wo Tsuihou sareta Kaifukushi Shoujo wo Hirotte Ikusei Shitara Masaka no Saikyou Shokugyou ni Tenshoku!? Omake ni Kanojo no Yousu ga nani yara Okashikute..."
    },
    "contentRating": "safe",
-   "score": 0.24512827,
+   "score": 0.24865694,
    "languages": [
     "id",
     "pt-br",
@@ -157,16 +157,13 @@
    ]
   },
   {
-   "id": "7e04ffec-28b0-4594-b796-68bb056d87b0",
+   "id": "32d09d97-1ac7-43c3-a941-c9bba44edb28",
    "title": {
-    "en": "Tales of Destiny 2"
+    "en": "Isekai demo Kagiya-san"
    },
    "contentRating": "safe",
-   "score": 0.24414738,
-   "languages": [
-    "en"
-   ]
+   "score": 0.24825685
   }
  ],
- "updatedAt": "2024-10-21T20:27:53+00:00"
+ "updatedAt": "2024-10-29T19:30:11+00:00"
 }

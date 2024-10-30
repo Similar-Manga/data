@@ -1,0 +1,116 @@
+{
+ "id": "bb904d90-b524-42ed-9082-da9210e12535",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Broken Tower"
+  },
+  "altTitles": [
+   {
+    "en": "Collapse"
+   },
+   {
+    "zh": "崩塔"
+   }
+  ],
+  "description": {
+   "en": "Hundreds of sky-reaching giant towers suddenly popped up all over the world, and the land sank. In order not to be submerged by the sea, people had to squeeze into the towers and climb up. Do you have to sacrifice others if you want to survive?"
+  },
+  "links": {
+   "mu": "8xkgxv2"
+  },
+  "originalLanguage": "zh",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-24T19:51:33+00:00",
+  "updatedAt": "2024-10-24T19:51:45+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1c56f9bf-fd38-4130-a7b9-4978a92f85d6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-24T19:49:35+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mong Yat",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T19:49:35+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0e293083-2c1a-4b79-a82e-1710bc652656",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-24T19:49:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Taku Tang",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T19:49:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e8f809c4-fab8-4232-86ae-7c4bb56011d5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-24T19:51:35+00:00",
+    "description": "",
+    "fileName": "4cf0c3dc-b6f6-4785-99a9-9d752376d9f1.png",
+    "locale": "zh",
+    "updatedAt": "2024-10-24T19:51:35+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "6640d5cb-18a0-4264-8c0a-9dcbe39be5ef",
+   "type": "creator"
+  }
+ ]
+}

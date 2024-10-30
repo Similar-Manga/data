@@ -84,7 +84,7 @@
   },
   "originalLanguage": "ja",
   "lastVolume": "45",
-  "lastChapter": "824",
+  "lastChapter": "822",
   "status": "completed",
   "year": 1969,
   "contentRating": "safe",
@@ -95,7 +95,7 @@
    "pl",
    "es"
   ],
-  "latestUploadedChapter": "5075698a-1e26-42cb-922e-673bd77c73c3",
+  "latestUploadedChapter": "7fa755aa-eefd-475c-a25f-9d3095358347",
   "tags": [
    {
     "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
@@ -243,9 +243,9 @@
    }
   ],
   "state": "published",
-  "version": 25,
+  "version": 26,
   "createdAt": "2018-02-23T23:33:45+00:00",
-  "updatedAt": "2024-10-18T21:15:59+00:00"
+  "updatedAt": "2024-10-22T18:52:05+00:00"
  },
  "relationships": [
   {
@@ -376,6 +376,11 @@
    "id": "5218df2f-2a39-453f-9c39-ec0b2c3639c3",
    "type": "manga",
    "related": "same_franchise"
+  },
+  {
+   "id": "5caeef4c-b66f-42ea-bb34-9bf27be6ffa8",
+   "type": "manga",
+   "related": "alternate_version"
   },
   {
    "id": "5dbc5da5-efca-4392-ba85-2fed2848d99f",

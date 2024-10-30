@@ -1,0 +1,145 @@
+{
+ "id": "3efa0a5a-fecb-4285-802f-6465bc082ec3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Higan Shigan no Monodomo yo"
+  },
+  "altTitles": [
+   {
+    "ja": "彼岸此岸のものどもよ"
+   }
+  ],
+  "description": {
+   "ja": "死者の魂を自身に宿すことができる少女・美月は口寄せの巫女として、姉の陽香里と共に死者の声を生者に伝えることを生業としていた。最期の別れを望み、様々な理由を持った依頼者が姉妹の元へと訪れる…。死者と生者の狭間の「声」を聞き続けた先で二人を待つものとは――？"
+  },
+  "links": {
+   "al": "148445",
+   "amz": "https://www.amazon.co.jp/dp/B0B2PTBTTN",
+   "bw": "series/345946",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/687898/",
+   "mal": "174419",
+   "raw": "https://shonenjumpplus.com/episode/3269754496649850232"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "10",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-22T23:13:55+00:00",
+  "updatedAt": "2024-10-22T23:14:00+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0046e7b2-610f-498e-bb7f-133dec557ef8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-22T23:10:39+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Keisuke Niihama",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-22T23:10:39+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0046e7b2-610f-498e-bb7f-133dec557ef8",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-22T23:10:39+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Keisuke Niihama",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-22T23:10:39+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f5f8b4ac-a9ab-45b0-a81c-0bb02c135a1b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-22T23:13:56+00:00",
+    "description": "",
+    "fileName": "fcecf48e-e00f-40d3-b42f-88b53d173b97.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-22T23:13:56+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

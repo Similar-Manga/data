@@ -1,0 +1,132 @@
+{
+ "id": "2e73a1ac-bf26-4c04-84f6-d0a22fd37624",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tomodachi no Joshi ni Josou Saserare Danshi"
+  },
+  "altTitles": [
+   {
+    "ja": "友達の女子に女装させられ男子"
+   },
+   {
+    "ja-ro": "Tomodachi no Joshi ni Josousaserare Danshi"
+   },
+   {
+    "en": "A Boy Who's Forced to Cross-Dress by His Female Friend"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/user/86109004/series/226367"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "cfeb71b1-a90a-403a-9aa3-11f78aced757",
+  "tags": [
+   {
+    "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crossdressing"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-10-22T18:18:58+00:00",
+  "updatedAt": "2024-10-23T02:41:26+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1aa75c16-3dd8-45ba-86ea-85dd76f050f0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-22T18:15:38+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuuki Oto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/86109004",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T03:36:32+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1aa75c16-3dd8-45ba-86ea-85dd76f050f0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-22T18:15:38+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuuki Oto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/86109004",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T03:36:32+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d4e81cea-de0f-4380-a6f9-b75e952bd76f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-22T18:19:00+00:00",
+    "description": "",
+    "fileName": "f2bbd3ed-4206-4ec6-93d4-17d3bf19bfc6.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-22T18:19:00+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "b58899b5-f2b9-45b9-8048-16395cc30b08",
+   "type": "creator"
+  }
+ ]
+}

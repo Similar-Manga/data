@@ -3,32 +3,84 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Fuyuiro Memories"
+   "en": "Naruto - Fuyuiro Memories (Doujinshi)"
   },
   "altTitles": [
    {
     "en": "Winter Color Memories"
    },
    {
-    "en": "冬色メモリーズ"
+    "ja": "冬色メモリーズ"
    }
   ],
   "description": {
-   "en": ""
+   "en": "| Namespace | Tags |\n| :--- | :--- |\n| parody | naruto |\n| character | hinata hyuga, naruto uzumaki |\n| group | ring memo |\n| artist | oretto |\n| male | bandages, sole male |\n| female | big breasts, kissing, leg lock, nakadashi, sole female |\n[Source](https://e-hentai.org/g/1342600/7c86bff36f/)"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "status": "completed",
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "3623d4eb-7d02-4814-8c15-ab40a9718631",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-10-03T17:50:05+00:00",
-  "updatedAt": "2021-05-25T15:38:57+00:00"
+  "updatedAt": "2024-10-26T13:44:26+00:00"
  },
  "relationships": [
+  {
+   "id": "9ba069a2-2e8f-4d39-8c47-54e863cf4e89",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-26T13:44:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ring Memo (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-26T13:44:15+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "b4dcbd71-a46c-41ff-90bf-34dc6403adce",
    "type": "author",
@@ -49,6 +101,32 @@
     "tumblr": null,
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9ba069a2-2e8f-4d39-8c47-54e863cf4e89",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-26T13:44:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ring Memo (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-26T13:44:15+00:00",
     "version": 1,
     "website": null,
     "weibo": null,

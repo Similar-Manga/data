@@ -8,16 +8,30 @@
   "altTitles": [
    {
     "ja": "アイドルマスター ミリオンライブ！ シアターデイズ ブランニューソング"
+   },
+   {
+    "en": "The Idolmaster Million Live! Theater Days Brand New Song"
+   },
+   {
+    "ja": "アイドルマスター ミリオンライブ！シアターデイズ Brand New Song"
    }
   ],
   "description": {
-   "en": "Manga spin-off of The IDOLM@STER Million Live! Theater Days series. Stars the idols Yuriko Nanao, Momoko Suou, Konomi Baba, along with other idols of 765 Pro. Part of The IDOLM@STER series."
+   "en": "Manga spin-off of THE iDOLM@STER MILLION LIVE! Theater Days series. Stars the idols Yuriko Nanao, Momoko Suou, Konomi Baba, along with other idols of 765 Pro. \n\nPart of [THE iDOLM@STER](https://mangadex.org/?page=search\u0026title=iDOLM%40STER) series."
   },
   "links": {
+   "al": "110370",
+   "amz": "https://www.amazon.co.jp/dp/B07JQ7QV89",
    "ap": "the-idolmaster-million-live-theater-days-brand-new-song",
+   "bw": "series/179848/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/497149/",
+   "mal": "115394",
+   "mu": "75hf2km",
    "raw": "http://www.ichijinsha.co.jp/special/mbns/"
   },
   "originalLanguage": "ja",
+  "lastVolume": "6",
+  "lastChapter": "31",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2017,
@@ -64,6 +78,18 @@
     }
    },
    {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
     "type": "tag",
     "attributes": {
@@ -77,11 +103,37 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 12,
   "createdAt": "2019-10-13T08:57:35+00:00",
-  "updatedAt": "2023-10-31T11:30:17+00:00"
+  "updatedAt": "2024-10-27T19:00:11+00:00"
  },
  "relationships": [
+  {
+   "id": "0e93e1c9-d4e5-424c-b951-afd52825ffaf",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ima",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "662d7b28-d6a2-4ca6-8ef3-1f2aab14f44d",
    "type": "author",
@@ -135,20 +187,35 @@
    }
   },
   {
-   "id": "414a9b3f-5128-4fc4-ac82-65806cd50954",
+   "id": "82692e0b-bbb8-47f2-91f3-a0ba08b8b173",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:30:01+00:00",
+    "createdAt": "2024-10-27T14:43:42+00:00",
     "description": "",
-    "fileName": "198e640d-6aa8-4158-8032-c4366ac426d0.jpg",
+    "fileName": "356bb9d4-86b1-4871-b8f5-d959ef33940d.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:30:01+00:00",
+    "updatedAt": "2024-10-27T14:43:42+00:00",
     "version": 1,
-    "volume": null
+    "volume": "6"
    }
   },
   {
+   "id": "87515e5f-5826-4eeb-95a4-45475d8b30be",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
    "id": "a07ddb79-26d8-462a-9c7b-93961eb9b85f",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "a8957d4f-f8b4-42be-bde6-918b26a8c490",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "a8e00bce-728a-4de2-bea1-a8fb7c89236e",
    "type": "manga",
    "related": "same_franchise"
   }

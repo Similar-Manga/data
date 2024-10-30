@@ -10,22 +10,22 @@
     "en": "The Heroic Saga of Almadianos"
    },
    {
-    "en": "Героическая сага Алмадианоса"
+    "ru": "Героическая сага Алмадианоса"
    },
    {
-    "en": "ملحمة ألمديانوس البطولية"
+    "ar": "ملحمة ألمديانوس البطولية"
    },
    {
-    "en": "アルマディアノス英雄伝"
+    "ja": "アルマディアノス英雄伝"
    },
    {
-    "en": "阿尔玛迪亚诺斯英雄传"
+    "zh": "阿尔玛迪亚诺斯英雄传"
    },
    {
-    "en": "阿爾瑪迪亞諾斯英雄傳"
+    "zh-hk": "阿爾瑪迪亞諾斯英雄傳"
    },
    {
-    "en": "아르마디아노스 영웅전"
+    "ko": "아르마디아노스 영웅전"
    }
   ],
   "description": {
@@ -37,6 +37,7 @@
    "ap": "almadianos-eiyuuden",
    "bw": "series/158383",
    "cdj": "http://www.cdjapan.co.jp/product/NEOBK-2211130",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/452240/",
    "kt": "40462",
    "mal": "108536",
    "mu": "143922",
@@ -152,12 +153,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2019-02-20T13:50:05+00:00",
-  "updatedAt": "2024-02-22T15:23:04+00:00"
+  "updatedAt": "2024-10-28T20:33:27+00:00"
  },
  "relationships": [
   {

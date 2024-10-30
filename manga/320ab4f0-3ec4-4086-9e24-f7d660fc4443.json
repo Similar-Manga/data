@@ -13,10 +13,15 @@
     "ja-ro": "Goddo-kun"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "ある日、あわれな少女が死んだ。少女の名前は福音莉々杏、天才子役。――オトナのために使われる、コドモ。死んだ彼女の前に現れたのはまごうことなき「神」だった……。少女と神の、奇妙な邂逅。それは少女に、オトナへの復讐心を芽生えさせた。少女の計画は、すべてのオトナをコドモに変えること……。"
+  },
   "links": {
-   "amz": "https://www.amazon.co.jp/-/en/兎乃心-ebook/dp/B0CZ99ZF2K/ref=sr_1_1?dib=eyJ2IjoiMSJ9.sM79dUAMRPsIDGN57xddqfmzqDpKPvr6Wruhn1CREsjGjHj071QN20LucGBJIEps.OguqnV42sqdinfm6lefXIyYE9sU3LIO0VqbeHWV-5O8\u0026dib_tag=se\u0026keywords=ごっどくん\u0026qid=1716727304\u0026sr=8-1",
-   "bw": "series/465344/list",
+   "al": "175742",
+   "amz": "https://www.amazon.co.jp/dp/B0D5B3PGSL",
+   "ap": "god-kun",
+   "bw": "series/465344",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/829876/",
    "mal": "165423",
    "mu": "axmdnok",
    "raw": "https://magazine.jp.square-enix.com/joker/series/godkun/"
@@ -52,6 +57,18 @@
     }
    },
    {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -62,12 +79,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2023-12-30T00:34:10+00:00",
-  "updatedAt": "2024-10-17T10:45:17+00:00"
+  "updatedAt": "2024-10-25T14:29:44+00:00"
  },
  "relationships": [
   {

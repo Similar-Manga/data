@@ -7,32 +7,30 @@
   },
   "altTitles": [
    {
-    "ja-ro": "Tsukiatte agete mo ii kana"
-   },
-   {
     "ja": "付き合ってあげてもいいかな"
    },
    {
-    "en": "So, Do You Want to Go Out, or...?"
-   },
-   {
-    "de": "Lust auf ein Date?"
+    "ja-ro": "Tsukiatte agete mo ii kana"
    },
    {
     "ko": "사귀어 주더라도 괜찮을까나"
+   },
+   {
+    "de": "Lust auf ein Date?"
    },
    {
     "th": "ลองใจให้ตกหลุมรัก"
    }
   ],
   "description": {
-   "en": "For as long as she’s known, Miwa’s been into women - and now she’s at university, it might finally be time for her to come out of her straight-passing shell. Of course, that takes a lot of confidence, and coming out is never easy - but could Saeko, her trashy popular weirdo of a friend, give her the help she needs - or just maybe, could the two of them be more alike than Miwa realises…?!  \r\n  \r\nThis series is a reimagining of tmfly’s earlier work of the same name."
+   "en": "For as long as she's known, Miwa's been into women - and now she's at university, it might finally be time for her to come out of her straight-passing shell. Of course, that takes a lot of confidence, and coming out is never easy - but could Saeko, her trashy popular weirdo of a friend, give her the help she needs - or just maybe, could the two of them be more alike than Miwa realises...?!",
+   "ja": "超モテるのに「好きな人と両想いになったことがない」パッと見いい女のみわ。大学入学を機に軽音サークルに入り、絶対友達にならないタイプ！と思ったお調子者の冴子と急接近。なんだかちょっと新しい扉が開いちゃう感じ…？\n\n「せっかくだからあたしたち、付き合ってみない？」"
   },
   "links": {
    "al": "104241",
-   "amz": "https://www.amazon.co.jp/dp/B0CTHJ516V",
+   "amz": "https://www.amazon.co.jp/dp/B07T3FDL38",
    "ap": "how-do-we-relationship",
-   "bw": "series/189924",
+   "bw": "series/189924/list",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2937859",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/520277",
    "engtl": "https://www.viz.com/how-do-we-relationship",
@@ -141,9 +139,9 @@
    }
   ],
   "state": "published",
-  "version": 14,
+  "version": 16,
   "createdAt": "2019-07-29T10:52:15+00:00",
-  "updatedAt": "2024-05-05T15:35:22+00:00"
+  "updatedAt": "2024-10-25T22:47:12+00:00"
  },
  "relationships": [
   {
@@ -203,14 +201,14 @@
    }
   },
   {
-   "id": "7dd2c831-ceed-490f-bb31-0184f556a69a",
+   "id": "ebd477b9-4071-4e19-9521-2a5f410e7bdd",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-18T00:32:16+00:00",
+    "createdAt": "2024-10-25T22:53:33+00:00",
     "description": "",
-    "fileName": "1fcdca37-8ba1-465d-a19a-020500ff92d2.jpg",
+    "fileName": "8285abab-839f-40fd-9736-cf0951a336e2.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-18T00:32:16+00:00",
+    "updatedAt": "2024-10-25T22:53:33+00:00",
     "version": 1,
     "volume": "13"
    }
@@ -218,10 +216,15 @@
   {
    "id": "22e61a65-2c94-474b-aecf-e95fdd321948",
    "type": "manga",
-   "related": "sequel"
+   "related": "preserialization"
   },
   {
    "id": "93477e09-3546-4841-b88f-e2456efc058d",
+   "type": "manga",
+   "related": "preserialization"
+  },
+  {
+   "id": "c0d13558-fbb3-4621-8edc-277490171310",
    "type": "manga",
    "related": "preserialization"
   }

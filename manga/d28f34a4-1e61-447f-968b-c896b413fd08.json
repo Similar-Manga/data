@@ -3,15 +3,29 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Souta No Kuni"
+   "en": "Sota's Country"
   },
-  "description": {},
+  "altTitles": [
+   {
+    "ja": "颯汰の国"
+   },
+   {
+    "ja-ro": "Souta No Kuni"
+   }
+  ],
+  "description": {
+   "en": "A man who resisted the Edo Shogunate... A hugely popular historical story!!\n\nDuring the period when Tokugawa Ieyasu was succeeded by Hidetada and Iemitsu,\nthere was a man who, despite suffering the misfortune of losing his title, bravely stood up to the Shogunate without giving in!!\nHis name was Sasaki Sota. How will Sota, who has a strange fate on his shoulders,\nlive and fight...? Written with passion by master artist Koyama Yu!! A spectacular historical romance\ndepicted on an overwhelming scale\nhas finally begun!!"
+  },
   "links": {
+   "al": "107542",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B07YM3PWFM?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tkin",
    "ap": "souta-no-kuni",
+   "bw": "series/220705/list",
    "mu": "0d9k9cb"
   },
   "originalLanguage": "ja",
   "lastVolume": "15",
+  "lastChapter": "105",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2019,
@@ -42,6 +56,42 @@
     }
    },
    {
+    "id": "489dd859-9b61-4c37-af75-5b18e88daafc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ninja"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "81183756-1453-4c81-aa9e-f6e1b63be016",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Samurai"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -55,9 +105,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2023-11-27T10:44:03+00:00",
-  "updatedAt": "2024-05-09T17:26:12+00:00"
+  "updatedAt": "2024-10-24T05:06:52+00:00"
  },
  "relationships": [
   {
@@ -113,16 +163,16 @@
    }
   },
   {
-   "id": "198bafc9-dee3-4828-9c9a-49f9fa4255e9",
+   "id": "1b2fcb7f-cc97-4e0f-bb6e-b9b5eba2c052",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-11-27T10:44:04+00:00",
+    "createdAt": "2024-10-24T05:06:50+00:00",
     "description": "",
-    "fileName": "3fa1963c-3b44-4ff5-8133-ec7065effb71.jpg",
+    "fileName": "d9b89358-d6ad-4ee3-a9cc-ed51f3c6b4df.png",
     "locale": "ja",
-    "updatedAt": "2023-11-27T10:44:04+00:00",
+    "updatedAt": "2024-10-24T05:06:50+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "15"
    }
   },
   {

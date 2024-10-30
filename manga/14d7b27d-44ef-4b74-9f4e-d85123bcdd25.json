@@ -19,7 +19,7 @@
   },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B09XHD3M8T",
-   "bw": "series/330763",
+   "bw": "series/330763/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/668328/",
    "mal": "173729",
    "mu": "5ngms5l"
@@ -43,6 +43,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -71,6 +83,18 @@
     }
    },
    {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "ee968100-4191-4968-93d3-f82d72be7e46",
     "type": "tag",
     "attributes": {
@@ -84,9 +108,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2024-04-25T18:22:07+00:00",
-  "updatedAt": "2024-09-02T14:51:04+00:00"
+  "updatedAt": "2024-10-26T19:02:58+00:00"
  },
  "relationships": [
   {
@@ -142,16 +166,16 @@
    }
   },
   {
-   "id": "ac76826b-8196-4fc7-928e-21496b3209f4",
+   "id": "3953fa88-2052-48a3-84af-074d63af2443",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-04-25T18:22:16+00:00",
+    "createdAt": "2024-10-22T22:37:29+00:00",
     "description": "",
-    "fileName": "5f288249-efd8-4c76-a181-9ad4010862c3.jpg",
+    "fileName": "930528c4-df8a-4249-99f2-6df4825fd039.jpg",
     "locale": "ja",
-    "updatedAt": "2024-04-25T18:22:16+00:00",
+    "updatedAt": "2024-10-22T22:37:29+00:00",
     "version": 1,
-    "volume": "6"
+    "volume": "7"
    }
   },
   {

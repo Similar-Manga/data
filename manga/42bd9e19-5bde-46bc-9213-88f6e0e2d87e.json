@@ -1,0 +1,140 @@
+{
+ "id": "42bd9e19-5bde-46bc-9213-88f6e0e2d87e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sonicomi"
+  },
+  "altTitles": [
+   {
+    "ja": "ソニコミ"
+   },
+   {
+    "en": "Communication with Sonico"
+   }
+  ],
+  "description": {
+   "ja": "PCゲームメーカー・ニトロプラスのマスコットガールとして大人気の女の子『すーぱーそに子』。　グラビアモデルやミュージシャンとして活躍する傍ら、大学にも通っている彼女の波乱万丈な日常をコミカライズ！！"
+  },
+  "links": {
+   "al": "89786",
+   "amz": "https://www.amazon.co.jp/dp/B07CKFTQ5K",
+   "ap": "sonicomi",
+   "bw": "series/157745",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/451350/",
+   "kt": "sonicomi-communication-with-sonico",
+   "mal": "63509",
+   "mu": "w8scysd"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "5",
+  "lastChapter": "27",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2012,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-25T13:59:15+00:00",
+  "updatedAt": "2024-10-25T14:10:03+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1e77215f-d4c2-4c42-99dc-7a19ae4f988e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nitroplus",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-06-15T18:56:49+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cb969a06-9c8a-47c2-87b5-ef386f6f4ba6",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Alt names:\nImusanjo\n仏さんじょ\n\nCircle: AKANENONE (あかねのね)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://imusanjyo.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Imu Sanjo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/309513",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/imusanjyo",
+    "updatedAt": "2022-03-20T16:20:37+00:00",
+    "version": 2,
+    "website": "http://imu3.net/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "87b43a8d-6b43-4855-b8b9-e69b195f2123",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-25T13:59:17+00:00",
+    "description": "",
+    "fileName": "88f20403-5007-4d3e-938f-28d9d9cc04df.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-25T13:59:17+00:00",
+    "version": 1,
+    "volume": "5"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

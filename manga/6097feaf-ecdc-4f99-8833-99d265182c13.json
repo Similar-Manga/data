@@ -3,19 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Nail-chan to Fukadzume-san.: Sakura no Shita de Machiawase-hen"
+   "en": "Nail-chan to Fukazume-san. Sakura no Shita de Machiawase-hen"
   },
   "altTitles": [
    {
     "ja": "ネイルちゃんと深爪さん。桜の下で待ち合わせ編"
    },
    {
-    "en": "Nail and Fukazume. Meeting under the cherry blossoms"
+    "en": "Nail and Fukazume. Meeting Under the Cherry Blossoms"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "The third volume of the *Nail and Fukazume* series, themed around ghosts and the supernatural."
+  },
   "links": {
-   "amz": "https://www.amazon.co.jp/dp/B093C4XYDT/"
+   "amz": "https://www.amazon.co.jp/dp/B093C4XYDT/",
+   "bw": "dea4d0268f-afda-419f-a58a-9c3666db5365",
+   "mu": "y59g003"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -79,9 +83,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 9,
   "createdAt": "2021-10-16T22:58:21+00:00",
-  "updatedAt": "2023-11-26T00:35:10+00:00"
+  "updatedAt": "2024-10-27T23:54:32+00:00"
  },
  "relationships": [
   {
@@ -397,14 +401,14 @@
    }
   },
   {
-   "id": "e06f4349-9259-4f4d-a787-4f5f1b7c68e6",
+   "id": "ad95b40f-fba2-40ab-8d59-c1d3eb8b2c27",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-10-16T22:58:23+00:00",
+    "createdAt": "2024-10-27T23:45:22+00:00",
     "description": "",
-    "fileName": "bf9401d7-9487-4222-b998-e7b1648a8e13.jpg",
+    "fileName": "88a19b22-92a5-48d7-820c-6363250598be.jpg",
     "locale": "ja",
-    "updatedAt": "2021-10-16T22:58:23+00:00",
+    "updatedAt": "2024-10-27T23:45:22+00:00",
     "version": 1,
     "volume": "1"
    }

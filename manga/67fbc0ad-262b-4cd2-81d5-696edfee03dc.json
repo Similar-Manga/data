@@ -3,14 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Afterlife"
+   "en": "Shi no Sekai"
   },
   "altTitles": [
+   {
+    "ja": "死の世界"
+   },
+   {
+    "ja-ro": "Shi no Sekai"
+   },
+   {
+    "en": "The Afterlife"
+   },
    {
     "ja": "「死の世界」"
    },
    {
-    "ja": "死の世界"
+    "ja-ro": "[Shi no Sekai]"
+   },
+   {
+    "en": "[The Afterlife]"
    }
   ],
   "description": {},
@@ -60,9 +72,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2023-08-02T17:29:17+00:00",
-  "updatedAt": "2023-08-02T18:52:53+00:00"
+  "updatedAt": "2024-10-25T02:15:49+00:00"
  },
  "relationships": [
   {
@@ -70,7 +82,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "[Merchandise](https://suzuri.jp/samukutemo)\n\n[Amazon Wishlist](https://www.amazon.co.jp/hz/wishlist/ls/2V6B1XFL36WY7?ref_=wl_share)"
+     "en": "**Native name**: 極寒\n\n**Alt. names**:\nSamukutemo\nAtsukutemo\nAtukutemo\n\n**Additional Links**:\n[Twitter](https://twitter.com/atukutemo) (Second account)\n\n[Merchandise](https://suzuri.jp/samukutemo)\n\n[Amazon Wishlist](https://www.amazon.co.jp/hz/wishlist/ls/2V6B1XFL36WY7?ref_=wl_share)"
     },
     "booth": null,
     "createdAt": "2023-08-02T15:41:56+00:00",
@@ -78,7 +90,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Samukutemo (極寒)",
+    "name": "Gokkan (極寒)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -86,8 +98,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/samukutemo",
-    "updatedAt": "2023-08-02T21:46:47+00:00",
-    "version": 6,
+    "updatedAt": "2024-10-25T02:22:01+00:00",
+    "version": 7,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -98,7 +110,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "[Merchandise](https://suzuri.jp/samukutemo)\n\n[Amazon Wishlist](https://www.amazon.co.jp/hz/wishlist/ls/2V6B1XFL36WY7?ref_=wl_share)"
+     "en": "**Native name**: 極寒\n\n**Alt. names**:\nSamukutemo\nAtsukutemo\nAtukutemo\n\n**Additional Links**:\n[Twitter](https://twitter.com/atukutemo) (Second account)\n\n[Merchandise](https://suzuri.jp/samukutemo)\n\n[Amazon Wishlist](https://www.amazon.co.jp/hz/wishlist/ls/2V6B1XFL36WY7?ref_=wl_share)"
     },
     "booth": null,
     "createdAt": "2023-08-02T15:41:56+00:00",
@@ -106,7 +118,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Samukutemo (極寒)",
+    "name": "Gokkan (極寒)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -114,8 +126,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/samukutemo",
-    "updatedAt": "2023-08-02T21:46:47+00:00",
-    "version": 6,
+    "updatedAt": "2024-10-25T02:22:01+00:00",
+    "version": 7,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -1,0 +1,168 @@
+{
+ "id": "c8b51b34-4213-43da-8c35-a0ed6f9c2157",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Yamazaki-san"
+  },
+  "altTitles": [
+   {
+    "ja": "山崎さん"
+   },
+   {
+    "ja-ro": "Yamazaki-san"
+   }
+  ],
+  "description": {
+   "en": "Won a Semi-Grand Prize from the *Tonari no Young Jump* COMITIA 145 4-Hour Speed Manga Awards."
+  },
+  "links": {
+   "raw": "https://tonarinoyj.jp/episode/14079602755223296995"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Award Winning"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-26T07:23:25+00:00",
+  "updatedAt": "2024-10-26T11:47:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "270e8eb4-7ba0-40f3-9d4f-100fa06ac61e",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 旗町マコ"
+    },
+    "booth": null,
+    "createdAt": "2023-11-10T06:47:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hatamachi Mako",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-26T06:58:01+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "270e8eb4-7ba0-40f3-9d4f-100fa06ac61e",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 旗町マコ"
+    },
+    "booth": null,
+    "createdAt": "2023-11-10T06:47:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hatamachi Mako",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-26T06:58:01+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d43debd9-d27c-4061-837b-81c2fe045848",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-26T07:23:29+00:00",
+    "description": "",
+    "fileName": "028fd180-33a0-4e5f-8ba1-2f4b7b158a5f.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-26T07:23:29+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

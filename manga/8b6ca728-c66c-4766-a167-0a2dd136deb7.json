@@ -1,0 +1,122 @@
+{
+ "id": "8b6ca728-c66c-4766-a167-0a2dd136deb7",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Moku Moku Moku no Kyan"
+  },
+  "altTitles": [
+   {
+    "ja": "もくもく もくのキャン"
+   }
+  ],
+  "description": {
+   "ja": "スーパーの凄腕従業員である木野（もくの）さんは、仕事が休みの木曜日に、キャンプ場で煙モクモクさせながら、ひとり黙々とキャンプを楽しんで…？絶品キャンプ飯やオリジナルレシピも満載！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CBQ4K2HK",
+   "bw": "series/421003",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/768720/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "20",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-22T12:25:38+00:00",
+  "updatedAt": "2024-10-22T12:25:44+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5b582bdc-27e5-4bdf-a580-c3887a4fffe6",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 市川ヒロシ"
+    },
+    "booth": null,
+    "createdAt": "2023-02-03T08:26:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ichikawa Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ichikawahiroshi",
+    "updatedAt": "2023-08-14T07:44:12+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5b582bdc-27e5-4bdf-a580-c3887a4fffe6",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 市川ヒロシ"
+    },
+    "booth": null,
+    "createdAt": "2023-02-03T08:26:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ichikawa Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ichikawahiroshi",
+    "updatedAt": "2023-08-14T07:44:12+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "04b65d81-709b-4e77-b9e6-bee3a8ab24ef",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-22T12:25:40+00:00",
+    "description": "",
+    "fileName": "8f623550-c73d-4ff1-b395-00408080edd2.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-22T12:25:40+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

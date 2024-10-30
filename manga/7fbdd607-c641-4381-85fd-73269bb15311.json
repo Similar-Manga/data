@@ -1,0 +1,157 @@
+{
+ "id": "7fbdd607-c641-4381-85fd-73269bb15311",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kagaiho wa"
+  },
+  "altTitles": [
+   {
+    "ja": "わがいほは"
+   }
+  ],
+  "description": {
+   "ja": "交通事故に遭い、意識不明の重体となった高校生・佐藤旭。 彼の魂は地上を彷徨い、小さな神社に辿り着く。己の体に戻ることと引き換えに、彼に課せられた条件とはーー？"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B07XLP3K3G",
+   "ap": "me-myself-and-incomplete",
+   "bw": "series/203015",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/539754/",
+   "mu": "sigc1s8",
+   "raw": "https://ganma.jp/wagaihoha"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "6",
+  "lastChapter": "61",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2019,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-22T12:38:11+00:00",
+  "updatedAt": "2024-10-22T12:38:25+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1a6b3c40-eead-45bc-8f33-d83c7236431e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-09-28T23:04:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Utsugi (II)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-09-28T23:04:56+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1a6b3c40-eead-45bc-8f33-d83c7236431e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-09-28T23:04:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Utsugi (II)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-09-28T23:04:56+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0f7b8db5-a8bf-4aa5-80d1-1f6b3029014b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-22T12:38:14+00:00",
+    "description": "",
+    "fileName": "18091a83-ddd4-4507-8e0f-85f3a4b001bc.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-22T12:38:14+00:00",
+    "version": 1,
+    "volume": "6"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

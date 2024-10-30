@@ -3,12 +3,9 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Zanmu"
+   "en": "Zanmu - Labyrinth"
   },
   "altTitles": [
-   {
-    "en": "Zanmu - Labyrinth"
-   },
    {
     "ru": "Несбывшаяся мечта \"Лабиринт\""
    },
@@ -17,7 +14,7 @@
    }
   ],
   "description": {
-   "en": "Dead bodies taken apart was just the beginning of a terrifying, thrilling adventure to take you to the world of Zanmu. Yuta Kayashima, the author of Journey To The West Girls taps in to a new phase of psyco-thriller!  \n  \nТрупы, у которых отсутствует какая-то одна часть тела. Это было не более, чем пролог. Какая же истина сокрыта за достойным ненависти преступником? Это психотриллер о \"жестоком преступнике, которого никак не удаётся поймать\"!",
+   "en": "Dead bodies taken apart was just the beginning of a terrifying, thrilling adventure to take you to the world of Zanmu.\n\nKayashima Yuuta, author of *Journey To The West Girls*, taps in to a new phase of psyco-thriller!",
    "ru": "Трупы, у которых отсутствует какая-то одна часть тела. Это было не более, чем пролог. Какая же истина сокрыта за достойным ненависти преступником? Это психотриллер о \"жестоком преступнике, которого никак не удаётся поймать\"!"
   },
   "links": {
@@ -25,25 +22,65 @@
    "ap": "zanmu-labyrinth",
    "engtl": "https://www.manga.club/book/title/ZANMU-EN/",
    "kt": "zanmu-labyrinth",
-   "mu": "146875"
+   "mu": "146875",
+   "raw": "https://comic.k-manga.jp/title/47356/"
   },
   "originalLanguage": "ja",
+  "lastChapter": "25",
   "publicationDemographic": "seinen",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2017,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "vi",
    "fr",
+   "en",
    "ru"
   ],
-  "latestUploadedChapter": "1fd82c49-60d1-40c7-bc6b-298d9e921e8f",
+  "latestUploadedChapter": "69d38725-153a-47f4-8515-30f9bf0ae4d2",
   "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
     "type": "tag",
     "attributes": {
      "name": {
       "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
      },
      "description": {},
      "group": "genre",
@@ -87,6 +124,18 @@
     }
    },
    {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -97,26 +146,40 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 11,
   "createdAt": "2020-03-14T12:16:14+00:00",
-  "updatedAt": "2023-07-21T22:47:06+00:00"
+  "updatedAt": "2024-10-24T09:56:46+00:00"
  },
  "relationships": [
   {
    "id": "b2d4d36e-d0d8-402d-a70c-9f0fd9b0d579",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 萱島雄太"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kayashima Yuta",
+    "name": "Kayashima Yuuta",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -124,9 +187,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/kayashi",
-    "updatedAt": "2022-10-26T14:13:46+00:00",
-    "version": 2,
-    "website": null,
+    "updatedAt": "2024-10-24T09:55:12+00:00",
+    "version": 4,
+    "website": "http://boiledscope.com/",
     "weibo": null,
     "youtube": null
    }
@@ -135,14 +198,16 @@
    "id": "b2d4d36e-d0d8-402d-a70c-9f0fd9b0d579",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 萱島雄太"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kayashima Yuta",
+    "name": "Kayashima Yuuta",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -150,25 +215,30 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/kayashi",
-    "updatedAt": "2022-10-26T14:13:46+00:00",
-    "version": 2,
-    "website": null,
+    "updatedAt": "2024-10-24T09:55:12+00:00",
+    "version": 4,
+    "website": "http://boiledscope.com/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "5a152f6e-9127-47a1-85a4-65ee28865577",
+   "id": "964c44b5-a8af-4293-8ac9-37285b928868",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-07-17T12:20:27+00:00",
+    "createdAt": "2024-10-23T23:51:40+00:00",
     "description": "",
-    "fileName": "8cf40c05-a3ff-47ca-8304-41576ab8a9e6.jpg",
+    "fileName": "f531dbee-cdab-4e0d-8416-fe50f96be2a7.jpg",
     "locale": "ja",
-    "updatedAt": "2022-07-17T12:20:27+00:00",
+    "updatedAt": "2024-10-23T23:51:40+00:00",
     "version": 1,
-    "volume": "5"
+    "volume": "25.25"
    }
+  },
+  {
+   "id": "7d16fc1f-96f1-4059-ae1c-3888e233e7e4",
+   "type": "manga",
+   "related": "sequel"
   }
  ]
 }

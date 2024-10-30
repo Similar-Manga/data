@@ -25,10 +25,12 @@
    "amz": "https://www.amazon.co.jp/gp/product/B074CG6RYQ",
    "ap": "a-bout",
    "bw": "series/4627",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-716885",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/128715/",
    "kt": "12860",
    "mal": "22115",
-   "mu": "49671"
+   "mu": "49671",
+   "raw": "https://kc.kodansha.co.jp/title?code=1000005017"
   },
   "originalLanguage": "ja",
   "lastVolume": "19",
@@ -95,9 +97,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2018-07-16T07:15:13+00:00",
-  "updatedAt": "2024-06-03T22:59:16+00:00"
+  "updatedAt": "2024-10-22T14:12:58+00:00"
  },
  "relationships": [
   {
@@ -169,6 +171,11 @@
    "id": "890156bf-4f1a-4218-8210-4747e88552aa",
    "type": "manga",
    "related": "sequel"
+  },
+  {
+   "id": "8a83af87-bf1d-445b-8551-eef62ac38f70",
+   "type": "manga",
+   "related": "same_franchise"
   }
  ]
 }

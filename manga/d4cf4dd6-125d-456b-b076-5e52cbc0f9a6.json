@@ -1,0 +1,168 @@
+{
+ "id": "d4cf4dd6-125d-456b-b076-5e52cbc0f9a6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Flabbergast!"
+  },
+  "description": {
+   "en": "Loosely based off a homebrew D\u0026D campaign, An unlikely group of adventurers find themselves as a part of a pirate crew. The four of them must learn how to get along and fight alongside each other against an array of enemies and creatures. This comic occasionally contains violence and mature themes."
+  },
+  "links": {
+   "engtl": "https://namicomi.com/en/title/h8husE8P/flabbergast"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-22T17:57:54+00:00",
+  "updatedAt": "2024-10-22T17:58:01+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d2decd81-5b52-40a8-ac87-a4d9f7561b0d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-22T17:56:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "K0yfish",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-22T17:56:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d2decd81-5b52-40a8-ac87-a4d9f7561b0d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-22T17:56:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "K0yfish",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-22T17:56:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0d837ba7-32b0-4dbd-8e13-f19353b39b7c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-22T17:57:59+00:00",
+    "description": "",
+    "fileName": "3ba96b72-75bd-43c3-9d9e-ed303979a29c.png",
+    "locale": "en",
+    "updatedAt": "2024-10-22T17:57:59+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "b3c0e648-21b4-4492-9de1-98ee3d3588c9",
+   "type": "creator"
+  }
+ ]
+}

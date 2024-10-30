@@ -1,0 +1,154 @@
+{
+ "id": "cd378f12-81c2-4301-b146-ce25e9fcea00",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mofumofu to Isekai Bouken Meshi"
+  },
+  "altTitles": [
+   {
+    "ja": "もふもふと異世界冒険メシ"
+   }
+  ],
+  "description": {
+   "ja": "虚弱体質だった会社員・佐野樹はいつも体の内側に熱を持つ感覚を抱いていた。そして、繁忙期と熱の暴走が重なって倒れてしまう。すると女神様が現れ、彼に伝える。生まれるべき世界を間違えた。熱の原因は魔力で、魔力のない世界で魔力を持って生まれてしまったのだと……。女神様の力で願い通りの健康な体に加え、人一倍の魔力を持って異世界に生まれ変わったイツキ。そして、授かった卵から生まれた伝説の魔獣を相棒に、冒険者として第二の人生を歩み始める……！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DJF98XXY",
+   "bw": "series/493943",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/857174/",
+   "mu": "tylffzv"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-22T21:44:45+00:00",
+  "updatedAt": "2024-10-22T21:45:01+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ff392266-c7e9-42f0-b316-9c295ebe6c90",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Native name: 錬金王"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Renkinou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/renkin1214",
+    "updatedAt": "2023-07-13T03:35:03+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "93ad65bc-7b3d-41f8-8dcc-2c83e5811f66",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-22T21:43:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Suhiyoru Isu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-22T21:43:46+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6712dab4-d32e-45d0-857c-c16a8521e080",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-22T21:44:48+00:00",
+    "description": "",
+    "fileName": "ed4f53d5-a6be-425f-ad95-33a5c32d82de.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-22T21:44:48+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

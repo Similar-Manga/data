@@ -42,23 +42,25 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2020-10-16T16:26:54+00:00",
-  "updatedAt": "2024-06-01T05:33:31+00:00"
+  "updatedAt": "2024-10-24T03:22:47+00:00"
  },
  "relationships": [
   {
-   "id": "f14d570f-0b60-44ad-84e8-7b9bee27b4cf",
+   "id": "04449272-0d69-4307-9699-31a51a001aa1",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Associated names:**\nロコカル\n\n**Members:**\nAsanai"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "A",
+    "name": "Rocokaru (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -66,25 +68,55 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2022-04-09T03:08:34+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "f14d570f-0b60-44ad-84e8-7b9bee27b4cf",
+   "id": "b391850b-b35d-4cd5-8955-0799c2f48b67",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\nおさない\n\n**Circles:**\nRocokaru"
+    },
+    "booth": null,
+    "createdAt": "2022-04-09T02:42:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Osanai",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=736097",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T03:23:34+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "04449272-0d69-4307-9699-31a51a001aa1",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Associated names:**\nロコカル\n\n**Members:**\nAsanai"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "A",
+    "name": "Rocokaru (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -92,8 +124,36 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2022-04-09T03:08:34+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b391850b-b35d-4cd5-8955-0799c2f48b67",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\nおさない\n\n**Circles:**\nRocokaru"
+    },
+    "booth": null,
+    "createdAt": "2022-04-09T02:42:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Osanai",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=736097",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T03:23:34+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

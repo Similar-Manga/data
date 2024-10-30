@@ -1,0 +1,160 @@
+{
+ "id": "a6a8aa0f-b26a-4b74-92d9-666566885d2e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mizu to Sakana no Mori"
+  },
+  "altTitles": [
+   {
+    "ja": "魚と水の森"
+   },
+   {
+    "en": "Fish and Water Are in the Woods"
+   }
+  ],
+  "description": {
+   "ja": "愛になるのは、まだ先のこと……\n元・人魚であるヴァンは、声も家族も居場所も失い、今は奴隷として港町の屋敷で働かされていた。新月の日、呪われた島と呼ばれる『フィスカ』の唯一の島民・イェンスと出会う。彼は今まで出会ったどんな人間より優しく思慮深い男だった。たまに会っては食事を共にし、穏やかな時間を過ごしていたある日、イェンスから身請けを打診される。\n「僕が住む島に君が来るには、僕の伴侶になる必要があるんだ──」"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/魚と水の森-1-集英社ホームコミックス-本郷-地下/dp/4834233332",
+   "bw": "series/484862",
+   "ebj": "https://ebookjapan.yahoo.co.jp/search/?keyword=魚と水の森",
+   "raw": "https://comic-ogyaaa.com/episode/14079602755481235339"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-23T18:40:46+00:00",
+  "updatedAt": "2024-10-23T18:46:41+00:00"
+ },
+ "relationships": [
+  {
+   "id": "9991527a-c541-432c-837b-fbb45e27d2ec",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nHongo Chika\n本郷地下\n\n**Circle**: Kaikyuu Kaigan (懐旧海岸)\n\n[Instagram](https://www.instagram.com/chika_hongo/)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hongou Chika",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/chika_london",
+    "updatedAt": "2023-01-14T18:59:50+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9991527a-c541-432c-837b-fbb45e27d2ec",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nHongo Chika\n本郷地下\n\n**Circle**: Kaikyuu Kaigan (懐旧海岸)\n\n[Instagram](https://www.instagram.com/chika_hongo/)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hongou Chika",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/chika_london",
+    "updatedAt": "2023-01-14T18:59:50+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7eff5a77-0bcb-4a45-aa54-1329d2452559",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-23T18:40:50+00:00",
+    "description": "",
+    "fileName": "9c49657c-498c-4b57-a78b-0b924b522047.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-23T18:40:50+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

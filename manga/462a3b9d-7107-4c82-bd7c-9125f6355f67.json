@@ -1,0 +1,156 @@
+{
+ "id": "462a3b9d-7107-4c82-bd7c-9125f6355f67",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Figments"
+  },
+  "description": {
+   "en": "Imagine being a figment without a moral or story and that's the situation a figment named Elsie finds herself in. After an altercation with her Intended Creator, Elsie is left with a choice: fade away to Non-existence or give up her moral and story to survive. Opting for the latter, Elsie starts anew in the Realm of Imagination. Life for Elsie slows to a halt in the Realm of Imagination... Until a Creator named Maya unexpectedly drops in..."
+  },
+  "links": {
+   "engtl": "https://namicomi.com/en/title/2QUctQr7/figments"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-22T16:25:53+00:00",
+  "updatedAt": "2024-10-22T16:26:08+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ea03c4dc-a21b-4242-95be-b8b391ed437c",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-22T16:22:38+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ayzie Bore",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-22T16:22:38+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ea03c4dc-a21b-4242-95be-b8b391ed437c",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-22T16:22:38+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ayzie Bore",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-22T16:22:38+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "00881594-a248-4c84-ae8b-bd81832f3fa1",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-22T16:26:01+00:00",
+    "description": "",
+    "fileName": "97473383-a75d-4229-b88a-886be19f8a04.jpg",
+    "locale": "en",
+    "updatedAt": "2024-10-22T16:26:01+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "b3c0e648-21b4-4492-9de1-98ee3d3588c9",
+   "type": "creator"
+  }
+ ]
+}

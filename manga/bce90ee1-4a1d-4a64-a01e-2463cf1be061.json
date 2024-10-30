@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Gakuen Idolm@ster Gold Rush"
+   "en": "Gakuen Idolm@ster: Gold Rush"
   },
   "altTitles": [
    {
     "ja": "学園アイドルマスター GOLD RUSH"
+   },
+   {
+    "ja-ro": "Gakuen Idolm@ster GOLD RUSH"
    }
   ],
   "description": {
@@ -27,7 +30,7 @@
    "id",
    "en"
   ],
-  "latestUploadedChapter": "1a9bb790-dd35-483c-be30-3f2321fee1f0",
+  "latestUploadedChapter": "2b4a181f-af84-4f80-82c8-1cb8b3fd2e15",
   "tags": [
    {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
@@ -64,12 +67,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Music"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2024-09-23T00:21:29+00:00",
-  "updatedAt": "2024-10-14T01:39:07+00:00"
+  "updatedAt": "2024-10-24T07:20:38+00:00"
  },
  "relationships": [
   {
@@ -162,6 +177,16 @@
     "version": 1,
     "volume": "0"
    }
+  },
+  {
+   "id": "0b9159ad-bd7c-4267-8803-91bc33c011f0",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
+   "id": "f7ea1d56-6e19-4dc6-b2bb-f7cd3399bfed",
+   "type": "manga",
+   "related": "same_franchise"
   },
   {
    "id": "7b7a3eaa-a2ca-4381-a6d7-67f5d607b37c",

@@ -1,0 +1,163 @@
+{
+ "id": "4dda2649-350b-4689-b5e5-3088fa64af14",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "When I sent the wrong reply..."
+  },
+  "altTitles": [
+   {
+    "ja": "間違えて返信したら…"
+   },
+   {
+    "ja-ro": "Machigaete Henshin Shitara..."
+   }
+  ],
+  "description": {
+   "en": "What happens after sending a reply to the group chat?"
+  },
+  "links": {
+   "raw": "https://twitter.com/medatarou1/status/1848628091595395221"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi",
+   "pt-br",
+   "id",
+   "en"
+  ],
+  "latestUploadedChapter": "554444c9-d784-4d7c-b75f-02b29af6d0a9",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-10-22T11:33:13+00:00",
+  "updatedAt": "2024-10-22T17:39:29+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d6889168-af7d-4064-863b-28ca0cac7bbc",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nめだ太郎"
+    },
+    "booth": null,
+    "createdAt": "2023-09-26T15:15:52+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Medatarou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/medatarou1",
+    "updatedAt": "2023-10-04T16:12:42+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d6889168-af7d-4064-863b-28ca0cac7bbc",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nめだ太郎"
+    },
+    "booth": null,
+    "createdAt": "2023-09-26T15:15:52+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Medatarou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/medatarou1",
+    "updatedAt": "2023-10-04T16:12:42+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9fff1a14-5bbd-4420-b048-e2cf920e01ae",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-22T16:07:14+00:00",
+    "description": "",
+    "fileName": "e5910798-90d3-454e-b296-6e1b08f1ad9f.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-22T16:07:39+00:00",
+    "version": 2,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "2a830aff-5a0d-47fa-a19a-84636d25510f",
+   "type": "creator"
+  }
+ ]
+}

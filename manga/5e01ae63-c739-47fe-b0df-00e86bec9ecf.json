@@ -3,13 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Mahou Shoujo Madoka★Magica - A Certain Day With Elegance (Doujinshi)"
+   "en": "Mahou Shoujo Madoka★Magica - Hana no Aru, Aru Hi. (Doujinshi)"
   },
-  "description": {
-   "en": ""
+  "altTitles": [
+   {
+    "en": "Mahou Shoujo Madoka★Magica - A Certain Day With Elegance. (Doujinshi)"
+   },
+   {
+    "ja": "華のある、ある日。(魔法少女まどか☆マギカ)"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/en/artworks/66515226"
   },
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2017,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -66,9 +76,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-08-11T22:20:25+00:00",
-  "updatedAt": "2021-05-25T15:42:54+00:00"
+  "updatedAt": "2024-10-22T00:35:39+00:00"
  },
  "relationships": [
   {
@@ -83,6 +93,32 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Ryuunosuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/388188",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-21T22:10:11+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d62d7083-4642-4716-bbdb-43343cf86551",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bakadomo. (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -109,6 +145,32 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Ryuunosuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/388188",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-21T22:10:11+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d62d7083-4642-4716-bbdb-43343cf86551",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bakadomo. (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,

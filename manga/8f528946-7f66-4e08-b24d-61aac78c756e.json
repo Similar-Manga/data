@@ -1,0 +1,149 @@
+{
+ "id": "8f528946-7f66-4e08-b24d-61aac78c756e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Don't Hop Off!"
+  },
+  "altTitles": [
+   {
+    "ja": "降りちゃ駄目"
+   },
+   {
+    "ja-ro": "Oricha Dame"
+   }
+  ],
+  "description": {
+   "en": "**Links:**\n- [Extra](https://twitter.com/ldoll_itk/status/1827347577723125862)"
+  },
+  "links": {
+   "raw": "https://twitter.com/ldoll_itk/status/1816813344743202974"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "1.5",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "a156deb8-8e8d-4649-bb50-714f9b951583",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-25T13:23:23+00:00",
+  "updatedAt": "2024-10-25T13:23:29+00:00"
+ },
+ "relationships": [
+  {
+   "id": "20056790-2da1-4f83-94b1-da15f6085170",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- イトコ"
+    },
+    "booth": null,
+    "createdAt": "2024-09-23T14:36:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Itoko (ldoll_itk)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/8408900",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ldoll_itk",
+    "updatedAt": "2024-09-23T15:13:45+00:00",
+    "version": 3,
+    "website": "https://marshmallow-qa.com/uq73s3v0mzuce2t",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "20056790-2da1-4f83-94b1-da15f6085170",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- イトコ"
+    },
+    "booth": null,
+    "createdAt": "2024-09-23T14:36:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Itoko (ldoll_itk)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/8408900",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ldoll_itk",
+    "updatedAt": "2024-09-23T15:13:45+00:00",
+    "version": 3,
+    "website": "https://marshmallow-qa.com/uq73s3v0mzuce2t",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9a165320-7789-41f5-965f-8120f327ba95",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-25T13:23:25+00:00",
+    "description": "",
+    "fileName": "55d0e0f6-28fb-432f-8d76-841d13bbb298.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-25T13:23:25+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "f97a9a67-01cc-48d0-a542-59ea341174c0",
+   "type": "creator"
+  }
+ ]
+}

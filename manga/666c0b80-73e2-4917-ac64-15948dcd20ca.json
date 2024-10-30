@@ -19,7 +19,7 @@
     "ja": "NPCの叛逆"
    },
    {
-    "en": "The Monster"
+    "en": "I'm the Monster"
    }
   ],
   "description": {
@@ -81,6 +81,18 @@
     }
    },
    {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
     "attributes": {
@@ -118,9 +130,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 9,
   "createdAt": "2021-02-15T00:43:48+00:00",
-  "updatedAt": "2024-08-29T00:32:40+00:00"
+  "updatedAt": "2024-10-27T12:38:45+00:00"
  },
  "relationships": [
   {

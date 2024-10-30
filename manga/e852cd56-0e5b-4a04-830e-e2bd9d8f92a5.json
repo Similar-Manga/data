@@ -38,6 +38,7 @@
    "raw": "https://seiga.nicovideo.jp/comic/57679"
   },
   "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
   "status": "ongoing",
   "year": 2022,
   "contentRating": "safe",
@@ -47,7 +48,7 @@
    "fr",
    "id"
   ],
-  "latestUploadedChapter": "b1d5405a-bf30-4002-87a0-cb9bb7379da9",
+  "latestUploadedChapter": "a5149380-8f44-40c8-afd0-0dd58d2699cd",
   "tags": [
    {
     "id": "2bd2e8d0-f146-434a-9b51-fc9ff2c5fe6a",
@@ -134,6 +135,18 @@
     }
    },
    {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
     "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
     "type": "tag",
     "attributes": {
@@ -154,6 +167,18 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -195,9 +220,9 @@
    }
   ],
   "state": "published",
-  "version": 28,
+  "version": 30,
   "createdAt": "2023-04-10T18:52:43+00:00",
-  "updatedAt": "2024-06-18T17:03:23+00:00"
+  "updatedAt": "2024-10-29T04:05:09+00:00"
  },
  "relationships": [
   {

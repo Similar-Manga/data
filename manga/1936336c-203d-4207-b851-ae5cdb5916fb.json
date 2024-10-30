@@ -1,0 +1,127 @@
+{
+ "id": "1936336c-203d-4207-b851-ae5cdb5916fb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ore no Kanojo ga Tsuyo Kawaii!"
+  },
+  "altTitles": [
+   {
+    "ja": "俺の彼女は強カワイイ！"
+   },
+   {
+    "en": "My Girlfriend is Super Cute!"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "0e6dd0ba-e42b-4b0d-9934-f71a952a8c3f",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-10-28T08:42:40+00:00",
+  "updatedAt": "2024-10-29T01:54:50+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3f4435e2-3629-446d-a7ed-b4ae3a7faf2e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-28T08:41:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inaba Jun",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-28T08:41:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3f4435e2-3629-446d-a7ed-b4ae3a7faf2e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-28T08:41:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inaba Jun",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-28T08:41:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "dd60c4d9-9083-4d23-874f-f711caae9cc3",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-28T08:42:41+00:00",
+    "description": "",
+    "fileName": "e301ab62-ed0f-4a12-9b99-79e6e78852fb.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-28T08:42:41+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "cf7ae8e5-21ac-4718-9756-17b9253ed88c",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kaitou no Adeashi"
+   "en": "Cat's Eye - Kaitou no Adeashi (Doujinshi)"
   },
   "altTitles": [
    {
@@ -11,6 +11,9 @@
    },
    {
     "ja": "怪盗の艶脚"
+   },
+   {
+    "en": "Mysterious Charming Legs"
    }
   ],
   "description": {},
@@ -60,9 +63,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2020-06-11T10:13:12+00:00",
-  "updatedAt": "2023-10-04T19:28:08+00:00"
+  "updatedAt": "2024-10-26T13:47:12+00:00"
  },
  "relationships": [
   {
@@ -129,6 +132,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "a7af8655-f969-44dd-a66c-ee15aedc616d",
+   "type": "manga",
+   "related": "based_on"
   }
  ]
 }

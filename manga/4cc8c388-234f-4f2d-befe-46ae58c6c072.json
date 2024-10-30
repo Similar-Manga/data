@@ -1,0 +1,178 @@
+{
+ "id": "4cc8c388-234f-4f2d-befe-46ae58c6c072",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Doctor Hong's Secret"
+  },
+  "altTitles": [
+   {
+    "ko": "홍 의관의 은밀한 비밀"
+   },
+   {
+    "ko-ro": "Hong uigwan-ui eunmilhan bimil"
+   }
+  ],
+  "description": {
+   "en": "Hong Gye-dong, a genius doctor with mysterious eyes that can see a person's fate. In truth, \"he\" is a woman. One day, due to unavoidable circumstances, she accidentally shifts the drinking expenses onto a man she believed was just an ordinary guy and gets caught. Now, entangled with this dangerous man, who seems to have no visible fate, she finds herself entering the royal court! But the ordinary guy she thought he was turns out to be none other than His Majesty, the king of this nation...?"
+  },
+  "links": {
+   "ap": "doctor-hongs-secret",
+   "mu": "jzrt0jv",
+   "raw": "https://comic.naver.com/webtoon/list?titleId=796251"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "c8cbe35b-1b2b-4a3f-9c37-db84c4514856",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Medical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-23T09:20:37+00:00",
+  "updatedAt": "2024-10-23T21:09:59+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ce631db9-da46-4e1b-98fa-687d7a6c12d5",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-23T09:15:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Seo I-na",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-23T09:15:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "143b850a-a840-4a7a-baef-87aebaa7618e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-23T09:16:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoo Gye-jin",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-23T09:16:34+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5d4f311a-65ec-4040-a38c-a5c1bfbfdf29",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-23T09:20:39+00:00",
+    "description": "",
+    "fileName": "a4a33fc2-76ed-4d26-a229-a7a0174c8a01.png",
+    "locale": "ko",
+    "updatedAt": "2024-10-23T09:20:39+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9796d7c7-76e8-46c7-8860-e82e6beb5cc9",
+   "type": "creator"
+  }
+ ]
+}

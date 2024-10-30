@@ -1,0 +1,138 @@
+{
+ "id": "32d09d97-1ac7-43c3-a941-c9bba44edb28",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Isekai demo Kagiya-san"
+  },
+  "altTitles": [
+   {
+    "en": "A Locksmith Even Though I Came to the Fantasy World, A Locksmith to Work in the Fantasy World"
+   }
+  ],
+  "description": {
+   "en": "Even in other worlds there are keys.\n\nThere are many situations where lock-opening skills are useful, such as treasure chests in dungeons, hidden doors, and prisons. A freelance locksmith, Kii Jinroku (Rock), is scouted by the Thieves' Guild in this other world. Lock, who once trained under a master locksmith, uses his own skills to open locks in the other world! Taking on the fox-eared girl Ayla from the guild as his apprentice, Lock continues to take on key requests today..."
+  },
+  "links": {
+   "mu": "po22e9x"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-26T19:53:34+00:00",
+  "updatedAt": "2024-10-27T23:28:25+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d7cdf8f0-e6f6-48cf-831a-066d9a015866",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-26T19:44:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuroroku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-26T19:44:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "638e8016-a39f-430e-988f-1004a022f893",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-08-10T10:44:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morikomo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-08-10T10:44:12+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8d8a6b60-119b-4c64-8c7a-387f769ffb58",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-26T19:59:18+00:00",
+    "description": "",
+    "fileName": "3c125759-9671-431b-9c2e-3882ea2a7527.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-26T19:59:18+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "13cc7631-f1ff-4c36-b466-65cf8302552e",
+   "type": "creator"
+  }
+ ]
+}

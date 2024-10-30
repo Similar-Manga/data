@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "356b49dd-3cbf-4db2-ac18-7dcd66d2e06d",
-   "title": {
-    "en": "Takara-kun and Amagi-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.3154021,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "3de172b5-8f7d-4b80-b42d-22cad3c8198f",
    "title": {
     "en": "Dreams of the Days"
    },
    "contentRating": "safe",
-   "score": 0.3127206,
+   "score": 0.31336808,
    "languages": [
     "pt-br"
    ]
@@ -33,7 +22,18 @@
     "en": "Suki de Gomen"
    },
    "contentRating": "safe",
-   "score": 0.2967103,
+   "score": 0.30192572,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "356b49dd-3cbf-4db2-ac18-7dcd66d2e06d",
+   "title": {
+    "en": "Takara-kun and Amagi-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.30128384,
    "languages": [
     "en"
    ]
@@ -44,29 +44,7 @@
     "en": "Before and After Goodbye"
    },
    "contentRating": "safe",
-   "score": 0.2930173,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d9cb232d-af61-46a6-89c7-10a9e2ccf90d",
-   "title": {
-    "en": "Romeo x Romeo"
-   },
-   "contentRating": "safe",
-   "score": 0.2911657,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4d6085c0-dc26-4397-80e7-8669ddd08df4",
-   "title": {
-    "en": "Nomi x Shiba"
-   },
-   "contentRating": "safe",
-   "score": 0.2835781,
+   "score": 0.29322997,
    "languages": [
     "en"
    ]
@@ -95,15 +73,25 @@
    ]
   },
   {
-   "id": "5db47a11-9db5-4675-a3f8-2b4b8b83fa95",
+   "id": "d9cb232d-af61-46a6-89c7-10a9e2ccf90d",
    "title": {
-    "en": "Futari no Tokubetsu Jugyou"
+    "en": "Romeo x Romeo"
    },
    "contentRating": "safe",
-   "score": 0.27800772,
+   "score": 0.2835781,
    "languages": [
-    "en",
-    "fr"
+    "en"
+   ]
+  },
+  {
+   "id": "4d6085c0-dc26-4397-80e7-8669ddd08df4",
+   "title": {
+    "en": "Nomi x Shiba"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -112,21 +100,8 @@
     "en": "Kokyuu no Aida ni Koi ni Naru"
    },
    "contentRating": "safe",
-   "score": 0.2760911,
+   "score": 0.28222054,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cd9187e6-7c46-4203-b832-d9b41c22bf86",
-   "title": {
-    "en": "Ashita wa Kitto Tomodachi Janai, Yone"
-   },
-   "contentRating": "safe",
-   "score": 0.26873526,
-   "languages": [
-    "vi",
-    "ru",
     "en"
    ]
   },
@@ -136,34 +111,9 @@
     "en": "Yuri Iro no Koibito"
    },
    "contentRating": "safe",
-   "score": 0.26635173,
+   "score": 0.26643357,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "03f2e3e8-206f-40d9-b38f-8803b14245ce",
-   "title": {
-    "en": "Oretachi One Set"
-   },
-   "contentRating": "safe",
-   "score": 0.26514232,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "042b4389-a26d-4505-b96b-e9d5fd731f9c",
-   "title": {
-    "en": "Koisuru Mitsuba"
-   },
-   "contentRating": "safe",
-   "score": 0.2643106,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
    ]
   },
   {
@@ -172,7 +122,7 @@
     "en": "Boys Love"
    },
    "contentRating": "safe",
-   "score": 0.26378223,
+   "score": 0.26397324,
    "languages": [
     "bg",
     "ru",
@@ -186,11 +136,60 @@
     "en": "Close Your Eyes"
    },
    "contentRating": "safe",
-   "score": 0.2635098,
+   "score": 0.26368728,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "cd9187e6-7c46-4203-b832-d9b41c22bf86",
+   "title": {
+    "en": "Ashita wa Kitto Tomodachi Janai, Yone"
+   },
+   "contentRating": "safe",
+   "score": 0.26354524,
+   "languages": [
+    "vi",
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "03f2e3e8-206f-40d9-b38f-8803b14245ce",
+   "title": {
+    "en": "Oretachi One Set"
+   },
+   "contentRating": "safe",
+   "score": 0.2615047,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "93d6838a-e6e0-4b4d-adf2-54ee155cb7fa",
+   "title": {
+    "en": "Seishun Outsider"
+   },
+   "contentRating": "safe",
+   "score": 0.25984627,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "042b4389-a26d-4505-b96b-e9d5fd731f9c",
+   "title": {
+    "en": "Koisuru Mitsuba"
+   },
+   "contentRating": "safe",
+   "score": 0.2598186,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-10-21T20:27:24+00:00"
+ "updatedAt": "2024-10-29T19:29:41+00:00"
 }

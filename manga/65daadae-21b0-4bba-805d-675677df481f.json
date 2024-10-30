@@ -3,27 +3,44 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Mahou Shoujo Madoka★Magica - My Companion Became a Cat (Doujinshi)"
+   "en": "Mahou Shoujo Madoka★Magica - Tsure ga Neko ni Narimashite. (Doujinshi)"
   },
   "altTitles": [
    {
-    "en": "Mahou Shoujo Madoka Magica dj - My Companion Became a Cat"
+    "en": "Puella Magi Madoka★Magica - My Companion Became a Cat. (Doujinshi)"
    },
    {
-    "en": "Puella Magi Madoka Magica dj - My Companion Became a Cat"
+    "ja": "ツレがネコになりまして。(魔法少女まどか☆マギカ)"
    }
   ],
   "description": {
    "en": "Kyouko x Sayaka"
   },
+  "links": {
+   "mu": "lolne1m",
+   "raw": "https://www.pixiv.net/en/artworks/29243342"
+  },
   "originalLanguage": "ja",
   "status": "ongoing",
+  "year": 2012,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "bf79dd52-935c-47e5-b22a-23a3f79c57e8",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
@@ -86,9 +103,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2018-09-01T05:19:44+00:00",
-  "updatedAt": "2021-05-25T15:43:11+00:00"
+  "updatedAt": "2024-10-21T23:48:41+00:00"
  },
  "relationships": [
   {
@@ -106,19 +123,19 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/388188",
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-21T22:10:11+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "cbf13486-aa45-4b5e-b8ee-26e081da1ca6",
+   "id": "d62d7083-4642-4716-bbdb-43343cf86551",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -128,7 +145,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Bakadomo",
+    "name": "Bakadomo. (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -158,19 +175,19 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/388188",
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-21T22:10:11+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "cbf13486-aa45-4b5e-b8ee-26e081da1ca6",
+   "id": "d62d7083-4642-4716-bbdb-43343cf86551",
    "type": "artist",
    "attributes": {
     "biography": {},
@@ -180,7 +197,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Bakadomo",
+    "name": "Bakadomo. (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,

@@ -24,6 +24,7 @@
    "es-la": "Yuka, una estudiante universitaria, y Mahiro, un trabajador, son una pareja que lleva seis meses juntos. Son tan puros que incluso se ponen nerviosos al abrazarse. Pero un día, el \"secreto\" de Yuka, que ella no quería que él supiera, es revelado a Mahiro, y su relación empieza a torcerse lentamente...　Bonita y un poco rara, ¡una nueva clase de comedia romántica SM!",
    "ja": "大学生のゆかちゃんと社会人の真広さんは付き合って半年になるカップル。抱きしめ合うのも緊張するくらいピュアな2人。だけど、ある日ゆかちゃんの絶対に知られたくなかった「秘密」が真広さんにバレてしまったことで、そんな2人の関係は少しずつおかしなことになっていき―！？　可愛くてちょっとヘンテコな、新感覚SMラブコメ！"
   },
+  "isLocked": true,
   "links": {
    "al": "138136",
    "amz": "https://www.amazon.co.jp/dp/B09TVFXQX4",
@@ -35,6 +36,8 @@
    "raw": "https://comic.k-manga.jp/title/146046/pv"
   },
   "originalLanguage": "ja",
+  "lastVolume": "7",
+  "lastChapter": "37",
   "publicationDemographic": "josei",
   "status": "completed",
   "year": 2021,
@@ -69,12 +72,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 17,
+  "version": 19,
   "createdAt": "2021-10-10T14:01:35+00:00",
-  "updatedAt": "2024-08-04T14:58:43+00:00"
+  "updatedAt": "2024-10-28T12:08:09+00:00"
  },
  "relationships": [
   {
@@ -130,16 +145,16 @@
    }
   },
   {
-   "id": "08a7353c-26bc-4a82-985b-b02f731676e9",
+   "id": "e1dd404e-6a10-452a-b2a9-702bebe470a3",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-01-25T20:21:39+00:00",
+    "createdAt": "2024-10-28T12:07:15+00:00",
     "description": "",
-    "fileName": "c1b12b48-8dcc-4102-8d9e-8604d2181308.jpg",
+    "fileName": "1924f5f8-e442-4583-83be-992b76ac33cb.jpg",
     "locale": "ja",
-    "updatedAt": "2024-01-25T20:21:39+00:00",
+    "updatedAt": "2024-10-28T12:07:15+00:00",
     "version": 1,
-    "volume": "6"
+    "volume": "7"
    }
   },
   {

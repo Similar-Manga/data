@@ -1,0 +1,164 @@
+{
+ "id": "c4e5f7f5-cb71-4d5f-ac92-e035d6dc25c2",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ossan wa Uzeeeen da yo! tte Guild kara Tsuihou Shita Kuse ni, Go kara Fukki Yousei wo Dasarete mo Osoi. Saikou no Nakama to Deatta Ore wa Kocchi de Saikyou wo Mezasu!"
+  },
+  "altTitles": [
+   {
+    "ja": "おっさんはうぜぇぇぇんだよ!ってギルドから追放したくせに、後から復帰要請を出されても遅い。最高の仲間と出会った俺はこっちで最強を目指す! コミック版"
+   }
+  ],
+  "description": {
+   "ja": "幼い頃から冒険者になる夢を追っていた、38歳の『荷物持ち』ラベル・オーランド。彼を逆恨みする若い冒険者のハンスによって、長年所属していたギルドを追放されたラベルは、他のパーティーに所属することも妨害されて途方に暮れていた……。そんな時、彼が出会ったのは高すぎる能力のせいで周囲から避けられる美少女剣士のリオン。彼女の境遇に共感したラベルは、自身の経験と能力をフル活用して共に成り上がってゆくことを決意する――！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0B9G7L1NJ",
+   "ap": "ossan-wa-uzeeeen-da-yo-tte-guild-kara-tsuihou-shita-kuse-ni-go-kara-fukki-yousei-wo-dasarete-mo-osoi-saikou-no-nakama-to-deatta-ore-wa-kocchi-de-saikyou-wo-mezasu",
+   "bw": "series/372065",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/715201/"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-25T11:55:49+00:00",
+  "updatedAt": "2024-10-25T11:55:58+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b390529e-79d3-4e50-883a-a34cf1e06364",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-04-15T19:07:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-04-15T19:07:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ec71915b-4a89-4eb2-a391-c2b080cf8efd",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hatori Piyoko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T11:56:12+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5c0be07f-d52d-48c4-885d-26ff4d413b44",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-25T11:55:54+00:00",
+    "description": "",
+    "fileName": "5816e1c7-51f8-45d7-9b9b-26de4d24a682.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-25T11:55:54+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

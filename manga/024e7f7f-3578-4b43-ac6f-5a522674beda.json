@@ -1,0 +1,151 @@
+{
+ "id": "024e7f7f-3578-4b43-ac6f-5a522674beda",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "A guy who likes wearing women's clothes"
+  },
+  "altTitles": [
+   {
+    "zh-hk": "那個喜歡女裝的哥們"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/en/artworks/118301890"
+  },
+  "originalLanguage": "zh-hk",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "f280b559-a755-4f82-8def-cfcdfeb45c5b",
+  "tags": [
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crossdressing"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-24T13:16:54+00:00",
+  "updatedAt": "2024-10-24T13:17:00+00:00"
+ },
+ "relationships": [
+  {
+   "id": "775358a0-3cde-4fe2-9668-907b39940f74",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-24T13:16:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Burlap Farming",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T13:16:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "775358a0-3cde-4fe2-9668-907b39940f74",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-24T13:16:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Burlap Farming",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T13:16:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "64c04f93-c022-4d65-8834-13190a8ce388",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-24T13:16:55+00:00",
+    "description": "",
+    "fileName": "161b16e6-acb0-4ea7-87d3-61169600c1e0.jpg",
+    "locale": "zh-hk",
+    "updatedAt": "2024-10-24T13:16:55+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "b58899b5-f2b9-45b9-8048-16395cc30b08",
+   "type": "creator"
+  }
+ ]
+}

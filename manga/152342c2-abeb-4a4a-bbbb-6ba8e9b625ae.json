@@ -1,0 +1,149 @@
+{
+ "id": "152342c2-abeb-4a4a-bbbb-6ba8e9b625ae",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Jiko Bukken"
+  },
+  "altTitles": [
+   {
+    "ja": "事故物件"
+   },
+   {
+    "en": "Stigmatized Property"
+   }
+  ],
+  "description": {
+   "en": "A short story about a little girl visiting her sister's apartment. Everything seems perfectly fine at first. at least, until she realized that something feels off"
+  },
+  "links": {
+   "al": "165985",
+   "raw": "https://ec.toranoana.jp/tora_r/ec/item/040030239306/"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2014,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "7f62c099-b3d7-45ee-ac26-f0026b9e8837",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-10-25T16:57:21+00:00",
+  "updatedAt": "2024-10-28T06:37:51+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5e6ad669-80d4-4818-bb8c-dfad9464b32a",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Alt names:\nSomato\nソウマトウ\nMayoibashi\nまよいばし\n\nA mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou."
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://somato.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Soumatou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/422553",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/somatoma",
+    "updatedAt": "2023-04-22T19:09:42+00:00",
+    "version": 3,
+    "website": "https://so-ma-to.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5e6ad669-80d4-4818-bb8c-dfad9464b32a",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Alt names:\nSomato\nソウマトウ\nMayoibashi\nまよいばし\n\nA mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou."
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://somato.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Soumatou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/422553",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/somatoma",
+    "updatedAt": "2023-04-22T19:09:42+00:00",
+    "version": 3,
+    "website": "https://so-ma-to.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2434cf52-c3ce-4455-ac8c-cb0fb69899ee",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-25T16:57:39+00:00",
+    "description": "",
+    "fileName": "7cea596e-40ff-477d-9a6c-5f6b4303a096.png",
+    "locale": "ja",
+    "updatedAt": "2024-10-26T01:17:42+00:00",
+    "version": 2,
+    "volume": null
+   }
+  },
+  {
+   "id": "3df38727-d727-49fc-ae1b-d4bd16029ad5",
+   "type": "creator"
+  }
+ ]
+}

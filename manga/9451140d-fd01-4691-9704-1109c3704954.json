@@ -7,12 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "花与荆棘的魔女"
+    "zh": "花与荆棘的魔女"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "originalLanguage": "zh",
   "status": "ongoing",
   "contentRating": "safe",
@@ -21,6 +19,18 @@
   ],
   "latestUploadedChapter": "9f6bbd83-3f4d-4aa3-9db4-54decb9d6a2f",
   "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
     "type": "tag",
@@ -47,9 +57,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-11-06T04:58:04+00:00",
-  "updatedAt": "2021-05-25T15:45:20+00:00"
+  "updatedAt": "2024-10-25T09:26:47+00:00"
  },
  "relationships": [
   {

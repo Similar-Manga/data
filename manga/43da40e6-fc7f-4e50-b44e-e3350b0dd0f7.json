@@ -7,19 +7,13 @@
   },
   "altTitles": [
    {
-    "en": "Saguri-chan Expedition Party"
+    "ja": "さぐりさん探検隊"
    },
    {
-    "en": "Saguri-chan Exploration Party"
+    "en": "Saguri-san Exploration Party"
    },
    {
-    "en": "Saguri-chan Tankentai"
-   },
-   {
-    "en": "さぐりさん探検隊"
-   },
-   {
-    "en": "さぐりちゃん探検隊"
+    "en": "Saguri-san Expedition Party"
    }
   ],
   "description": {
@@ -30,11 +24,13 @@
    "ap": "saguri-san-tankentai",
    "kt": "39125",
    "mal": "103567",
-   "mu": "138522"
+   "mu": "138522",
+   "raw": "https://shonenjumpplus.com/episode/10833519556325015569"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "completed",
+  "year": 2017,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "fr",
@@ -82,6 +78,18 @@
     }
    },
    {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -95,23 +103,25 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-01-28T10:42:44+00:00",
-  "updatedAt": "2022-01-24T23:49:26+00:00"
+  "updatedAt": "2024-10-26T05:08:04+00:00"
  },
  "relationships": [
   {
    "id": "74828944-5432-46fd-8859-cab89be785d6",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** あきやま陽光"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Akiyama Yoco",
+    "name": "Akiyama Youkou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -119,8 +129,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/akiyamayoco",
-    "updatedAt": "2023-05-31T16:49:19+00:00",
-    "version": 2,
+    "updatedAt": "2024-10-26T03:42:56+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -130,14 +140,16 @@
    "id": "74828944-5432-46fd-8859-cab89be785d6",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** あきやま陽光"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Akiyama Yoco",
+    "name": "Akiyama Youkou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -145,22 +157,22 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/akiyamayoco",
-    "updatedAt": "2023-05-31T16:49:19+00:00",
-    "version": 2,
+    "updatedAt": "2024-10-26T03:42:56+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "3d42db7d-70df-4f92-a1b2-7d60be10028e",
+   "id": "5495605f-2091-44e9-b5bc-fc6a1c9586ef",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:59:22+00:00",
+    "createdAt": "2024-10-26T05:09:30+00:00",
     "description": "",
-    "fileName": "935cccb4-7bbe-4991-8430-4e73febeb694.jpg",
+    "fileName": "6deb59d0-38f9-4d59-ae56-fc3cf4ef7652.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:59:22+00:00",
+    "updatedAt": "2024-10-26T05:09:30+00:00",
     "version": 1,
     "volume": null
    }
