@@ -78,9 +78,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2024-07-29T17:34:24+00:00",
-  "updatedAt": "2024-09-03T09:42:20+00:00"
+  "updatedAt": "2024-10-31T11:24:47+00:00"
  },
  "relationships": [
   {
@@ -287,32 +287,6 @@
     "tumblr": null,
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "723058d3-6017-4071-900e-0446ab8d3d0f",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2024-07-29T16:07:25+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Inu",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-07-29T16:07:25+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -630,6 +604,34 @@
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ad27765d-3fe6-4115-9c61-e5882db19359",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "H-doujinshi artist. Not to be confused with the older commercial H-manga artist Inu (犬) a.k.a [Oouchi Takamichi](https://mangadex.org/author/dc483032-40fb-451e-8e18-2d0c74993855) or the BL web artist also named [Inu (犬)](https://mangadex.org/author/e79b10f3-f771-45a7-b550-f7e45046daa7).\n\n**Native name**: 著\n\n**Alt. names**:\ni_n_u\n\n**Circle/s:**\n[AERODOG](https://mangadex.org/author/2fff0b1d-1f58-4aba-a33b-c9159d1eca5d/aerodog)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://aerodog.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "inu (著)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=32426",
+    "skeb": "https://skeb.jp/@i_n_u",
+    "tumblr": null,
+    "twitter": "https://twitter.com/i_n_u",
+    "updatedAt": "2024-10-31T13:41:47+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -1006,32 +1008,6 @@
    }
   },
   {
-   "id": "723058d3-6017-4071-900e-0446ab8d3d0f",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2024-07-29T16:07:25+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Inu",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-07-29T16:07:25+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
    "id": "7553f902-fa0a-4fee-8b94-f88820025ffd",
    "type": "artist",
    "attributes": {
@@ -1342,6 +1318,34 @@
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ad27765d-3fe6-4115-9c61-e5882db19359",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "H-doujinshi artist. Not to be confused with the older commercial H-manga artist Inu (犬) a.k.a [Oouchi Takamichi](https://mangadex.org/author/dc483032-40fb-451e-8e18-2d0c74993855) or the BL web artist also named [Inu (犬)](https://mangadex.org/author/e79b10f3-f771-45a7-b550-f7e45046daa7).\n\n**Native name**: 著\n\n**Alt. names**:\ni_n_u\n\n**Circle/s:**\n[AERODOG](https://mangadex.org/author/2fff0b1d-1f58-4aba-a33b-c9159d1eca5d/aerodog)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://aerodog.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "inu (著)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=32426",
+    "skeb": "https://skeb.jp/@i_n_u",
+    "tumblr": null,
+    "twitter": "https://twitter.com/i_n_u",
+    "updatedAt": "2024-10-31T13:41:47+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

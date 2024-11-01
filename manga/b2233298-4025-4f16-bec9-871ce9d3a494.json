@@ -1,0 +1,181 @@
+{
+ "id": "b2233298-4025-4f16-bec9-871ce9d3a494",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tobenai Majo"
+  },
+  "altTitles": [
+   {
+    "ja": "とべない魔女"
+   },
+   {
+    "ja-ro": "Tobe Nai Majo"
+   },
+   {
+    "en": "Witch Who Can't Fly"
+   }
+  ],
+  "description": {
+   "en": "A one-shot about a witch who can't fly!",
+   "ja": "空をとべない魔法使いの話です！"
+  },
+  "links": {
+   "raw": "https://rookie.shonenjump.com/series/pGBIkZliMm4"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "81c836c9-914a-4eca-981a-560dad663e73",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magical Girls"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-10-30T15:30:01+00:00",
+  "updatedAt": "2024-10-30T16:39:06+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3686de10-2ec5-4fc0-bade-fd561a73c55c",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-30T15:26:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "smz",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-30T15:26:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3686de10-2ec5-4fc0-bade-fd561a73c55c",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-30T15:26:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "smz",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-30T15:26:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ea321270-25e2-4c17-87af-4e7b58d0973f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-30T15:30:08+00:00",
+    "description": "",
+    "fileName": "bdfd4db4-396e-426b-af0f-9523d4ac81f9.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-30T15:30:08+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c318ee15-380b-4fb8-a849-48ee3194ec4e",
+   "type": "creator"
+  }
+ ]
+}

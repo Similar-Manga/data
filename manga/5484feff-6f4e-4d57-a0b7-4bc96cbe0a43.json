@@ -8,10 +8,14 @@
   "altTitles": [
    {
     "ja": "葬儀屋のソウギさん"
+   },
+   {
+    "fr": "Sogi, le maître des funérailles"
    }
   ],
   "description": {
-   "en": "The enigmatic mortician Sougi-san performs unique funerals for his clients today. Welcome to the world of fantastic horror spun."
+   "en": "The enigmatic mortician Sougi-san performs unique funerals for his clients today. Welcome to the world of fantastic horror spun.",
+   "fr": "Le mystérieux directeur des pompes funèbres , Sōgi-san, continue de concevoir des cérémonies funéraires uniques pour ses clients.\n\nEntrez dans un monde de fantasy-horreur, richement illustré et captivant."
   },
   "links": {
    "mu": "8orru82",
@@ -22,6 +26,10 @@
   "status": "ongoing",
   "year": 2023,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "fr"
+  ],
+  "latestUploadedChapter": "0da9acc5-5237-4a12-93ed-75108ca16aea",
   "tags": [
    {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
@@ -48,6 +56,30 @@
     }
    },
    {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
@@ -58,12 +90,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2023-04-08T12:26:07+00:00",
-  "updatedAt": "2023-04-08T12:26:43+00:00"
+  "updatedAt": "2024-10-31T12:34:07+00:00"
  },
  "relationships": [
   {

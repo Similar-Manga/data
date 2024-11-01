@@ -11,7 +11,7 @@
     "en": "Tonari no Ninja"
    },
    "contentRating": "safe",
-   "score": 0.43246925,
+   "score": 0.4324988,
    "languages": [
     "fr",
     "en",
@@ -24,7 +24,7 @@
     "en": "Shinobigoto"
    },
    "contentRating": "safe",
-   "score": 0.36402634,
+   "score": 0.3640682,
    "languages": [
     "vi",
     "en"
@@ -36,7 +36,7 @@
     "en": "Dropout Ninja Rantaro"
    },
    "contentRating": "safe",
-   "score": 0.33943188,
+   "score": 0.33945724,
    "languages": [
     "en"
    ]
@@ -47,7 +47,7 @@
     "en": "Shinobi SS"
    },
    "contentRating": "safe",
-   "score": 0.3334415,
+   "score": 0.33351183,
    "languages": [
     "en"
    ]
@@ -58,21 +58,25 @@
     "en": "The Ninjas"
    },
    "contentRating": "safe",
-   "score": 0.27759984,
+   "score": 0.27764475,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "57e0dd82-503b-4ba1-81a3-f3323f8f6456",
+   "id": "b5351a0c-96af-49f7-898e-17914a082561",
    "title": {
-    "en": "Urasaki-san wants to tell Omoteno-kun."
+    "en": "Boku no Kanojo wa Dekkawaii"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
     "vi",
-    "en"
+    "pl",
+    "en",
+    "pt-br",
+    "id",
+    "fr"
    ]
   },
   {
@@ -92,6 +96,60 @@
     "id",
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "58c9abd8-a4a6-41b1-9504-d7da7ec10acd",
+   "title": {
+    "en": "Tsuji-kun And Miyazono-san"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "fr",
+    "da",
+    "tl",
+    "zh",
+    "de",
+    "es-la",
+    "hi",
+    "ms",
+    "zh-hk",
+    "tr",
+    "vi",
+    "ru"
+   ]
+  },
+  {
+   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
+   "title": {
+    "en": "My Clueless First Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "uk",
+    "pt-br",
+    "ru",
+    "vi",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "590666db-1beb-4830-8732-dc11dfbe0148",
+   "title": {
+    "en": "Code Geass: Lelouch The Private Home Tutor"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -121,38 +179,6 @@
    ]
   },
   {
-   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
-   "title": {
-    "en": "My Clueless First Friend"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en",
-    "uk",
-    "pt-br",
-    "ru",
-    "vi",
-    "id",
-    "es-la"
-   ]
-  },
-  {
-   "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
-   "title": {
-    "en": "TakuTore!"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "pt-br",
-    "it",
-    "id",
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "baed25ca-569e-4461-bb31-b64883b39d99",
    "title": {
     "en": "Itsuki-kun wa Tadasaretai"
@@ -164,47 +190,6 @@
     "uk",
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "58c9abd8-a4a6-41b1-9504-d7da7ec10acd",
-   "title": {
-    "en": "Tsuji-kun And Miyazono-san"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br",
-    "fr",
-    "da",
-    "tl",
-    "zh",
-    "de",
-    "es-la",
-    "hi",
-    "ms",
-    "zh-hk",
-    "tr",
-    "vi",
-    "ru"
-   ]
-  },
-  {
-   "id": "b5351a0c-96af-49f7-898e-17914a082561",
-   "title": {
-    "en": "Boku no Kanojo wa Dekkawaii"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "vi",
-    "pl",
-    "en",
-    "pt-br",
-    "id",
-    "fr"
    ]
   },
   {
@@ -232,7 +217,22 @@
     "pt-br",
     "ru"
    ]
+  },
+  {
+   "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
+   "title": {
+    "en": "TakuTore!"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "pt-br",
+    "it",
+    "id",
+    "en",
+    "es-la"
+   ]
   }
  ],
- "updatedAt": "2024-10-29T18:56:44+00:00"
+ "updatedAt": "2024-11-01T19:22:57+00:00"
 }

@@ -10,13 +10,13 @@
     "en": "Half and Half"
    },
    {
-    "en": "ハーフ・アンド・ハーフ"
+    "ja": "ハーフ・アンド・ハーフ"
    },
    {
-    "en": "一半的另一半"
+    "zh": "一半的另一半"
    },
    {
-    "en": "하프 앤 하프"
+    "ko": "하프 앤 하프"
    }
   ],
   "description": {
@@ -24,7 +24,11 @@
   },
   "links": {
    "al": "55306",
+   "amz": "https://www.amazon.co.jp/kindle-dbs/product/B08FYX135F?searchxofy=true\u0026is-secure=true\u0026binding=kindle_edition\u0026ref_=dbs_s_aps_series_rwt_tkin\u0026qid=1730318517\u0026sr=8-2\u0026reroutedViaSP=1\u0026isRedirectedFromSDP=true\u0026multiLevelIngressAsin=B077LJKZ8S\u0026shoppingPortalEnabled=true",
    "ap": "half-and-half",
+   "bw": "series/5344/list",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-60800",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/111930/",
    "kt": "18467",
    "mal": "25306",
    "mu": "21549"
@@ -34,12 +38,25 @@
   "lastChapter": "9",
   "publicationDemographic": "shoujo",
   "status": "completed",
+  "year": 2008,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "d317ad40-54b0-4862-9fd5-5b2285439433",
   "tags": [
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -53,14 +70,14 @@
     }
    },
    {
-    "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Crossdressing"
+      "en": "Comedy"
      },
      "description": {},
-     "group": "theme",
+     "group": "genre",
      "version": 1
     }
    },
@@ -75,12 +92,36 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-11-25T01:43:11+00:00",
-  "updatedAt": "2021-05-25T15:45:12+00:00"
+  "updatedAt": "2024-10-30T20:03:02+00:00"
  },
  "relationships": [
   {
@@ -136,16 +177,16 @@
    }
   },
   {
-   "id": "f053047f-8b3c-4f29-90cb-91717c2b133b",
+   "id": "9465b489-987d-45f3-9685-6775ead1782d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:35:02+00:00",
+    "createdAt": "2024-10-30T20:03:00+00:00",
     "description": "",
-    "fileName": "4d8eb4c9-0433-4c0a-970e-560f7b745ea1.png",
+    "fileName": "06f0a341-3ed6-4d70-8031-ae4a08890b9a.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:35:02+00:00",
+    "updatedAt": "2024-10-30T20:03:00+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

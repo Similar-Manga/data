@@ -17,8 +17,8 @@
    "al": "122112",
    "amz": "https://www.amazon.co.jp/dp/B09QWD767N",
    "ap": "honnouji-kara-hajimeru-nobunaga-to-no-tenka-touitsu",
-   "bw": "series/296963",
-   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD%3A14%3A03\u0026q=%E6%9C%AC%E8%83%BD%E5%AF%BA%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B%E4%BF%A1%E9%95%B7%E3%81%A8%E3%81%AE%E5%A4%A9%E4%B8%8B%E7%B5%B1%E4%B8%80\u0026order=reldesc\u0026opt.exclude_prx=on",
+   "bw": "series/296963/list",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD:14:03\u0026q=本能寺から始める信長との天下統一\u0026order=reldesc\u0026opt.exclude_prx=on",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/635144/",
    "mal": "130426",
    "mu": "r4dcbx7",
@@ -30,6 +30,10 @@
   "status": "ongoing",
   "year": 2020,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "9994aa66-81c1-4f6c-9d6c-1a4193741339",
   "tags": [
    {
     "id": "292e862b-2d17-4062-90a2-0356caa4ae27",
@@ -56,6 +60,30 @@
     }
    },
    {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "81183756-1453-4c81-aa9e-f6e1b63be016",
     "type": "tag",
     "attributes": {
@@ -68,11 +96,23 @@
     }
    },
    {
-    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "School Life"
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
      },
      "description": {},
      "group": "theme",
@@ -93,9 +133,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2024-02-13T10:25:57+00:00",
-  "updatedAt": "2024-02-14T05:54:25+00:00"
+  "updatedAt": "2024-10-30T22:37:59+00:00"
  },
  "relationships": [
   {
@@ -151,16 +191,16 @@
    }
   },
   {
-   "id": "c4e1e7f3-fa46-4bf1-bb29-5a3e5f39ca50",
+   "id": "f1b54066-fcdd-4ad6-8a75-f3538d1de7a9",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-02-14T05:56:08+00:00",
-    "description": "Volume Cover From BookWalker",
-    "fileName": "a165524a-bf0a-4927-9759-43af8642482a.jpg",
+    "createdAt": "2024-10-30T22:41:06+00:00",
+    "description": "",
+    "fileName": "4481709b-bef9-43fe-a2bc-ca0e95d0f8f8.jpg",
     "locale": "ja",
-    "updatedAt": "2024-02-14T05:56:08+00:00",
+    "updatedAt": "2024-10-30T22:41:06+00:00",
     "version": 1,
-    "volume": "4"
+    "volume": "5"
    }
   },
   {

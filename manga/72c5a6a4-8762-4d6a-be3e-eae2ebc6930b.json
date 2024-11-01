@@ -11,19 +11,24 @@
    },
    {
     "ja-ro": "Emperor to Issho"
+   },
+   {
+    "en": "Together With An Emperor"
    }
   ],
   "description": {
-   "en": "One day something emerges from high school girl Kaho's refrigerator—an emperor penguin, the largest of all penguins! When this emperor joins the household, fun and wacky antics with family and friends ensue!"
+   "en": "One day the high school girl Kaho finds something unexpected in her fridge—an emperor penguin, the largest of all penguins! When this emperor joins the household, fun and wacky antics with family and friends ensue!"
   },
   "links": {
    "al": "87340",
-   "amz": "https://www.amazon.co.jp/gp/product/B074CF1J23",
+   "amz": "https://www.amazon.co.jp/dp/B074CF1J23",
    "ap": "the-emperor-and-i",
-   "engtl": "https://www.viz.com/the-emperor-and-i",
+   "bw": "series/65966",
+   "engtl": "https://www.viz.com/shonenjump/chapters/the-emperor-and-i",
    "kt": "38074",
    "mal": "99584",
-   "mu": "127870"
+   "mu": "127870",
+   "raw": "https://shonenjumpplus.com/episode/10833497643049549944"
   },
   "originalLanguage": "ja",
   "lastVolume": "4",
@@ -75,74 +80,78 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2019-07-07T07:29:39+00:00",
-  "updatedAt": "2024-05-03T18:02:45+00:00"
+  "updatedAt": "2024-10-29T13:38:45+00:00"
  },
  "relationships": [
   {
-   "id": "a3752c85-d4b4-403f-af70-8b64788be446",
+   "id": "34c0be79-3070-499e-b5f2-e839019c9b3d",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Not to be confused with [MATO (Sukeroku)](https://mangadex.org/author/a3752c85-d4b4-403f-af70-8b64788be446) or [Mato (真斗)](https://mangadex.org/author/39e7fc44-f073-4f35-94d0-cf1ad4175993).\n\n**Additional Sites:**\n- [Overseas Animation Hobby Twitter](https://x.com/katari_rakugaki)\n- [Tumblr](https://www.tumblr.com/matolycopene)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Mato",
+    "name": "mato",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/2215797",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/mozu_hayanie",
+    "updatedAt": "2024-10-29T12:11:30+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "a3752c85-d4b4-403f-af70-8b64788be446",
+   "id": "34c0be79-3070-499e-b5f2-e839019c9b3d",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Not to be confused with [MATO (Sukeroku)](https://mangadex.org/author/a3752c85-d4b4-403f-af70-8b64788be446) or [Mato (真斗)](https://mangadex.org/author/39e7fc44-f073-4f35-94d0-cf1ad4175993).\n\n**Additional Sites:**\n- [Overseas Animation Hobby Twitter](https://x.com/katari_rakugaki)\n- [Tumblr](https://www.tumblr.com/matolycopene)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Mato",
+    "name": "mato",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/2215797",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/mozu_hayanie",
+    "updatedAt": "2024-10-29T12:11:30+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "a67900b0-3c44-4f34-9516-b0bcbeae943d",
+   "id": "a76edd82-02e6-4338-b0fc-04440311d7a6",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:18:05+00:00",
+    "createdAt": "2022-07-22T20:16:48+00:00",
     "description": "",
-    "fileName": "c6ddc3b0-8434-43d1-b7c0-bb7f5e284ce1.png",
+    "fileName": "a2f2c9ce-e786-4163-8d49-8381836af516.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:18:05+00:00",
+    "updatedAt": "2022-07-22T20:16:48+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
   }
  ]

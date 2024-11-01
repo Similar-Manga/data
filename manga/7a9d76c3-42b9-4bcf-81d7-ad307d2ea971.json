@@ -62,7 +62,7 @@
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2015,
-  "contentRating": "safe",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "fr",
    "it",
@@ -81,6 +81,42 @@
   ],
   "latestUploadedChapter": "15ca83d1-d3e8-4aa0-b02c-a0387e0b97bb",
   "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Award Winning"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "320831a8-4026-470b-94f6-8353740e6f04",
     "type": "tag",
@@ -126,6 +162,30 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -203,9 +263,9 @@
    }
   ],
   "state": "published",
-  "version": 30,
+  "version": 31,
   "createdAt": "2019-05-31T20:04:06+00:00",
-  "updatedAt": "2024-07-27T09:53:15+00:00"
+  "updatedAt": "2024-10-31T23:48:09+00:00"
  },
  "relationships": [
   {

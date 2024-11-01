@@ -92,6 +92,18 @@
     }
    },
    {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
     "type": "tag",
     "attributes": {
@@ -140,6 +152,18 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -165,9 +189,9 @@
    }
   ],
   "state": "published",
-  "version": 34,
+  "version": 35,
   "createdAt": "2021-03-15T21:34:39+00:00",
-  "updatedAt": "2024-10-17T05:30:08+00:00"
+  "updatedAt": "2024-11-01T02:11:11+00:00"
  },
  "relationships": [
   {

@@ -10,7 +10,7 @@
     "ja-ro": "Shin'ai naru A-jou e no Mystery"
    },
    {
-    "en": "致我亲爱的A小姐"
+    "zh": "致我亲爱的A小姐"
    },
    {
     "ja": "親愛なるA嬢へのミステリー"
@@ -24,12 +24,15 @@
   },
   "links": {
    "al": "101742",
+   "amz": "https://www.amazon.co.jp/dp/B078MQ3QS7/",
    "ap": "shinai-naru-a-jou-e-no-mystery",
    "bw": "series/107773/list",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/397694/A001720915/",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?term.media_format=\u0026q=%E8%A6%AA%E6%84%9B%E3%81%AA%E3%82%8BA%E5%AC%A2%E3%81%B8%E3%81%AE%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/397694/",
    "kt": "46683",
    "mal": "102457",
-   "mu": "137074"
+   "mu": "137074",
+   "raw": "https://www.cmoa.jp/title/127253/"
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
@@ -41,7 +44,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "c8da8598-8c55-457a-a07b-aba94a171fef",
+  "latestUploadedChapter": "2132bb2e-9fe1-4d76-9536-eee6f0941800",
   "tags": [
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
@@ -93,16 +96,18 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2019-04-14T19:52:57+00:00",
-  "updatedAt": "2024-10-09T03:14:38+00:00"
+  "updatedAt": "2024-10-31T02:35:33+00:00"
  },
  "relationships": [
   {
    "id": "05274746-56dc-4f34-950f-836aa4e0cb6e",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nモリエサトシ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -117,9 +122,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/morinotes",
-    "updatedAt": "2023-09-28T11:27:35+00:00",
-    "version": 2,
-    "website": null,
+    "updatedAt": "2024-10-31T02:36:38+00:00",
+    "version": 3,
+    "website": "http://morinote.sakura.ne.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -128,7 +133,9 @@
    "id": "05274746-56dc-4f34-950f-836aa4e0cb6e",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nモリエサトシ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -143,24 +150,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/morinotes",
-    "updatedAt": "2023-09-28T11:27:35+00:00",
-    "version": 2,
-    "website": null,
+    "updatedAt": "2024-10-31T02:36:38+00:00",
+    "version": 3,
+    "website": "http://morinote.sakura.ne.jp/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "6904c4ae-306e-4f40-bad0-f79798b86373",
+   "id": "9f9a1020-b934-416f-8b9a-0fac7c989804",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:08:03+00:00",
+    "createdAt": "2024-10-29T18:00:29+00:00",
     "description": "",
-    "fileName": "310126b0-67f1-4992-8eb2-5304e22f65a4.jpg",
+    "fileName": "1d271b25-b8d6-4041-84d7-35b4c797018d.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:08:03+00:00",
+    "updatedAt": "2024-10-29T18:00:29+00:00",
     "version": 1,
-    "volume": null
+    "volume": "3"
    }
   }
  ]

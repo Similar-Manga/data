@@ -3,18 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Takabishana Ojousama ga Kanzen Haiboku Surumade"
+   "en": "Takabisha na Ojou-sama ga Kanzen Haiboku Suru Made"
   },
   "altTitles": [
    {
     "ja": "高飛車なお嬢様が完全敗北するまで"
    },
    {
-    "en": "Until my new teacher is totally defeated"
+    "ja-ro": "Takabishana Ojousama ga Kanzen Haiboku Surumade"
+   },
+   {
+    "en": "Until the Arrogant Young Lady Is Totally Defeated"
+   },
+   {
+    "en": "Until My New Teacher Is Totally Defeated"
    }
   ],
   "description": {
-   "en": "Story of a young girl and her teacher"
+   "en": "The story of an arrogant young lady and her teacher."
   },
   "links": {
    "raw": "https://www.pixiv.net/user/56915504/series/172491"
@@ -37,18 +43,6 @@
      },
      "description": {},
      "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Doujinshi"
-     },
-     "description": {},
-     "group": "format",
      "version": 1
     }
    },
@@ -90,9 +84,9 @@
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 16,
   "createdAt": "2022-10-27T00:08:01+00:00",
-  "updatedAt": "2024-03-25T12:06:43+00:00"
+  "updatedAt": "2024-11-01T06:39:58+00:00"
  },
  "relationships": [
   {
@@ -100,7 +94,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "nanakoro81 八時ななころ"
+     "en": "**Native name**: 八時ななころ\n\n**Alt. names**:\nnanakoro81 "
     },
     "booth": null,
     "createdAt": "2022-04-12T10:45:13+00:00",
@@ -116,36 +110,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/nanakoro81",
-    "updatedAt": "2022-10-27T03:15:29+00:00",
-    "version": 4,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "4ea36ac0-ae67-4ef1-8c05-85052d369295",
-   "type": "author",
-   "attributes": {
-    "biography": {
-     "ja": "八時ななころ"
-    },
-    "booth": null,
-    "createdAt": "2022-10-27T00:05:47+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Nanakoro81",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/nanakoro81",
-    "updatedAt": "2022-10-27T03:16:26+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-01T06:51:19+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -156,7 +122,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "nanakoro81 八時ななころ"
+     "en": "**Native name**: 八時ななころ\n\n**Alt. names**:\nnanakoro81 "
     },
     "booth": null,
     "createdAt": "2022-04-12T10:45:13+00:00",
@@ -172,36 +138,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/nanakoro81",
-    "updatedAt": "2022-10-27T03:15:29+00:00",
-    "version": 4,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "4ea36ac0-ae67-4ef1-8c05-85052d369295",
-   "type": "artist",
-   "attributes": {
-    "biography": {
-     "ja": "八時ななころ"
-    },
-    "booth": null,
-    "createdAt": "2022-10-27T00:05:47+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Nanakoro81",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/nanakoro81",
-    "updatedAt": "2022-10-27T03:16:26+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-01T06:51:19+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null

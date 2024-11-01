@@ -1,0 +1,153 @@
+{
+ "id": "a43f602b-e699-4b02-a8d4-a7bc741d1ede",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Lonely Lorry Love"
+  },
+  "altTitles": [
+   {
+    "ja": "ロンリー・ローリー・ラブ"
+   }
+  ],
+  "description": {
+   "en": "\"Oopsie! I'm late, I'm late!\" High school girl, Yumeno Saki, collides at a corner with...\n\nThis is a high-speed four-wheel romantic comedy based on the experiences of a distant relative. Lonely Lorry Love is a oneshot that won the Sunday Webry Rookie Award. A brand new work by new artist, Kutou Ten."
+  },
+  "links": {
+   "raw": "https://www.sunday-webry.com/episode/2550689798694312470"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "24e5210a-24a3-4aba-9212-9ba4ddc3948d",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-31T14:16:49+00:00",
+  "updatedAt": "2024-10-31T14:33:06+00:00"
+ },
+ "relationships": [
+  {
+   "id": "087214da-3918-48f6-aa27-2cbfd2470114",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-31T14:03:21+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kutou Ten",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-31T14:03:21+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "087214da-3918-48f6-aa27-2cbfd2470114",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-31T14:03:21+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kutou Ten",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-31T14:03:21+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "43647aa0-9d46-4185-a422-feda547c3c40",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-31T14:31:19+00:00",
+    "description": "",
+    "fileName": "fc30456a-af60-4d91-88f1-5a3bf609e63b.png",
+    "locale": "ja",
+    "updatedAt": "2024-10-31T14:32:37+00:00",
+    "version": 2,
+    "volume": null
+   }
+  },
+  {
+   "id": "ab07e09c-3f56-40ae-bc88-468e4605fa5e",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "id": "db882a6e-6716-47bc-b031-c420f42d08d5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Whimsy Whimsy Witch"
+  },
+  "altTitles": [
+   {
+    "vi": "Cô phù thủy ngộ nghĩnh"
+   }
+  ],
+  "description": {
+   "en": "A prince has been cursed to turn into a frog by a witch. Things went wild from there.",
+   "vi": "Một hoàng tử bị biến thành con ếch bởi một mụ phù thủy. Chuyện diễn ra tiếp theo khá là kì cục."
+  },
+  "links": {
+   "engtl": "https://x.com/duc_94/status/1851970713382736199",
+   "raw": "https://www.facebook.com/media/set/?vanity=duongduccomic\u0026set=a.1057802535736045"
+  },
+  "originalLanguage": "vi",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "e3f9211a-6b10-4838-bb8d-e61699205a90",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-10-31T15:16:42+00:00",
+  "updatedAt": "2024-10-31T22:24:26+00:00"
+ },
+ "relationships": [
+  {
+   "id": "60473def-e312-4d21-ad42-82f995bc6ed3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-31T15:13:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "duc_94",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-31T15:13:00+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "eec633c0-8e9f-45f9-a493-633a53179688",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-12-27T08:11:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "@duc_94",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-12-27T08:11:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "60473def-e312-4d21-ad42-82f995bc6ed3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-31T15:13:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "duc_94",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-31T15:13:00+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "eec633c0-8e9f-45f9-a493-633a53179688",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-12-27T08:11:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "@duc_94",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-12-27T08:11:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0b69e188-aa47-4efb-bdda-bd6ab64512e6",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-31T15:23:17+00:00",
+    "description": "",
+    "fileName": "9371a28d-1bce-46b3-b56e-1e5f36c199ee.jpg",
+    "locale": "vi",
+    "updatedAt": "2024-11-01T02:13:57+00:00",
+    "version": 2,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "52e8d3a7-f09e-45a4-bf63-526ff394993d",
+   "type": "creator"
+  }
+ ]
+}

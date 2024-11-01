@@ -11,14 +11,17 @@
    },
    {
     "en": "A Tale of Revenge of the Incompetent Hero"
+   },
+   {
+    "en": "The Tale of the Useless Hero's Revenge: The Boy Abandoned in Another World Swears to Rebel"
    }
   ],
   "description": {
-   "ja": "ごく普通の少年・カズキは「勇者」として異世界に召喚されるも、人間たちに右手を切り落とされ「無能」の烙印とともに追放される。息も絶え絶えな彼の元に現れたのは、絶滅したはずの古代ドラゴン族の生き残りを名乗る少女・ルタだった。「うぬよ、生きたいか？　ただし死ぬまで働いてもらう―」カズキは復讐のためにルタと同盟を結び、次第に『魂力（チャクラ）』と『魂装（カルマ）』という秘められた力に目覚めていく…！ドラゴン、エルフ、亜人たち、人間に虐げられた異種族の仲間と共に世界の構造をひっくり返せ！"
+   "en": "The ordinary boy Kazuki is summoned to another world as a \"hero,\" but he has his right hand cut off by humans and is banished with the stigma of being \"useless.\" Just as he is on the brink of death, a girl named Ruta, claiming to be a survivor of the supposedly extinct ancient dragon race, appears before him. \"Do you wish to live? However, you will have to work until you die as my servant.\" Kazuki forms an alliance with Ruta for revenge and gradually awakens to the hidden powers of \"Soul Power (Chakra)\" and \"Soul Armor (Karma)\"...! Together with dragons, elves, demi-humans, and others oppressed by humans, let's turn the world upside down!"
   },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0CYQR11MK",
-   "bw": "series/463556",
+   "bw": "series/463556/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/819018/",
    "mu": "glll50r"
   },
@@ -29,6 +32,10 @@
   "status": "completed",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "57307512-94c4-4b99-ad85-7574d8572235",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -36,6 +43,42 @@
     "attributes": {
      "name": {
       "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
      },
      "description": {},
      "group": "genre",
@@ -68,9 +111,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 7,
   "createdAt": "2024-10-27T21:56:15+00:00",
-  "updatedAt": "2024-10-27T21:56:43+00:00"
+  "updatedAt": "2024-10-30T23:10:40+00:00"
  },
  "relationships": [
   {
@@ -126,14 +169,14 @@
    }
   },
   {
-   "id": "6098730c-f7e0-4b71-977a-b422ac7249a2",
+   "id": "5fef95be-a2db-40b8-a885-0681b87e8fea",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-27T21:56:17+00:00",
+    "createdAt": "2024-10-30T23:12:07+00:00",
     "description": "",
-    "fileName": "905d024a-b0dc-422f-88d5-c11507959744.jpg",
+    "fileName": "ae168d75-a0e1-49e1-9aad-1fb5e84658f6.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-27T21:56:17+00:00",
+    "updatedAt": "2024-10-30T23:12:07+00:00",
     "version": 1,
     "volume": "2"
    }

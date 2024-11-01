@@ -24,11 +24,24 @@
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
+  "lastChapter": "11",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2023,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
@@ -79,9 +92,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 10,
   "createdAt": "2024-01-04T00:05:59+00:00",
-  "updatedAt": "2024-10-25T21:49:42+00:00"
+  "updatedAt": "2024-10-31T18:10:21+00:00"
  },
  "relationships": [
   {
@@ -137,16 +150,16 @@
    }
   },
   {
-   "id": "12d3bd0e-15e7-41c0-ba01-7acb62a99d56",
+   "id": "d215c470-83a6-4f10-a0a1-2c2f08f1a304",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-07-03T18:27:18+00:00",
+    "createdAt": "2024-10-31T18:08:57+00:00",
     "description": "",
-    "fileName": "99d94bb5-c214-4212-9873-bb1f34b4876b.jpg",
+    "fileName": "446adddb-1ccf-463c-8915-922645a45001.jpg",
     "locale": "ja",
-    "updatedAt": "2024-07-03T18:27:18+00:00",
+    "updatedAt": "2024-10-31T18:08:57+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "3"
    }
   },
   {

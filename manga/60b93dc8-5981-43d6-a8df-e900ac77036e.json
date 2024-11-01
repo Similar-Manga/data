@@ -1,0 +1,138 @@
+{
+ "id": "60b93dc8-5981-43d6-a8df-e900ac77036e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Record of Copoka: The Nine Dragons"
+  },
+  "altTitles": [
+   {
+    "ko": "구룡:사로카"
+   }
+  ],
+  "description": {
+   "en": "Jin-tae becomes a killer after being saved by a man when he was at life's lowest point. While searching for his long-lost sibling, he discovers that his younger sibling is in Hong Kong and deeply involved with the Triad, Hong Kong's largest criminal organization. Thus begins Jin-tae's journey as he confronts the Triad in the nighttime streets of Hong Kong while searching for his sibling."
+  },
+  "links": {
+   "mu": "8jgn1d3",
+   "raw": "https://series.naver.com/comic/detail.series?productNo=11742044"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-29T22:18:39+00:00",
+  "updatedAt": "2024-10-30T08:10:49+00:00"
+ },
+ "relationships": [
+  {
+   "id": "668d8550-9dea-4f3d-a8fd-a45330bd82ee",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-07-13T18:11:17+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "park man-sa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-07-13T18:11:17+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "668d8550-9dea-4f3d-a8fd-a45330bd82ee",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-07-13T18:11:17+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "park man-sa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-07-13T18:11:17+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1c98c7f4-6cc5-4fb9-9158-3c564122d3ba",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-29T22:18:40+00:00",
+    "description": "",
+    "fileName": "d753b081-a85a-42d7-98d4-7fc3e1e8456e.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-10-29T22:18:40+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9cdba5af-b71d-49b6-b627-0faa5aeb84cf",
+   "type": "creator"
+  }
+ ]
+}

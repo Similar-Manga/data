@@ -5,9 +5,24 @@
   "title": {
    "en": "If the World Were to End Tomorrow"
   },
-  "description": {},
+  "altTitles": [
+   {
+    "ja-ro": "Ashita, Sekai ga Owarunara"
+   },
+   {
+    "ja": "明日、世界が終わるなら"
+   }
+  ],
+  "description": {
+   "en": "Published in COMIC ExE 06 \n\nA story about a game developer playing his game one last time before shutting it down. Sad ending"
+  },
+  "links": {
+   "al": "157012",
+   "mu": "95wid49"
+  },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2017,
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en"
@@ -23,6 +38,30 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -49,12 +88,36 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2019-11-28T03:35:43+00:00",
-  "updatedAt": "2022-08-19T16:01:51+00:00"
+  "updatedAt": "2024-10-31T00:06:04+00:00"
  },
  "relationships": [
   {

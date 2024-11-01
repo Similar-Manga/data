@@ -19,6 +19,7 @@
   "links": {
    "al": "104887",
    "ap": "zero-angel-souheki-no-datenshi",
+   "bw": "series/79813/list",
    "mu": "row4pe3"
   },
   "originalLanguage": "ja",
@@ -46,9 +47,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2020-03-13T17:48:06+00:00",
-  "updatedAt": "2024-02-25T05:30:47+00:00"
+  "updatedAt": "2024-10-31T14:42:30+00:00"
  },
  "relationships": [
   {
@@ -115,6 +116,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "843ca1ad-371d-4112-a75c-6db0d86547bd",
+   "type": "manga",
+   "related": "alternate_story"
   }
  ]
 }

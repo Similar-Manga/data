@@ -3,18 +3,28 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I Promised to Marry My Childhood Friend 10 Years Ago, But..."
+   "en": "10 -nen Mae ni Osananajimi to Kekkon suru Yakusoku-shita Kedo"
   },
   "altTitles": [
    {
     "ja": "10年前に幼馴染と結婚する約束したけど"
+   },
+   {
+    "en": "I Promised to Marry My Childhood Friend 10 Years Ago, But..."
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "10年前に幼馴染と結婚する約束したけど、実は女同士で…!?"
+  },
+  "links": {
+   "bw": "series/426138",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/771971/"
+  },
   "originalLanguage": "ja",
-  "lastVolume": "1",
-  "lastChapter": "5",
+  "lastVolume": "2",
+  "lastChapter": "10",
   "status": "completed",
+  "year": 2023,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en",
@@ -48,9 +58,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-10-27T09:11:48+00:00",
-  "updatedAt": "2024-10-27T16:46:07+00:00"
+  "updatedAt": "2024-10-30T23:14:31+00:00"
  },
  "relationships": [
   {
@@ -110,16 +120,16 @@
    }
   },
   {
-   "id": "e33e9421-7ff4-4399-9232-e71f566519bc",
+   "id": "1906f1e6-b506-4ed2-8dda-9b0bbe1c1737",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-27T09:11:56+00:00",
+    "createdAt": "2024-10-30T23:14:31+00:00",
     "description": "",
-    "fileName": "32344ff0-abbd-4f94-98b6-7c27870f59e2.png",
+    "fileName": "0b88918b-23d6-4490-be4b-30cc53739df0.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-27T09:11:56+00:00",
+    "updatedAt": "2024-10-30T23:14:31+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   },
   {

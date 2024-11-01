@@ -6,7 +6,10 @@
    "en": "Love Live Nijigasaki - Shiritori (Doujinshi)"
   },
   "description": {
-   "en": "A short Love Live (Nijigasaki) doujin about Rina and Ai playing shiritori.  \n  \nSource: \u003chttps://twitter.com/_mushiyaki/status/1342868994349383680\u003e  \nArtist's Twitter: \u003chttps://twitter.com/_mushiyaki\u003e  \nArtist's Pixiv: \u003chttps://www.pixiv.net/en/users/708530\u003e"
+   "en": "A short Love Live (Nijigasaki) doujin about Rina and Ai playing shiritori."
+  },
+  "links": {
+   "raw": "https://twitter.com/_mushiyaki/status/1342868994349383680"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -65,6 +68,18 @@
     }
    },
    {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -78,13 +93,13 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2021-03-01T06:40:07+00:00",
-  "updatedAt": "2021-05-25T15:41:30+00:00"
+  "updatedAt": "2024-10-29T14:31:24+00:00"
  },
  "relationships": [
   {
-   "id": "ff3e1e8e-da1c-42b6-b38d-57f6dc1a4975",
+   "id": "318c1cf3-40b7-4bff-91e9-e64bd4f07af6",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -94,7 +109,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "mushiyaki",
+    "name": "Mushiyaki!! (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -102,15 +117,43 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2023-07-06T02:53:25+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "ff3e1e8e-da1c-42b6-b38d-57f6dc1a4975",
+   "id": "f86600c4-c3ac-400b-be56-0b612e716173",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 上林眞\n\n**Alt. names**:\nKuribayashi (栗林)\nMutekyuu (むてきゅう)\n\n**Circle/s**:\n[Mushiyaki!!](https://mangadex.org/author/318c1cf3-40b7-4bff-91e9-e64bd4f07af6) (むしやき!!)\nNamayake (ナマヤケ)\n\n**Additional Links**:\n[Pixiv](https://www.pixiv.net/en/users/10093730) (as Kuribayashi)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanbayashi Makoto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/708530",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/_mushiyaki",
+    "updatedAt": "2024-10-29T15:15:25+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "318c1cf3-40b7-4bff-91e9-e64bd4f07af6",
    "type": "artist",
    "attributes": {
     "biography": {},
@@ -120,7 +163,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "mushiyaki",
+    "name": "Mushiyaki!! (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -128,8 +171,36 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2023-07-06T02:53:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f86600c4-c3ac-400b-be56-0b612e716173",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 上林眞\n\n**Alt. names**:\nKuribayashi (栗林)\nMutekyuu (むてきゅう)\n\n**Circle/s**:\n[Mushiyaki!!](https://mangadex.org/author/318c1cf3-40b7-4bff-91e9-e64bd4f07af6) (むしやき!!)\nNamayake (ナマヤケ)\n\n**Additional Links**:\n[Pixiv](https://www.pixiv.net/en/users/10093730) (as Kuribayashi)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanbayashi Makoto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/708530",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/_mushiyaki",
+    "updatedAt": "2024-10-29T15:15:25+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null

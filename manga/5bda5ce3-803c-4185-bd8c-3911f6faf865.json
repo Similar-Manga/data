@@ -3,10 +3,13 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Fate/stay night - Holiday making (doujinshi)"
+   "en": "Fate/stay night - Holiday making (Doujinshi)"
   },
   "description": {
    "en": "Sunny days that followed Unlimited Blade Works.  \n  \nPages 13 and 19-21 were lost and replaced with raws to provide some context."
+  },
+  "links": {
+   "mu": "njr6q28"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -66,13 +69,13 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2019-09-20T03:43:36+00:00",
-  "updatedAt": "2021-05-25T15:42:47+00:00"
+  "updatedAt": "2024-10-29T15:07:16+00:00"
  },
  "relationships": [
   {
-   "id": "d7a9205d-cbb9-49a3-82b9-89b46756bbca",
+   "id": "7a7230e1-71eb-4393-89bc-088305e967ed",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -82,7 +85,61 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Hashire (circle)",
+    "name": "Fuji Koyomi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d7a9205d-cbb9-49a3-82b9-89b46756bbca",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 走れ!\n\n**Alt. names**:\nHasire!\n\n**Members**:\n[Fuji Koyomi](https://mangadex.org/author/7a7230e1-71eb-4393-89bc-088305e967ed)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hashire! (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T15:11:37+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7a7230e1-71eb-4393-89bc-088305e967ed",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fuji Koyomi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -101,14 +158,16 @@
    "id": "d7a9205d-cbb9-49a3-82b9-89b46756bbca",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 走れ!\n\n**Alt. names**:\nHasire!\n\n**Members**:\n[Fuji Koyomi](https://mangadex.org/author/7a7230e1-71eb-4393-89bc-088305e967ed)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Hashire (circle)",
+    "name": "Hashire! (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -116,8 +175,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-29T15:11:37+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

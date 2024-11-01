@@ -1,0 +1,155 @@
+{
+ "id": "2854553d-f955-4f97-84fc-c4fea90e4fb6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "SHIROBAKO (Miniseries)"
+  },
+  "altTitles": [
+   {
+    "ja": "SHIROBAKO Bunsatsu-Ban"
+   }
+  ],
+  "description": {
+   "en": "This is where the animation industry is today. The TV anime \"SHIROBAKO\" which was broadcasted in 2014 and attracted a lot of attention for its depiction of the realities of the animation industry, focusing on the main character, Aoi Miyamori, and five other girls pursuing their dreams. With the release of the movie version on the horizon, the long-awaited comicalization of the anime that follows the main story has been decided! A story that goes back to its roots, presented by Yatomi and Rina Fujita, writers of \"Shouso Yutai\", will start screening!"
+  },
+  "links": {
+   "raw": "https://www.amazon.co.jp/-/en/%E3%82%84%E3%81%A8%E3%81%BF-ebook/dp/B089VNHP28/ref=sr_1_3?keywords=SHIROBAKO\u0026qid=1640846647\u0026s=digital-text\u0026sr=1-3"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "18",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2020,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2021-12-30T07:01:42+00:00",
+  "updatedAt": "2024-10-30T22:45:48+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a6ecab54-549a-4eb3-9ebc-4fa35adeb4a7",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nやとみ"
+    },
+    "booth": "https://8103recipes.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://luxfm4x2.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yatomi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/168058",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/8103x",
+    "updatedAt": "2023-04-13T00:47:46+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a6ecab54-549a-4eb3-9ebc-4fa35adeb4a7",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nやとみ"
+    },
+    "booth": "https://8103recipes.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://luxfm4x2.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yatomi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/168058",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/8103x",
+    "updatedAt": "2023-04-13T00:47:46+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b6bb684e-8c3f-4540-a636-4f29e22d6b47",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2021-12-30T07:01:43+00:00",
+    "description": "",
+    "fileName": "a8260d71-071e-4844-bfde-585e53c17ac8.jpg",
+    "locale": "ja",
+    "updatedAt": "2021-12-30T07:01:43+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "1fe3e04f-de3b-4753-87b4-e12ed7ee3215",
+   "type": "creator"
+  }
+ ]
+}

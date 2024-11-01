@@ -7,10 +7,16 @@
   },
   "altTitles": [
    {
-    "en": "Hebi no Ana (The Snake's Cave)"
+    "ja-ro": "Kyou no Oppai"
    },
    {
-    "en": "Kyou no Oppai"
+    "en": "Today's Boobs"
+   },
+   {
+    "ja-ro": "Hebi no Ana"
+   },
+   {
+    "en": "The Snake's Cave"
    }
   ],
   "description": {
@@ -40,9 +46,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2020-08-19T07:27:02+00:00",
-  "updatedAt": "2021-05-25T15:39:47+00:00"
+  "updatedAt": "2024-10-29T15:30:41+00:00"
  },
  "relationships": [
   {
@@ -105,7 +111,9 @@
    "id": "8c48d49d-e362-4331-a253-2cba9ae11cfa",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: やすゆき \n\n**Circle/s**:\n[Kamikire Basami](https://mangadex.org/author/8eb61cab-f27c-43fb-aeff-9ca5ea5ad046) (紙切ればさみ)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -120,8 +128,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-29T15:28:59+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -239,7 +247,9 @@
    "id": "8c48d49d-e362-4331-a253-2cba9ae11cfa",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: やすゆき \n\n**Circle/s**:\n[Kamikire Basami](https://mangadex.org/author/8eb61cab-f27c-43fb-aeff-9ca5ea5ad046) (紙切ればさみ)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -254,8 +264,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-29T15:28:59+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

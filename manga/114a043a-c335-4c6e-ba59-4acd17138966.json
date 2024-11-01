@@ -74,23 +74,25 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2020-10-15T22:30:26+00:00",
-  "updatedAt": "2023-11-17T14:40:50+00:00"
+  "updatedAt": "2024-10-29T06:47:27+00:00"
  },
  "relationships": [
   {
    "id": "94bd7deb-118b-4013-bc70-f3598c671694",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: しっとりオブラート\n\n**Alt. names**:\nShittori Oblaat\nShittori Oblate\nSittori Oblate\n\n**Members**:\n[Tamifull](https://mangadex.org/author/cd022c73-965c-40f1-a3ea-8040ba9bb74e)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
-    "name": "SITTORI OBLAAT (Circle)",
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=12401",
+    "name": "Sittori Oblaat (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -98,19 +100,21 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-29T07:21:42+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "cd70ee32-f5c7-4c6d-8031-a35a0763171b",
+   "id": "cd022c73-965c-40f1-a3ea-8040ba9bb74e",
    "type": "author",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Native name**: たみふる\n\n**Alt names**:\nTamifuru\ntmfly\n\n**Circle/s**:\n[Sittori Oblaat](https://mangadex.org/author/94bd7deb-118b-4013-bc70-f3598c671694) (しっとりオブラート)"
+    },
+    "booth": "https://tamifull.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
@@ -120,12 +124,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/1436927",
     "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "tumblr": "https://sittorioblaat.tumblr.com/",
+    "twitter": "https://twitter.com/_tmfly_",
+    "updatedAt": "2024-10-29T06:52:15+00:00",
+    "version": 6,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -135,14 +139,16 @@
    "id": "94bd7deb-118b-4013-bc70-f3598c671694",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: しっとりオブラート\n\n**Alt. names**:\nShittori Oblaat\nShittori Oblate\nSittori Oblate\n\n**Members**:\n[Tamifull](https://mangadex.org/author/cd022c73-965c-40f1-a3ea-8040ba9bb74e)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
-    "name": "SITTORI OBLAAT (Circle)",
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=12401",
+    "name": "Sittori Oblaat (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -150,19 +156,21 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-29T07:21:42+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "cd70ee32-f5c7-4c6d-8031-a35a0763171b",
+   "id": "cd022c73-965c-40f1-a3ea-8040ba9bb74e",
    "type": "artist",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Native name**: たみふる\n\n**Alt names**:\nTamifuru\ntmfly\n\n**Circle/s**:\n[Sittori Oblaat](https://mangadex.org/author/94bd7deb-118b-4013-bc70-f3598c671694) (しっとりオブラート)"
+    },
+    "booth": "https://tamifull.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
@@ -172,12 +180,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/1436927",
     "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "tumblr": "https://sittorioblaat.tumblr.com/",
+    "twitter": "https://twitter.com/_tmfly_",
+    "updatedAt": "2024-10-29T06:52:15+00:00",
+    "version": 6,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -59,18 +59,19 @@
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
+   "es-la",
    "pt-br",
    "tr",
+   "pl",
    "es",
    "ms",
    "it",
    "uk",
    "id",
    "no",
-   "fr",
-   "es-la"
+   "fr"
   ],
-  "latestUploadedChapter": "0cfa69ee-dafb-48d1-b310-131a46d49ea1",
+  "latestUploadedChapter": "0fda8135-1436-498d-b0cb-303365fbbc20",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -351,7 +352,9 @@
    "id": "39e7fc44-f073-4f35-94d0-cf1ad4175993",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 真斗\n\nNot to be confused with [mato](https://mangadex.org/author/34c0be79-3070-499e-b5f2-e839019c9b3d) or [MATO (まと)](https://mangadex.org/author/a3752c85-d4b4-403f-af70-8b64788be446)."
+    },
     "booth": null,
     "createdAt": "2023-12-25T07:50:11+00:00",
     "fanBox": null,
@@ -365,10 +368,10 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-12-25T07:50:11+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/matobook2016",
+    "updatedAt": "2024-10-29T12:12:57+00:00",
+    "version": 4,
+    "website": "http://www1.odn.ne.jp/ginta/mato/",
     "weibo": null,
     "youtube": null
    }

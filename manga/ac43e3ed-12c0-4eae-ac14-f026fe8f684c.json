@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Melcheese (Doujinshi)"
+   "en": "Various - Melcheese (Doujinshi)"
   },
   "description": {},
   "originalLanguage": "ja",
@@ -13,10 +13,24 @@
    "en"
   ],
   "latestUploadedChapter": "6495b290-9580-4d20-8c2e-efb1d3ff53cf",
+  "tags": [
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2019-12-27T22:04:41+00:00",
-  "updatedAt": "2024-10-13T17:24:06+00:00"
+  "updatedAt": "2024-11-01T02:33:57+00:00"
  },
  "relationships": [
   {

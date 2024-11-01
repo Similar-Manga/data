@@ -7,38 +7,44 @@
   },
   "altTitles": [
    {
-    "en": "(Bokura no Love Live! 12) Sono Te no Tsunagikata | How to Hold That Hand (Love Live!)"
+    "ja": "あなたと握手 (ラブライブ!)"
    },
    {
-    "en": "(Bokura no Love Live! 9) little by little (Love Live!)"
+    "ja-ro": "(C87) Anata to Akushu (Love Live!)"
    },
    {
-    "en": "(C87) [Our Handshake (Love Live!)"
+    "en": "Our Handshake (Love Live!)"
    },
    {
-    "en": "(C87) あなたと握手 (ラブライブ!)"
-   },
-   {
-    "en": "(C89) Still Far Away (Love Live!)"
-   },
-   {
-    "en": "(C89) Still Far Away (ラブライブ!)"
+    "ja": "(LOVEインパクト!) I trust you (ラブライブ!)"
    },
    {
     "en": "(Love Impact!) I trust you (Love Live!)"
    },
    {
-    "en": "(LOVEインパクト!) I trust you (ラブライブ!)"
+    "ja": "(僕らのラブライブ! 9) little by little (ラブライブ!)"
    },
    {
-    "en": "(僕らのラブライブ! 12) その手の繋ぎ方 (ラブライブ!)"
+    "en": "(Bokura no Love Live! 9) little by little (Love Live!)"
    },
    {
-    "en": "(僕らのラブライブ! 9) little by little (ラブライブ!)"
+    "ja": "(C89) Still Far Away (ラブライブ!)"
+   },
+   {
+    "en": "(C89) Still Far Away (Love Live!)"
+   },
+   {
+    "ja": "(僕らのラブライブ! 12) その手の繋ぎ方 (ラブライブ!)"
+   },
+   {
+    "ja-ro": "(Bokura no Love Live! 12) Sono Te no Tsunagikata"
+   },
+   {
+    "en": "How to Hold That Hand (Love Live!)"
    }
   ],
   "description": {
-   "en": "A Nico x Nozomi doujin series."
+   "en": "A Nico x Nozomi doujin series.\n\nSeries list:\n1. **Our Handshake** / Anata to Akushu (あなたと握手); released at Comiket 87\n2. **I trust you** ; released at Love Impact!\n3. **little by little** ; released at Bokura no Love Live! 9\n4. **Still Far Away** ; released at Comiket 89\n5. **How to Hold That Hand** / Sono Te no Tsunagikata (その手の繋ぎ方); released at Bokura no Love Live! 12"
   },
   "links": {
    "mu": "o77clfm"
@@ -78,9 +84,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2020-05-16T12:04:55+00:00",
-  "updatedAt": "2024-10-23T06:45:47+00:00"
+  "updatedAt": "2024-10-29T14:50:19+00:00"
  },
  "relationships": [
   {
@@ -113,7 +119,9 @@
    "id": "f86600c4-c3ac-400b-be56-0b612e716173",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 上林眞\n\n**Alt. names**:\nKuribayashi (栗林)\nMutekyuu (むてきゅう)\n\n**Circle/s**:\n[Mushiyaki!!](https://mangadex.org/author/318c1cf3-40b7-4bff-91e9-e64bd4f07af6) (むしやき!!)\nNamayake (ナマヤケ)\n\n**Additional Links**:\n[Pixiv](https://www.pixiv.net/en/users/10093730) (as Kuribayashi)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -127,9 +135,9 @@
     "pixiv": "https://www.pixiv.net/en/users/708530",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-23T01:05:02+00:00",
-    "version": 2,
+    "twitter": "https://twitter.com/_mushiyaki",
+    "updatedAt": "2024-10-29T15:15:25+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -165,7 +173,9 @@
    "id": "f86600c4-c3ac-400b-be56-0b612e716173",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 上林眞\n\n**Alt. names**:\nKuribayashi (栗林)\nMutekyuu (むてきゅう)\n\n**Circle/s**:\n[Mushiyaki!!](https://mangadex.org/author/318c1cf3-40b7-4bff-91e9-e64bd4f07af6) (むしやき!!)\nNamayake (ナマヤケ)\n\n**Additional Links**:\n[Pixiv](https://www.pixiv.net/en/users/10093730) (as Kuribayashi)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -179,9 +189,9 @@
     "pixiv": "https://www.pixiv.net/en/users/708530",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-23T01:05:02+00:00",
-    "version": 2,
+    "twitter": "https://twitter.com/_mushiyaki",
+    "updatedAt": "2024-10-29T15:15:25+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -199,6 +209,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "084b1a87-72ef-4bd6-b725-3c2a9a0ab5da",
+   "type": "manga",
+   "related": "based_on"
   }
  ]
 }

@@ -11,7 +11,7 @@
     "en": "Ghostrong"
    },
    "contentRating": "safe",
-   "score": 0.31887585,
+   "score": 0.32163024,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Oh!! Bake"
    },
    "contentRating": "safe",
-   "score": 0.29981858
+   "score": 0.3050148
   },
   {
    "id": "6f013206-d151-4670-936f-07fe624f6a77",
@@ -30,7 +30,7 @@
     "en": "Ghost Jim"
    },
    "contentRating": "safe",
-   "score": 0.29696336
+   "score": 0.29876482
   },
   {
    "id": "94c7e52e-a6b2-4b57-ba14-68f58fc77c8e",
@@ -38,7 +38,7 @@
     "en": "Ghost Fixers"
    },
    "contentRating": "safe",
-   "score": 0.29182053,
+   "score": 0.29489493,
    "languages": [
     "fr",
     "ru",
@@ -52,7 +52,7 @@
     "en": "Phantom Busters"
    },
    "contentRating": "safe",
-   "score": 0.27806744,
+   "score": 0.28108424,
    "languages": [
     "vi",
     "pt-br",
@@ -61,15 +61,13 @@
    ]
   },
   {
-   "id": "0daf338e-86f5-416a-9771-e054fc7da1c6",
+   "id": "eb4d5488-aa99-46ef-b82e-129efdef28e8",
    "title": {
-    "en": "Ghost Logic"
+    "en": "Invisible Blood"
    },
    "contentRating": "safe",
-   "score": 0.27777112,
+   "score": 0.27979642,
    "languages": [
-    "de",
-    "fr",
     "en"
    ]
   },
@@ -79,20 +77,23 @@
     "en": "Kinniku Jorei"
    },
    "contentRating": "safe",
-   "score": 0.27745005,
+   "score": 0.27901995,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b5c35cb9-e7f0-42c4-acd5-2ea5e6e4fabf",
+   "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
    "title": {
-    "en": "Tasogare Schrödinger"
+    "en": "Sakamoto"
    },
    "contentRating": "safe",
-   "score": 0.2731038,
+   "score": 0.2785272,
    "languages": [
-    "en"
+    "it",
+    "vi",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -101,7 +102,7 @@
     "en": "Enma Gavel"
    },
    "contentRating": "safe",
-   "score": 0.27130237,
+   "score": 0.27326062,
    "languages": [
     "id",
     "ru",
@@ -113,46 +114,48 @@
    ]
   },
   {
+   "id": "0daf338e-86f5-416a-9771-e054fc7da1c6",
+   "title": {
+    "en": "Ghost Logic"
+   },
+   "contentRating": "safe",
+   "score": 0.26455107,
+   "languages": [
+    "de",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "459958d1-4898-4c98-b4aa-193e2bc56a3d",
    "title": {
     "en": "Blood-Coloured Forbidden Territory"
    },
    "contentRating": "safe",
-   "score": 0.25750753,
+   "score": 0.2590918,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "8124a347-eab0-4f78-a93b-09cb671d9bbf",
+   "id": "dd04374a-6050-4f9e-aa3f-99d1a7d7b957",
    "title": {
-    "en": "Kami-sama ni Rocket Punch!!"
+    "en": "Koorihime Kitan"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
-   "title": {
-    "en": "Sakamoto"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.2571156,
    "languages": [
     "it",
-    "vi",
+    "fr",
     "en",
-    "pt-br"
+    "pl"
    ]
   },
   {
-   "id": "8bae52fd-be5e-4157-844a-77a0f1bc63f4",
+   "id": "8711f722-4b87-4967-a472-6515309875fc",
    "title": {
-    "en": "Shimatsuya K"
+    "en": "Nuenchi"
    },
    "contentRating": "safe",
    "score": 0.25555065,
@@ -169,6 +172,17 @@
    "score": 0.25555065
   },
   {
+   "id": "8bae52fd-be5e-4157-844a-77a0f1bc63f4",
+   "title": {
+    "en": "Shimatsuya K"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "485471ff-4502-4af9-aa0f-956af49e7782",
    "title": {
     "en": "Tsukumono"
@@ -180,18 +194,7 @@
     "pl",
     "th"
    ]
-  },
-  {
-   "id": "5a40f57d-0092-4d9f-b200-6e3940eb4137",
-   "title": {
-    "en": "Godland Company"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-10-29T19:06:09+00:00"
+ "updatedAt": "2024-11-01T19:36:14+00:00"
 }

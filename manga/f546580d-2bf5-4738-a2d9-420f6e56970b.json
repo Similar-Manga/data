@@ -3,10 +3,21 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Doraemon (Hino Hideshi)"
+   "en": "Hino Hideshi no Doraemon"
   },
+  "altTitles": [
+   {
+    "ja": "日野日出志の銅羅衛門"
+   },
+   {
+    "ja-ro": "Hino Hideshi no Doraemon"
+   },
+   {
+    "en": "Hino Hideshi's Doraemon"
+   }
+  ],
   "description": {
-   "en": "Horror Mangaka Hino Hideshi puts Nobita and Doraemon thru hell."
+   "en": "Horror Mangaka Hino Hideshi puts Nobita and Doraemon through hell to take revenge on Gian."
   },
   "links": {
    "al": "134727",
@@ -78,9 +89,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2020-06-16T18:26:49+00:00",
-  "updatedAt": "2023-01-03T14:32:30+00:00"
+  "updatedAt": "2024-10-30T14:50:32+00:00"
  },
  "relationships": [
   {

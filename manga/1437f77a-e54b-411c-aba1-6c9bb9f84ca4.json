@@ -10,8 +10,11 @@
     "ja": "アヤシデ 怪神手"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Revenge Mystery set in modern Japan where strange creatures exist amidst the people. In this world a elementary school boy is bullied \u0026 tormented daily by his classmates. When he finally opens up about it to his beloved big brother, things spiral out of control and the boy ends up stabbing his big brother to death. But right in this horrific moment something powerful takes over the brother's dead body. And a cruel tale of punishment and repentance starts with the mass killing of his school bullies."
+  },
   "links": {
+   "bw": "series/459748/list",
    "mu": "oqk3c7x",
    "raw": "https://urasunday.com/title/2562"
   },
@@ -21,18 +24,6 @@
   "year": 2023,
   "contentRating": "safe",
   "tags": [
-   {
-    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Drama"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
    {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
@@ -44,12 +35,48 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2024-10-24T19:32:42+00:00",
-  "updatedAt": "2024-10-24T19:32:48+00:00"
+  "updatedAt": "2024-10-31T02:45:36+00:00"
  },
  "relationships": [
   {
@@ -105,16 +132,16 @@
    }
   },
   {
-   "id": "2f2c9a56-0929-4e4a-be26-4fe0f012d6f5",
+   "id": "f3377823-6519-4972-880a-d2883bfef186",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-24T19:32:44+00:00",
+    "createdAt": "2024-10-31T02:43:42+00:00",
     "description": "",
-    "fileName": "7a78d6e3-81c4-424d-aa7f-ed7175a70b9a.jpg",
+    "fileName": "0e6e0b48-a96e-4764-925e-7d6d941f0429.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-24T19:32:44+00:00",
+    "updatedAt": "2024-10-31T02:43:42+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "3"
    }
   },
   {

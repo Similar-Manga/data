@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "082857f5-740c-4556-9625-479d52124eea",
-   "title": {
-    "en": "Mazinkaiser vs Shin Getter Robo"
-   },
-   "contentRating": "safe",
-   "score": 0.2659141,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "1c5342f4-4e1c-42d0-b96e-3926c23321e7",
    "title": {
     "en": "Metal Back"
@@ -30,12 +17,25 @@
    ]
   },
   {
+   "id": "082857f5-740c-4556-9625-479d52124eea",
+   "title": {
+    "en": "Mazinkaiser vs Shin Getter Robo"
+   },
+   "contentRating": "safe",
+   "score": 0.2318298,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
    "id": "6b5df5c8-bba8-42b3-9b8d-b360d1fc99d0",
    "title": {
     "en": "Re:Anima"
    },
    "contentRating": "safe",
-   "score": 0.2362821,
+   "score": 0.23173277,
    "languages": [
     "en"
    ]
@@ -46,24 +46,20 @@
     "en": "Dr. Dead"
    },
    "contentRating": "safe",
-   "score": 0.22865796,
+   "score": 0.2256915,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9865c978-3393-42a6-9b0c-947814ac8a24",
+   "id": "bb5446dd-8524-4c45-964f-7f29ba7965c0",
    "title": {
-    "en": "Count Over"
+    "en": "Kaitou Joker Encore"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "pt-br",
-    "id",
-    "zh-hk",
-    "en",
-    "tr"
+    "en"
    ]
   },
   {
@@ -92,49 +88,18 @@
    ]
   },
   {
-   "id": "bb5446dd-8524-4c45-964f-7f29ba7965c0",
+   "id": "9865c978-3393-42a6-9b0c-947814ac8a24",
    "title": {
-    "en": "Kaitou Joker Encore"
+    "en": "Count Over"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ce398cd4-33cf-4717-9e2c-ef98c7a5c578",
-   "title": {
-    "en": "Hero Organization"
-   },
-   "contentRating": "safe",
-   "score": 0.20967856,
-   "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
-   "title": {
-    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
-   },
-   "contentRating": "safe",
-   "score": 0.20363025,
-   "languages": [
+    "id",
+    "zh-hk",
     "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
-   "title": {
-    "en": "Star Ocean - Blue Sphere"
-   },
-   "contentRating": "safe",
-   "score": 0.2031643,
-   "languages": [
-    "en"
+    "tr"
    ]
   },
   {
@@ -149,9 +114,20 @@
    ]
   },
   {
-   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
+   "id": "5a5f4bf5-e47d-4832-876b-a3a8a0588bef",
    "title": {
-    "en": "Astral Walker"
+    "en": "Ogre Battle Saga Episode VII - Tactics Ogre: Let Us Cling Together"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "28590f98-3096-4434-982c-1ee9b0d07100",
+   "title": {
+    "en": "Naozari Dungeon"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -171,9 +147,9 @@
    ]
   },
   {
-   "id": "5e5c555c-65a6-4bd7-9bd0-4bb65e13f5e0",
+   "id": "401b9c42-d509-44e0-9ee2-fe09f504403c",
    "title": {
-    "en": "Version"
+    "en": "Astral Walker"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -182,16 +158,41 @@
    ]
   },
   {
-   "id": "5a5f4bf5-e47d-4832-876b-a3a8a0588bef",
+   "id": "ce398cd4-33cf-4717-9e2c-ef98c7a5c578",
    "title": {
-    "en": "Ogre Battle Saga Episode VII - Tactics Ogre: Let Us Cling Together"
+    "en": "Hero Organization"
    },
    "contentRating": "safe",
    "score": 0.20203052,
+   "languages": [
+    "pt-br",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "e48840ea-f28b-44fe-9412-d95db2a1ac3c",
+   "title": {
+    "en": "Legend of the Galactic Heroes (MICHIHARA Katsumi)"
+   },
+   "contentRating": "safe",
+   "score": 0.20090573,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "1be9a81f-ff89-40f8-89ce-57a5b6015851",
+   "title": {
+    "en": "Star Ocean - Blue Sphere"
+   },
+   "contentRating": "safe",
+   "score": 0.19525607,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-10-29T20:14:51+00:00"
+ "updatedAt": "2024-11-01T20:50:32+00:00"
 }

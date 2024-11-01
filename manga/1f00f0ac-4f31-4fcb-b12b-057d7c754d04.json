@@ -1,0 +1,135 @@
+{
+ "id": "1f00f0ac-4f31-4fcb-b12b-057d7c754d04",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Eikoku Koucha Kitan"
+  },
+  "altTitles": [
+   {
+    "ja": "英國紅茶奇譚"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mu": "mlv6vso"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-01T11:33:11+00:00",
+  "updatedAt": "2024-11-01T11:33:18+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0b344033-f555-4918-a2ab-54576de65b08",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-06-17T08:21:13+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshinari Toida",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-06-17T08:21:13+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0b344033-f555-4918-a2ab-54576de65b08",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-06-17T08:21:13+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshinari Toida",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-06-17T08:21:13+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c1f8c666-77c0-4620-9e02-dff7264bbe12",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-01T11:33:13+00:00",
+    "description": "",
+    "fileName": "93954563-d17f-4a89-9b79-4164c8f4c199.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-01T11:33:13+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "6640d5cb-18a0-4264-8c0a-9dcbe39be5ef",
+   "type": "creator"
+  }
+ ]
+}

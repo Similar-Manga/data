@@ -24,7 +24,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "1532e8cf-0dee-4c30-9522-6bdbd81a089a",
+  "latestUploadedChapter": "a9933f11-5aef-44cd-8852-4dc879de380c",
   "tags": [
    {
     "id": "ddefd648-5140-4e5f-ba18-4eca4071d19b",
@@ -64,9 +64,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 8,
   "createdAt": "2024-08-09T20:36:09+00:00",
-  "updatedAt": "2024-10-28T23:38:53+00:00"
+  "updatedAt": "2024-11-01T12:27:10+00:00"
  },
  "relationships": [
   {
@@ -126,17 +126,22 @@
    }
   },
   {
-   "id": "1ef94d86-525f-42c3-9861-97c14a0a2b54",
+   "id": "683ff4a2-b84a-443a-8688-0c31547e784c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-08-09T20:36:10+00:00",
+    "createdAt": "2024-10-30T19:37:06+00:00",
     "description": "",
-    "fileName": "357124d4-61d5-445f-b6ca-b66c186eff0e.jpg",
+    "fileName": "f9711a44-26d8-446a-9c1f-826430afd262.jpg",
     "locale": "ja",
-    "updatedAt": "2024-08-09T20:36:10+00:00",
+    "updatedAt": "2024-10-30T19:37:06+00:00",
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "90293983-6fae-423d-9b43-f945dd15b7ce",
+   "type": "manga",
+   "related": "side_story"
   },
   {
    "id": "7afb9d68-a3b4-4e8c-a63b-18645f920f5c",

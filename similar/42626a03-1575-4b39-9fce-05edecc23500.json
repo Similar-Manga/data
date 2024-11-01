@@ -11,7 +11,7 @@
     "en": "The Crest"
    },
    "contentRating": "safe",
-   "score": 0.33686048,
+   "score": 0.33542547,
    "languages": [
     "en"
    ]
@@ -22,9 +22,21 @@
     "en": "Checkmate"
    },
    "contentRating": "safe",
-   "score": 0.29657224,
+   "score": 0.29626763,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "92001131-f414-4e3d-ad78-cc85d467265d",
+   "title": {
+    "en": "Macho ★ Max"
+   },
+   "contentRating": "safe",
+   "score": 0.29465187,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -33,7 +45,7 @@
     "en": "Seibu Ichi no Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.29374072,
+   "score": 0.29123136,
    "languages": [
     "vi",
     "fr",
@@ -41,9 +53,9 @@
    ]
   },
   {
-   "id": "e8bd634f-d00b-4901-9cde-f765087a11f6",
+   "id": "a4064ff8-421c-43be-ae6b-27a14eeaf1d8",
    "title": {
-    "en": "HAMPTON SISTETS"
+    "en": "Animaru Sentai Unlimited"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -60,18 +72,6 @@
    "score": 0.2857143,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "92001131-f414-4e3d-ad78-cc85d467265d",
-   "title": {
-    "en": "Macho ★ Max"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -97,9 +97,9 @@
    ]
   },
   {
-   "id": "a4064ff8-421c-43be-ae6b-27a14eeaf1d8",
+   "id": "e8bd634f-d00b-4901-9cde-f765087a11f6",
    "title": {
-    "en": "Animaru Sentai Unlimited"
+    "en": "HAMPTON SISTETS"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -113,56 +113,19 @@
     "en": "The Apocalypse Yakuza"
    },
    "contentRating": "safe",
-   "score": 0.27470347,
+   "score": 0.27209294,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fe031387-81aa-4ecd-acaf-fb214347f3a6",
+   "id": "99d8a55c-9126-4412-a5d5-2f35f1b4aae3",
    "title": {
-    "en": "Gokurakuchou Dead End"
+    "en": "Yaoyoro!"
    },
    "contentRating": "safe",
-   "score": 0.26058218,
+   "score": 0.2642904,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "485471ff-4502-4af9-aa0f-956af49e7782",
-   "title": {
-    "en": "Tsukumono"
-   },
-   "contentRating": "safe",
-   "score": 0.257278,
-   "languages": [
-    "en",
-    "pl",
-    "th"
-   ]
-  },
-  {
-   "id": "21551a67-6115-42c4-9a74-9be2ddfec80a",
-   "title": {
-    "en": "Paying Cash to Become Immortal"
-   },
-   "contentRating": "safe",
-   "score": 0.25396124,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "eeb63e2e-2790-460d-8762-96fb3d1d9372",
-   "title": {
-    "en": "Tokyo Kaijin Rhapsody"
-   },
-   "contentRating": "safe",
-   "score": 0.24877398,
-   "languages": [
-    "id",
     "en"
    ]
   },
@@ -172,23 +135,60 @@
     "en": "Mudameshi Kurai Nintei Sareta node Aiso o Tsukashi, Teikoku ni Utsute Shusse Suru Ookuku no Erai Hitoni wa Sore ga Wakara no desu"
    },
    "contentRating": "safe",
-   "score": 0.2487546,
+   "score": 0.26338992,
    "languages": [
     "en",
     "id"
    ]
   },
   {
-   "id": "417ea0e1-cfef-4012-af4d-1c36f405a21c",
+   "id": "fe031387-81aa-4ecd-acaf-fb214347f3a6",
    "title": {
-    "en": "Bakune Young"
+    "en": "Gokurakuchou Dead End"
    },
    "contentRating": "safe",
-   "score": 0.24766818,
+   "score": 0.25981528,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "21551a67-6115-42c4-9a74-9be2ddfec80a",
+   "title": {
+    "en": "Paying Cash to Become Immortal"
+   },
+   "contentRating": "safe",
+   "score": 0.25710148,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "485471ff-4502-4af9-aa0f-956af49e7782",
+   "title": {
+    "en": "Tsukumono"
+   },
+   "contentRating": "safe",
+   "score": 0.25570995,
+   "languages": [
+    "en",
+    "pl",
+    "th"
+   ]
+  },
+  {
+   "id": "eeb63e2e-2790-460d-8762-96fb3d1d9372",
+   "title": {
+    "en": "Tokyo Kaijin Rhapsody"
+   },
+   "contentRating": "safe",
+   "score": 0.24834469,
+   "languages": [
+    "id",
     "en"
    ]
   }
  ],
- "updatedAt": "2024-10-29T19:18:31+00:00"
+ "updatedAt": "2024-11-01T19:53:10+00:00"
 }

@@ -7,21 +7,23 @@
   },
   "altTitles": [
    {
-    "ja": "みどろ (三輪まこと)"
-   },
-   {
     "ja": "みどろ"
    }
   ],
   "description": {
+   "en": "A vivid and lovely human drama depicting the red light districts of the Taishou and Shouwa Eras.\n\n※ This work is serialized irregularly.",
    "ja": "大正昭和の色街を鮮烈かつ可憐に描いた人間ドラマ。※本作は不定期連載です。",
    "zh": "在花街生存的女人們的故事~"
   },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/4868050133",
+   "bw": "de916f3766-5678-4fd4-bfc6-c706d95b4222",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/859141/",
    "mu": "hegiqak",
    "raw": "https://viewer.heros-web.com/episode/3270375685309661450"
   },
   "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2022,
   "contentRating": "erotica",
@@ -36,6 +38,18 @@
     "attributes": {
      "name": {
       "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
      },
      "description": {},
      "group": "genre",
@@ -68,9 +82,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2022-07-24T03:09:57+00:00",
-  "updatedAt": "2023-06-07T04:48:20+00:00"
+  "updatedAt": "2024-10-29T16:54:12+00:00"
  },
  "relationships": [
   {
@@ -78,7 +92,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\n三輪まこと"
+     "en": "**Name In Native Language:** 三輪まこと\n\n**Also Known As:** Miwa (みわ)"
     },
     "booth": "https://oginkogin.booth.pm/",
     "createdAt": "2022-07-24T03:11:01+00:00",
@@ -94,8 +108,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/miwa_tiluca",
-    "updatedAt": "2023-06-07T04:47:58+00:00",
-    "version": 2,
+    "updatedAt": "2024-10-29T16:36:40+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -106,7 +120,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\n三輪まこと"
+     "en": "**Name In Native Language:** 三輪まこと\n\n**Also Known As:** Miwa (みわ)"
     },
     "booth": "https://oginkogin.booth.pm/",
     "createdAt": "2022-07-24T03:11:01+00:00",
@@ -122,22 +136,22 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/miwa_tiluca",
-    "updatedAt": "2023-06-07T04:47:58+00:00",
-    "version": 2,
+    "updatedAt": "2024-10-29T16:36:40+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "d178ff40-bc0f-4eda-8c5c-62399d0057f7",
+   "id": "d7f1c741-6bac-4cd7-a793-b6d882cd583f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-07-24T03:13:27+00:00",
+    "createdAt": "2024-10-29T16:45:06+00:00",
     "description": "",
-    "fileName": "ad671f48-c044-4b3c-9a73-0712d0243a7d.jpg",
+    "fileName": "6b827c5b-0ebd-4d89-a1fe-5f16b16736fb.jpg",
     "locale": "ja",
-    "updatedAt": "2022-07-24T03:13:27+00:00",
+    "updatedAt": "2024-10-29T16:45:06+00:00",
     "version": 1,
     "volume": "1"
    }

@@ -13,8 +13,10 @@
   "description": {},
   "links": {
    "al": "100864",
-   "bw": "series/139120/list",
+   "amz": "https://www.amazon.co.jp/dp/B07BHZ4M81",
+   "bw": "series/139120",
    "mal": "111833",
+   "mu": "nivi7e6",
    "raw": "https://shonenjumpplus.com/episode/13932016480029112684"
   },
   "originalLanguage": "ja",
@@ -63,23 +65,25 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-04-13T15:58:47+00:00",
-  "updatedAt": "2024-04-19T18:45:05+00:00"
+  "updatedAt": "2024-10-29T13:29:39+00:00"
  },
  "relationships": [
   {
    "id": "61f67c02-2135-478a-a033-4aef5e88fe58",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 羽田豊隆"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Toyotaka Haneda",
+    "name": "Haneda Toyotaka",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -87,8 +91,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-29T12:57:04+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -98,14 +102,16 @@
    "id": "61f67c02-2135-478a-a033-4aef5e88fe58",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 羽田豊隆"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Toyotaka Haneda",
+    "name": "Haneda Toyotaka",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -113,8 +119,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-10-29T12:57:04+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
-   "title": {
-    "en": "Kokushi no Shima"
-   },
-   "contentRating": "safe",
-   "score": 0.29945752,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "624e2b30-55c1-4de9-8dc9-991abf0241ea",
    "title": {
     "en": "Tonari no Jii-san"
@@ -55,10 +44,21 @@
     "en": "Memento Memori"
    },
    "contentRating": "safe",
-   "score": 0.23254387,
+   "score": 0.23253925,
    "languages": [
     "ru",
     "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
+   "title": {
+    "en": "Kokushi no Shima"
+   },
+   "contentRating": "safe",
+   "score": 0.23061821,
+   "languages": [
     "en"
    ]
   },
@@ -68,7 +68,7 @@
     "en": "Dark Metro"
    },
    "contentRating": "safe",
-   "score": 0.22708097,
+   "score": 0.22705846,
    "languages": [
     "en"
    ]
@@ -79,7 +79,7 @@
     "en": "Souzoku Tantei"
    },
    "contentRating": "safe",
-   "score": 0.22622603,
+   "score": 0.22623056,
    "languages": [
     "en"
    ]
@@ -90,7 +90,7 @@
     "en": "Goumontou wa Nemuranai - Doukeshi no Shou"
    },
    "contentRating": "safe",
-   "score": 0.21736333,
+   "score": 0.21736178,
    "languages": [
     "en"
    ]
@@ -107,19 +107,6 @@
    ]
   },
   {
-   "id": "320da354-11f7-4cff-8aeb-191b39f0bf88",
-   "title": {
-    "en": "Kono Ko Shirimasenka?"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en",
-    "vi",
-    "es-la"
-   ]
-  },
-  {
    "id": "d4c30944-8b9a-4cf8-bfe9-a0fe2ce97fe5",
    "title": {
     "en": "Yorukumo"
@@ -132,27 +119,16 @@
    ]
   },
   {
-   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
+   "id": "320da354-11f7-4cff-8aeb-191b39f0bf88",
    "title": {
-    "en": "AGAPE"
+    "en": "Kono Ko Shirimasenka?"
    },
    "contentRating": "safe",
-   "score": 0.20652853,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.20652853,
+   "score": 0.2163632,
    "languages": [
     "en",
     "vi",
-    "pt-br"
+    "es-la"
    ]
   },
   {
@@ -169,17 +145,6 @@
    ]
   },
   {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
-   "title": {
-    "en": "Cloud"
-   },
-   "contentRating": "safe",
-   "score": 0.20652853,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
    "title": {
     "en": "Sherlock"
@@ -190,7 +155,40 @@
     "en",
     "tr"
    ]
+  },
+  {
+   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
+   "title": {
+    "en": "Hyakki Tsurezure Bukuro"
+   },
+   "contentRating": "safe",
+   "score": 0.20652853,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
+   "title": {
+    "en": "AGAPE"
+   },
+   "contentRating": "safe",
+   "score": 0.20652853,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
+   "title": {
+    "en": "Cloud"
+   },
+   "contentRating": "safe",
+   "score": 0.20652853,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-10-29T19:46:38+00:00"
+ "updatedAt": "2024-11-01T20:24:17+00:00"
 }

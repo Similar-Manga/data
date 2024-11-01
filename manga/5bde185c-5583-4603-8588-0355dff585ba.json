@@ -3,24 +3,31 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Arm Strike Pantser"
+   "en": "Kaigeki no Pantser"
   },
   "altTitles": [
    {
     "ja": "腕撃のパンツァー"
    },
    {
-    "ja-ro": "Kaigeki no Pantser"
+    "en": "Arm Strike Pantser"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "異世界からの侵略者を撃退するには、猫子のスカートめくりだけ!?"
+  },
   "links": {
+   "al": "142188",
+   "amz": "https://www.amazon.co.jp/dp/B0B77B4TH1",
    "ap": "kaigeki-no-pantser",
    "bw": "series/366876",
-   "mu": "174733",
-   "raw": "https://seiga.nicovideo.jp/comic/52761"
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/711063/",
+   "kt": "kaigeki-no-panzer",
+   "mal": "148281",
+   "mu": "174733"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
   "lastChapter": "5",
   "status": "completed",
   "year": 2021,
@@ -153,9 +160,9 @@
    }
   ],
   "state": "published",
-  "version": 22,
+  "version": 24,
   "createdAt": "2020-12-27T13:58:17+00:00",
-  "updatedAt": "2024-01-01T04:05:58+00:00"
+  "updatedAt": "2024-10-31T11:33:56+00:00"
  },
  "relationships": [
   {
@@ -211,14 +218,14 @@
    }
   },
   {
-   "id": "0bb9f333-25cd-409f-838e-182d69077b9f",
+   "id": "e906064d-65a6-499b-a6fd-eccd0e2ccff8",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-09-16T19:43:40+00:00",
+    "createdAt": "2024-10-31T11:31:22+00:00",
     "description": "",
-    "fileName": "04d10a93-a159-49c4-a954-5ecd97fd9bb0.jpg",
+    "fileName": "e0ffd7a9-49a3-4e6d-9ff0-217f6ef7afa1.jpg",
     "locale": "ja",
-    "updatedAt": "2022-09-16T19:43:40+00:00",
+    "updatedAt": "2024-10-31T11:31:22+00:00",
     "version": 1,
     "volume": "1"
    }

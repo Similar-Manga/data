@@ -1,0 +1,177 @@
+{
+ "id": "116aeae0-5da8-4ae8-acf2-21b2124dca3d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Dr. Abuno no Ikenai Yamai"
+  },
+  "altTitles": [
+   {
+    "ja": "Dr.アブノのイケない病"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mu": "tz1qilr",
+   "raw": "https://peep.jp/stories/IkTG5etDcdvOH7te"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-01T11:26:11+00:00",
+  "updatedAt": "2024-11-01T11:26:16+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4f245418-9a24-408b-a17e-b0fa97865406",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-05T13:11:33+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "peep",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-05T13:11:33+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "771f7748-f43a-49a7-a6a0-f4afe56ca946",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-01T11:23:39+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ooshiro Hisoka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-01T11:23:39+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6d1f376a-1100-4740-ae8f-beed203677ee",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-05T13:12:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "taskeySTUDIO",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-05T13:12:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8382b4a7-8f98-4e55-b081-7f9090f1c16e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-01T11:24:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hisaishi Rai",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-01T11:24:29+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0dd6638e-28a3-4773-8c1d-ddc6fa89d117",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-01T11:26:12+00:00",
+    "description": "",
+    "fileName": "875d132a-153c-4c14-b033-70b14d5c789b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-01T11:26:12+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "6640d5cb-18a0-4264-8c0a-9dcbe39be5ef",
+   "type": "creator"
+  }
+ ]
+}

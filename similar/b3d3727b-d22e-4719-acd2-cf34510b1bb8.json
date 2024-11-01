@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "5eed8b4c-1965-43df-a3c5-74a5f58a7283",
-   "title": {
-    "en": "Bakuman.: Age 13, Age 14"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
    "title": {
     "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
@@ -36,12 +25,23 @@
    ]
   },
   {
+   "id": "5eed8b4c-1965-43df-a3c5-74a5f58a7283",
+   "title": {
+    "en": "Bakuman.: Age 13, Age 14"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b8f51c27-7717-44aa-b8cb-563f6c1de0c9",
    "title": {
     "en": "Amemiya-san"
    },
    "contentRating": "safe",
-   "score": 0.24851976,
+   "score": 0.24852389,
    "languages": [
     "en",
     "id"
@@ -53,7 +53,7 @@
     "en": "Kao ni Denai Ko"
    },
    "contentRating": "safe",
-   "score": 0.2474006,
+   "score": 0.24739596,
    "languages": [
     "en"
    ]
@@ -64,7 +64,7 @@
     "en": "Teppen!!!"
    },
    "contentRating": "safe",
-   "score": 0.24186079,
+   "score": 0.24186149,
    "languages": [
     "id"
    ]
@@ -75,7 +75,7 @@
     "en": "Doraemon Plus"
    },
    "contentRating": "safe",
-   "score": 0.24109553,
+   "score": 0.24109773,
    "languages": [
     "en",
     "vi"
@@ -87,7 +87,7 @@
     "en": "Shio ga Mai Ko ga Mai"
    },
    "contentRating": "safe",
-   "score": 0.23871668,
+   "score": 0.23872289,
    "languages": [
     "en"
    ]
@@ -98,7 +98,7 @@
     "en": "After-school Secret Club"
    },
    "contentRating": "safe",
-   "score": 0.23787546,
+   "score": 0.23776023,
    "languages": [
     "es-la",
     "es"
@@ -110,7 +110,7 @@
     "en": "Zessyaka!"
    },
    "contentRating": "safe",
-   "score": 0.2358874,
+   "score": 0.2358885,
    "languages": [
     "en"
    ]
@@ -121,10 +121,22 @@
     "en": "Ikusaba Animation"
    },
    "contentRating": "safe",
-   "score": 0.23265712,
+   "score": 0.23265521,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "8e793b67-8e2e-4901-a0bf-27fa9ff769c7",
+   "title": {
+    "en": "Fairway no Koe wo Kikasete"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "zh-hk",
+    "en"
    ]
   },
   {
@@ -148,55 +160,6 @@
    ]
   },
   {
-   "id": "d880ae9a-f400-4ff7-9251-ba3de6bed450",
-   "title": {
-    "en": "Show-ha Shou-ten!"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "8e793b67-8e2e-4901-a0bf-27fa9ff769c7",
-   "title": {
-    "en": "Fairway no Koe wo Kikasete"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
-   "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
-   "title": {
-    "en": "Kore Kaite Shine"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "3d521799-62fc-4fb1-95b7-b39caa9a442c",
-   "title": {
-    "en": "Yama no Susume"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "es-la",
-    "id",
-    "en"
-   ]
-  },
-  {
    "id": "127d4af7-4062-45ec-afb7-b8cf33deb3db",
    "title": {
     "en": "Welcome to the Ballroom"
@@ -213,7 +176,44 @@
     "es-la",
     "fr"
    ]
+  },
+  {
+   "id": "3d521799-62fc-4fb1-95b7-b39caa9a442c",
+   "title": {
+    "en": "Yama no Susume"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "es-la",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
+   "title": {
+    "en": "Kore Kaite Shine"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "d880ae9a-f400-4ff7-9251-ba3de6bed450",
+   "title": {
+    "en": "Show-ha Shou-ten!"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
   }
  ],
- "updatedAt": "2024-10-29T20:07:21+00:00"
+ "updatedAt": "2024-11-01T20:43:43+00:00"
 }

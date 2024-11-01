@@ -11,7 +11,7 @@
     "en": "Double Bull"
    },
    "contentRating": "safe",
-   "score": 0.24743894,
+   "score": 0.24743535,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Saki: Achiga-hen - episode of side-A"
    },
    "contentRating": "safe",
-   "score": 0.24351148,
+   "score": 0.24351157,
    "languages": [
     "en",
     "pt-br"
@@ -34,7 +34,7 @@
     "en": "Kinyoubi wa Atelier de"
    },
    "contentRating": "safe",
-   "score": 0.2415803,
+   "score": 0.24155381,
    "languages": [
     "en",
     "zh-hk",
@@ -47,7 +47,7 @@
     "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.24037917,
+   "score": 0.24039873,
    "languages": [
     "vi",
     "en",
@@ -62,7 +62,7 @@
     "en": "Josou Danshi wa Skirt wo Nugitai!"
    },
    "contentRating": "safe",
-   "score": 0.23228335,
+   "score": 0.23228504,
    "languages": [
     "vi",
     "es-la",
@@ -76,7 +76,7 @@
     "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
-   "score": 0.2302971,
+   "score": 0.23029743,
    "languages": [
     "es-la",
     "vi",
@@ -92,7 +92,7 @@
     "en": "Mizuki-senpai's Love Fortune-Telling"
    },
    "contentRating": "safe",
-   "score": 0.22739056,
+   "score": 0.22739147,
    "languages": [
     "id",
     "es-la",
@@ -109,7 +109,7 @@
     "en": "Hitomi-chan Is Shy With Strangers"
    },
    "contentRating": "safe",
-   "score": 0.22714743,
+   "score": 0.22714575,
    "languages": [
     "en",
     "pt-br",
@@ -120,73 +120,6 @@
     "id",
     "hi",
     "vi"
-   ]
-  },
-  {
-   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
-   "title": {
-    "en": "Tenshi-chan to Akuma-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.219571,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
-   "title": {
-    "en": "Tokiwa-san to Inoue-kun no Boushin"
-   },
-   "contentRating": "safe",
-   "score": 0.219571,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
-   "title": {
-    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
-   },
-   "contentRating": "safe",
-   "score": 0.219571,
-   "languages": [
-    "th",
-    "ru",
-    "en",
-    "pt-br",
-    "es-la",
-    "de",
-    "pl"
-   ]
-  },
-  {
-   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
-   "title": {
-    "en": "Kimi no Love o Misetekure!"
-   },
-   "contentRating": "safe",
-   "score": 0.219571,
-   "languages": [
-    "vi",
-    "pt-br",
-    "ru",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "a2f14ca0-1fad-4198-95cf-d5bfa053238b",
-   "title": {
-    "en": "Nemuro-kun wa Kao ga Ii!"
-   },
-   "contentRating": "safe",
-   "score": 0.219571,
-   "languages": [
-    "en",
-    "es-la",
-    "id"
    ]
   },
   {
@@ -207,6 +140,17 @@
    ]
   },
   {
+   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
+   "title": {
+    "en": "Tenshi-chan to Akuma-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.219571,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "39a038c6-9699-44fb-9e8a-5cb12fb4a748",
    "title": {
     "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
@@ -216,6 +160,62 @@
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
+   "title": {
+    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
+   },
+   "contentRating": "safe",
+   "score": 0.219571,
+   "languages": [
+    "th",
+    "ru",
+    "en",
+    "pt-br",
+    "es-la",
+    "de",
+    "pl"
+   ]
+  },
+  {
+   "id": "a2f14ca0-1fad-4198-95cf-d5bfa053238b",
+   "title": {
+    "en": "Nemuro-kun wa Kao ga Ii!"
+   },
+   "contentRating": "safe",
+   "score": 0.219571,
+   "languages": [
+    "en",
+    "es-la",
+    "id"
+   ]
+  },
+  {
+   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "title": {
+    "en": "Tokiwa-san to Inoue-kun no Boushin"
+   },
+   "contentRating": "safe",
+   "score": 0.219571,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
+   "title": {
+    "en": "Kimi no Love o Misetekure!"
+   },
+   "contentRating": "safe",
+   "score": 0.219571,
+   "languages": [
+    "vi",
+    "pt-br",
+    "ru",
+    "es-la",
+    "en"
    ]
   },
   {
@@ -232,5 +232,5 @@
    ]
   }
  ],
- "updatedAt": "2024-10-29T19:33:54+00:00"
+ "updatedAt": "2024-11-01T20:11:28+00:00"
 }

@@ -1,0 +1,118 @@
+{
+ "id": "f279ce02-9804-444b-a8f4-4d29d9c53614",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Love Master (Haetnim)"
+  },
+  "altTitles": [
+   {
+    "en": "Expert in Love"
+   },
+   {
+    "ko": "연애고수"
+   }
+  ],
+  "description": {
+   "en": "Appearance is B, character is D-...\nHer secret to seeing a man really\nStatus window that tells you information that helps you in love at a glance!\nThere are special men who shake up even her.?\n\nSeungheon, a Jeonnam friend who has changed 180 degrees, and So Yeonga, a \"perfect man\" who also recognized the 'Seodin' granular window.\nThe unpredictable romance between the three begins!"
+  },
+  "links": {
+   "mu": "vlhkomw",
+   "raw": "https://comic.naver.com/webtoon/list?titleId=801809"
+  },
+  "originalLanguage": "ko",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-10-29T20:20:17+00:00",
+  "updatedAt": "2024-10-30T08:10:45+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5c4e7006-33d5-47c0-8013-6f3f8c26f57e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Haetnim",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5c4e7006-33d5-47c0-8013-6f3f8c26f57e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Haetnim",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "161d801e-1525-4396-94d1-eed7b530553f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-29T20:20:19+00:00",
+    "description": "",
+    "fileName": "a8c3ff8e-82bc-452b-a290-df89432c093f.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-10-29T20:20:19+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f7c4ab61-6260-4fea-8030-a142640101ad",
+   "type": "creator"
+  }
+ ]
+}

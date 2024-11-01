@@ -3,17 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Touhou Project - Jasper Star"
+   "en": "Touhou - Jasper Star (Doujinshi)"
   },
   "altTitles": [
    {
-    "ja": "紅墨の月 碧玉の星"
+    "ja": "紅墨の月 碧玉の星 (東方)"
    },
    {
-    "ja-ro": "Kurenai Sumi no Tsuki Hekigyoku no Hoshi"
+    "ja-ro": "Kurenai Sumi no Tsuki Hekigyoku no Hoshi (Touhou)"
    },
    {
-    "en": "Jasper Star"
+    "en": "Jasper Star (Touhou Project)"
    },
    {
     "en": "Red and Black Moon"
@@ -112,9 +112,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2024-10-26T23:27:31+00:00",
-  "updatedAt": "2024-10-27T23:28:30+00:00"
+  "updatedAt": "2024-10-29T15:01:04+00:00"
  },
  "relationships": [
   {
@@ -144,6 +144,32 @@
    }
   },
   {
+   "id": "ff3e1e8e-da1c-42b6-b38d-57f6dc1a4975",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hashiya (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T15:00:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "e2683147-dc2d-42ca-9f98-61154b719325",
    "type": "artist",
    "attributes": {
@@ -164,6 +190,32 @@
     "twitter": null,
     "updatedAt": "2024-10-26T22:12:10+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ff3e1e8e-da1c-42b6-b38d-57f6dc1a4975",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hashiya (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T15:00:57+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

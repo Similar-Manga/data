@@ -14,14 +14,28 @@
    "en": "A \"demon\" suddenly appears in front of Masato, whose mother was killed by a thug. Masato, then sold his soul to him and gains a powerful \"demon power\"."
   },
   "links": {
+   "bw": "series/62058/list",
    "mu": "124711"
   },
   "originalLanguage": "ja",
+  "lastVolume": "15",
   "publicationDemographic": "seinen",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2015,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
@@ -84,9 +98,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-03-09T05:49:05+00:00",
-  "updatedAt": "2023-11-17T13:35:49+00:00"
+  "updatedAt": "2024-10-31T21:56:38+00:00"
  },
  "relationships": [
   {
@@ -142,16 +156,16 @@
    }
   },
   {
-   "id": "4cd923af-1716-4f5e-b919-47d8e211bd79",
+   "id": "e0182c5a-bc14-440e-bb35-af7dcaca841d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:03:55+00:00",
+    "createdAt": "2024-10-31T21:55:07+00:00",
     "description": "",
-    "fileName": "cb54dd08-de38-4d53-947a-1f975606d052.jpg",
+    "fileName": "4a34cda7-cf2b-49e1-8b83-680d9ec1a221.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:03:55+00:00",
+    "updatedAt": "2024-10-31T21:55:07+00:00",
     "version": 1,
-    "volume": null
+    "volume": "15"
    }
   }
  ]

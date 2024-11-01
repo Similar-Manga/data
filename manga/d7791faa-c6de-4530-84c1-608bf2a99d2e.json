@@ -17,15 +17,18 @@
    "al": "115072",
    "amz": "https://www.amazon.co.jp/gp/product/B074CKJB57",
    "ap": "samurai-sensei",
-   "bw": "series/21292",
+   "bw": "series/21292/list",
    "kt": "37033",
    "mal": "92802",
    "mu": "108709",
    "raw": "https://comic.pixiv.net/works/741"
   },
   "originalLanguage": "ja",
+  "lastVolume": "8",
+  "lastChapter": "59",
   "publicationDemographic": "shoujo",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2014,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -57,6 +60,18 @@
     }
    },
    {
+    "id": "81183756-1453-4c81-aa9e-f6e1b63be016",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Samurai"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -82,9 +97,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2018-11-27T14:52:05+00:00",
-  "updatedAt": "2024-10-26T18:47:38+00:00"
+  "updatedAt": "2024-10-29T20:26:28+00:00"
  },
  "relationships": [
   {
@@ -140,16 +155,16 @@
    }
   },
   {
-   "id": "fb5117bb-9c51-4f0e-8caa-5215d2233ff2",
+   "id": "ec4d74e5-6730-400e-8c74-0e8c82fc0154",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:52:55+00:00",
+    "createdAt": "2024-10-29T20:28:36+00:00",
     "description": "",
-    "fileName": "2bb77ae1-c570-456c-b263-c9054daab729.jpg",
+    "fileName": "1f0e7ecd-5ba2-4969-89a4-eccc8d7515d4.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:52:55+00:00",
+    "updatedAt": "2024-10-29T20:28:36+00:00",
     "version": 1,
-    "volume": null
+    "volume": "8"
    }
   }
  ]

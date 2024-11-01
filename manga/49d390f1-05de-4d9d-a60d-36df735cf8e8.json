@@ -25,12 +25,25 @@
   },
   "originalLanguage": "ja",
   "status": "ongoing",
+  "year": 2024,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "057f2014-2a77-4c9e-9089-17be8e37632c",
   "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
     "type": "tag",
@@ -52,6 +65,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -81,23 +106,25 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 9,
   "createdAt": "2024-10-03T18:26:33+00:00",
-  "updatedAt": "2024-10-10T02:14:38+00:00"
+  "updatedAt": "2024-11-01T03:54:10+00:00"
  },
  "relationships": [
   {
-   "id": "3a22ee5a-92bd-4374-8230-4cd47cff7464",
+   "id": "4bcc3ebd-9a11-4924-bbff-72a9b98aaf66",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: カボチャマスク\n\n**Alt. names**:\nPumpkin Mask"
+    },
     "booth": null,
-    "createdAt": "2024-10-03T18:21:53+00:00",
+    "createdAt": "2023-06-28T20:22:18+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "nakagami147",
+    "name": "Kabocha Mask",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -105,8 +132,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-03T18:21:53+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-01T03:54:03+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -116,24 +143,26 @@
    "id": "3a22ee5a-92bd-4374-8230-4cd47cff7464",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 仲紙\n\n**Alt. names**:\nnakagami147q"
+    },
     "booth": null,
     "createdAt": "2024-10-03T18:21:53+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "nakagami147",
+    "name": "Nakagami (仲紙)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/3319666",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-03T18:21:53+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/nakagami147q",
+    "updatedAt": "2024-11-01T04:05:38+00:00",
+    "version": 3,
+    "website": "https://nakagami147q.com/",
     "weibo": null,
     "youtube": null
    }

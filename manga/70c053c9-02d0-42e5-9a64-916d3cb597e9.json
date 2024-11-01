@@ -17,8 +17,9 @@
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0CBB1SLZX",
    "ap": "kawaii-gimai-ga-konyaku-hakisaretarashii-node-ima-kara-orei-ni-mairimasu",
-   "bw": "series/418767",
+   "bw": "series/418767/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/766024/",
+   "mal": "174695",
    "mu": "9fnulbu",
    "raw": "https://www.alphapolis.co.jp/manga/official/996000478"
   },
@@ -27,6 +28,10 @@
   "status": "ongoing",
   "year": 2022,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "58ce6394-5185-41e9-825b-bdc00f59709b",
   "tags": [
    {
     "id": "33771934-028e-4cb3-8744-691e866a923e",
@@ -78,9 +83,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2023-06-13T13:45:49+00:00",
-  "updatedAt": "2024-08-26T22:04:58+00:00"
+  "updatedAt": "2024-10-30T14:32:13+00:00"
  },
  "relationships": [
   {
@@ -136,14 +141,14 @@
    }
   },
   {
-   "id": "5bf04d0c-ee68-455f-97ca-ad70ac553973",
+   "id": "acf71708-89b8-4cf4-97dd-58fd780c1c5f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-08-26T22:04:58+00:00",
+    "createdAt": "2024-10-30T10:43:12+00:00",
     "description": "",
-    "fileName": "b7ac04c2-c94b-4511-8dca-c564fdd67b62.jpg",
+    "fileName": "61733b5a-a83e-4797-b80d-0b2aa4688a0f.jpg",
     "locale": "ja",
-    "updatedAt": "2024-08-26T22:04:58+00:00",
+    "updatedAt": "2024-10-30T10:43:12+00:00",
     "version": 1,
     "volume": "3"
    }

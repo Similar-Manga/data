@@ -8,10 +8,10 @@
   {
    "id": "6941f16b-b56e-404a-b4ba-2fc7e009d38f",
    "title": {
-    "en": "Issho Watashi no Joshu de ite!"
+    "en": "Isshou Watashi no Joshu de ite!"
    },
    "contentRating": "safe",
-   "score": 0.34977326,
+   "score": 0.34875658,
    "languages": [
     "en",
     "vi"
@@ -23,9 +23,25 @@
     "en": "Show-ha Shou-ten!"
    },
    "contentRating": "safe",
-   "score": 0.26634133,
+   "score": 0.26634797,
    "languages": [
-    "zh-hk",
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "6f2b317e-17ff-491a-8f61-e6e591ae2df2",
+   "title": {
+    "en": "Akanabe-sensei wa Tereshirazu"
+   },
+   "contentRating": "safe",
+   "score": 0.26460055,
+   "languages": [
+    "id",
+    "vi",
+    "es-la",
+    "pt-br",
+    "fr",
     "en"
    ]
   },
@@ -35,7 +51,7 @@
     "en": "Kaoru Hana wa Rin to Saku"
    },
    "contentRating": "safe",
-   "score": 0.26432893,
+   "score": 0.26446223,
    "languages": [
     "pt-br",
     "ru",
@@ -47,6 +63,36 @@
     "he",
     "ar",
     "tr"
+   ]
+  },
+  {
+   "id": "f5795134-9ac6-411f-8526-11d37230a3e9",
+   "title": {
+    "en": "Arrested Love"
+   },
+   "contentRating": "safe",
+   "score": 0.26050997,
+   "languages": [
+    "vi",
+    "pt-br",
+    "ru",
+    "en",
+    "fa",
+    "pl",
+    "es-la",
+    "fr"
+   ]
+  },
+  {
+   "id": "e50d87b5-04e8-457c-acec-67becdbbd0d7",
+   "title": {
+    "en": "TO-Y"
+   },
+   "contentRating": "safe",
+   "score": 0.25509605,
+   "languages": [
+    "en",
+    "uk"
    ]
   },
   {
@@ -66,105 +112,14 @@
    ]
   },
   {
-   "id": "e50d87b5-04e8-457c-acec-67becdbbd0d7",
-   "title": {
-    "en": "TO-Y"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "en",
-    "uk"
-   ]
-  },
-  {
    "id": "91fff6d2-c99e-453d-9d31-236670e03e01",
    "title": {
     "en": "Tantei Wa Mou Shindeiru - The Lost Memory"
    },
    "contentRating": "safe",
-   "score": 0.25224867,
+   "score": 0.25227582,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "0b72b7fa-c14e-4270-8d86-5e4993eff40f",
-   "title": {
-    "en": "Nami no Shijima no Horizont"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9422a147-c0c8-400d-9106-57cb8ece3dba",
-   "title": {
-    "en": "Kimi wa Meido-sama"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "es-la",
-    "vi",
-    "ar",
-    "ru",
-    "id",
-    "en",
-    "pt-br",
-    "tr",
-    "fr"
-   ]
-  },
-  {
-   "id": "061ef842-fc90-49c1-bf1c-9106b8660dfb",
-   "title": {
-    "en": "Tayutau Kemuri wa Tsukamenai"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "pt-br",
-    "en",
-    "id",
-    "es-la"
-   ]
-  },
-  {
-   "id": "abca3e5f-61ee-452e-a9e0-5985d0d1dd8d",
-   "title": {
-    "en": "Urushi Uruhashi"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "30f3ac69-21b6-45ad-a110-d011b7aaadaa",
-   "title": {
-    "en": "Tonikaku Kawaii"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en",
-    "tr",
-    "pt-br",
-    "es-la",
-    "it",
-    "id",
-    "ru",
-    "pl",
-    "fr",
-    "uk",
-    "vi",
-    "ar",
-    "de",
-    "es"
    ]
   },
   {
@@ -192,12 +147,91 @@
    ]
   },
   {
+   "id": "9422a147-c0c8-400d-9106-57cb8ece3dba",
+   "title": {
+    "en": "Kimi wa Meido-sama"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "es-la",
+    "vi",
+    "ar",
+    "ru",
+    "id",
+    "en",
+    "pt-br",
+    "tr",
+    "fr"
+   ]
+  },
+  {
+   "id": "abca3e5f-61ee-452e-a9e0-5985d0d1dd8d",
+   "title": {
+    "en": "Urushi Uruhashi"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0b72b7fa-c14e-4270-8d86-5e4993eff40f",
+   "title": {
+    "en": "Nami no Shijima no Horizont"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "061ef842-fc90-49c1-bf1c-9106b8660dfb",
+   "title": {
+    "en": "Tayutau Kemuri wa Tsukamenai"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "pt-br",
+    "en",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "30f3ac69-21b6-45ad-a110-d011b7aaadaa",
+   "title": {
+    "en": "Tonikaku Kawaii"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en",
+    "tr",
+    "pt-br",
+    "es-la",
+    "it",
+    "id",
+    "ru",
+    "pl",
+    "fr",
+    "uk",
+    "vi",
+    "ar",
+    "de",
+    "es"
+   ]
+  },
+  {
    "id": "0a4bdf95-dc11-4011-937e-7bdc4dd6e786",
    "title": {
     "en": "Mayonaka Heart Tune"
    },
    "contentRating": "safe",
-   "score": 0.24625458,
+   "score": 0.2462593,
    "languages": [
     "en",
     "ru",
@@ -207,36 +241,7 @@
     "vi",
     "fr"
    ]
-  },
-  {
-   "id": "e9dc373b-314c-44ff-9428-ae63319ae86b",
-   "title": {
-    "en": "Toradora!"
-   },
-   "contentRating": "safe",
-   "score": 0.24049957,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr",
-    "es",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
-   "id": "6b8ab373-d2cc-4f01-b37a-7f142ac2f16c",
-   "title": {
-    "en": "Gokumane!"
-   },
-   "contentRating": "safe",
-   "score": 0.23653887,
-   "languages": [
-    "fr",
-    "es-la",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-10-29T19:50:35+00:00"
+ "updatedAt": "2024-11-01T20:28:11+00:00"
 }

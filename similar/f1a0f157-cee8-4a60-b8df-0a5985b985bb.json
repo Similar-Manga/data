@@ -1,7 +1,7 @@
 {
  "id": "f1a0f157-cee8-4a60-b8df-0a5985b985bb",
  "title": {
-  "en": "Go Chumon Wa Samenai Koi De"
+  "en": "Gochuumon wa Samenai Koi de"
  },
  "contentRating": "safe",
  "matches": [
@@ -11,7 +11,7 @@
     "en": "Wakeari Aki-kun no Koi ga Kikoeru"
    },
    "contentRating": "safe",
-   "score": 0.2944359
+   "score": 0.29644027
   },
   {
    "id": "5c2eb121-0734-409e-9007-f6a3c689acfd",
@@ -19,7 +19,7 @@
     "en": "Koi Koi Koi"
    },
    "contentRating": "safe",
-   "score": 0.29167384
+   "score": 0.29484427
   },
   {
    "id": "b6a4b905-537a-4719-8759-dc470779796e",
@@ -27,7 +27,18 @@
     "en": "Say Love"
    },
    "contentRating": "safe",
-   "score": 0.29124737,
+   "score": 0.29436848,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4560b99b-a493-48fd-9b1b-61c31d7ed7a3",
+   "title": {
+    "en": "Renai Catalog"
+   },
+   "contentRating": "safe",
+   "score": 0.29084682,
    "languages": [
     "en"
    ]
@@ -38,18 +49,7 @@
     "en": "Peppermint Age"
    },
    "contentRating": "safe",
-   "score": 0.28627735
-  },
-  {
-   "id": "4560b99b-a493-48fd-9b1b-61c31d7ed7a3",
-   "title": {
-    "en": "Renai Catalog"
-   },
-   "contentRating": "safe",
-   "score": 0.28508887,
-   "languages": [
-    "en"
-   ]
+   "score": 0.28604904
   },
   {
    "id": "934c926a-32ae-4cb5-b08b-006bc7927958",
@@ -57,7 +57,7 @@
     "en": "Okaeri ga Koigokoro wo Komete"
    },
    "contentRating": "safe",
-   "score": 0.2839621
+   "score": 0.2853388
   },
   {
    "id": "307765fa-faae-49d5-99b3-5efe788350bc",
@@ -65,7 +65,7 @@
     "en": "Kirameki Gingachou Shoutengai"
    },
    "contentRating": "safe",
-   "score": 0.28181058,
+   "score": 0.28251672,
    "languages": [
     "en"
    ]
@@ -76,55 +76,7 @@
     "en": "Ao ni Rakurai"
    },
    "contentRating": "safe",
-   "score": 0.28092688
-  },
-  {
-   "id": "dd2139ba-0855-4367-98dc-565bfa42cafc",
-   "title": {
-    "en": "Koi. - Itoshii Itoshii to Iu Kokoro"
-   },
-   "contentRating": "safe",
-   "score": 0.27729753
-  },
-  {
-   "id": "d7ca6289-8b95-4c80-a3b7-f12b050d2f05",
-   "title": {
-    "en": "Crossroad"
-   },
-   "contentRating": "safe",
-   "score": 0.2765844
-  },
-  {
-   "id": "22b88af9-7f38-4f10-9480-24412b10a266",
-   "title": {
-    "en": "Turning the World into an Enemy"
-   },
-   "contentRating": "safe",
-   "score": 0.27442837
-  },
-  {
-   "id": "dc3792a7-2968-4f64-9a0a-98cbf6f9136c",
-   "title": {
-    "en": "Otona no Hatsukoi"
-   },
-   "contentRating": "safe",
-   "score": 0.27298972
-  },
-  {
-   "id": "c6ec0599-0122-48ec-8206-42abd34a3e09",
-   "title": {
-    "en": "#Furikumanaide #Furimuite"
-   },
-   "contentRating": "safe",
-   "score": 0.27170178
-  },
-  {
-   "id": "a6773af3-4d8f-4faa-bb15-f6f6a76e5f4d",
-   "title": {
-    "en": "Classmate no Ikemen ga Uchi no Kasei Otto ni narimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.27126592
+   "score": 0.28073952
   },
   {
    "id": "18cac4be-850d-4deb-bd1d-9a3884ebc2cc",
@@ -132,7 +84,47 @@
     "en": "Tachibana-san wa Niya Tsukenai"
    },
    "contentRating": "safe",
-   "score": 0.2712064
+   "score": 0.27830192
+  },
+  {
+   "id": "dd2139ba-0855-4367-98dc-565bfa42cafc",
+   "title": {
+    "en": "Koi. - Itoshii Itoshii to Iu Kokoro"
+   },
+   "contentRating": "safe",
+   "score": 0.27714926
+  },
+  {
+   "id": "d7ca6289-8b95-4c80-a3b7-f12b050d2f05",
+   "title": {
+    "en": "Crossroad"
+   },
+   "contentRating": "safe",
+   "score": 0.27642208
+  },
+  {
+   "id": "dc3792a7-2968-4f64-9a0a-98cbf6f9136c",
+   "title": {
+    "en": "Otona no Hatsukoi"
+   },
+   "contentRating": "safe",
+   "score": 0.27572703
+  },
+  {
+   "id": "22b88af9-7f38-4f10-9480-24412b10a266",
+   "title": {
+    "en": "Turning the World into an Enemy"
+   },
+   "contentRating": "safe",
+   "score": 0.27428776
+  },
+  {
+   "id": "c6ec0599-0122-48ec-8206-42abd34a3e09",
+   "title": {
+    "en": "#Furikumanaide #Furimuite"
+   },
+   "contentRating": "safe",
+   "score": 0.27361935
   },
   {
    "id": "59d43c56-6718-47d9-bb7e-df75144516d0",
@@ -140,12 +132,20 @@
     "en": "Kimi wo Wasureru Koi ga Shitai"
    },
    "contentRating": "safe",
-   "score": 0.270092,
+   "score": 0.27255028,
    "languages": [
     "en",
     "fr"
    ]
+  },
+  {
+   "id": "fcf18c5c-880f-40d1-b663-eaa5530416c2",
+   "title": {
+    "en": "Doukyo shita Osananajimi wa, Dekiai o Gaman Dekinai."
+   },
+   "contentRating": "safe",
+   "score": 0.27208278
   }
  ],
- "updatedAt": "2024-10-29T20:34:05+00:00"
+ "updatedAt": "2024-11-01T21:07:54+00:00"
 }

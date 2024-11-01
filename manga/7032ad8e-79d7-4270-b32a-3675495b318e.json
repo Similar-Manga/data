@@ -22,6 +22,7 @@
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
+  "lastChapter": "14.5",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2013,
@@ -29,7 +30,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "391f418f-5fc2-41a9-bbe2-eeebdd1cf728",
+  "latestUploadedChapter": "6f14ed7f-8adb-4e2b-8c19-e8572df9bb37",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -37,6 +38,18 @@
     "attributes": {
      "name": {
       "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
      },
      "description": {},
      "group": "genre",
@@ -56,18 +69,6 @@
     }
    },
    {
-    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Action"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
-   {
     "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
     "type": "tag",
     "attributes": {
@@ -76,18 +77,6 @@
      },
      "description": {},
      "group": "theme",
-     "version": 1
-    }
-   },
-   {
-    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Psychological"
-     },
-     "description": {},
-     "group": "genre",
      "version": 1
     }
    },
@@ -224,11 +213,11 @@
     }
    },
    {
-    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Drama"
+      "en": "Horror"
      },
      "description": {},
      "group": "genre",
@@ -236,11 +225,11 @@
     }
    },
    {
-    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Horror"
+      "en": "Fantasy"
      },
      "description": {},
      "group": "genre",
@@ -297,9 +286,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2020-09-01T23:08:29+00:00",
-  "updatedAt": "2023-10-26T02:37:27+00:00"
+  "updatedAt": "2024-10-31T14:52:32+00:00"
  },
  "relationships": [
   {

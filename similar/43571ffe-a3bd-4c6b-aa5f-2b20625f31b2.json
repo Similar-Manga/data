@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b7c3baa1-3603-4220-a5bf-8ddef5485505",
+   "title": {
+    "en": "Joujin Kamen"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619
+  },
+  {
    "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
    "title": {
     "en": "Evil Eater"
@@ -15,14 +23,6 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "b7c3baa1-3603-4220-a5bf-8ddef5485505",
-   "title": {
-    "en": "Joujin Kamen"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619
   },
   {
    "id": "effd49e4-71e5-4fdb-86f1-7ed7dd4c06e3",
@@ -46,18 +46,7 @@
     "en": "Yougen no Chi"
    },
    "contentRating": "safe",
-   "score": 0.23440376,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2ee825b5-fca6-40a3-98f2-e47d44bd7fc8",
-   "title": {
-    "en": "Sekiryuu no Otome"
-   },
-   "contentRating": "safe",
-   "score": 0.22222224,
+   "score": 0.23442622,
    "languages": [
     "en"
    ]
@@ -76,15 +65,14 @@
    ]
   },
   {
-   "id": "ecf03a97-2194-4e4b-b4cd-741b98015957",
+   "id": "2ee825b5-fca6-40a3-98f2-e47d44bd7fc8",
    "title": {
-    "en": "Kaya-chan wa Kowakunai"
+    "en": "Sekiryuu no Otome"
    },
    "contentRating": "safe",
-   "score": 0.2208575,
+   "score": 0.22222224,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -99,12 +87,24 @@
    ]
   },
   {
+   "id": "ecf03a97-2194-4e4b-b4cd-741b98015957",
+   "title": {
+    "en": "Kaya-chan wa Kowakunai"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "6e8ec78a-db6e-438d-ae37-488b3e81ae5b",
    "title": {
     "en": "Doku Doku Doku"
    },
    "contentRating": "safe",
-   "score": 0.20201175
+   "score": 0.2020117
   },
   {
    "id": "cd14a481-211e-43c7-b100-a1b466e93d6d",
@@ -112,26 +112,24 @@
     "en": "Nikubami Honegishimi"
    },
    "contentRating": "safe",
-   "score": 0.20173329,
+   "score": 0.20173588,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "77d4b487-2aa3-4674-ba46-d238dcdc0280",
+   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
    "title": {
-    "en": "Soushou Immortal Flower"
+    "en": "Mercy"
    },
    "contentRating": "safe",
-   "score": 0.20161438
-  },
-  {
-   "id": "9528fde1-a28a-44bf-8317-9acab5a3c06d",
-   "title": {
-    "en": "Shin Jigokudou Reikai Tsuushin"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438
+   "score": 0.20161438,
+   "languages": [
+    "ru",
+    "fr",
+    "en",
+    "vi"
+   ]
   },
   {
    "id": "4a907996-bf1d-4a34-a4ae-ab8e86de0ab6",
@@ -149,6 +147,14 @@
    ]
   },
   {
+   "id": "77d4b487-2aa3-4674-ba46-d238dcdc0280",
+   "title": {
+    "en": "Soushou Immortal Flower"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438
+  },
+  {
    "id": "7e50742e-76bc-44be-b561-ac6ce1681a63",
    "title": {
     "en": "Tokyo Ghoul: Redrawn"
@@ -163,19 +169,13 @@
    ]
   },
   {
-   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
+   "id": "9528fde1-a28a-44bf-8317-9acab5a3c06d",
    "title": {
-    "en": "Mercy"
+    "en": "Shin Jigokudou Reikai Tsuushin"
    },
    "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "ru",
-    "fr",
-    "en",
-    "vi"
-   ]
+   "score": 0.20161438
   }
  ],
- "updatedAt": "2024-10-29T19:18:58+00:00"
+ "updatedAt": "2024-11-01T19:53:49+00:00"
 }

@@ -3,26 +3,42 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Touhou - Wai Shi wa Mada da (Doujinshi)"
+   "en": "Touhou - Wai Shi wa Mada (Doujinshi)"
   },
   "altTitles": [
    {
     "en": "(Reitaisai 10) Why she was Murdered (Touhou Project)"
+   },
+   {
+    "ja": "穢死は未だ"
    }
   ],
   "description": {
-   "en": "A Futo x Tojiko doujin."
+   "en": "A Futo \u0026 Tojiko doujin."
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "2",
   "status": "completed",
+  "year": 2013,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "1df469d6-1c04-4967-9ef3-fec1b41b545e",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
     "type": "tag",
@@ -49,39 +65,11 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 8,
   "createdAt": "2020-01-29T14:12:53+00:00",
-  "updatedAt": "2021-05-25T15:48:35+00:00"
+  "updatedAt": "2024-11-01T08:58:02+00:00"
  },
  "relationships": [
-  {
-   "id": "00d2d6c7-81ec-499a-b77a-a2c0ab7fb135",
-   "type": "author",
-   "attributes": {
-    "biography": {
-     "en": "[Instagram](https://www.instagram.com/non_gallery_insta/)"
-    },
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "NON",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/non620126",
-    "updatedAt": "2024-08-28T20:23:54+00:00",
-    "version": 3,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
   {
    "id": "7c75aea7-64e3-4676-aa4c-156255ad8167",
    "type": "author",
@@ -103,34 +91,6 @@
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "00d2d6c7-81ec-499a-b77a-a2c0ab7fb135",
-   "type": "artist",
-   "attributes": {
-    "biography": {
-     "en": "[Instagram](https://www.instagram.com/non_gallery_insta/)"
-    },
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "NON",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/non620126",
-    "updatedAt": "2024-08-28T20:23:54+00:00",
-    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

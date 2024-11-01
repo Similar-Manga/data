@@ -1,0 +1,158 @@
+{
+ "id": "a5cee4b9-9da8-45ea-a0ab-8871e6739d8f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Earth’s Dawn"
+  },
+  "altTitles": [
+   {
+    "zh": "地球黎明"
+   }
+  ],
+  "description": {
+   "en": "As strange phenomena continue to occur on Earth, Chen Chu accidentally joins the “Earth Dawn”, a cooperative organization of Earth and self-conscious aliens. From then on, she will also embark on a journey to understand the truth of the universe, participate in solving various events, and wait with the members until humanity “awakens”."
+  },
+  "originalLanguage": "zh",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-10-30T15:05:15+00:00",
+  "updatedAt": "2024-10-30T15:12:58+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2721a28d-393d-4b01-9446-cfee52322ca0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-30T15:12:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "云绯cloudnight",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-30T15:12:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2721a28d-393d-4b01-9446-cfee52322ca0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-30T15:12:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "云绯cloudnight",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-30T15:12:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e47aff84-8447-4481-8f30-a1c33827c5ec",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-30T15:05:37+00:00",
+    "description": "",
+    "fileName": "89e60aa7-bbce-44b8-a4f8-bd7b1bf8366b.png",
+    "locale": "zh",
+    "updatedAt": "2024-10-30T15:05:37+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "ffc423f0-9201-4cfd-aad9-8f5c88a38f3b",
+   "type": "creator"
+  }
+ ]
+}

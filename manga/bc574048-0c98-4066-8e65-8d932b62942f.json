@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "20 Nen de Iroiro Kawatchatta Manga"
+   "en": "20 Nen de Iroiro Kawatchatta Manga (Pre-Serialization)"
   },
   "altTitles": [
    {
@@ -95,9 +95,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2023-06-19T16:38:26+00:00",
-  "updatedAt": "2023-07-20T13:16:52+00:00"
+  "updatedAt": "2024-10-30T20:59:45+00:00"
  },
  "relationships": [
   {
@@ -164,6 +164,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "4a03c6ff-414a-4ba3-8394-815221c0bb71",
+   "type": "manga",
+   "related": "serialization"
   },
   {
    "id": "6ae8349a-9bbb-44e1-9a12-395189fbb153",

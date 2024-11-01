@@ -3,11 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Stay Away From Me!"
+   "en": "Stay Awaaay!!"
   },
   "altTitles": [
    {
     "ja": "来るなーーッ!!"
+   },
+   {
+    "ja-ro": "Kuru naaa!!"
+   },
+   {
+    "en": "Stay Away From Me!"
    },
    {
     "es-la": "¡Aléjate de mi!"
@@ -140,58 +146,62 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 11,
   "createdAt": "2022-08-10T01:23:17+00:00",
-  "updatedAt": "2023-01-13T17:00:56+00:00"
+  "updatedAt": "2024-10-29T12:35:27+00:00"
  },
  "relationships": [
   {
-   "id": "a3752c85-d4b4-403f-af70-8b64788be446",
+   "id": "8a946d63-4095-47f8-8e6b-04cbd470f4a5",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 真徒\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/18398370908516385100)"
+    },
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2022-08-10T01:23:07+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Mato",
+    "name": "Matomero",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/thiramisu0606",
+    "updatedAt": "2024-10-29T12:26:05+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "a3752c85-d4b4-403f-af70-8b64788be446",
+   "id": "8a946d63-4095-47f8-8e6b-04cbd470f4a5",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 真徒\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/18398370908516385100)"
+    },
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2022-08-10T01:23:07+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Mato",
+    "name": "Matomero",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/thiramisu0606",
+    "updatedAt": "2024-10-29T12:26:05+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

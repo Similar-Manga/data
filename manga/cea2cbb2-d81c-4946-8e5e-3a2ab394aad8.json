@@ -15,7 +15,7 @@
   "availableTranslatedLanguages": [
    "pl"
   ],
-  "latestUploadedChapter": "44f9c4a0-1fe3-4c8f-b324-b08cbad97f9b",
+  "latestUploadedChapter": "0b0437c6-6ac1-4b1a-af25-40abd0359c1d",
   "tags": [
    {
     "id": "320831a8-4026-470b-94f6-8353740e6f04",
@@ -23,6 +23,18 @@
     "attributes": {
      "name": {
       "en": "Official Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
      },
      "description": {},
      "group": "format",
@@ -55,9 +67,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-07-13T08:55:27+00:00",
-  "updatedAt": "2024-07-13T09:26:25+00:00"
+  "updatedAt": "2024-10-31T02:15:29+00:00"
  },
  "relationships": [
   {

@@ -1,0 +1,154 @@
+{
+ "id": "60d23f9c-297a-4ada-bf58-e0050409b93e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Top Player Who Travel to Different Dimensions"
+  },
+  "altTitles": [
+   {
+    "zh-ro": "Dingji Wanjia Chuanyue Dao Yi Ciyuan"
+   },
+   {
+    "zh-ro": "Dǐngjí Wánjiā Chuānyuè Dào Yì Cìyuán"
+   },
+   {
+    "zh": "顶级玩家穿越到异次元"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mu": "p67hb1o",
+   "raw": "https://ac.qq.com/Comic/ComicInfo/id/654486"
+  },
+  "originalLanguage": "zh",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-31T13:42:07+00:00",
+  "updatedAt": "2024-10-31T13:42:53+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7737ae0e-7fe0-406b-9d9f-5867d353ee9e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-31T13:40:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "UUU",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-31T13:40:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7737ae0e-7fe0-406b-9d9f-5867d353ee9e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-31T13:40:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "UUU",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-31T13:40:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "93047f02-b090-4f3c-9feb-26c6e1e2f628",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-31T13:42:08+00:00",
+    "description": "",
+    "fileName": "250b8a7c-8afe-45b6-8f10-df9b5747eefb.jpg",
+    "locale": "zh",
+    "updatedAt": "2024-10-31T13:42:08+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "6640d5cb-18a0-4264-8c0a-9dcbe39be5ef",
+   "type": "creator"
+  }
+ ]
+}

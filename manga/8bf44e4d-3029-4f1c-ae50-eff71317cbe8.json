@@ -1,0 +1,132 @@
+{
+ "id": "8bf44e4d-3029-4f1c-ae50-eff71317cbe8",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Étranger Overlord ~Hanseishinai Akuyaku Reijou, Jigoku ni Ochite Kareinaru Happy Life Musou~"
+  },
+  "altTitles": [
+   {
+    "ja": "エトランジュ オーヴァーロード ～反省しない悪役令嬢、地獄に堕ちて華麗なるハッピーライフ無双～"
+   }
+  ],
+  "description": {
+   "ja": "稀代の悪女として処刑された悪役令嬢・エトランジュ。抗うこともできず処刑された彼女の前に現れたのは、悪魔たちが住まう地獄だった――!? 怖い（？）悪魔たちに囲まれた彼女が誓うのは前の人生への反省――ではなく、己のスタイルを貫き地獄で生き延びること！"
+  },
+  "links": {
+   "al": "182280",
+   "amz": "https://www.amazon.co.jp/dp/B0DHYDJ7ZS",
+   "ap": "etranger-overlord-hanseishinai-akuyaku-reijou-jigoku-ni-ochite-kareinaru-happy-life-musou",
+   "bw": "series/490134",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/853743/",
+   "mu": "f5ehfrh",
+   "raw": "https://comic-walker.com/detail/KC_005507_S"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-29T20:40:58+00:00",
+  "updatedAt": "2024-10-29T20:41:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a8c2f359-cf1f-4bde-99ad-faf1fbcd5c73",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-29T20:39:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kitayama Roman",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T20:39:23+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6a82bb49-d106-4581-a818-9706581b4638",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hekaton",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "78697314-0ec1-4d74-a769-8d8bfa93ff1d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-29T20:41:00+00:00",
+    "description": "",
+    "fileName": "97117006-27cf-4422-a1a4-01de9a47cc4c.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-29T20:41:00+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

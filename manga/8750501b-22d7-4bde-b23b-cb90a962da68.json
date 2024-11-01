@@ -1,0 +1,147 @@
+{
+ "id": "8750501b-22d7-4bde-b23b-cb90a962da68",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Crunch"
+  },
+  "altTitles": [
+   {
+    "en": "Crunch"
+   },
+   {
+    "es-la": "Crunch! El crujido"
+   },
+   {
+    "pt-br": "Crise!"
+   }
+  ],
+  "description": {
+   "en": "In an important Latin American city that has been hit by a huge economic crisis, a young man named Daniel Suit meets a stranger who offers, in his words, “a state enterprise” to defeat a network of clandestine battles...",
+   "es-la": "En una importante ciudad latinoamericana que ha sido azotada por una enorme crisis económica, un jóven llamado Daniel Suit se encuentra con un extraño hombre que le propone, en sus palabras \"conseguir un trabajo estable\" a cambio de ganar una red de batallas clandestinas...",
+   "pt-br": "Numa importante cidade latino-americana que foi atingida por uma enorme crise económica, um jovem chamado Daniel Suit conhece um estranho que oferece, nas suas palavras, “um empreendimento estatal” para derrotar uma rede de batalhas clandestinas..."
+  },
+  "originalLanguage": "es-la",
+  "status": "ongoing",
+  "year": 2021,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en",
+   "pt-br"
+  ],
+  "latestUploadedChapter": "8e2bf495-1d68-4b74-bdaf-7f2a560d05d3",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-29T08:46:52+00:00",
+  "updatedAt": "2024-10-30T06:16:44+00:00"
+ },
+ "relationships": [
+  {
+   "id": "59922a34-1f04-42a3-8668-b4277a058f07",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-29T08:44:04+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Crunch Liners",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T08:44:04+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "59922a34-1f04-42a3-8668-b4277a058f07",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-29T08:44:04+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Crunch Liners",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-29T08:44:04+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "99ab4dd5-582b-4567-9085-926ca17228a4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-29T08:46:57+00:00",
+    "description": "",
+    "fileName": "c893d6e9-9c09-4782-b2e3-1369933860e6.jpg",
+    "locale": "es-la",
+    "updatedAt": "2024-10-29T08:46:57+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "13063a00-2b5f-461a-918c-05881267ea92",
+   "type": "creator"
+  }
+ ]
+}

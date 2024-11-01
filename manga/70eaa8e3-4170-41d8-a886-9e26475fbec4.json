@@ -1,0 +1,166 @@
+{
+ "id": "70eaa8e3-4170-41d8-a886-9e26475fbec4",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Meido Jigoku Gakuen"
+  },
+  "altTitles": [
+   {
+    "ja": "冥途地獄学園"
+   },
+   {
+    "en": "Underworld Hell School"
+   }
+  ],
+  "description": {
+   "en": "Hanatomaru (a.k.a. Maru), born as a half-human, half-demon, makes a fresh start from his life in the human world and starts living in hell! This is a comedy about restarting one's life with a group of fun “ogre” friends!"
+  },
+  "links": {
+   "mu": "l12rzsx",
+   "raw": "https://comic-ogyaaa.com/episode/2550912964763274229"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-01T10:54:58+00:00",
+  "updatedAt": "2024-11-01T10:56:44+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a8c63a62-a0f7-4977-b9b8-a904dd675975",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-01T10:53:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Honyapoko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-01T10:53:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a8c63a62-a0f7-4977-b9b8-a904dd675975",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-01T10:53:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Honyapoko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-01T10:53:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0786c777-cd93-4542-8876-7862f43ad948",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-01T10:56:20+00:00",
+    "description": "",
+    "fileName": "19c5d7b5-751d-4cb9-8aa2-562fd7dc548f.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-01T10:56:20+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

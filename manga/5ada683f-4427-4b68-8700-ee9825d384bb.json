@@ -1,0 +1,130 @@
+{
+ "id": "5ada683f-4427-4b68-8700-ee9825d384bb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Purpose of Marriage"
+  },
+  "altTitles": [
+   {
+    "ko": "결혼의 목적"
+   }
+  ],
+  "description": {
+   "en": "Yoon Seol-young faces a harsh reality: a cheating boyfriend of three years, a forced blind date with a divorced man ten years her senior, and the burden of financially supporting her suffocating family. Just when she wishes to escape her stifling life, Ki Tae-hwan, the executive director of Shinhwa Group, rumored to be gay due to his excessively clean private life, approaches her with a proposal: \"Let's get married. I'll take you to a higher place.\" Overnight, Seol-young goes from being the secretary in the executive director's office to becoming his daughter-in-law. But what is the true purpose behind Tae-hwan's marriage proposal?"
+  },
+  "links": {
+   "mu": "ozs20wp",
+   "raw": "https://page.kakao.com/content/65147837"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "9b41b805-ec53-43c3-8a20-a0b1d4ef6da6",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-30T06:10:06+00:00",
+  "updatedAt": "2024-10-30T06:10:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6310dd11-35e0-42b9-8777-8bd25475eeed",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-30T06:08:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Lee Geumji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-30T06:08:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "df1695b9-8ed7-4ab5-a820-738fb273443f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-30T06:08:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bakong",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-30T06:08:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9cbb7f9a-8ba4-4bc6-9404-2ed1a809b5c5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-30T06:10:09+00:00",
+    "description": "",
+    "fileName": "522f9945-b33d-4bfd-9515-51afe19aa04f.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-10-30T06:10:09+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f3432e7e-8661-414e-bba8-5ed92b6b80dd",
+   "type": "creator"
+  }
+ ]
+}

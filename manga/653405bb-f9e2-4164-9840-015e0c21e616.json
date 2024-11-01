@@ -7,28 +7,35 @@
   },
   "altTitles": [
    {
-    "en": "HAP"
+    "en": "Legend of Awakening"
    },
    {
     "en": "Heaven Awakening Path"
    },
    {
-    "en": "Thiên Tỉnh Chi Lộ"
+    "vi": "Thiên Tỉnh Chi Lộ"
    },
    {
-    "en": "天醒之路"
+    "zh": "天醒之路"
+   },
+   {
+    "th": "ปลุกสวรรค์สยบปฐพี"
    }
   ],
   "description": {
    "en": "An adaptation of Butterfly Blue's novel of the same name, Road to Awakening tells the tale of Lu Ping and Su Tang: a pair of children who escaped from a mysterious organization in a world of cultivation.  \n  \nInfusion, Sound, Qi, Pivot, Strength, Essence, and Excellence. These are the seven forces of the soul, and their use has produced countless powerful cultivators."
   },
   "links": {
+   "engtl": "https://mangatoon.mobi/en/legend-awakening?content_id=2081161",
    "mu": "q46kev9",
    "nu": "heaven-awakening-path",
-   "raw": "https://www.kanman.com/82324/"
+   "raw": "https://www.mkzhan.com/212764/"
   },
   "originalLanguage": "zh",
-  "status": "ongoing",
+  "lastVolume": "2",
+  "lastChapter": "64",
+  "status": "completed",
+  "year": 2018,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
@@ -36,6 +43,18 @@
   ],
   "latestUploadedChapter": "f8701bcb-8b2f-470a-95c0-cfcfbfd4a2a7",
   "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
     "type": "tag",
@@ -61,6 +80,18 @@
     }
    },
    {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -69,6 +100,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -98,9 +141,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2020-12-11T15:55:44+00:00",
-  "updatedAt": "2023-08-16T23:24:33+00:00"
+  "updatedAt": "2024-10-30T20:02:21+00:00"
  },
  "relationships": [
   {
@@ -156,16 +199,44 @@
    }
   },
   {
-   "id": "70b3cd75-bc2f-4fb4-aecc-655974e0af15",
+   "id": "16121de6-fced-4a28-a207-7c0601f65512",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**AKA:**\n* Extreme Comic Culture\n* Extreme Culture\n* Ji Man Comics\n* Ji Man Wenhua\n* Jiman Cultural\n* JM Comic\n* JMCOMIC\n* JMCOMICS\n* Jí Màn Wénhuà"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jiman Wenhua (极漫文化)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-08-03T20:48:49+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": "https://m.weibo.cn/u/5456952707",
+    "youtube": null
+   }
+  },
+  {
+   "id": "890d986c-7d36-4da1-b14c-1d852ed5788b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:22:21+00:00",
+    "createdAt": "2024-10-30T20:00:04+00:00",
     "description": "",
-    "fileName": "4e15d013-e108-40f5-acfc-d7c0c71535cd.jpg",
+    "fileName": "2baed782-0c93-41bc-b6b6-13fd7954d19d.jpg",
     "locale": "zh",
-    "updatedAt": "2021-05-24T18:22:21+00:00",
+    "updatedAt": "2024-10-30T20:00:04+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

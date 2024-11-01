@@ -14,7 +14,7 @@
    }
   ],
   "description": {
-   "en": "A story about “word survival”, using the power of \"verbs\" to battle and collect \"passwords\"!"
+   "en": "Linguistic Death Game Battle Action about a high school student who lives an pretty unfullfilling life, dreaming of becoming a screenwriter one day. After a series of mysterious murders, he suddenly gets entangled in a bizarre death game, where people fight each other in supernatural battles, using words as the origin of their power. The boy receives the verb \"open\" as his weapon and has to get creative with it in order to survive and find the one responsible for the killing spree."
   },
   "links": {
    "amz": "https://www.amazon.co.jp/-/en/dp/B0BLMJQNV7?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tkin",
@@ -44,6 +44,30 @@
     }
    },
    {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -54,12 +78,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 8,
   "createdAt": "2022-07-18T06:41:56+00:00",
-  "updatedAt": "2024-09-19T17:10:50+00:00"
+  "updatedAt": "2024-10-29T16:35:41+00:00"
  },
  "relationships": [
   {

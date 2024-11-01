@@ -27,7 +27,8 @@
    "mu": "172971"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastChapter": "9",
+  "status": "completed",
   "year": 2020,
   "contentRating": "erotica",
   "availableTranslatedLanguages": [
@@ -70,12 +71,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2023-02-20T05:02:14+00:00",
-  "updatedAt": "2024-01-07T11:19:35+00:00"
+  "updatedAt": "2024-10-31T23:17:45+00:00"
  },
  "relationships": [
   {
@@ -131,14 +144,14 @@
    }
   },
   {
-   "id": "f7f5d45e-6e66-4ad7-8977-0fc1e1cb17c0",
+   "id": "c73ef541-511c-461a-8f34-48519350fa6f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-02-20T05:02:16+00:00",
+    "createdAt": "2024-10-31T23:18:30+00:00",
     "description": "",
-    "fileName": "a5a56c8b-e4c6-41e3-84e5-ed374a527eb9.jpg",
+    "fileName": "4ba32a27-ac74-4876-ad81-1662e024ea65.jpg",
     "locale": "ja",
-    "updatedAt": "2023-02-20T05:02:16+00:00",
+    "updatedAt": "2024-10-31T23:18:30+00:00",
     "version": 1,
     "volume": "1"
    }

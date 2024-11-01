@@ -1,0 +1,163 @@
+{
+ "id": "1cc47081-9e2e-4d71-84d3-fe8796ca6432",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Battle of Mosol"
+  },
+  "altTitles": [
+   {
+    "ko": "모솔대첩"
+   }
+  ],
+  "description": {
+   "en": "Win love! Win 500 million won! A competition begins where three single women in their thirties put 500 million won on the line to break free from being single. A princess without her prince, Gong Jurim, a trash collector, Kang Seon, and a firm believer in premarital purity, Kim Chaeyul! Who will be the ultimate winner of this singles showdown?",
+   "ko": "사랑도 얻고! 5억도 얻고! 만 30세 여자 3명의 5억을 건 모솔탈출내기가 시작된다.왕자 없는 공주림 , 쓰레기 수집가 강선아 , 혼전순결 김채율!과연 모솔대첩의 우승자는 누가 될 것인가?fr"
+  },
+  "links": {
+   "mu": "pzwssre",
+   "raw": "https://comic.naver.com/webtoon/list?titleId=833596"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-01T09:07:23+00:00",
+  "updatedAt": "2024-11-01T17:53:37+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b8d02eb2-d9b3-4e5d-94f5-1ab5062d0200",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-09-24T17:09:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jinja",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-09-24T17:09:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "36e6dbf0-1251-4357-9216-a9984110f6c6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-11-10T04:06:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jeongsaeng",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-11-10T04:06:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "253d2d5a-eeb6-4d26-9546-058ea4f85bdd",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-01T09:07:26+00:00",
+    "description": "",
+    "fileName": "ccde73c9-b37c-4ddd-874a-a2b4df0ff825.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-01T09:07:26+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a0483f18-9ebd-4a87-966b-1d06fa6427e8",
+   "type": "creator"
+  }
+ ]
+}

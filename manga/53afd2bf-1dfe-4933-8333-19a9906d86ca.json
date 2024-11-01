@@ -3,8 +3,16 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I Can't Stop Doting the Empire's Most Notorious Villainess!"
+   "en": "I Can't Stop Doting On the Empire's Most Notorious Villainess!"
   },
+  "altTitles": [
+   {
+    "en": "I Can't Stop Doting the Empire's Most Notorious Villainess!"
+   },
+   {
+    "ja": "帝国一の悪女に溺愛がとまりません!"
+   }
+  ],
   "description": {
    "en": "In high society, Raven is known as a womanizer and a free spirit. But suddenly, Estella, who’s rumored to hate men and is said to be the cruelest girl in the empire, walks into his bachelor life. And this girl proposes that he marry her! “There’s not a chance in hell this marriage will succeed,” thinks the young guy. But... Estella is convinced he’ll be the one to fall head over heels for her. How will it all pan out, and in the end, who will be right..."
   },
@@ -98,9 +106,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-08-21T22:08:04+00:00",
-  "updatedAt": "2024-09-13T14:04:42+00:00"
+  "updatedAt": "2024-10-29T13:08:40+00:00"
  },
  "relationships": [
   {

@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
+   "title": {
+    "en": "The Far East Incident"
+   },
+   "contentRating": "safe",
+   "score": 0.23223016,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a2f4703c-e966-4e5b-bb6c-9b663f361173",
    "title": {
     "en": "Ware wa Ken-ou!!"
    },
    "contentRating": "safe",
-   "score": 0.21167888,
+   "score": 0.21407495,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Oninagi"
    },
    "contentRating": "safe",
-   "score": 0.21043055,
+   "score": 0.21160309,
    "languages": [
     "en"
    ]
@@ -50,14 +61,18 @@
    ]
   },
   {
-   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
+   "id": "6bf66e9a-afe9-4069-ac5e-fc56aab51e03",
    "title": {
-    "en": "The Far East Incident"
+    "en": "THE POOL"
    },
    "contentRating": "safe",
-   "score": 0.20049083,
+   "score": 0.1975329,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "ru",
+    "es-la",
+    "id"
    ]
   },
   {
@@ -66,7 +81,7 @@
     "en": "Jalapeño"
    },
    "contentRating": "safe",
-   "score": 0.18938735,
+   "score": 0.18571392,
    "languages": [
     "en"
    ]
@@ -77,32 +92,9 @@
     "en": "Gas Mask Girl"
    },
    "contentRating": "safe",
-   "score": 0.18117829,
+   "score": 0.1800992,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7afc3e2a-2cfe-4e2d-ae03-0cb5dea19523",
-   "title": {
-    "en": "A middle-aged man who returns from another world goes back to when he was 17 and becomes unbeatable"
-   },
-   "contentRating": "safe",
-   "score": 0.17733058,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "e7ab9f39-7ffc-4fda-bd87-dc3e5b8480ce",
-   "title": {
-    "en": "Mob Kousei no Ore Demo Boukensha ni Nareba Riajuu ni Naremasuka?"
-   },
-   "contentRating": "safe",
-   "score": 0.17698802,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -118,27 +110,28 @@
    ]
   },
   {
+   "id": "e7ab9f39-7ffc-4fda-bd87-dc3e5b8480ce",
+   "title": {
+    "en": "Mob Kousei no Ore Demo Boukensha ni Nareba Riajuu ni Naremasuka?"
+   },
+   "contentRating": "safe",
+   "score": 0.17618461,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "23f0329d-0a6c-4225-b062-b36a682c7db4",
    "title": {
     "en": "GUARDIAN"
    },
    "contentRating": "safe",
-   "score": 0.17579187,
+   "score": 0.17507027,
    "languages": [
     "es",
     "en",
     "fa"
-   ]
-  },
-  {
-   "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
-   "title": {
-    "en": "Evil Eater"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -153,14 +146,14 @@
    ]
   },
   {
-   "id": "961031ed-86bd-4f06-a9f1-2001d34bb172",
+   "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
    "title": {
-    "en": "Seirei Tsukai Elementalors: Chito no Jinshi"
+    "en": "Evil Eater"
    },
    "contentRating": "safe",
    "score": 0.17496355,
    "languages": [
-    "es-la"
+    "en"
    ]
   },
   {
@@ -184,7 +177,18 @@
    "languages": [
     "es-la"
    ]
+  },
+  {
+   "id": "961031ed-86bd-4f06-a9f1-2001d34bb172",
+   "title": {
+    "en": "Seirei Tsukai Elementalors: Chito no Jinshi"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "es-la"
+   ]
   }
  ],
- "updatedAt": "2024-10-29T19:48:48+00:00"
+ "updatedAt": "2024-11-01T20:26:31+00:00"
 }

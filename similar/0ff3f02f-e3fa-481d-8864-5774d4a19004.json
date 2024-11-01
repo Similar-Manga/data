@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "2d5e6c12-e494-4389-ac8b-947b7e7f8f61",
-   "title": {
-    "en": "It called an Element!"
-   },
-   "contentRating": "safe",
-   "score": 0.31793252,
-   "languages": [
-    "de"
-   ]
-  },
-  {
    "id": "f7187d42-4c82-497d-9592-509f5d55f614",
    "title": {
     "en": "Lady Crystal Is A Man"
    },
    "contentRating": "safe",
-   "score": 0.30951557,
+   "score": 0.3095322,
    "languages": [
     "cs",
     "pl"
@@ -34,11 +23,22 @@
     "en": "ANIMORED!!"
    },
    "contentRating": "safe",
-   "score": 0.26990998,
+   "score": 0.2699229,
    "languages": [
     "en",
     "es-la",
     "fr"
+   ]
+  },
+  {
+   "id": "2d5e6c12-e494-4389-ac8b-947b7e7f8f61",
+   "title": {
+    "en": "It called an Element!"
+   },
+   "contentRating": "safe",
+   "score": 0.26787177,
+   "languages": [
+    "de"
    ]
   },
   {
@@ -47,7 +47,7 @@
     "en": "Majo to Majuu"
    },
    "contentRating": "safe",
-   "score": 0.26155975
+   "score": 0.26158786
   },
   {
    "id": "f0026037-a444-411f-8455-5dfbbe1f0066",
@@ -55,7 +55,7 @@
     "en": "The Story of a Demon Girl and an Uncle"
    },
    "contentRating": "safe",
-   "score": 0.25901157,
+   "score": 0.25904682,
    "languages": [
     "en",
     "de",
@@ -69,7 +69,7 @@
     "en": "Moonlight Cheese and Rock Crystal Cheese"
    },
    "contentRating": "safe",
-   "score": 0.24791881,
+   "score": 0.24793108,
    "languages": [
     "en"
    ]
@@ -80,7 +80,7 @@
     "en": "QUARK"
    },
    "contentRating": "safe",
-   "score": 0.24535428,
+   "score": 0.24537265,
    "languages": [
     "id"
    ]
@@ -91,7 +91,45 @@
     "en": "Beatless Heart"
    },
    "contentRating": "safe",
-   "score": 0.2423107
+   "score": 0.24232753
+  },
+  {
+   "id": "b7caf141-ff90-4bd6-9192-cae9b7cb34cb",
+   "title": {
+    "en": "Alea and Erla in Broom World"
+   },
+   "contentRating": "safe",
+   "score": 0.23198196
+  },
+  {
+   "id": "a0c1c40a-574d-49ad-9e6f-acc8de3caa3b",
+   "title": {
+    "en": "Ouma Kurashi no Yakkosan"
+   },
+   "contentRating": "safe",
+   "score": 0.22957566
+  },
+  {
+   "id": "0b3c413a-fce9-45bd-bbef-e94952cc2a28",
+   "title": {
+    "en": "Yo-kai Watch the Movie: The Great Adventure of the Flying Whale \u0026 the Double World, Nyan!"
+   },
+   "contentRating": "safe",
+   "score": 0.22902672
+  },
+  {
+   "id": "7a34b48c-7932-4f40-9b8c-99682f59e550",
+   "title": {
+    "en": "Buna no Mori no Aria"
+   },
+   "contentRating": "safe",
+   "score": 0.22659354,
+   "languages": [
+    "en",
+    "pt-br",
+    "uk",
+    "ru"
+   ]
   },
   {
    "id": "dea77c2d-dbaa-434a-b0af-0c116642434c",
@@ -99,7 +137,7 @@
     "en": "Ichi the Witch"
    },
    "contentRating": "safe",
-   "score": 0.23321414,
+   "score": 0.22645395,
    "languages": [
     "vi",
     "en",
@@ -111,50 +149,12 @@
    ]
   },
   {
-   "id": "b7caf141-ff90-4bd6-9192-cae9b7cb34cb",
-   "title": {
-    "en": "Alea and Erla in Broom World"
-   },
-   "contentRating": "safe",
-   "score": 0.23198673
-  },
-  {
-   "id": "a0c1c40a-574d-49ad-9e6f-acc8de3caa3b",
-   "title": {
-    "en": "Ouma Kurashi no Yakkosan"
-   },
-   "contentRating": "safe",
-   "score": 0.22956501
-  },
-  {
-   "id": "0b3c413a-fce9-45bd-bbef-e94952cc2a28",
-   "title": {
-    "en": "Yo-kai Watch the Movie: The Great Adventure of the Flying Whale \u0026 the Double World, Nyan!"
-   },
-   "contentRating": "safe",
-   "score": 0.22902139
-  },
-  {
-   "id": "7a34b48c-7932-4f40-9b8c-99682f59e550",
-   "title": {
-    "en": "Buna no Mori no Aria"
-   },
-   "contentRating": "safe",
-   "score": 0.22659808,
-   "languages": [
-    "en",
-    "pt-br",
-    "uk",
-    "ru"
-   ]
-  },
-  {
    "id": "c49feee4-126f-48d0-9a6c-418d7da05265",
    "title": {
     "en": "Kuutei Dragons"
    },
    "contentRating": "safe",
-   "score": 0.22419351,
+   "score": 0.22422005,
    "languages": [
     "pt-br",
     "es-la",
@@ -185,11 +185,11 @@
     "en": "Disney Twisted Wonderland Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.21204719,
+   "score": 0.21207039,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-10-29T18:56:07+00:00"
+ "updatedAt": "2024-11-01T19:22:07+00:00"
 }

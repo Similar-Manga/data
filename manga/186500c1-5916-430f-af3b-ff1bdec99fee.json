@@ -10,9 +10,11 @@
     "zh-hk": "聊齋夜畫 王二喜"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "| Namespace | Tags |\n| :--- | :--- |\n| parody | original |\n| group | san se fang |\n| artist | heiqing langjun |\n| male | ahegao, anal, big penis, bisexual, bondage, crossdressing, josou seme, ponytail, rape, tomgirl, yaoi |\n| female | blowjob, cheating, netorare, rimjob, sole female |\n| mixed | group, mmf threesome |\n[Source](https://e-hentai.org/g/1051915/1ffa88c6a1/)"
+  },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "status": "completed",
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en",
@@ -31,12 +33,60 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Boys' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crossdressing"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2020-02-04T23:46:13+00:00",
-  "updatedAt": "2024-07-19T09:28:42+00:00"
+  "updatedAt": "2024-11-01T02:20:42+00:00"
  },
  "relationships": [
   {
@@ -99,9 +149,9 @@
     "description": "",
     "fileName": "137fa208-d2f3-4315-a810-f52943989cda.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:43:47+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-01T02:20:41+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]
