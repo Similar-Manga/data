@@ -1,0 +1,156 @@
+{
+ "id": "849c7b88-e7be-4a8a-b3e5-afc4a87182cc",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Back Home Blues"
+  },
+  "altTitles": [
+   {
+    "ja": "バックホームブルース"
+   }
+  ],
+  "description": {
+   "ja": "男の名は青空柑二郎（あおぞらかんじろう）。選手生活25年目のプロ野球選手。ニックネームは「ロンリーブルース」。彼のこだわりはただ一つ、ホームランを遠くへ飛ばすことーー「年俸250万＋出来高払い」という、崖っぷちの条件で、万年最下位の湘南シーガルズに移籍。海辺の町で心機一転、子供達3人との新生活が始まる。\n\nだが引っ越し早々、町内会長とケンカして村八分に…！？やること全てがハチャメチャで、家族もチームメイトも大迷惑！…でも、案外いいところもあったりして！？時代遅れのポンコツ昭和男が、窮屈な現代に風穴を開ける！？"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0D1LHPFF6",
+   "ap": "back-home-blues",
+   "bw": "series/474904",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/836791/",
+   "mal": "163008",
+   "mu": "ou2ggti",
+   "raw": "https://bigcomics.jp/episodes/fa483ad0e4dc4"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-02T19:58:54+00:00",
+  "updatedAt": "2024-11-02T19:59:01+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a424099c-73eb-4722-af96-1ec4580957b5",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-11-30T12:55:25+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nagao Kenichirou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-11-30T12:55:25+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a424099c-73eb-4722-af96-1ec4580957b5",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-11-30T12:55:25+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nagao Kenichirou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-11-30T12:55:25+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0363ee78-a44a-4ba8-9d58-b17b02f0b879",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-02T19:58:57+00:00",
+    "description": "",
+    "fileName": "61670231-207e-428d-92e7-7d7d6b28d1d9.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-02T19:58:57+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

@@ -20,9 +20,9 @@
    "al": "48375",
    "amz": "https://www.amazon.co.jp/dp/B076CKK2YM",
    "ap": "peacock-lord",
-   "bw": "series/7246/",
+   "bw": "series/7246",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/118032/",
-   "engtl": "https://mangaplanet.com/peacock-king/",
+   "engtl": "https://mangaplanet.com/comic/5f2244b267b25",
    "kt": "6183",
    "mal": "18375",
    "mu": "7927"
@@ -38,6 +38,30 @@
   ],
   "latestUploadedChapter": "bf784b2a-5cf2-4f57-9cba-920d2a492d17",
   "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
    {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
@@ -64,9 +88,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2019-07-15T01:14:19+00:00",
-  "updatedAt": "2022-04-25T17:15:22+00:00"
+  "updatedAt": "2024-11-01T19:33:28+00:00"
  },
  "relationships": [
   {

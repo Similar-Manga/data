@@ -21,7 +21,7 @@
   ],
   "description": {},
   "links": {
-   "raw": "https://x.com/search?q=from%3Aisiyumi%20until%3A2021-9-30%20%E6%80%AA%E7%95%B0\u0026f=live"
+   "raw": "https://x.com/search?q=from:isiyumi until:2021-9-30 怪異\u0026f=live"
   },
   "originalLanguage": "ja",
   "lastChapter": "11",
@@ -39,6 +39,18 @@
   ],
   "latestUploadedChapter": "2a616cc1-6463-4278-8fd7-3a0ec3f4c717",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
@@ -101,9 +113,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2020-09-11T13:44:20+00:00",
-  "updatedAt": "2024-08-19T15:50:33+00:00"
+  "updatedAt": "2024-11-03T00:42:21+00:00"
  },
  "relationships": [
   {

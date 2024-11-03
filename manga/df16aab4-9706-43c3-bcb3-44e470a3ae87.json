@@ -35,7 +35,8 @@
    "bw": "series/166211",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/462959/",
    "mal": "114503",
-   "mu": "149277"
+   "mu": "149277",
+   "raw": "https://pocket.shonenmagazine.com/episode/10834108156629534907"
   },
   "originalLanguage": "ja",
   "lastVolume": "6",
@@ -88,18 +89,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -113,9 +102,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2019-09-04T16:45:56+00:00",
-  "updatedAt": "2023-02-13T23:16:58+00:00"
+  "updatedAt": "2024-11-03T00:34:43+00:00"
  },
  "relationships": [
   {
@@ -171,16 +160,16 @@
    }
   },
   {
-   "id": "dbe242d4-fca9-4f14-9333-8289dbebb3fa",
+   "id": "a93a572c-1e52-4fdf-b3d3-9da4785f3398",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:25:21+00:00",
+    "createdAt": "2021-05-23T06:53:59+00:00",
     "description": "",
-    "fileName": "d5db9982-b67f-4765-a885-b97cf06d0f04.jpg",
+    "fileName": "81ae09bb-1b87-4b10-a320-d4143491dff3.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:25:21+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:53:59+00:00",
+    "version": 2,
+    "volume": "6"
    }
   }
  ]

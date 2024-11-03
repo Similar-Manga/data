@@ -3,18 +3,25 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I Became My Crush's Servant"
+   "en": "Oshi no Geboku ni Narimashite"
   },
   "altTitles": [
    {
     "ja": "推しの下僕になりまして"
+   },
+   {
+    "ja-ro": "Oshi no Geboku ni Narimashite"
+   },
+   {
+    "en": "I Became My Crush's Servant"
    }
   ],
   "description": {
-   "en": "The protagonist, grieving the death of her favorite character, finds herself reincarnated into the game's world before her beloved's demise! As the mob character Lou Lurea, she resolves to save her favorite character no matter what. However, she is reincarnated into a magical academy filled with handsome vampires. As the only human, Lou is nothing more than a delicious treat to everyone. While being pursued as \"prey\" by the characters, she struggles to prevent her favorite's bad ending...?! A story begins where love for her favorite character changes destiny!"
+   "en": "The protagonist, grieving the death of her favorite character, finds herself reincarnated into the game's world before her beloved's demise! As the mob character Lou Lurea, she resolves to save her favorite character no matter what. However, she is reincarnated into a magical academy filled with handsome vampires. As the only human, Lou is nothing more than a delicious treat to everyone. While being pursued as \"prey\" by the characters, she struggles to prevent her favorite's bad ending...?! A story begins where love for her favorite character changes destiny!\n\n---\n\nAdditional Links:\n\n* [SORAJIMA](https://sorajima.jp/works/oshinogebokuninarimashite) (Publisher)"
   },
   "links": {
-   "mu": "is4s97d"
+   "mu": "is4s97d",
+   "raw": "https://manga.line.me/product/periodic?id=S120539"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shoujo",
@@ -72,61 +79,35 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 8,
   "createdAt": "2024-08-26T23:58:06+00:00",
-  "updatedAt": "2024-08-27T22:46:12+00:00"
+  "updatedAt": "2024-11-02T04:08:23+00:00"
  },
  "relationships": [
   {
-   "id": "6251fffe-4759-48dd-af1c-20859953984e",
+   "id": "200dabe3-99b5-4936-944c-b887cc60910c",
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "Company that pairs writers with artists and vice versa to make Japanese webtoons. "
+     "en": "Writer. Not to be confused with the artist [Suzumaru](https://mangadex.org/author/bfede995-6710-4015-a5b5-2d109e78e7bc) (すずまる).\n\n**Native name**: 田中涼丸\n\nNote: Ryomaru is an incorrect reading of 涼丸 for this author and should not be used."
     },
     "booth": null,
-    "createdAt": "2022-02-01T11:22:51+00:00",
+    "createdAt": "2023-04-21T11:29:30+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "SORAJIMA Studio",
+    "name": "Tanaka Suzumaru",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": "https://twitter.com/sorajima_PR",
-    "updatedAt": "2023-10-23T23:54:18+00:00",
-    "version": 3,
-    "website": "https://sorajima.jp/",
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "bfede995-6710-4015-a5b5-2d109e78e7bc",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2023-04-07T09:34:12+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Suzumaru",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-04-07T09:34:12+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/suzumaru_t",
+    "updatedAt": "2024-11-02T04:06:28+00:00",
+    "version": 4,
+    "website": "https://lit.link/en/suzumarutanaka",
     "weibo": null,
     "youtube": null
    }
@@ -155,32 +136,6 @@
     "updatedAt": "2023-10-23T23:54:18+00:00",
     "version": 3,
     "website": "https://sorajima.jp/",
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "bfede995-6710-4015-a5b5-2d109e78e7bc",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2023-04-07T09:34:12+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Suzumaru",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-04-07T09:34:12+00:00",
-    "version": 1,
-    "website": null,
     "weibo": null,
     "youtube": null
    }

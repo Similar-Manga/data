@@ -17,6 +17,7 @@
    "en": "Welcome to Zyword, a world filled with magic and sorcery. When Zyword's kingdom of Araimel is put under a spell, it's up to two survivors to save everyone from an eternal sleep!"
   },
   "links": {
+   "engtl": "https://www.viz.com/read/manga/zyword/product/4683",
    "mal": "581",
    "mu": "4220"
   },
@@ -27,10 +28,60 @@
   "status": "completed",
   "year": 2000,
   "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2019-08-12T03:05:22+00:00",
-  "updatedAt": "2022-08-29T17:40:55+00:00"
+  "updatedAt": "2024-11-01T20:02:42+00:00"
  },
  "relationships": [
   {
@@ -86,16 +137,16 @@
    }
   },
   {
-   "id": "bbd0cb94-f23c-4f6d-a69a-11fb8de3db48",
+   "id": "cad4f55d-dd99-479e-a8c9-f7ea43c8ef77",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:22:29+00:00",
+    "createdAt": "2024-11-01T19:58:34+00:00",
     "description": "",
-    "fileName": "6014fddd-8ec5-4e2c-9373-78acbe38c562.jpg",
+    "fileName": "ffc81f73-9370-424a-ba0f-cbc3f2b852ed.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:22:29+00:00",
+    "updatedAt": "2024-11-01T19:58:34+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

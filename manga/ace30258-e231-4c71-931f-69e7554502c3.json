@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hyper Run"
+   "en": "Cyber planet 1999 HYPER Run"
   },
   "altTitles": [
    {
@@ -13,15 +13,22 @@
     "en": "Hyper Rune"
    },
    {
-    "en": "サイバー・プラネット1999HYPER☆ルン"
+    "ja": "サイバー・プラネット1999HYPER☆ルン"
    }
   ],
   "description": {
    "en": "Rune Ayanokouji lives a life less ordinary with a \"mad\" scientist for a grandfather and mysterious humanoid robots popping up around town. It turns out there's an alien plot to take over the world, but there seems to be a set of aliens with a different agenda in mind. With a little unexpected help, Rune and her friends are able to fight these aliens on equal ground. But with the fate of Earth at stake, who can Rune really trust?"
   },
+  "links": {
+   "al": "30368",
+   "mal": "368",
+   "mu": "ezsehe7"
+  },
   "originalLanguage": "ja",
+  "lastVolume": "4",
   "publicationDemographic": "shoujo",
   "status": "completed",
+  "year": 1996,
   "contentRating": "safe",
   "tags": [
    {
@@ -74,9 +81,9 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 4,
   "createdAt": "2020-03-28T23:29:10+00:00",
-  "updatedAt": "2020-03-28T23:29:10+00:00"
+  "updatedAt": "2024-11-02T08:48:30+00:00"
  },
  "relationships": [
   {
@@ -132,16 +139,16 @@
    }
   },
   {
-   "id": "24cdc8f2-d294-4fb1-afd5-0a3f90323762",
+   "id": "80418a42-7ba5-4c0d-a6ad-ef86d8f08c3e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:50:21+00:00",
+    "createdAt": "2024-11-01T20:32:05+00:00",
     "description": "",
-    "fileName": "e18a59f0-b7b2-43a1-8355-aa086fc36260.jpg",
+    "fileName": "324c321e-55b4-4b12-a7e9-a3225e2dcbb3.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:50:21+00:00",
+    "updatedAt": "2024-11-01T20:32:05+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
   }
  ]

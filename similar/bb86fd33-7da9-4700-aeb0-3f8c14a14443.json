@@ -11,7 +11,7 @@
     "en": "The Crest"
    },
    "contentRating": "safe",
-   "score": 0.30070293,
+   "score": 0.30070415,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "29 de Bukiyou de"
    },
    "contentRating": "safe",
-   "score": 0.24944668,
+   "score": 0.24944656,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Mission: Yozakura Family"
    },
    "contentRating": "safe",
-   "score": 0.24662003,
+   "score": 0.2466204,
    "languages": [
     "vi",
     "es-la",
@@ -45,6 +45,52 @@
     "ru",
     "pl",
     "id"
+   ]
+  },
+  {
+   "id": "fe6d0469-2f2f-4d20-ac83-5172a662e3b5",
+   "title": {
+    "en": "Kung Fu Tao"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9b78b2e6-3284-492d-88ec-bcb713e75b78",
+   "title": {
+    "en": "s.CRY.ed"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
+   "title": {
+    "en": "CROSS"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "de"
+   ]
+  },
+  {
+   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
+   "title": {
+    "en": "Otter No.11"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -60,13 +106,15 @@
    ]
   },
   {
-   "id": "fe6d0469-2f2f-4d20-ac83-5172a662e3b5",
+   "id": "5e8714ea-bd0b-4579-86e1-5445eb4564aa",
    "title": {
-    "en": "Kung Fu Tao"
+    "en": "Worst Gaiden Dokuro"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "vi",
+    "fr",
     "en"
    ]
   },
@@ -84,14 +132,38 @@
    ]
   },
   {
-   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
+   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
    "title": {
-    "en": "Otter No.11"
+    "en": "Selling Me Softly"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "6c583845-8276-4f80-b90b-902959b5d240",
+   "title": {
+    "en": "Tokyo Depato Sensou Taikenki"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
     "pl",
+    "tr"
+   ]
+  },
+  {
+   "id": "b5a737bc-080a-4e20-bad2-89d77f83deb8",
+   "title": {
+    "en": "Fluctuations of the Hitman S"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
     "en"
    ]
   },
@@ -127,67 +199,6 @@
    ]
   },
   {
-   "id": "6c583845-8276-4f80-b90b-902959b5d240",
-   "title": {
-    "en": "Tokyo Depato Sensou Taikenki"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pl",
-    "tr"
-   ]
-  },
-  {
-   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
-   "title": {
-    "en": "Selling Me Softly"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "5e8714ea-bd0b-4579-86e1-5445eb4564aa",
-   "title": {
-    "en": "Worst Gaiden Dokuro"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "vi",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
-   "title": {
-    "en": "CROSS"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "de"
-   ]
-  },
-  {
-   "id": "b5a737bc-080a-4e20-bad2-89d77f83deb8",
-   "title": {
-    "en": "Fluctuations of the Hitman S"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7511b858-06e5-414d-b343-467ea468efdf",
    "title": {
     "en": "Black Warriors"
@@ -197,18 +208,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "9b78b2e6-3284-492d-88ec-bcb713e75b78",
-   "title": {
-    "en": "s.CRY.ed"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-11-01T20:46:45+00:00"
+ "updatedAt": "2024-11-03T21:39:07+00:00"
 }

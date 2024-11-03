@@ -20,6 +20,30 @@
   "latestUploadedChapter": "083551dc-e4e1-46e4-9911-44e65adcf8c8",
   "tags": [
    {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
     "attributes": {
@@ -33,9 +57,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2022-11-24T09:04:21+00:00",
-  "updatedAt": "2023-05-31T08:35:42+00:00"
+  "updatedAt": "2024-11-02T17:30:51+00:00"
  },
  "relationships": [
   {

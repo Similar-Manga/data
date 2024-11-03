@@ -3,11 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "A Kouhai Who Always Has A Poker Face Challenged Me to A Game of Old Maid"
+   "en": "Fudan Poker Face no Kouhai to Babanuki Shita"
   },
   "altTitles": [
    {
     "ja": "普段ポーカーフェイスの後輩とババ抜きした"
+   },
+   {
+    "ja-ro": "Fudan Poker Face no Kouhai to Babanukishita"
+   },
+   {
+    "en": "A Kouhai Who Always Has a Poker Face Challenged Me to a Game of Old Maid"
    }
   ],
   "description": {
@@ -87,23 +93,25 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2021-02-20T02:37:29+00:00",
-  "updatedAt": "2023-07-22T10:22:37+00:00"
+  "updatedAt": "2024-11-01T07:33:25+00:00"
  },
  "relationships": [
   {
    "id": "129230a2-a01c-4b73-95ba-d8c4d25fcdb0",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Illustrator.\n\n**Native name**: ねいび\n\n**Alt. names**:\nNavy_126\nNeibi"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": "https://navy.fanbox.cc/",
     "fantia": "https://fantia.jp/navy126",
     "imageUrl": null,
     "melonBook": null,
-    "name": "Navy_126 (ねいび)",
+    "name": "Navy (ねいび)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -111,8 +119,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/navy_126",
-    "updatedAt": "2022-08-22T15:07:06+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-01T07:05:37+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -122,14 +130,16 @@
    "id": "129230a2-a01c-4b73-95ba-d8c4d25fcdb0",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Illustrator.\n\n**Native name**: ねいび\n\n**Alt. names**:\nNavy_126\nNeibi"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": "https://navy.fanbox.cc/",
     "fantia": "https://fantia.jp/navy126",
     "imageUrl": null,
     "melonBook": null,
-    "name": "Navy_126 (ねいび)",
+    "name": "Navy (ねいび)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -137,8 +147,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/navy_126",
-    "updatedAt": "2022-08-22T15:07:06+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-01T07:05:37+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

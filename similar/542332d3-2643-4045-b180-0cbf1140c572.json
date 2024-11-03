@@ -11,7 +11,7 @@
     "en": "Kaze ni Chiru Hanabira to Kisu"
    },
    "contentRating": "safe",
-   "score": 0.31734177,
+   "score": 0.31734815,
    "languages": [
     "it",
     "en"
@@ -23,7 +23,7 @@
     "en": "Futari no Tokubetsu Jugyou"
    },
    "contentRating": "safe",
-   "score": 0.30997363,
+   "score": 0.30996683,
    "languages": [
     "en",
     "fr"
@@ -35,7 +35,7 @@
     "en": "Your Color"
    },
    "contentRating": "safe",
-   "score": 0.294461,
+   "score": 0.29446355,
    "languages": [
     "en"
    ]
@@ -46,15 +46,15 @@
     "en": "Ai no Kotoba"
    },
    "contentRating": "safe",
-   "score": 0.28803337,
+   "score": 0.28802928,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7dbf493a-b544-4cc4-be45-2f6ff7f80a9f",
+   "id": "888c0136-19ff-4d5e-bb6b-7c0a985554a2",
    "title": {
-    "en": "Bara to Lion"
+    "en": "Honto wa Suki da"
    },
    "contentRating": "safe",
    "score": 0.28382835,
@@ -74,36 +74,13 @@
    ]
   },
   {
-   "id": "888c0136-19ff-4d5e-bb6b-7c0a985554a2",
-   "title": {
-    "en": "Honto wa Suki da"
-   },
-   "contentRating": "safe",
-   "score": 0.28382835,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "356b49dd-3cbf-4db2-ac18-7dcd66d2e06d",
    "title": {
     "en": "Takara-kun and Amagi-kun"
    },
    "contentRating": "safe",
-   "score": 0.27141404,
+   "score": 0.27141726,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b0ee75b9-9588-4bc8-8d5d-13d13d965f23",
-   "title": {
-    "en": "Kimi to Nara Koi wo Shite Mite mo"
-   },
-   "contentRating": "safe",
-   "score": 0.2691686,
-   "languages": [
-    "vi",
     "en"
    ]
   },
@@ -113,62 +90,7 @@
     "en": "Suki de Gomen"
    },
    "contentRating": "safe",
-   "score": 0.2688784,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fa958f7a-471c-4b8e-9569-4c8742dc3d29",
-   "title": {
-    "en": "Anata wa Boku Dake no Hana"
-   },
-   "contentRating": "safe",
-   "score": 0.26579934,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "71e6d8b3-087b-4589-85ee-2e10d77752c7",
-   "title": {
-    "en": "Kenshuui wa Koakuma to Odoru"
-   },
-   "contentRating": "safe",
-   "score": 0.26506317,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "da58afe6-eab1-4847-bb97-d34f59a905d2",
-   "title": {
-    "en": "Wakaba no - Shounenki"
-   },
-   "contentRating": "safe",
-   "score": 0.26499513,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5ea87b7a-accc-4cc2-beb0-f6f5a70d8a0a",
-   "title": {
-    "en": "Kare o Dakishimeru Houkago"
-   },
-   "contentRating": "safe",
-   "score": 0.2649227,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e6bf1178-5ad4-4c90-b70c-ba35c646abe8",
-   "title": {
-    "en": "Harusame Tunnel"
-   },
-   "contentRating": "safe",
-   "score": 0.26466614,
+   "score": 0.26888153,
    "languages": [
     "en"
    ]
@@ -179,11 +101,89 @@
     "en": "Nidome no Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.26413727,
+   "score": 0.2663061,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "fa958f7a-471c-4b8e-9569-4c8742dc3d29",
+   "title": {
+    "en": "Anata wa Boku Dake no Hana"
+   },
+   "contentRating": "safe",
+   "score": 0.26579964,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "71e6d8b3-087b-4589-85ee-2e10d77752c7",
+   "title": {
+    "en": "Kenshuui wa Koakuma to Odoru"
+   },
+   "contentRating": "safe",
+   "score": 0.26505944,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "da58afe6-eab1-4847-bb97-d34f59a905d2",
+   "title": {
+    "en": "Wakaba no - Shounenki"
+   },
+   "contentRating": "safe",
+   "score": 0.2649904,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5ea87b7a-accc-4cc2-beb0-f6f5a70d8a0a",
+   "title": {
+    "en": "Kare o Dakishimeru Houkago"
+   },
+   "contentRating": "safe",
+   "score": 0.26492518,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e6bf1178-5ad4-4c90-b70c-ba35c646abe8",
+   "title": {
+    "en": "Harusame Tunnel"
+   },
+   "contentRating": "safe",
+   "score": 0.2646644,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1fd53e93-3956-4fc6-95a5-33342931b159",
+   "title": {
+    "en": "Boku no Suki na Sensei (Gokurakuin Sakurako)"
+   },
+   "contentRating": "safe",
+   "score": 0.26291388,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ef323a0d-9a81-4028-9c21-e85b6f318744",
+   "title": {
+    "en": "Sekai ga Hajimaru Asa ni Umi wo Mito"
+   },
+   "contentRating": "safe",
+   "score": 0.26193893,
+   "languages": [
+    "en",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2024-11-01T20:03:32+00:00"
+ "updatedAt": "2024-11-03T20:47:37+00:00"
 }

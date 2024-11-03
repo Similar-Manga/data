@@ -12,6 +12,7 @@
   ],
   "description": {},
   "links": {
+   "bw": "series/459478/list",
    "mu": "cn31jjt",
    "raw": "https://ganma.jp/dusk"
   },
@@ -20,6 +21,18 @@
   "year": 2023,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
    {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
@@ -31,24 +44,12 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2023-08-19T06:28:07+00:00",
-  "updatedAt": "2024-02-20T23:13:19+00:00"
+  "updatedAt": "2024-11-02T17:26:29+00:00"
  },
  "relationships": [
   {
@@ -104,16 +105,16 @@
    }
   },
   {
-   "id": "e065febd-3f55-4e18-90a1-776845fd896f",
+   "id": "b99908ef-e45f-4b24-9eca-74951729a47e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-08-19T06:28:45+00:00",
+    "createdAt": "2024-11-02T17:25:50+00:00",
     "description": "",
-    "fileName": "b8de8c3e-7742-47c0-9eea-2eaf7f83c911.png",
+    "fileName": "bc3d86f3-7357-4bf3-8628-a7e2abfe19a9.jpg",
     "locale": "ja",
-    "updatedAt": "2023-08-19T06:28:45+00:00",
+    "updatedAt": "2024-11-02T17:25:50+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

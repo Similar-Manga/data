@@ -18,6 +18,7 @@
   },
   "links": {
    "ap": "yamiochi-seijo-wa-senka-de-mau",
+   "bw": "series/478452/list",
    "mal": "167071",
    "mu": "mkmzfwc",
    "raw": "https://comic-walker.com/contents/detail/KDCW_FS06204483010000_68/"
@@ -31,6 +32,18 @@
   ],
   "latestUploadedChapter": "3ab6f400-980e-413d-a5ce-1347a2bc5a82",
   "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
     "type": "tag",
@@ -68,18 +81,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -93,9 +94,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2023-12-07T10:15:18+00:00",
-  "updatedAt": "2024-06-28T01:40:40+00:00"
+  "updatedAt": "2024-11-02T12:23:38+00:00"
  },
  "relationships": [
   {
@@ -153,16 +154,16 @@
    }
   },
   {
-   "id": "a1fb94c7-1c93-416d-ab0e-6d586b1e9d21",
+   "id": "c8415b3d-af83-4043-8d0d-6ba2a53de739",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-12-07T10:15:20+00:00",
+    "createdAt": "2024-11-02T12:23:37+00:00",
     "description": "",
-    "fileName": "4af101c2-ce7f-4b53-8998-833c08de33a2.jpg",
+    "fileName": "dcbd570c-abe4-4ec9-95f0-ebf10fa787f2.jpg",
     "locale": "ja",
-    "updatedAt": "2023-12-07T10:15:20+00:00",
+    "updatedAt": "2024-11-02T12:23:37+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   },
   {

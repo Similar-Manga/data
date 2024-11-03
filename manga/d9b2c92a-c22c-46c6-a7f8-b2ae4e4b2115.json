@@ -1,0 +1,186 @@
+{
+ "id": "d9b2c92a-c22c-46c6-a7f8-b2ae4e4b2115",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shoujo Doumei"
+  },
+  "altTitles": [
+   {
+    "en": "Girls' Alliance"
+   },
+   {
+    "ja": "少女同盟"
+   }
+  ],
+  "description": {
+   "en": "The \"Girls Alliance'' is a gathering of selected girls with beautiful eyebrows and excellent grades. However, a shocking and bloody secret is hidden in the Girls' Alliance, which is a dream of all girls and is forbidden to boys. What awaited Kirie, who was suddenly allowed to join the Girls' Alliance, was a cruel trap...! Now, the bloody night has arrived! The flowers of love and hope fall. Dance with fear, girls !!\n\nA violent story of murder, evil experiments, and bizarre extreme content."
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-02T15:32:48+00:00",
+  "updatedAt": "2024-11-02T15:35:06+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d597c257-e8f0-4bd6-84c4-0cd71f15ff81",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-05-12T15:34:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanda Mori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-05-12T15:34:42+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d597c257-e8f0-4bd6-84c4-0cd71f15ff81",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-05-12T15:34:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanda Mori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-05-12T15:34:42+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ddc38ba6-2819-4368-bd8d-2bb69c40bdff",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-02T15:35:02+00:00",
+    "description": "",
+    "fileName": "5bebd45b-a240-4111-96e2-53e15343a4bf.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-02T15:35:02+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a692a389-14ea-41de-a061-2f447e0d4679",
+   "type": "creator"
+  }
+ ]
+}

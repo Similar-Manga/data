@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "a1482630-b3e7-453c-9bb8-fecd25b959aa",
-   "title": {
-    "en": "Final Re:Quest"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "4846e4da-8fe7-4fe4-8ecd-2ec3f182d5ee",
    "title": {
     "en": "Terranigma"
@@ -28,9 +17,9 @@
    ]
   },
   {
-   "id": "70c81754-05ab-4c0b-bc27-ebab13941ec8",
+   "id": "a1482630-b3e7-453c-9bb8-fecd25b959aa",
    "title": {
-    "en": "Ignite"
+    "en": "Final Re:Quest"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -51,12 +40,23 @@
    ]
   },
   {
+   "id": "70c81754-05ab-4c0b-bc27-ebab13941ec8",
+   "title": {
+    "en": "Ignite"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "344e131f-d756-4660-8aa4-6a868bb9c4b4",
    "title": {
     "en": "Joou Kishi Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.2510348,
+   "score": 0.25104046,
    "languages": [
     "en"
    ]
@@ -67,7 +67,7 @@
     "en": "Gensou Suikoden II - Hiki Sakareshi Shukusei"
    },
    "contentRating": "safe",
-   "score": 0.24461623,
+   "score": 0.24462198,
    "languages": [
     "en"
    ]
@@ -78,10 +78,24 @@
     "en": "Layla to Mayonaka 3-ji no Daibouken"
    },
    "contentRating": "safe",
-   "score": 0.24434584,
+   "score": 0.24434754,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "4b41b78f-d59d-4a56-ab0e-c58fc864ef22",
+   "title": {
+    "en": "Junk the Black Shadow"
+   },
+   "contentRating": "safe",
+   "score": 0.24398093,
+   "languages": [
+    "en",
+    "id",
+    "pt-br",
+    "it"
    ]
   },
   {
@@ -90,61 +104,30 @@
     "en": "Shoukoku no Altair-san"
    },
    "contentRating": "safe",
-   "score": 0.24065271,
+   "score": 0.24065316,
    "languages": [
     "tr",
     "en"
    ]
   },
   {
-   "id": "0a32fadf-1976-4f78-85ef-4f04bae127f3",
+   "id": "d50cfb00-6bb7-4ec1-9ead-1ffb6e6b6496",
    "title": {
-    "en": "Yuusha Party wo Tsuihou Sareta \"Skill Supporter,\" Nakama no Sukiru wo Kaihou Shite Saikyou ni Nariagaru"
+    "en": "World End Solte"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "434fce68-4796-4d43-a38d-f79f0ee9103f",
-   "title": {
-    "en": "Sono Mukou no Mukougawa"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "fr",
-    "en"
+    "en",
+    "vi",
+    "pt-br",
+    "ru"
    ]
   },
   {
    "id": "6bb5b0a1-6bc9-495c-8762-2da7d292cec5",
    "title": {
     "en": "Fuguushoku \"Ningyou Tsukai\" no Nariagari - Bishoujo Ningyou to Saikyou Made Saikousoku de Nobori Tsumeru"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5575f7a6-3b3d-447b-ac74-21afee45b7f1",
-   "title": {
-    "en": "Sono Boukensha Kiken ni Tsuki"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5c84bc62-151c-4b1e-ab69-d85545689093",
-   "title": {
-    "en": "The Seven Deadly Sins: The Rain Forest Invites the Beginning"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -164,23 +147,44 @@
    ]
   },
   {
-   "id": "d50cfb00-6bb7-4ec1-9ead-1ffb6e6b6496",
+   "id": "5c84bc62-151c-4b1e-ab69-d85545689093",
    "title": {
-    "en": "World End Solte"
+    "en": "The Seven Deadly Sins: The Rain Forest Invites the Beginning"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2d58e605-71e2-49f9-a932-d7d2cb2c9a77",
+   "title": {
+    "en": "SCHOOOL!!!"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9f18938b-f466-4f74-b6f0-140dc28e8812",
+   "title": {
+    "en": "Senyuu."
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
     "en",
-    "vi",
-    "pt-br",
-    "ru"
+    "es",
+    "tr"
    ]
   },
   {
-   "id": "7f532337-0c2c-4a4a-b780-3984567a5efe",
+   "id": "0a32fadf-1976-4f78-85ef-4f04bae127f3",
    "title": {
-    "en": "A Banished Odd-Jobber Starts a New Life"
+    "en": "Yuusha Party wo Tsuihou Sareta \"Skill Supporter,\" Nakama no Sukiru wo Kaihou Shite Saikyou ni Nariagaru"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -189,5 +193,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-01T20:43:24+00:00"
+ "updatedAt": "2024-11-03T21:34:45+00:00"
 }

@@ -3,18 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Ushimitsu Gao"
+   "en": "Her Face At The Witching Hour"
   },
   "altTitles": [
    {
     "ja": "ウシミツガオ"
+   },
+   {
+    "ja-ro": "Ushimitsu Gao"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "\"If you encounter a ghost, think of something naughty.\"\nMegumi Sano (33 years old) is a housewife trying to conceive. She also has a fairly strong spiritual sensitivity.\nOne night, during sex with her husband, a ghost suddenly appears in their bedroom.\nHowever, the humiliation of being seen having boring sex outweighs the fear...\nFrom that day on, the ghost frequently appears in their bedroom, but what is his purpose...?\nA sexual horror story drawn by Paru Itagaki, the creator of \"BEASTARS\" and \"SANDA\"."
+  },
   "links": {
    "al": "183054",
    "ap": "ushimitsu-gao",
    "kt": "Ushimitsu-Gao",
+   "mal": "175386",
    "mu": "9ojmeti",
    "raw": "https://championcross.jp/series/5371e74139496"
   },
@@ -24,9 +30,10 @@
   "year": 2024,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
-   "es-la"
+   "es-la",
+   "en"
   ],
-  "latestUploadedChapter": "5d955992-154a-4d2d-bb01-8959566af1d7",
+  "latestUploadedChapter": "d7e5d604-6eaf-4262-8d2d-8422a4701d54",
   "tags": [
    {
     "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
@@ -89,18 +96,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -114,9 +109,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 11,
   "createdAt": "2024-10-16T22:03:03+00:00",
-  "updatedAt": "2024-10-17T19:36:19+00:00"
+  "updatedAt": "2024-11-03T01:18:09+00:00"
  },
  "relationships": [
   {

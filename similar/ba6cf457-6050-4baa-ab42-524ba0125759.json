@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d3d3730c-76a7-491a-a926-0cca4cf208aa",
+   "title": {
+    "en": "Punderworld"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "1ef70804-9d86-4af7-a80c-48f7e3973bdd",
    "title": {
     "en": "Soku Ochi Urenokori Onna Kishi Elf-san"
@@ -19,23 +30,12 @@
    ]
   },
   {
-   "id": "d3d3730c-76a7-491a-a926-0cca4cf208aa",
-   "title": {
-    "en": "Punderworld"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
    "id": "dc85456e-e53d-492f-8c22-1ac1b0920af5",
    "title": {
     "en": "Trust Me, Little Duke!"
    },
    "contentRating": "safe",
-   "score": 0.22972718,
+   "score": 0.22972952,
    "languages": [
     "pl",
     "pt-br",
@@ -59,7 +59,7 @@
     "en": "For My Hero"
    },
    "contentRating": "safe",
-   "score": 0.21332048,
+   "score": 0.2133288,
    "languages": [
     "en",
     "pt-br",
@@ -73,7 +73,7 @@
     "en": "Ichi Page de Owatta LoveCome"
    },
    "contentRating": "safe",
-   "score": 0.20969623,
+   "score": 0.20969488,
    "languages": [
     "ru",
     "id",
@@ -88,7 +88,7 @@
     "en": "Dragon King’s Son-In-Law"
    },
    "contentRating": "safe",
-   "score": 0.20691778,
+   "score": 0.20692466,
    "languages": [
     "id",
     "pt-br"
@@ -100,10 +100,23 @@
     "en": "The Flower That Swallowed the Beast"
    },
    "contentRating": "safe",
-   "score": 0.20644861,
+   "score": 0.20642956,
    "languages": [
     "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "bc988c94-a2eb-499a-9415-db69dd56a28e",
+   "title": {
+    "en": "I, Who Am Ignorant of This World, Became a Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.2055053,
+   "languages": [
     "es-la",
+    "pt-br",
     "en"
    ]
   },
@@ -113,70 +126,11 @@
     "en": "Pupillary Master"
    },
    "contentRating": "safe",
-   "score": 0.20234391,
+   "score": 0.20326588,
    "languages": [
     "en",
     "pt-br",
     "es-la"
-   ]
-  },
-  {
-   "id": "a04d5529-c869-4358-9e39-49f809050b5b",
-   "title": {
-    "en": "The Cool Classmate Whose Favorability Gradually Changes"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "es",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "467c94b9-60d0-4a83-b6b9-3f6aef29726c",
-   "title": {
-    "en": "Dear my Doll - Kimi to no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2a7ba330-e570-4713-9ea7-eb32f5f05d20",
-   "title": {
-    "en": "A World Ruled By Cats"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pl",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "770835de-cb11-4d94-a693-3205e5701518",
-   "title": {
-    "en": "Velvet Rose"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "fc3654e2-a856-477c-ba58-96eff2bc9006",
-   "title": {
-    "en": "Metamo Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br"
    ]
   },
   {
@@ -206,7 +160,58 @@
     "pt-br",
     "uk"
    ]
+  },
+  {
+   "id": "a04d5529-c869-4358-9e39-49f809050b5b",
+   "title": {
+    "en": "The Cool Classmate Whose Favorability Gradually Changes"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "es",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "18b0658f-2c1b-40a2-b1c4-de449b012b6c",
+   "title": {
+    "en": "I Tried Asking My Cool Girlfriend for a Favor"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "vi",
+    "pt-br",
+    "ro"
+   ]
+  },
+  {
+   "id": "2a7ba330-e570-4713-9ea7-eb32f5f05d20",
+   "title": {
+    "en": "A World Ruled By Cats"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pl",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "770835de-cb11-4d94-a693-3205e5701518",
+   "title": {
+    "en": "Velvet Rose"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-11-01T20:46:17+00:00"
+ "updatedAt": "2024-11-03T21:38:31+00:00"
 }

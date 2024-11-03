@@ -10,7 +10,10 @@
     "ja": "サンキューピッチ"
    },
    {
-    "ja-ro": "Sankyu Pitch"
+    "ja-ro": "Sankyuu Pitch"
+   },
+   {
+    "en": "Three-Ball Pitch"
    }
   ],
   "description": {
@@ -31,7 +34,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "2090f68b-3b20-4a97-804f-dc0dbb7ae120",
+  "latestUploadedChapter": "9dc255cd-d46e-4d5e-b7fc-4cbf1ca63cd7",
   "tags": [
    {
     "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
@@ -47,16 +50,18 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 10,
   "createdAt": "2024-09-02T04:21:33+00:00",
-  "updatedAt": "2024-10-16T16:40:08+00:00"
+  "updatedAt": "2024-11-02T18:03:42+00:00"
  },
  "relationships": [
   {
    "id": "592ef756-42fb-4668-85be-e8fa3dba6a45",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 住吉九"
+    },
     "booth": null,
     "createdAt": "2021-12-18T14:10:36+00:00",
     "fanBox": null,
@@ -70,9 +75,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-12-18T14:10:36+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/sumiyosikyu",
+    "updatedAt": "2024-11-02T18:49:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -82,7 +87,9 @@
    "id": "592ef756-42fb-4668-85be-e8fa3dba6a45",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 住吉九"
+    },
     "booth": null,
     "createdAt": "2021-12-18T14:10:36+00:00",
     "fanBox": null,
@@ -96,9 +103,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-12-18T14:10:36+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/sumiyosikyu",
+    "updatedAt": "2024-11-02T18:49:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

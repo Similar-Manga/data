@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I made a pact with a Succubus for Christmas."
+   "en": "I made a pact with a Succubus"
   },
   "altTitles": [
    {
@@ -15,44 +15,20 @@
    "raw": "https://twitter.com/hashimotokurara/status/1606252046725746689"
   },
   "originalLanguage": "ja",
-  "status": "completed",
+  "status": "ongoing",
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
    "id"
   ],
-  "latestUploadedChapter": "f40057e0-cc61-4d06-bff3-af28400df80c",
+  "latestUploadedChapter": "85e21821-f530-45ce-b3a2-ed8e9b8cf1e2",
   "tags": [
-   {
-    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Oneshot"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
    {
     "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
     "type": "tag",
     "attributes": {
      "name": {
       "en": "Demons"
-     },
-     "description": {},
-     "group": "theme",
-     "version": 1
-    }
-   },
-   {
-    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Office Workers"
      },
      "description": {},
      "group": "theme",
@@ -68,6 +44,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -97,9 +85,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 7,
   "createdAt": "2022-12-26T01:21:58+00:00",
-  "updatedAt": "2023-01-27T00:11:24+00:00"
+  "updatedAt": "2024-11-03T03:24:32+00:00"
  },
  "relationships": [
   {
@@ -159,16 +147,16 @@
    }
   },
   {
-   "id": "cf3cf1b1-80a8-4a21-88c1-e88e3fc2b01f",
+   "id": "cc2c626a-21d8-4588-bd41-33a0cce23963",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-12-26T01:22:08+00:00",
+    "createdAt": "2024-11-03T03:30:14+00:00",
     "description": "",
-    "fileName": "b9d55cc6-f5aa-42ab-a003-20ef1d71fe73.png",
+    "fileName": "1d3e9743-fa1f-4e7f-96c4-61763a7b505b.jpg",
     "locale": "ja",
-    "updatedAt": "2022-12-26T01:22:08+00:00",
+    "updatedAt": "2024-11-03T03:30:14+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

@@ -1,0 +1,190 @@
+{
+ "id": "7a8daad9-c002-4727-9db3-c5f9c264bb8e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Jimi na Ojisan, Jitsu wa Eiyu Datta. -Jikaku ga Nai mama Muso Shitetara, Mei no Dungeon Haishin de Sarasareteta yo desu"
+  },
+  "altTitles": [
+   {
+    "en": "The plain uncle was actually a hero. He was unconsciously invincible, and it seems he was exposed in his niece's dungeon stream."
+   },
+   {
+    "ja": "地味なおじさん、実は英雄でした。～自覚がないまま無双してたら、姪のダンジョン配信で晒されてたようです～"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://manga.nicovideo.jp/comic/70410"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-02T06:04:14+00:00",
+  "updatedAt": "2024-11-02T11:28:52+00:00"
+ },
+ "relationships": [
+  {
+   "id": "27558fdc-0cf7-422c-9034-26765d06a6ff",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-02T05:57:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Imano Yuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-02T05:57:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b08cb38f-59d9-43d7-80fa-2f6a0c6e9bb5",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n三河ごーすと"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mikawa Ghost",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/mikawaghost",
+    "updatedAt": "2023-06-29T01:45:59+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "27558fdc-0cf7-422c-9034-26765d06a6ff",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-02T05:57:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Imano Yuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-02T05:57:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4d995c74-f713-4bb5-a20d-cefaaed4d3cb",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-02T06:04:15+00:00",
+    "description": "",
+    "fileName": "da6c724b-6270-40d6-b10a-c7390d32f549.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-02T06:04:15+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "17d7d055-ef9e-4c09-8cf7-5ac14c76cc9d",
+   "type": "creator"
+  }
+ ]
+}

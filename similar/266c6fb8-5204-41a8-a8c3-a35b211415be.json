@@ -11,7 +11,7 @@
     "en": "Blue Orchestra"
    },
    "contentRating": "safe",
-   "score": 0.2543628,
+   "score": 0.2543633,
    "languages": [
     "en",
     "es-la",
@@ -27,7 +27,7 @@
     "en": "Kono Oto Tomare!"
    },
    "contentRating": "safe",
-   "score": 0.24488854,
+   "score": 0.24488196,
    "languages": [
     "fr",
     "vi",
@@ -46,7 +46,7 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.24062404,
+   "score": 0.24064516,
    "languages": [
     "en",
     "pt-br"
@@ -58,7 +58,7 @@
     "en": "Hoshi no Alien ni Doryokushou wo."
    },
    "contentRating": "safe",
-   "score": 0.23045759,
+   "score": 0.23046042,
    "languages": [
     "fr",
     "en"
@@ -70,7 +70,7 @@
     "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
    },
    "contentRating": "safe",
-   "score": 0.22962862,
+   "score": 0.22962816,
    "languages": [
     "en",
     "pt-br",
@@ -89,7 +89,7 @@
     "en": "School Back"
    },
    "contentRating": "safe",
-   "score": 0.22813673,
+   "score": 0.22813715,
    "languages": [
     "vi",
     "es-la",
@@ -99,30 +99,12 @@
    ]
   },
   {
-   "id": "127d4af7-4062-45ec-afb7-b8cf33deb3db",
-   "title": {
-    "en": "Welcome to the Ballroom"
-   },
-   "contentRating": "safe",
-   "score": 0.2248985,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "pl",
-    "ar",
-    "es",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
    "id": "0dc2b20c-ff76-4d0b-8923-b24173f2c10e",
    "title": {
     "en": "Gareki! - Zoukei Otome no Houkago"
    },
    "contentRating": "safe",
-   "score": 0.22328077,
+   "score": 0.22323632,
    "languages": [
     "en",
     "es-la"
@@ -134,7 +116,7 @@
     "en": "Kodomo Gakkyuu"
    },
    "contentRating": "safe",
-   "score": 0.21951902,
+   "score": 0.21952517,
    "languages": [
     "en"
    ]
@@ -145,15 +127,42 @@
     "en": "Jikanwari no Soto"
    },
    "contentRating": "safe",
-   "score": 0.21782407,
+   "score": 0.21782364,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "c3fbfe6e-5e1c-4100-957a-c432950643ed",
+   "id": "01f70b35-b313-46f0-b22e-16c8e564b449",
    "title": {
-    "en": "Esora Hikouki"
+    "en": "Sono Shukujo wa Guuzou to Naru (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "en",
+    "zh"
+   ]
+  },
+  {
+   "id": "a69377ee-b842-45f8-983b-0b523b695880",
+   "title": {
+    "en": "Beat \u0026 Motion"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "vi",
+    "fr",
+    "en",
+    "ru",
+    "uk"
+   ]
+  },
+  {
+   "id": "f313a739-ab12-40ed-86b2-a403c4f7573f",
+   "title": {
+    "en": "Aozakura Bouei Daigakukou Monogatari"
    },
    "contentRating": "safe",
    "score": 0.2163632,
@@ -162,9 +171,9 @@
    ]
   },
   {
-   "id": "f313a739-ab12-40ed-86b2-a403c4f7573f",
+   "id": "c3fbfe6e-5e1c-4100-957a-c432950643ed",
    "title": {
-    "en": "Aozakura Bouei Daigakukou Monogatari"
+    "en": "Esora Hikouki"
    },
    "contentRating": "safe",
    "score": 0.2163632,
@@ -185,29 +194,6 @@
    ]
   },
   {
-   "id": "01f70b35-b313-46f0-b22e-16c8e564b449",
-   "title": {
-    "en": "Sono Shukujo wa Guuzou to Naru (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en",
-    "zh"
-   ]
-  },
-  {
-   "id": "5eed8b4c-1965-43df-a3c5-74a5f58a7283",
-   "title": {
-    "en": "Bakuman.: Age 13, Age 14"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "a1c2cd9c-9e58-46ad-adb5-6ce0b354f23f",
    "title": {
     "en": "Kurage no Uta"
@@ -218,7 +204,19 @@
     "en",
     "fr"
    ]
+  },
+  {
+   "id": "bbb996fa-5d34-49ae-bd09-bdae00431eb5",
+   "title": {
+    "en": "E ni Kaita Mochi wo Kaita Mochi"
+   },
+   "contentRating": "safe",
+   "score": 0.2137796,
+   "languages": [
+    "es-la",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-01T19:35:54+00:00"
+ "updatedAt": "2024-11-03T20:24:39+00:00"
 }

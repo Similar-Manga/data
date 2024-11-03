@@ -10,10 +10,10 @@
     "ja": "あらがえ！ダークエルフちゃん"
    },
    {
-    "en": "Resist! Dark Elf-chan"
+    "en": "Fight back! Dark Elf-chan"
    },
    {
-    "ja-ro": "Aragae! Dark Elf-chan"
+    "en": "Resist! Dark Elf-chan"
    }
   ],
   "description": {
@@ -41,6 +41,18 @@
   ],
   "latestUploadedChapter": "a767a2b7-68e1-4588-896c-9c245285b5a5",
   "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -78,6 +90,18 @@
     }
    },
    {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -91,9 +115,9 @@
    }
   ],
   "state": "published",
-  "version": 18,
+  "version": 21,
   "createdAt": "2021-10-10T08:27:46+00:00",
-  "updatedAt": "2024-09-28T18:00:29+00:00"
+  "updatedAt": "2024-11-02T16:55:05+00:00"
  },
  "relationships": [
   {

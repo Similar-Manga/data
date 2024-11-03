@@ -92,6 +92,18 @@
     }
    },
    {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
     "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
     "type": "tag",
     "attributes": {
@@ -141,9 +153,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2024-10-12T13:45:27+00:00",
-  "updatedAt": "2024-10-26T19:23:10+00:00"
+  "updatedAt": "2024-11-02T15:27:13+00:00"
  },
  "relationships": [
   {
@@ -173,17 +185,17 @@
    }
   },
   {
-   "id": "8fe6a5b3-865f-45cc-bef5-82ea7735609a",
+   "id": "e190ddd1-d68c-4ff0-90fd-d1dfadf49996",
    "type": "author",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2024-11-02T15:25:47+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Goro Sasato",
+    "name": "Togoro Sasa",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -191,7 +203,7 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "updatedAt": "2024-11-02T15:25:47+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -225,17 +237,17 @@
    }
   },
   {
-   "id": "8fe6a5b3-865f-45cc-bef5-82ea7735609a",
+   "id": "e190ddd1-d68c-4ff0-90fd-d1dfadf49996",
    "type": "artist",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2024-11-02T15:25:47+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Goro Sasato",
+    "name": "Togoro Sasa",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -243,7 +255,7 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "updatedAt": "2024-11-02T15:25:47+00:00",
     "version": 1,
     "website": null,
     "weibo": null,

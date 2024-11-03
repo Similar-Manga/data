@@ -1,0 +1,165 @@
+{
+ "id": "2cedeee1-bcd4-4634-9079-e794254b4795",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Yomekui"
+  },
+  "altTitles": [
+   {
+    "ja": "嫁食い"
+   }
+  ],
+  "description": {
+   "en": "Hikaru marries into the rich Tsukigami family in order to save his poor family. However, her husband, Byakuya, does not accept her as his wife. He says, “If you become my wife, you will be devoured by me.\" What is the secret of Byakuya, who exudes a cold yet beautiful charm that makes her seem inhuman, and the family of the Tsukigami? \n\nA Japanese-style fantasy marriage tale begins!"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/%E5%AB%81%E9%A3%9F%E3%81%84-1-BE-LOVE-KC/dp/4065375665?source=ps-sl-shoppingads-lpcontext\u0026ref_=fplfs\u0026ref_=fplfs\u0026psc=1\u0026smid=AN1VRQENFRJN5",
+   "bw": "dea36e0440-71b5-4872-83f3-7670ca3eb739",
+   "mu": "m528jc1",
+   "raw": "https://palcy.jp/comics/2213"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-02T17:54:39+00:00",
+  "updatedAt": "2024-11-02T17:55:11+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a51a7c18-d046-4d7d-84bd-f0589bebbab8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-02T17:50:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yumedono Mimoza",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-02T17:50:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a51a7c18-d046-4d7d-84bd-f0589bebbab8",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-02T17:50:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yumedono Mimoza",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-02T17:50:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fc5baada-d779-4707-803d-5b95665e9c6e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-02T17:54:46+00:00",
+    "description": "",
+    "fileName": "f6e5c98e-151b-4c30-a840-6d4c7f501c54.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-02T17:54:46+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

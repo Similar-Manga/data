@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The World of That Otome Game is Tough for Us"
+   "en": "Ano Otome Game wa Oretachi ni Kibishii Sekai desu"
   },
   "altTitles": [
    {
@@ -17,6 +17,9 @@
    },
    {
     "ja-ro": "AnoSeka"
+   },
+   {
+    "en": "The World of That Otome Game is Tough for Us"
    }
   ],
   "description": {
@@ -25,8 +28,9 @@
    "ru": "Леон переродился мобом в мире «отомэ-игры», невольное прохождение которой спихнула на него младшая сестра. Полный отчаяния в мире превосходства женщин, он тем не менее пытается вести спокойную жизнь, нигде не отсвечивая.\n\nВ то же время Мария, также переродившаяся в этом мире, строит планы по заполучению положения главной героини и созданию «обратного гарема» с принцем и другими парнями, влюбившихся в неё с первого взгляда, но…\n\nКакая же судьба уготована Леону и Марии, кто сделали лишь один выбор, отличающийся от изначального?!"
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/-/en/%E7%A6%8F%E5%8E%9F-%E8%93%AE%E5%A3%AB-ebook/dp/B0CZ3TMJWR/ref=tmm_kin_swatch_0?_encoding=UTF8\u0026dib_tag=se\u0026dib=eyJ2IjoiMSJ9.nCc7uw4cmOLIK4F5TI8tcqwsrDdwTiH09i4o-f1zsvg6xaC6yQTiS9D1g2wSfqigGoIYtdaZx0Usb7I_HDtHlhx2bZ8LbDluP4qhDXFKBV-uOcSQ3G-40NiBso-EOkGmvq2Z5IuvHTRnI1nQSylElz0PGHdeZ14r1mUrXSQKTwvI4gofg5DK86Q8dZPB9N8-PTKAtEtJMZbCOiL3mq24SlkRJiiz40bzoFr424hXx9w.Gi39oeukYds7I-yfpdyyMKjer1JCLRxRb2MzW1mfsYc\u0026qid=1712402904\u0026sr=1-13",
+   "amz": "https://www.amazon.co.jp/-/en/福原-蓮士-ebook/dp/B0CZ3TMJWR/ref=tmm_kin_swatch_0?_encoding=UTF8\u0026dib_tag=se\u0026dib=eyJ2IjoiMSJ9.nCc7uw4cmOLIK4F5TI8tcqwsrDdwTiH09i4o-f1zsvg6xaC6yQTiS9D1g2wSfqigGoIYtdaZx0Usb7I_HDtHlhx2bZ8LbDluP4qhDXFKBV-uOcSQ3G-40NiBso-EOkGmvq2Z5IuvHTRnI1nQSylElz0PGHdeZ14r1mUrXSQKTwvI4gofg5DK86Q8dZPB9N8-PTKAtEtJMZbCOiL3mq24SlkRJiiz40bzoFr424hXx9w.Gi39oeukYds7I-yfpdyyMKjer1JCLRxRb2MzW1mfsYc\u0026qid=1712402904\u0026sr=1-13",
    "ap": "ano-otomege-wa-oretachi-ni-kibishii-sekai-desu",
+   "bw": "series/464260/list",
    "kt": "ano-otome-game-wa-oretachi-kibishii-sekai-desu",
    "mal": "159854",
    "mu": "pg5gqu0",
@@ -191,18 +195,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -240,9 +232,9 @@
    }
   ],
   "state": "published",
-  "version": 21,
+  "version": 24,
   "createdAt": "2023-06-13T07:41:10+00:00",
-  "updatedAt": "2024-05-06T11:50:05+00:00"
+  "updatedAt": "2024-11-02T12:28:07+00:00"
  },
  "relationships": [
   {
@@ -300,16 +292,16 @@
    }
   },
   {
-   "id": "240e491e-53ca-4849-84a8-436310ac17d1",
+   "id": "df150d8c-4f2d-4c31-a6b8-a72ac6246eda",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-04-09T14:20:33+00:00",
+    "createdAt": "2024-11-01T09:16:26+00:00",
     "description": "",
-    "fileName": "2d68e791-0eb3-499c-99dc-fc18f879b6a9.png",
+    "fileName": "716a459e-d2b5-4fbf-a4aa-98fadb813095.jpg",
     "locale": "ja",
-    "updatedAt": "2024-04-09T14:20:33+00:00",
+    "updatedAt": "2024-11-01T09:16:26+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

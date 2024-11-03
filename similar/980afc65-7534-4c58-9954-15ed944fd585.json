@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "bb9d7179-8465-45ea-9806-215b38f2be7d",
-   "title": {
-    "en": "Onihime"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2f86d265-fc88-41db-929e-5dab9ac74352",
    "title": {
     "en": "Mario"
@@ -34,12 +23,45 @@
    ]
   },
   {
+   "id": "bb9d7179-8465-45ea-9806-215b38f2be7d",
+   "title": {
+    "en": "Onihime"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d139f4b1-b782-4fdd-b006-35520f14a847",
+   "title": {
+    "en": "Sekishin"
+   },
+   "contentRating": "safe",
+   "score": 0.24601738,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5505e114-a90b-4d5b-a3a3-de24fc313a95",
    "title": {
     "en": "Goblin Knight"
    },
    "contentRating": "safe",
-   "score": 0.23529723,
+   "score": 0.2352804,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2ce30c28-220b-4d44-91c1-3239e7a737a6",
+   "title": {
+    "en": "Curry Cook: The Holy Man Of Love And Fury"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
@@ -60,23 +82,12 @@
    ]
   },
   {
-   "id": "2ce30c28-220b-4d44-91c1-3239e7a737a6",
-   "title": {
-    "en": "Curry Cook: The Holy Man Of Love And Fury"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
    "title": {
     "en": "Minds"
    },
    "contentRating": "safe",
-   "score": 0.23107795,
+   "score": 0.23106684,
    "languages": [
     "en",
     "tr",
@@ -89,18 +100,7 @@
     "en": "Mobile Fighter G Gundam Side Story: The Next Generation"
    },
    "contentRating": "safe",
-   "score": 0.23084337,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2616f509-fc3d-48ca-9891-4e4723aa0317",
-   "title": {
-    "en": "Mobile Fighter G Gundam Side Story: Tower of Death"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.23084718,
    "languages": [
     "en"
    ]
@@ -118,42 +118,23 @@
    ]
   },
   {
-   "id": "c3f01e7a-01e0-4889-90bf-e4850881c980",
+   "id": "693e5619-fdcb-4a2c-b65b-083d9c431318",
    "title": {
-    "en": "Tiger Dragon Brothers"
+    "en": "Urooboe Ouroboros!"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
     "pl",
-    "id",
-    "pt-br",
-    "uk",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
-   "title": {
-    "en": "Hello Baby"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
     "ca",
-    "en",
-    "hu",
-    "pl",
-    "pt-br",
-    "ro",
-    "de"
+    "id",
+    "en"
    ]
   },
   {
-   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
+   "id": "2616f509-fc3d-48ca-9891-4e4723aa0317",
    "title": {
-    "en": "Chingiri"
+    "en": "Mobile Fighter G Gundam Side Story: Tower of Death"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -174,17 +155,47 @@
    ]
   },
   {
-   "id": "693e5619-fdcb-4a2c-b65b-083d9c431318",
+   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
    "title": {
-    "en": "Urooboe Ouroboros!"
+    "en": "Chingiri"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
+   "title": {
+    "en": "Hello Baby"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "ca",
+    "en",
+    "hu",
+    "pl",
+    "pt-br",
+    "ro",
+    "de"
+   ]
+  },
+  {
+   "id": "c3f01e7a-01e0-4889-90bf-e4850881c980",
+   "title": {
+    "en": "Tiger Dragon Brothers"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
     "pl",
-    "ca",
     "id",
-    "en"
+    "pt-br",
+    "uk",
+    "en",
+    "it"
    ]
   },
   {
@@ -193,22 +204,11 @@
     "en": "Parasite B"
    },
    "contentRating": "safe",
-   "score": 0.20521607,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f949287f-13b9-42b2-a92a-fa01f77b050b",
-   "title": {
-    "en": "Wu Ling Hou"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.20518497,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-01T20:32:54+00:00"
+ "updatedAt": "2024-11-03T21:21:12+00:00"
 }

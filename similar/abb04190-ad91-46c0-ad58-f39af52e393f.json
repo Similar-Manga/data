@@ -11,7 +11,7 @@
     "en": "Hokusou Shinsengumi"
    },
    "contentRating": "safe",
-   "score": 0.28099945,
+   "score": 0.2810655,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Hakuouki - Junrenka"
    },
    "contentRating": "safe",
-   "score": 0.21220933,
+   "score": 0.21213187,
    "languages": [
     "en",
     "pl"
@@ -64,17 +64,6 @@
    ]
   },
   {
-   "id": "13aba323-3f3d-4064-858b-9668032d0ca1",
-   "title": {
-    "en": "Tenka Ichi"
-   },
-   "contentRating": "safe",
-   "score": 0.19422014,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "84b81252-6061-4e9b-b0de-d6823405ffa2",
    "title": {
     "en": "Knights of Alfheim"
@@ -87,12 +76,23 @@
    ]
   },
   {
+   "id": "13aba323-3f3d-4064-858b-9668032d0ca1",
+   "title": {
+    "en": "Tenka Ichi"
+   },
+   "contentRating": "safe",
+   "score": 0.19422014,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "882bd9b0-7486-4b3b-aed5-2234fd87702c",
    "title": {
     "en": "Bakumatsu Renka Karyuu Kenshiden"
    },
    "contentRating": "safe",
-   "score": 0.18901403,
+   "score": 0.1890252,
    "languages": [
     "en"
    ]
@@ -110,14 +110,17 @@
    ]
   },
   {
-   "id": "439a7f7e-c43c-4dca-871f-348ab672e72b",
+   "id": "07be30a5-45fe-4820-8298-6cf525debf6c",
    "title": {
-    "en": "Usurai ni Saku"
+    "en": "Nengara Nenbyaku Ansatsu Renka"
    },
    "contentRating": "safe",
    "score": 0.17433435,
    "languages": [
-    "en"
+    "en",
+    "vi",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -134,20 +137,6 @@
    ]
   },
   {
-   "id": "07be30a5-45fe-4820-8298-6cf525debf6c",
-   "title": {
-    "en": "Nengara Nenbyaku Ansatsu Renka"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
-    "en",
-    "vi",
-    "pt-br",
-    "ru"
-   ]
-  },
-  {
    "id": "9bfe27f5-b7dd-4caf-8368-d640e14e65a3",
    "title": {
     "en": "Babel no Tegami"
@@ -156,17 +145,6 @@
    "score": 0.17433435,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "fdcb49b8-44de-487a-a1dd-526c5ac9a4f9",
-   "title": {
-    "en": "Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.17433435,
-   "languages": [
     "en"
    ]
   },
@@ -183,6 +161,28 @@
    ]
   },
   {
+   "id": "fdcb49b8-44de-487a-a1dd-526c5ac9a4f9",
+   "title": {
+    "en": "Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.17433435,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "439a7f7e-c43c-4dca-871f-348ab672e72b",
+   "title": {
+    "en": "Usurai ni Saku"
+   },
+   "contentRating": "safe",
+   "score": 0.17433435,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "eb4ddae9-df2c-47c3-a0cc-060f3eae0da9",
    "title": {
     "en": "Strategy of the Pervert Prince's Beloved Wife"
@@ -194,5 +194,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-01T20:40:26+00:00"
+ "updatedAt": "2024-11-03T21:30:54+00:00"
 }

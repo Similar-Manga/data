@@ -1,0 +1,236 @@
+{
+ "id": "7b6b5462-fc56-43ff-850d-b9bf5c1e98a9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Yo-kai Watch 1 4Koma"
+  },
+  "altTitles": [
+   {
+    "ja": "妖怪ウォッチ 4コマ"
+   },
+   {
+    "ja-ro": "Yōkai u~otchi 4Koma"
+   }
+  ],
+  "description": {
+   "en": "The 4Koma manga that are inside the Yo-kai Watch 1 game.",
+   "es": "Los manga 4koma que están dentro del juego de Yo-kai Watch 1.",
+   "ja": "ゲーム「妖怪ウォッチ1」に収録されている4コマ漫画です。"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2013,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "es"
+  ],
+  "latestUploadedChapter": "4a7f4da0-dd34-45b8-834c-fde504d1cd23",
+  "tags": [
+   {
+    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Official Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-02T18:32:55+00:00",
+  "updatedAt": "2024-11-02T19:42:10+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c26435d2-31f2-485e-bbf2-201c497ce4c9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Konishi Noriyuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d990079b-83e1-4fbc-8236-8e8b15d29e37",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Level 5",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c26435d2-31f2-485e-bbf2-201c497ce4c9",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Konishi Noriyuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d990079b-83e1-4fbc-8236-8e8b15d29e37",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Level 5",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a2b4c446-2682-4979-9741-6abd3bea7de4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-02T18:32:58+00:00",
+    "description": "",
+    "fileName": "d2d88a1f-393f-432e-91ee-574a072aedb0.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-02T18:32:58+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "500ac84c-959c-4d6d-bea4-1ebcee2aea67",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "b13c292f-976c-42b4-8296-f982be4a28a5",
+   "type": "creator"
+  }
+ ]
+}

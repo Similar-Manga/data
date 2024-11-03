@@ -11,7 +11,7 @@
     "en": "Swordsman Roulette Battler"
    },
    "contentRating": "safe",
-   "score": 0.2717376
+   "score": 0.27162614
   },
   {
    "id": "e17a0d26-c41a-4874-bc34-860ff2fecda5",
@@ -19,7 +19,7 @@
     "en": "Jian Lin"
    },
    "contentRating": "safe",
-   "score": 0.25944299
+   "score": 0.2594024
   },
   {
    "id": "a1b35f72-a7de-46bf-a6c2-fe60992efd79",
@@ -27,7 +27,18 @@
     "en": "The Ring of the Seven Worlds"
    },
    "contentRating": "safe",
-   "score": 0.25155106,
+   "score": 0.25154328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b4af43f1-6072-4511-ad04-c4cd365cb7ef",
+   "title": {
+    "en": "Shadow Hack"
+   },
+   "contentRating": "safe",
+   "score": 0.24395081,
    "languages": [
     "en"
    ]
@@ -38,18 +49,7 @@
     "en": "The Beauty and the Beast"
    },
    "contentRating": "safe",
-   "score": 0.24394919
-  },
-  {
-   "id": "b4af43f1-6072-4511-ad04-c4cd365cb7ef",
-   "title": {
-    "en": "Shadow Hack"
-   },
-   "contentRating": "safe",
-   "score": 0.24394348,
-   "languages": [
-    "en"
-   ]
+   "score": 0.24391973
   },
   {
    "id": "d4469677-4aca-453e-87e6-d1ef9ea67335",
@@ -57,7 +57,7 @@
     "en": "Technoroid: OVERMIND"
    },
    "contentRating": "safe",
-   "score": 0.24361797
+   "score": 0.2436174
   },
   {
    "id": "087a3b02-5335-451e-a421-f484b884e581",
@@ -65,7 +65,7 @@
     "en": "Koushaku-ke kara Tsuihousareta Ore, Henkyou no Saikyou Kishidan de Eiyuu to naru"
    },
    "contentRating": "safe",
-   "score": 0.243534
+   "score": 0.24347797
   },
   {
    "id": "1eee0b1d-bbf3-413f-8aaf-b4be5ae8efeb",
@@ -73,7 +73,7 @@
     "en": "Room of Swords"
    },
    "contentRating": "safe",
-   "score": 0.23974736,
+   "score": 0.23969561,
    "languages": [
     "es-la"
    ]
@@ -84,7 +84,7 @@
     "en": "Shinigami Hakushaku wa Yuuutsu"
    },
    "contentRating": "safe",
-   "score": 0.23818351
+   "score": 0.23818791
   },
   {
    "id": "f9aada04-49fb-4b74-a5e5-1e533b29b92f",
@@ -92,7 +92,7 @@
     "en": "The Jet Black Hedgehog: Shadow the Hedgehog"
    },
    "contentRating": "safe",
-   "score": 0.23776749,
+   "score": 0.2377782,
    "languages": [
     "pt-br",
     "en",
@@ -106,38 +106,11 @@
     "en": "The Brilliant Healer's New Life in the Shadows"
    },
    "contentRating": "safe",
-   "score": 0.23328789,
+   "score": 0.23329446,
    "languages": [
     "es-la",
     "en"
    ]
-  },
-  {
-   "id": "249f5de8-38d2-4cbd-b783-ca0589f1e7b4",
-   "title": {
-    "en": "Tomahawk Angel"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "91d70056-bdef-473e-b4e6-9221ad87f986",
-   "title": {
-    "en": "Majo no Housekibako"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
-   "id": "efda81ea-1169-4c3b-a04c-3f12ba4a6d1f",
-   "title": {
-    "en": "Ain Raaga"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
   },
   {
    "id": "3a2f12d3-0c50-4412-8cf6-9737b2fd58a9",
@@ -151,13 +124,43 @@
    ]
   },
   {
-   "id": "c0755a50-d25e-4d47-a018-0c88c12fb12f",
+   "id": "cae2278d-f8e8-4a61-9058-f4096508f5ab",
    "title": {
-    "en": "Tako to Ika wa Isogashii"
+    "en": "Tomorrow's God Land"
    },
    "contentRating": "safe",
    "score": 0.23328476
+  },
+  {
+   "id": "7cb2abf3-f1d6-403e-b3a7-21d38cbf0b05",
+   "title": {
+    "en": "Michika to Hoshi no Uta"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
+  },
+  {
+   "id": "d560f679-48a6-421e-ad44-ec982e253232",
+   "title": {
+    "en": "Ultima: The Fall of Magincia"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "021b80da-a6ef-4cc4-ad13-dd22e4b605b2",
+   "title": {
+    "en": "Agent Boo"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-01T20:48:22+00:00"
+ "updatedAt": "2024-11-03T21:41:13+00:00"
 }

@@ -1,0 +1,190 @@
+{
+ "id": "6567955a-a5b8-4ad9-ad54-c08ecd42f9c0",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "There Are No Bad Heros in This World"
+  },
+  "altTitles": [
+   {
+    "en": "There are No Bad Heros In the World"
+   },
+   {
+    "en": "There’s No Such Thing as a Bad Hero in the World"
+   },
+   {
+    "ko": "세상에 나쁜 용사는 없다"
+   }
+  ],
+  "description": {
+   "en": "“A man once called the strongest in the world. The heavyweight champion of the world’s largest martial arts league. Choi Hyun-seok, who was once the mightiest man, begins a new life as a hero in another world after his death. ‘A hero who monopolizes wealth, fame, and beautiful women!’ Dreaming of a glorious future, he arrives in the other world, only to encounter a monstrous beast with a head one size larger than his own. The monster, a high-ranking officer of the Demon King’s army, asked: ‘Hero? Are you the so-called hero?’ ‘Uh… I guess I’m the hero…?’ And so, hell began.”"
+  },
+  "links": {
+   "mu": "g1v9l2l"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-11-02T11:03:42+00:00",
+  "updatedAt": "2024-11-03T13:11:21+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c2949a97-300c-4169-870d-5a5ad2c7f0e8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hansol",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-06-20T07:14:31+00:00",
+    "version": 2,
+    "website": "https://www.instagram.com/hanss0l",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c2949a97-300c-4169-870d-5a5ad2c7f0e8",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hansol",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-06-20T07:14:31+00:00",
+    "version": 2,
+    "website": "https://www.instagram.com/hanss0l",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7cff6e67-2513-4631-aae8-96aa83441f34",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-02T11:03:58+00:00",
+    "description": "",
+    "fileName": "525e2c18-8aaf-4c72-a6da-fe9de0c8048a.png",
+    "locale": "ko",
+    "updatedAt": "2024-11-02T11:03:58+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "165d938b-5915-4ff6-9a27-a32b47af7c94",
+   "type": "creator"
+  }
+ ]
+}

@@ -75,18 +75,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -100,9 +88,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-03-23T07:32:07+00:00",
-  "updatedAt": "2023-12-15T22:55:12+00:00"
+  "updatedAt": "2024-11-03T00:46:10+00:00"
  },
  "relationships": [
   {
@@ -158,16 +146,16 @@
    }
   },
   {
-   "id": "f643d26e-0609-4fc7-9fee-6ecae9efaf2d",
+   "id": "583c252c-1c55-4f4f-94bf-500afb35bff2",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:05:32+00:00",
+    "createdAt": "2021-05-23T06:31:49+00:00",
     "description": "",
-    "fileName": "0d109b47-8767-452a-9b5b-df85aa4c1eec.jpg",
+    "fileName": "a702dc28-5e10-4b1c-9d90-e6dd4f7705f7.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:05:32+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:31:49+00:00",
+    "version": 2,
+    "volume": "3"
    }
   }
  ]

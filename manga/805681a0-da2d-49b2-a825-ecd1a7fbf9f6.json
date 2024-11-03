@@ -1,0 +1,147 @@
+{
+ "id": "805681a0-da2d-49b2-a825-ecd1a7fbf9f6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Yuujin no Sougi"
+  },
+  "altTitles": [
+   {
+    "en": "Funeral For a Friend"
+   },
+   {
+    "ja": "友人の葬儀"
+   }
+  ],
+  "description": {
+   "en": "While attending their friend's funeral, Sae and Mei are forced to confront and reflect on their mortality.\nAn existential one-shot with plenty of 90's references courtesy of Asada Nemui!"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "1",
+  "publicationDemographic": "josei",
+  "status": "completed",
+  "year": 2014,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "cd47cb72-fcec-4e11-ab3d-a979436f00d9",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-03T18:52:46+00:00",
+  "updatedAt": "2024-11-03T18:53:48+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c7f5993a-3c2e-4435-96d1-ae677d73ff53",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\n朝田ねむい"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asada Nemui",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "http://twitter.com/asadanemui",
+    "updatedAt": "2023-12-30T03:12:26+00:00",
+    "version": 2,
+    "website": "http://asadanemui.blog.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c7f5993a-3c2e-4435-96d1-ae677d73ff53",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\n朝田ねむい"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asada Nemui",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "http://twitter.com/asadanemui",
+    "updatedAt": "2023-12-30T03:12:26+00:00",
+    "version": 2,
+    "website": "http://asadanemui.blog.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cb10702a-1549-4fcb-adcc-0acf252fb515",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-03T18:52:55+00:00",
+    "description": "",
+    "fileName": "c0fa45dc-2361-4532-b1af-72bb7c68209e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-03T18:52:55+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "3901f0bf-af34-4fab-8887-a934190b8a17",
+   "type": "creator"
+  }
+ ]
+}

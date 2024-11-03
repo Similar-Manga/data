@@ -26,7 +26,7 @@
   "originalLanguage": "ja",
   "lastChapter": "5",
   "status": "completed",
-  "contentRating": "safe",
+  "contentRating": "erotica",
   "availableTranslatedLanguages": [
    "en"
   ],
@@ -81,6 +81,18 @@
     }
    },
    {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
     "type": "tag",
     "attributes": {
@@ -101,6 +113,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -154,9 +178,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-01-22T14:52:35+00:00",
-  "updatedAt": "2022-04-04T02:07:38+00:00"
+  "updatedAt": "2024-11-01T21:49:16+00:00"
  },
  "relationships": [
   {

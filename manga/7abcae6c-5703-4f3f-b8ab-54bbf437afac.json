@@ -1,0 +1,140 @@
+{
+ "id": "7abcae6c-5703-4f3f-b8ab-54bbf437afac",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kyatapi Land"
+  },
+  "altTitles": [
+   {
+    "ja": "きゃたぴランド"
+   }
+  ],
+  "description": {},
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DFZT8R3F",
+   "bw": "de34bf6dad-466a-44d8-8044-92b45558f744",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=きゃたぴランド\u0026opt.exclude_prx=on\u0026order=reldesc",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/846218/",
+   "mu": "bf7ytw6",
+   "raw": "https://share.ganma.jp/magazines/kyatapi"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-03T04:53:51+00:00",
+  "updatedAt": "2024-11-03T04:56:51+00:00"
+ },
+ "relationships": [
+  {
+   "id": "040007e0-6ec8-47b1-9f67-1fa8cd44faea",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-08-20T21:32:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kyata",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/56689044",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kyata_ti666",
+    "updatedAt": "2022-08-20T21:32:46+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "040007e0-6ec8-47b1-9f67-1fa8cd44faea",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-08-20T21:32:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kyata",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/56689044",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kyata_ti666",
+    "updatedAt": "2022-08-20T21:32:46+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6bc28f2e-e6a2-412d-b748-31993044248e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-03T04:53:55+00:00",
+    "description": "",
+    "fileName": "55166949-7c94-4eef-b819-d90747adb7f7.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-03T04:53:55+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "5220401f-85e4-4e09-887b-dd56bb337880",
+   "type": "creator"
+  }
+ ]
+}

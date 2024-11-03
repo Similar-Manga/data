@@ -24,7 +24,7 @@
    "al": "162007",
    "amz": "https://www.amazon.co.jp/dp/B0CQK3LYS2",
    "ap": "chiguhagu-trick",
-   "bw": "series/449388",
+   "bw": "series/449388/list",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2933097",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/804265/",
    "mal": "167355",
@@ -76,24 +76,12 @@
      "group": "theme",
      "version": 1
     }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 11,
   "createdAt": "2023-12-19T08:30:40+00:00",
-  "updatedAt": "2024-02-16T16:14:42+00:00"
+  "updatedAt": "2024-11-02T15:36:46+00:00"
  },
  "relationships": [
   {
@@ -149,16 +137,16 @@
    }
   },
   {
-   "id": "48d0e8ce-de6c-4f8e-81ad-ee80545db183",
+   "id": "b8ea5698-b447-47e9-ac01-5ad41b6c23b0",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-12-19T22:41:30+00:00",
-    "description": "Volume Cover From Amazon",
-    "fileName": "9002cf01-b69b-4fe2-8395-49e85bde81fa.jpg",
+    "createdAt": "2024-11-02T15:38:12+00:00",
+    "description": "",
+    "fileName": "30b4814b-cfd6-442b-98ce-1c97bcf072a0.jpg",
     "locale": "ja",
-    "updatedAt": "2023-12-19T22:41:30+00:00",
+    "updatedAt": "2024-11-02T15:38:12+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

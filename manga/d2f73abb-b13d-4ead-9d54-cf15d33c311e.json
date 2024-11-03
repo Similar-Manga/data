@@ -3,11 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Likeability Score with the Gal will Increase by the Number of Likes"
+   "en": "Ii ne no Kazu Dake Koukando ga Agaru Gyaru"
   },
   "altTitles": [
    {
     "ja": "いいねの数だけ好感度が上がるギャル"
+   },
+   {
+    "ja-ro": "Iine no Kazu Dake Koukando ga Agaru Gal"
+   },
+   {
+    "en": "The Likeability Score with the Gal will Increase by the Number of Likes"
    },
    {
     "id": "Tingkat Afeksi sang Gyaru akan Meningkat berdasarkan Jumlah Like"
@@ -104,9 +110,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2022-04-12T10:45:48+00:00",
-  "updatedAt": "2024-03-16T16:35:05+00:00"
+  "updatedAt": "2024-11-01T06:54:17+00:00"
  },
  "relationships": [
   {
@@ -114,7 +120,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "nanakoro81 八時ななころ"
+     "en": "**Native name**: 八時ななころ\n\n**Alt. names**:\nnanakoro81 "
     },
     "booth": null,
     "createdAt": "2022-04-12T10:45:13+00:00",
@@ -130,8 +136,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/nanakoro81",
-    "updatedAt": "2022-10-27T03:15:29+00:00",
-    "version": 4,
+    "updatedAt": "2024-11-01T06:51:19+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -142,7 +148,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "nanakoro81 八時ななころ"
+     "en": "**Native name**: 八時ななころ\n\n**Alt. names**:\nnanakoro81 "
     },
     "booth": null,
     "createdAt": "2022-04-12T10:45:13+00:00",
@@ -158,8 +164,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/nanakoro81",
-    "updatedAt": "2022-10-27T03:15:29+00:00",
-    "version": 4,
+    "updatedAt": "2024-11-01T06:51:19+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -3,29 +3,30 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "On Duty, Nothing to Report"
+   "en": "Kinmuchuu Ijounashi"
   },
   "altTitles": [
    {
-    "ja-ro": "Kinmuchuu Ijou Nashi"
-   },
-   {
-    "ja-ro": "Kinmuchuu Ijounashi"
-   },
-   {
     "ja": "勤務中異状なし"
+   },
+   {
+    "en": "On Duty, Nothing to Report"
    },
    {
     "zh-hk": "执勤时没有发现异常状况"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "紋付羽織、9歳。実は警視庁の警部！　今日も部下であり、身長180センチのヤスを引き連れて、抜群の推理力（？）と可愛さで難事件を見事に解決する。"
+  },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/B08W9BGSLZ",
    "mu": "31069",
    "raw": "https://www.mangaz.com/book/detail/43331"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
+  "lastChapter": "10",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2005,
@@ -69,9 +70,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2020-09-05T03:39:20+00:00",
-  "updatedAt": "2023-08-06T12:39:31+00:00"
+  "updatedAt": "2024-11-01T23:27:46+00:00"
  },
  "relationships": [
   {
@@ -127,16 +128,16 @@
    }
   },
   {
-   "id": "6e13ecea-ccbe-4fd6-a9a6-db4fef657c60",
+   "id": "81b8546a-c68c-43e9-b49c-fecb2ac58be2",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:09:02+00:00",
+    "createdAt": "2024-11-01T23:27:46+00:00",
     "description": "",
-    "fileName": "46c99dbe-418e-4fba-8e5d-c0431fc2c914.jpg",
+    "fileName": "e1d7218c-826b-4a59-8b5e-252f4943c575.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:09:02+00:00",
+    "updatedAt": "2024-11-01T23:27:46+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

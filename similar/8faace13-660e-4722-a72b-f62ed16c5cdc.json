@@ -11,7 +11,7 @@
     "en": "Double Note - Wajikko na Watashi to Zurui Kare"
    },
    "contentRating": "safe",
-   "score": 0.34900913
+   "score": 0.34835544
   },
   {
    "id": "261004f5-c18d-4dc8-a7af-bd83fa3d833e",
@@ -19,7 +19,7 @@
     "en": "Heroine na no ni, Ikemen Idol ni ♂ Narimashita!?"
    },
    "contentRating": "safe",
-   "score": 0.32835308,
+   "score": 0.3246668,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Ossan (36) Ga Idol Ni Naru Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.29963642,
+   "score": 0.2991152,
    "languages": [
     "en"
    ]
@@ -41,7 +41,7 @@
     "en": "Oshi ga Shiawase nara OK desu"
    },
    "contentRating": "safe",
-   "score": 0.29132393
+   "score": 0.28914377
   },
   {
    "id": "7ee3bb68-0a67-4f61-8924-adaed7be5bf0",
@@ -49,21 +49,10 @@
     "en": "Koisuru Hotaru to Kurashiteru"
    },
    "contentRating": "safe",
-   "score": 0.2786504,
+   "score": 0.27320084,
    "languages": [
     "en",
     "it"
-   ]
-  },
-  {
-   "id": "239371c0-33d0-4308-996d-a3da9a98be09",
-   "title": {
-    "en": "Kazane-sensei wa Hida-kun ga Wakaranai"
-   },
-   "contentRating": "safe",
-   "score": 0.2756967,
-   "languages": [
-    "vi"
    ]
   },
   {
@@ -72,32 +61,7 @@
     "en": "Oshi ni Hatsukoi Itadakimasu"
    },
    "contentRating": "safe",
-   "score": 0.27210978
-  },
-  {
-   "id": "99f7458e-c881-4544-ae05-59701b226988",
-   "title": {
-    "en": "The Otaku Love Connection"
-   },
-   "contentRating": "safe",
-   "score": 0.26722202,
-   "languages": [
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "33e85af1-f040-44af-84ac-b9c6ecd04ccb",
-   "title": {
-    "en": "Shiota-sensei to Amai-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.26656204,
-   "languages": [
-    "en",
-    "vi",
-    "it",
-    "ru"
-   ]
+   "score": 0.271734
   },
   {
    "id": "aad826a4-07b6-4717-af59-ee6f45a24312",
@@ -105,9 +69,20 @@
     "en": "Kimi ni Sasageru Otokomae"
    },
    "contentRating": "safe",
-   "score": 0.26537922,
+   "score": 0.26531613,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "239371c0-33d0-4308-996d-a3da9a98be09",
+   "title": {
+    "en": "Kazane-sensei wa Hida-kun ga Wakaranai"
+   },
+   "contentRating": "safe",
+   "score": 0.26470417,
+   "languages": [
+    "vi"
    ]
   },
   {
@@ -116,7 +91,7 @@
     "en": "Shikkoku no Neko wa Dekiai suru"
    },
    "contentRating": "safe",
-   "score": 0.26348552
+   "score": 0.26321244
   },
   {
    "id": "7c31c29f-9130-4d63-92b9-d4990493251f",
@@ -135,23 +110,7 @@
     "en": "Aoki-kun to wa Osake ga Nomenai"
    },
    "contentRating": "safe",
-   "score": 0.25827566
-  },
-  {
-   "id": "9e1ef408-e566-40f4-97d0-938068e16448",
-   "title": {
-    "en": "Totsuide kudasai, Naotaka-kun!"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291
-  },
-  {
-   "id": "266c5af1-1579-464f-89a7-5c0d2a51074c",
-   "title": {
-    "en": "Look at Me Mukai-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291
+   "score": 0.2580319
   },
   {
    "id": "0295d266-4870-4ea3-814b-35f9afc7a9fd",
@@ -166,7 +125,48 @@
     "th",
     "id"
    ]
+  },
+  {
+   "id": "99f7458e-c881-4544-ae05-59701b226988",
+   "title": {
+    "en": "The Otaku Love Connection"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "9e1ef408-e566-40f4-97d0-938068e16448",
+   "title": {
+    "en": "Totsuide kudasai, Naotaka-kun!"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291
+  },
+  {
+   "id": "33e85af1-f040-44af-84ac-b9c6ecd04ccb",
+   "title": {
+    "en": "Shiota-sensei to Amai-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "vi",
+    "it",
+    "ru"
+   ]
+  },
+  {
+   "id": "266c5af1-1579-464f-89a7-5c0d2a51074c",
+   "title": {
+    "en": "Look at Me Mukai-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291
   }
  ],
- "updatedAt": "2024-11-01T20:29:34+00:00"
+ "updatedAt": "2024-11-03T21:17:05+00:00"
 }

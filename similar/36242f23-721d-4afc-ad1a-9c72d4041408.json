@@ -6,20 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "95d16e97-03aa-4c59-8106-7b3d6fe7ca7a",
-   "title": {
-    "en": "Accounting Examiner Ibun"
-   },
-   "contentRating": "safe",
-   "score": 0.30324158
-  },
-  {
    "id": "00fb4d6e-6b8f-417d-a0ed-78d1217a70d8",
    "title": {
     "en": "Kaze no Yari"
    },
    "contentRating": "safe",
-   "score": 0.26404956
+   "score": 0.30787942
+  },
+  {
+   "id": "95d16e97-03aa-4c59-8106-7b3d6fe7ca7a",
+   "title": {
+    "en": "Accounting Examiner Ibun"
+   },
+   "contentRating": "safe",
+   "score": 0.29557762
   },
   {
    "id": "bca467c9-018b-49b6-bd1d-81c5b1cf4f0c",
@@ -27,7 +27,7 @@
     "en": "Maeda Keiji Kabukitabi"
    },
    "contentRating": "safe",
-   "score": 0.25115347
+   "score": 0.24632435
   },
   {
    "id": "75532241-da34-4afb-a7df-a227b269ed20",
@@ -42,46 +42,12 @@
    ]
   },
   {
-   "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
-   "title": {
-    "en": "Shuumatsu no Valkyrie"
-   },
-   "contentRating": "safe",
-   "score": 0.22604923,
-   "languages": [
-    "zh-hk",
-    "en",
-    "fr",
-    "tr",
-    "es-la",
-    "ru",
-    "pt-br",
-    "vi",
-    "uk",
-    "bg",
-    "id",
-    "it",
-    "fa",
-    "ar",
-    "es",
-    "pl"
-   ]
-  },
-  {
-   "id": "45ca45e8-9044-4dde-bb2f-0e336becf3a9",
-   "title": {
-    "en": "Sherlock Holmes Whispers to the Shadows"
-   },
-   "contentRating": "safe",
-   "score": 0.22245486
-  },
-  {
    "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
    "title": {
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.22181639,
+   "score": 0.22086471,
    "languages": [
     "es-la",
     "en",
@@ -108,12 +74,20 @@
    ]
   },
   {
-   "id": "fc3d7979-7aa9-4417-b289-ffc8c5057c98",
+   "id": "45ca45e8-9044-4dde-bb2f-0e336becf3a9",
    "title": {
-    "en": "Africa Army Corps"
+    "en": "Sherlock Holmes Whispers to the Shadows"
    },
    "contentRating": "safe",
-   "score": 0.21536465
+   "score": 0.21478131
+  },
+  {
+   "id": "c9ff2c76-6a83-4f6d-8dc0-ea02136c70db",
+   "title": {
+    "en": "Crusher Joe REBIRTH"
+   },
+   "contentRating": "safe",
+   "score": 0.20852594
   },
   {
    "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
@@ -121,7 +95,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.21389002,
+   "score": 0.20719333,
    "languages": [
     "en",
     "it",
@@ -136,17 +110,9 @@
     "tr",
     "ro",
     "id",
-    "fr",
-    "de"
+    "de",
+    "fr"
    ]
-  },
-  {
-   "id": "c9ff2c76-6a83-4f6d-8dc0-ea02136c70db",
-   "title": {
-    "en": "Crusher Joe REBIRTH"
-   },
-   "contentRating": "safe",
-   "score": 0.20852594
   },
   {
    "id": "a5c16a78-3634-4984-86b2-7dd554a03220",
@@ -155,26 +121,6 @@
    },
    "contentRating": "safe",
    "score": 0.20691092
-  },
-  {
-   "id": "733fc3ac-deca-444e-bb79-14186e00ccf1",
-   "title": {
-    "en": "Shadows House (Official Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.20602494,
-   "languages": [
-    "pt-br",
-    "en",
-    "vi",
-    "ru",
-    "es",
-    "id",
-    "tr",
-    "fr",
-    "es-la",
-    "it"
-   ]
   },
   {
    "id": "0aea1bd2-4bca-4856-8530-ea4d11a858cd",
@@ -196,16 +142,63 @@
    ]
   },
   {
-   "id": "2dcd33a8-989d-4e2d-8a7f-a1d418ffc065",
+   "id": "733fc3ac-deca-444e-bb79-14186e00ccf1",
    "title": {
-    "en": "Jungle Boy"
+    "en": "Shadows House (Official Colored)"
    },
    "contentRating": "safe",
-   "score": 0.19939813,
+   "score": 0.19845422,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "ru",
+    "es",
+    "id",
+    "tr",
+    "fr",
+    "es-la",
+    "it"
+   ]
+  },
+  {
+   "id": "fe18fe91-fa82-441c-9d87-66414d59a622",
+   "title": {
+    "en": "Exhibition Catalog INOUENO: Mangetsu Edition"
+   },
+   "contentRating": "safe",
+   "score": 0.19480465,
+   "languages": [
+    "pt-br",
+    "en",
+    "it",
+    "fr"
+   ]
+  },
+  {
+   "id": "e7dda8bf-e252-401b-ac36-3a737f6c85b4",
+   "title": {
+    "en": "Legend of the Sun"
+   },
+   "contentRating": "safe",
+   "score": 0.19372183,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
+   "title": {
+    "en": "Asadora!"
+   },
+   "contentRating": "safe",
+   "score": 0.19365986,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-11-01T19:45:40+00:00"
+ "updatedAt": "2024-11-03T20:32:36+00:00"
 }

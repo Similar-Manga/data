@@ -1,0 +1,161 @@
+{
+ "id": "a24f48a8-e123-47b3-aa6c-17f9bb0450f2",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Takase-kun wa Kao ga Ii"
+  },
+  "altTitles": [
+   {
+    "ja": "高瀬くんは顔がいい"
+   },
+   {
+    "ja-ro": "Takase-kun ha Kao ga Ii"
+   },
+   {
+    "en": "Takase-kun Has A Nice Face"
+   }
+  ],
+  "description": {},
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B07ZCZSVJ7",
+   "bw": "de9e91a9ee-b0d9-4a6a-98af-f5fd134638f9",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/459112/A002258349/",
+   "raw": "https://www.sunday-webry.com/episode/3269754496607359275"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2019,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-03T09:00:56+00:00",
+  "updatedAt": "2024-11-03T09:04:47+00:00"
+ },
+ "relationships": [
+  {
+   "id": "270e8eb4-7ba0-40f3-9d4f-100fa06ac61e",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 旗町マコ"
+    },
+    "booth": null,
+    "createdAt": "2023-11-10T06:47:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hatamachi Mako",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-26T06:58:01+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "270e8eb4-7ba0-40f3-9d4f-100fa06ac61e",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 旗町マコ"
+    },
+    "booth": null,
+    "createdAt": "2023-11-10T06:47:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hatamachi Mako",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-26T06:58:01+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c71f1af6-eb6f-478c-928b-a4e6697ae3e0",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-03T09:00:59+00:00",
+    "description": "",
+    "fileName": "0dd7b003-53b6-4a90-970a-4e8dcb67d70b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-03T09:00:59+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

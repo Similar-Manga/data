@@ -11,7 +11,7 @@
     "en": "Attack! Goshogawara"
    },
    "contentRating": "safe",
-   "score": 0.3206984
+   "score": 0.3206997
   },
   {
    "id": "1131bc8c-b462-412c-adaa-8645cc064a08",
@@ -19,7 +19,7 @@
     "en": "Play Ball"
    },
    "contentRating": "safe",
-   "score": 0.31845054
+   "score": 0.31844413
   },
   {
    "id": "aa9305e8-1469-48fd-9a97-12923a9f1b47",
@@ -27,7 +27,7 @@
     "en": "Countryside General"
    },
    "contentRating": "safe",
-   "score": 0.31135115
+   "score": 0.31135595
   },
   {
    "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
@@ -35,19 +35,11 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.28038678,
+   "score": 0.28038633,
    "languages": [
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "b06a0002-c27b-4cbe-8c4a-a8e61a4bc37c",
-   "title": {
-    "en": "Song of Baseball Fans"
-   },
-   "contentRating": "safe",
-   "score": 0.27050766
   },
   {
    "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
@@ -55,7 +47,7 @@
     "en": "Yowamushi Pedal"
    },
    "contentRating": "safe",
-   "score": 0.27001312,
+   "score": 0.2700259,
    "languages": [
     "en",
     "fr",
@@ -70,7 +62,7 @@
     "en": "Do Your Best, Shonen Giants"
    },
    "contentRating": "safe",
-   "score": 0.2695715
+   "score": 0.26957384
   },
   {
    "id": "afad3e72-e718-4e89-9ce7-28ac41a8b596",
@@ -78,64 +70,7 @@
     "en": "The Best Professional Wrestling Fans"
    },
    "contentRating": "safe",
-   "score": 0.25923526
-  },
-  {
-   "id": "a0d76ebd-99d5-4702-b35b-349be10c6af3",
-   "title": {
-    "en": "Ikusaba Animation"
-   },
-   "contentRating": "safe",
-   "score": 0.25434297,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "e8b52cf7-c28e-43a3-a860-9395d575ae7f",
-   "title": {
-    "en": "Akira No. 2"
-   },
-   "contentRating": "safe",
-   "score": 0.2542984
-  },
-  {
-   "id": "33f6706c-417b-43c9-ad12-6c86358afc66",
-   "title": {
-    "en": "The Story of Ai and Makoto: Love and Sincerity"
-   },
-   "contentRating": "safe",
-   "score": 0.25055143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c9684ff2-709a-4135-9a88-f47f206f7e05",
-   "title": {
-    "en": "Dokaben - Dokaben Part 1"
-   },
-   "contentRating": "safe",
-   "score": 0.24507861
-  },
-  {
-   "id": "127d4af7-4062-45ec-afb7-b8cf33deb3db",
-   "title": {
-    "en": "Welcome to the Ballroom"
-   },
-   "contentRating": "safe",
-   "score": 0.24266009,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "pl",
-    "ar",
-    "es",
-    "es-la",
-    "fr"
-   ]
+   "score": 0.2592425
   },
   {
    "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
@@ -143,7 +78,7 @@
     "en": "Hajime no Ippo - The First Step"
    },
    "contentRating": "safe",
-   "score": 0.241851,
+   "score": 0.25765577,
    "languages": [
     "en",
     "ar",
@@ -158,12 +93,59 @@
    ]
   },
   {
+   "id": "a0d76ebd-99d5-4702-b35b-349be10c6af3",
+   "title": {
+    "en": "Ikusaba Animation"
+   },
+   "contentRating": "safe",
+   "score": 0.25440133,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "e8b52cf7-c28e-43a3-a860-9395d575ae7f",
+   "title": {
+    "en": "Akira No. 2"
+   },
+   "contentRating": "safe",
+   "score": 0.25429833
+  },
+  {
+   "id": "33f6706c-417b-43c9-ad12-6c86358afc66",
+   "title": {
+    "en": "The Story of Ai and Makoto: Love and Sincerity"
+   },
+   "contentRating": "safe",
+   "score": 0.2505496,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c9684ff2-709a-4135-9a88-f47f206f7e05",
+   "title": {
+    "en": "Dokaben - Dokaben Part 1"
+   },
+   "contentRating": "safe",
+   "score": 0.24508129
+  },
+  {
    "id": "df3734c1-04df-4c1f-91f6-4dbbee5ef589",
    "title": {
     "en": "The Stars in Class 6-3"
    },
    "contentRating": "safe",
-   "score": 0.24181543
+   "score": 0.24182692
+  },
+  {
+   "id": "b06a0002-c27b-4cbe-8c4a-a8e61a4bc37c",
+   "title": {
+    "en": "Song of Baseball Fans"
+   },
+   "contentRating": "safe",
+   "score": 0.24169199
   },
   {
    "id": "4d9c92a3-592b-4a97-800f-82ddbaa3095d",
@@ -171,8 +153,19 @@
     "en": "Fishmonger Champion"
    },
    "contentRating": "safe",
-   "score": 0.23812711
+   "score": 0.2381362
+  },
+  {
+   "id": "78cbfb65-2681-48a4-92ca-8c7dd63737a7",
+   "title": {
+    "en": "Tokyo Jungle"
+   },
+   "contentRating": "safe",
+   "score": 0.23760252,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-01T20:28:56+00:00"
+ "updatedAt": "2024-11-03T21:16:19+00:00"
 }

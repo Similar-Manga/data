@@ -137,11 +137,39 @@
    }
   ],
   "state": "published",
-  "version": 23,
+  "version": 24,
   "createdAt": "2024-10-30T18:15:43+00:00",
-  "updatedAt": "2024-11-01T04:03:04+00:00"
+  "updatedAt": "2024-11-01T07:27:34+00:00"
  },
  "relationships": [
+  {
+   "id": "3a22ee5a-92bd-4374-8230-4cd47cff7464",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 仲紙\n\n**Alt. names**:\nnakagami147q"
+    },
+    "booth": null,
+    "createdAt": "2024-10-03T18:21:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nakagami (仲紙)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/3319666",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/nakagami147q",
+    "updatedAt": "2024-11-01T04:05:38+00:00",
+    "version": 3,
+    "website": "https://nakagami147q.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "9084a736-cf59-4e96-a77e-6cd2067877a3",
    "type": "author",
@@ -164,34 +192,6 @@
     "updatedAt": "2023-10-27T15:42:14+00:00",
     "version": 2,
     "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "3a22ee5a-92bd-4374-8230-4cd47cff7464",
-   "type": "artist",
-   "attributes": {
-    "biography": {
-     "en": "**Native name**: 仲紙\n\n**Alt. names**:\nnakagami147q"
-    },
-    "booth": null,
-    "createdAt": "2024-10-03T18:21:53+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Nakagami (仲紙)",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/3319666",
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/nakagami147q",
-    "updatedAt": "2024-11-01T04:05:38+00:00",
-    "version": 3,
-    "website": "https://nakagami147q.com/",
     "weibo": null,
     "youtube": null
    }

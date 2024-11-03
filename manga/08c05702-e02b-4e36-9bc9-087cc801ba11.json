@@ -42,22 +42,24 @@
   },
   "links": {
    "al": "31537",
-   "amz": "https://www.amazon.co.jp/s?k=BRONZE+ZETSUAI+since1989+%E5%B0%BE%E5%B4%8E%E5%8D%97",
+   "amz": "https://www.amazon.co.jp/dp/B0BRK4XD54",
    "ap": "bronze",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/739061/",
    "kt": "3271",
    "mal": "1537",
-   "mu": "485"
+   "mu": "485",
+   "raw": "https://www.cmoa.jp/title/258956/"
   },
   "originalLanguage": "ja",
-  "lastVolume": "14",
-  "lastChapter": "64",
+  "lastVolume": "15",
+  "lastChapter": "69",
   "status": "completed",
   "year": 1992,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "2ee79b43-441e-4382-bbec-fd033b39b27d",
+  "latestUploadedChapter": "95dff9a6-b204-4804-aff5-7f3a176d0ead",
   "tags": [
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
@@ -133,16 +135,18 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 9,
   "createdAt": "2018-10-29T20:39:32+00:00",
-  "updatedAt": "2023-08-01T20:14:02+00:00"
+  "updatedAt": "2024-11-02T14:42:21+00:00"
  },
  "relationships": [
   {
    "id": "d31d9c5d-c162-480d-8ba5-30e4a2f1aca1",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n尾崎南"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -157,9 +161,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-02T14:51:38+00:00",
+    "version": 2,
+    "website": "http://ozakiminami.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -168,7 +172,9 @@
    "id": "d31d9c5d-c162-480d-8ba5-30e4a2f1aca1",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n尾崎南"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -183,24 +189,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-02T14:51:38+00:00",
+    "version": 2,
+    "website": "http://ozakiminami.jp/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "764c8837-4661-4c9f-a85d-e93fb09eaf95",
+   "id": "a5b744e0-1db6-47cc-b4d5-48a9f4d3d903",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-04-04T06:18:57+00:00",
+    "createdAt": "2024-11-02T14:42:19+00:00",
     "description": "",
-    "fileName": "1d117c6e-244a-45f9-ad7b-83a0fe0a16cd.jpg",
+    "fileName": "9cd9d044-d4af-4966-a61c-913a4023710d.jpg",
     "locale": "ja",
-    "updatedAt": "2022-04-04T06:18:57+00:00",
+    "updatedAt": "2024-11-02T14:42:19+00:00",
     "version": 1,
-    "volume": "14"
+    "volume": "15"
    }
   },
   {

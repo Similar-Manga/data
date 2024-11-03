@@ -15,6 +15,7 @@
   },
   "links": {
    "amz": "https://www.amazon.co.jp/-/en/しりあがり寿-ebook/dp/B0CK2QL7YY/ref=sr_1_1?keywords=ジ・アメイジング・マッパマン\u0026qid=1701638199\u0026s=books\u0026sr=1-1",
+   "bw": "series/442865/list",
    "raw": "https://televikun-super-hero-comics.com/rensai/theamazingmappaman/"
   },
   "originalLanguage": "ja",
@@ -46,12 +47,36 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "7064a261-a137-4d3a-8848-2d385de3a99c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Superhero"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2023-12-03T21:19:29+00:00",
-  "updatedAt": "2023-12-03T21:20:27+00:00"
+  "updatedAt": "2024-11-01T20:49:08+00:00"
  },
  "relationships": [
   {
@@ -107,14 +132,14 @@
    }
   },
   {
-   "id": "cebb00d1-ea27-479a-96ff-e9f603fca419",
+   "id": "b761988f-2a4e-43e3-9d6b-3fe3acfb27c3",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-12-03T21:19:30+00:00",
+    "createdAt": "2024-11-01T20:48:33+00:00",
     "description": "",
-    "fileName": "5415e2e6-d60b-49ea-a20d-1592c296df99.jpg",
+    "fileName": "12f9dd7c-1249-4402-ac1a-c56ed1324866.jpg",
     "locale": "ja",
-    "updatedAt": "2023-12-03T21:19:30+00:00",
+    "updatedAt": "2024-11-01T20:48:33+00:00",
     "version": 1,
     "volume": "1"
    }

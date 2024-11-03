@@ -37,7 +37,7 @@
    "id",
    "es"
   ],
-  "latestUploadedChapter": "87d3664c-cec6-4dae-8f1c-c33b1bfe3013",
+  "latestUploadedChapter": "63ed14ee-0f32-47be-a803-1cccdc4049c7",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -88,6 +88,18 @@
     }
    },
    {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
     "type": "tag",
     "attributes": {
@@ -101,9 +113,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2024-06-27T19:29:14+00:00",
-  "updatedAt": "2024-09-03T14:27:50+00:00"
+  "updatedAt": "2024-11-01T20:37:40+00:00"
  },
  "relationships": [
   {

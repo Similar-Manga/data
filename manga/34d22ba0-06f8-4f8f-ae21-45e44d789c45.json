@@ -21,7 +21,7 @@
    "al": "131051",
    "amz": "https://www.amazon.co.jp/dp/B09BF1HSBY",
    "ap": "hyperinflation",
-   "bw": "series/292328/list",
+   "bw": "series/292328",
    "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD:14\u0026q=ハイパーインフレーション\u0026order=reldesc\u0026opt.exclude_prx=on",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/631851/",
    "kt": "hyper-inflation",
@@ -77,18 +77,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "ee968100-4191-4968-93d3-f82d72be7e46",
     "type": "tag",
     "attributes": {
@@ -102,16 +90,18 @@
    }
   ],
   "state": "published",
-  "version": 16,
+  "version": 18,
   "createdAt": "2021-12-18T14:13:46+00:00",
-  "updatedAt": "2024-10-09T04:11:50+00:00"
+  "updatedAt": "2024-11-02T18:57:49+00:00"
  },
  "relationships": [
   {
    "id": "592ef756-42fb-4668-85be-e8fa3dba6a45",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 住吉九"
+    },
     "booth": null,
     "createdAt": "2021-12-18T14:10:36+00:00",
     "fanBox": null,
@@ -125,9 +115,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-12-18T14:10:36+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/sumiyosikyu",
+    "updatedAt": "2024-11-02T18:49:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -137,7 +127,9 @@
    "id": "592ef756-42fb-4668-85be-e8fa3dba6a45",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 住吉九"
+    },
     "booth": null,
     "createdAt": "2021-12-18T14:10:36+00:00",
     "fanBox": null,
@@ -151,9 +143,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-12-18T14:10:36+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/sumiyosikyu",
+    "updatedAt": "2024-11-02T18:49:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -1,0 +1,178 @@
+{
+ "id": "41fcf8c7-5389-4414-b141-235b7928112b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Itazura o Sentaku🎃 (Fan Colored) (Partially)"
+  },
+  "altTitles": [
+   {
+    "en": "Well-Prepared Prank🎃 (Fan Colored) (Partially)"
+   },
+   {
+    "ja": "イタズラを選択🎃 (Fan Colored) (Partially)"
+   },
+   {
+    "vi": "Cô ấy đã đùa🎃 (Fan Colored) (Partially)"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/komeppy22/status/1851955506363138243"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "suggestive",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "592f7840-65ce-4fbf-a64e-212896e6ebab",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "7b2ce280-79ef-4c09-9b58-12b7c23a9b78",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fan Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-02T00:55:24+00:00",
+  "updatedAt": "2024-11-02T01:00:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5574025e-a36b-49ed-b6dd-79f1a69bb265",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- こめくら\n- komeppy22"
+    },
+    "booth": null,
+    "createdAt": "2024-07-21T13:40:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Komekura",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/komeppy22",
+    "updatedAt": "2024-07-21T13:59:58+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5574025e-a36b-49ed-b6dd-79f1a69bb265",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- こめくら\n- komeppy22"
+    },
+    "booth": null,
+    "createdAt": "2024-07-21T13:40:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Komekura",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/komeppy22",
+    "updatedAt": "2024-07-21T13:59:58+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d7838729-ff10-47ce-8b96-4c4732017895",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-02T00:55:30+00:00",
+    "description": "",
+    "fileName": "6a33f91b-9146-4670-b021-5e96108cfd88.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-02T00:55:30+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a917a621-eaee-44fc-9091-9695395a4196",
+   "type": "manga",
+   "related": "monochrome"
+  },
+  {
+   "id": "69435fb6-a1bf-47e9-9c7a-cc5048e5847c",
+   "type": "creator"
+  }
+ ]
+}

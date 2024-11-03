@@ -1,0 +1,194 @@
+{
+ "id": "913c9907-04b0-4926-ad8f-8304c79d5d2c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "OddOnes"
+  },
+  "altTitles": [
+   {
+    "ja": "カワタチ(Kawatachi)"
+   }
+  ],
+  "description": {
+   "en": "A wasteland infested with giant mutated insects, Dep the Protagonist explores the shell of the former peaceful world he once knew, now wanders alone, facing bandits, cults, military, and people with mental problems, it's not a safe world....",
+   "ja": "廃墟と化した荒れ地には巨大に変異した昆虫がはびこっている。主人公のデップは、かつて平和だった世界の殻を探検し、今は一人で彷徨いながら、盗賊、カルト、軍隊、そして精神的問題を抱えた人々と対峙している。安全な世界ではない……。"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "9467335a-1b83-4497-9231-765337a00b96",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Post-Apocalyptic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-01T15:04:56+00:00",
+  "updatedAt": "2024-11-02T00:17:04+00:00"
+ },
+ "relationships": [
+  {
+   "id": "21d96a89-85d2-4178-ae66-537e2b1042b2",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-01T14:34:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Dep_",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-01T14:34:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "21d96a89-85d2-4178-ae66-537e2b1042b2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-01T14:34:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Dep_",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-01T14:34:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "dd2033d5-1b80-48df-a08c-8e697e175cd7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-01T15:05:04+00:00",
+    "description": "",
+    "fileName": "4176aae8-57a5-4344-bd0e-3b8e1d338eef.png",
+    "locale": "en",
+    "updatedAt": "2024-11-01T15:05:04+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "5adbd013-8d3a-4927-b772-9613083e2dc3",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "id": "244b6659-9181-4b6a-b0ea-c9d846bc6a4a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ore no Choukyou Skill ga Nanka Hen"
+  },
+  "altTitles": [
+   {
+    "ja": "俺の調教スキルがなんか変"
+   },
+   {
+    "en": "There's Something Wrong with My Training Skills"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mal": "174935",
+   "raw": "https://comic-action.com/episode/2550912964703540272"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-02T11:18:17+00:00",
+  "updatedAt": "2024-11-02T11:18:22+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0a2d2359-49b3-491c-877d-9aa33e3a61a2",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-04-11T15:10:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akujikisai",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-04-11T15:10:56+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0a2d2359-49b3-491c-877d-9aa33e3a61a2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-04-11T15:10:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akujikisai",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-04-11T15:10:56+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "caa45318-7881-4c49-ba21-32f1cc3df874",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-02T11:18:18+00:00",
+    "description": "",
+    "fileName": "0a8d2cd7-f032-4c9c-9bc2-cb99802a8a55.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-02T11:18:18+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}
