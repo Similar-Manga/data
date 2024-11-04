@@ -11,7 +11,7 @@
     "en": "Taste of Precociousness"
    },
    "contentRating": "safe",
-   "score": 0.4804632,
+   "score": 0.4461635,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Nya! Art School"
    },
    "contentRating": "safe",
-   "score": 0.4284631,
+   "score": 0.39699334,
    "languages": [
     "en"
    ]
@@ -33,10 +33,22 @@
     "en": "Stellar Mom"
    },
    "contentRating": "safe",
-   "score": 0.38516402,
+   "score": 0.34342363,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "dbc280ae-48b9-43d5-acbb-a0ec5abd2fa4",
+   "title": {
+    "en": "Bye Bye, Ame."
+   },
+   "contentRating": "safe",
+   "score": 0.3291637,
+   "languages": [
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -45,18 +57,18 @@
     "en": "Hello, Goodbye"
    },
    "contentRating": "safe",
-   "score": 0.34031177,
+   "score": 0.32222736,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "6b13e4c6-13c9-49fc-8a6c-410b48631172",
+   "id": "e2e469c1-73be-4f6f-9087-bb9ead893cdc",
    "title": {
-    "en": "She's Kids!"
+    "en": "Breaker.Drawing"
    },
    "contentRating": "safe",
-   "score": 0.29962766,
+   "score": 0.2990753,
    "languages": [
     "en"
    ]
@@ -67,45 +79,9 @@
     "en": "Brother, Am I Cute?"
    },
    "contentRating": "safe",
-   "score": 0.29787785,
+   "score": 0.28950968,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "fcd5ec58-4527-43a7-ad92-70ffb997a36e",
-   "title": {
-    "en": "Doobiedoo Asks"
-   },
-   "contentRating": "safe",
-   "score": 0.2954453,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1a822f68-4ea8-4f1e-a996-581b3a5ee7b8",
-   "title": {
-    "en": "The President's Expensive, Cute Wife"
-   },
-   "contentRating": "safe",
-   "score": 0.29448718,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "228e2786-d9fd-4969-9fb8-30753e9ad11a",
-   "title": {
-    "en": "My Junior Was My Mom in Her Past Life"
-   },
-   "contentRating": "safe",
-   "score": 0.29112512,
-   "languages": [
-    "en",
-    "id",
-    "uk",
-    "ru"
    ]
   },
   {
@@ -120,49 +96,73 @@
    ]
   },
   {
-   "id": "2b83838b-ce9c-4947-8daa-20fad2eb3af8",
+   "id": "a6a5b6d0-53a0-49a8-b732-e2b535d8846b",
    "title": {
-    "en": "Nostalgia"
+    "en": "Asa Okitara Okaa-san ga Neko ni Natteta"
    },
    "contentRating": "safe",
-   "score": 0.27988744,
+   "score": 0.28399283,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fcdb4b16-7f4f-4287-bdab-5cc1a52747ab",
-   "title": {
-    "en": "She’s The Mom Candidate"
-   },
-   "contentRating": "safe",
-   "score": 0.27655265,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "76cf2fd0-bc5a-4f8b-872b-cb54c55c4294",
-   "title": {
-    "en": "A Night of Sinful Love"
-   },
-   "contentRating": "safe",
-   "score": 0.27419275,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "636daa88-4430-4d1c-a50f-6b9b74d28f43",
-   "title": {
-    "en": "Good-bye, My 19 year Old Self"
-   },
-   "contentRating": "safe",
-   "score": 0.26992005,
-   "languages": [
-    "fr",
     "en",
-    "it"
+    "id"
+   ]
+  },
+  {
+   "id": "fcd5ec58-4527-43a7-ad92-70ffb997a36e",
+   "title": {
+    "en": "Doobiedoo Asks"
+   },
+   "contentRating": "safe",
+   "score": 0.28280815,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1a822f68-4ea8-4f1e-a996-581b3a5ee7b8",
+   "title": {
+    "en": "The President's Expensive, Cute Wife"
+   },
+   "contentRating": "safe",
+   "score": 0.28260168,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "228e2786-d9fd-4969-9fb8-30753e9ad11a",
+   "title": {
+    "en": "My Junior Was My Mom in Her Past Life"
+   },
+   "contentRating": "safe",
+   "score": 0.27250227,
+   "languages": [
+    "en",
+    "id",
+    "uk",
+    "ru"
+   ]
+  },
+  {
+   "id": "6b13e4c6-13c9-49fc-8a6c-410b48631172",
+   "title": {
+    "en": "She's Kids!"
+   },
+   "contentRating": "safe",
+   "score": 0.26640338,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e29209d2-0e67-435f-94f0-c62ea11916d7",
+   "title": {
+    "en": "Drawing Recipe"
+   },
+   "contentRating": "safe",
+   "score": 0.2616798,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -188,5 +188,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-01T20:58:18+00:00"
+ "updatedAt": "2024-11-03T21:54:03+00:00"
 }

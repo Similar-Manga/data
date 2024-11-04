@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "acd4757c-7972-4375-a0ff-8a5f320a202b",
-   "title": {
-    "en": "Fuminshou"
-   },
-   "contentRating": "safe",
-   "score": 0.29599082,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
    "id": "dc0f2dc3-ac5a-4f2b-a1e6-7c7367412a65",
    "title": {
     "en": "A Life"
@@ -32,12 +20,24 @@
    ]
   },
   {
+   "id": "acd4757c-7972-4375-a0ff-8a5f320a202b",
+   "title": {
+    "en": "Fuminshou"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "e503974f-e397-4ebb-bdf4-62583582ef12",
    "title": {
     "en": "Look Me in the Eyes When You Talk"
    },
    "contentRating": "safe",
-   "score": 0.26779464,
+   "score": 0.25820804,
    "languages": [
     "it",
     "en",
@@ -108,23 +108,12 @@
    ]
   },
   {
-   "id": "e924df2f-d4cd-425e-b8c3-107fdd96d6aa",
-   "title": {
-    "en": "Zuutto Issho ne?"
-   },
-   "contentRating": "safe",
-   "score": 0.22391717,
-   "languages": [
-    "it"
-   ]
-  },
-  {
    "id": "0245ccce-fa98-4881-b882-96a7c8552eac",
    "title": {
     "en": "Fork in the Road"
    },
    "contentRating": "safe",
-   "score": 0.22309217,
+   "score": 0.22293468,
    "languages": [
     "it",
     "pl",
@@ -133,25 +122,25 @@
    ]
   },
   {
+   "id": "e924df2f-d4cd-425e-b8c3-107fdd96d6aa",
+   "title": {
+    "en": "Zuutto Issho ne?"
+   },
+   "contentRating": "safe",
+   "score": 0.22249256,
+   "languages": [
+    "it"
+   ]
+  },
+  {
    "id": "9e4b734d-cc7c-4133-af0b-80b53f4f239b",
    "title": {
     "en": "The Watchman"
    },
    "contentRating": "safe",
-   "score": 0.21847706,
+   "score": 0.2183541,
    "languages": [
     "en",
-    "it"
-   ]
-  },
-  {
-   "id": "e6a495d5-8289-4487-8e6c-d24ff1b59497",
-   "title": {
-    "en": "Bookhead"
-   },
-   "contentRating": "safe",
-   "score": 0.21217468,
-   "languages": [
     "it"
    ]
   },
@@ -170,15 +159,21 @@
    ]
   },
   {
-   "id": "6627de7b-fd40-42b1-92f7-1456ed185f2f",
+   "id": "96c166e4-37cb-4554-bbdd-a4ed6a25566a",
    "title": {
-    "en": "Bugs"
+    "en": "Permanent God"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
+    "id",
+    "pl",
+    "pt-br",
+    "bg",
+    "hu",
     "it",
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
@@ -199,16 +194,14 @@
    ]
   },
   {
-   "id": "5e861e11-27bf-4594-8824-72dc2ff72a69",
+   "id": "e6a495d5-8289-4487-8e6c-d24ff1b59497",
    "title": {
-    "en": "Sho Nuff I Do"
+    "en": "Bookhead"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "fr",
-    "it",
-    "en"
+    "it"
    ]
   },
   {
@@ -222,7 +215,19 @@
     "it",
     "en"
    ]
+  },
+  {
+   "id": "6627de7b-fd40-42b1-92f7-1456ed185f2f",
+   "title": {
+    "en": "Bugs"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "it",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-01T21:05:15+00:00"
+ "updatedAt": "2024-11-03T22:02:09+00:00"
 }
