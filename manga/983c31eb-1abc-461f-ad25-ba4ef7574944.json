@@ -1,0 +1,131 @@
+{
+ "id": "983c31eb-1abc-461f-ad25-ba4ef7574944",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Genin no Yukue wo Oikakete"
+  },
+  "altTitles": [
+   {
+    "en": "In Pursuit of the Commoner's Fate"
+   },
+   {
+    "ja": "下人の行方を追いかけて"
+   }
+  ],
+  "description": {
+   "en": "In a bid to save the broadcasting club from disbandment, protagonist Yuto Shimoda is tasked with reading \"Rashomon\" for the upcoming reading contest.\nBut he feels somehow detached from the assignment.\nThat is, until he encounters a girl in the broadcast room at school whose acting prowess eerily evokes the old woman from \"Rashomon.\"\n\nSource: MangaPlus",
+   "ja": "放送部の廃部危機を脱するため、主人公の下田勇人は、次の放送コンテストで「羅生門」を読むように言われるが、心の奥ではどこか冷めていた。\nそんな時に放送室で、まるで「羅生門の老婆」を彷彿とさせる、演技力の持った少女と出会い…!?"
+  },
+  "links": {
+   "engtl": "https://mangaplus.shueisha.co.jp/titles/100390",
+   "raw": "https://shonenjumpplus.com/episode/17106567256672632801"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-05T18:15:57+00:00",
+  "updatedAt": "2024-11-05T18:18:36+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e3ad01d6-dc7e-4dc1-91db-c37d76e9d53b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-05T17:49:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takimori Hifumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-05T17:49:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fc40a4b8-1535-4350-ad01-c2a8079e84f7",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-09-25T09:24:05+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "ATSUX",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-09-25T09:24:05+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0ee30363-dc42-45de-84e8-defb4464f2a2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T18:16:01+00:00",
+    "description": "",
+    "fileName": "ca42057b-e559-4e02-bcc1-b43be5dd6645.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T18:16:01+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f56aa6ad-6e44-4018-8a3d-43aaa00bc383",
+   "type": "creator"
+  }
+ ]
+}

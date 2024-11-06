@@ -1,0 +1,145 @@
+{
+ "id": "6872a7b4-85e2-4188-97c8-41e9e4994db9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Honmei Janakya Yokatta no ni"
+  },
+  "altTitles": [
+   {
+    "ja": "本命じゃなきゃよかったのに"
+   },
+   {
+    "ja-ro": "Honmei Janakya Yokatta noni"
+   }
+  ],
+  "description": {
+   "en": "On her 30th birthday, Jippuno, a 30 year old man without a girlfriend, gets a new job at her company.They met at a blind date party 10 years ago, while both were in love with the same person. For some reason, Eishige lost touch with him, and for 10 years he thought he would never see her again, but...! And yet, Eishige is still the same as he was then, acting as if nothing had happened."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/%E6%B0%B4%E8%B0%B7-%E6%84%9B/dp/4098728117",
+   "bw": "de071146b9-246b-448c-966a-c7f4944965f9",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/772552/A004284202/",
+   "mu": "iartw0x",
+   "raw": "https://flowercomics.jp/title/195"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-05T12:27:48+00:00",
+  "updatedAt": "2024-11-05T12:28:34+00:00"
+ },
+ "relationships": [
+  {
+   "id": "74336f0a-0c47-4cec-8847-e01d0feaaa87",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizutani Ai",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "74336f0a-0c47-4cec-8847-e01d0feaaa87",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizutani Ai",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96c082e5-6b47-4e47-a368-20291606e241",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T12:27:51+00:00",
+    "description": "",
+    "fileName": "f5cb9116-9de9-42f9-9674-729ff9193536.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T12:27:51+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0957b2d6-4aff-46e4-916a-b10bc8cd12ee",
+   "title": {
+    "en": "Manga! Nyanko Great War"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f7d3a91a-f47a-43ce-9a2c-4da813b15eea",
    "title": {
     "en": "My Dog Becomes a Human"
@@ -51,23 +62,12 @@
    ]
   },
   {
-   "id": "0957b2d6-4aff-46e4-916a-b10bc8cd12ee",
-   "title": {
-    "en": "Manga! Nyanko Great War"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7a34b48c-7932-4f40-9b8c-99682f59e550",
    "title": {
     "en": "Buna no Mori no Aria"
    },
    "contentRating": "safe",
-   "score": 0.277392,
+   "score": 0.27739984,
    "languages": [
     "en",
     "pt-br",
@@ -81,11 +81,12 @@
     "en": "Red Cat Ramen"
    },
    "contentRating": "safe",
-   "score": 0.276807,
+   "score": 0.27681267,
    "languages": [
     "en",
     "vi",
     "es-la",
+    "de",
     "th"
    ]
   },
@@ -95,7 +96,7 @@
     "en": "Shirokuma Yakuza to Akujiki Hime"
    },
    "contentRating": "safe",
-   "score": 0.27667984,
+   "score": 0.27661064,
    "languages": [
     "en"
    ]
@@ -106,57 +107,10 @@
     "en": "Ookami-kun no Kakushigoto"
    },
    "contentRating": "safe",
-   "score": 0.27573994,
+   "score": 0.27574888,
    "languages": [
     "vi",
     "en"
-   ]
-  },
-  {
-   "id": "8a575dfe-8021-4dc2-9fa6-c17a91d24d81",
-   "title": {
-    "en": "Heaven's Design Team"
-   },
-   "contentRating": "safe",
-   "score": 0.2679431,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "6cbf4a54-fa56-4458-aaf4-707d9b556c81",
-   "title": {
-    "en": "High School Girl X Dragon"
-   },
-   "contentRating": "safe",
-   "score": 0.26643026,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dab182f2-a574-4bf4-84e0-c77f7d73d634",
-   "title": {
-    "en": "Neko ni wa Neko no Neko Gohan."
-   },
-   "contentRating": "safe",
-   "score": 0.2658272,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e675297b-8b2a-4612-a956-5eee26269606",
-   "title": {
-    "en": "Mokuyoubi no Furutto"
-   },
-   "contentRating": "safe",
-   "score": 0.26410824,
-   "languages": [
-    "en",
-    "zh-hk"
    ]
   },
   {
@@ -165,7 +119,7 @@
     "en": "The Wolf That Picked Something Up"
    },
    "contentRating": "safe",
-   "score": 0.26405782,
+   "score": 0.26953068,
    "languages": [
     "tr",
     "en",
@@ -178,15 +132,50 @@
    ]
   },
   {
-   "id": "1bed82d5-7260-4e4d-a861-4d126f88d8bf",
+   "id": "8a575dfe-8021-4dc2-9fa6-c17a91d24d81",
    "title": {
-    "en": "Honjitsu no Neko Jijou"
+    "en": "Heaven's Design Team"
    },
    "contentRating": "safe",
-   "score": 0.2597374,
+   "score": 0.26791576,
    "languages": [
-    "pl",
+    "pt-br",
+    "ru",
     "en"
+   ]
+  },
+  {
+   "id": "6cbf4a54-fa56-4458-aaf4-707d9b556c81",
+   "title": {
+    "en": "High School Girl X Dragon"
+   },
+   "contentRating": "safe",
+   "score": 0.26642504,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dab182f2-a574-4bf4-84e0-c77f7d73d634",
+   "title": {
+    "en": "Neko ni wa Neko no Neko Gohan."
+   },
+   "contentRating": "safe",
+   "score": 0.26581246,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e675297b-8b2a-4612-a956-5eee26269606",
+   "title": {
+    "en": "Mokuyoubi no Furutto"
+   },
+   "contentRating": "safe",
+   "score": 0.26411152,
+   "languages": [
+    "en",
+    "zh-hk"
    ]
   },
   {
@@ -195,7 +184,7 @@
     "ja": "Tanuki to Kitsune"
    },
    "contentRating": "safe",
-   "score": 0.25878972,
+   "score": 0.25878957,
    "languages": [
     "en"
    ]
@@ -206,11 +195,26 @@
     "en": "Tetsunagi Kooni"
    },
    "contentRating": "safe",
-   "score": 0.25843737,
+   "score": 0.25843358,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "c0189f4a-dee6-48f4-abbe-53a4359cbcfb",
+   "title": {
+    "en": "At the Northern Fort"
+   },
+   "contentRating": "safe",
+   "score": 0.25376734,
+   "languages": [
+    "ru",
+    "en",
+    "tr",
+    "uk",
+    "id"
+   ]
   }
  ],
- "updatedAt": "2024-11-03T21:45:02+00:00"
+ "updatedAt": "2024-11-05T22:21:44+00:00"
 }

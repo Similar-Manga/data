@@ -6,12 +6,15 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "55f13fe0-0117-4dba-81f8-5c80300c54ad",
+   "id": "06bdd677-2c4b-43f6-ac43-80b62ce75ea1",
    "title": {
-    "en": "EVER"
+    "en": "The Farewell Witch"
    },
    "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "488a68b9-f0dd-49b7-9e9f-afcaa3ec9022",
@@ -27,28 +30,9 @@
    ]
   },
   {
-   "id": "9f5b7f66-04af-48b6-9953-b2f782da4f63",
-   "title": {
-    "en": "The Tale Of How A Ray Human Became A Cat Human"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "dfca051d-e783-449b-b1ce-08d199612ee8",
    "title": {
     "en": "Kakedashi Yuusha to Kansuto Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "524e1366-b03a-415c-af88-5d4ce85f7d79",
-   "title": {
-    "en": "Star Chaser Estrella"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -70,6 +54,17 @@
    ]
   },
   {
+   "id": "524e1366-b03a-415c-af88-5d4ce85f7d79",
+   "title": {
+    "en": "Star Chaser Estrella"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a19ca67e-a978-4ee0-8518-e08be4931a8f",
    "title": {
     "en": "Uwasa"
@@ -81,15 +76,20 @@
    ]
   },
   {
-   "id": "06bdd677-2c4b-43f6-ac43-80b62ce75ea1",
+   "id": "55f13fe0-0117-4dba-81f8-5c80300c54ad",
    "title": {
-    "en": "The Farewell Witch"
+    "en": "EVER"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2857143
+  },
+  {
+   "id": "9f5b7f66-04af-48b6-9953-b2f782da4f63",
+   "title": {
+    "en": "The Tale Of How A Ray Human Became A Cat Human"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
   },
   {
    "id": "c0eacf5e-8ac1-45aa-ad25-fe7d4293db25",
@@ -97,7 +97,7 @@
     "en": "The Golden Axe and the Silver Axe ~ The Goddess of the Lake Falls in Love ~"
    },
    "contentRating": "safe",
-   "score": 0.26049396,
+   "score": 0.26045468,
    "languages": [
     "en"
    ]
@@ -108,7 +108,7 @@
     "en": "A Town of Things Discarded and Forgotten"
    },
    "contentRating": "safe",
-   "score": 0.24904001,
+   "score": 0.24903558,
    "languages": [
     "pt-br",
     "en",
@@ -122,7 +122,7 @@
     "en": "Deserted Place"
    },
    "contentRating": "safe",
-   "score": 0.248796,
+   "score": 0.24879147,
    "languages": [
     "pl",
     "en",
@@ -130,46 +130,57 @@
    ]
   },
   {
-   "id": "e1d98bf5-484b-4d2b-b6bb-75e420d7235a",
+   "id": "6905f8f3-152e-4fb5-85db-7ef02d363c15",
    "title": {
-    "en": "Unsolicited Induction"
+    "en": "The Cursed Princess and The Ghost Knight"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "pt-br",
-    "fr",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "04cb0726-1de0-44c4-9790-93eb411b3986",
+   "title": {
+    "en": "Kimi no Jinsei Zenbu wo Shiawase ni Shite Agetai Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "8e53b9eb-4845-47d8-8c81-9ea5285f4b34",
+   "title": {
+    "en": "Glasses You Can't Talk About After Seeing With Them"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
     "en"
    ]
   },
   {
-   "id": "f82a5179-ad2a-491a-b1a1-6cabbd36c6b8",
+   "id": "a77f9078-9ba4-4e87-8458-aae9a657ad32",
    "title": {
-    "en": "Looks Don't Really Matter Much at the Job"
+    "en": "0°C no Mahou"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "id",
-    "fr",
+    "tr",
+    "de",
+    "hi",
+    "it",
+    "pt-br",
     "en",
     "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2962f400-c06f-4fba-81e6-181e41dad4a1",
-   "title": {
-    "en": "A Tale of Two Loners"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "th",
     "fr",
-    "en",
-    "hu",
-    "id"
+    "ca"
    ]
   },
   {
@@ -179,18 +190,7 @@
    },
    "contentRating": "safe",
    "score": 0.24743582
-  },
-  {
-   "id": "f3cbc79f-ee48-4bed-9a16-789a92dd3632",
-   "title": {
-    "en": "Issunboushi to Mimi Yowa Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-11-03T20:57:14+00:00"
+ "updatedAt": "2024-11-05T21:38:37+00:00"
 }

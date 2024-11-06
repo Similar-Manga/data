@@ -3,18 +3,21 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Mochi Is a Pomeranian"
+   "en": "Mochi wa Pomeranian"
   },
   "altTitles": [
+   {
+    "ja": "もちはポメラニアン"
+   },
    {
     "ja-ro": "Mochipome"
    },
    {
-    "ja": "もちはポメラニアン"
+    "en": "Mochi Is a Pomeranian"
    }
   ],
   "description": {
-   "en": "The adventures of a Pomeranian, Mochi, and his life partner, Shiratama.  \n  \n[Author's Twitter](https://twitter.com/PomeranianMochi)"
+   "en": "The adventures of a Pomeranian, Mochi, and his life partner, Shiratama."
   },
   "links": {
    "al": "104649",
@@ -81,16 +84,18 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2019-08-09T09:07:45+00:00",
-  "updatedAt": "2024-07-21T23:53:26+00:00"
+  "updatedAt": "2024-11-04T04:04:17+00:00"
  },
  "relationships": [
   {
    "id": "c8bbbba6-d571-4e4d-9d42-c269b7f25163",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Not to be confused with the adult doujin artist of the same name, [Mal](https://mangadex.org/author/8874a6b5-d466-4877-8879-867a83171fd2)."
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -104,9 +109,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/PomeranianMochi",
+    "updatedAt": "2024-11-04T04:03:49+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -116,7 +121,9 @@
    "id": "c8bbbba6-d571-4e4d-9d42-c269b7f25163",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Not to be confused with the adult doujin artist of the same name, [Mal](https://mangadex.org/author/8874a6b5-d466-4877-8879-867a83171fd2)."
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -130,9 +137,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/PomeranianMochi",
+    "updatedAt": "2024-11-04T04:03:49+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

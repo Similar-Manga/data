@@ -1,0 +1,171 @@
+{
+ "id": "2e6aa79c-b8f4-4cb3-a2b9-50121fa31960",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Akujo Gallery Fake"
+  },
+  "altTitles": [
+   {
+    "ja": "悪女ギャラリーフェイク"
+   }
+  ],
+  "description": {
+   "ja": "NYメトロポリタン美術館の一流キュレーター出身ながら、ブラックな闇市場で高額なアート品を扱う画商・フジタが織りなす“美”にまつわるエピソードをお送りします。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DBY87FGC",
+   "bw": "series/481415",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/844271/",
+   "mu": "d44wzka"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-04T14:06:30+00:00",
+  "updatedAt": "2024-11-04T14:06:40+00:00"
+ },
+ "relationships": [
+  {
+   "id": "17f4f2e8-d925-4c58-a593-d3c622c844e7",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 細野不二彦"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hosono Fujihiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-08-05T08:42:49+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2d1299b2-2e2a-46c6-ab5c-24532b78afdb",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tokushima Shin",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-04T14:12:06+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f12b81b7-a817-400c-9a91-0863dfbb9057",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-04T14:04:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamawaki Asou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-04T14:04:36+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6434f896-4d24-47a9-8400-f9fc96415b12",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Goromaru Emi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/goro_emi",
+    "updatedAt": "2023-12-18T22:28:40+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2fd3d2eb-2667-4c74-8e77-f6522fe03222",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-04T14:06:32+00:00",
+    "description": "",
+    "fileName": "9a15f867-ef88-4c92-8ee5-0a0a38098869.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-04T14:06:32+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

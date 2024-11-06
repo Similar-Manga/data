@@ -1,21 +1,20 @@
 {
  "id": "0cf5ea45-7205-45dc-8c1d-278ddbe6f67f",
  "title": {
-  "en": "I Love Eating a Lot! Mochizuki-san"
+  "en": "Dokagui Daisuki! Mochizuki-san"
  },
  "contentRating": "safe",
  "matches": [
   {
-   "id": "2fd5ad01-d052-4591-96d0-1c5685a68d82",
+   "id": "f3104924-c0bf-4fea-be0c-d09c98bfde3f",
    "title": {
-    "en": "Meshinuma"
+    "en": "Yama to Shokuyoku to Watashi"
    },
    "contentRating": "safe",
-   "score": 0.35418066,
+   "score": 0.33554038,
    "languages": [
     "en",
-    "vi",
-    "id"
+    "ru"
    ]
   },
   {
@@ -24,7 +23,7 @@
     "en": "The Food Diary of Miss Maid"
    },
    "contentRating": "safe",
-   "score": 0.3195764,
+   "score": 0.3351551,
    "languages": [
     "es-la",
     "vi",
@@ -35,32 +34,17 @@
    ]
   },
   {
-   "id": "f3104924-c0bf-4fea-be0c-d09c98bfde3f",
+   "id": "2fd5ad01-d052-4591-96d0-1c5685a68d82",
    "title": {
-    "en": "Yama to Shokuyoku to Watashi"
+    "en": "Meshinuma"
    },
    "contentRating": "safe",
-   "score": 0.30675173,
+   "score": 0.32698402,
    "languages": [
     "en",
-    "ru"
+    "vi",
+    "id"
    ]
-  },
-  {
-   "id": "d9e49497-2270-490c-9617-cfc273f9ad84",
-   "title": {
-    "en": "Kirigiri Hotaru no Kirai na Tabemono"
-   },
-   "contentRating": "safe",
-   "score": 0.30455047
-  },
-  {
-   "id": "b18d8328-d14d-4901-9643-e8bbead2143d",
-   "title": {
-    "en": "Shinratsu Naru Gourmet"
-   },
-   "contentRating": "safe",
-   "score": 0.300654
   },
   {
    "id": "ab8a7f18-d2da-4fa5-8c8a-fb3381a11179",
@@ -68,7 +52,18 @@
     "en": "Atama no Naka no Are o Tabetai"
    },
    "contentRating": "safe",
-   "score": 0.28973922
+   "score": 0.31839398
+  },
+  {
+   "id": "551c6469-4750-446d-b6b1-23c35c3cbc7c",
+   "title": {
+    "en": "A Meal Makes Her Forget"
+   },
+   "contentRating": "safe",
+   "score": 0.314932,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "a3ee2abd-dbd0-465a-bf0d-3b4417738aba",
@@ -76,15 +71,18 @@
     "en": "Tada no Meshifure desu"
    },
    "contentRating": "safe",
-   "score": 0.288836
+   "score": 0.31458563
   },
   {
-   "id": "cc307f9b-7599-4342-a97b-140e6ad08e41",
+   "id": "c996236b-43bb-4607-95f5-9f51a6e54bca",
    "title": {
-    "en": "Bungou Natsume wa Ryourinin ga Kirai"
+    "en": "Ramen Daisuki Koizumi-san"
    },
    "contentRating": "safe",
-   "score": 0.27529973
+   "score": 0.30082697,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "1f10531c-5a8d-40e7-b9aa-277308f28147",
@@ -92,7 +90,7 @@
     "en": "Michikusa Yoriko no Tabe Hashiri"
    },
    "contentRating": "safe",
-   "score": 0.27470735
+   "score": 0.29463986
   },
   {
    "id": "b34f25c1-048d-49de-b8da-d2cc0b122566",
@@ -100,7 +98,7 @@
     "en": "Emiya-san Chi no Kyou no Gohan"
    },
    "contentRating": "safe",
-   "score": 0.2746908,
+   "score": 0.2851757,
    "languages": [
     "fr",
     "en",
@@ -109,12 +107,42 @@
    ]
   },
   {
-   "id": "a8887025-8a0e-488f-b975-fb2116ea524a",
+   "id": "48dbc55c-4153-449a-818f-a2f368577422",
    "title": {
-    "en": "Kuneru Maruta Novo!"
+    "en": "Rin-chan Cookie no Himitsu"
    },
    "contentRating": "safe",
-   "score": 0.26601207
+   "score": 0.2851757,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cc307f9b-7599-4342-a97b-140e6ad08e41",
+   "title": {
+    "en": "Bungou Natsume wa Ryourinin ga Kirai"
+   },
+   "contentRating": "safe",
+   "score": 0.2851757
+  },
+  {
+   "id": "33521959-7349-46b1-a4f8-7cf82526cd01",
+   "title": {
+    "en": "Utsu Gohan"
+   },
+   "contentRating": "safe",
+   "score": 0.2851757,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
+   "id": "7cfc2039-9d6a-4a4e-b485-a3f5ba361435",
+   "title": {
+    "en": "Bake Bake Bake"
+   },
+   "contentRating": "safe",
+   "score": 0.2851757
   },
   {
    "id": "6d01142e-cf79-4cb7-9908-7b8bac7300c3",
@@ -122,55 +150,30 @@
     "en": "Tachinomi Goreijou"
    },
    "contentRating": "safe",
-   "score": 0.2617061
+   "score": 0.2851757
   },
   {
-   "id": "5accdd22-7ef4-4f7a-8681-a0a620ff4168",
+   "id": "299339de-e13e-4b9a-879a-7426c0cebfd3",
    "title": {
-    "en": "Wakako-Zake"
+    "en": "Pan wo Nameru na!"
    },
    "contentRating": "safe",
-   "score": 0.26029494,
+   "score": 0.2851757,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4573b6f1-2330-47ea-8b32-c9feaec4f21b",
-   "title": {
-    "en": "Hazukashigariya no Tsuma to Shinkon Seikatsu Hajimemashita"
-   },
-   "contentRating": "safe",
-   "score": 0.25504684,
-   "languages": [
-    "vi",
     "en",
-    "es-la",
+    "vi",
+    "fr",
     "id"
    ]
   },
   {
-   "id": "079fa9a3-540e-46b9-8b9e-f534145e6e73",
+   "id": "56767b57-58a9-4502-9db0-696aa3a5cc23",
    "title": {
-    "en": "Artiste"
+    "en": "Gokujou! Kyuushoku Maruhi Gourmet"
    },
    "contentRating": "safe",
-   "score": 0.25498462,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c996236b-43bb-4607-95f5-9f51a6e54bca",
-   "title": {
-    "en": "Ramen Daisuki Koizumi-san"
-   },
-   "contentRating": "safe",
-   "score": 0.25322762,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2851757
   }
  ],
- "updatedAt": "2024-11-03T20:11:44+00:00"
+ "updatedAt": "2024-11-05T20:58:34+00:00"
 }

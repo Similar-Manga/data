@@ -1,0 +1,148 @@
+{
+ "id": "3d96dde3-20a0-412f-b329-cbca5223ef14",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kaze no Iro made Oboeteru"
+  },
+  "altTitles": [
+   {
+    "ja": "風の色まで憶えてる"
+   }
+  ],
+  "description": {
+   "en": "The first year of high school: Spring Mori, who has just entered school, learns of his classmate, Michioto, who is rumored to be the \"treasure of the boys' school.\" Mori volunteered to ask for Michioto's contact information on behalf of a friend who was too scared to talk to him. Mori headed towards Michioto without really thinking about it, but the moment Mori sees him, it's love at first sight...."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0D5RMV615",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/831753/",
+   "mu": "bvgh59k",
+   "raw": "https://www.cmoa.jp/title/294895/"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "c222cb10-cf15-4ed1-afaa-0a8380651c29",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Boys' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-04T23:49:29+00:00",
+  "updatedAt": "2024-11-05T08:05:43+00:00"
+ },
+ "relationships": [
+  {
+   "id": "92eebf91-ae97-47dc-aba8-389668ea4311",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\n飾"
+    },
+    "booth": null,
+    "createdAt": "2024-11-04T23:48:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kazari",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/86487624",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kzr_109/",
+    "updatedAt": "2024-11-05T08:06:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "92eebf91-ae97-47dc-aba8-389668ea4311",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\n飾"
+    },
+    "booth": null,
+    "createdAt": "2024-11-04T23:48:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kazari",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/86487624",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kzr_109/",
+    "updatedAt": "2024-11-05T08:06:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c6df7f45-4caa-4a2b-b004-33e8e2f16f76",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-04T23:49:33+00:00",
+    "description": "",
+    "fileName": "1408fe7f-8f81-41c4-81e9-f78dbe0b7c1f.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-04T23:49:33+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a0ac3136-f2bb-418d-907f-49e791b290ba",
+   "type": "creator"
+  }
+ ]
+}

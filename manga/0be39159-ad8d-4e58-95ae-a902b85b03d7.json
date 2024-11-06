@@ -1,0 +1,154 @@
+{
+ "id": "0be39159-ad8d-4e58-95ae-a902b85b03d7",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Arano no Center-Back"
+  },
+  "altTitles": [
+   {
+    "ja": "荒野のセンターバック"
+   },
+   {
+    "en": "Center-Back In The Wasteland"
+   }
+  ],
+  "description": {
+   "en": "A high school soccer comic. The tale of a genius seen from the perspective of a very very ordinary person, a very normal center-back."
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "status": "completed",
+  "year": 2017,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-05T11:41:47+00:00",
+  "updatedAt": "2024-11-05T11:44:50+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1e68ac76-f844-4360-a8df-0b9d1a31cc01",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** よしおかちひろ\n\n**Also Known As:** 12Log"
+    },
+    "booth": null,
+    "createdAt": "2023-02-10T20:28:01+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshioka Chihiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/7724888",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/_12log",
+    "updatedAt": "2024-11-05T09:54:06+00:00",
+    "version": 4,
+    "website": "https://12log.net/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1e68ac76-f844-4360-a8df-0b9d1a31cc01",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** よしおかちひろ\n\n**Also Known As:** 12Log"
+    },
+    "booth": null,
+    "createdAt": "2023-02-10T20:28:01+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshioka Chihiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/7724888",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/_12log",
+    "updatedAt": "2024-11-05T09:54:06+00:00",
+    "version": 4,
+    "website": "https://12log.net/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "89b68c11-fbfb-4ea7-ad01-b83182e442c5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T11:41:50+00:00",
+    "description": "front cover\r\nhttps://www.pixiv.net/artworks/65973941",
+    "fileName": "10b40456-cd2b-4776-a468-ab78b4dea420.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T11:41:50+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

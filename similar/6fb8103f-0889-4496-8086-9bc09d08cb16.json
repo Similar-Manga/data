@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "0d7101ea-dff4-4c45-82b1-46713e61bff7",
-   "title": {
-    "en": "Yes! High Step Jun! (Nakayoshi DX)"
-   },
-   "contentRating": "safe",
-   "score": 0.6461907,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "8ec999a7-8f49-42bd-b02e-9969d27f8742",
    "title": {
     "en": "Sunshine After"
    },
    "contentRating": "safe",
-   "score": 0.45131433,
+   "score": 0.40895084,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0d7101ea-dff4-4c45-82b1-46713e61bff7",
+   "title": {
+    "en": "Yes! High Step Jun! (Nakayoshi DX)"
+   },
+   "contentRating": "safe",
+   "score": 0.40514776,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Escape"
    },
    "contentRating": "safe",
-   "score": 0.4280612,
+   "score": 0.39320078,
    "languages": [
     "en",
     "pl"
@@ -45,7 +45,7 @@
     "en": "Moony - Oukaryou Trilogy"
    },
    "contentRating": "safe",
-   "score": 0.39650902,
+   "score": 0.36182582,
    "languages": [
     "en"
    ]
@@ -56,11 +56,23 @@
     "en": "For you 99%"
    },
    "contentRating": "safe",
-   "score": 0.3910242,
+   "score": 0.35098183,
    "languages": [
     "uk",
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "5a822cf6-e4c0-4fc0-a8c5-97ef6f2d0cdb",
+   "title": {
+    "en": "Momomimi Pheromone"
+   },
+   "contentRating": "safe",
+   "score": 0.34808093,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -69,18 +81,7 @@
     "en": "My Beast"
    },
    "contentRating": "safe",
-   "score": 0.36546347,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3148f54e-0a67-4e47-bf4c-567df828a23e",
-   "title": {
-    "en": "Boy's Love"
-   },
-   "contentRating": "safe",
-   "score": 0.34004804,
+   "score": 0.3313995,
    "languages": [
     "en"
    ]
@@ -91,21 +92,23 @@
     "en": "Love Graduation"
    },
    "contentRating": "safe",
-   "score": 0.33480817,
+   "score": 0.31835553,
    "languages": [
     "en",
     "bg"
    ]
   },
   {
-   "id": "31a3c7fe-1962-40eb-9840-38c191a9d51f",
+   "id": "aceae7a9-54ba-4fb5-999f-29528a7e4a2a",
    "title": {
-    "en": "Roke Mani"
+    "en": "Bokura no Suki wa Warikirenai"
    },
    "contentRating": "safe",
-   "score": 0.32500586,
+   "score": 0.31811383,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "vi"
    ]
   },
   {
@@ -114,29 +117,32 @@
     "en": "Close Your Eyes"
    },
    "contentRating": "safe",
-   "score": 0.32304955,
+   "score": 0.31624725,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2edeabd4-a97e-4ae4-866b-39d82cd161a2",
+   "id": "98eb1113-4481-47a7-823d-cce1bb0bcb6e",
    "title": {
-    "en": "Kokui no Mure"
+    "en": "Boys Love"
    },
    "contentRating": "safe",
-   "score": 0.30334023,
+   "score": 0.31301695,
    "languages": [
+    "bg",
+    "ru",
+    "pl",
     "en"
    ]
   },
   {
-   "id": "6588c71d-1e53-4b9d-9485-292f39eb5780",
+   "id": "3148f54e-0a67-4e47-bf4c-567df828a23e",
    "title": {
-    "en": "Cheon Gi dot com"
+    "en": "Boy's Love"
    },
    "contentRating": "safe",
-   "score": 0.3021599,
+   "score": 0.30512905,
    "languages": [
     "en"
    ]
@@ -147,50 +153,45 @@
     "en": "Moshi Moshi, Kame-San."
    },
    "contentRating": "safe",
-   "score": 0.29845163,
+   "score": 0.29594192,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d2369396-777a-4339-a948-5199c4685ec7",
+   "id": "2edeabd4-a97e-4ae4-866b-39d82cd161a2",
    "title": {
-    "en": "Ever Share Color"
+    "en": "Kokui no Mure"
    },
    "contentRating": "safe",
-   "score": 0.2846101,
+   "score": 0.295338,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "31a3c7fe-1962-40eb-9840-38c191a9d51f",
+   "title": {
+    "en": "Roke Mani"
+   },
+   "contentRating": "safe",
+   "score": 0.29254708,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5f50db01-9ee9-49c0-90d9-f3ccda54d8f8",
+   "title": {
+    "en": "Konyaku 0-Nichi Kon wa Dou desu ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.2872919,
    "languages": [
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "cd9187e6-7c46-4203-b832-d9b41c22bf86",
-   "title": {
-    "en": "Ashita wa Kitto Tomodachi Janai, Yone"
-   },
-   "contentRating": "safe",
-   "score": 0.28305206,
-   "languages": [
-    "vi",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "8fe0352e-7254-439c-b773-0334fa11ceb7",
-   "title": {
-    "en": "2 Kaime no Hajimete no Koi"
-   },
-   "contentRating": "safe",
-   "score": 0.2769161,
-   "languages": [
-    "pl",
-    "es-la",
-    "pt-br",
-    "en"
+    "vi"
    ]
   }
  ],
- "updatedAt": "2024-11-03T21:01:09+00:00"
+ "updatedAt": "2024-11-05T21:42:08+00:00"
 }

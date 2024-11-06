@@ -1,0 +1,174 @@
+{
+ "id": "9fe885fa-0b00-4937-b6fe-02202e84e3a1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Yandere with Fading Memory"
+  },
+  "altTitles": [
+   {
+    "ja": "記憶が消えていくヤンデレ"
+   },
+   {
+    "ja-ro": "Kioku ga Kieteiku Yandere"
+   },
+   {
+    "en": "The Yandere with Fading Memory"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/yukkuri495/status/1852679846851428537"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi",
+   "en"
+  ],
+  "latestUploadedChapter": "4b4a4f42-c733-49b3-b068-751a3a19119f",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Philosophical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-04T12:10:42+00:00",
+  "updatedAt": "2024-11-04T20:25:23+00:00"
+ },
+ "relationships": [
+  {
+   "id": "07291ae7-a41a-4f23-830e-db3047a250a3",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nぜろよん"
+    },
+    "booth": null,
+    "createdAt": "2021-10-10T12:13:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Zeroyon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/3956821",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/yukkuri495",
+    "updatedAt": "2023-11-29T21:59:20+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "07291ae7-a41a-4f23-830e-db3047a250a3",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nぜろよん"
+    },
+    "booth": null,
+    "createdAt": "2021-10-10T12:13:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Zeroyon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/3956821",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/yukkuri495",
+    "updatedAt": "2023-11-29T21:59:20+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5ae3658f-f40f-4c89-9d10-da0f2e7332ee",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-04T12:10:45+00:00",
+    "description": "",
+    "fileName": "ad4eef10-7253-4ff4-be85-a7d41d1af94d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-04T12:10:45+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "5690663d-d01a-4451-b899-f17bc0211f84",
+   "type": "creator"
+  }
+ ]
+}

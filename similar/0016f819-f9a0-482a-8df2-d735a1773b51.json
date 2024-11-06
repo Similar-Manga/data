@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "fdd2beba-4d2c-49fb-bcaa-f6cf68a36eb2",
+   "title": {
+    "en": "Breath of Fire Part 2 - Little Adventurer"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "fee55571-fe89-4a0b-acf1-e913c393b18e",
    "title": {
     "en": "Sword Art Online - Material Edition: Remix"
@@ -17,20 +25,12 @@
    ]
   },
   {
-   "id": "fdd2beba-4d2c-49fb-bcaa-f6cf68a36eb2",
-   "title": {
-    "en": "Breath of Fire Part 2 - Little Adventurer"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "56ca0b1b-fcb9-4a30-b91d-fe1af4476a07",
    "title": {
     "en": "Dragalia Lost"
    },
    "contentRating": "safe",
-   "score": 0.27983198,
+   "score": 0.2798353,
    "languages": [
     "en"
    ]
@@ -41,7 +41,7 @@
     "en": "Moto SSS Rank no Saikyou Ansatsusha wa Futatabi Musou suru"
    },
    "contentRating": "safe",
-   "score": 0.27738395
+   "score": 0.2773859
   },
   {
    "id": "8ec6a40f-5b98-4fa5-a379-bb6578e7b1fa",
@@ -49,7 +49,7 @@
     "en": "When I Tried Strengthening a Rusty Sword, It Turned into an OP Magic Sword"
    },
    "contentRating": "safe",
-   "score": 0.27084246,
+   "score": 0.27084133,
    "languages": [
     "es-la",
     "en"
@@ -61,36 +61,35 @@
     "en": "Moto Saikyou Kouryakusha, Nozomanu Dungeon Haishin de Musou shite Shimasu"
    },
    "contentRating": "safe",
-   "score": 0.26347828,
+   "score": 0.26347733,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "057f5360-c37c-4619-a6a4-cb5aea7f5f6a",
+   "id": "4cb3d22f-83f8-410b-b567-6eea77f20bfc",
    "title": {
-    "en": "The Legend of Zelda - Skyward Sword"
+    "en": "World's Strongest Invalid Swordsman"
    },
    "contentRating": "safe",
    "score": 0.26082027,
    "languages": [
-    "en",
-    "ca",
-    "el",
-    "pt-br"
+    "en"
    ]
   },
   {
-   "id": "32ee048e-c84a-4478-bfbb-af134ee99200",
+   "id": "979bde26-0842-4ca0-995a-17b1875ce145",
    "title": {
-    "en": "Isekai Nation Archimaira: The Weakest King and his Unparalleled Army"
+    "en": "Live Dungeon!"
    },
    "contentRating": "safe",
    "score": 0.26082027,
    "languages": [
-    "en",
+    "pt-br",
     "fr",
-    "id"
+    "en",
+    "tr",
+    "ru"
    ]
   },
   {
@@ -111,14 +110,17 @@
    ]
   },
   {
-   "id": "4cb3d22f-83f8-410b-b567-6eea77f20bfc",
+   "id": "057f5360-c37c-4619-a6a4-cb5aea7f5f6a",
    "title": {
-    "en": "World's Strongest Invalid Swordsman"
+    "en": "The Legend of Zelda - Skyward Sword"
    },
    "contentRating": "safe",
    "score": 0.26082027,
    "languages": [
-    "en"
+    "en",
+    "ca",
+    "el",
+    "pt-br"
    ]
   },
   {
@@ -127,38 +129,7 @@
     "en": "Joou Kishi Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.2605426,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f0fd2156-8ad6-4ba5-9ded-de62f93b2712",
-   "title": {
-    "en": "The Servant of the Ultimate Party"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "542b65ee-689a-43fb-aedb-5bcaedd1d8c0",
-   "title": {
-    "en": "Albert Odyssey 2: Sword of Light, Blade of Darkness"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065
-  },
-  {
-   "id": "406d9733-804c-4c1a-8489-3bb7e04db516",
-   "title": {
-    "en": "Zelda II: The Adventure of Link (Ran Maru)"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.26055828,
    "languages": [
     "en"
    ]
@@ -178,7 +149,35 @@
    },
    "contentRating": "safe",
    "score": 0.25555065
+  },
+  {
+   "id": "542b65ee-689a-43fb-aedb-5bcaedd1d8c0",
+   "title": {
+    "en": "Albert Odyssey 2: Sword of Light, Blade of Darkness"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
+  },
+  {
+   "id": "f0fd2156-8ad6-4ba5-9ded-de62f93b2712",
+   "title": {
+    "en": "The Servant of the Ultimate Party"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "023b047f-29aa-4d75-8e3a-8627bfc92f9c",
+   "title": {
+    "en": "Albert Odyssey: Lion of Light, Lord of Darkness"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
   }
  ],
- "updatedAt": "2024-11-03T20:05:23+00:00"
+ "updatedAt": "2024-11-05T20:52:42+00:00"
 }

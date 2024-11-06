@@ -1,0 +1,159 @@
+{
+ "id": "88e89470-de57-47a3-870b-8eb1b46a654b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kimi o Wasurenai Tame no 101 no Koto"
+  },
+  "altTitles": [
+   {
+    "ja": "キミを忘れないための101のこと"
+   },
+   {
+    "ja-ro": "Kimi o Wasurenai Tame no Hyakujuuichi no Koto"
+   },
+   {
+    "ja-ro": "Kimi wo Wasurenai Tame no 101 no Koto"
+   },
+   {
+    "en": "101 Things to Remember You By"
+   }
+  ],
+  "description": {
+   "ja": "「もしかして処女なんですか？」 傷ついた恋愛未経験のアラサー女子は年下イケメン男子大学生と出会い恋の練習をすることに…！？ ”絶対に忘れられない”、愛おしいほど甘い歳の差溺愛ラブストーリー"
+  },
+  "links": {
+   "raw": "https://ganma.jp/kimi101"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-04T12:38:26+00:00",
+  "updatedAt": "2024-11-04T14:12:21+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8ab20afb-9524-4d2b-b9d6-21e47c0028d0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-04T12:36:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Koromo Aoi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-04T12:36:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8ab20afb-9524-4d2b-b9d6-21e47c0028d0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-04T12:36:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Koromo Aoi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-04T12:36:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d240279f-ae6c-4e96-aa71-a06fb2c223f5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-04T12:38:32+00:00",
+    "description": "",
+    "fileName": "9a2c2516-af8a-4238-a8e7-7b4f4c015848.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-04T12:38:32+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

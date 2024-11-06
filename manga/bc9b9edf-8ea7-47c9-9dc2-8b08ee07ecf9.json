@@ -11,7 +11,12 @@
    }
   ],
   "description": {
-   "en": "I, Seo Tae-pyung, ended up transmigrating as the younger brother of the heroine in the fantasy romance novel *Celestial Love*. As romantic as this place is supposed to be, I was too busy just trying to adapt to my new life. Romance? Yeah, right. My goal was to keep a low profile and live quietly… But then… “How could you make the crown princess fall for you of all people?!” At that point, I had no idea. I was only just beginning to scrape the surface of this bizarre turn of events…"
+   "en": "One day, Seo Tae-pyung,ended up transmigrating as the younger brother of the heroine in the fantasy romance novel Celestial Love. As romantic as this place is supposed to be, he was too busy just trying to adapt to my new life. \n\nRomance? Yeah, right! His goal was to keep a low profile and live quietly. But then... \n\n\"How could you make the crown princess fall for you of all people?!\"\n\nAt that point, he had no idea. He was only just beginning to scrape the surface of this bizarre turn of events…",
+   "ko": "나 설태평은 원작에 존재조차 하지 않는로판 소설 『천룡연가』 여주인공의 남동생으로 빙의했다.\n\n로맨스 소설답게 낭만이 가득한 곳이지만적응하기 바빠죽겠는데 뭔 연애야.최대한 눈에 띄지 않고 조용히 살아가려 했으나…\n\n\"아무리 그래도 태자비를 너에게 반하게 만들면 어떡해!\"\n\n이때까지만 해도 나는 알 수 없었다.이 상황이 이제 초입에 접어들었을 뿐이라는 잔인한 사실을…."
+  },
+  "links": {
+   "nu": "surviving-in-a-romance-fantasy-novel",
+   "raw": "https://page.kakao.com/content/65127346"
   },
   "originalLanguage": "ko",
   "status": "ongoing",
@@ -27,6 +32,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -67,6 +84,18 @@
     }
    },
    {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -89,12 +118,48 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2024-10-27T10:31:39+00:00",
-  "updatedAt": "2024-10-27T10:36:53+00:00"
+  "updatedAt": "2024-11-04T23:55:18+00:00"
  },
  "relationships": [
   {

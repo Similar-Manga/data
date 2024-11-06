@@ -1,0 +1,125 @@
+{
+ "id": "bdc0984e-b6c9-43ff-9b93-b70ba3a4d348",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Bake no Kawa no Hitobake"
+  },
+  "altTitles": [
+   {
+    "ja": "化けの皮のヒトバケ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "183769",
+   "raw": "https://bigcomics.jp/series/7e518f38c7016?utm_source=twitter\u0026utm_medium=share\u0026utm_campaign=tw_sh_7e518f38c7016"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-05T11:22:39+00:00",
+  "updatedAt": "2024-11-05T11:33:52+00:00"
+ },
+ "relationships": [
+  {
+   "id": "334a0626-4efc-4ec2-b348-84bc6b145dcd",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Satou Satsuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "334a0626-4efc-4ec2-b348-84bc6b145dcd",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Satou Satsuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2be412c3-d8dd-48db-9242-fe514ca3b112",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T11:22:42+00:00",
+    "description": "",
+    "fileName": "bc03ee93-135a-4557-94f3-ecd0faa57e38.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T11:22:42+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

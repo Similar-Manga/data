@@ -17,6 +17,9 @@
    },
    {
     "vi": "Khóa Học Tình Yêu"
+   },
+   {
+    "id": "Pelajaran Cinta"
    }
   ],
   "description": {
@@ -28,6 +31,7 @@
    "al": "181556",
    "amz": "https://www.amazon.co.jp/dp/4757595735",
    "ap": "renai-no-jugyou",
+   "bw": "series/497092/list",
    "mal": "174206",
    "mu": "w55p3av",
    "raw": "https://www.ganganonline.com/title/1758"
@@ -40,9 +44,10 @@
   "availableTranslatedLanguages": [
    "vi",
    "en",
-   "ru"
+   "ru",
+   "id"
   ],
-  "latestUploadedChapter": "bf3aca87-4c9c-4dd8-92e3-67a6731d3161",
+  "latestUploadedChapter": "d21357ec-ed8a-4921-8ac9-061cea2b365d",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -93,18 +98,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -118,9 +111,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 13,
   "createdAt": "2024-09-15T09:03:41+00:00",
-  "updatedAt": "2024-10-28T10:34:07+00:00"
+  "updatedAt": "2024-11-04T06:41:21+00:00"
  },
  "relationships": [
   {
@@ -176,14 +169,14 @@
    }
   },
   {
-   "id": "8205302b-d332-47ad-a0f7-3ac01c0f7cdd",
+   "id": "38fd6b15-c544-4dfd-a7a7-a32fc15948ad",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-15T09:03:42+00:00",
+    "createdAt": "2024-11-04T05:49:06+00:00",
     "description": "",
-    "fileName": "25db6482-696a-4a90-a762-bcfe0bf2a82d.jpg",
+    "fileName": "fea371b4-9aef-40d5-a1c2-eb9f165613f6.png",
     "locale": "ja",
-    "updatedAt": "2024-09-15T09:03:42+00:00",
+    "updatedAt": "2024-11-04T05:49:06+00:00",
     "version": 1,
     "volume": "1"
    }

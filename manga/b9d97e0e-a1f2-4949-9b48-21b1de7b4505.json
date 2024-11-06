@@ -1,0 +1,182 @@
+{
+ "id": "b9d97e0e-a1f2-4949-9b48-21b1de7b4505",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Jirai Glico"
+  },
+  "altTitles": [
+   {
+    "ja": "地雷グリコ"
+   },
+   {
+    "ja-ro": "Glico With Landmine"
+   }
+  ],
+  "description": {
+   "en": "Mabuto Sagoriya just wants to live a quiet life at school, but she's also competitive by nature. Her friend, Minoda-chan, asks her to represent their class in the competition for the right to use the rooftop at the school festival, known as the “Fugen Game.\" She gets caught up in a series of unusual challenges…? Deception and logic lead to victory - the ultimate battle of wits where no one dies!"
+  },
+  "links": {
+   "al": "183812",
+   "raw": "https://younganimal.com/series/f86488b27e3f9"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-05T11:27:28+00:00",
+  "updatedAt": "2024-11-05T11:33:54+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2e3893fb-4f4c-4505-9446-c503fff7fb3f",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- 青崎有吾"
+    },
+    "booth": null,
+    "createdAt": "2022-08-06T01:38:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aosaki Yuugo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/AosakiYuogo",
+    "updatedAt": "2024-07-10T14:43:57+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9d9f35cc-8d33-4adb-9310-ac2cc622d2f1",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akatsuki Akira",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/dbmoon_akira",
+    "updatedAt": "2023-12-03T15:04:20+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9d9f35cc-8d33-4adb-9310-ac2cc622d2f1",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akatsuki Akira",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/dbmoon_akira",
+    "updatedAt": "2023-12-03T15:04:20+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bef93e8a-b354-4d34-b16e-441ff2d0fd9b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T11:27:32+00:00",
+    "description": "",
+    "fileName": "7c918ec8-8abc-45e5-b972-b636acb82266.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T11:27:32+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

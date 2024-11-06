@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4d762c9f-f6dd-48de-8945-76d4948f2e00",
+   "title": {
+    "en": "Shoukan Kemonoshi no Gakkou"
+   },
+   "contentRating": "safe",
+   "score": 0.2884421
+  },
+  {
    "id": "4a158e32-3a2b-47fe-803d-3bee80840fb0",
    "title": {
     "en": "Himebusho Masamunden Bontan!!"
    },
    "contentRating": "safe",
-   "score": 0.2801252
+   "score": 0.28017685
   },
   {
    "id": "d257e030-9dca-4024-b2c9-73f5dad54ced",
@@ -19,26 +27,7 @@
     "en": "Kechonpa"
    },
    "contentRating": "safe",
-   "score": 0.27950445,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1cdeda11-c257-4653-b5cb-d85da238ee50",
-   "title": {
-    "en": "Motoka Spirit Detective Ryo"
-   },
-   "contentRating": "safe",
-   "score": 0.25771594
-  },
-  {
-   "id": "8b8d4e5b-20f5-42ee-985a-cb66ab1af7f9",
-   "title": {
-    "en": "Madame Joker"
-   },
-   "contentRating": "safe",
-   "score": 0.2576126,
+   "score": 0.27949294,
    "languages": [
     "en"
    ]
@@ -49,15 +38,26 @@
     "en": "Konkatsu Match to the Future"
    },
    "contentRating": "safe",
-   "score": 0.25718844
+   "score": 0.25810793
   },
   {
-   "id": "bbfef8b5-9168-4072-ba2c-015369d85031",
+   "id": "1cdeda11-c257-4653-b5cb-d85da238ee50",
    "title": {
-    "en": "Fantasize Like Love"
+    "en": "Motoka Spirit Detective Ryo"
    },
    "contentRating": "safe",
-   "score": 0.2569291
+   "score": 0.25771284
+  },
+  {
+   "id": "8b8d4e5b-20f5-42ee-985a-cb66ab1af7f9",
+   "title": {
+    "en": "Madame Joker"
+   },
+   "contentRating": "safe",
+   "score": 0.25761184,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "e7b1980c-920b-4d9d-acbe-21613d1aba28",
@@ -76,20 +76,20 @@
    "score": 0.2569291
   },
   {
+   "id": "bbfef8b5-9168-4072-ba2c-015369d85031",
+   "title": {
+    "en": "Fantasize Like Love"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291
+  },
+  {
    "id": "28710c40-bda0-41ee-bacf-38c2dbac349b",
    "title": {
     "en": "Tama no Koshi Ire"
    },
    "contentRating": "safe",
-   "score": 0.24170054
-  },
-  {
-   "id": "4d762c9f-f6dd-48de-8945-76d4948f2e00",
-   "title": {
-    "en": "Shoukan Kemonoshi no Gakkou"
-   },
-   "contentRating": "safe",
-   "score": 0.23777653
+   "score": 0.24170025
   },
   {
    "id": "e3d4a5d1-3fde-41a5-a7d2-e76cc1ad964c",
@@ -97,31 +97,7 @@
     "en": "Tomurai no Hana to Himitsu no Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.2356029
-  },
-  {
-   "id": "aa7fba12-104a-4cc9-bdaa-40bcf3d13a35",
-   "title": {
-    "en": "Ran to Aoi"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437
-  },
-  {
-   "id": "488e1380-8984-4c1c-99b6-d1e158ceeb4b",
-   "title": {
-    "en": "Hitodenashi no Kokoro"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437
-  },
-  {
-   "id": "36524787-85ed-4837-a6aa-183715b5220a",
-   "title": {
-    "en": "Koukyuu no Futari Hime"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437
+   "score": 0.23559645
   },
   {
    "id": "60d05f87-f4a2-4ff1-b553-ecd3b7112ebc",
@@ -135,6 +111,14 @@
    ]
   },
   {
+   "id": "aa7fba12-104a-4cc9-bdaa-40bcf3d13a35",
+   "title": {
+    "en": "Ran to Aoi"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437
+  },
+  {
    "id": "1c8474c2-677e-443c-b249-a943dac671de",
    "title": {
     "en": "Maigo Kyuujo wa Ryuu no Miko no Okiniiri Ryuukakoku Koukyuu Jikenchou"
@@ -144,7 +128,23 @@
    "languages": [
     "es-la"
    ]
+  },
+  {
+   "id": "488e1380-8984-4c1c-99b6-d1e158ceeb4b",
+   "title": {
+    "en": "Hitodenashi no Kokoro"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437
+  },
+  {
+   "id": "79f6a0aa-422f-444c-b2e1-1c78450d0831",
+   "title": {
+    "en": "Shouwa Fanfare"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437
   }
  ],
- "updatedAt": "2024-11-03T20:31:59+00:00"
+ "updatedAt": "2024-11-05T21:16:22+00:00"
 }

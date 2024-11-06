@@ -1,0 +1,128 @@
+{
+ "id": "6d7f7272-4b01-46db-a37b-21392985bd14",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ki no Mi Ki no Mama"
+  },
+  "altTitles": [
+   {
+    "ja": "きのみきのまま"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "183816"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-05T11:31:14+00:00",
+  "updatedAt": "2024-11-05T11:33:56+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b3bab7ef-d38b-4638-b751-875e3452bca5",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\n水谷フーカ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizutani Fuka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/f_mizutani",
+    "updatedAt": "2023-10-13T13:54:41+00:00",
+    "version": 2,
+    "website": "http://necomati.pepper.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b3bab7ef-d38b-4638-b751-875e3452bca5",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\n水谷フーカ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizutani Fuka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/f_mizutani",
+    "updatedAt": "2023-10-13T13:54:41+00:00",
+    "version": 2,
+    "website": "http://necomati.pepper.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "488d508a-7a63-4e38-9ba1-dad010cc575e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T11:31:16+00:00",
+    "description": "",
+    "fileName": "e20f5c53-302c-48ca-aec4-535d11c54e35.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T11:31:16+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

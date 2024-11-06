@@ -7,20 +7,23 @@
   },
   "altTitles": [
    {
-    "en": "半沢直樹"
+    "ja": "半沢直樹"
    }
   ],
   "description": {
-   "en": "Hanzawa Naoki is the Loans Division Chief of the Osaka Nishi branch of the third largest megabank in the world, the Tokyo Chuo Bank. To meet the target loan amount set by the headquarter branch, the Branch Manager of the Osaka Nishi branch, Asano Tadasu, asks Hanzawa to handle a loan required by Nishi Osaka Steel. However, after obtaining the loan, the President of Nishi Osaka Steel, Higashida Mitsuru, declares bankruptcy and goes missing. Hanzawa must now race against time to retrieve the loan and uphold the capital and honour of the bank!  \n  \nOriginally a series of novels, it received a TV drama adaptation in 2013, securing one of the highest ratings for a TV drama to date."
+   "en": "Hanzawa Naoki is the Loans Division Chief of the Osaka Nishi branch of the third largest megabank in the world, the Tokyo Chuo Bank. To meet the target loan amount set by the headquarter branch, the Branch Manager of the Osaka Nishi branch, Asano Tadasu, asks Hanzawa to handle a loan required by Nishi Osaka Steel. However, after obtaining the loan, the President of Nishi Osaka Steel, Higashida Mitsuru, declares bankruptcy and goes missing. Hanzawa must now race against time to retrieve the loan and uphold the capital and honour of the bank!  \n  \nOriginally a series of novels, it received a TV drama adaptation in 2013, securing one of the highest ratings for a TV drama to date.\n___\n**Compositor:** [Tsuha Keiichi](https://mangadex.org/author/1c15bff7-bfc9-462a-9086-098aa562389b)"
   },
   "links": {
    "al": "115171",
+   "amz": "https://www.amazon.co.jp/dp/B08FMRM256",
    "ap": "hanzawa-naoki",
-   "bw": "de23d0d1f3-0a5d-4bf7-b603-e751b37c25ec",
+   "bw": "series/243856",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/582758/",
    "mu": "161108"
   },
   "originalLanguage": "ja",
   "lastVolume": "5",
+  "lastChapter": "47",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2020,
@@ -68,44 +71,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2020-12-28T18:27:58+00:00",
-  "updatedAt": "2022-11-04T03:30:06+00:00"
+  "updatedAt": "2024-11-04T12:59:49+00:00"
  },
  "relationships": [
-  {
-   "id": "1c15bff7-bfc9-462a-9086-098aa562389b",
-   "type": "author",
-   "attributes": {
-    "biography": {
-     "en": "**Name In Native Language:** 津覇圭一"
-    },
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Tsuha Keiichi",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-24T03:35:27+00:00",
-    "version": 2,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
   {
    "id": "9b0bc435-823e-40bc-8071-274682f89f6c",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 池井戸潤"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -119,9 +96,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/officeikeido",
+    "updatedAt": "2024-11-04T12:51:21+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -131,7 +108,9 @@
    "id": "db54ebc7-6edb-4477-a768-115c2d1ea013",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** フジモトシゲキ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -145,25 +124,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/SF59449138",
+    "updatedAt": "2024-11-04T13:03:15+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "e7dba7e0-dc37-4f13-8dfd-1fded65982d7",
+   "id": "e5d2266f-f33d-40d8-8d6a-b6e215ad324e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:24:36+00:00",
+    "createdAt": "2024-11-04T12:59:23+00:00",
     "description": "",
-    "fileName": "0fe60715-49e2-46ef-b0e9-138fd7fec773.jpg",
+    "fileName": "21439a5a-46dc-4e32-b3e5-806382f4a6d8.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:24:36+00:00",
+    "updatedAt": "2024-11-04T12:59:23+00:00",
     "version": 1,
-    "volume": null
+    "volume": "5"
    }
   }
  ]

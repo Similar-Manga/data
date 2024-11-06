@@ -7,7 +7,7 @@
   },
   "altTitles": [
    {
-    "en": "Magi dj - Alibabakun no Oniku wo Tsumamu Hon"
+    "ja-ro": "Magi dj - Alibabakun no Oniku wo Tsumamu Hon"
    }
   ],
   "description": {
@@ -50,16 +50,18 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2019-09-24T10:37:29+00:00",
-  "updatedAt": "2019-09-24T10:37:29+00:00"
+  "updatedAt": "2024-11-05T08:54:57+00:00"
  },
  "relationships": [
   {
    "id": "4554b481-af9c-4d0d-adb6-1c6453aba47c",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n古川ふみ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -70,13 +72,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=3887170",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/fumi_full",
+    "updatedAt": "2024-11-05T08:15:33+00:00",
+    "version": 2,
+    "website": "http://pas8.sakura.ne.jp/micoma/sun",
     "weibo": null,
     "youtube": null
    }
@@ -111,7 +113,9 @@
    "id": "4554b481-af9c-4d0d-adb6-1c6453aba47c",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n古川ふみ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -122,13 +126,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=3887170",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/fumi_full",
+    "updatedAt": "2024-11-05T08:15:33+00:00",
+    "version": 2,
+    "website": "http://pas8.sakura.ne.jp/micoma/sun",
     "weibo": null,
     "youtube": null
    }

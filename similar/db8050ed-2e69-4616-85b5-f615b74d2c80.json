@@ -11,7 +11,7 @@
     "en": "Animal 1"
    },
    "contentRating": "safe",
-   "score": 0.3206997
+   "score": 0.3206956
   },
   {
    "id": "003e7fbf-f047-4783-a7df-1533a2a653d4",
@@ -19,7 +19,7 @@
     "en": "Yowamushi Pedal"
    },
    "contentRating": "safe",
-   "score": 0.28910694,
+   "score": 0.28910097,
    "languages": [
     "en",
     "fr",
@@ -34,7 +34,7 @@
     "en": "Play Ball"
    },
    "contentRating": "safe",
-   "score": 0.27521166
+   "score": 0.27520847
   },
   {
    "id": "7f5e5bd3-a357-48d7-8373-1408c046cf5c",
@@ -42,7 +42,7 @@
     "en": "Do Your Best, Shonen Giants"
    },
    "contentRating": "safe",
-   "score": 0.2713705
+   "score": 0.2713775
   },
   {
    "id": "1b187ef7-d554-4c2a-970e-4bc73a08fe26",
@@ -50,7 +50,7 @@
     "en": "Kore Kaite Shine"
    },
    "contentRating": "safe",
-   "score": 0.2706859,
+   "score": 0.2706889,
    "languages": [
     "en",
     "pt-br"
@@ -62,7 +62,7 @@
     "en": "Blue Orchestra"
    },
    "contentRating": "safe",
-   "score": 0.26425713,
+   "score": 0.264253,
    "languages": [
     "en",
     "es-la",
@@ -73,12 +73,20 @@
    ]
   },
   {
+   "id": "b06a0002-c27b-4cbe-8c4a-a8e61a4bc37c",
+   "title": {
+    "en": "Song of Baseball Fans"
+   },
+   "contentRating": "safe",
+   "score": 0.26208428
+  },
+  {
    "id": "df9be021-ff37-419e-ba6e-dda3e28eb763",
    "title": {
     "en": "Kono Oto Tomare!"
    },
    "contentRating": "safe",
-   "score": 0.25992465,
+   "score": 0.25989485,
    "languages": [
     "fr",
     "vi",
@@ -97,7 +105,7 @@
     "en": "Countryside General"
    },
    "contentRating": "safe",
-   "score": 0.2577169
+   "score": 0.25771368
   },
   {
    "id": "f7888782-0727-49b0-95ec-a3530c70f83b",
@@ -105,7 +113,7 @@
     "en": "Hajime no Ippo - The First Step"
    },
    "contentRating": "safe",
-   "score": 0.25074694,
+   "score": 0.2507477,
    "languages": [
     "en",
     "ar",
@@ -125,7 +133,7 @@
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.24980386,
+   "score": 0.24981031,
    "languages": [
     "ru",
     "en",
@@ -139,9 +147,27 @@
     "en": "The Story of Ai and Makoto: Love and Sincerity"
    },
    "contentRating": "safe",
-   "score": 0.24445693,
+   "score": 0.24445191,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "127d4af7-4062-45ec-afb7-b8cf33deb3db",
+   "title": {
+    "en": "Welcome to the Ballroom"
+   },
+   "contentRating": "safe",
+   "score": 0.24338606,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr",
+    "pl",
+    "ar",
+    "es",
+    "es-la",
+    "fr"
    ]
   },
   {
@@ -150,7 +176,18 @@
     "en": "Dokaben - Dokaben Part 1"
    },
    "contentRating": "safe",
-   "score": 0.23982398
+   "score": 0.23981808
+  },
+  {
+   "id": "adeff5fc-de9f-4d73-8aad-d95c70e0ca6b",
+   "title": {
+    "en": "Discover"
+   },
+   "contentRating": "safe",
+   "score": 0.23762488,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
@@ -158,7 +195,7 @@
     "en": "The Dangers in My Heart"
    },
    "contentRating": "safe",
-   "score": 0.2370498,
+   "score": 0.23703301,
    "languages": [
     "vi",
     "en",
@@ -169,58 +206,7 @@
     "ar",
     "fr"
    ]
-  },
-  {
-   "id": "c1cf1700-3f87-4b29-89f2-d89d58307830",
-   "title": {
-    "en": "Idol A"
-   },
-   "contentRating": "safe",
-   "score": 0.23654544,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "adeff5fc-de9f-4d73-8aad-d95c70e0ca6b",
-   "title": {
-    "en": "Hakkeyoi"
-   },
-   "contentRating": "safe",
-   "score": 0.23601536,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
-   "title": {
-    "en": "Blue Box"
-   },
-   "contentRating": "safe",
-   "score": 0.23572989,
-   "languages": [
-    "vi",
-    "es-la",
-    "fr",
-    "pt-br",
-    "en",
-    "id",
-    "tl",
-    "ar",
-    "uk",
-    "es",
-    "eu",
-    "tr",
-    "ro",
-    "th",
-    "kk",
-    "ru",
-    "hu"
-   ]
   }
  ],
- "updatedAt": "2024-11-03T21:55:12+00:00"
+ "updatedAt": "2024-11-05T22:31:14+00:00"
 }

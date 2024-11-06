@@ -6,20 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "594da5f8-a665-4199-be91-365b8ff1992f",
-   "title": {
-    "en": "Jinrou Game: Lost Eden"
-   },
-   "contentRating": "safe",
-   "score": 0.25883746
-  },
-  {
    "id": "6f084aaa-ab29-40f8-82a9-b7586b260182",
    "title": {
     "en": "Battle in 5 Seconds After Meeting"
    },
    "contentRating": "safe",
-   "score": 0.25637105,
+   "score": 0.25306386,
    "languages": [
     "en",
     "vi",
@@ -31,12 +23,12 @@
    ]
   },
   {
-   "id": "692263fa-9215-476c-a769-01e204d3aacc",
+   "id": "594da5f8-a665-4199-be91-365b8ff1992f",
    "title": {
-    "en": "Psychopath Kanojo to Houkai Suru Boku no Nichijou"
+    "en": "Jinrou Game: Lost Eden"
    },
    "contentRating": "safe",
-   "score": 0.24743582
+   "score": 0.25146624
   },
   {
    "id": "f4bbb127-3951-44af-8c31-2d7aecc5c086",
@@ -48,6 +40,14 @@
    "languages": [
     "vi"
    ]
+  },
+  {
+   "id": "692263fa-9215-476c-a769-01e204d3aacc",
+   "title": {
+    "en": "Psychopath Kanojo to Houkai Suru Boku no Nichijou"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
   },
   {
    "id": "52ed2910-c32d-4f54-b811-1f48f86f3f15",
@@ -63,7 +63,7 @@
     "en": "Reset Game"
    },
    "contentRating": "safe",
-   "score": 0.24176456,
+   "score": 0.23782396,
    "languages": [
     "en"
    ]
@@ -74,7 +74,7 @@
     "en": "Money Game"
    },
    "contentRating": "safe",
-   "score": 0.24140888,
+   "score": 0.23540072,
    "languages": [
     "en"
    ]
@@ -97,10 +97,18 @@
     "en": "Venus Versus Virus"
    },
    "contentRating": "safe",
-   "score": 0.23305237,
+   "score": 0.23157984,
    "languages": [
     "pl"
    ]
+  },
+  {
+   "id": "2c29d657-1a4f-43bb-ba61-c62e54051b89",
+   "title": {
+    "en": "Shinreigari - Another Side"
+   },
+   "contentRating": "safe",
+   "score": 0.22367977
   },
   {
    "id": "b71eb333-f282-4dfc-86c0-8bbdedd0ad47",
@@ -108,18 +116,7 @@
     "en": "Sangekitou no Mowgli"
    },
    "contentRating": "safe",
-   "score": 0.22189616
-  },
-  {
-   "id": "38cc5a9b-bbee-4c32-aaf6-79bd883be855",
-   "title": {
-    "en": "Inside"
-   },
-   "contentRating": "safe",
-   "score": 0.22065142,
-   "languages": [
-    "en"
-   ]
+   "score": 0.22034411
   },
   {
    "id": "5e747404-cee0-4e76-9172-1522f2028268",
@@ -130,31 +127,14 @@
    "score": 0.21597971
   },
   {
-   "id": "b3b05fe3-2684-406f-9c32-f3b32ce49cf7",
+   "id": "0a393e6f-c8ac-4231-862e-f8f4ea735532",
    "title": {
-    "en": "Online - The Comic"
+    "en": "Speed Grapher"
    },
    "contentRating": "safe",
-   "score": 0.21505469,
+   "score": 0.21428573,
    "languages": [
-    "es-la",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
-   "title": {
-    "en": "Major 2nd"
-   },
-   "contentRating": "safe",
-   "score": 0.21501024,
-   "languages": [
-    "es",
-    "ru",
-    "en",
-    "pt-br",
-    "fr"
+    "en"
    ]
   },
   {
@@ -166,13 +146,35 @@
    "score": 0.21428573
   },
   {
-   "id": "2c29d657-1a4f-43bb-ba61-c62e54051b89",
+   "id": "38cc5a9b-bbee-4c32-aaf6-79bd883be855",
    "title": {
-    "en": "Shinreigari - Another Side"
+    "en": "Inside"
    },
    "contentRating": "safe",
-   "score": 0.21428573
+   "score": 0.21337508,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+   "title": {
+    "en": "Moriarty the Patriot"
+   },
+   "contentRating": "safe",
+   "score": 0.21206059,
+   "languages": [
+    "en",
+    "id",
+    "ru",
+    "pt-br",
+    "ar",
+    "tr",
+    "vi",
+    "uk",
+    "hu"
+   ]
   }
  ],
- "updatedAt": "2024-11-03T21:59:35+00:00"
+ "updatedAt": "2024-11-05T22:35:42+00:00"
 }

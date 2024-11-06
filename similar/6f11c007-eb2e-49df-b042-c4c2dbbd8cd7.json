@@ -11,7 +11,7 @@
     "en": "Kuneru Maruta Novo!"
    },
    "contentRating": "safe",
-   "score": 0.2847111
+   "score": 0.28471437
   },
   {
    "id": "910d61ce-1615-4a38-b8e9-2646e7445af8",
@@ -19,7 +19,7 @@
     "en": "Aiseki Ii desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.25444785,
+   "score": 0.2544499,
    "languages": [
     "en"
    ]
@@ -30,7 +30,15 @@
     "en": "Tachinomi Goreijou"
    },
    "contentRating": "safe",
-   "score": 0.2470142
+   "score": 0.2470134
+  },
+  {
+   "id": "d74319f9-9436-4698-a39c-b31d231009eb",
+   "title": {
+    "en": "Itadaki! Nariagari Meshi"
+   },
+   "contentRating": "safe",
+   "score": 0.24667287
   },
   {
    "id": "f77bb064-2f90-497d-a9b7-f13a6d8bb121",
@@ -38,7 +46,7 @@
     "en": "Kodomo no Gourmet"
    },
    "contentRating": "safe",
-   "score": 0.24350354
+   "score": 0.24351025
   },
   {
    "id": "cc307f9b-7599-4342-a97b-140e6ad08e41",
@@ -46,7 +54,7 @@
     "en": "Bungou Natsume wa Ryourinin ga Kirai"
    },
    "contentRating": "safe",
-   "score": 0.24287863
+   "score": 0.2428776
   },
   {
    "id": "7cfc2039-9d6a-4a4e-b485-a3f5ba361435",
@@ -54,7 +62,7 @@
     "en": "Bake Bake Bake"
    },
    "contentRating": "safe",
-   "score": 0.23697147
+   "score": 0.23698021
   },
   {
    "id": "48dbc55c-4153-449a-818f-a2f368577422",
@@ -62,7 +70,7 @@
     "en": "Rin-chan Cookie no Himitsu"
    },
    "contentRating": "safe",
-   "score": 0.23622358,
+   "score": 0.23621702,
    "languages": [
     "en"
    ]
@@ -92,12 +100,20 @@
    ]
   },
   {
+   "id": "bdb9ba04-3022-490a-906e-f3f845508f88",
+   "title": {
+    "en": "Meshi o Kurashita Hana to Tsugu"
+   },
+   "contentRating": "safe",
+   "score": 0.23113394
+  },
+  {
    "id": "30d61f7f-b018-45df-a2fb-570089084214",
    "title": {
     "en": "Outreijou"
    },
    "contentRating": "safe",
-   "score": 0.23075728,
+   "score": 0.23076485,
    "languages": [
     "pt-br",
     "en",
@@ -110,67 +126,9 @@
     "en": "Lunch Zake"
    },
    "contentRating": "safe",
-   "score": 0.2307196,
+   "score": 0.230719,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "56767b57-58a9-4502-9db0-696aa3a5cc23",
-   "title": {
-    "en": "Gokujou! Kyuushoku Maruhi Gourmet"
-   },
-   "contentRating": "safe",
-   "score": 0.22878776
-  },
-  {
-   "id": "b34f25c1-048d-49de-b8da-d2cc0b122566",
-   "title": {
-    "en": "Emiya-san Chi no Kyou no Gohan"
-   },
-   "contentRating": "safe",
-   "score": 0.22878776,
-   "languages": [
-    "fr",
-    "en",
-    "vi",
-    "ru"
-   ]
-  },
-  {
-   "id": "33521959-7349-46b1-a4f8-7cf82526cd01",
-   "title": {
-    "en": "Utsu Gohan"
-   },
-   "contentRating": "safe",
-   "score": 0.22878776,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
-   "id": "3a6b5746-3b5f-4f52-86f9-6be1cf49f0d5",
-   "title": {
-    "ja": "Deaimon"
-   },
-   "contentRating": "safe",
-   "score": 0.22878776,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "299339de-e13e-4b9a-879a-7426c0cebfd3",
-   "title": {
-    "en": "Pan wo Nameru na!"
-   },
-   "contentRating": "safe",
-   "score": 0.22878776,
-   "languages": [
-    "en",
-    "vi",
-    "fr",
-    "id"
    ]
   },
   {
@@ -188,7 +146,34 @@
     "ru",
     "uk"
    ]
+  },
+  {
+   "id": "56767b57-58a9-4502-9db0-696aa3a5cc23",
+   "title": {
+    "en": "Gokujou! Kyuushoku Maruhi Gourmet"
+   },
+   "contentRating": "safe",
+   "score": 0.22878776
+  },
+  {
+   "id": "33521959-7349-46b1-a4f8-7cf82526cd01",
+   "title": {
+    "en": "Utsu Gohan"
+   },
+   "contentRating": "safe",
+   "score": 0.22878776,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
+   "id": "0cf5ea45-7205-45dc-8c1d-278ddbe6f67f",
+   "title": {
+    "en": "Dokagui Daisuki! Mochizuki-san"
+   },
+   "contentRating": "safe",
+   "score": 0.22878776
   }
  ],
- "updatedAt": "2024-11-03T21:00:49+00:00"
+ "updatedAt": "2024-11-05T21:41:51+00:00"
 }

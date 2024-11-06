@@ -1,0 +1,183 @@
+{
+ "id": "6a57af07-bb55-4d68-b0c8-259d54c54ef8",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Medieval European Football -The Autumn of The Football-"
+  },
+  "altTitles": [
+   {
+    "ja": "中世ヨーロッパのフットボール　-The Autumn of The Football-"
+   },
+   {
+    "ja-ro": "Chuusei Europe no Football -The Autumn of The Football-"
+   }
+  ],
+  "description": {
+   "en": "In the mid-15th century, two mercenaries from England introduce football to a small prince in the Holy Roman Empire…\n___\n**Retail Links:**\n- [Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=361452)\n- [Alice Books](https://alice-books.com/item/show/6497-4)"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "status": "completed",
+  "year": 2018,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-05T10:35:27+00:00",
+  "updatedAt": "2024-11-05T10:59:45+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1e68ac76-f844-4360-a8df-0b9d1a31cc01",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** よしおかちひろ\n\n**Also Known As:** 12Log"
+    },
+    "booth": null,
+    "createdAt": "2023-02-10T20:28:01+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshioka Chihiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/7724888",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/_12log",
+    "updatedAt": "2024-11-05T09:54:06+00:00",
+    "version": 4,
+    "website": "https://12log.net/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1e68ac76-f844-4360-a8df-0b9d1a31cc01",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** よしおかちひろ\n\n**Also Known As:** 12Log"
+    },
+    "booth": null,
+    "createdAt": "2023-02-10T20:28:01+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshioka Chihiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/7724888",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/_12log",
+    "updatedAt": "2024-11-05T09:54:06+00:00",
+    "version": 4,
+    "website": "https://12log.net/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "01118fd1-d4c1-4af1-bf43-abea6278075a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T10:35:37+00:00",
+    "description": "",
+    "fileName": "085f8fd1-0e7c-4569-bd57-1d3af3572f04.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T10:35:37+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "1de2469f-f678-49c3-99b8-d3de0ca55b18",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

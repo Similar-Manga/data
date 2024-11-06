@@ -7,20 +7,25 @@
   },
   "altTitles": [
    {
-    "en": "ドジっこぱんつ"
+    "ja": "ドジっこぱんつ"
    }
   ],
   "description": {
    "en": "One day, a super-clumsy Tanigawa accidentally went to school wearing his sister's underwear. Unfortunately, he was seen by his classmate Matsuyuki, and through a ridiculous misunderstanding thought Tanigawa was some kind of gay pervert? Tanigawa tried to clear up the misunderstanding, but instead just made everything worse! However, Tanigawa gradually becomes attracted to Matsuyuki, who in turn tries to help Tanigawa get rid of his clumsiness."
   },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/4778124022/",
    "ap": "dojikko-pants",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2199895",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/451710/",
    "kt": "57302",
-   "mu": "146661"
+   "mu": "146661",
+   "raw": "https://www.cmoa.jp/title/146169/"
   },
   "originalLanguage": "ja",
   "lastChapter": "8.5",
   "status": "completed",
+  "year": 2018,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -77,16 +82,18 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2020-09-23T11:12:55+00:00",
-  "updatedAt": "2021-05-25T15:42:09+00:00"
+  "updatedAt": "2024-11-05T08:49:14+00:00"
  },
  "relationships": [
   {
    "id": "4554b481-af9c-4d0d-adb6-1c6453aba47c",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n古川ふみ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -97,13 +104,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=3887170",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/fumi_full",
+    "updatedAt": "2024-11-05T08:15:33+00:00",
+    "version": 2,
+    "website": "http://pas8.sakura.ne.jp/micoma/sun",
     "weibo": null,
     "youtube": null
    }
@@ -112,7 +119,9 @@
    "id": "4554b481-af9c-4d0d-adb6-1c6453aba47c",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n古川ふみ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -123,13 +132,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=3887170",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/fumi_full",
+    "updatedAt": "2024-11-05T08:15:33+00:00",
+    "version": 2,
+    "website": "http://pas8.sakura.ne.jp/micoma/sun",
     "weibo": null,
     "youtube": null
    }
@@ -142,9 +151,9 @@
     "description": "",
     "fileName": "b4f999f4-16fc-46d1-8460-960a98f703cc.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:11:48+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-05T08:49:14+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

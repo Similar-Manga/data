@@ -3,21 +3,27 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I Love Eating a Lot! Mochizuki-san"
+   "en": "Dokagui Daisuki! Mochizuki-san"
   },
   "altTitles": [
    {
-    "ja-ro": "Dokagui Daisuki! Mochizuki-san"
+    "ja": "ドカ食いダイスキ！ もちづきさん"
    },
    {
-    "ja": "ドカ食いダイスキ！ もちづきさん"
+    "en": "I Love Eating a Lot! Mochizuki-san"
    }
   ],
   "description": {
-   "en": "Mochizuki Mikoto, 21 years old, sales office worker!\nHer happiness as a gentle and soft-spoken girl is... binge eating!?!? She eats hearty, thick, mountainous portions of food without stopping.\nIt's a devilish pleasure that can only be obtained by skyrocketing her blood sugar levels.\nA forbidden gourmet gag that pushes the limits by \"overdosing\" on calories!"
+   "en": "Mochizuki Mikoto, 21 years old, sales office worker! Her happiness as a gentle and soft-spoken girl is... binge eating!?!? She eats hearty, thick, mountainous portions of food without stopping. It's a devilish pleasure that can only be obtained by skyrocketing her blood sugar levels.",
+   "ja": "望月美琴、21歳・営業事務！おっとり・ほんわかな彼女の幸せは……《ドカ食い》!?!?ガッツリ・こってり・山盛りの食べ物をひたすらに食す♪"
   },
   "links": {
+   "al": "180690",
+   "amz": "https://www.amazon.co.jp/dp/B0D1PM1B8G",
+   "ap": "dokagui-daisuki-mochizuki-san",
    "bw": "series/490112/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/858968/",
+   "mu": "b27ur02",
    "raw": "https://younganimal.com/series/5194e06f961ab"
   },
   "originalLanguage": "ja",
@@ -35,18 +41,6 @@
      },
      "description": {},
      "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
      "version": 1
     }
    },
@@ -76,9 +70,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2024-09-25T07:01:28+00:00",
-  "updatedAt": "2024-10-28T18:57:34+00:00"
+  "updatedAt": "2024-11-04T16:30:40+00:00"
  },
  "relationships": [
   {

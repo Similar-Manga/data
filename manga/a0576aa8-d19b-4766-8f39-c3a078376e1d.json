@@ -10,7 +10,9 @@
     "ja": "殺人ダイヤル9999"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "If you had the access to Murder Dial 9999, a strange service that causes the death of whoever you order it to kill, who would you murder?\n\n\"Rrrrr... this is Murder Dial 9999. If there's someone you want to kill, we'll take your order.\" A creepy message comes from a phone she picked up by chance... Akiko is skeptical, but when she places her order, her love rival Rina is found dead, covered in blood. But the price of fear is... This is a sleep-disturbing, mad horror collection of seven short stories, including \"Murder Dial 9999,\" \"The Secret Room Club,\" \"The Human Bug Flower,\" \"The Human Bug Flower - The Growth of Madness,\" \"Jack the Ripper,\" \"Nightmare,\" and \"Murder Dial 9999 #2."
+  },
   "links": {
    "mu": "38806",
    "raw": "https://www.sukima.me/book/title/BT0000271697/"
@@ -47,6 +49,18 @@
     }
    },
    {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "51d83883-4103-437c-b4b1-731cb73d786c",
     "type": "tag",
     "attributes": {
@@ -71,6 +85,18 @@
     }
    },
    {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
     "attributes": {
@@ -79,6 +105,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -96,9 +134,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2022-09-18T21:01:01+00:00",
-  "updatedAt": "2024-05-01T13:31:44+00:00"
+  "updatedAt": "2024-11-04T11:29:05+00:00"
  },
  "relationships": [
   {

@@ -16,9 +16,11 @@
   "links": {
    "al": "97581",
    "ap": "danouryoku-jk-narumogawa-san",
+   "bw": "series/126054/list",
    "kt": "45943",
    "mal": "100697",
-   "mu": "124220"
+   "mu": "124220",
+   "raw": "https://comic.pixiv.net/works/4075?srsltid=AfmBOorhvyxrGV5k88oSCS5K3j7h97EVpsmnf-qSBoXtpBhjfyqLO7Jt"
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
@@ -62,24 +64,12 @@
      "group": "theme",
      "version": 1
     }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2018-12-28T08:34:07+00:00",
-  "updatedAt": "2024-02-13T13:39:51+00:00"
+  "updatedAt": "2024-11-03T13:24:37+00:00"
  },
  "relationships": [
   {
@@ -135,16 +125,16 @@
    }
   },
   {
-   "id": "7d5899a5-fed9-4f0d-8dca-933d2721c870",
+   "id": "1d8fca37-2a8a-4de1-b23d-28cf3a0b0580",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:55:59+00:00",
+    "createdAt": "2024-11-03T13:26:15+00:00",
     "description": "",
-    "fileName": "33128b82-3418-416e-a0f9-0de3661505e4.jpg",
+    "fileName": "fbf2e896-cd74-4c17-a3a4-04aa592b1eee.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:55:59+00:00",
+    "updatedAt": "2024-11-03T13:26:15+00:00",
     "version": 1,
-    "volume": null
+    "volume": "3"
    }
   }
  ]

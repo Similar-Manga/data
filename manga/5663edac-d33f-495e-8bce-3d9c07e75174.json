@@ -1,0 +1,146 @@
+{
+ "id": "5663edac-d33f-495e-8bce-3d9c07e75174",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Isekai Soapland Kaguya Gaiden ~Otenba Awahime no Dai Bouken~"
+  },
+  "altTitles": [
+   {
+    "ja": "異世界ソープランド輝夜外伝 あんずクエスト ～おてんば泡姫の大冒険～"
+   }
+  ],
+  "description": {
+   "ja": "古よりドラゴンが蔓延り、「竜を狩る者」の存在が必要不可欠な王国「トムル」。その僻地「ローゼンフィールド地区」に店を構えるのは、日本が誇るソープランド、その名は「輝夜」！“異世界”と“ソープランド”が繋がったのだ！日夜、名を上げた英雄「ドラゴンハンター」達と「泡姫」との戦いが繰り広げられている！そんな「輝夜」の人気泡姫・あんずは、禁じられた扉を開いてしまい、異世界へ！突如ドラゴンに襲われるも、勇者見習い・クックに救われる。民衆の間で“真の勇者達の集いし伝説の楽園”と噂される 「輝夜」を目指してーーーー2人の大冒険が始まった！！！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CZXT22QQ",
+   "bw": "series/466260",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/826487/",
+   "mu": "k3jspqc"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-04T10:50:30+00:00",
+  "updatedAt": "2024-11-04T10:56:16+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a4775d22-7839-4533-9030-68cf276d3cb9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inokuma Shinobu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a4775d22-7839-4533-9030-68cf276d3cb9",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inokuma Shinobu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6bcaa37d-d789-4b77-a41d-e09526769e08",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-04T10:50:33+00:00",
+    "description": "",
+    "fileName": "f9844d63-8e93-47d4-884f-b14360d2f5b3.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-04T10:50:33+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "6c591fae-cd28-467d-84ce-e450c23d96bf",
+   "type": "manga",
+   "related": "spin_off"
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

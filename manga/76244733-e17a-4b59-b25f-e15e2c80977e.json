@@ -20,8 +20,8 @@
    "al": "137033",
    "amz": "https://www.amazon.co.jp/dp/B0B2VT7D1K",
    "ap": "chun-no-ongaeshi",
-   "bw": "series/363418",
-   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD%3A14\u0026q=%E3%83%81%E3%83%A5%E3%83%B3%E3%81%AE%E6%81%A9%E8%BF%94%E3%81%97\u0026order=reldesc",
+   "bw": "series/363418/list",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD:14\u0026q=チュンの恩返し\u0026order=reldesc",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/711303/",
    "mal": "154743",
    "mu": "0x43i5s",
@@ -74,18 +74,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -111,9 +99,9 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 14,
   "createdAt": "2021-12-25T00:29:06+00:00",
-  "updatedAt": "2023-12-05T15:02:09+00:00"
+  "updatedAt": "2024-11-03T21:05:13+00:00"
  },
  "relationships": [
   {

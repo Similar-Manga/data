@@ -11,7 +11,7 @@
     "en": "MAD"
    },
    "contentRating": "safe",
-   "score": 0.22061644,
+   "score": 0.24651675,
    "languages": [
     "en",
     "es",
@@ -25,7 +25,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.16501983,
+   "score": 0.1768239,
    "languages": [
     "en",
     "pt-br",
@@ -80,10 +80,23 @@
     "en": "Attack! Mega Man X"
    },
    "contentRating": "safe",
-   "score": 0.1379639,
+   "score": 0.13831614,
    "languages": [
     "es",
     "en"
+   ]
+  },
+  {
+   "id": "fb15cd42-cf00-480b-a6c6-12b61fe6a1ac",
+   "title": {
+    "en": "Hangyaku no Nijigasaki"
+   },
+   "contentRating": "safe",
+   "score": 0.134687,
+   "languages": [
+    "en",
+    "id",
+    "es"
    ]
   },
   {
@@ -109,115 +122,12 @@
    ]
   },
   {
-   "id": "fb15cd42-cf00-480b-a6c6-12b61fe6a1ac",
-   "title": {
-    "en": "Hangyaku no Nijigasaki"
-   },
-   "contentRating": "safe",
-   "score": 0.134687,
-   "languages": [
-    "en",
-    "id",
-    "es"
-   ]
-  },
-  {
-   "id": "20157e64-fa58-42ed-992d-09df7feb0f1e",
-   "title": {
-    "en": "Gags With All The Megaman Gang!!"
-   },
-   "contentRating": "safe",
-   "score": 0.12469594,
-   "languages": [
-    "es"
-   ]
-  },
-  {
-   "id": "a12bbc1f-06f7-4793-9538-7bf4da66ba0f",
-   "title": {
-    "en": "Megaman V"
-   },
-   "contentRating": "safe",
-   "score": 0.12469594,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "da827d38-9029-4e43-bac5-e6122c92ba3b",
-   "title": {
-    "en": "Mega Man X Giga Mission"
-   },
-   "contentRating": "safe",
-   "score": 0.12469594,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
-   "id": "818f32c4-8585-465a-b2a9-dcab764cd947",
-   "title": {
-    "en": "Aola Star - Parallel Universe"
-   },
-   "contentRating": "safe",
-   "score": 0.1243205,
-   "languages": [
-    "en",
-    "es",
-    "es-la"
-   ]
-  },
-  {
-   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
-   "title": {
-    "en": "Bleach (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.12016321,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
-    "es",
-    "fr",
-    "bg"
-   ]
-  },
-  {
-   "id": "9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0",
-   "title": {
-    "en": "Sakamoto Days"
-   },
-   "contentRating": "safe",
-   "score": 0.11664238,
-   "languages": [
-    "vi",
-    "pt-br",
-    "fr",
-    "it",
-    "ru",
-    "en",
-    "tr",
-    "ar",
-    "es-la",
-    "sr",
-    "es",
-    "id",
-    "pl",
-    "th",
-    "bn",
-    "fa"
-   ]
-  },
-  {
    "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
    "title": {
     "en": "SHY"
    },
    "contentRating": "safe",
-   "score": 0.11664238,
+   "score": 0.13136478,
    "languages": [
     "vi",
     "en",
@@ -233,12 +143,88 @@
    ]
   },
   {
+   "id": "da827d38-9029-4e43-bac5-e6122c92ba3b",
+   "title": {
+    "en": "Mega Man X Giga Mission"
+   },
+   "contentRating": "safe",
+   "score": 0.12469594,
+   "languages": [
+    "es",
+    "en"
+   ]
+  },
+  {
+   "id": "a12bbc1f-06f7-4793-9538-7bf4da66ba0f",
+   "title": {
+    "en": "Megaman V"
+   },
+   "contentRating": "safe",
+   "score": 0.12469594,
+   "languages": [
+    "es",
+    "en"
+   ]
+  },
+  {
+   "id": "20157e64-fa58-42ed-992d-09df7feb0f1e",
+   "title": {
+    "en": "Gags With All The Megaman Gang!!"
+   },
+   "contentRating": "safe",
+   "score": 0.12469594,
+   "languages": [
+    "es"
+   ]
+  },
+  {
+   "id": "818f32c4-8585-465a-b2a9-dcab764cd947",
+   "title": {
+    "en": "Aola Star - Parallel Universe"
+   },
+   "contentRating": "safe",
+   "score": 0.124518715,
+   "languages": [
+    "en",
+    "es",
+    "es-la"
+   ]
+  },
+  {
+   "id": "06a37094-b3ba-4f25-bf2b-54c9751e0e91",
+   "title": {
+    "en": "Bleach (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.12082597,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "es",
+    "fr",
+    "bg"
+   ]
+  },
+  {
+   "id": "29fc67d9-d3e4-4d0a-80d9-dfee5d87917d",
+   "title": {
+    "en": "GOD EATER - The Return of the Messiah"
+   },
+   "contentRating": "safe",
+   "score": 0.11898443,
+   "languages": [
+    "es",
+    "en"
+   ]
+  },
+  {
    "id": "309e623b-ac49-42b6-a9ee-bb9adee266e8",
    "title": {
     "en": "The Birth of Mega Man"
    },
    "contentRating": "safe",
-   "score": 0.11388349,
+   "score": 0.11413636,
    "languages": [
     "es",
     "en"
@@ -258,5 +244,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-03T21:54:35+00:00"
+ "updatedAt": "2024-11-05T22:30:34+00:00"
 }

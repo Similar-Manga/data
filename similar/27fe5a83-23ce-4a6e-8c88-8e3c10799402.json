@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "31bb2015-cce9-4c26-9c2e-f4152cfe7c8d",
-   "title": {
-    "en": "Café Kichijoji de"
-   },
-   "contentRating": "safe",
-   "score": 0.25340474,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "eacb6eea-737f-4ae8-88cf-7cd0645ba339",
    "title": {
     "en": "God and Girl"
    },
    "contentRating": "safe",
-   "score": 0.25037175,
+   "score": 0.25319052,
    "languages": [
     "ru",
     "pt-br",
@@ -36,7 +25,18 @@
     "en": "Twink Twink"
    },
    "contentRating": "safe",
-   "score": 0.24931256,
+   "score": 0.24985585,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "31bb2015-cce9-4c26-9c2e-f4152cfe7c8d",
+   "title": {
+    "en": "Café Kichijoji de"
+   },
+   "contentRating": "safe",
+   "score": 0.2402582,
    "languages": [
     "en"
    ]
@@ -45,6 +45,17 @@
    "id": "39cb5817-e559-425b-bba3-cea656a6fd87",
    "title": {
     "en": "Otome wa Inoru - Himitsu no Dormitory"
+   },
+   "contentRating": "safe",
+   "score": 0.24008243,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6e36473c-5e50-4bc1-84d3-f857fed0f5ea",
+   "title": {
+    "en": "RH Plus"
    },
    "contentRating": "safe",
    "score": 0.23276806,
@@ -56,17 +67,6 @@
    "id": "9743f3f6-b905-4812-9990-c2fe85376fa0",
    "title": {
     "en": "Maneki Neko Jinja no Tenteko Mai na Hibi"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e36473c-5e50-4bc1-84d3-f857fed0f5ea",
-   "title": {
-    "en": "RH Plus"
    },
    "contentRating": "safe",
    "score": 0.23276806,
@@ -91,7 +91,7 @@
     "en": "Hagure Roji"
    },
    "contentRating": "safe",
-   "score": 0.21161765,
+   "score": 0.2126655,
    "languages": [
     "en"
    ]
@@ -102,7 +102,7 @@
     "en": "What Do You Need?"
    },
    "contentRating": "safe",
-   "score": 0.21148272,
+   "score": 0.21181503,
    "languages": [
     "en"
    ]
@@ -113,52 +113,7 @@
     "en": "Boushiya Ellipsis"
    },
    "contentRating": "safe",
-   "score": 0.201758,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "28501b32-5d9f-4926-a484-ca775a2b063b",
-   "title": {
-    "en": "Ichigo to Anzu"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3f8459e4-948b-4a6b-ab7a-ac0340b44c1d",
-   "title": {
-    "en": "100 Days Dream"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "473c2bbf-de84-4476-8a92-d98620706b95",
-   "title": {
-    "en": "Meikyuu Yaburi no Hananusubito"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0c89c499-2c03-440f-8202-65fef7dea53b",
-   "title": {
-    "en": "Suzune to Hidarite"
-   },
-   "contentRating": "safe",
-   "score": 0.20158304,
+   "score": 0.20875086,
    "languages": [
     "en"
    ]
@@ -178,21 +133,62 @@
    ]
   },
   {
-   "id": "2c3cd370-04bd-4994-87dc-e54a4d80c4ec",
+   "id": "3f8459e4-948b-4a6b-ab7a-ac0340b44c1d",
    "title": {
-    "en": "Natsume Yuujinchou"
+    "en": "100 Days Dream"
    },
    "contentRating": "safe",
-   "score": 0.19836918,
+   "score": 0.20158304,
    "languages": [
     "en",
-    "pt-br",
-    "es-la",
-    "ar",
-    "hu",
-    "tr"
+    "pl"
+   ]
+  },
+  {
+   "id": "0c89c499-2c03-440f-8202-65fef7dea53b",
+   "title": {
+    "en": "Suzune to Hidarite"
+   },
+   "contentRating": "safe",
+   "score": 0.20158304,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "473c2bbf-de84-4476-8a92-d98620706b95",
+   "title": {
+    "en": "Meikyuu Yaburi no Hananusubito"
+   },
+   "contentRating": "safe",
+   "score": 0.20158304,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "28501b32-5d9f-4926-a484-ca775a2b063b",
+   "title": {
+    "en": "Ichigo to Anzu"
+   },
+   "contentRating": "safe",
+   "score": 0.20158304,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "784614ea-949f-43ed-952f-9881677aa477",
+   "title": {
+    "en": "Dog and My Family Circumstance"
+   },
+   "contentRating": "safe",
+   "score": 0.19901152,
+   "languages": [
+    "ru",
+    "en"
    ]
   }
  ],
- "updatedAt": "2024-11-03T20:25:28+00:00"
+ "updatedAt": "2024-11-05T21:10:36+00:00"
 }

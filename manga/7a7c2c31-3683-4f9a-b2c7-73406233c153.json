@@ -1,0 +1,161 @@
+{
+ "id": "7a7c2c31-3683-4f9a-b2c7-73406233c153",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Revenge ON AIR"
+  },
+  "altTitles": [
+   {
+    "ja": "復讐ON AIR"
+   },
+   {
+    "ja-ro": "Fukushuu ON AIR"
+   }
+  ],
+  "description": {
+   "en": "Asami Serika is a popular newscaster who without hesitation cuts through the state of society with a sweet face and straightforward attitude. Her beloved younger sister will soon be joining the workforce. Just when Serika thought her days would continue to be bright, she is hit by the despair of her beloved younger sister's death…"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0C1YCJKCQ",
+   "bw": "series/400433",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/746395/",
+   "raw": "https://mechacomic.jp/books/159169"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "9",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-04T20:49:04+00:00",
+  "updatedAt": "2024-11-04T21:10:22+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5a7fd247-f81b-4d10-9b69-8d83be6c0065",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 伊十楽"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Itora",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/isora_369",
+    "updatedAt": "2024-11-04T20:15:17+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5a7fd247-f81b-4d10-9b69-8d83be6c0065",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 伊十楽"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Itora",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/isora_369",
+    "updatedAt": "2024-11-04T20:15:17+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1caaaa10-579e-4e3f-9390-ba4fe83c9101",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-04T21:13:07+00:00",
+    "description": "",
+    "fileName": "80b282eb-1ea5-4d72-9867-84caa3652143.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-04T21:13:07+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,22 +3,34 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Man-Killer Otokoro-san"
+   "en": "Otokogoroshi no Otokoro-san"
   },
   "altTitles": [
    {
-    "en": "男殺しの音頃さん"
+    "ja": "男殺しの音頃さん"
+   },
+   {
+    "en": "The Man-Killer Otokoro-san"
    }
   ],
   "description": {
-   "en": ""
+   "ja": "童貞男子、立花一平（たちばないっぺい）の通う高校に転校してきた、音頃綺羅（おところきら）さんは、容姿端麗！頭脳明晰！運動力抜群！の完璧女子。だが、彼女には、大きな“ヒミツ”があった…！女性の、女性による、女性のための、理想社会を目指す！若者達の青春がここに！！"
   },
   "links": {
+   "al": "110825",
+   "amz": "https://www.amazon.co.jp/dp/B08C6P1X85",
+   "ap": "otokogoroshi-no-otokoro-san",
+   "bw": "series/218417",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/558512/",
+   "mal": "129551",
    "mu": "153842"
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
+  "lastChapter": "34",
+  "publicationDemographic": "shounen",
   "status": "completed",
+  "year": 2019,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
@@ -63,9 +75,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-11-30T19:26:42+00:00",
-  "updatedAt": "2021-05-25T15:40:44+00:00"
+  "updatedAt": "2024-11-04T14:33:55+00:00"
  },
  "relationships": [
   {
@@ -79,7 +91,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Shin Tokushima",
+    "name": "Tokushima Shin",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -87,8 +99,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-04T14:12:06+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -105,7 +117,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Shin Tokushima",
+    "name": "Tokushima Shin",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -113,24 +125,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-04T14:12:06+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "183bbee5-6fd5-4ff5-8436-e2b3ddf1e1e0",
+   "id": "fbf8b7ed-fa95-491d-a4ac-42e6c8545ad5",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:35:46+00:00",
+    "createdAt": "2024-11-04T14:33:54+00:00",
     "description": "",
-    "fileName": "01f4692d-5635-44ae-99a0-d40c39edbeca.jpg",
+    "fileName": "450520b2-76d7-494e-badf-95bbe83f2747.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:35:46+00:00",
+    "updatedAt": "2024-11-04T14:33:54+00:00",
     "version": 1,
-    "volume": null
+    "volume": "3"
    }
   }
  ]

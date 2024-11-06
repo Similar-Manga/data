@@ -7,19 +7,19 @@
   },
   "altTitles": [
    {
-    "en": "Ein bezauberndes Spiel"
+    "de": "Ein bezauberndes Spiel"
    },
    {
-    "en": "Чарующая игра цвета"
+    "ru": "Чарующая игра цвета"
    },
    {
-    "en": "艳色游戏"
+    "zh": "艳色游戏"
    },
    {
-    "en": "艶色遊戯"
+    "ja": "艶色遊戯"
    },
    {
-    "en": "豔色遊戲"
+    "zh-hk": "豔色遊戲"
    }
   ],
   "description": {
@@ -27,16 +27,20 @@
   },
   "links": {
    "al": "55298",
+   "amz": "https://www.amazon.co.jp/dp/4861344743/",
    "ap": "adeiro-yuugi",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/27962/",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-911598",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/128298/",
    "kt": "18454",
    "mal": "25298",
-   "mu": "54773"
+   "mu": "54773",
+   "raw": "https://www.cmoa.jp/title/43090/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "6",
   "status": "completed",
+  "year": 2010,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -81,16 +85,18 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2019-03-26T10:27:58+00:00",
-  "updatedAt": "2021-05-25T15:49:15+00:00"
+  "updatedAt": "2024-11-05T08:42:46+00:00"
  },
  "relationships": [
   {
    "id": "57d36e4f-3926-431a-9cb1-14110c3078d4",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nタカツキノボル"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -105,9 +111,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-05T08:12:30+00:00",
+    "version": 2,
+    "website": "http://www7b.biglobe.ne.jp/~takatsuki/",
     "weibo": null,
     "youtube": null
    }
@@ -116,7 +122,9 @@
    "id": "57d36e4f-3926-431a-9cb1-14110c3078d4",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nタカツキノボル"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -131,24 +139,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-05T08:12:30+00:00",
+    "version": 2,
+    "website": "http://www7b.biglobe.ne.jp/~takatsuki/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "be1dfecd-a3e1-4f33-92ff-a7ce80b08394",
+   "id": "1b87b520-f350-457b-90a4-8d6ad07d5424",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:05:54+00:00",
+    "createdAt": "2024-11-05T08:42:46+00:00",
     "description": "",
-    "fileName": "b71d0fd7-e9aa-418c-84d1-b056b38ba752.png",
+    "fileName": "f1d5fe5e-f453-472c-896e-4a07f1c3da43.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:05:54+00:00",
+    "updatedAt": "2024-11-05T08:42:46+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

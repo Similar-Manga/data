@@ -11,7 +11,7 @@
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.18389261,
+   "score": 0.18388925,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "Sachiroku 〜Sachi’s Book of Revelation〜"
    },
    "contentRating": "safe",
-   "score": 0.18047148,
+   "score": 0.18046424,
    "languages": [
     "en",
     "it",
@@ -37,12 +37,23 @@
     "en": "GALAXIAS"
    },
    "contentRating": "safe",
-   "score": 0.17692256,
+   "score": 0.17557877,
    "languages": [
     "fr",
     "ru",
     "vi",
     "pt-br"
+   ]
+  },
+  {
+   "id": "6130f038-0c1c-479c-a9f0-9d3cb453ceb1",
+   "title": {
+    "en": "Kawaisugi Crisis"
+   },
+   "contentRating": "safe",
+   "score": 0.17408814,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -57,37 +68,14 @@
    ]
   },
   {
-   "id": "6130f038-0c1c-479c-a9f0-9d3cb453ceb1",
-   "title": {
-    "en": "Kawaisugi Crisis"
-   },
-   "contentRating": "safe",
-   "score": 0.17289208,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9f503bc8-6c7a-491d-be26-af40fdfb0026",
    "title": {
     "en": "Thunder 3"
    },
    "contentRating": "safe",
-   "score": 0.17189938,
+   "score": 0.17189996,
    "languages": [
     "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "29fc67d9-d3e4-4d0a-80d9-dfee5d87917d",
-   "title": {
-    "en": "GOD EATER - The Return of the Messiah"
-   },
-   "contentRating": "safe",
-   "score": 0.16859977,
-   "languages": [
-    "es",
     "en"
    ]
   },
@@ -97,7 +85,7 @@
     "en": "Madara"
    },
    "contentRating": "safe",
-   "score": 0.1656442,
+   "score": 0.16564754,
    "languages": [
     "en"
    ]
@@ -108,7 +96,7 @@
     "en": "Heart-Warming Meals with Mother Fenrir"
    },
    "contentRating": "safe",
-   "score": 0.16458544,
+   "score": 0.16457896,
    "languages": [
     "fr",
     "en",
@@ -122,7 +110,7 @@
     "en": "Youkai Apartment no Yuuga na Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.16454764,
+   "score": 0.16454506,
    "languages": [
     "en",
     "pl",
@@ -135,7 +123,7 @@
     "en": "The World of SKK Girls"
    },
    "contentRating": "safe",
-   "score": 0.16321987,
+   "score": 0.1632134,
    "languages": [
     "en",
     "pt-br"
@@ -147,45 +135,7 @@
     "en": "Valkyrie Profile 2"
    },
    "contentRating": "safe",
-   "score": 0.16155851,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c7b742e5-84c5-4ca2-b064-f11a5b90c7d8",
-   "title": {
-    "en": "One in a Hundred"
-   },
-   "contentRating": "safe",
-   "score": 0.16014192,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
-   "title": {
-    "en": "Fate/Grand Order -Turas Réalta-"
-   },
-   "contentRating": "safe",
-   "score": 0.15954423,
-   "languages": [
-    "es",
-    "vi",
-    "en",
-    "ar",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.15898573,
+   "score": 0.16155964,
    "languages": [
     "en"
    ]
@@ -196,14 +146,65 @@
     "en": "Shaman King: The Super Star"
    },
    "contentRating": "safe",
-   "score": 0.15896615,
+   "score": 0.1589643,
    "languages": [
     "es-la",
     "ru",
     "en",
     "fr"
    ]
+  },
+  {
+   "id": "8a1b2e8c-afd9-4c43-ba96-0eb1507a4ddf",
+   "title": {
+    "en": "Fate/Grand Order -Turas Réalta-"
+   },
+   "contentRating": "safe",
+   "score": 0.15894468,
+   "languages": [
+    "es",
+    "vi",
+    "en",
+    "ar",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
+   "id": "8572da1b-3b5d-44aa-a40c-8a92b512c336",
+   "title": {
+    "en": "Dungeon no Osananajimi"
+   },
+   "contentRating": "safe",
+   "score": 0.15856403,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "c7b742e5-84c5-4ca2-b064-f11a5b90c7d8",
+   "title": {
+    "en": "One in a Hundred"
+   },
+   "contentRating": "safe",
+   "score": 0.15821321,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7511b858-06e5-414d-b343-467ea468efdf",
+   "title": {
+    "en": "Black Warriors"
+   },
+   "contentRating": "safe",
+   "score": 0.15796688,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-03T21:31:11+00:00"
+ "updatedAt": "2024-11-05T22:09:04+00:00"
 }

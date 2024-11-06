@@ -1,0 +1,151 @@
+{
+ "id": "c11c9d1d-76e9-419d-8c73-6a2c93ec3948",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "kì nghỉ bất tận"
+  },
+  "description": {},
+  "originalLanguage": "vi",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Loli"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-03T08:09:42+00:00",
+  "updatedAt": "2024-11-03T13:11:01+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5497b205-de59-43e7-9407-75effce023ed",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-21T15:29:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "DVDkaiyo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-21T15:29:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5497b205-de59-43e7-9407-75effce023ed",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-21T15:29:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "DVDkaiyo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-21T15:29:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3a70fa46-c2c7-48c4-b2bf-5579917765a2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-03T08:09:50+00:00",
+    "description": "",
+    "fileName": "256129a0-2609-4449-ab9d-df59c98e9221.jpg",
+    "locale": "vi",
+    "updatedAt": "2024-11-03T08:09:50+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "8959f306-b29f-4b4c-b43e-6f32ad14e7f8",
+   "type": "creator"
+  }
+ ]
+}

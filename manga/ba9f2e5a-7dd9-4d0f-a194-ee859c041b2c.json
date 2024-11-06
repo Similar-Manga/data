@@ -16,7 +16,7 @@
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0B965J8WB",
    "bw": "series/369842",
-   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD%3A14\u0026q=%E5%BC%B7%E3%81%99%E3%81%8E%E3%81%A6%E5%8B%87%E8%80%85%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%92%E5%8D%92%E6%A5%AD%E3%81%97%E3%81%9F%E6%9C%80%E5%BC%B7%E5%89%A3%E5%A3%AB%E3%80%81%E9%AD%94%E6%B3%95%E5%AD%A6%E5%9C%92%E3%81%A7%E3%82%82%E6%84%9B%E3%81%95%E3%82%8C%E3%82%8B\u0026order=reldesc\u0026opt.exclude_prx=on",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD:14\u0026q=強すぎて勇者パーティーを卒業した最強剣士、魔法学園でも愛される\u0026order=reldesc\u0026opt.exclude_prx=on",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/714931/",
    "mu": "subnfh5",
    "raw": "https://bigcomics.jp/series/4215d31b88605/"
@@ -75,18 +75,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -100,9 +88,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2023-10-09T10:06:31+00:00",
-  "updatedAt": "2024-02-21T10:14:13+00:00"
+  "updatedAt": "2024-11-03T13:28:11+00:00"
  },
  "relationships": [
   {

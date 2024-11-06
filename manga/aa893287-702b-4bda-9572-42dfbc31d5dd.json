@@ -1,0 +1,161 @@
+{
+ "id": "aa893287-702b-4bda-9572-42dfbc31d5dd",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Thoughtless"
+  },
+  "altTitles": [
+   {
+    "ja": "軽率"
+   },
+   {
+    "ja-ro": "Keisotsu"
+   },
+   {
+    "en": "A Thoughtless Reply"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/ldoll_itk/status/1824725530475626883"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "1266c0e2-9425-4901-9a14-d05cc15bf1a4",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-05T18:20:26+00:00",
+  "updatedAt": "2024-11-05T18:20:31+00:00"
+ },
+ "relationships": [
+  {
+   "id": "20056790-2da1-4f83-94b1-da15f6085170",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- イトコ"
+    },
+    "booth": null,
+    "createdAt": "2024-09-23T14:36:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Itoko (ldoll_itk)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/8408900",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ldoll_itk",
+    "updatedAt": "2024-09-23T15:13:45+00:00",
+    "version": 3,
+    "website": "https://marshmallow-qa.com/uq73s3v0mzuce2t",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "20056790-2da1-4f83-94b1-da15f6085170",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- イトコ"
+    },
+    "booth": null,
+    "createdAt": "2024-09-23T14:36:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Itoko (ldoll_itk)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/8408900",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ldoll_itk",
+    "updatedAt": "2024-09-23T15:13:45+00:00",
+    "version": 3,
+    "website": "https://marshmallow-qa.com/uq73s3v0mzuce2t",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a2b65a32-3271-4bc1-928f-836385cb1f1f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T18:20:28+00:00",
+    "description": "",
+    "fileName": "ae96ae3f-b867-4794-a88a-86d806b2fa46.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T18:20:28+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "f97a9a67-01cc-48d0-a542-59ea341174c0",
+   "type": "creator"
+  }
+ ]
+}

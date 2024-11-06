@@ -11,16 +11,18 @@
    }
   ],
   "description": {
-   "en": "SeishunScans: Youth romance between a girl who has a hard time talking to people and her supportive senpai, a boy no one knows.",
-   "fr": "de Himnae Scans: Iroha est une fille qui n'est pas douée pour parler aux gens, et n'arrive à discuter qu'avec son Senpai, qui la soutient mais que personne ne semble voir... ?"
+   "en": "The main character, Iroha, is a first-year high school student who finds it difficult to talk to others. Even though it’s been about two months since she started high school, she still hasn’t had a proper conversation with any of her classmates. During every break, she quietly slips out of the classroom and heads to the courtyard by the old school building. She does this to meet and talk with a senior she met at the town library while studying for exams. This senior, who is a year older, has become a source of support for Iroha. However, the two of them share a secret...",
+   "es": "La protagonista, Iroha, es una estudiante de primer año de instituto a la que le cuesta hablar con los demás. Aunque han pasado dos meses desde que empezó el instituto, todavía no ha tenido una conversación adecuada con ninguno de sus compañeros. En los recreos, se escapa de clase y se dirige al patio, junto al antiguo edificio de la escuela. Lo hace para encontrarse y hablar con un estudiante de último curso que conoció en la biblioteca del pueblo mientras estudiaba para los exámenes. Este alumno, un año mayor que ella, se ha convertido en una fuente de apoyo para Iroha. Sin embargo, ambos comparten un secreto...",
+   "es-la": "La protagonista, Iroha, es una estudiante de primer año de instituto a la que le cuesta hablar con los demás. Aunque han pasado dos meses desde que empezó el instituto, todavía no ha tenido una conversación adecuada con ninguno de sus compañeros. En los recreos, se escapa de clase y se dirige al patio, junto al antiguo edificio de la escuela. Lo hace para encontrarse y hablar con un estudiante de último curso que conoció en la biblioteca del pueblo mientras estudiaba para los exámenes. Este alumno, un año mayor que ella, se ha convertido en una fuente de apoyo para Iroha. Sin embargo, ambos comparten un secreto...",
+   "fr": "Iroha, le personnage principal, est un lycéen de première année qui a du mal à parler aux autres. Bien que deux mois se soient écoulés depuis son entrée au lycée, elle n'a encore jamais eu de véritable conversation avec l'un de ses collègues de classe. Durant la récréation, il sort de la classe en cachette et se rend dans la cour de récréation située à côté de l'ancien bâtiment scolaire. Elle le fait pour rencontrer un élève de terminale qu'elle a rencontré à la bibliothèque municipale alors qu'elle étudiait pour ses examens. Cet étudiant, qui a un an de plus qu'elle, est devenu une source de soutien pour Iroha. Cependant, toutes deux partagent un secret...",
+   "ja": "主人公は他人と会話することが苦手な高校1年生・いろは。高校入学から約2カ月、いまだクラスの人とまともに話せない彼女は、休み時間のたびに教室を抜け出しては旧校舎側の中庭に向かう。その目的とは、受験勉強をしているときに町の図書館で出会った1つ年上の先輩と話すこと。先輩との交流を支えに日々を過ごすいろはだが、2人にはある秘密があって……。"
   },
   "links": {
    "al": "178128",
    "ap": "yume-ka-utsutsu-ka",
    "kt": "yume-ka-utsutsu-ka",
    "mal": "171286",
-   "mu": "96ua36w",
-   "raw": "https://betsuma.shueisha.co.jp/"
+   "mu": "96ua36w"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shoujo",
@@ -32,7 +34,7 @@
    "fr",
    "en"
   ],
-  "latestUploadedChapter": "ede215ca-543a-4ad3-b80d-e20b0d937923",
+  "latestUploadedChapter": "bc732855-e2de-47e0-a2a1-5e73687938d9",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -40,6 +42,18 @@
     "attributes": {
      "name": {
       "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
      },
      "description": {},
      "group": "genre",
@@ -57,12 +71,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 10,
   "createdAt": "2024-05-17T18:40:19+00:00",
-  "updatedAt": "2024-07-17T03:26:10+00:00"
+  "updatedAt": "2024-11-05T00:23:56+00:00"
  },
  "relationships": [
   {
@@ -125,9 +151,9 @@
     "description": "",
     "fileName": "a1962c45-ad53-421e-8132-177c4180774c.jpg",
     "locale": "ja",
-    "updatedAt": "2024-06-19T02:58:03+00:00",
-    "version": 1,
-    "volume": "2"
+    "updatedAt": "2024-11-05T00:22:29+00:00",
+    "version": 2,
+    "volume": "0.2"
    }
   },
   {

@@ -1,0 +1,131 @@
+{
+ "id": "2845d568-480d-4d11-8edd-3e70b2b15060",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Uchida Shungiku Horror Kessakusen: Rinjin"
+  },
+  "altTitles": [
+   {
+    "ja": "内田春菊ホラー傑作選　隣人"
+   }
+  ],
+  "description": {
+   "en": "1. Watashi ga Nani wo Shitatte Iuno (私が何をしたっていうの)\n2. Wakazuma ni Yaru ki wo Naku Saseru Houhou (若妻にやる気をなくさせる方法)\n3. Hataraku Tsuma ni Yaru Ki wo Saseru Houhou (働く妻にやる気をなくさせる方法)\n4. Kuyu Kuyu ga Abare Part 1-9 (クユクユがあばれる)\n5. Maketakunai (負けたくない)\n6. Bubun (部分)\n7. Suteki na Bonus Day (すてきなボーナス・ディ)\n8. Tanaka Shizuko 14-sai no Hatsukoi (田中静子14歳の初恋)"
+  },
+  "links": {
+   "al": "183763"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "9",
+  "status": "completed",
+  "year": 2002,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-05T10:58:15+00:00",
+  "updatedAt": "2024-11-05T11:33:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e0b72325-8c63-4e91-a8c0-0625ba829be5",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language**: 内田春菊 (Uchida Shungiku)\n\n**Other Name**: Uchida Shigeko (内田滋子)"
+    },
+    "booth": null,
+    "createdAt": "2022-04-24T12:23:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Uchida Shungicu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/uchidashungicu",
+    "updatedAt": "2024-05-25T06:16:36+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e0b72325-8c63-4e91-a8c0-0625ba829be5",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language**: 内田春菊 (Uchida Shungiku)\n\n**Other Name**: Uchida Shigeko (内田滋子)"
+    },
+    "booth": null,
+    "createdAt": "2022-04-24T12:23:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Uchida Shungicu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/uchidashungicu",
+    "updatedAt": "2024-05-25T06:16:36+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e539abfb-4c0f-4252-96b3-e7e3a77a8895",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T10:58:17+00:00",
+    "description": "",
+    "fileName": "366fe8d9-e48d-4d6e-a84f-94167227542f.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T10:58:17+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

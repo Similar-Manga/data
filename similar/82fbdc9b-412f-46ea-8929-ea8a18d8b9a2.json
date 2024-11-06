@@ -6,20 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "5f89025e-5792-42b6-82a4-a7a741993396",
-   "title": {
-    "en": "The White Witch and the Snow-Viewing Tea Party"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl",
-    "it",
-    "fr"
-   ]
-  },
-  {
    "id": "f1fca608-baf7-41c5-80b0-3041029f0240",
    "title": {
     "en": "An Always-Available Man"
@@ -34,14 +20,17 @@
    ]
   },
   {
-   "id": "db4cb0fc-05ca-4d66-b6b3-3755041aa65d",
+   "id": "5f89025e-5792-42b6-82a4-a7a741993396",
    "title": {
-    "en": "Three Stars Magic Restaurant"
+    "en": "The White Witch and the Snow-Viewing Tea Party"
    },
    "contentRating": "safe",
-   "score": 0.2673705,
+   "score": 0.2857143,
    "languages": [
-    "en"
+    "en",
+    "pl",
+    "it",
+    "fr"
    ]
   },
   {
@@ -50,7 +39,7 @@
     "en": "We Can Fly!"
    },
    "contentRating": "safe",
-   "score": 0.2647831,
+   "score": 0.26478758,
    "languages": [
     "en",
     "pt-br",
@@ -64,33 +53,20 @@
     "en": "Citizen Ogre"
    },
    "contentRating": "safe",
-   "score": 0.24493094,
+   "score": 0.24493285,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "454746e3-aa09-4d14-99d4-bec04de98b96",
+   "id": "79188eb0-6927-4f27-9ca8-dbc1d2858fd0",
    "title": {
-    "en": "Myctophids"
+    "en": "La clé de la cage"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "fr",
-    "en",
-    "hi"
-   ]
-  },
-  {
-   "id": "db3c863d-6b50-46bd-a094-32b36b5684e7",
-   "title": {
-    "en": "Arikai Annu"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
+    "fr"
    ]
   },
   {
@@ -109,42 +85,16 @@
    ]
   },
   {
-   "id": "9b8b3752-9a1a-4c05-858b-b05afec9614d",
+   "id": "454746e3-aa09-4d14-99d4-bec04de98b96",
    "title": {
-    "en": "Rewind"
+    "en": "Myctophids"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "79188eb0-6927-4f27-9ca8-dbc1d2858fd0",
-   "title": {
-    "en": "La clé de la cage"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
-   "title": {
-    "en": "Mayonaka Sanpo"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "fa",
-    "ar",
     "fr",
-    "hu",
-    "pl",
-    "en"
+    "en",
+    "hi"
    ]
   },
   {
@@ -170,12 +120,51 @@
    ]
   },
   {
+   "id": "9b8b3752-9a1a-4c05-858b-b05afec9614d",
+   "title": {
+    "en": "Rewind"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
+   "title": {
+    "en": "Mayonaka Sanpo"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "fa",
+    "ar",
+    "fr",
+    "hu",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "db3c863d-6b50-46bd-a094-32b36b5684e7",
+   "title": {
+    "en": "Arikai Annu"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "28d7c180-f25f-4d78-9fa5-fe8f38b869e6",
    "title": {
     "en": "Onee-chan no Imouto"
    },
    "contentRating": "safe",
-   "score": 0.22005397,
+   "score": 0.22007073,
    "languages": [
     "en"
    ]
@@ -186,7 +175,7 @@
     "en": "Happy Happy Birthday"
    },
    "contentRating": "safe",
-   "score": 0.21484996,
+   "score": 0.2148699,
    "languages": [
     "it",
     "en",
@@ -199,12 +188,24 @@
     "en": "Water Crisis"
    },
    "contentRating": "safe",
-   "score": 0.21387133,
+   "score": 0.21386914,
    "languages": [
     "en",
     "es-la"
    ]
+  },
+  {
+   "id": "0d4824b8-2d9f-400d-ad4b-9e8f6383371d",
+   "title": {
+    "en": "Schizanthus"
+   },
+   "contentRating": "safe",
+   "score": 0.21185367,
+   "languages": [
+    "en",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2024-11-03T21:10:38+00:00"
+ "updatedAt": "2024-11-05T21:50:32+00:00"
 }

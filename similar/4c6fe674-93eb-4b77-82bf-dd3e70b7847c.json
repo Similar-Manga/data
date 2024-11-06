@@ -11,7 +11,7 @@
     "en": "Saint Seiya - 25th Years Encyclopedia"
    },
    "contentRating": "safe",
-   "score": 0.35061494,
+   "score": 0.34926343,
    "languages": [
     "pt-br"
    ]
@@ -22,7 +22,7 @@
     "en": "Saint Seiya - Episode G Requiem"
    },
    "contentRating": "safe",
-   "score": 0.32864612,
+   "score": 0.3274705,
    "languages": [
     "en",
     "pt-br"
@@ -34,7 +34,7 @@
     "en": "Saint Seiya - Episode G Galaxian Encyclopedia"
    },
    "contentRating": "safe",
-   "score": 0.31574762,
+   "score": 0.31462348,
    "languages": [
     "pt-br"
    ]
@@ -45,21 +45,10 @@
     "en": "Saint Seiya - Shura vs Tenma vs Shoko!! Shugeki Battle Royale Hen"
    },
    "contentRating": "safe",
-   "score": 0.29615456,
+   "score": 0.29525146,
    "languages": [
     "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "26dcd966-82ea-4317-9074-7ec5730f1ea4",
-   "title": {
-    "en": "Saint Seiya - Taizen Encyclopedia"
-   },
-   "contentRating": "safe",
-   "score": 0.29245135,
-   "languages": [
-    "pt-br"
    ]
   },
   {
@@ -68,7 +57,7 @@
     "en": "Saint Seiya - Tenkai-hen Joso Overture"
    },
    "contentRating": "safe",
-   "score": 0.27427387,
+   "score": 0.2735073,
    "languages": [
     "pt-br"
    ]
@@ -79,7 +68,7 @@
     "en": "Saint Seiya - Rerise of Poseidon"
    },
    "contentRating": "safe",
-   "score": 0.26737508,
+   "score": 0.2666555,
    "languages": [
     "pt-br",
     "en",
@@ -92,10 +81,21 @@
     "en": "Saint Seiya - Another Story of Hades: Dark Wing"
    },
    "contentRating": "safe",
-   "score": 0.252713,
+   "score": 0.2520541,
    "languages": [
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "26dcd966-82ea-4317-9074-7ec5730f1ea4",
+   "title": {
+    "en": "Saint Seiya - Taizen Encyclopedia"
+   },
+   "contentRating": "safe",
+   "score": 0.2474231,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -104,56 +104,10 @@
     "en": "Saint Seiya - Saintia Sho"
    },
    "contentRating": "safe",
-   "score": 0.23602891,
+   "score": 0.23563986,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "c63518a0-690f-4c25-8c6c-a9125dffa658",
-   "title": {
-    "en": "Touhou - Amidst the Firefly Lights (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "66efac60-0bc9-4a8b-9a59-86c7d122e5c6",
-   "title": {
-    "en": "Touhou - Touhou Dankest (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "4c0c7854-7258-44c6-8a9f-798ad87aeac2",
-   "title": {
-    "en": "Touhou - Soul Blade in One Slash (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2561d8e6-6ac0-4c42-896a-063aa059a492",
-   "title": {
-    "en": "Touhou - Alice of Twilight (Doujinshi)"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "fr",
-    "en"
    ]
   },
   {
@@ -168,9 +122,9 @@
    ]
   },
   {
-   "id": "80ea9891-3bfe-4b04-aaf3-9006ac612078",
+   "id": "c63518a0-690f-4c25-8c6c-a9125dffa658",
    "title": {
-    "en": "Touhou - Decaying Utopia (Doujinshi)"
+    "en": "Touhou - Amidst the Firefly Lights (Doujinshi)"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -189,7 +143,53 @@
     "ru",
     "en"
    ]
+  },
+  {
+   "id": "66efac60-0bc9-4a8b-9a59-86c7d122e5c6",
+   "title": {
+    "en": "Touhou - Touhou Dankest (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "2561d8e6-6ac0-4c42-896a-063aa059a492",
+   "title": {
+    "en": "Touhou - Alice of Twilight (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "4c0c7854-7258-44c6-8a9f-798ad87aeac2",
+   "title": {
+    "en": "Touhou - Soul Blade in One Slash (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b043b616-d971-40e7-8f95-e023a55d702e",
+   "title": {
+    "en": "Fate/hollow ataraxia - Rock paper scissors (Doujinshi)"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-03T20:43:48+00:00"
+ "updatedAt": "2024-11-05T21:26:35+00:00"
 }

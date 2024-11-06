@@ -7,13 +7,13 @@
   },
   "altTitles": [
    {
-    "en": "T × S"
+    "ja-ro": "T × S"
    },
    {
-    "en": "T×S"
+    "ja-ro": "T×S"
    },
    {
-    "en": "T×S タフ バイ スマート"
+    "ja": "T×S タフ バイ スマート"
    },
    {
     "en": "Tough × Smart"
@@ -27,15 +27,20 @@
   },
   "links": {
    "al": "77757",
+   "amz": "https://www.amazon.co.jp/dp/B0756YNXSV/",
    "ap": "t-x-s",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?term.media_format=\u0026q=T×S+タフ+バイ+スマート",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/170274/",
    "kt": "5178",
    "mal": "47757",
-   "mu": "75206"
+   "mu": "75206",
+   "raw": "https://www.cmoa.jp/title/63193/"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
   "lastChapter": "5.5",
   "status": "completed",
+  "year": 2012,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -80,16 +85,18 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2019-11-16T00:18:52+00:00",
-  "updatedAt": "2021-05-25T15:45:37+00:00"
+  "updatedAt": "2024-11-05T08:37:58+00:00"
  },
  "relationships": [
   {
    "id": "57d36e4f-3926-431a-9cb1-14110c3078d4",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nタカツキノボル"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -104,9 +111,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-05T08:12:30+00:00",
+    "version": 2,
+    "website": "http://www7b.biglobe.ne.jp/~takatsuki/",
     "weibo": null,
     "youtube": null
    }
@@ -115,7 +122,9 @@
    "id": "57d36e4f-3926-431a-9cb1-14110c3078d4",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nタカツキノボル"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -130,24 +139,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-05T08:12:30+00:00",
+    "version": 2,
+    "website": "http://www7b.biglobe.ne.jp/~takatsuki/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "ae7d482f-de6c-4f7b-bb31-a2a37f3081c1",
+   "id": "1f47ec7f-a407-4f03-95b4-e14c8c60474b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:33:57+00:00",
+    "createdAt": "2024-11-05T08:37:58+00:00",
     "description": "",
-    "fileName": "814ba5ee-1ae4-458c-ade5-f971c3c66157.jpg",
+    "fileName": "3087a14a-2a4e-409b-b6e2-2be08099126b.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:33:57+00:00",
+    "updatedAt": "2024-11-05T08:37:58+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

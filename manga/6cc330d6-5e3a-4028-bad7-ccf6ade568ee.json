@@ -3,11 +3,11 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Summoned to a Parallel Fantasy World Many Times"
+   "en": "Oversummoned, Overpowered, and Over It!"
   },
   "altTitles": [
    {
-    "en": "Oversummoned, Overpowered, and Over It! (Tsugutoku)"
+    "en": "Summoned to a Parallel Fantasy World Many Times (Tsugutoku)"
    },
    {
     "ja": "めっちゃ召喚された件 (ツグトク)"
@@ -22,6 +22,7 @@
   },
   "links": {
    "mu": "8yqf90v",
+   "nu": "i-was-summoned-to-a-parallel-fantasy-world-for-too-many-times",
    "raw": "https://comic.naver.com/webtoon/list?titleId=831606"
   },
   "originalLanguage": "ko",
@@ -42,11 +43,35 @@
     }
    },
    {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
     "type": "tag",
     "attributes": {
      "name": {
       "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
      },
      "description": {},
      "group": "genre",
@@ -76,12 +101,48 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-10-10T14:30:24+00:00",
-  "updatedAt": "2024-10-13T20:52:19+00:00"
+  "updatedAt": "2024-11-04T23:38:29+00:00"
  },
  "relationships": [
   {
@@ -148,6 +209,11 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "802bf297-b156-4053-8542-f12057c4a7b9",
+   "type": "manga",
+   "related": "alternate_version"
   },
   {
    "id": "f7c4ab61-6260-4fea-8030-a142640101ad",

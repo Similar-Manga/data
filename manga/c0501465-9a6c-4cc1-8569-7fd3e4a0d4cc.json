@@ -23,7 +23,7 @@
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B09VP242YH",
    "ap": "3-seconds-later-he-turned-into-a-beast",
-   "bw": "series/348304",
+   "bw": "series/348304/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/690499/",
    "engtl": "https://comics.inkr.com/title/1891-3-seconds-later-he-turned-into-a-beast?utm_source=mgd",
    "mu": "181459",
@@ -50,24 +50,12 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2022-03-28T19:27:27+00:00",
-  "updatedAt": "2023-01-03T04:45:14+00:00"
+  "updatedAt": "2024-11-03T21:39:00+00:00"
  },
  "relationships": [
   {
@@ -123,16 +111,16 @@
    }
   },
   {
-   "id": "73ff7bc3-7021-40cf-9bfa-2d62950acf86",
+   "id": "452b18c1-6dcf-4be8-b7e1-6f8c940b8e71",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-03-28T19:27:29+00:00",
+    "createdAt": "2024-11-03T21:38:59+00:00",
     "description": "",
-    "fileName": "73728610-8f80-49c5-b2a8-63108f27eb27.jpg",
+    "fileName": "022653f2-922d-4f9e-96cd-f01bf930d8a9.jpg",
     "locale": "ja",
-    "updatedAt": "2022-03-28T19:27:29+00:00",
+    "updatedAt": "2024-11-03T21:38:59+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "6"
    }
   },
   {

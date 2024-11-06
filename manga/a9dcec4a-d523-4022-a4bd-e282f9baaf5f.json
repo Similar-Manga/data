@@ -10,7 +10,7 @@
     "en": "Kashiwagi Brothers' Love Affair"
    },
    {
-    "en": "柏木兄弟の恋愛事情"
+    "ja": "柏木兄弟の恋愛事情"
    }
   ],
   "description": {
@@ -18,16 +18,20 @@
   },
   "links": {
    "al": "92576",
-   "amz": "https://www.amazon.co.jp/dp/B00J4ISID0",
+   "amz": "https://www.amazon.co.jp/dp/486134641X/",
    "ap": "kashiwagi-kyoudai-no-renai-jijou",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1525293",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/209267/",
    "kt": "26522",
    "mal": "77821",
-   "mu": "103010"
+   "mu": "103010",
+   "raw": "https://www.cmoa.jp/title/71710/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "5",
   "status": "completed",
+  "year": 2013,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "id",
@@ -85,16 +89,18 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2019-03-24T07:48:31+00:00",
-  "updatedAt": "2019-03-24T07:48:31+00:00"
+  "updatedAt": "2024-11-05T08:50:48+00:00"
  },
  "relationships": [
   {
    "id": "4554b481-af9c-4d0d-adb6-1c6453aba47c",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n古川ふみ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -105,13 +111,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=3887170",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/fumi_full",
+    "updatedAt": "2024-11-05T08:15:33+00:00",
+    "version": 2,
+    "website": "http://pas8.sakura.ne.jp/micoma/sun",
     "weibo": null,
     "youtube": null
    }
@@ -120,7 +126,9 @@
    "id": "4554b481-af9c-4d0d-adb6-1c6453aba47c",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n古川ふみ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -131,28 +139,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=3887170",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/fumi_full",
+    "updatedAt": "2024-11-05T08:15:33+00:00",
+    "version": 2,
+    "website": "http://pas8.sakura.ne.jp/micoma/sun",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "6b288b95-cc30-4ff2-addf-804371e87768",
+   "id": "ae62bc6b-8032-4f66-b39b-afd38851ade4",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:05:41+00:00",
+    "createdAt": "2021-05-23T06:32:14+00:00",
     "description": "",
-    "fileName": "3b2d1103-07ac-43f5-ac95-67884053f3ba.jpg",
+    "fileName": "622469fe-1026-484c-b8b6-ec5f14219119.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:05:41+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:32:14+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

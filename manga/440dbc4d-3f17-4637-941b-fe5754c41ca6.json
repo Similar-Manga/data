@@ -13,7 +13,10 @@
     "en": "Thousand Horse Guest Glass"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "One day, Joo Kang-hyun, a stranger who fell into the world of martial arts, rose to the position of Heavenly Demon after going through countless hardships. However, he always missed his hometown, the 21st-century Republic of Korea. \n\nHe thought he would return to his hometown once the proper array was activated, but instead, he regressed to the past.\n\nGosh… The Heavenly Demon, Joo Kang-hyun, went back in time! \n\nIn order to save the Youngrae Tavern which was on the verge of bankruptcy, he cooked delicious Jajangmyeon and Jjamppong! This tavern was the place where he lived with the three siblings who took care of him when he first entered Murim, Soran, Doran, and Unyoung. \n\nAlthough their business was not going well, they lived happily in their own way. In the future, after he became The Heavenly Demon, he heard news that their lives all ended miserably. \n\nHe planned to stop their misfortunes himself. How? With Future Vision, Demon Lord Qi and Jajangmyeon!",
+   "ko": "어느 날,무림에 떨어진 이방인 주강현.천신만고 끝에 천마에 자리에 올랐다.\n\n하지만 그는 늘 자신의 고향인 21c 대한민국을 그리워했다.진법이 발동되고 고향으로 돌아갈 줄 알았는데 오히려 과거로 회귀를 해버렸다.\n\n이런 ㅆ...영래 객잔.\n\n무림에 처음 떨어졌을 때 자신을 돌봐줬던 소란, 도란, 운영 삼 남매와 함께 지내던 곳.장사는 잘 안 되었어도 나름 행복했다.훗날 천마가 되었을 무렵 그들의 소식을 들었다. \n\n모두 비참한 최후를 맞이했다는 것.\n\n이번엔 이들의 불행을 직접 막으리.어떻게? \n\n미래시, 마존기, 그리고 짜장면으로!"
+  },
   "links": {
    "mu": "oxrp5w9",
    "raw": "https://page.kakao.com/content/65133537"
@@ -60,6 +63,18 @@
     }
    },
    {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -70,12 +85,36 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-10-27T10:48:53+00:00",
-  "updatedAt": "2024-10-27T11:17:16+00:00"
+  "updatedAt": "2024-11-04T23:31:47+00:00"
  },
  "relationships": [
   {
@@ -131,14 +170,14 @@
    }
   },
   {
-   "id": "aed85a95-f52d-4375-88b5-b130e2a8562f",
+   "id": "be0a08f0-5069-4959-bc15-d02b9ab9bd7f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-27T10:49:04+00:00",
+    "createdAt": "2024-11-04T23:31:47+00:00",
     "description": "",
-    "fileName": "dae2559b-01af-44b0-b71c-938a3fbcfce1.png",
+    "fileName": "7f11bcff-ddd6-4082-88f1-d1c5bca46edd.png",
     "locale": "ko",
-    "updatedAt": "2024-10-27T10:49:04+00:00",
+    "updatedAt": "2024-11-04T23:31:47+00:00",
     "version": 1,
     "volume": "1"
    }

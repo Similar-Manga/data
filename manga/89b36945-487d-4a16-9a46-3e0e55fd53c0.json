@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "空想劇場 ぷちっと級ムサシ（完結）"
+   "en": "Megaton Musashi / Theatre Play"
   },
   "altTitles": [
    {
@@ -13,7 +13,7 @@
     "es": "Megaton Musashi / Obra de Teatro"
    },
    {
-    "en": "Megaton Musashi / Theatre Play"
+    "ja": "空想劇場 ぷちっと級ムサシ（完結）"
    },
    {
     "ca": "Megaton Musashi / Obra de Teatre"
@@ -41,10 +41,12 @@
    "ja": "レベルファイブが贈る最新アニメ『メガトン級ムサシ』の、公式による非公式ギャグマンガ！？\n本編では描かれなかった、あったかもしれない世界。毎週ぷちっとつけ足して、アニメと一緒に楽しもう！"
   },
   "links": {
+   "mu": "s8fdk32",
    "raw": "https://manga-5.com/content/00460001?p=2"
   },
   "originalLanguage": "ja",
   "lastChapter": "27",
+  "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2021,
   "contentRating": "suggestive",
@@ -96,12 +98,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2023-11-17T23:10:11+00:00",
-  "updatedAt": "2023-11-18T15:56:48+00:00"
+  "updatedAt": "2024-11-03T21:54:05+00:00"
  },
  "relationships": [
   {
@@ -206,19 +220,6 @@
     "website": null,
     "weibo": null,
     "youtube": null
-   }
-  },
-  {
-   "id": "78960060-3c83-4004-96fe-34ab750f7ba1",
-   "type": "cover_art",
-   "attributes": {
-    "createdAt": "2023-11-17T23:23:27+00:00",
-    "description": "",
-    "fileName": "e66bbd65-ef46-440d-af95-50b2e419858f.jpg",
-    "locale": "ja",
-    "updatedAt": "2023-11-17T23:23:27+00:00",
-    "version": 1,
-    "volume": "1"
    }
   },
   {

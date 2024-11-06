@@ -14,7 +14,9 @@
    "raw": "https://michikusacomics.jp/product/speak"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "1",
+  "lastChapter": "14",
+  "status": "completed",
   "year": 2024,
   "contentRating": "safe",
   "tags": [
@@ -27,18 +29,6 @@
      },
      "description": {},
      "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
      "version": 1
     }
    },
@@ -56,9 +46,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2024-09-22T20:15:34+00:00",
-  "updatedAt": "2024-09-23T14:54:30+00:00"
+  "updatedAt": "2024-11-04T15:39:30+00:00"
  },
  "relationships": [
   {
@@ -114,14 +104,14 @@
    }
   },
   {
-   "id": "7f3a4627-fabc-41f8-ba18-5feaa5b1aa5c",
+   "id": "04bb2642-a7bb-47a5-ac03-9234c1f47473",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-22T21:00:20+00:00",
+    "createdAt": "2024-11-04T15:39:29+00:00",
     "description": "",
-    "fileName": "f40a9a85-f503-4ef8-9b59-5a181236a0d3.jpg",
+    "fileName": "c236e453-6a89-47db-ae63-0404105e2d98.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-22T21:00:20+00:00",
+    "updatedAt": "2024-11-04T15:39:29+00:00",
     "version": 1,
     "volume": "1"
    }

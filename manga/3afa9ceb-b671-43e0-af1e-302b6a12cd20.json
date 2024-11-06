@@ -16,7 +16,7 @@
     "ja-ro": "Fumikiri no oto wa mō kikoenai."
    },
    {
-    "vi": "Tôi không còn nghe được tiếng đường ray xe lửa nữa"
+    "vi": "Tôi không còn nghe được tiếng đường ray xe lửa nữa."
    }
   ],
   "description": {
@@ -37,7 +37,7 @@
    "en",
    "es-la"
   ],
-  "latestUploadedChapter": "156bc95d-bbae-44b9-949e-98d69cb45938",
+  "latestUploadedChapter": "5ba70ee4-ab71-42a9-954b-14cf684b3fe5",
   "tags": [
    {
     "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
@@ -113,9 +113,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 11,
   "createdAt": "2023-04-30T23:59:47+00:00",
-  "updatedAt": "2024-09-25T13:33:52+00:00"
+  "updatedAt": "2024-11-03T11:19:44+00:00"
  },
  "relationships": [
   {
@@ -187,6 +187,11 @@
    "id": "2e0fdb3b-632c-4f8f-a311-5b56952db647",
    "type": "manga",
    "related": "based_on"
+  },
+  {
+   "id": "d75ea333-e068-464f-8e7e-65c8170e83f8",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "e368d991-243a-410e-9a9f-8c177958370d",

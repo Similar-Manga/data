@@ -11,18 +11,7 @@
     "en": "Butterfly in the Air"
    },
    "contentRating": "safe",
-   "score": 0.3019282,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d5e5ce0c-dcba-45e6-9ffd-3504d60c413e",
-   "title": {
-    "en": "Insomnia"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.30190644,
    "languages": [
     "en"
    ]
@@ -38,6 +27,17 @@
     "fr",
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "d5e5ce0c-dcba-45e6-9ffd-3504d60c413e",
+   "title": {
+    "en": "Insomnia"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -60,7 +60,7 @@
     "en": "Ima, Ai ni Yukimasu"
    },
    "contentRating": "safe",
-   "score": 0.2603155,
+   "score": 0.26031452,
    "languages": [
     "pl",
     "en"
@@ -72,7 +72,7 @@
     "en": "Nyan-Nyan Oratorio"
    },
    "contentRating": "safe",
-   "score": 0.2568022,
+   "score": 0.2568024,
    "languages": [
     "pl",
     "en"
@@ -84,67 +84,7 @@
     "en": "The Fishes"
    },
    "contentRating": "safe",
-   "score": 0.25212413,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fc351ad7-7d92-4a88-9cf6-6eb028d09776",
-   "title": {
-    "en": "My Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
-   "title": {
-    "en": "Tsuki no Kanon"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
-    "de"
-   ]
-  },
-  {
-   "id": "499238d7-9fb4-43dc-95e7-ac9c9bed35dc",
-   "title": {
-    "en": "Boukansha no Koi"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7138083b-4fbf-4cc3-8695-ce175034e45a",
-   "title": {
-    "en": "Yuki to Sumi"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
-   "id": "d8586ea8-4021-4e9a-9725-eaead1127d19",
-   "title": {
-    "en": "Pinocchio"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.25212538,
    "languages": [
     "en"
    ]
@@ -163,6 +103,50 @@
    ]
   },
   {
+   "id": "fc351ad7-7d92-4a88-9cf6-6eb028d09776",
+   "title": {
+    "en": "My Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0103c05a-187a-45d3-8282-8fd49593b32c",
+   "title": {
+    "en": "Dana's Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d8586ea8-4021-4e9a-9725-eaead1127d19",
+   "title": {
+    "en": "Pinocchio"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "499238d7-9fb4-43dc-95e7-ac9c9bed35dc",
+   "title": {
+    "en": "Boukansha no Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5e9737ec-f4c5-45cd-b011-2baee2803445",
    "title": {
     "en": "The Lady Possessed by the God of Diseases"
@@ -172,6 +156,33 @@
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
+   "title": {
+    "en": "Tsuki no Kanon"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "en",
+    "ru",
+    "de"
+   ]
+  },
+  {
+   "id": "7138083b-4fbf-4cc3-8695-ce175034e45a",
+   "title": {
+    "en": "Yuki to Sumi"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "id",
+    "vi"
    ]
   },
   {
@@ -185,18 +196,7 @@
     "en",
     "vi"
    ]
-  },
-  {
-   "id": "0103c05a-187a-45d3-8282-8fd49593b32c",
-   "title": {
-    "en": "Dana's Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-11-03T21:55:36+00:00"
+ "updatedAt": "2024-11-05T22:31:36+00:00"
 }

@@ -6,27 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "5ea979e7-58d0-4cf6-b774-b9a254269f4b",
-   "title": {
-    "en": "Watashi-tachi ga Koisuru Riyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.29640263,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
    "id": "7242acf0-248f-4dfd-85cb-0910f9abbba4",
    "title": {
     "en": "Misaki-kun no Bukiyou na Dekiai"
    },
    "contentRating": "safe",
-   "score": 0.2944788,
+   "score": 0.30467165,
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "5ea979e7-58d0-4cf6-b774-b9a254269f4b",
+   "title": {
+    "en": "Watashi-tachi ga Koisuru Riyuu"
+   },
+   "contentRating": "safe",
+   "score": 0.2964099,
+   "languages": [
+    "vi",
+    "en"
    ]
   },
   {
@@ -35,7 +35,7 @@
     "en": "Koi wo Futasaji"
    },
    "contentRating": "safe",
-   "score": 0.27217776,
+   "score": 0.27218145,
    "languages": [
     "en"
    ]
@@ -46,22 +46,11 @@
     "en": "Korogaru Onna to Koi no Numa"
    },
    "contentRating": "safe",
-   "score": 0.2644002,
+   "score": 0.2653291,
    "languages": [
     "en",
     "pt-br",
     "es-la"
-   ]
-  },
-  {
-   "id": "1a1c044f-4cab-468f-ba97-5d53b5ab84c9",
-   "title": {
-    "en": "Akari of the Forest Bookshop"
-   },
-   "contentRating": "safe",
-   "score": 0.25856715,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -70,7 +59,7 @@
     "en": "Koori Zokusei Danshi to Cool na Douryou Joshi"
    },
    "contentRating": "safe",
-   "score": 0.25694928,
+   "score": 0.25704393,
    "languages": [
     "en",
     "es-la",
@@ -89,18 +78,7 @@
     "en": "Nanji, Boku ni Koi wo Seyo"
    },
    "contentRating": "safe",
-   "score": 0.24879767,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e9418542-04e4-4e61-a860-dff4547fd69b",
-   "title": {
-    "en": "Bentouya-san no Omotenashi"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
+   "score": 0.24880062,
    "languages": [
     "en"
    ]
@@ -117,12 +95,34 @@
    ]
   },
   {
+   "id": "e9418542-04e4-4e61-a860-dff4547fd69b",
+   "title": {
+    "en": "Bentouya-san no Omotenashi"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1a1c044f-4cab-468f-ba97-5d53b5ab84c9",
+   "title": {
+    "en": "Akari of the Forest Bookshop"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "52f4ea39-99bd-407f-b86f-46b24a712ce8",
    "title": {
     "en": "Me no Doku Sugiru Shokuba no Futari"
    },
    "contentRating": "safe",
-   "score": 0.24505734,
+   "score": 0.24517262,
    "languages": [
     "en"
    ]
@@ -133,11 +133,33 @@
     "en": "Kuuki ga \"Yomeru\" Shinnyushain to Buaiso na Senpai no Hanashi (Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.23909296,
+   "score": 0.23908864,
    "languages": [
     "en",
     "es-la",
     "id"
+   ]
+  },
+  {
+   "id": "d39c6c91-755e-4ae0-8d98-221ba70d8949",
+   "title": {
+    "en": "Catch! Love"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6e98dfc5-b279-4156-9909-6658fd18ad8f",
+   "title": {
+    "en": "To Start"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -165,28 +187,6 @@
    ]
   },
   {
-   "id": "d39c6c91-755e-4ae0-8d98-221ba70d8949",
-   "title": {
-    "en": "Catch! Love"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e98dfc5-b279-4156-9909-6658fd18ad8f",
-   "title": {
-    "en": "To Start"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "355aa5b3-b805-4073-8292-7de639b9145a",
    "title": {
     "en": "The Lady of Udon"
@@ -200,5 +200,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-03T22:04:16+00:00"
+ "updatedAt": "2024-11-05T22:40:35+00:00"
 }

@@ -3,18 +3,22 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Regressing As The Reincarnated Bastard Of The Sword Clan"
+   "en": "Regressing As The Bastard Of The Sword Clan"
   },
   "altTitles": [
    {
     "ko": "회귀검가의 서자가 사는 법"
+   },
+   {
+    "ko-ro": "Hoegwigeomgaui Seojaga Saneun Beop"
    }
   ],
   "description": {
-   "en": "The Great Northern Wall. The Dragon Knights. The Lords of the Winter Mountains. The Descendants of the Primordial Dragon.\n\nThese are the various titles of the Grand Ducal Clan Ragnar, which boasted a rich, thousand year history.\n\nTheo Ragnar resolved himself to aiming for the throne of that very same clan.\n\n'These cursed chains weren't something I could slip out of. They were meant to be broken with strength.’",
-   "ko": "강자존의 가문 라그나르의 서자 테오, \n죽도록 노력했지만 재능이 부족하여 혈통의 사슬을 끊지 못하고 \n결국 왕좌 경쟁에 밀려난다. \n하지만 힘없는 서자 임에도 형제들은 테오를 제거하려 하였고 \n자신을 가르쳤던 스승에게 마저 배신당한 테오는 모든걸 잃어버리고 죽음을 맞는다. \n최후의 순간, 삶의 모든 순간을 후회했던 테오에게 '회귀'라는 믿을 수 없는 일이 일어난다.\n\"이번 생은 다르다\"\n회귀한 서자는 검을 잡고 왕좌 경쟁에 뛰어든다."
+   "en": "Theo, the illegitimate son of the powerful Ragnar family, tried his best to the death but was unable to break the chain of bloodline due to lack of talent and was eventually pushed out of the competition for the throne.\n\nHowever, despite being a powerless illegitimate son, his brothers tried to eliminate Theo, and Theo, who was betrayed by his teacher, lost everything and met death.\n\nAt the last moment, an unbelievable event called regression happened to Theo, who regretted every moment of his life.\n\n\"This life will be different.\"\n\nThe illegitimate son who returned took up his sword and jumped into the competition for the throne.",
+   "ko": "강자존의 가문 라그나르의 서자 테오, 죽도록 노력했지만 재능이 부족하여 혈통의 사슬을 끊지 못하고 결국 왕좌 경쟁에 밀려난다. \n\n하지만 힘없는 서자 임에도 형제들은 테오를 제거하려 하였고 자신을 가르쳤던 스승에게 마저 배신당한 테오는 모든걸 잃어버리고 죽음을 맞는다. \n\n최후의 순간, 삶의 모든 순간을 후회했던 테오에게 '회귀'라는 믿을 수 없는 일이 일어난다.\n\n\"이번 생은 다르다.\"\n\n회귀한 서자는 검을 잡고 왕좌 경쟁에 뛰어든다."
   },
   "links": {
+   "al": "183855",
    "mal": "175209",
    "mu": "32895221226",
    "nu": "regressing-as-the-reincarnated-bastard-of-the-sword-clan",
@@ -110,6 +114,18 @@
     }
    },
    {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
@@ -123,9 +139,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2024-10-09T04:27:42+00:00",
-  "updatedAt": "2024-10-11T22:19:35+00:00"
+  "updatedAt": "2024-11-04T23:01:35+00:00"
  },
  "relationships": [
   {

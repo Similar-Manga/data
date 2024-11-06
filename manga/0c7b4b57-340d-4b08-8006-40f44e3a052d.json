@@ -7,23 +7,27 @@
   },
   "altTitles": [
    {
-    "en": "Tenkei no Arimaria - Once Upon a Time"
+    "ja": "天啓のアリマリア"
    },
    {
-    "en": "The Godlike Gambler ARIMARIA"
+    "en": "Arimaria Of Revelation"
+   },
+   {
+    "ja": "天啓のアリマリア―once upon a time―"
+   },
+   {
+    "ja-ro": "Tenkei no Arimaria —once upon a time—"
    },
    {
     "en": "The Godlike Gambler ARIMARIA: Once Upon a Time"
-   },
-   {
-    "en": "天啓のアリマリア"
    }
   ],
   "description": {
-   "en": "Japan: the Gambler's Paradise! The rich and beautiful Maria is well-known as a legendary gambler who will take on any challenge, no matter how unreasonable or impossible! But what happens when she meets a lowly slave who solves her riddle..? Twist after twist! So tense you'll forget to breathe! This five part gambling story will leave you aching for more!"
+   "en": "Japan: the Gambler's Paradise! The rich and beautiful Maria is well-known as a legendary gambler who will take on any challenge, no matter how unreasonable or impossible! But what happens when she meets a lowly slave who solves her riddle…? Twist after twist! So tense you'll forget to breathe!"
   },
   "links": {
    "al": "91810",
+   "amz": "https://www.amazon.co.jp/s?i=stripbooks\u0026rh=p_28%3A%E5%A4%A9%E5%95%93%E3%81%AE%E3%82%A2%E3%83%AA%E3%83%9E%E3%83%AA%E3%82%A2\u0026s=date-desc-rank",
    "ap": "the-godlike-gambler-arimaria-once-upon-a-time",
    "kt": "31157",
    "mal": "73387",
@@ -34,22 +38,25 @@
   "lastChapter": "12",
   "publicationDemographic": "shounen",
   "status": "completed",
+  "year": 2014,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "c01d913c-d7cf-47b6-9fcf-2b15b95f9a2a",
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2019-03-29T10:13:52+00:00",
-  "updatedAt": "2021-05-25T15:39:21+00:00"
+  "updatedAt": "2024-11-04T19:48:21+00:00"
  },
  "relationships": [
   {
    "id": "a9cf1ed8-ad6e-494e-a4ca-5329030a164a",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 作元健司"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -64,8 +71,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-04T19:18:24+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -75,7 +82,9 @@
    "id": "5a7fd247-f81b-4d10-9b69-8d83be6c0065",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 伊十楽"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -89,25 +98,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/isora_369",
+    "updatedAt": "2024-11-04T20:15:17+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "3cb8a4c5-34e9-4f4a-b355-10a13dc41c16",
+   "id": "3cf24fe2-29e7-44b3-b078-2a64e383d3aa",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:06:14+00:00",
+    "createdAt": "2024-11-04T19:38:36+00:00",
     "description": "",
-    "fileName": "90e4213b-8e40-43a0-9d53-0b511d344c65.jpg",
+    "fileName": "6ea5c297-f955-4b04-80d5-0093eb3f4e2c.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:06:14+00:00",
+    "updatedAt": "2024-11-04T19:38:36+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

@@ -1,0 +1,146 @@
+{
+ "id": "d3ae8df3-e2a7-4cf7-b501-9c64a16dffc1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sabishii Jijou wa Kouman Ouji no Ichiban ni naru"
+  },
+  "altTitles": [
+   {
+    "ja": "寂しい侍女は、高慢王子の一番になる"
+   },
+   {
+    "en": "The Lonely Maid of Honor Becomes the Prince's Best"
+   }
+  ],
+  "description": {
+   "ja": "「お前は三番目の王子 ロキオを誘惑するのです」\n宮廷の侍女・エアーリアに下されたのは、王妃からのとんでもない命令！しかも相手は偉そうで高圧的と噂のロキオ王子！平凡な私が、そんなの死んでも無理！と思っても、侍女の身にとって王妃の命令は絶対で…。エアーリアは高慢王子・ロキオを落とせるのか！？"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CPM3RK22",
+   "bw": "series/447837",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/801175/",
+   "mu": "nmovv2o"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "4",
+  "lastChapter": "31",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-04T14:00:29+00:00",
+  "updatedAt": "2024-11-04T14:00:40+00:00"
+ },
+ "relationships": [
+  {
+   "id": "295f4531-5a6b-4f17-840a-13d4b1ee1f86",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mikuni Tsukasa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "714cad0f-d9ee-4fb2-a5c0-f2f0eac82210",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-22T04:45:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Okunishi Chie",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-10-22T04:45:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "13454ed2-0eaa-4954-9903-b18179f79134",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-04T14:00:31+00:00",
+    "description": "",
+    "fileName": "067a2f5e-a506-4142-814d-bd3b5a79f0cd.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-04T14:00:31+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

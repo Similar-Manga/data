@@ -33,7 +33,7 @@
     "en": "Napoleon - Age of the Lion"
    },
    "contentRating": "safe",
-   "score": 0.20205699,
+   "score": 0.20216697,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.20168833,
+   "score": 0.2016905,
    "languages": [
     "en",
     "it",
@@ -69,7 +69,7 @@
     "en": "Jungle Boy"
    },
    "contentRating": "safe",
-   "score": 0.20110033,
+   "score": 0.2011068,
    "languages": [
     "en"
    ]
@@ -80,7 +80,7 @@
     "en": "Groundless"
    },
    "contentRating": "safe",
-   "score": 0.20047608,
+   "score": 0.20047858,
    "languages": [
     "en"
    ]
@@ -91,7 +91,7 @@
     "en": "Assassine"
    },
    "contentRating": "safe",
-   "score": 0.19625786,
+   "score": 0.19627038,
    "languages": [
     "en",
     "pl"
@@ -109,12 +109,38 @@
    ]
   },
   {
+   "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
+   "title": {
+    "en": "Shuumatsu no Valkyrie"
+   },
+   "contentRating": "safe",
+   "score": 0.18759085,
+   "languages": [
+    "zh-hk",
+    "en",
+    "fr",
+    "tr",
+    "es-la",
+    "ru",
+    "pt-br",
+    "vi",
+    "uk",
+    "bg",
+    "id",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "pl"
+   ]
+  },
+  {
    "id": "e7dda8bf-e252-401b-ac36-3a737f6c85b4",
    "title": {
     "en": "Legend of the Sun"
    },
    "contentRating": "safe",
-   "score": 0.18091837,
+   "score": 0.18092547,
    "languages": [
     "en"
    ]
@@ -125,30 +151,9 @@
     "en": "Fist of the North Star - End of the Century's Drama Shooting Arc"
    },
    "contentRating": "safe",
-   "score": 0.1736053,
+   "score": 0.17360148,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
-   "title": {
-    "en": "Vinland Saga"
-   },
-   "contentRating": "safe",
-   "score": 0.17317234,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br",
-    "ru",
-    "ro",
-    "ar",
-    "cs",
-    "uk",
-    "tr",
-    "es",
-    "it"
    ]
   },
   {
@@ -171,6 +176,27 @@
     "tr",
     "ar",
     "pl"
+   ]
+  },
+  {
+   "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
+   "title": {
+    "en": "Vinland Saga"
+   },
+   "contentRating": "safe",
+   "score": 0.17317234,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br",
+    "ru",
+    "ro",
+    "ar",
+    "cs",
+    "uk",
+    "tr",
+    "es",
+    "it"
    ]
   },
   {
@@ -207,18 +233,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "b6b72c71-4a73-4ec5-abae-ab6e366b6246",
-   "title": {
-    "en": "Cat Shit One' 80"
-   },
-   "contentRating": "safe",
-   "score": 0.16505538,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-11-03T21:35:23+00:00"
+ "updatedAt": "2024-11-05T22:12:56+00:00"
 }

@@ -1,0 +1,137 @@
+{
+ "id": "5352c524-9b25-47ac-a2b6-f36ba59b4e1b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "#Shinsou wo Ohanashi shimasu"
+  },
+  "altTitles": [
+   {
+    "ja": "＃真相をお話しします"
+   },
+   {
+    "ja": "真相をお話しします"
+   },
+   {
+    "ja-ro": "Shinsou wo Ohanashi shimasu"
+   }
+  ],
+  "description": {
+   "en": "A man and a woman in touch at a tavern, a wealthy father and son in a quiet residential area, a man seen at a long-awaited class reunion, a beloved child at last, a slow life on an island overflowing with nature.\n\nThe slow life on an island full of nature. A new kind of mystery that betrays you in a refreshing way! Enjoy the extraordinary that may be lurking next to you.",
+   "ja": "居酒屋で触れ合う男女、閑静な住宅街の裕福な親子、 久々の同窓会で見たあいつ、やっと授かった愛し子、 自然あふれる島でのスローライフ。\n\n目で見て分かる事実、だけど、ほんとにそれだけ？ 清々しいほど裏切られる、新感覚ミステリ！！ あなたの隣にも潜んでるかもしれない“非日常”をご堪能あれ。"
+  },
+  "links": {
+   "bw": "series/400730/list",
+   "mal": "157695",
+   "mu": "c5o5e7m",
+   "raw": "https://kuragebunch.com/episode/4855956445075588754"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "21",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-05T15:42:17+00:00",
+  "updatedAt": "2024-11-05T20:14:10+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e7dde250-0888-4387-9454-0db2f0ef50ce",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-05T15:41:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuuki Shinichirou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-05T15:41:36+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "313382e6-d1a6-4480-9d0d-b22d71d561ea",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-05T15:40:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mori Tooru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-05T15:40:46+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d2b51e31-ca3f-41e0-9444-768afe67869a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T15:42:23+00:00",
+    "description": "",
+    "fileName": "ac247ce3-2da5-4148-ae9b-a79ff54f8d75.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T15:42:23+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

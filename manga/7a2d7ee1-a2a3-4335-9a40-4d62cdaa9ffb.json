@@ -17,7 +17,7 @@
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0D73WNMQK",
    "ap": "anata-no-ai-nado-irimasen",
-   "bw": "series/484212",
+   "bw": "series/484212/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/846697/",
    "mu": "63474lx",
    "raw": "https://www.alphapolis.co.jp/manga/official/384000558"
@@ -74,24 +74,12 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2024-02-10T13:02:35+00:00",
-  "updatedAt": "2024-09-05T18:31:51+00:00"
+  "updatedAt": "2024-11-04T16:33:14+00:00"
  },
  "relationships": [
   {
@@ -147,14 +135,14 @@
    }
   },
   {
-   "id": "9a1ddb56-6bcb-423a-ba4b-2864c57fe5bc",
+   "id": "5f71e798-20e1-448a-b705-7e9877b65e98",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-05T18:31:51+00:00",
+    "createdAt": "2024-11-04T16:34:14+00:00",
     "description": "",
-    "fileName": "8a712333-09e2-4def-9fbe-22f3cbdeee92.jpg",
+    "fileName": "9c60c009-9f8e-486f-ae5b-42d4c6f0c30c.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-05T18:31:51+00:00",
+    "updatedAt": "2024-11-04T16:34:14+00:00",
     "version": 1,
     "volume": "1"
    }

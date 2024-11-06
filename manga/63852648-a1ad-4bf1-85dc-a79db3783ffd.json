@@ -3,11 +3,9 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kama ni Ippouteki ni Aisaretai (Fate/Grand Order)"
+   "en": "Fate/Grand Order - Kama ni Ippouteki ni Aisaretai (Doujinshi)"
   },
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "originalLanguage": "ja",
   "status": "completed",
   "contentRating": "pornographic",
@@ -39,16 +37,28 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "ddefd648-5140-4e5f-ba18-4eca4071d19b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Shota"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2020-11-25T09:58:17+00:00",
-  "updatedAt": "2021-05-25T15:43:03+00:00"
+  "updatedAt": "2024-11-03T06:56:18+00:00"
  },
  "relationships": [
   {
-   "id": "0c8ddf19-a9a8-4dd5-8f64-efc32cf8c0b1",
+   "id": "1be3b269-b846-4bf3-83ce-fb36e134ef20",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -58,7 +68,33 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "SeaFox",
+    "name": "Kirisaki Byakko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "82cc7857-2349-4214-8eda-88cc1ad71be9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "SeaFox (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -85,6 +121,32 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Kirisaki Byakko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "82cc7857-2349-4214-8eda-88cc1ad71be9",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "SeaFox (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,

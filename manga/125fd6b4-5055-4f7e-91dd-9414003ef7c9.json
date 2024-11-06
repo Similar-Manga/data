@@ -1,0 +1,130 @@
+{
+ "id": "125fd6b4-5055-4f7e-91dd-9414003ef7c9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ochikobore Shougakusei, Isekai \u0026 Gendai de Saikyou Yuusha to Naru"
+  },
+  "altTitles": [
+   {
+    "ja": "落ちこぼれ小学生、異世界＆現代で最強勇者となる"
+   }
+  ],
+  "description": {
+   "ja": "大切な家族を救うため、僕は必ず強くなる！\n\n運動や勉強、何もかもが人より上手くできない小学生・戸破アキト。ある日、自身の不注意によって、最愛の妹が死の危機に陥ってしまう……。自らの無力さに絶望した瞬間、人類を設計している女神が現れ、彼女のミスが原因で“落ちこぼれ”になってしまったことを知る……しかし、その女神に連れられ、努力と経験で必ず強くなれる異世界に行くことに――!?\n\n「僕は異世界で強くなる。そして、大切な家族を助けてみせる！」"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DHHK4TKR",
+   "bw": "series/487808",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/853552/",
+   "mu": "qto3rr1",
+   "raw": "https://www.corocoro.jp/title/53"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-04T22:59:03+00:00",
+  "updatedAt": "2024-11-04T22:59:18+00:00"
+ },
+ "relationships": [
+  {
+   "id": "9e4879d1-cd23-4e35-8fbb-5c7a86bad9bd",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-11T04:06:52+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nariko Tamaki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-11T04:06:52+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9e4879d1-cd23-4e35-8fbb-5c7a86bad9bd",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-11T04:06:52+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nariko Tamaki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-11T04:06:52+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "68a691c5-6d7c-41d1-9024-c839eef63c32",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-04T22:59:07+00:00",
+    "description": "",
+    "fileName": "185cb8e6-b492-4fbb-aebc-f6aedb489942.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-04T22:59:07+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

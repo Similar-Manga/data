@@ -25,8 +25,9 @@
    "raw": "https://www.manga.club/book/title/MEDIBANGEN00050/"
   },
   "originalLanguage": "ja",
+  "lastVolume": "2",
   "publicationDemographic": "seinen",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2012,
   "contentRating": "erotica",
   "tags": [
@@ -115,18 +116,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
@@ -152,9 +141,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2019-10-05T07:18:00+00:00",
-  "updatedAt": "2024-05-01T19:20:03+00:00"
+  "updatedAt": "2024-11-03T13:18:16+00:00"
  },
  "relationships": [
   {
@@ -212,16 +201,16 @@
    }
   },
   {
-   "id": "3d0064fa-a997-4f05-bb53-c7e3b34a4fd7",
+   "id": "674f7082-658b-4290-868d-6592df7795f0",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:29:05+00:00",
+    "createdAt": "2024-11-03T13:19:34+00:00",
     "description": "",
-    "fileName": "7fed87e3-024a-4db7-a7dd-1da3cd64ac88.png",
+    "fileName": "10904f3b-764d-4d03-9952-38e34645b451.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:29:05+00:00",
+    "updatedAt": "2024-11-03T13:19:34+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

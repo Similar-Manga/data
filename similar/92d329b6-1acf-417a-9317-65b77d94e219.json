@@ -6,12 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "760ef322-4c63-4709-b005-caafac6a2b71",
+   "title": {
+    "en": "Golondrina"
+   },
+   "contentRating": "safe",
+   "score": 0.1771011,
+   "languages": [
+    "pl",
+    "en",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
    "id": "052e5256-6d5f-4591-8b17-35f628085a9c",
    "title": {
     "en": "Snow Blind"
    },
    "contentRating": "safe",
-   "score": 0.19330366,
+   "score": 0.17261274,
    "languages": [
     "pt-br",
     "fr",
@@ -24,29 +38,27 @@
    ]
   },
   {
-   "id": "760ef322-4c63-4709-b005-caafac6a2b71",
-   "title": {
-    "en": "Golondrina"
-   },
-   "contentRating": "safe",
-   "score": 0.1771012,
-   "languages": [
-    "pl",
-    "en",
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
    "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
    "title": {
     "en": "Sherlock"
    },
    "contentRating": "safe",
-   "score": 0.15906626,
+   "score": 0.15906018,
    "languages": [
     "en",
     "tr"
+   ]
+  },
+  {
+   "id": "49986f19-8a84-4d50-b132-6f3672ea6402",
+   "title": {
+    "en": "Fushigi na Shounen"
+   },
+   "contentRating": "safe",
+   "score": 0.14948702,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -64,24 +76,12 @@
    ]
   },
   {
-   "id": "49986f19-8a84-4d50-b132-6f3672ea6402",
-   "title": {
-    "en": "Fushigi na Shounen"
-   },
-   "contentRating": "safe",
-   "score": 0.14948702,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "b0d9b920-c243-419e-ae88-4009d1cbb3bf",
    "title": {
     "en": "The Monster Rec-chan"
    },
    "contentRating": "safe",
-   "score": 0.14585672,
+   "score": 0.14585158,
    "languages": [
     "en",
     "pl",
@@ -98,7 +98,7 @@
     "en": "Semi-Eternal Happy End"
    },
    "contentRating": "safe",
-   "score": 0.14511737,
+   "score": 0.14511664,
    "languages": [
     "en",
     "pl"
@@ -110,29 +110,10 @@
     "en": "The Legend of the Strongest Man Nakane"
    },
    "contentRating": "safe",
-   "score": 0.13370526,
+   "score": 0.1433015,
    "languages": [
     "tr",
     "en"
-   ]
-  },
-  {
-   "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
-   "title": {
-    "en": "REAL"
-   },
-   "contentRating": "safe",
-   "score": 0.122055635,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id",
-    "ar",
-    "es-la",
-    "pl",
-    "ru",
-    "fr"
    ]
   },
   {
@@ -176,17 +157,49 @@
    ]
   },
   {
+   "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
+   "title": {
+    "en": "REAL"
+   },
+   "contentRating": "safe",
+   "score": 0.122055635,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr",
+    "id",
+    "ar",
+    "es-la",
+    "pl",
+    "ru",
+    "fr"
+   ]
+  },
+  {
    "id": "674c0331-a8b8-4ead-8ff9-d78895ce0b02",
    "title": {
     "en": "Rumic Theater"
    },
    "contentRating": "safe",
-   "score": 0.11321885,
+   "score": 0.113206744,
    "languages": [
     "en",
     "pl",
     "bg",
     "zh-hk"
+   ]
+  },
+  {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.11300156,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
    ]
   },
   {
@@ -207,25 +220,12 @@
    ]
   },
   {
-   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
-   "title": {
-    "en": "Memento Memori"
-   },
-   "contentRating": "safe",
-   "score": 0.11300156,
-   "languages": [
-    "ru",
-    "tr",
-    "en"
-   ]
-  },
-  {
    "id": "296cbc31-af1a-4b5b-a34b-fee2b4cad542",
    "title": {
     "en": "【Oshi no Ko】"
    },
    "contentRating": "safe",
-   "score": 0.10644527,
+   "score": 0.10644441,
    "languages": [
     "fr",
     "es-la",
@@ -245,5 +245,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-03T21:18:39+00:00"
+ "updatedAt": "2024-11-05T21:57:41+00:00"
 }

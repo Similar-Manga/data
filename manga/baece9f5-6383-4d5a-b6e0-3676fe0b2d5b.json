@@ -21,7 +21,7 @@
    "al": "131035",
    "amz": "https://www.amazon.co.jp/dp/B0BPYGW6RW",
    "ap": "the-transfer-destination-was-a-world-with-few-pharmacists",
-   "bw": "series/319631",
+   "bw": "series/319631/list",
    "engtl": "https://www.alpha-manga.com/manga/334000363",
    "mal": "146096",
    "mu": "175735",
@@ -98,18 +98,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -123,9 +111,9 @@
    }
   ],
   "state": "published",
-  "version": 14,
+  "version": 16,
   "createdAt": "2021-01-04T02:57:59+00:00",
-  "updatedAt": "2024-09-15T04:08:44+00:00"
+  "updatedAt": "2024-11-03T21:49:02+00:00"
  },
  "relationships": [
   {
@@ -181,16 +169,16 @@
    }
   },
   {
-   "id": "e2489f73-4f77-422b-b73f-ac7c08fae1d0",
+   "id": "83fda213-1725-4d46-b3b9-23ecf720bfe3",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-15T01:12:19+00:00",
+    "createdAt": "2024-11-03T21:49:08+00:00",
     "description": "",
-    "fileName": "03d8227f-31b8-4d68-bf76-e5dea60022c5.jpg",
+    "fileName": "b843e217-e873-4421-8392-ca879082c884.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-15T01:12:19+00:00",
+    "updatedAt": "2024-11-03T21:49:08+00:00",
     "version": 1,
-    "volume": "4"
+    "volume": "5"
    }
   }
  ]

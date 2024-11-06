@@ -14,6 +14,9 @@
    },
    {
     "en": "I Picked up a Homeless Handsome Guy"
+   },
+   {
+    "ja": "宿無しイケメン拾いました"
    }
   ],
   "description": {
@@ -23,6 +26,7 @@
   },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B09RZDZGJP",
+   "bw": "series/342487/list",
    "mu": "zn3saob",
    "raw": "https://manga.line.me/product/periodic?id=Z0001888"
   },
@@ -58,24 +62,12 @@
      "group": "theme",
      "version": 1
     }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2022-07-14T12:24:35+00:00",
-  "updatedAt": "2024-02-22T16:13:11+00:00"
+  "updatedAt": "2024-11-03T15:47:38+00:00"
  },
  "relationships": [
   {
@@ -131,16 +123,16 @@
    }
   },
   {
-   "id": "19dcd237-7dc0-4e77-a5d9-e297d2c28c05",
+   "id": "8bfd7156-42ab-467c-9255-7b200fc73468",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-07-14T12:25:06+00:00",
+    "createdAt": "2024-11-03T15:49:43+00:00",
     "description": "",
-    "fileName": "dc4e9a65-524a-46f9-b51b-97cbc63544e2.png",
+    "fileName": "2b83e30b-6521-4b29-8a0e-fb7c0a5b8eb9.jpg",
     "locale": "ja",
-    "updatedAt": "2022-07-14T12:25:06+00:00",
+    "updatedAt": "2024-11-03T15:49:43+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "5"
    }
   },
   {

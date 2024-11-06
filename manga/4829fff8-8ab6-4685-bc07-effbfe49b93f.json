@@ -8,10 +8,14 @@
   "altTitles": [
    {
     "ja": "虐殺!!! ハートフルカンパニー"
+   },
+   {
+    "fr": "Heartful Company (IMHO)"
    }
   ],
   "description": {
-   "en": "Kiichi Nakai, CEO of Heartful Company, is confronted with a grim diagnosis.To make the most of his final days, he commits to only carrying out good deeds. Here begins a tale of love and passion for doing the right thing, a story to warm even the coldest of hearts."
+   "en": "Kiichi Nakai, CEO of Heartful Company, is confronted with a grim diagnosis.To make the most of his final days, he commits to only carrying out good deeds. Here begins a tale of love and passion for doing the right thing, a story to warm even the coldest of hearts.",
+   "fr": "La Heartful Company est un fabricant d’armes et incarne le Mal absolu dans une entreprise dépourvue de scrupules. À forces d’imaginer des engins abominables, son PDG est victime d’une attaque. Le verdict est sans appel : son âme souffre d’un cancer, pour la sauver il doit compenser ses crimes par dix fois plus de bonnes actions. La tâche est laborieuse mais aidé par son équipe, nos chercheurs créent un ours en peluche serviable amateur d’arts martiaux et mettent au point une couche révolutionnaire pour personnes alitées. Mais ces incroyables inventions vont rapidement se retourner contre eux et l’humanité entière …"
   },
   "links": {
    "mal": "139011",
@@ -35,18 +39,6 @@
     "attributes": {
      "name": {
       "en": "Monsters"
-     },
-     "description": {},
-     "group": "theme",
-     "version": 1
-    }
-   },
-   {
-    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Animals"
      },
      "description": {},
      "group": "theme",
@@ -102,11 +94,23 @@
     }
    },
    {
-    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Horror"
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
      },
      "description": {},
      "group": "genre",
@@ -115,9 +119,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2023-03-26T19:03:19+00:00",
-  "updatedAt": "2024-05-07T08:42:58+00:00"
+  "updatedAt": "2024-11-04T21:45:50+00:00"
  },
  "relationships": [
   {

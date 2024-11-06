@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "db90d832-59a6-4f1a-97cc-84226bdd5d12",
+   "title": {
+    "en": "Uma Musume Pretty Derby: Uma Musumeshi"
+   },
+   "contentRating": "safe",
+   "score": 0.7266563,
+   "languages": [
+    "en",
+    "vi",
+    "fr"
+   ]
+  },
+  {
    "id": "778b8438-af3a-4534-841c-adf923b55ee1",
    "title": {
     "en": "Uma Musume Pretty Derby: Star Blossom"
    },
    "contentRating": "safe",
-   "score": 0.7164611,
+   "score": 0.7164922,
    "languages": [
     "en",
     "fr",
@@ -21,25 +34,12 @@
    ]
   },
   {
-   "id": "db90d832-59a6-4f1a-97cc-84226bdd5d12",
-   "title": {
-    "en": "Uma Musume Pretty Derby: Uma Musumeshi"
-   },
-   "contentRating": "safe",
-   "score": 0.7113756,
-   "languages": [
-    "en",
-    "vi",
-    "fr"
-   ]
-  },
-  {
    "id": "19e83dd3-083b-47a2-a308-8eb56c53df1f",
    "title": {
     "en": "Umamusume: Pretty Derby Anthology Comic STAR"
    },
    "contentRating": "safe",
-   "score": 0.6955465,
+   "score": 0.69556314,
    "languages": [
     "en"
    ]
@@ -50,7 +50,7 @@
     "en": "Umamusume: Pretty Derby PisuPisu☆SupiSupi Golshi-chan"
    },
    "contentRating": "safe",
-   "score": 0.48985323,
+   "score": 0.5085605,
    "languages": [
     "en"
    ]
@@ -61,7 +61,7 @@
     "en": "Uma Musume Pretty Derby - ZOKU-ZOKU GIZMO (Doujinshi)"
    },
    "contentRating": "safe",
-   "score": 0.44213787,
+   "score": 0.44217774,
    "languages": [
     "en"
    ]
@@ -72,7 +72,7 @@
     "en": "Uma Musume: Cinderella Gray Gaiden ~The Mermaid Left Behind~"
    },
    "contentRating": "safe",
-   "score": 0.39483577,
+   "score": 0.39493486,
    "languages": [
     "en",
     "es-la",
@@ -87,7 +87,7 @@
     "en": "Uma Musume: Cinderella Gray"
    },
    "contentRating": "safe",
-   "score": 0.39362,
+   "score": 0.39372304,
    "languages": [
     "es-la",
     "pt-br",
@@ -106,9 +106,23 @@
     "en": "e×COM Haruoka Gakuen Game Joshi-bu"
    },
    "contentRating": "safe",
-   "score": 0.2810422,
+   "score": 0.28103653,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "67047cf9-9624-4b9d-903e-c82f4f58f973",
+   "title": {
+    "en": "Haikyuu-bu!!"
+   },
+   "contentRating": "safe",
+   "score": 0.25485677,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -117,30 +131,7 @@
     "en": "Retro Game"
    },
    "contentRating": "safe",
-   "score": 0.24480858,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5f552411-902a-4978-ae68-cbea8a6554c0",
-   "title": {
-    "en": "Saki: Achiga-hen - episode of side-A"
-   },
-   "contentRating": "safe",
-   "score": 0.23982058,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "7bb85929-8554-4fc9-a7f5-57bcc0084865",
-   "title": {
-    "en": "Double Bull"
-   },
-   "contentRating": "safe",
-   "score": 0.23982058,
+   "score": 0.24480094,
    "languages": [
     "en"
    ]
@@ -162,17 +153,6 @@
    ]
   },
   {
-   "id": "965ee142-a6fd-4d61-a0ce-9b6e7ca882ba",
-   "title": {
-    "en": "Saki: Achiga-hen - episode of side-A - new series"
-   },
-   "contentRating": "safe",
-   "score": 0.23982058,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "29bf265f-cf22-4be8-8bad-28b36f191d50",
    "title": {
     "en": "Dansui!"
@@ -184,29 +164,50 @@
    ]
   },
   {
-   "id": "1f339529-5319-422e-b4b5-27782fa794a6",
+   "id": "7bb85929-8554-4fc9-a7f5-57bcc0084865",
    "title": {
-    "en": "Tokuni Aru Hibi"
+    "en": "Double Bull"
    },
    "contentRating": "safe",
-   "score": 0.23269056,
+   "score": 0.23982058,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "67047cf9-9624-4b9d-903e-c82f4f58f973",
+   "id": "965ee142-a6fd-4d61-a0ce-9b6e7ca882ba",
    "title": {
-    "en": "Haikyuu-bu!!"
+    "en": "Saki: Achiga-hen - episode of side-A - new series"
    },
    "contentRating": "safe",
-   "score": 0.22955336,
+   "score": 0.23982058,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5f552411-902a-4978-ae68-cbea8a6554c0",
+   "title": {
+    "en": "Saki: Achiga-hen - episode of side-A"
+   },
+   "contentRating": "safe",
+   "score": 0.23982058,
    "languages": [
     "en",
-    "pt-br",
-    "es-la"
+    "pt-br"
+   ]
+  },
+  {
+   "id": "1f339529-5319-422e-b4b5-27782fa794a6",
+   "title": {
+    "en": "Tokuni Aru Hibi"
+   },
+   "contentRating": "safe",
+   "score": 0.23269805,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2024-11-03T20:20:57+00:00"
+ "updatedAt": "2024-11-05T21:06:28+00:00"
 }

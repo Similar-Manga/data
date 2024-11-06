@@ -1,0 +1,113 @@
+{
+ "id": "0aa96072-9ff6-431c-b96d-4be5765fc682",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Little Secret of the Big White Goose"
+  },
+  "altTitles": [
+   {
+    "zh": "大白鹅的小秘密"
+   }
+  ],
+  "description": {
+   "en": "Qin Shinan reunites with her high school crush, Chikawa. She’s still the wealthy young lady she once was, while he has become an underground boxer. As they meet again, what sparks will fly between them? At the same time, hidden secrets from the past gradually come to light…"
+  },
+  "links": {
+   "mu": "sqqu3cy",
+   "raw": "https://ac.qq.com/Comic/ComicInfo/id/655956"
+  },
+  "originalLanguage": "zh",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-04T10:43:41+00:00",
+  "updatedAt": "2024-11-04T16:01:44+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1cceef0d-deb8-4eb9-9f43-825dc9307789",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-01-08T16:29:52+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "星际数科",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-01-08T16:29:52+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1cceef0d-deb8-4eb9-9f43-825dc9307789",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-01-08T16:29:52+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "星际数科",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-01-08T16:29:52+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e1e50e9f-c1d5-478f-b6a5-a1a96714cb96",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-04T10:43:54+00:00",
+    "description": "",
+    "fileName": "362a9944-ffef-4b14-a4b9-575993c2a70b.jpg",
+    "locale": "zh",
+    "updatedAt": "2024-11-04T10:43:54+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "05902be2-a47f-4b73-bef8-d481a7fe005b",
+   "type": "creator"
+  }
+ ]
+}

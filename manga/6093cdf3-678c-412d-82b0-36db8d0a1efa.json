@@ -8,13 +8,18 @@
   "altTitles": [
    {
     "ja": "ういちの島"
+   },
+   {
+    "en": "Uichi Island"
    }
   ],
   "description": {
-   "en": "I just wanted to spend the holiday season alone. \n\nI had planned to spend Christmas Eve night alone on the island. Yet, when the college girl found out, she found a dead body lying in front of her. From that moment on, a terrifying ordeal awaited her."
+   "en": "On Christmas Eve night, Meiko, a female college student, planned to spend a peaceful evening alone on the island. However, when she woke up, a corpse was lying in front of her. From that moment, she was faced with a series of grueling trials unlike anything she had ever experienced before. To reunite with her parents, whom she parted with in an unfortunate way, she must survive—even in this twisted world."
   },
   "links": {
+   "amz": "https://www.amazon.co.jp/gp/product/B0CW17TLSG/ref=ppx_yo_dt_b_d_asin_title_351_o02?ie=UTF8\u0026psc=1",
    "bw": "series/461833/list",
+   "mal": "175927",
    "mu": "v8dm649"
   },
   "originalLanguage": "ja",
@@ -22,6 +27,10 @@
   "status": "ongoing",
   "year": 2023,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "f8264ca5-231a-4a80-88a1-0841624d5ee3",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -32,6 +41,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -60,18 +81,6 @@
     }
    },
    {
-    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "School Life"
-     },
-     "description": {},
-     "group": "theme",
-     "version": 1
-    }
-   },
-   {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
     "attributes": {
@@ -80,6 +89,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -97,9 +118,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 12,
   "createdAt": "2023-10-28T21:48:39+00:00",
-  "updatedAt": "2024-10-26T17:00:11+00:00"
+  "updatedAt": "2024-11-04T14:25:53+00:00"
  },
  "relationships": [
   {

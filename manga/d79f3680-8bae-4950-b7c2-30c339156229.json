@@ -11,6 +11,9 @@
    },
    {
     "ja": "セッちゃん"
+   },
+   {
+    "fr": "Le Monde selon Setchan (Le Lézard Noir)"
    }
   ],
   "description": {
@@ -31,6 +34,7 @@
   "lastChapter": "11",
   "publicationDemographic": "josei",
   "status": "completed",
+  "year": 2018,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -43,6 +47,18 @@
     "attributes": {
      "name": {
       "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Philosophical"
      },
      "description": {},
      "group": "genre",
@@ -87,9 +103,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2019-09-05T00:09:11+00:00",
-  "updatedAt": "2024-01-22T17:56:59+00:00"
+  "updatedAt": "2024-11-04T21:18:51+00:00"
  },
  "relationships": [
   {
@@ -152,9 +168,9 @@
     "description": "",
     "fileName": "9e7f621a-17f4-4027-9ec9-10964478f47a.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:25:21+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-04T21:18:50+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

@@ -3,8 +3,16 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Ten no Seihai (Doujinshi)"
+   "en": "Xenoblade Chronicles 2 - Ten no Seihai (Doujinshi)"
   },
+  "altTitles": [
+   {
+    "ja-ro": "(COMIC1☆15) [Toratepotto (Tetora)] Ten no Seihai (Xenoblade Chronicles 2)"
+   },
+   {
+    "ja": "(COMIC1☆15) [とらてぽっと (てとら)] 天ノ性杯 (ゼノブレイド)"
+   }
+  ],
   "description": {},
   "originalLanguage": "ja",
   "status": "completed",
@@ -14,6 +22,18 @@
   ],
   "latestUploadedChapter": "3bd98799-fe84-4cf5-abea-43f84485b64e",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
     "type": "tag",
@@ -25,12 +45,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "ddefd648-5140-4e5f-ba18-4eca4071d19b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Shota"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2020-02-06T22:12:23+00:00",
-  "updatedAt": "2022-02-24T23:12:15+00:00"
+  "updatedAt": "2024-11-03T06:51:08+00:00"
  },
  "relationships": [
   {
@@ -44,7 +76,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Toratepotto",
+    "name": "Toratepotto (circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -52,7 +84,85 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "updatedAt": "2024-11-03T06:49:48+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f7718954-f1af-43af-ae3f-53b1dbb4211d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-03T06:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tetora",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-03T06:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ddac53a5-2fe2-4914-9113-6e4a0b778fed",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Toratepotto (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-03T06:49:48+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f7718954-f1af-43af-ae3f-53b1dbb4211d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-03T06:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tetora",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-03T06:48:41+00:00",
     "version": 1,
     "website": null,
     "weibo": null,

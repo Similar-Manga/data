@@ -26,6 +26,18 @@
   "latestUploadedChapter": "6cb29426-7e88-4120-bc9d-06ff97f8c103",
   "tags": [
    {
+    "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
     "attributes": {
@@ -46,6 +58,18 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -75,9 +99,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-10-29T23:24:52+00:00",
-  "updatedAt": "2024-10-31T22:25:34+00:00"
+  "updatedAt": "2024-11-04T23:07:59+00:00"
  },
  "relationships": [
   {
