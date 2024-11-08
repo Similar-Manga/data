@@ -32,6 +32,18 @@
   "latestUploadedChapter": "5c5d9c90-e8da-4f6e-8df7-ada012e3806a",
   "tags": [
    {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
     "type": "tag",
     "attributes": {
@@ -141,9 +153,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-11-05T13:16:26+00:00",
-  "updatedAt": "2024-11-05T13:34:37+00:00"
+  "updatedAt": "2024-11-05T18:03:05+00:00"
  },
  "relationships": [
   {
@@ -176,7 +188,9 @@
    "id": "297f76e3-9166-4b19-a1cc-4412bb0a7ae4",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Associated names: 七竹"
+    },
     "booth": null,
     "createdAt": "2024-11-05T13:07:29+00:00",
     "fanBox": null,
@@ -191,8 +205,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-05T13:07:29+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-05T18:04:52+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

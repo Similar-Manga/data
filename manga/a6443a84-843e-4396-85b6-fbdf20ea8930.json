@@ -3,22 +3,27 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Pokémon (2023)"
+   "en": "Anime Pocket Monsters: Liko to Roy no Bouken"
   },
   "altTitles": [
    {
-    "en": "Pocket Monster"
+    "ja": "Pocket Monsters"
    },
    {
     "ja": "ポケットモンスター"
+   },
+   {
+    "ja": "アニメポケットモンスター リコとロイの冒険"
    }
   ],
   "description": {
    "en": "New manga based on the new pokemon anime reboot of 2023"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "4",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2023,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -169,24 +174,12 @@
      "group": "format",
      "version": 1
     }
-   },
-   {
-    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Full Color"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2023-04-14T17:50:44+00:00",
-  "updatedAt": "2024-01-05T16:38:00+00:00"
+  "updatedAt": "2024-11-05T20:35:56+00:00"
  },
  "relationships": [
   {
@@ -242,16 +235,16 @@
    }
   },
   {
-   "id": "e63cda7f-c852-4a83-a4a8-8fbd829bcedd",
+   "id": "d676b467-7e63-4c36-acad-a2741c8f2942",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-04-14T17:50:47+00:00",
+    "createdAt": "2024-11-05T20:35:55+00:00",
     "description": "",
-    "fileName": "631f2614-10a8-4c4d-8a63-c6ecfa0592d3.jpg",
+    "fileName": "f17fb79e-93f9-4bb8-8b5f-5359fde53c4c.jpg",
     "locale": "ja",
-    "updatedAt": "2024-01-05T16:38:00+00:00",
-    "version": 3,
-    "volume": "1.1"
+    "updatedAt": "2024-11-05T20:35:55+00:00",
+    "version": 1,
+    "volume": "1"
    }
   },
   {

@@ -6,20 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "39a92825-1e91-40f1-9716-82fab8b888e1",
-   "title": {
-    "en": "Aono-kun ni Sawaritai kara Shinitai"
-   },
-   "contentRating": "safe",
-   "score": 0.31234583,
-   "languages": [
-    "zh",
-    "vi",
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "e1b197b0-c8c3-4844-a07b-72d479b2d7c0",
    "title": {
     "en": "Mukashi no Hanashi"
@@ -31,30 +17,38 @@
    ]
   },
   {
-   "id": "4ecd5276-fa48-46a2-98aa-07ee00a0d927",
+   "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
    "title": {
-    "en": "A Train at the End of Summer"
+    "en": "Owatte miru no mo Warukunai"
    },
    "contentRating": "safe",
-   "score": 0.23259263,
+   "score": 0.22245824,
    "languages": [
-    "pl",
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "25881324-1e0b-4d99-805a-9bb4a6361bd4",
+   "id": "82f531a2-489b-4b9e-a5a3-f782e90c8a3e",
    "title": {
-    "en": "White Lover"
+    "en": "Aru Asa"
    },
    "contentRating": "safe",
-   "score": 0.21487992,
+   "score": 0.21502708,
    "languages": [
-    "pl",
     "en",
-    "ru",
-    "pt-br"
+    "id"
+   ]
+  },
+  {
+   "id": "301c828c-9756-4354-b16e-d50e0d06e627",
+   "title": {
+    "en": "Kirihara-san wa Kyorikan ga Bagutteru"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -70,29 +64,6 @@
    ]
   },
   {
-   "id": "301c828c-9756-4354-b16e-d50e0d06e627",
-   "title": {
-    "en": "Kirihara-san wa Kyorikan ga Bagutteru"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eb35cba4-f0a6-442d-8326-80c2b8e391a3",
-   "title": {
-    "en": "Owatte miru no mo Warukunai"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "94a0a8c9-75e5-4a69-b8aa-ebac7a0a4578",
    "title": {
     "en": "Kiyomizu Iroha Doesn't Know Love"
@@ -104,61 +75,13 @@
    ]
   },
   {
-   "id": "82f531a2-489b-4b9e-a5a3-f782e90c8a3e",
-   "title": {
-    "en": "Aru Asa"
-   },
-   "contentRating": "safe",
-   "score": 0.21194734,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "6f16cf7e-0865-4c98-8709-1fbcdb74591e",
    "title": {
     "en": "Kingdom of Stars"
    },
    "contentRating": "safe",
-   "score": 0.203663,
+   "score": 0.21256213,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a215e6c7-6d44-40a5-98b4-a78f606c3d07",
-   "title": {
-    "en": "Obaa-chan no Poi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bb3f0691-6bd8-4f8d-a3c8-fc27d32a794a",
-   "title": {
-    "en": "Love is Sky Blue"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eda814c4-e6f5-4d38-a64a-7929251a7303",
-   "title": {
-    "en": "The Goldfish Osushi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "ru",
-    "pt-br",
-    "tr",
     "en"
    ]
   },
@@ -178,6 +101,17 @@
    ]
   },
   {
+   "id": "a215e6c7-6d44-40a5-98b4-a78f606c3d07",
+   "title": {
+    "en": "Obaa-chan no Poi"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "32f48067-68bf-451a-99aa-0acc3c73fa1b",
    "title": {
     "en": "Mikami-san wo Furimukasetai"
@@ -190,12 +124,26 @@
    ]
   },
   {
+   "id": "eda814c4-e6f5-4d38-a64a-7929251a7303",
+   "title": {
+    "en": "The Goldfish Osushi"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "ru",
+    "pt-br",
+    "tr",
+    "en"
+   ]
+  },
+  {
    "id": "511d3218-df57-4cab-8510-d88a5a96a951",
    "title": {
     "en": "49th Confession"
    },
    "contentRating": "safe",
-   "score": 0.19271716,
+   "score": 0.19822784,
    "languages": [
     "th",
     "pt-br",
@@ -203,7 +151,59 @@
     "vi",
     "en"
    ]
+  },
+  {
+   "id": "39a92825-1e91-40f1-9716-82fab8b888e1",
+   "title": {
+    "en": "Aono-kun ni Sawaritai kara Shinitai"
+   },
+   "contentRating": "safe",
+   "score": 0.19270949,
+   "languages": [
+    "zh",
+    "vi",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "0f0e17dc-8818-46df-97f2-4f68a84100b0",
+   "title": {
+    "en": "Tonari no Gyaru ga Miyabi Sugiru!?"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "en",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "1fd49c59-d39d-47f9-8bd3-022a0c44810f",
+   "title": {
+    "en": "Chissai Shitsuren"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "fec00b5e-b479-4dd4-becf-4532b4d727a8",
+   "title": {
+    "en": "Zoo to Issho"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "en",
+    "it"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T21:11:46+00:00"
+ "updatedAt": "2024-11-07T20:30:58+00:00"
 }

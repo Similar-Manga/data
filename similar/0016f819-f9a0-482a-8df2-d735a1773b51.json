@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "fdd2beba-4d2c-49fb-bcaa-f6cf68a36eb2",
-   "title": {
-    "en": "Breath of Fire Part 2 - Little Adventurer"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "fee55571-fe89-4a0b-acf1-e913c393b18e",
    "title": {
     "en": "Sword Art Online - Material Edition: Remix"
@@ -25,12 +17,20 @@
    ]
   },
   {
+   "id": "fdd2beba-4d2c-49fb-bcaa-f6cf68a36eb2",
+   "title": {
+    "en": "Breath of Fire Part 2 - Little Adventurer"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "56ca0b1b-fcb9-4a30-b91d-fe1af4476a07",
    "title": {
     "en": "Dragalia Lost"
    },
    "contentRating": "safe",
-   "score": 0.2798353,
+   "score": 0.27983722,
    "languages": [
     "en"
    ]
@@ -41,7 +41,7 @@
     "en": "Moto SSS Rank no Saikyou Ansatsusha wa Futatabi Musou suru"
    },
    "contentRating": "safe",
-   "score": 0.2773859
+   "score": 0.27738896
   },
   {
    "id": "8ec6a40f-5b98-4fa5-a379-bb6578e7b1fa",
@@ -49,7 +49,7 @@
     "en": "When I Tried Strengthening a Rusty Sword, It Turned into an OP Magic Sword"
    },
    "contentRating": "safe",
-   "score": 0.27084133,
+   "score": 0.27084258,
    "languages": [
     "es-la",
     "en"
@@ -61,20 +61,26 @@
     "en": "Moto Saikyou Kouryakusha, Nozomanu Dungeon Haishin de Musou shite Shimasu"
    },
    "contentRating": "safe",
-   "score": 0.26347733,
+   "score": 0.26347896,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4cb3d22f-83f8-410b-b567-6eea77f20bfc",
+   "id": "512cd78f-cbb8-460a-bafd-e8840c0f7c31",
    "title": {
-    "en": "World's Strongest Invalid Swordsman"
+    "en": "Sword Art Online Unital Ring"
    },
    "contentRating": "safe",
    "score": 0.26082027,
    "languages": [
-    "en"
+    "id",
+    "pt-br",
+    "en",
+    "es-la",
+    "vi",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -93,20 +99,14 @@
    ]
   },
   {
-   "id": "512cd78f-cbb8-460a-bafd-e8840c0f7c31",
+   "id": "4cb3d22f-83f8-410b-b567-6eea77f20bfc",
    "title": {
-    "en": "Sword Art Online Unital Ring"
+    "en": "World's Strongest Invalid Swordsman"
    },
    "contentRating": "safe",
    "score": 0.26082027,
    "languages": [
-    "id",
-    "pt-br",
-    "es-la",
-    "vi",
-    "en",
-    "fr",
-    "ru"
+    "en"
    ]
   },
   {
@@ -129,26 +129,21 @@
     "en": "Joou Kishi Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.26055828,
+   "score": 0.26054147,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1a2fb0a4-ea85-43ad-95ce-90dca502a556",
+   "id": "406d9733-804c-4c1a-8489-3bb7e04db516",
    "title": {
-    "en": "Hitodasuke wo Shitara Party wo Tsuihousareta Otoko wa, Unique Skill \"Otasuke Man\" de Nariagaru."
+    "en": "Zelda II: The Adventure of Link (Ran Maru)"
    },
    "contentRating": "safe",
-   "score": 0.25555065
-  },
-  {
-   "id": "4cb14c1b-2d60-4161-85a9-876b39c9e214",
-   "title": {
-    "en": "Legend of Heavenly Sphere Shurato"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065
+   "score": 0.25555065,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "542b65ee-689a-43fb-aedb-5bcaedd1d8c0",
@@ -159,25 +154,34 @@
    "score": 0.25555065
   },
   {
-   "id": "f0fd2156-8ad6-4ba5-9ded-de62f93b2712",
+   "id": "7e6782d0-d693-4af1-b3f6-7550ddb5b5a1",
    "title": {
-    "en": "The Servant of the Ultimate Party"
+    "en": "Tensai Saijaku Mamonotsukai ha Kikan Shitai ~Saikyou no Juusha to Hikihanasarete Mishiranu Chi ni Tobasaremashita.~"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
+    "id",
     "en",
-    "ru"
+    "pt-br"
    ]
   },
   {
-   "id": "023b047f-29aa-4d75-8e3a-8627bfc92f9c",
+   "id": "4cb14c1b-2d60-4161-85a9-876b39c9e214",
    "title": {
-    "en": "Albert Odyssey: Lion of Light, Lord of Darkness"
+    "en": "Legend of Heavenly Sphere Shurato"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
+  },
+  {
+   "id": "1a2fb0a4-ea85-43ad-95ce-90dca502a556",
+   "title": {
+    "en": "Hitodasuke wo Shitara Party wo Tsuihousareta Otoko wa, Unique Skill \"Otasuke Man\" de Nariagaru."
    },
    "contentRating": "safe",
    "score": 0.25555065
   }
  ],
- "updatedAt": "2024-11-05T20:52:42+00:00"
+ "updatedAt": "2024-11-07T20:15:59+00:00"
 }

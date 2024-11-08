@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "10bf25d0-9cbb-45c1-afe8-006e8863715d",
+   "title": {
+    "en": "Golden Raspberry"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
    "id": "78a664a7-2f4e-464b-b925-92984012f00c",
    "title": {
     "en": "Anata ga Shite Kurenakute mo"
@@ -19,17 +30,6 @@
    ]
   },
   {
-   "id": "10bf25d0-9cbb-45c1-afe8-006e8863715d",
-   "title": {
-    "en": "Golden Raspberry"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "vi"
-   ]
-  },
-  {
    "id": "a3bc925d-d02a-498c-b3b6-fa588568410b",
    "title": {
     "en": "Kono Setsugen de Kimi ga Zutto Waratte Irareru you ni"
@@ -39,19 +39,6 @@
    "languages": [
     "en",
     "vi"
-   ]
-  },
-  {
-   "id": "9bc6fa80-f2d5-4cc1-87d9-d9d98f1a70a0",
-   "title": {
-    "en": "Frankenstein Sore Kara"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "id",
-    "vi",
-    "en"
    ]
   },
   {
@@ -71,6 +58,19 @@
    ]
   },
   {
+   "id": "9bc6fa80-f2d5-4cc1-87d9-d9d98f1a70a0",
+   "title": {
+    "en": "Frankenstein Sore Kara"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "id",
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
    "title": {
     "en": "Arte"
@@ -85,6 +85,18 @@
    ]
   },
   {
+   "id": "aa4e3448-ce7d-4c6b-9fa4-54904890c6b3",
+   "title": {
+    "en": "Bakajo 26-ji"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "b788a5ca-21ae-4043-b66e-0d1c92ade234",
    "title": {
     "en": "Teihen na Bokura no Jijou"
@@ -95,18 +107,6 @@
     "en",
     "ru",
     "vi"
-   ]
-  },
-  {
-   "id": "aa4e3448-ce7d-4c6b-9fa4-54904890c6b3",
-   "title": {
-    "en": "Bakajo 26-ji"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "vi",
-    "en"
    ]
   },
   {
@@ -128,9 +128,39 @@
     "en": "Crimson Priestess"
    },
    "contentRating": "safe",
-   "score": 0.23542587,
+   "score": 0.23541279,
    "languages": [
     "vi"
+   ]
+  },
+  {
+   "id": "2f467a6a-7140-4dce-a688-4f35be44f39c",
+   "title": {
+    "en": "Watashitachi, Rikon Shimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr",
+    "uk",
+    "es-la",
+    "ca",
+    "vi",
+    "id"
+   ]
+  },
+  {
+   "id": "3984528a-34a6-4902-bcce-b86c2ab262c5",
+   "title": {
+    "en": "Black Coffee"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "vi",
+    "en"
    ]
   },
   {
@@ -165,55 +195,6 @@
    ]
   },
   {
-   "id": "0854fa2a-aa41-4ba7-9946-23562f747718",
-   "title": {
-    "en": "Listen to My Voice!!"
-   },
-   "contentRating": "safe",
-   "score": 0.2208575,
-   "languages": [
-    "en",
-    "vi",
-    "id",
-    "pt-br",
-    "ru"
-   ]
-  },
-  {
-   "id": "96338481-0531-4a25-b209-152e4178684b",
-   "title": {
-    "en": "Radiation House"
-   },
-   "contentRating": "safe",
-   "score": 0.2208575,
-   "languages": [
-    "es-la",
-    "vi",
-    "fr",
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2f467a6a-7140-4dce-a688-4f35be44f39c",
-   "title": {
-    "en": "Watashitachi, Rikon Shimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.2208575,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "uk",
-    "es-la",
-    "ca",
-    "vi",
-    "id"
-   ]
-  },
-  {
    "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
    "title": {
     "en": "Kaoru Hana wa Rin to Saku"
@@ -232,7 +213,22 @@
     "ar",
     "tr"
    ]
+  },
+  {
+   "id": "0854fa2a-aa41-4ba7-9946-23562f747718",
+   "title": {
+    "en": "Listen to My Voice!!"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "en",
+    "vi",
+    "id",
+    "pt-br",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T21:16:51+00:00"
+ "updatedAt": "2024-11-07T20:34:56+00:00"
 }

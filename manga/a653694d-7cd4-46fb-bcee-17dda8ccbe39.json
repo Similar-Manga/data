@@ -1,0 +1,185 @@
+{
+ "id": "a653694d-7cd4-46fb-bcee-17dda8ccbe39",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Valhalla Saga"
+  },
+  "altTitles": [
+   {
+    "ko": "발할라 사가"
+   }
+  ],
+  "description": {
+   "en": "A professional gamer dies unexpectedly during an E-Sports tournament and is sent to Valhalla, a heaven reserved for only the greatest of warriors.\n\nThe warriors of Valhalla are pitted against a struggle for survival in the face of a common enemy. Fortunately, within each warrior lies the roots to their own saga, a legendary tale of their ascendence to fame and feats of great achievement alike.\n\nWitness the birth of an epic saga as this gamer challenges legends and carves a path toward the ultimate glory.\n\nThe story itself revolves around Nordic mythology and incorporates a gaming system alongside magical wizards and mighty warriors."
+  },
+  "links": {
+   "mu": "f7b93tx"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-07T02:21:46+00:00",
+  "updatedAt": "2024-11-07T17:04:03+00:00"
+ },
+ "relationships": [
+  {
+   "id": "14f9d981-27e2-476c-a4ab-3647dccdf6a0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Chwiryong (취룡)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-05-29T23:07:36+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "14f9d981-27e2-476c-a4ab-3647dccdf6a0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Chwiryong (취룡)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-05-29T23:07:36+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c7739a6a-5332-4ca2-97a3-79c223ecd0f7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-07T02:21:55+00:00",
+    "description": "",
+    "fileName": "02565006-fc6e-45e7-ae9d-16c36bb4ac65.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-07T02:21:55+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9cdba5af-b71d-49b6-b627-0faa5aeb84cf",
+   "type": "creator"
+  }
+ ]
+}

@@ -10,7 +10,7 @@
     "en": "As Though the Moon Is Hidden By The Dark Night"
    },
    {
-    "en": "月は闇夜に隠るが如く"
+    "ja": "月は闇夜に隠るが如く"
    }
   ],
   "description": {
@@ -20,6 +20,7 @@
    "al": "33738",
    "amz": "https://www.amazon.co.jp/dp/4048538756",
    "ap": "tsuki-wa-yamiyo-ni-kakuru-ga-gotoku",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?term.media_format=\u0026q=%E6%9C%88%E3%81%AF%E9%97%87%E5%A4%9C%E3%81%AB%E9%9A%A0%E3%82%8B%E3%81%8C%E5%A6%82%E3%81%8F",
    "kt": "8304",
    "mal": "3738",
    "mu": "3134"
@@ -28,12 +29,14 @@
   "lastVolume": "1",
   "lastChapter": "4",
   "status": "completed",
+  "year": 1999,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "it",
+   "pt-br",
    "en"
   ],
-  "latestUploadedChapter": "2e9b29aa-4eac-4fd8-b110-bcad91ecf304",
+  "latestUploadedChapter": "39cceed0-35c8-4b9f-b471-3e8eb9805b31",
   "tags": [
    {
     "id": "33771934-028e-4cb3-8744-691e866a923e",
@@ -109,16 +112,18 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2018-06-17T06:42:44+00:00",
-  "updatedAt": "2021-05-25T15:49:07+00:00"
+  "updatedAt": "2024-11-07T02:52:22+00:00"
  },
  "relationships": [
   {
    "id": "a1afcb8e-d059-4c49-b274-eaf42ea86f97",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n中村春菊"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -132,9 +137,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/marukawashoten",
+    "updatedAt": "2024-11-07T02:29:07+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -144,7 +149,9 @@
    "id": "a1afcb8e-d059-4c49-b274-eaf42ea86f97",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n中村春菊"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -158,25 +165,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/marukawashoten",
+    "updatedAt": "2024-11-07T02:29:07+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "7843aa9d-0403-4fe6-941f-a6413be02e87",
+   "id": "1fe6816c-af5c-4f99-88d9-193aff41b51f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:37:47+00:00",
+    "createdAt": "2021-05-23T08:04:14+00:00",
     "description": "",
-    "fileName": "66fbb2cc-d387-4934-ab80-ceb8b360a1e0.jpg",
+    "fileName": "52ba0524-0be2-4229-b384-a3a45279cc93.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:37:47+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T08:04:14+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

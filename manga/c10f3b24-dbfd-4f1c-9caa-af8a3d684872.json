@@ -7,16 +7,16 @@
   },
   "altTitles": [
    {
-    "es": "Accidente en el lejano oriente"
-   },
-   {
-    "en": "Far Eastern Incident"
+    "ja": "極東事変"
    },
    {
     "ja-ro": "Kyokutou Jihen"
    },
    {
-    "ja": "極東事変"
+    "en": "Far Eastern Incident"
+   },
+   {
+    "es": "Accidente en el lejano oriente"
    }
   ],
   "description": {
@@ -25,15 +25,17 @@
   },
   "links": {
    "al": "113020",
-   "amz": "https://www.amazon.co.jp/gp/product/B08CV3TTM9",
+   "amz": "https://www.amazon.co.jp/dp/B08CV3TTM9",
    "ap": "kyokutou-jihen",
-   "bw": "series/222176/list",
+   "bw": "series/222176",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/562271/",
    "mal": "157889",
-   "mu": "157447"
+   "mu": "157447",
+   "raw": "https://comic-walker.com/detail/KC_001986_S?episodeType=comics"
   },
   "originalLanguage": "ja",
   "lastVolume": "6",
+  "lastChapter": "30",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2018,
@@ -129,9 +131,9 @@
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 16,
   "createdAt": "2020-06-14T04:42:29+00:00",
-  "updatedAt": "2024-01-17T08:35:42+00:00"
+  "updatedAt": "2024-11-05T21:58:08+00:00"
  },
  "relationships": [
   {
@@ -187,14 +189,14 @@
    }
   },
   {
-   "id": "bd7c6ac2-8430-443c-b188-fda4b388ce35",
+   "id": "ed2d32fa-c1bf-4604-90db-051370d4c6da",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-01-30T15:06:59+00:00",
+    "createdAt": "2024-11-05T21:58:07+00:00",
     "description": "",
-    "fileName": "58ff92e8-6971-4963-ab70-4a9dcd081088.jpg",
+    "fileName": "e187fbb4-677c-466f-b39b-45c5e6436bbe.jpg",
     "locale": "ja",
-    "updatedAt": "2024-01-30T15:06:59+00:00",
+    "updatedAt": "2024-11-05T21:58:07+00:00",
     "version": 1,
     "volume": "6"
    }

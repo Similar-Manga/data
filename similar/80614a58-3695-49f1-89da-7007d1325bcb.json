@@ -6,32 +6,56 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "de52c8c4-d08a-4d2e-88f6-cf846112de41",
+   "title": {
+    "en": "Neko Hiroimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.36938664,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "2b604612-37be-4193-a36a-05583ecd3db5",
    "title": {
     "en": "Neko no Mail - Igai na Kareshi"
    },
    "contentRating": "safe",
-   "score": 0.3616107,
+   "score": 0.36898544,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "de52c8c4-d08a-4d2e-88f6-cf846112de41",
+   "id": "a9fb2555-fcec-40f5-b31d-ec620d9ba6af",
    "title": {
-    "en": "Neko Hiroimashita"
+    "en": "Travel To The Cats' Territory"
    },
    "contentRating": "safe",
-   "score": 0.3573373,
+   "score": 0.30872053,
    "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
-   "id": "26887056-fef7-49cf-9e43-215435634731",
+   "id": "50d6f11a-967c-4aa1-8988-aa804213e5d5",
    "title": {
-    "en": "Gakuen Rule Kaikaku"
+    "en": "Koi Wakaba"
+   },
+   "contentRating": "safe",
+   "score": 0.28792632,
+   "languages": [
+    "en",
+    "pt"
+   ]
+  },
+  {
+   "id": "3fe17f9f-cd2f-41b0-85f1-bee272bb0d51",
+   "title": {
+    "en": "Aitsu o Koroshite Uchi mo Shinu"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -51,28 +75,6 @@
    ]
   },
   {
-   "id": "c168b9a3-9656-42c1-b4fb-178788306cd2",
-   "title": {
-    "en": "Fukuda Ayano Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3fe17f9f-cd2f-41b0-85f1-bee272bb0d51",
-   "title": {
-    "en": "Aitsu o Koroshite Uchi mo Shinu"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "fa5a3c8e-abab-47ab-8945-74e73eddcfe5",
    "title": {
     "en": "Tokusou Pudding Club"
@@ -84,48 +86,23 @@
    ]
   },
   {
-   "id": "a9fb2555-fcec-40f5-b31d-ec620d9ba6af",
+   "id": "c168b9a3-9656-42c1-b4fb-178788306cd2",
    "title": {
-    "en": "Travel To The Cats' Territory"
+    "en": "Fukuda Ayano Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.28562707,
+   "score": 0.2857143,
    "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "b4abf7d1-e887-4569-a5db-0bb983d3cdef",
-   "title": {
-    "en": "Junketsu Diablos"
-   },
-   "contentRating": "safe",
-   "score": 0.27710116,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
   {
-   "id": "50d6f11a-967c-4aa1-8988-aa804213e5d5",
+   "id": "26887056-fef7-49cf-9e43-215435634731",
    "title": {
-    "en": "Koi Wakaba"
+    "en": "Gakuen Rule Kaikaku"
    },
    "contentRating": "safe",
-   "score": 0.27643758,
-   "languages": [
-    "en",
-    "pt"
-   ]
-  },
-  {
-   "id": "948d4500-2069-44d8-8221-ec28f7c3c1e0",
-   "title": {
-    "en": "Yuan Wei Cu Ji"
-   },
-   "contentRating": "safe",
-   "score": 0.27345428,
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
@@ -136,7 +113,7 @@
     "en": "Haru no Ongaeshi"
    },
    "contentRating": "safe",
-   "score": 0.27314848,
+   "score": 0.2836602,
    "languages": [
     "en",
     "id",
@@ -147,12 +124,35 @@
    ]
   },
   {
+   "id": "b4abf7d1-e887-4569-a5db-0bb983d3cdef",
+   "title": {
+    "en": "Junketsu Diablos"
+   },
+   "contentRating": "safe",
+   "score": 0.27998397,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "948d4500-2069-44d8-8221-ec28f7c3c1e0",
+   "title": {
+    "en": "Yuan Wei Cu Ji"
+   },
+   "contentRating": "safe",
+   "score": 0.27597627,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0c19c3fa-53cb-46d6-bf80-7faecf170e6f",
    "title": {
     "en": "Senpai no Pocket"
    },
    "contentRating": "safe",
-   "score": 0.26248944,
+   "score": 0.26797754,
    "languages": [
     "en"
    ]
@@ -163,8 +163,20 @@
     "en": "Muyu He Benxiaozhu"
    },
    "contentRating": "safe",
-   "score": 0.2609009,
+   "score": 0.2622059,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "da234104-ccfc-4a4d-a8ef-bb7c44b3f853",
+   "title": {
+    "en": "First Love"
+   },
+   "contentRating": "safe",
+   "score": 0.26119223,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -174,22 +186,11 @@
     "en": "Romanticist Egoist"
    },
    "contentRating": "safe",
-   "score": 0.25923774,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d98ad77e-88ed-46af-a7d3-e89e489c532a",
-   "title": {
-    "en": "Futaribocchi no Yoru"
-   },
-   "contentRating": "safe",
-   "score": 0.25877568,
+   "score": 0.26039308,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-05T21:49:24+00:00"
+ "updatedAt": "2024-11-07T21:00:05+00:00"
 }

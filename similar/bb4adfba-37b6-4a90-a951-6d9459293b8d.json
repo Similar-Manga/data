@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c10f3b24-dbfd-4f1c-9caa-af8a3d684872",
-   "title": {
-    "en": "The Far East Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.26621413,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7ee73e91-8067-43c8-bf95-a404bbfa401c",
    "title": {
     "en": "Chaos Rings"
    },
    "contentRating": "safe",
-   "score": 0.25858814,
+   "score": 0.2585834,
    "languages": [
     "en"
    ]
@@ -33,7 +22,7 @@
     "en": "Godspeed 0.1"
    },
    "contentRating": "safe",
-   "score": 0.25843757,
+   "score": 0.2584446,
    "languages": [
     "en"
    ]
@@ -44,7 +33,7 @@
     "en": "Kyoshinki Senki"
    },
    "contentRating": "safe",
-   "score": 0.22776608,
+   "score": 0.22777581,
    "languages": [
     "en"
    ]
@@ -55,23 +44,12 @@
     "en": "A-DO"
    },
    "contentRating": "safe",
-   "score": 0.21443787,
+   "score": 0.21444106,
    "languages": [
     "ru",
     "en",
     "zh-hk",
     "pt-br"
-   ]
-  },
-  {
-   "id": "0ae385ee-4c26-488b-b17b-0f1791ec6293",
-   "title": {
-    "en": "Niki."
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -86,24 +64,20 @@
    ]
   },
   {
-   "id": "45b0ce64-680d-4754-a7a3-74a660e5c300",
+   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
    "title": {
-    "en": "Fushi no Sougishi"
+    "en": "Edison Fantasy Science"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "vi",
-    "en",
-    "id",
-    "es-la",
-    "pt-br"
+    "en"
    ]
   },
   {
-   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
+   "id": "0ae385ee-4c26-488b-b17b-0f1791ec6293",
    "title": {
-    "en": "Edison Fantasy Science"
+    "en": "Niki."
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -124,12 +98,27 @@
    ]
   },
   {
+   "id": "45b0ce64-680d-4754-a7a3-74a660e5c300",
+   "title": {
+    "en": "Fushi no Sougishi"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "vi",
+    "en",
+    "id",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
    "id": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
    "title": {
     "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.21132731,
+   "score": 0.2113238,
    "languages": [
     "en"
    ]
@@ -140,7 +129,7 @@
     "en": "RDB"
    },
    "contentRating": "safe",
-   "score": 0.20953292,
+   "score": 0.20952322,
    "languages": [
     "ru",
     "en"
@@ -152,7 +141,7 @@
     "en": "Grenimal no Shokeinin"
    },
    "contentRating": "safe",
-   "score": 0.20889133,
+   "score": 0.20888223,
    "languages": [
     "en"
    ]
@@ -163,18 +152,7 @@
     "en": "Beast of East"
    },
    "contentRating": "safe",
-   "score": 0.20714127,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
-   "title": {
-    "en": "Evil Eater"
-   },
-   "contentRating": "safe",
-   "score": 0.2057269,
+   "score": 0.20714833,
    "languages": [
     "en"
    ]
@@ -185,11 +163,35 @@
     "en": "Eiyuu Densetsu - Sora no Kiseki"
    },
    "contentRating": "safe",
-   "score": 0.20519082,
+   "score": 0.20611474,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
+   "title": {
+    "en": "Evil Eater"
+   },
+   "contentRating": "safe",
+   "score": 0.2057304,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0222fdd4-25f2-4f00-a78c-ae4705309921",
+   "title": {
+    "en": "Tsuki to Laika to Nosferatu"
+   },
+   "contentRating": "safe",
+   "score": 0.20539969,
+   "languages": [
+    "en",
+    "ru",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T22:16:15+00:00"
+ "updatedAt": "2024-11-07T21:20:27+00:00"
 }

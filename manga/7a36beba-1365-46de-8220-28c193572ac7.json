@@ -44,7 +44,7 @@
    "al": "123898",
    "amz": "https://www.amazon.co.jp/dp/B0952842Z7",
    "ap": "ushirou-no-shoumen-kamui-san",
-   "bw": "series/258686/list",
+   "bw": "series/258686",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2510656",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/600739/",
    "kt": "57365",
@@ -117,32 +117,34 @@
    }
   ],
   "state": "published",
-  "version": 29,
+  "version": 30,
   "createdAt": "2020-06-12T22:06:09+00:00",
-  "updatedAt": "2024-11-03T00:11:04+00:00"
+  "updatedAt": "2024-11-06T00:22:40+00:00"
  },
  "relationships": [
   {
    "id": "deda7ad7-04b7-4e7c-9da7-f81a03f285c1",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** えろき"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Eroki",
+    "name": "EROKI",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/2604746",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/eroki_trick",
+    "updatedAt": "2024-11-06T00:19:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -153,7 +155,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "Duo of authors.\n\n[Karasuma Yayoi](https://mangadex.org/author/737a7865-6c54-46ba-b848-17bc5eac74e6) is the main artist and [Yamagara Tasuku](https://mangadex.org/author/1c3a46d1-f6a2-4931-9679-afd1cc979c7a) is in charge of the stories."
+     "en": "**Name In Native Language:** コノシロしんこ\n\nArtist duo. [Karasuma Yayoi](https://mangadex.org/author/737a7865-6c54-46ba-b848-17bc5eac74e6) is the main artist and [Yamagara Tasuku](https://mangadex.org/author/1c3a46d1-f6a2-4931-9679-afd1cc979c7a) is in charge of the stories."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -169,11 +171,11 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2023-10-09T07:33:32+00:00",
-    "version": 4,
+    "updatedAt": "2024-11-06T00:34:10+00:00",
+    "version": 6,
     "website": "https://konoshiro-shinko.com/",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@%E3%82%B3%E3%83%8E%E3%82%B7%E3%83%AD%E3%81%97%E3%82%93%E3%81%93"
    }
   },
   {

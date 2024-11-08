@@ -11,7 +11,7 @@
     "en": "You Are My Catnip"
    },
    "contentRating": "safe",
-   "score": 0.30847707,
+   "score": 0.30844173,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Kesa Mo Yuraretemasu"
    },
    "contentRating": "safe",
-   "score": 0.30416006,
+   "score": 0.30416787,
    "languages": [
     "vi",
     "pt-br",
@@ -38,7 +38,7 @@
     "en": "Aisupe @"
    },
    "contentRating": "safe",
-   "score": 0.29914415,
+   "score": 0.29914826,
    "languages": [
     "en"
    ]
@@ -49,7 +49,7 @@
     "en": "Kusunoki's Flunking Her High School Glow-Up"
    },
    "contentRating": "safe",
-   "score": 0.29689193,
+   "score": 0.29689342,
    "languages": [
     "en",
     "vi",
@@ -64,13 +64,14 @@
     "en": "My Clueless First Friend"
    },
    "contentRating": "safe",
-   "score": 0.29563627,
+   "score": 0.29563433,
    "languages": [
     "en",
     "uk",
     "pt-br",
     "ru",
     "vi",
+    "it",
     "id",
     "es-la"
    ]
@@ -81,7 +82,7 @@
     "en": "Wakaba-sanchi no Aoi Koi"
    },
    "contentRating": "safe",
-   "score": 0.2935511,
+   "score": 0.293552,
    "languages": [
     "vi",
     "en"
@@ -93,25 +94,13 @@
     "en": "Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu"
    },
    "contentRating": "safe",
-   "score": 0.29351112,
+   "score": 0.29351327,
    "languages": [
     "es-la",
     "en",
     "id",
     "vi",
     "fr"
-   ]
-  },
-  {
-   "id": "57e0dd82-503b-4ba1-81a3-f3323f8f6456",
-   "title": {
-    "en": "Urasaki-san wants to tell Omoteno-kun."
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "vi",
-    "en"
    ]
   },
   {
@@ -129,48 +118,30 @@
    ]
   },
   {
-   "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
+   "id": "57e0dd82-503b-4ba1-81a3-f3323f8f6456",
    "title": {
-    "en": "TakuTore!"
+    "en": "Urasaki-san wants to tell Omoteno-kun."
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
-    "pt-br",
-    "it",
-    "id",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "f5c25341-d6ff-4585-8548-3a48fc7654d9",
-   "title": {
-    "en": "Momose Akira no Hatsukoi Hatan-chuu."
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "pt-br",
     "vi",
-    "tr",
-    "pl",
-    "fr",
-    "en",
-    "ru",
-    "id",
-    "es-la"
+    "en"
    ]
   },
   {
-   "id": "0d8da574-3a62-48a8-aad2-05225160b1a6",
+   "id": "9ba43723-337b-4123-912c-03e9dfa5e632",
    "title": {
-    "en": "One Piece in Love"
+    "en": "Takamori-kun o Damarasetai!!"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
-    "en"
+    "vi",
+    "en",
+    "pt-br",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -215,21 +186,6 @@
    ]
   },
   {
-   "id": "9ba43723-337b-4123-912c-03e9dfa5e632",
-   "title": {
-    "en": "Takamori-kun o Damarasetai!!"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "vi",
-    "en",
-    "pt-br",
-    "id",
-    "es-la"
-   ]
-  },
-  {
    "id": "590666db-1beb-4830-8732-dc11dfbe0148",
    "title": {
     "en": "Code Geass: Lelouch The Private Home Tutor"
@@ -240,7 +196,52 @@
     "pt-br",
     "en"
    ]
+  },
+  {
+   "id": "f5c25341-d6ff-4585-8548-3a48fc7654d9",
+   "title": {
+    "en": "Momose Akira no Hatsukoi Hatan-chuu."
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "pt-br",
+    "vi",
+    "tr",
+    "pl",
+    "fr",
+    "en",
+    "ru",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
+   "title": {
+    "en": "TakuTore!"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "pt-br",
+    "it",
+    "id",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "0d8da574-3a62-48a8-aad2-05225160b1a6",
+   "title": {
+    "en": "One Piece in Love"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T21:20:34+00:00"
+ "updatedAt": "2024-11-07T20:37:42+00:00"
 }

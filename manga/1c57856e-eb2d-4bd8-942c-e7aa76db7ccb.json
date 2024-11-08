@@ -3,19 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Yuusha Goroshi no Hanayome"
+   "en": "The Hero's Killer Bride"
   },
   "altTitles": [
    {
     "ja": "勇者殺しの花嫁"
    },
    {
-    "en": "The Hero's Killer Bride"
+    "ja-ro": "Yuusha-goroshi no Hanayome"
    }
   ],
   "description": {
-   "en": "Shortly after the defeat of the Demon King, Alicia, an officer of the Inquisition nicknamed the \"Bride of God,\" receives a delicate assassination mission. Her target is none other than the hero Zion, the one who is \"Blessed By God.\" The hero is reputed to be invincible, except for one weakness: the hero can only be killed by someone they love!\n\nAlicia searches out Zion, only to discover that her target is actually a young girl the same age as her?! Dismayed by this revelation, she wonders how to approach this unusual mission. Meanwhile, the town is attacked by the remnants of the Demon King's army, plunging them both into a perilous situation.",
+   "en": "Shortly after the defeat of the Demon King, Alicia, an officer of the Inquisition nicknamed the “Bride of God”, receives a delicate assassination mission. Her target is none other than the hero Zion, the one who is “Blessed By God”. The hero is reputed to be invincible, except for one weakness: the hero can only be killed by someone they love!\n\nAlicia searches out Zion, only to discover that her target is actually a young girl the same age as her?! Dismayed by this revelation, she wonders how to approach this unusual mission. Meanwhile, the town is attacked by the remnants of the Demon King's army, plunging them both into a perilous situation.\n___\n**Character Designer:** [Enji](https://mangadex.org/author/c2125541-abf3-4041-839d-f303e2987659)",
    "ja": "“神々の花嫁”兼異端審問官であるアリシアに暗殺指令が届く。 標的は“神々の加護”を持つ勇者・シオン。暗殺が不可能だとされる勇者を殺す方法はただ一つ。それは勇者から愛されること！　アリシアは任務のためシオンに近づくが、やがてその正体が同い年の少女だと気付き――\n\n「女相手になにしろって言うんですか!? 」\n\nアリシアが女子の攻略法を探る中、都市が魔王軍の残党に襲撃され大ピンチに!?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/s?i=stripbooks\u0026rh=p_28:勇者殺しの花嫁+連載版\u0026s=date-desc-rank",
+   "bw": "series/489656",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/852950/"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
@@ -85,74 +90,78 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 8,
   "createdAt": "2024-08-28T20:08:10+00:00",
-  "updatedAt": "2024-09-02T23:29:23+00:00"
+  "updatedAt": "2024-11-06T07:08:06+00:00"
  },
  "relationships": [
   {
    "id": "3eec52c7-8a6f-48d5-822c-7a6c4a0e89a1",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 葵依幸\n\n**Additional Sites:**\n- [Kakuyomu](https://kakuyomu.jp/users/aoi_kou)\n- [Shousetsuka ni Narou](https://mypage.syosetu.com/266278/)"
+    },
     "booth": null,
     "createdAt": "2024-08-28T20:04:29+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kou Aoi",
+    "name": "Aoi Kou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-08-28T20:04:29+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/_aoikou",
+    "updatedAt": "2024-11-06T07:03:00+00:00",
+    "version": 3,
+    "website": "https://studiocolortaste.wixsite.com/color-taste",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "c2125541-abf3-4041-839d-f303e2987659",
+   "id": "63ba7619-2fa4-49dd-85e1-a49d6620afa7",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** ディーン・ロウ\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/deanlaw28)\n- [note](https://note.com/dean_law/)\n- [TikTok](https://www.tiktok.com/@dean_law_manga)"
+    },
     "booth": null,
-    "createdAt": "2024-08-28T20:06:59+00:00",
+    "createdAt": "2024-11-06T06:47:09+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Enji",
+    "name": "Dean Law",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-08-28T20:06:59+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/Dean_Law_manga",
+    "updatedAt": "2024-11-06T06:59:38+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "be258944-cfde-449e-b105-ef231eb6a50e",
+   "id": "b3adf7dd-16f6-45e7-8f6a-64a0ae35c6bb",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-08-28T20:08:22+00:00",
-    "description": "",
-    "fileName": "01a1c984-5362-4871-9f93-2c9101b08b45.jpg",
+    "createdAt": "2024-11-06T06:41:39+00:00",
+    "description": "Individual Chapter 1 cover",
+    "fileName": "9b3f4c73-98d2-44a7-8080-10a8bb28c0d1.jpg",
     "locale": "ja",
-    "updatedAt": "2024-08-28T20:08:22+00:00",
+    "updatedAt": "2024-11-06T06:41:39+00:00",
     "version": 1,
-    "volume": null
+    "volume": "0.1"
    }
   },
   {

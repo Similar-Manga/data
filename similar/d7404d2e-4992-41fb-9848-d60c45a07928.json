@@ -11,13 +11,14 @@
     "en": "OMORI"
    },
    "contentRating": "safe",
-   "score": 0.15856205,
+   "score": 0.1585649,
    "languages": [
     "tr",
     "uk",
     "fr",
     "pt-br",
     "tl",
+    "vi",
     "en",
     "id",
     "ru",
@@ -57,7 +58,7 @@
     "en": "Vampire Hunter D"
    },
    "contentRating": "safe",
-   "score": 0.1305624,
+   "score": 0.13056494,
    "languages": [
     "es-la",
     "ar"
@@ -69,7 +70,7 @@
     "en": "The Color of the End: Mission in the Apocalypse"
    },
    "contentRating": "safe",
-   "score": 0.12975185,
+   "score": 0.12975994,
    "languages": [
     "vi",
     "id",
@@ -90,23 +91,11 @@
     "en": "Kono Ko Shirimasenka?"
    },
    "contentRating": "safe",
-   "score": 0.12282016,
+   "score": 0.12282043,
    "languages": [
     "en",
     "vi",
     "es-la"
-   ]
-  },
-  {
-   "id": "fe7f3f02-3758-4380-8411-cbb9cd121ba3",
-   "title": {
-    "en": "Kurage no Hoshi"
-   },
-   "contentRating": "safe",
-   "score": 0.10862509,
-   "languages": [
-    "es-la",
-    "en"
    ]
   },
   {
@@ -120,6 +109,18 @@
     "vi",
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "fe7f3f02-3758-4380-8411-cbb9cd121ba3",
+   "title": {
+    "en": "Kurage no Hoshi"
+   },
+   "contentRating": "safe",
+   "score": 0.10862509,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -140,18 +141,6 @@
    ]
   },
   {
-   "id": "96e1ea6c-4b97-418b-a430-779812d305e6",
-   "title": {
-    "en": "Fifth-Dimension Treatment"
-   },
-   "contentRating": "safe",
-   "score": 0.09407209,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "f1f5c63e-668c-4055-9328-f6fe2cc200ee",
    "title": {
     "en": "Psycho Party"
@@ -161,6 +150,18 @@
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "96e1ea6c-4b97-418b-a430-779812d305e6",
+   "title": {
+    "en": "Fifth-Dimension Treatment"
+   },
+   "contentRating": "safe",
+   "score": 0.09407209,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -179,16 +180,20 @@
    ]
   },
   {
-   "id": "d97fe2cf-6a94-4a2a-ab54-8ede4501172f",
+   "id": "afa94d82-4635-410d-b216-7fd76f07259c",
    "title": {
-    "en": "Dorachuu"
+    "en": "Boys Be Zombitious"
    },
    "contentRating": "safe",
    "score": 0.08778233,
    "languages": [
-    "pt-br",
+    "es-la",
+    "it",
+    "uk",
+    "ru",
+    "fr",
     "en",
-    "es-la"
+    "pl"
    ]
   },
   {
@@ -203,23 +208,6 @@
     "es-la",
     "fr",
     "pl"
-   ]
-  },
-  {
-   "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
-   "title": {
-    "en": "Kara no Kyoukai: The Garden of Sinners"
-   },
-   "contentRating": "safe",
-   "score": 0.08778233,
-   "languages": [
-    "ru",
-    "en",
-    "ar",
-    "fr",
-    "es-la",
-    "pl",
-    "es"
    ]
   },
   {
@@ -240,7 +228,24 @@
     "bg",
     "es-la"
    ]
+  },
+  {
+   "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
+   "title": {
+    "en": "Kara no Kyoukai: The Garden of Sinners"
+   },
+   "contentRating": "safe",
+   "score": 0.08778233,
+   "languages": [
+    "ru",
+    "en",
+    "ar",
+    "fr",
+    "es-la",
+    "pl",
+    "es"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T22:29:09+00:00"
+ "updatedAt": "2024-11-07T21:30:03+00:00"
 }

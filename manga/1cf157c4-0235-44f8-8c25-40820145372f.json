@@ -3,19 +3,28 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Bright Girl And The Gloomy Girl"
+   "en": "Story About A Cheery Girl \u0026 A Gloomy Girl"
   },
   "altTitles": [
    {
     "ja": "陽キャな女の子と陰キャな女の子の話"
+   },
+   {
+    "ja-ro": "Youkya na Onnanoko to Inkya na Onnanoko no Hanashi"
+   },
+   {
+    "en": "The Bright Girl And The Gloomy Girl"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "**Alt Official Raw:** [pixiv](https://www.pixiv.net/artworks/122772089)"
+  },
   "links": {
    "raw": "https://twitter.com/ihsuta3/status/1507691079591936009"
   },
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2022,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "ru",
@@ -86,19 +95,21 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2022-04-08T18:29:29+00:00",
-  "updatedAt": "2022-04-08T19:03:31+00:00"
+  "updatedAt": "2024-11-06T02:15:35+00:00"
  },
  "relationships": [
   {
    "id": "52c6b4b4-11e5-41e0-99b2-aca934b4c0b0",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 森本淳士"
+    },
     "booth": null,
     "createdAt": "2022-04-08T19:03:07+00:00",
-    "fanBox": null,
+    "fanBox": "https://morimoto33445.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -106,12 +117,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/users/109593977",
+    "skeb": "https://skeb.jp/@ihsuta3",
     "tumblr": null,
     "twitter": "https://twitter.com/ihsuta3",
-    "updatedAt": "2023-08-27T14:16:28+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-06T01:41:54+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -121,10 +132,12 @@
    "id": "52c6b4b4-11e5-41e0-99b2-aca934b4c0b0",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 森本淳士"
+    },
     "booth": null,
     "createdAt": "2022-04-08T19:03:07+00:00",
-    "fanBox": null,
+    "fanBox": "https://morimoto33445.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -132,12 +145,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/users/109593977",
+    "skeb": "https://skeb.jp/@ihsuta3",
     "tumblr": null,
     "twitter": "https://twitter.com/ihsuta3",
-    "updatedAt": "2023-08-27T14:16:28+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-06T01:41:54+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

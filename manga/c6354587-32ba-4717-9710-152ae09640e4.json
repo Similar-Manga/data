@@ -17,14 +17,18 @@
   "links": {
    "al": "130520",
    "amz": "https://www.amazon.co.jp/-/en/dp/B09WTVQP5Z?binding=kindle_edition\u0026ref=dbs_dp_awt_ser_img_widg_pc_tukn",
-   "raw": "https://web-ace.jp/youngace/contents/522/"
+   "bw": "series/320262/list",
+   "mal": "135315",
+   "mu": "2xc2po7",
+   "raw": "https://comic-walker.com/detail/KC_000612_S?episodeType=comics"
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
   "lastChapter": "18",
+  "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2021,
-  "contentRating": "safe",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "pt-br"
   ],
@@ -36,6 +40,18 @@
     "attributes": {
      "name": {
       "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
      },
      "description": {},
      "group": "genre",
@@ -80,9 +96,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2023-09-27T12:06:24+00:00",
-  "updatedAt": "2024-06-12T05:05:33+00:00"
+  "updatedAt": "2024-11-06T13:45:17+00:00"
  },
  "relationships": [
   {
@@ -142,14 +158,14 @@
    }
   },
   {
-   "id": "e6609642-2333-44b0-80db-139c7836bf6b",
+   "id": "99210972-fc86-49fa-97ab-751b09aa47b7",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-09-27T12:06:30+00:00",
+    "createdAt": "2024-11-06T13:45:17+00:00",
     "description": "",
-    "fileName": "aac57161-fa5a-46ff-8351-b90da49f9c80.jpg",
+    "fileName": "617e968e-cac1-4839-8059-76d0cdd34cd6.jpg",
     "locale": "ja",
-    "updatedAt": "2023-09-27T12:06:30+00:00",
+    "updatedAt": "2024-11-06T13:45:17+00:00",
     "version": 1,
     "volume": "3"
    }

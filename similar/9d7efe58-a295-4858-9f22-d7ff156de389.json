@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ad6c7ce1-1522-46dd-aec8-6de53351123d",
+   "title": {
+    "en": "The High School Life of a Fudanshi"
+   },
+   "contentRating": "safe",
+   "score": 0.26319635,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "02fd4de6-deaa-46c1-8344-6c3d280e6844",
    "title": {
     "en": "Corseltel no Ryuujitsushi - Koryuu Monogatari"
@@ -28,17 +40,6 @@
    ]
   },
   {
-   "id": "6d1cb5dd-54d6-417c-9e04-c43cdfe52798",
-   "title": {
-    "en": "Shima Shima Everyday"
-   },
-   "contentRating": "safe",
-   "score": 0.18823081,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5197576b-ba29-4cb4-8039-9211aedd34b7",
    "title": {
     "en": "CHARISMA ~Another Peaceful Day~"
@@ -51,15 +52,14 @@
    ]
   },
   {
-   "id": "ad6c7ce1-1522-46dd-aec8-6de53351123d",
+   "id": "6d1cb5dd-54d6-417c-9e04-c43cdfe52798",
    "title": {
-    "en": "The High School Life of a Fudanshi"
+    "en": "Shima Shima Everyday"
    },
    "contentRating": "safe",
-   "score": 0.18790656,
+   "score": 0.18823081,
    "languages": [
-    "en",
-    "fr"
+    "en"
    ]
   },
   {
@@ -68,10 +68,24 @@
     "en": "The Net Generation Teacher"
    },
    "contentRating": "safe",
-   "score": 0.17708936,
+   "score": 0.17708991,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "33e85af1-f040-44af-84ac-b9c6ecd04ccb",
+   "title": {
+    "en": "Shiota-sensei to Amai-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.17406705,
+   "languages": [
+    "en",
+    "vi",
+    "it",
+    "ru"
    ]
   },
   {
@@ -80,21 +94,9 @@
     "en": "Tensei Yuusha wa Joshikousei!?: Maou no Dekiai ni Komattemasu"
    },
    "contentRating": "safe",
-   "score": 0.17168584,
+   "score": 0.17168759,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7ee3bb68-0a67-4f61-8924-adaed7be5bf0",
-   "title": {
-    "en": "Koisuru Hotaru to Kurashiteru"
-   },
-   "contentRating": "safe",
-   "score": 0.16564313,
-   "languages": [
-    "en",
-    "it"
    ]
   },
   {
@@ -109,20 +111,6 @@
     "en",
     "th",
     "id"
-   ]
-  },
-  {
-   "id": "33e85af1-f040-44af-84ac-b9c6ecd04ccb",
-   "title": {
-    "en": "Shiota-sensei to Amai-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.16564313,
-   "languages": [
-    "en",
-    "vi",
-    "it",
-    "ru"
    ]
   },
   {
@@ -148,23 +136,35 @@
    ]
   },
   {
-   "id": "89cb83e4-8b4e-419c-81a0-c37a74832e0b",
+   "id": "7ee3bb68-0a67-4f61-8924-adaed7be5bf0",
    "title": {
-    "en": "Tonari no Binetsu"
+    "en": "Koisuru Hotaru to Kurashiteru"
    },
    "contentRating": "safe",
-   "score": 0.16134927,
+   "score": 0.16564313,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "e1a50994-af1d-455f-a816-e0f6402de72b",
+   "title": {
+    "en": "Kiruto S"
+   },
+   "contentRating": "safe",
+   "score": 0.16372609,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "53236043-6250-45ad-b6c1-852a85fdf4f4",
+   "id": "89cb83e4-8b4e-419c-81a0-c37a74832e0b",
    "title": {
-    "en": "Momokan"
+    "en": "Tonari no Binetsu"
    },
    "contentRating": "safe",
-   "score": 0.15971914,
+   "score": 0.16134888,
    "languages": [
     "en"
    ]
@@ -181,9 +181,9 @@
    ]
   },
   {
-   "id": "f09f5515-dec7-434f-b38e-dc3bba107efb",
+   "id": "53236043-6250-45ad-b6c1-852a85fdf4f4",
    "title": {
-    "en": "Nietzsche-sensei - Konbini ni, Satori Sedai no Shinjin ga Maiorita"
+    "en": "Momokan"
    },
    "contentRating": "safe",
    "score": 0.15971914,
@@ -192,5 +192,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-05T22:02:14+00:00"
+ "updatedAt": "2024-11-07T21:10:15+00:00"
 }

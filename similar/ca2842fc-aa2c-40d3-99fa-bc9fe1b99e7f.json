@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cc2207c5-f15c-4762-9ff0-5b1bd656a04f",
+   "title": {
+    "en": "Lay-Lay Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.41945702
+  },
+  {
    "id": "768cded0-80ac-4c0d-b29b-cc28fc224d70",
    "title": {
     "en": "Cells at Work! Cat"
    },
    "contentRating": "safe",
-   "score": 0.39314705,
+   "score": 0.4082106,
    "languages": [
     "en",
     "id"
@@ -23,18 +31,10 @@
     "en": "Are You A Cat?"
    },
    "contentRating": "safe",
-   "score": 0.38934088,
+   "score": 0.40792415,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "b3a73241-042e-4c4e-952d-29c56bf1e3a5",
-   "title": {
-    "en": "Neko Me(waku)"
-   },
-   "contentRating": "safe",
-   "score": 0.37376618
   },
   {
    "id": "03f22d18-fa2c-48e2-865b-c1a9d09b8fdf",
@@ -42,15 +42,15 @@
     "en": "Onna Ippiki Neko Futari"
    },
    "contentRating": "safe",
-   "score": 0.3645607
+   "score": 0.377432
   },
   {
-   "id": "76ea3bf1-e58b-49ea-8052-f0714e23e76d",
+   "id": "a5698ce9-f917-475c-ae7f-09c7ffcc2a53",
    "title": {
-    "en": "My Cat Is a Bit Different"
+    "en": "Fuyuko is cat"
    },
    "contentRating": "safe",
-   "score": 0.35554212,
+   "score": 0.37697628,
    "languages": [
     "en"
    ]
@@ -61,7 +61,7 @@
     "en": "My Roommate Is a Cat"
    },
    "contentRating": "safe",
-   "score": 0.35515404,
+   "score": 0.3699372,
    "languages": [
     "fr",
     "it",
@@ -74,20 +74,23 @@
    ]
   },
   {
+   "id": "76ea3bf1-e58b-49ea-8052-f0714e23e76d",
+   "title": {
+    "en": "My Cat Is a Bit Different"
+   },
+   "contentRating": "safe",
+   "score": 0.3690046,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "696db525-a4c0-4a7c-a799-98fc75044910",
    "title": {
     "en": "Yamamoto-san's Cat Story"
    },
    "contentRating": "safe",
-   "score": 0.3547557
-  },
-  {
-   "id": "cc2207c5-f15c-4762-9ff0-5b1bd656a04f",
-   "title": {
-    "en": "Lay-Lay Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.35394448
+   "score": 0.3667151
   },
   {
    "id": "bf241703-b432-424c-b6f6-17ae220b2b56",
@@ -95,19 +98,7 @@
     "en": "Uchi ni Otaku no Neko ga Imasu"
    },
    "contentRating": "safe",
-   "score": 0.35340142
-  },
-  {
-   "id": "1bed82d5-7260-4e4d-a861-4d126f88d8bf",
-   "title": {
-    "en": "Honjitsu no Neko Jijou"
-   },
-   "contentRating": "safe",
-   "score": 0.34972525,
-   "languages": [
-    "pl",
-    "en"
-   ]
+   "score": 0.3652439
   },
   {
    "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
@@ -115,21 +106,10 @@
     "en": "Coffee \u0026 Cat"
    },
    "contentRating": "safe",
-   "score": 0.34836513,
+   "score": 0.3625202,
    "languages": [
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "42f11502-9df7-4125-a956-60ffc8fa84f4",
-   "title": {
-    "en": "I Want to Speak With You"
-   },
-   "contentRating": "safe",
-   "score": 0.3470228,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -138,7 +118,38 @@
     "en": "Neko Gurashi no Gamer-san"
    },
    "contentRating": "safe",
-   "score": 0.3460177,
+   "score": 0.36192107,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1bed82d5-7260-4e4d-a861-4d126f88d8bf",
+   "title": {
+    "en": "Honjitsu no Neko Jijou"
+   },
+   "contentRating": "safe",
+   "score": 0.36122024,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "b3a73241-042e-4c4e-952d-29c56bf1e3a5",
+   "title": {
+    "en": "Neko Me(waku)"
+   },
+   "contentRating": "safe",
+   "score": 0.35974365
+  },
+  {
+   "id": "42f11502-9df7-4125-a956-60ffc8fa84f4",
+   "title": {
+    "en": "I Want to Speak With You"
+   },
+   "contentRating": "safe",
+   "score": 0.35827368,
    "languages": [
     "en"
    ]
@@ -149,7 +160,7 @@
     "en": "11-banme no Neko wa Nene"
    },
    "contentRating": "safe",
-   "score": 0.34383553,
+   "score": 0.3575345,
    "languages": [
     "ko",
     "pt-br",
@@ -162,26 +173,11 @@
     "en": "Ojisan to Neko to Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.3375004,
+   "score": 0.35254946,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "94d60d12-452d-49f0-8d0f-5af785e561a8",
-   "title": {
-    "en": "Red Cat Ramen"
-   },
-   "contentRating": "safe",
-   "score": 0.3363615,
-   "languages": [
-    "en",
-    "vi",
-    "es-la",
-    "de",
-    "th"
-   ]
   }
  ],
- "updatedAt": "2024-11-05T22:22:55+00:00"
+ "updatedAt": "2024-11-07T21:25:29+00:00"
 }

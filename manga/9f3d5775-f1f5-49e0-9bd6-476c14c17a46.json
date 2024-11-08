@@ -1,0 +1,166 @@
+{
+ "id": "9f3d5775-f1f5-49e0-9bd6-476c14c17a46",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Gilded Seven"
+  },
+  "altTitles": [
+   {
+    "ja": "ギルデッド・セブン"
+   },
+   {
+    "en": "Gilded Seven"
+   }
+  ],
+  "description": {
+   "en": "Historical Action about a police officer hunting down the \"La Llorona\" mexican crime cartel. After catching a bunch of high-ranking members, suddenly a Yellowstone volcano errupts \u0026 the cop time-leaps to the 19th wild west a few days after Lincoln got assassinated. He steps into a gruesome scene of native americans getting slaughtered. But suddenly the supposedly dead Abrahalm Lincoln appears and kills the attackers."
+  },
+  "links": {
+   "ap": "gilded-seven",
+   "raw": "https://comic-zenon.com/episode/2550912964790552514"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "292e862b-2d17-4062-90a2-0356caa4ae27",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Time Travel"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Police"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-07T11:41:36+00:00",
+  "updatedAt": "2024-11-07T17:04:23+00:00"
+ },
+ "relationships": [
+  {
+   "id": "eaa6ab11-7724-452d-bb5b-4a5710bc1f96",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Karasuma Tasuku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/karasuma2828",
+    "updatedAt": "2023-05-20T18:01:20+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "eaa6ab11-7724-452d-bb5b-4a5710bc1f96",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Karasuma Tasuku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/karasuma2828",
+    "updatedAt": "2023-05-20T18:01:20+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8b4372e3-c37e-4f94-8e9b-2d230176e9f7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-07T11:41:37+00:00",
+    "description": "",
+    "fileName": "e866c37b-8997-4362-b7b0-952c61ad42c3.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-07T11:41:37+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "d93af974-4326-4c1e-8f14-3e4911fd2215",
+   "type": "creator"
+  }
+ ]
+}

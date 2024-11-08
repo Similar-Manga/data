@@ -1,0 +1,129 @@
+{
+ "id": "fb025ba0-d40d-490c-bdf5-3f16bb085717",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kirawaremono no Reijou wa, Watashi ga Aishimashou. ~Imasara Dekiai shite Kite mo, Mou Osoi desu!~"
+  },
+  "altTitles": [
+   {
+    "ja": "嫌われ者の令嬢は、私が愛しましょう。～いまさら溺愛してきても、もう遅いです！～"
+   }
+  ],
+  "description": {
+   "ja": "孤独死したOLのアキは、気がつくと公爵令嬢・イザベルに憑依していた。わがままで嫌われ者のイザベルは、家族にも、好きな人にも振り向いてもらえず、愛に飢えたまま命を落とした──「それなら、私だけはこの子を愛してあげよう。」そう誓うアキだったが、周りの様子がどうもおかしくて…？"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DK82JRQB",
+   "bw": "series/495226",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/858109/",
+   "mu": "rsqboyk"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-05T22:28:18+00:00",
+  "updatedAt": "2024-11-05T22:28:31+00:00"
+ },
+ "relationships": [
+  {
+   "id": "22340383-2417-40b6-aa8c-ccac12e3dbc4",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-05T22:26:25+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kureta Kureko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-05T22:26:25+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "38d49e4c-ef1a-463a-aa60-6dab00a67053",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-05T22:26:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aihara Natsuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-05T22:26:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "daa55dea-6a32-4624-89a9-487cf37518dd",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T22:28:21+00:00",
+    "description": "",
+    "fileName": "31f96caf-80a0-4338-8a89-1b13c6d56b4b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T22:28:21+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

@@ -56,35 +56,61 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 14,
   "createdAt": "2022-10-21T13:55:41+00:00",
-  "updatedAt": "2024-04-30T13:04:20+00:00"
+  "updatedAt": "2024-11-05T17:37:58+00:00"
  },
  "relationships": [
   {
    "id": "dfe56073-e66b-49f8-8292-b3b954b5346c",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳶田ハジメ\n\n**Additional Socials:**\n- [Instagram](https://www.instagram.com/kazuholland_dr/)\n- [2nd Instagram](https://www.instagram.com/kazuholland_dr2/)\n- [Tumblr](https://hajimetobita.tumblr.com/)\n- [POTOFU](https://potofu.me/tobitahajime)"
+    },
     "booth": null,
     "createdAt": "2022-10-21T13:55:00+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Hajime Tobita",
+    "name": "Tobita Hajime",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-10-21T19:23:51+00:00",
-    "version": 2,
+    "twitter": "https://twitter.com/kazuholland_dr",
+    "updatedAt": "2024-11-05T17:29:10+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -94,23 +120,25 @@
    "id": "dfe56073-e66b-49f8-8292-b3b954b5346c",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳶田ハジメ\n\n**Additional Socials:**\n- [Instagram](https://www.instagram.com/kazuholland_dr/)\n- [2nd Instagram](https://www.instagram.com/kazuholland_dr2/)\n- [Tumblr](https://hajimetobita.tumblr.com/)\n- [POTOFU](https://potofu.me/tobitahajime)"
+    },
     "booth": null,
     "createdAt": "2022-10-21T13:55:00+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Hajime Tobita",
+    "name": "Tobita Hajime",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-10-21T19:23:51+00:00",
-    "version": 2,
+    "twitter": "https://twitter.com/kazuholland_dr",
+    "updatedAt": "2024-11-05T17:29:10+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

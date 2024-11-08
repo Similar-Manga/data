@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "40c12af5-2a68-4006-9c3f-f2be53e7773e",
-   "title": {
-    "en": "Kaihen no Mahoutsukai"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065
-  },
-  {
    "id": "58e2a0a4-1296-4cdd-9552-84bd0349bd0e",
    "title": {
     "en": "Saint Seiya - Another Story of Hades: Dark Wing"
@@ -26,12 +18,20 @@
    ]
   },
   {
+   "id": "40c12af5-2a68-4006-9c3f-f2be53e7773e",
+   "title": {
+    "en": "Kaihen no Mahoutsukai"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
+  },
+  {
    "id": "1b03c975-1ad9-44ec-a407-9386ebf26edf",
    "title": {
     "en": "Boruto: Two Blue Vortex (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.25023416,
+   "score": 0.25001693,
    "languages": [
     "bg"
    ]
@@ -42,7 +42,7 @@
     "en": "My Hero Academia (Official Colored)"
    },
    "contentRating": "safe",
-   "score": 0.24754855,
+   "score": 0.24755388,
    "languages": [
     "pt-br"
    ]
@@ -53,18 +53,10 @@
     "en": "Meteo Emblem"
    },
    "contentRating": "safe",
-   "score": 0.24531338,
+   "score": 0.24531293,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "b6be0ad0-e984-40fd-8359-4a3ce1b85b3d",
-   "title": {
-    "en": "Shin no Nakama ni Narenakatta Ohime-sama wa, Henkyou de Slow Life Suru Koto ni Shimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.23230459
   },
   {
    "id": "7e04ffec-28b0-4594-b796-68bb056d87b0",
@@ -72,10 +64,18 @@
     "en": "Tales of Destiny 2"
    },
    "contentRating": "safe",
-   "score": 0.23092794,
+   "score": 0.23092787,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a8453605-b8ef-49e8-b4ed-e8baba06c6ac",
+   "title": {
+    "en": "Great Old: Dragon no Tsukurikata"
+   },
+   "contentRating": "safe",
+   "score": 0.23086275
   },
   {
    "id": "d78c706d-bc6f-4acf-ba8f-5c7dd0b84b88",
@@ -83,7 +83,7 @@
     "en": "Haiiro no Onmyouji"
    },
    "contentRating": "safe",
-   "score": 0.23032114,
+   "score": 0.23031984,
    "languages": [
     "en",
     "es-la"
@@ -95,7 +95,7 @@
     "en": "Bootsleg"
    },
    "contentRating": "safe",
-   "score": 0.22945978,
+   "score": 0.22945814,
    "languages": [
     "vi",
     "pt-br"
@@ -107,21 +107,9 @@
     "en": "Kill No More"
    },
    "contentRating": "safe",
-   "score": 0.22924587,
+   "score": 0.2292482,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "f203c952-84f0-466d-aa68-9287448ec34b",
-   "title": {
-    "en": "Saint Seiya - Episode G Requiem"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -147,16 +135,15 @@
    ]
   },
   {
-   "id": "0ce0590f-a7da-47b0-8fce-9aeb9052309b",
+   "id": "f203c952-84f0-466d-aa68-9287448ec34b",
    "title": {
-    "en": "Noragami - Clash, O Ye Gods of Calamity"
+    "en": "Saint Seiya - Episode G Requiem"
    },
    "contentRating": "safe",
    "score": 0.22857143,
    "languages": [
-    "ar",
-    "it",
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -177,7 +164,20 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "0ce0590f-a7da-47b0-8fce-9aeb9052309b",
+   "title": {
+    "en": "Noragami - Clash, O Ye Gods of Calamity"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "ar",
+    "it",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T21:28:05+00:00"
+ "updatedAt": "2024-11-07T20:43:47+00:00"
 }

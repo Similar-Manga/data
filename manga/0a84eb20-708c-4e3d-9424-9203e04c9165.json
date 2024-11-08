@@ -1,0 +1,153 @@
+{
+ "id": "0a84eb20-708c-4e3d-9424-9203e04c9165",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kimi no Senaka ni Mita Yume wa"
+  },
+  "altTitles": [
+   {
+    "ja": "君の背中に見た夢は"
+   },
+   {
+    "ja-ro": "Kimi no Senaka ni Mita Yume ha"
+   }
+  ],
+  "description": {
+   "ja": "大手化粧品メーカーで働く新田茜は、ふたりの子を持つワーキングマザーだが、中学受験の過酷さを知り、小学校受験に興味を持つように。\nテレビ局記者の夫を持ち、世間的にはパワーカップルと呼ばれる茜たちだが、お受験の世界はさらに上の富裕層との戦いだった。\n仕事と家庭の両立、協力してくれない夫、かさんでいく教育費…。「子どもの将来にできる限りの可能性…"
+  },
+  "links": {
+   "raw": "https://comic-walker.com/detail/KC_006042_S/episodes/KC_0060420000200011_E?episodeType=latest"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-06T11:33:09+00:00",
+  "updatedAt": "2024-11-07T05:22:32+00:00"
+ },
+ "relationships": [
+  {
+   "id": "95323ad7-1f96-46da-a15f-0c3a8fcdfbf8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-06T11:32:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Toyama Kaoru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-07T05:22:40+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "34f74365-e7b5-47bb-ae9d-71d548db185f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-06T11:32:39+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tachibana Toyoka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-07T05:22:46+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4e0392e3-b9cd-4462-91c7-5bc5ea27a7e3",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-06T11:33:13+00:00",
+    "description": "",
+    "fileName": "ea941ff7-a1e2-40dc-a6e2-642f2c54bb0c.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-06T11:33:13+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

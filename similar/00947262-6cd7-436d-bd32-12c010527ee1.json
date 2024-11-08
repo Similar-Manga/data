@@ -6,27 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d0d3f9b1-2b76-451f-8911-37e00eb90c00",
-   "title": {
-    "en": "Dear Green"
-   },
-   "contentRating": "safe",
-   "score": 0.27238533,
-   "languages": [
-    "vi",
-    "it",
-    "en",
-    "ro",
-    "pl"
-   ]
-  },
-  {
    "id": "3d2b60ed-ab56-4a24-9165-5595407246de",
    "title": {
     "en": "Kouri no You na Natsu wa Koi ni Tokeru"
    },
    "contentRating": "safe",
-   "score": 0.27006236,
+   "score": 0.2701029,
    "languages": [
     "vi"
    ]
@@ -37,7 +22,7 @@
     "en": "Kono Setsugen de Kimi ga Zutto Waratte Irareru you ni"
    },
    "contentRating": "safe",
-   "score": 0.26582277,
+   "score": 0.26582137,
    "languages": [
     "en",
     "vi"
@@ -49,7 +34,7 @@
     "en": "Yume no Shizuku, Kin no Torikago"
    },
    "contentRating": "safe",
-   "score": 0.2596047,
+   "score": 0.25960824,
    "languages": [
     "pt-br",
     "vi",
@@ -63,7 +48,7 @@
     "en": "Golden Raspberry"
    },
    "contentRating": "safe",
-   "score": 0.25840387,
+   "score": 0.25840563,
    "languages": [
     "vi"
    ]
@@ -74,11 +59,26 @@
     "en": "Anata ga Shite Kurenakute mo"
    },
    "contentRating": "safe",
-   "score": 0.25046232,
+   "score": 0.2504626,
    "languages": [
     "en",
     "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "d0d3f9b1-2b76-451f-8911-37e00eb90c00",
+   "title": {
+    "en": "Dear Green"
+   },
+   "contentRating": "safe",
+   "score": 0.24805687,
+   "languages": [
+    "vi",
+    "it",
+    "en",
+    "ro",
+    "pl"
    ]
   },
   {
@@ -87,7 +87,7 @@
     "en": "Bokura no Suki wa Warikirenai"
    },
    "contentRating": "safe",
-   "score": 0.246893,
+   "score": 0.2468958,
    "languages": [
     "en",
     "pt-br",
@@ -100,7 +100,7 @@
     "en": "Kimi no Yokogao o Miteita"
    },
    "contentRating": "safe",
-   "score": 0.24578704,
+   "score": 0.24578655,
    "languages": [
     "en",
     "vi",
@@ -114,7 +114,7 @@
     "en": "Shinu Toki wa Mabayuku"
    },
    "contentRating": "safe",
-   "score": 0.24343419,
+   "score": 0.24343231,
    "languages": [
     "vi"
    ]
@@ -125,7 +125,7 @@
     "en": "Watashi no Koibito ni wa Himitsu ga Aru!"
    },
    "contentRating": "safe",
-   "score": 0.2418304,
+   "score": 0.2418226,
    "languages": [
     "vi",
     "en",
@@ -138,7 +138,7 @@
     "en": "Mosaic Spiral"
    },
    "contentRating": "safe",
-   "score": 0.24046932,
+   "score": 0.24046892,
    "languages": [
     "vi",
     "en"
@@ -150,46 +150,7 @@
     "en": "Kaika Apartment"
    },
    "contentRating": "safe",
-   "score": 0.2388733,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "57b9d1ac-59ae-4834-b425-665fa66b15a4",
-   "title": {
-    "en": "A Story About A Girl Who Supports Her Childhood Friend's Love"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "vi",
-    "ru",
-    "en",
-    "es-la",
-    "zh"
-   ]
-  },
-  {
-   "id": "80497ef8-3967-452d-ab6a-2c5ec2d4ebcb",
-   "title": {
-    "en": "Alkaloid no Hanayome"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "7d8eb774-3a02-4845-9e43-ac62913c38b3",
-   "title": {
-    "en": "Boku ga Shinu made Tsukiatte"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.23885989,
    "languages": [
     "vi",
     "en"
@@ -205,7 +166,45 @@
    "languages": [
     "vi"
    ]
+  },
+  {
+   "id": "80497ef8-3967-452d-ab6a-2c5ec2d4ebcb",
+   "title": {
+    "en": "Alkaloid no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "4a101ad0-9dbd-4455-9872-a24133ef56d9",
+   "title": {
+    "en": "Love Letter"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "hi",
+    "vi",
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "7d8eb774-3a02-4845-9e43-ac62913c38b3",
+   "title": {
+    "en": "Boku ga Shinu made Tsukiatte"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "vi",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T20:52:58+00:00"
+ "updatedAt": "2024-11-07T20:16:11+00:00"
 }

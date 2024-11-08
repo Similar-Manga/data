@@ -3,18 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Taida no Ouji wa Sokoku wo Suteru"
+   "en": "Taida no Ouji wa Sokoku wo Suteru ~Koori no Majin no Majin no Tousouki~"
   },
   "altTitles": [
    {
-    "en": "The Lazy Prince Abandons His Homeland 〜 A Life Of Decadence Begins With Captivity"
+    "ja": "怠惰の王子は祖国を捨てる～氷の魔神の凍争記～（コミック）"
+   },
+   {
+    "en": "The Lazy Prince Abandons his Homeland: A Life of Decadence Begins with Captivity"
    }
   ],
   "description": {
-   "en": "This is the story of a prince of a small country who regards laziness as supreme and struggles to obtain the life he wants in an era of turmoil. It’s the story of the ‘cool-headed, lazy’ Lute, who is counted as one of the ‘conquerors’ of history in later generations!"
+   "ja": "大陸屈指の大国・フロイセル帝国と戦争をするはめになった小国・ランド王国は、本隊を王都へ向けて敗走させるため、庶子の第四王子ルトに殿部隊を任せる。『無能王子』と呼ばれるルトが率いるのは、たった五十三人の兵士たち。万に一つも勝ち目はないと思われたが、ルトは世界に数名しかいない『魔神格』の魔法使いだった！ ルトは魔神の力を示して敵将を圧倒するが、仲間の兵士たちと帝国に降ることを望んでおり――これは祖国を捨てて帝国の守護神として活躍する、最強の氷使いの軌跡。"
   },
   "links": {
-   "ap": "taida-no-ouji-wa-sokoku-wo-suteru-koori-no-majin-no-tousouki"
+   "al": "179158",
+   "amz": "https://www.amazon.co.jp/dp/B0CB3HDX52",
+   "ap": "taida-no-ouji-wa-sokoku-wo-suteru-koori-no-majin-no-tousouki",
+   "bw": "series/424379",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/771900/",
+   "raw": "https://gaugau.futabanet.jp/list/work/639bed0cb576228ba7000005"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
@@ -57,12 +65,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-10-26T18:52:45+00:00",
-  "updatedAt": "2024-10-27T23:27:47+00:00"
+  "updatedAt": "2024-11-06T23:23:11+00:00"
  },
  "relationships": [
   {
@@ -76,7 +96,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Usagi MONOKURO",
+    "name": "Monokuro Usagi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -84,8 +104,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-26T18:50:56+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-06T23:19:50+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -102,7 +122,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Natsuichi FUJIWARA",
+    "name": "Fujiwara Natsuichi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -110,24 +130,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-26T18:51:57+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-06T23:20:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "e39289a8-206e-47ef-98f7-8379c4aed4a4",
+   "id": "bc7a92ef-6d33-4324-a70f-360464f6e273",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-26T18:52:47+00:00",
+    "createdAt": "2024-11-06T23:22:43+00:00",
     "description": "",
-    "fileName": "a67f604e-8ef0-47a8-81d4-60cc4b025db4.png",
+    "fileName": "13664871-d9ed-4777-b145-88e8195ce33c.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-26T18:52:47+00:00",
+    "updatedAt": "2024-11-06T23:22:43+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "3"
    }
   },
   {

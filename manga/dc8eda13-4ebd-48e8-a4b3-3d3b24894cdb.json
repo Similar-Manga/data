@@ -1,0 +1,125 @@
+{
+ "id": "dc8eda13-4ebd-48e8-a4b3-3d3b24894cdb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Gakyou Shoujo"
+  },
+  "altTitles": [
+   {
+    "ja": "画狂少女"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "141244",
+   "bw": "series/328761/list",
+   "raw": "https://m.manhuagui.com/comic/53744/"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-07T17:09:01+00:00",
+  "updatedAt": "2024-11-07T17:10:26+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f4f37535-3f08-4c01-92e0-7f711e873577",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-07T17:06:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takamasa Morii",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-07T17:06:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f4f37535-3f08-4c01-92e0-7f711e873577",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-07T17:06:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takamasa Morii",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-07T17:06:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bb94d466-ef1e-46c0-8824-dcb122cdd770",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-07T17:09:11+00:00",
+    "description": "",
+    "fileName": "4149c26f-bcfd-4137-9b95-178142c94033.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-07T17:09:11+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

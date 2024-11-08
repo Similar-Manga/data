@@ -23,8 +23,8 @@
    "al": "162681",
    "amz": "https://www.amazon.co.jp/dp/B0BXXLF1KV",
    "ap": "kuroneko-nyango-no-bouken",
-   "bw": "series/402119",
-   "cdj": "https://www.cdjapan.co.jp/searchuni?q=%E9%BB%92%E7%8C%AB%E3%83%8B%E3%83%A3%E3%83%B3%E3%82%B4%E3%81%AE%E5%86%92%E9%99%BA1+%E3%83%AC%E3%82%A2%E5%B1%9E%E6%80%A7%E3%82%92%E5%BC%95%E3%81%8D%E5%BD%93%E3%81%A6%E3%81%9F%E3%81%AE%E3%81%A7%E3%80%81%E6%B0%97%E3%81%BE%E3%81%BE%E3%81%AA%E5%86%92%E9%99%BA%E8%80%85%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99\u0026order=reldesc",
+   "bw": "series/402119/list",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=黒猫ニャンゴの冒険1+レア属性を引き当てたので、気ままな冒険者を目指します\u0026order=reldesc",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/751433/",
    "kt": "kuroneko-nyango-no-bouken",
    "mal": "158957",
@@ -50,6 +50,18 @@
     "attributes": {
      "name": {
       "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
      },
      "description": {},
      "group": "theme",
@@ -118,9 +130,9 @@
    }
   ],
   "state": "published",
-  "version": 20,
+  "version": 22,
   "createdAt": "2022-09-16T10:36:36+00:00",
-  "updatedAt": "2024-01-22T23:27:06+00:00"
+  "updatedAt": "2024-11-05T17:15:27+00:00"
  },
  "relationships": [
   {

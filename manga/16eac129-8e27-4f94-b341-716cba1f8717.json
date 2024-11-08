@@ -14,15 +14,16 @@
    }
   ],
   "description": {
-   "en": "The demon queen, Morgamaria, was defeated by humans in her original world and found herself transported to the room of a single adult man living in Japan. Using her enchanting powers, she plans to reclaim her dominance over the world. However, the man she encounters in this new realm is the sworn enemy of succubi—?"
+   "en": "The demon queen, Morgamaria, was defeated by humans in her original world and found herself transported to the room of a single adult man living in Japan. Using her enchanting powers, she plans to reclaim her dominance over the world. However, the man she encounters in this new realm is the sworn enemy of succubi——?"
   },
   "links": {
+   "al": "183902",
    "mal": "175856",
    "raw": "https://kuragebunch.com/episode/2550912964824213917"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2024,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
@@ -30,6 +31,18 @@
   ],
   "latestUploadedChapter": "6d48fa5e-1697-4581-ab7d-d9a8ab4978cb",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
     "type": "tag",
@@ -77,35 +90,49 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 13,
   "createdAt": "2024-11-04T18:15:59+00:00",
-  "updatedAt": "2024-11-05T04:32:25+00:00"
+  "updatedAt": "2024-11-05T23:41:18+00:00"
  },
  "relationships": [
   {
    "id": "deda7ad7-04b7-4e7c-9da7-f81a03f285c1",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** えろき"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Eroki",
+    "name": "EROKI",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/2604746",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/eroki_trick",
+    "updatedAt": "2024-11-06T00:19:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -115,23 +142,25 @@
    "id": "4f7ed921-e61c-47a4-97ec-bdf796d1a623",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 吉備あんみつ\n\n**Also Known As:** Kagurazaka Mitsuko (神楽坂みつこ)\n\n**Additional Sites:**\n- [Healthy (SFW) Kibi Anmitsu X](https://x.com/kibikibibanban)\n- [Kagurazaka Mitsuko X](https://x.com/re_tumk18)\n- [onaco](onaco.jp/profile/re_tumk)"
+    },
     "booth": null,
     "createdAt": "2024-11-04T18:09:20+00:00",
-    "fanBox": null,
-    "fantia": null,
+    "fanBox": "https://nikey0618.fanbox.cc/",
+    "fantia": "https://fantia.jp/fanclubs/493012",
     "imageUrl": null,
     "melonBook": null,
     "name": "Kibi Anmitsu",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/2510266",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-04T18:09:20+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/re_tumk",
+    "updatedAt": "2024-11-06T00:44:04+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -145,9 +174,9 @@
     "description": "",
     "fileName": "8f9dffbb-3e5a-4f70-86d2-a65e97be5f3a.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-04T18:16:03+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-11-05T23:36:47+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

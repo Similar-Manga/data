@@ -20,7 +20,7 @@
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0CBM47HX6",
    "ap": "konyaku-hakisareta-koushaku-reijou-wa-reijou-no-kamen-wo-nugisuteru",
-   "bw": "series/419684",
+   "bw": "series/419684/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/772485/",
    "engtl": "https://global.manga-up.com/manga/517",
    "mu": "mr69x6p"
@@ -67,18 +67,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -92,9 +80,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2023-11-10T04:05:16+00:00",
-  "updatedAt": "2024-08-14T01:25:44+00:00"
+  "updatedAt": "2024-11-06T14:42:30+00:00"
  },
  "relationships": [
   {
@@ -150,16 +138,16 @@
    }
   },
   {
-   "id": "ba371247-c555-4bbb-9ea5-93399b4ecb95",
+   "id": "7bd987a9-4488-423b-a6d6-717fcac61898",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-11-10T04:05:20+00:00",
+    "createdAt": "2024-11-06T14:44:01+00:00",
     "description": "",
-    "fileName": "fd04a660-25f5-40a6-9f6d-284eaab9685b.jpg",
+    "fileName": "3541c2ea-32ea-4dc8-aac8-2cc8a7cb4bb9.jpg",
     "locale": "ja",
-    "updatedAt": "2023-11-10T04:05:20+00:00",
+    "updatedAt": "2024-11-06T14:44:01+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "3"
    }
   },
   {

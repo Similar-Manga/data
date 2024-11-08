@@ -19,11 +19,12 @@
     "ko-ro": "카이니스의 황금새"
    },
    {
-    "fr": "L'oiseau d'or de Kainis"
+    "fr": "L'oiseau d'or de Kainis (Glénat)"
    }
   ],
   "description": {
-   "en": "19th century England, an era when women's position was weak. The pastor's daughter, Leah, loved the world of stories from an early age and loved writing novels, but the men around her continued to deny that \"a woman can't write a novel.\" At the age of 19, the work posted under the male name \"Alan\" is recognized, paving the way for a novelist. Then, dressed in men's clothing and heading alone to London, where the publisher is located, fate begins to move.\n\n(from mangaupdates)"
+   "en": "19th century England, an era when women's position was weak. The pastor's daughter, Leah, loved the world of stories from an early age and loved writing novels, but the men around her continued to deny that \"a woman can't write a novel.\" At the age of 19, the work posted under the male name \"Alan\" is recognized, paving the way for a novelist. Then, dressed in men's clothing and heading alone to London, where the publisher is located, fate begins to move.\n\n(from mangaupdates)",
+   "fr": "Début du XIXe siècle, à l'Est de Gloucestershire, Lea a grandi au milieu de livres \"inaccessibles pour son cerveau féminin\" et se passionne pour l'écriture, un art réservé à la gent masculine. C'est donc sous l'identité fictive d'Alain Wedgwood, qu'elle va débarquer à Londres pour faire publier ses ouvrages, découvrir le monde littéraire et se faire de nouveaux amis. Que va-t-elle pouvoir découvrir sous sa nouvelle apparence ?"
   },
   "links": {
    "amz": "https://www.amazon.co.jp/カイニスの金の鳥-1-秦-和生/dp/4781618189",
@@ -63,6 +64,18 @@
     }
    },
    {
+    "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Philosophical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -73,12 +86,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2023-09-18T10:28:56+00:00",
-  "updatedAt": "2024-07-12T10:29:07+00:00"
+  "updatedAt": "2024-11-05T22:50:44+00:00"
  },
  "relationships": [
   {

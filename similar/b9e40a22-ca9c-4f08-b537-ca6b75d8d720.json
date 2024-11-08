@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "8a67b54d-3719-4af4-8873-9d2eba794ece",
-   "title": {
-    "en": "Tokyo Ghoul (Oneshot)"
-   },
-   "contentRating": "safe",
-   "score": 0.26155975,
-   "languages": [
-    "pt-br",
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
    "title": {
     "en": "Sherlock"
@@ -31,12 +18,25 @@
    ]
   },
   {
+   "id": "8a67b54d-3719-4af4-8873-9d2eba794ece",
+   "title": {
+    "en": "Tokyo Ghoul (Oneshot)"
+   },
+   "contentRating": "safe",
+   "score": 0.21926366,
+   "languages": [
+    "pt-br",
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
    "title": {
     "en": "Bungou Stray Dogs"
    },
    "contentRating": "safe",
-   "score": 0.22319692,
+   "score": 0.20505919,
    "languages": [
     "tr",
     "pt-br",
@@ -55,27 +55,15 @@
    ]
   },
   {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
+   "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
    "title": {
-    "en": "Ultra Heaven"
+    "en": "JUMBO MAX"
    },
    "contentRating": "safe",
-   "score": 0.20707019,
+   "score": 0.20203052,
    "languages": [
     "en",
-    "vi",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
-   "title": {
-    "en": "Cloud"
-   },
-   "contentRating": "safe",
-   "score": 0.20434965,
-   "languages": [
-    "en"
+    "zh-hk"
    ]
   },
   {
@@ -90,68 +78,36 @@
    ]
   },
   {
-   "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
-   "title": {
-    "en": "JUMBO MAX"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
    "id": "4a378fde-e143-485b-a938-44eeffee34b9",
    "title": {
     "en": "Inspector Daimajin"
    },
    "contentRating": "safe",
-   "score": 0.20077372,
+   "score": 0.19047621,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
+   "id": "3617aaec-946c-4957-83a1-599c559669b4",
    "title": {
-    "en": "AGAPE"
+    "en": "Ultra Heaven"
    },
    "contentRating": "safe",
-   "score": 0.19321229,
+   "score": 0.18684407,
    "languages": [
-    "en"
+    "en",
+    "vi",
+    "pt-br"
    ]
   },
   {
-   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
+   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
    "title": {
-    "en": "Hyakki Tsurezure Bukuro"
+    "en": "Cloud"
    },
    "contentRating": "safe",
-   "score": 0.19043891,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2fc2a3f0-0247-4996-b9ef-079fd9411877",
-   "title": {
-    "en": "Tokyo X Day"
-   },
-   "contentRating": "safe",
-   "score": 0.18756579,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ab8499b1-c5b4-4380-9568-8612c7c38398",
-   "title": {
-    "en": "Souzoku Tantei"
-   },
-   "contentRating": "safe",
-   "score": 0.18369894,
+   "score": 0.18584213,
    "languages": [
     "en"
    ]
@@ -183,9 +139,9 @@
    ]
   },
   {
-   "id": "afa217eb-7552-479d-b3a1-12b796920d87",
+   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
    "title": {
-    "en": "Kyoukai no End Feel"
+    "en": "AGAPE"
    },
    "contentRating": "safe",
    "score": 0.17496355,
@@ -205,7 +161,53 @@
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "efef77d1-36f6-4a61-b026-980c5d28e4f5",
+   "title": {
+    "en": "Taisho Detective"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "afa217eb-7552-479d-b3a1-12b796920d87",
+   "title": {
+    "en": "Kyoukai no End Feel"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
+   "title": {
+    "en": "Hyakki Tsurezure Bukuro"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "609ccb17-fd83-4126-876a-5bf8c037b065",
+   "title": {
+    "en": "Sonna Kazoku nara Sutechaeba?"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "es-la",
+    "vi",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T22:15:38+00:00"
+ "updatedAt": "2024-11-07T21:19:59+00:00"
 }

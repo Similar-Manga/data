@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "64704ffd-2c2d-4996-bde9-8b07b39e2871",
-   "title": {
-    "en": "Yuikun no Egao Jijo"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
    "id": "b41bef1e-7df9-4255-bd82-ecf570fec566",
    "title": {
     "en": "The New Gate"
@@ -49,12 +38,23 @@
    ]
   },
   {
+   "id": "64704ffd-2c2d-4996-bde9-8b07b39e2871",
+   "title": {
+    "en": "Yuikun no Egao Jijo"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
    "id": "39a92825-1e91-40f1-9716-82fab8b888e1",
    "title": {
     "en": "Aono-kun ni Sawaritai kara Shinitai"
    },
    "contentRating": "safe",
-   "score": 0.17483751,
+   "score": 0.174847,
    "languages": [
     "zh",
     "vi",
@@ -68,7 +68,7 @@
     "en": "A Story About Confessing Before the End of the World"
    },
    "contentRating": "safe",
-   "score": 0.1523651,
+   "score": 0.15236723,
    "languages": [
     "zh",
     "fr",
@@ -79,6 +79,28 @@
     "nl",
     "uk",
     "vi"
+   ]
+  },
+  {
+   "id": "f9c371d1-a299-40d7-91f5-34c59df6d447",
+   "title": {
+    "en": "Yuurei-san ni Ai ni Iku"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
+   "id": "4d238099-aaff-4b7b-99af-e09ed4be3d1f",
+   "title": {
+    "en": "Mahou Jika Hatsuden"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "zh"
    ]
   },
   {
@@ -94,34 +116,12 @@
    ]
   },
   {
-   "id": "4d238099-aaff-4b7b-99af-e09ed4be3d1f",
-   "title": {
-    "en": "Mahou Jika Hatsuden"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
-   "id": "f9c371d1-a299-40d7-91f5-34c59df6d447",
-   "title": {
-    "en": "Yuurei-san ni Ai ni Iku"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
    "id": "6d0eda24-34c6-43a3-91ea-d9444c2c44b1",
    "title": {
     "en": "Kirisaki Karin wa Korosasenai"
    },
    "contentRating": "safe",
-   "score": 0.14286968,
+   "score": 0.14287224,
    "languages": [
     "zh"
    ]
@@ -153,6 +153,21 @@
    ]
   },
   {
+   "id": "0486e6b2-6551-4938-894a-4e7a72749b47",
+   "title": {
+    "en": "Keep Your Hands Off Eizouken!"
+   },
+   "contentRating": "safe",
+   "score": 0.12777533,
+   "languages": [
+    "en",
+    "es-la",
+    "zh",
+    "pt-br",
+    "tr"
+   ]
+  },
+  {
    "id": "5b92c636-45b8-4518-966c-760776a7d5cd",
    "title": {
     "en": "Serious as She Is, She Has a Cute Side I Want to Keep All to Myself"
@@ -164,55 +179,6 @@
     "de",
     "zh",
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "58c9abd8-a4a6-41b1-9504-d7da7ec10acd",
-   "title": {
-    "en": "Tsuji-kun And Miyazono-san"
-   },
-   "contentRating": "safe",
-   "score": 0.12777533,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br",
-    "fr",
-    "da",
-    "tl",
-    "zh",
-    "de",
-    "es-la",
-    "hi",
-    "ms",
-    "zh-hk",
-    "tr",
-    "vi",
-    "ru"
-   ]
-  },
-  {
-   "id": "a85b9de8-f0af-4eb6-bfec-94581c2f319e",
-   "title": {
-    "en": "Nekoma-san to Inui-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.12777533,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
-   "id": "d2f840c6-146a-46df-9d22-8e1d33f2a1cc",
-   "title": {
-    "en": "Tsutsunuke Kemomimi"
-   },
-   "contentRating": "safe",
-   "score": 0.12777533,
-   "languages": [
-    "id",
-    "zh",
     "en"
    ]
   },
@@ -231,7 +197,31 @@
     "zh",
     "pt-br"
    ]
+  },
+  {
+   "id": "d2f840c6-146a-46df-9d22-8e1d33f2a1cc",
+   "title": {
+    "en": "Tsutsunuke Kemomimi"
+   },
+   "contentRating": "safe",
+   "score": 0.12777533,
+   "languages": [
+    "id",
+    "zh",
+    "en"
+   ]
+  },
+  {
+   "id": "a85b9de8-f0af-4eb6-bfec-94581c2f319e",
+   "title": {
+    "en": "Nekoma-san to Inui-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.12777533,
+   "languages": [
+    "zh"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T22:20:25+00:00"
+ "updatedAt": "2024-11-07T21:23:37+00:00"
 }

@@ -28,7 +28,7 @@
     "en": "Bless"
    },
    "contentRating": "safe",
-   "score": 0.18725023,
+   "score": 0.18725125,
    "languages": [
     "uk",
     "fr",
@@ -44,13 +44,14 @@
     "en": "My Clueless First Friend"
    },
    "contentRating": "safe",
-   "score": 0.18551603,
+   "score": 0.18551746,
    "languages": [
     "en",
     "uk",
     "pt-br",
     "ru",
     "vi",
+    "it",
     "id",
     "es-la"
    ]
@@ -61,7 +62,7 @@
     "en": "Tonikaku Kawaii"
    },
    "contentRating": "safe",
-   "score": 0.18547595,
+   "score": 0.18547697,
    "languages": [
     "en",
     "tr",
@@ -77,22 +78,6 @@
     "ar",
     "de",
     "es"
-   ]
-  },
-  {
-   "id": "81c198cc-3863-4428-9e0c-b366feea734a",
-   "title": {
-    "en": "How Our Indifference Fades"
-   },
-   "contentRating": "safe",
-   "score": 0.17764857,
-   "languages": [
-    "vi",
-    "pt-br",
-    "fr",
-    "uk",
-    "it",
-    "en"
    ]
   },
   {
@@ -113,12 +98,28 @@
    ]
   },
   {
+   "id": "81c198cc-3863-4428-9e0c-b366feea734a",
+   "title": {
+    "en": "How Our Indifference Fades"
+   },
+   "contentRating": "safe",
+   "score": 0.17764857,
+   "languages": [
+    "vi",
+    "pt-br",
+    "fr",
+    "uk",
+    "it",
+    "en"
+   ]
+  },
+  {
    "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
    "title": {
     "en": "Skip and Loafer"
    },
    "contentRating": "safe",
-   "score": 0.16793595,
+   "score": 0.16793592,
    "languages": [
     "pt-br",
     "uk",
@@ -135,7 +136,7 @@
     "en": "He's Such A Tease!"
    },
    "contentRating": "safe",
-   "score": 0.16693762,
+   "score": 0.16693915,
    "languages": [
     "uk"
    ]
@@ -146,7 +147,7 @@
     "en": "Mitame Jirai-kei Osananajimi no Ren'ai Story"
    },
    "contentRating": "safe",
-   "score": 0.16132711,
+   "score": 0.1613343,
    "languages": [
     "id",
     "en",
@@ -155,41 +156,6 @@
     "uk",
     "es-la",
     "vi"
-   ]
-  },
-  {
-   "id": "f6aebf39-07b8-4959-ba73-fa852b96913b",
-   "title": {
-    "en": "Koiseyo Mayakashi Tenshi-domo"
-   },
-   "contentRating": "safe",
-   "score": 0.15384819,
-   "languages": [
-    "ru",
-    "es",
-    "uk",
-    "en",
-    "fr",
-    "vi",
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "5f47d978-0896-4b1f-8846-e156ee1f4fa1",
-   "title": {
-    "en": "Elf Love Confessions"
-   },
-   "contentRating": "safe",
-   "score": 0.15384819,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "uk",
-    "vi",
-    "en",
-    "ro",
-    "id"
    ]
   },
   {
@@ -222,19 +188,37 @@
    ]
   },
   {
-   "id": "cd2c9ef6-6b97-4e7e-868a-e853fa74ff63",
+   "id": "f6aebf39-07b8-4959-ba73-fa852b96913b",
    "title": {
-    "en": "Nyan-Nyan Cantata"
+    "en": "Koiseyo Mayakashi Tenshi-domo"
+   },
+   "contentRating": "safe",
+   "score": 0.15384819,
+   "languages": [
+    "ru",
+    "es",
+    "uk",
+    "en",
+    "fr",
+    "vi",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "587318a7-9e1f-4e7c-9d8d-5a5a2c7cd6d8",
+   "title": {
+    "en": "〝Tsuyome〟na Kanojo ga Jitsu wa Kawaii"
    },
    "contentRating": "safe",
    "score": 0.15384819,
    "languages": [
     "uk",
-    "fr",
-    "tr",
-    "ru",
     "pt-br",
+    "es-la",
     "en",
+    "fr",
+    "id",
     "pl"
    ]
   },
@@ -254,22 +238,39 @@
    ]
   },
   {
-   "id": "587318a7-9e1f-4e7c-9d8d-5a5a2c7cd6d8",
+   "id": "cd2c9ef6-6b97-4e7e-868a-e853fa74ff63",
    "title": {
-    "en": "〝Tsuyome〟na Kanojo ga Jitsu wa Kawaii"
+    "en": "Nyan-Nyan Cantata"
    },
    "contentRating": "safe",
    "score": 0.15384819,
    "languages": [
     "uk",
-    "pt-br",
-    "es-la",
-    "en",
     "fr",
-    "id",
+    "tr",
+    "ru",
+    "pt-br",
+    "en",
     "pl"
+   ]
+  },
+  {
+   "id": "5f47d978-0896-4b1f-8846-e156ee1f4fa1",
+   "title": {
+    "en": "Elf Love Confessions"
+   },
+   "contentRating": "safe",
+   "score": 0.15384819,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "uk",
+    "vi",
+    "en",
+    "ro",
+    "id"
    ]
   }
  ],
- "updatedAt": "2024-11-05T21:59:54+00:00"
+ "updatedAt": "2024-11-07T21:08:25+00:00"
 }

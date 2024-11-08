@@ -11,7 +11,7 @@
     "en": "The Wizard is Poor"
    },
    "contentRating": "safe",
-   "score": 0.4168425,
+   "score": 0.4167186,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Mahoutsukai ni Tadaima"
    },
    "contentRating": "safe",
-   "score": 0.38255948,
+   "score": 0.38242716,
    "languages": [
     "en"
    ]
@@ -33,10 +33,23 @@
     "en": "Fairytale for Wizards"
    },
    "contentRating": "safe",
-   "score": 0.37330407,
+   "score": 0.373165,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "5f88271f-07fd-4da9-9c00-e88d06bbe570",
+   "title": {
+    "en": "My Childhood Friends Are Trying to Kill Me"
+   },
+   "contentRating": "safe",
+   "score": 0.3004024,
+   "languages": [
+    "en",
+    "tr",
+    "fr"
    ]
   },
   {
@@ -45,7 +58,7 @@
     "en": "I Saved the Cursed Duke"
    },
    "contentRating": "safe",
-   "score": 0.29499692,
+   "score": 0.29499552,
    "languages": [
     "en",
     "ru",
@@ -59,7 +72,7 @@
     "en": "Clouds in the Night Sky"
    },
    "contentRating": "safe",
-   "score": 0.27628404,
+   "score": 0.27628785,
    "languages": [
     "en"
    ]
@@ -70,71 +83,10 @@
     "en": "The Princess in the Attic"
    },
    "contentRating": "safe",
-   "score": 0.2752148,
+   "score": 0.27522004,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "5f88271f-07fd-4da9-9c00-e88d06bbe570",
-   "title": {
-    "en": "My Childhood Friends Are Trying to Kill Me"
-   },
-   "contentRating": "safe",
-   "score": 0.2692288,
-   "languages": [
-    "en",
-    "tr",
-    "fr"
-   ]
-  },
-  {
-   "id": "62b89dad-2eb9-4e8d-a672-2db6cfe94e32",
-   "title": {
-    "en": "His Apple"
-   },
-   "contentRating": "safe",
-   "score": 0.26452002,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "68fe48a6-3d49-41fb-ab17-9ac48d33214e",
-   "title": {
-    "en": "Forest of the Jade Bird"
-   },
-   "contentRating": "safe",
-   "score": 0.26452002,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a599c644-6401-4fd7-b6a2-9c9b0a143cef",
-   "title": {
-    "en": "Her Ladyship Objects to This Marriage!"
-   },
-   "contentRating": "safe",
-   "score": 0.26452002,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "703bb963-6010-4f48-a4f5-279eec943715",
-   "title": {
-    "en": "It's Not Fun Being the Empress of the Empire"
-   },
-   "contentRating": "safe",
-   "score": 0.26452002,
-   "languages": [
-    "id",
-    "en"
    ]
   },
   {
@@ -152,9 +104,9 @@
    ]
   },
   {
-   "id": "f09eebff-1cfb-4752-832d-2fdc7543487d",
+   "id": "d0dd0cf2-b6d9-4dc8-a44c-9085a3b1cd25",
    "title": {
-    "en": "Qiao'er Is Naughty"
+    "en": "Twin Flowers of the Cold Distant Sea"
    },
    "contentRating": "safe",
    "score": 0.26452002,
@@ -163,9 +115,57 @@
    ]
   },
   {
-   "id": "d0dd0cf2-b6d9-4dc8-a44c-9085a3b1cd25",
+   "id": "62b89dad-2eb9-4e8d-a672-2db6cfe94e32",
    "title": {
-    "en": "Twin Flowers of the Cold Distant Sea"
+    "en": "His Apple"
+   },
+   "contentRating": "safe",
+   "score": 0.26452002,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "703bb963-6010-4f48-a4f5-279eec943715",
+   "title": {
+    "en": "It's Not Fun Being the Empress of the Empire"
+   },
+   "contentRating": "safe",
+   "score": 0.26452002,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "a599c644-6401-4fd7-b6a2-9c9b0a143cef",
+   "title": {
+    "en": "Her Ladyship Objects to This Marriage!"
+   },
+   "contentRating": "safe",
+   "score": 0.26452002,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "68fe48a6-3d49-41fb-ab17-9ac48d33214e",
+   "title": {
+    "en": "Forest of the Jade Bird"
+   },
+   "contentRating": "safe",
+   "score": 0.26452002,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f09eebff-1cfb-4752-832d-2fdc7543487d",
+   "title": {
+    "en": "Qiao'er Is Naughty"
    },
    "contentRating": "safe",
    "score": 0.26452002,
@@ -179,24 +179,24 @@
     "en": "The Secret of the Friendly Duke"
    },
    "contentRating": "safe",
-   "score": 0.2623715,
+   "score": 0.26235116,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "ca3c2f1b-ca10-4b4f-ab01-5038f4210b67",
+   "id": "8d1a4a97-26f5-4bcd-a41c-398048ba29d0",
    "title": {
-    "en": "Star Road Witch"
+    "en": "Accidental Warrior"
    },
    "contentRating": "safe",
-   "score": 0.2617573,
+   "score": 0.26102147,
    "languages": [
     "en",
-    "pt-br"
+    "pl"
    ]
   }
  ],
- "updatedAt": "2024-11-05T22:10:49+00:00"
+ "updatedAt": "2024-11-07T21:16:28+00:00"
 }

@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1f0b1edc-0ba6-4321-b3e5-896d2c0bf557",
+   "title": {
+    "en": "Ayashii Omawari-san"
+   },
+   "contentRating": "safe",
+   "score": 0.31767583,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "62b74aa6-24df-4b91-b76d-39e7ab3c3ca5",
    "title": {
     "en": "REAL"
    },
    "contentRating": "safe",
-   "score": 0.29847956,
+   "score": 0.29660386,
    "languages": [
     "en",
     "pt-br",
@@ -25,24 +37,12 @@
    ]
   },
   {
-   "id": "1f0b1edc-0ba6-4321-b3e5-896d2c0bf557",
-   "title": {
-    "en": "Ayashii Omawari-san"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
    "id": "2970916f-3710-4344-a236-b67ccc50a965",
    "title": {
     "en": "Bengo!"
    },
    "contentRating": "safe",
-   "score": 0.24091649,
+   "score": 0.24251445,
    "languages": [
     "en"
    ]
@@ -53,26 +53,9 @@
     "en": "Insect Detective Yoshimi Yoshida"
    },
    "contentRating": "safe",
-   "score": 0.23856659,
+   "score": 0.2384298,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
-   "title": {
-    "en": "Hirayasumi"
-   },
-   "contentRating": "safe",
-   "score": 0.20255177,
-   "languages": [
-    "ar",
-    "en",
-    "ru",
-    "uk",
-    "vi",
-    "tr",
-    "pt-br"
    ]
   },
   {
@@ -81,7 +64,7 @@
     "en": "Sagishi to Keisatsukan no Rennai Kyori"
    },
    "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.2271437,
    "languages": [
     "vi",
     "en"
@@ -93,27 +76,54 @@
     "en": "Semimaru Zanjitsuroku"
    },
    "contentRating": "safe",
-   "score": 0.20167708,
+   "score": 0.20741755,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8f883600-9655-4498-b87c-65328cada285",
+   "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
    "title": {
-    "en": "The Violence Action"
+    "en": "Hirayasumi"
+   },
+   "contentRating": "safe",
+   "score": 0.20245582,
+   "languages": [
+    "ar",
+    "en",
+    "ru",
+    "uk",
+    "vi",
+    "tr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "5cc2520e-3f8a-4d58-ba61-c19eee1c9a96",
+   "title": {
+    "en": "Osen"
    },
    "contentRating": "safe",
    "score": 0.19047621,
    "languages": [
-    "pt-br",
     "en"
    ]
   },
   {
-   "id": "df63eaf9-d868-40f3-9ab4-d58be078030f",
+   "id": "3af112b9-2e75-4aff-8f0a-e84bca481a7d",
    "title": {
-    "en": "Happy on the Road - Kaeranai ni wa Wake ga Aru"
+    "en": "Horror Banchi"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9b364fcd-224c-403d-8a3c-c999e8c3a849",
+   "title": {
+    "en": "Yuritetsu - Shiritsu Yurigasaki Joshikou Tetsudoubu"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -136,9 +146,9 @@
    ]
   },
   {
-   "id": "9b364fcd-224c-403d-8a3c-c999e8c3a849",
+   "id": "ddf50c41-6670-4cd1-b9bb-fe4a903caaa7",
    "title": {
-    "en": "Yuritetsu - Shiritsu Yurigasaki Joshikou Tetsudoubu"
+    "en": "Channel wa Sonomama!"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -147,9 +157,9 @@
    ]
   },
   {
-   "id": "3af112b9-2e75-4aff-8f0a-e84bca481a7d",
+   "id": "df63eaf9-d868-40f3-9ab4-d58be078030f",
    "title": {
-    "en": "Horror Banchi"
+    "en": "Happy on the Road - Kaeranai ni wa Wake ga Aru"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -169,24 +179,14 @@
    ]
   },
   {
-   "id": "ddf50c41-6670-4cd1-b9bb-fe4a903caaa7",
+   "id": "8f883600-9655-4498-b87c-65328cada285",
    "title": {
-    "en": "Channel wa Sonomama!"
+    "en": "The Violence Action"
    },
    "contentRating": "safe",
    "score": 0.19047621,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5cc2520e-3f8a-4d58-ba61-c19eee1c9a96",
-   "title": {
-    "en": "Osen"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -196,11 +196,11 @@
     "en": "Watashi ga Watashi wo Uru Riyuu"
    },
    "contentRating": "safe",
-   "score": 0.18979573,
+   "score": 0.1895991,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-05T21:30:25+00:00"
+ "updatedAt": "2024-11-07T20:45:29+00:00"
 }

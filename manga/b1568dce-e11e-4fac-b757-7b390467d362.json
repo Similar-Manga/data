@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Segai-kun no Sekai"
+   "en": "Segai-kun's World"
   },
   "altTitles": [
    {
     "ja": "セガイ君のセカイ"
+   },
+   {
+    "ja-ro": "Segai-kun no Sekai"
    }
   ],
   "description": {
@@ -61,9 +64,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2023-08-27T10:43:38+00:00",
-  "updatedAt": "2023-08-27T12:27:46+00:00"
+  "updatedAt": "2024-11-06T03:08:34+00:00"
  },
  "relationships": [
   {
@@ -98,10 +101,12 @@
    "id": "52c6b4b4-11e5-41e0-99b2-aca934b4c0b0",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 森本淳士"
+    },
     "booth": null,
     "createdAt": "2022-04-08T19:03:07+00:00",
-    "fanBox": null,
+    "fanBox": "https://morimoto33445.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -109,12 +114,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/users/109593977",
+    "skeb": "https://skeb.jp/@ihsuta3",
     "tumblr": null,
     "twitter": "https://twitter.com/ihsuta3",
-    "updatedAt": "2023-08-27T14:16:28+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-06T01:41:54+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -1,0 +1,130 @@
+{
+ "id": "f2797da7-77d6-4f0a-856c-0794a8d132bb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Glass Dama"
+  },
+  "altTitles": [
+   {
+    "ja": "ガラス玉"
+   }
+  ],
+  "description": {
+   "en": "A collection of ten one-shots, including Fumiko Okada's debut work: Glass Dama.\n\n1. Glass Dama (ガラス玉)\n2. Taiyou to Gaikotsu no Youna Shounen (太陽と骸骨のような少年)\n3. L'pauret (ポーヴレト)\n4. Natsu (夏)\n5. Sunroom no Hirusagari (サンルームのひるさがり)\n6. Akai Tsurukusa PART 1 (赤い蔓草 PART1)\n7. Akai Tsurukusa PART 2 (赤い蔓草 PART2)\n8. Watashi no Ehon (私の絵本)\n9. Bochi e Yuku Michi (墓地へゆく道)\n10. Pygmalion (ピグマリオン)\n11. Holiday (ホリデイ)"
+  },
+  "links": {
+   "al": "115743",
+   "amz": "https://www.amazon.co.jp/ガラス玉-サンコミックス-岡田-史子/dp/4257913754",
+   "mu": "vw7mj4w"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "11",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 1976,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-07T18:29:22+00:00",
+  "updatedAt": "2024-11-07T18:50:28+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d720b000-a438-40a7-90a6-3ec885fd1278",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-11-16T08:47:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Okada Fumiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-11-16T08:47:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d720b000-a438-40a7-90a6-3ec885fd1278",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-11-16T08:47:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Okada Fumiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-11-16T08:47:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c9f191db-03da-4943-ac64-053000e4d7b1",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-07T18:29:24+00:00",
+    "description": "",
+    "fileName": "c7e88cf1-6791-44bc-83bc-0db280a4a217.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-07T18:29:24+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "4a80061c-82d7-4fb7-8041-579c54fbd6b5",
+   "type": "creator"
+  }
+ ]
+}

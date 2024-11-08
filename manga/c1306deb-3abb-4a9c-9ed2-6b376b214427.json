@@ -1,0 +1,155 @@
+{
+ "id": "c1306deb-3abb-4a9c-9ed2-6b376b214427",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Haikyuu!! - Start Line of Love (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "en": "haikyuu dj - Start Line of Love"
+   }
+  ],
+  "description": {
+   "en": "When Atsumu notices the red string of fate attached to his pinkie leads to his twin, he is not happy."
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2021,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "c925deaf-5cc7-4f75-9516-4adaa673bd4a",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Boys' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5bd0e105-4481-44ca-b6e7-7544da56b1a3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Incest"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-06T14:46:29+00:00",
+  "updatedAt": "2024-11-06T14:48:28+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5cd5b72b-ce42-4753-a7a8-efc253dd060d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-06T14:47:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bani (Taihen Yoku ga Demashita)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-06T14:47:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5cd5b72b-ce42-4753-a7a8-efc253dd060d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-06T14:47:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bani (Taihen Yoku ga Demashita)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-06T14:47:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "df8709db-a210-44d1-b784-41db9d648a68",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-06T14:46:31+00:00",
+    "description": "",
+    "fileName": "d24d8d33-c961-46db-bc6e-26804edb2003.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-06T14:46:31+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "8f8b7cb0-7109-46e8-b12c-0448a6453dfa",
+   "type": "manga",
+   "related": "based_on"
+  },
+  {
+   "id": "7447db74-6648-49e6-85c5-ccee950216fb",
+   "type": "creator"
+  }
+ ]
+}

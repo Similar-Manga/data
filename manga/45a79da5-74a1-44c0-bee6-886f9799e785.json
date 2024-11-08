@@ -1,0 +1,197 @@
+{
+ "id": "45a79da5-74a1-44c0-bee6-886f9799e785",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "YOMA"
+  },
+  "altTitles": [
+   {
+    "en": "Curse of the Yoma"
+   }
+  ],
+  "description": {
+   "en": "After having been betrayed by his best friend, a rogue ninja named Hikage embarks on a journey to track him down and bring him back to the clan. Along this journey Hikage encounters many monsters and the true origin of his friend."
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "6",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 1986,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "489dd859-9b61-4c37-af75-5b18e88daafc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ninja"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-06T16:51:03+00:00",
+  "updatedAt": "2024-11-06T19:54:32+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7f6513dd-8ffe-4157-b83d-abcef66f836f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kusunoki Kei",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7f6513dd-8ffe-4157-b83d-abcef66f836f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kusunoki Kei",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "84f222d5-b249-4ca3-af23-4f8ac49a1abf",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-06T17:01:32+00:00",
+    "description": "",
+    "fileName": "0469dc5a-b8a9-4271-b998-08c54a4a9630.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-06T17:01:32+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "4f4b02d2-ccc8-4883-be02-d643e2c49e71",
+   "type": "creator"
+  }
+ ]
+}

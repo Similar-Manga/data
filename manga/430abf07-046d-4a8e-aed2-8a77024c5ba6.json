@@ -1,0 +1,143 @@
+{
+ "id": "430abf07-046d-4a8e-aed2-8a77024c5ba6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Skill \"Shokuju\" wo Tsukatte Tsuihou-saki de Nonbiri Kaitaku Hajimemasu"
+  },
+  "altTitles": [
+   {
+    "ja": "スキル『植樹』を使って追放先でのんびり開拓はじめます"
+   }
+  ],
+  "description": {
+   "ja": "生産系スキル『植樹』を授かったせいで、砂漠へと追放されてしまったウッディ。しかし、過酷な砂漠の中で彼の能力が覚醒――スキル『植樹』は伝説級の代物である『世界樹』を植えられたり、極上の果物が生る樹や四大元素の属性を持つ樹など、万物を創造するチート級の万能スキルだった！さらに、世界樹を目当てに神獣達も現れて……！？新たな領主として砂漠の先住民を助けたウッディは、自分と領民達の快適安全な居場所を作るためチートな力をフル活用し食糧や住居問題など次々と解決していく――"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DH4QVP4Z",
+   "bw": "series/487987",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/852791/",
+   "mu": "oi40mxr",
+   "raw": "https://comic-walker.com/detail/KC_005364_S"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-05T22:44:08+00:00",
+  "updatedAt": "2024-11-05T22:44:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7a47421d-bc46-4d8f-b4e8-25be85941c54",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-06-14T19:43:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shinkosei",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-06-14T19:43:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1da4aa31-dc28-4ace-92d0-3e9beab9892a",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 千嶌オワリ"
+    },
+    "booth": null,
+    "createdAt": "2023-04-09T13:01:11+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Chishima Owari",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/chishimaowari",
+    "updatedAt": "2024-07-12T02:05:34+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "999b6e5b-054d-4e7d-be01-4578503fb6dd",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T22:44:11+00:00",
+    "description": "",
+    "fileName": "2a28500c-00d4-472d-bbf6-1cbb97c464d8.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T22:44:11+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

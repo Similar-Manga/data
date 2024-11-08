@@ -7,19 +7,19 @@
   },
   "altTitles": [
    {
-    "en": "√W.P.B."
+    "ja": "√W.P.B."
    },
    {
-    "en": "Root WPB"
+    "ja-ro": "Root WPB"
    },
    {
-    "en": "ルート・ダブリュー・ピー・ビー"
+    "ja": "ルート・ダブリュー・ピー・ビー"
    },
    {
-    "en": "ルートＷ．Ｐ．Ｂ．"
+    "ja": "ルートＷ．Ｐ．Ｂ．"
    },
    {
-    "en": "斩妖桃太郎"
+    "zh": "斩妖桃太郎"
    }
   ],
   "description": {
@@ -27,8 +27,9 @@
   },
   "links": {
    "al": "30059",
-   "amz": "https://www.amazon.co.jp/dp/475750974X",
+   "amz": "https://www.amazon.co.jp/s?k=%E3%83%AB%E3%83%BC%E3%83%88W.P.B.",
    "ap": "wpb",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=W.P.B.",
    "kt": "153",
    "mal": "59",
    "mu": "8089"
@@ -112,16 +113,18 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2018-04-17T06:55:12+00:00",
-  "updatedAt": "2018-04-17T06:55:12+00:00"
+  "updatedAt": "2024-11-07T03:15:30+00:00"
  },
  "relationships": [
   {
    "id": "a1afcb8e-d059-4c49-b274-eaf42ea86f97",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n中村春菊"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -135,9 +138,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/marukawashoten",
+    "updatedAt": "2024-11-07T02:29:07+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -147,7 +150,9 @@
    "id": "a1afcb8e-d059-4c49-b274-eaf42ea86f97",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n中村春菊"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -161,25 +166,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/marukawashoten",
+    "updatedAt": "2024-11-07T02:29:07+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "85bb7e8d-ae4c-4fea-95de-b0ed52a4baaa",
+   "id": "71aac9b5-725a-41c9-8708-6e62f910b824",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:51:21+00:00",
+    "createdAt": "2024-11-07T03:15:29+00:00",
     "description": "",
-    "fileName": "bf17448f-0101-42ba-8d4c-cbbf31c461e5.jpg",
+    "fileName": "c8c5b71e-ef2b-41ff-80b4-e0a6cc6fdeec.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:51:21+00:00",
+    "updatedAt": "2024-11-07T03:15:29+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

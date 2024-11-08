@@ -10,20 +10,27 @@
     "ja": "奇怪な泣き声が鳴り響くアパートの話"
    },
    {
-    "ja-ro": "Kikaina na Kigoe ga Narihibiku Apaato no Hanashi"
+    "ja-ro": "Kikai na Nakigoe ga Narihibiku Apart no Hanashi"
    },
    {
-    "en": "The Apartment Where Strange Wails Echo"
+    "ja-ro": "Kikai na Nakigoe ga Narihibiku Apaato no Hanashi"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "**Alternative Official Raw:** [Pixiv](https://www.pixiv.net/artworks/123940307)"
+  },
   "links": {
-   "raw": "https://www.pixiv.net/en/artworks/123940307"
+   "raw": "https://twitter.com/ihsuta3/status/1847973015725678669"
   },
   "originalLanguage": "ja",
   "status": "completed",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "ru",
+   "en"
+  ],
+  "latestUploadedChapter": "5f7aa310-a9a6-4898-be26-19cb3db69906",
   "tags": [
    {
     "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
@@ -87,19 +94,21 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2024-11-05T15:56:59+00:00",
-  "updatedAt": "2024-11-05T16:04:50+00:00"
+  "updatedAt": "2024-11-06T16:13:07+00:00"
  },
  "relationships": [
   {
    "id": "52c6b4b4-11e5-41e0-99b2-aca934b4c0b0",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 森本淳士"
+    },
     "booth": null,
     "createdAt": "2022-04-08T19:03:07+00:00",
-    "fanBox": null,
+    "fanBox": "https://morimoto33445.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -107,12 +116,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/users/109593977",
+    "skeb": "https://skeb.jp/@ihsuta3",
     "tumblr": null,
     "twitter": "https://twitter.com/ihsuta3",
-    "updatedAt": "2023-08-27T14:16:28+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-06T01:41:54+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -122,10 +131,12 @@
    "id": "52c6b4b4-11e5-41e0-99b2-aca934b4c0b0",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 森本淳士"
+    },
     "booth": null,
     "createdAt": "2022-04-08T19:03:07+00:00",
-    "fanBox": null,
+    "fanBox": "https://morimoto33445.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -133,12 +144,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/users/109593977",
+    "skeb": "https://skeb.jp/@ihsuta3",
     "tumblr": null,
     "twitter": "https://twitter.com/ihsuta3",
-    "updatedAt": "2023-08-27T14:16:28+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-06T01:41:54+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -152,9 +163,9 @@
     "description": "",
     "fileName": "c20e8ffe-bc17-4e9a-abdc-7a9ead1cbdf1.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-05T15:57:04+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-11-06T01:37:04+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

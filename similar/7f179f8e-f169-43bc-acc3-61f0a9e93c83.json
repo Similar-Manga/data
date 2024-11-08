@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "34c295b5-4290-4a89-831b-ee65739ac190",
-   "title": {
-    "en": "Dawn Combat Squad"
-   },
-   "contentRating": "safe",
-   "score": 0.24093546
-  },
-  {
    "id": "a1de21f0-3007-4cde-b45a-d71462b70e8e",
    "title": {
     "en": "Napoleon - Age of the Lion"
@@ -25,12 +17,20 @@
    ]
   },
   {
+   "id": "34c295b5-4290-4a89-831b-ee65739ac190",
+   "title": {
+    "en": "Dawn Combat Squad"
+   },
+   "contentRating": "safe",
+   "score": 0.24093546
+  },
+  {
    "id": "b6b72c71-4a73-4ec5-abae-ab6e366b6246",
    "title": {
     "en": "Cat Shit One' 80"
    },
    "contentRating": "safe",
-   "score": 0.2239857,
+   "score": 0.22393304,
    "languages": [
     "en"
    ]
@@ -44,6 +44,14 @@
    "score": 0.21904762
   },
   {
+   "id": "35900068-36db-4821-9e37-ab83d60aa8e7",
+   "title": {
+    "en": "Shirahata no Shoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.2154992
+  },
+  {
    "id": "398a26c5-04fa-4076-b921-0b0fb44edb10",
    "title": {
     "en": "Gunka no Baltzar"
@@ -55,14 +63,6 @@
     "pt-br",
     "id"
    ]
-  },
-  {
-   "id": "35900068-36db-4821-9e37-ab83d60aa8e7",
-   "title": {
-    "en": "Shirahata no Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.2154992
   },
   {
    "id": "4d131cb8-0fa2-4425-9fdd-f1a6da1b6666",
@@ -86,10 +86,23 @@
     "en": "341 Sentoudan"
    },
    "contentRating": "safe",
-   "score": 0.20653953,
+   "score": 0.20654161,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "b4522a8d-e68b-426b-adfa-389758c63aea",
+   "title": {
+    "en": "EGO ERIS - The Swordman's blood"
+   },
+   "contentRating": "safe",
+   "score": 0.19672297,
+   "languages": [
+    "ru",
+    "fr",
+    "en"
    ]
   },
   {
@@ -112,19 +125,6 @@
    "score": 0.19672297
   },
   {
-   "id": "b4522a8d-e68b-426b-adfa-389758c63aea",
-   "title": {
-    "en": "EGO ERIS - The Swordman's blood"
-   },
-   "contentRating": "safe",
-   "score": 0.19672297,
-   "languages": [
-    "ru",
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "330e83e2-8b6f-4799-b842-c571c2cc0ffb",
    "title": {
     "en": "Stalingrad no Kyouzoku"
@@ -144,17 +144,6 @@
    ]
   },
   {
-   "id": "f09b5261-73a4-44a8-929a-2c4ab61b42f2",
-   "title": {
-    "en": "Heroes of the Fujian Sea"
-   },
-   "contentRating": "safe",
-   "score": 0.19529615,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "268fceff-240a-479c-a956-73f396401bc9",
    "title": {
     "en": "Raja"
@@ -164,7 +153,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
+   "title": {
+    "en": "Groundless"
+   },
+   "contentRating": "safe",
+   "score": 0.19057538,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T21:48:51+00:00"
+ "updatedAt": "2024-11-07T20:59:40+00:00"
 }

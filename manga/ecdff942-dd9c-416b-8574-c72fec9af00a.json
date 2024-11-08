@@ -7,10 +7,7 @@
   },
   "altTitles": [
    {
-    "ja": "Sugar Dark"
-   },
-   {
-    "zh": "Sugar Dark 被埋葬的黑暗"
+    "ja": "シュガーダーク 埋められた闇と少女"
    },
    {
     "en": "Sugar Dark: The Buried Darkness and the Girl"
@@ -22,20 +19,18 @@
     "en": "Sugar Dark: The Girl Filled with Darkness"
    },
    {
-    "ja-ro": "Sugar Dark: Umera"
-   },
-   {
     "ru": "Сладкая тьма: Девушка в погребальном мраке"
    },
    {
-    "ja": "シュガーダーク 埋められた闇と少女"
+    "zh": "Sugar Dark 被埋葬的黑暗"
    }
   ],
   "description": {
-   "en": "In an era filled with war, Private Muol Reed is sentenced to death for murdering his superior and is labeled \"Criminal No. 5722\". While being led to his grave, a mysterious person decides to take him in…"
+   "en": "In an era filled with war, Private Muol Reed is sentenced to death for murdering his superior and is labeled “Criminal No. 5722”. While being led to his grave, a mysterious person decides to take him in…\n___\n**Character Designer:** [mebae](https://mangadex.org/author/4a41ace8-21a3-4ace-bc47-08755774a46e)"
   },
   "links": {
    "al": "54879",
+   "amz": "https://www.amazon.co.jp/s?i=stripbooks\u0026rh=p_28%3A%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%80%E3%83%BC%E3%82%AF%E3%80%80%E5%9F%8B%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E9%97%87%E3%81%A8%E5%B0%91%E5%A5%B3+%28%E3%82%AB%E3%83%89%E3%82%AB%E3%83%AF%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%A1%E3%82%A8%E3%83%BC%E3%82%B9%29\u0026s=date-desc-rank",
    "ap": "sugar-dark-umerareta-yami-to-shoujo",
    "kt": "17576",
    "mal": "24879",
@@ -142,16 +137,18 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2018-01-28T04:50:41+00:00",
-  "updatedAt": "2023-12-15T20:48:44+00:00"
+  "updatedAt": "2024-11-06T08:04:01+00:00"
  },
  "relationships": [
   {
    "id": "fb831999-2435-4963-9ba5-dea1111b1b97",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 新井円侍"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -165,38 +162,10 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "4a41ace8-21a3-4ace-bc47-08755774a46e",
-   "type": "artist",
-   "attributes": {
-    "biography": {
-     "en": "**Name** (in native language)\nめばえ\n**Associated Names**\nHIROSHIMA Yuusuke\nHIROSHIMA Yūsuke\nМэбаэ\n広島祐介"
-    },
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Mebae",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/users/43614",
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/mebaeros",
-    "updatedAt": "2023-12-07T06:09:52+00:00",
-    "version": 4,
-    "website": null,
+    "twitter": "https://twitter.com/araienji",
+    "updatedAt": "2024-11-06T07:52:26+00:00",
+    "version": 2,
+    "website": "http://www.araiengine.com/",
     "weibo": null,
     "youtube": null
    }
@@ -206,7 +175,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\nOoiwa Kenzi\nOoiwa Kendi\nOiwa Kenji\nOiwa Kenzi\nOiwa Kendi\n大岩ケンヂ"
+     "en": "**Name In Native Language:** 大岩ケンヂ\n\n**Other Romanizations:**\nOoiwa Kenzi\nOoiwa Kendi"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -222,8 +191,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/kenzi_big_rock",
-    "updatedAt": "2023-09-05T18:21:39+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-06T07:54:37+00:00",
+    "version": 3,
     "website": "http://kenzi-big-rock.com/",
     "weibo": null,
     "youtube": null

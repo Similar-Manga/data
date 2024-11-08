@@ -1,0 +1,144 @@
+{
+ "id": "e4d703e0-91aa-4038-8fcd-a0f432410add",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ragnarök Bizarre Adventure"
+  },
+  "altTitles": [
+   {
+    "fr": "RBA"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "fr",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-06T17:07:53+00:00",
+  "updatedAt": "2024-11-06T19:54:36+00:00"
+ },
+ "relationships": [
+  {
+   "id": "863df69c-d63d-4522-a7a7-1976b339284a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-06T17:14:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Greg RBA",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-06T17:14:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "863df69c-d63d-4522-a7a7-1976b339284a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-06T17:14:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Greg RBA",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-06T17:14:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "98c2302f-0678-48b4-af6b-7523fdb29798",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-06T17:07:55+00:00",
+    "description": "",
+    "fileName": "12490a9f-072d-408c-923c-ce9b241828f0.jpg",
+    "locale": "fr",
+    "updatedAt": "2024-11-06T17:07:55+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "db9af9e6-bd28-4c70-a685-eb307b224908",
+   "type": "creator"
+  }
+ ]
+}

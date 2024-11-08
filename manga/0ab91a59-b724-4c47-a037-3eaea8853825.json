@@ -8,6 +8,9 @@
   "altTitles": [
    {
     "ja": "少年探偵Q"
+   },
+   {
+    "en": "Boy Detective Q"
    }
   ],
   "description": {
@@ -94,16 +97,18 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2024-11-05T00:38:49+00:00",
-  "updatedAt": "2024-11-05T01:07:47+00:00"
+  "updatedAt": "2024-11-06T06:01:24+00:00"
  },
  "relationships": [
   {
    "id": "914b2765-1275-4163-afa2-0350c149759f",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 円陣"
+    },
     "booth": null,
     "createdAt": "2024-11-05T00:55:05+00:00",
     "fanBox": null,
@@ -118,8 +123,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-05T00:55:05+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-06T05:59:05+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -129,7 +134,9 @@
    "id": "f810394f-2c3f-4b0d-962b-d596d68389d1",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** しんがぎん"
+    },
     "booth": null,
     "createdAt": "2024-11-05T00:55:54+00:00",
     "fanBox": null,
@@ -144,24 +151,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-05T00:55:54+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-06T06:01:44+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "56857350-1dcf-4d91-a5dc-2e824b2785b3",
+   "id": "decbbd5f-8841-4211-adde-d84c8ea3ae50",
    "type": "cover_art",
    "attributes": {
     "createdAt": "2024-11-05T00:38:57+00:00",
     "description": "Format: Shinshoban\nImprint: Jump Comics\nPublisher: Shueisha\nYear: 1998",
-    "fileName": "c685e55a-b073-4876-b847-bb7bdae4da6a.png",
+    "fileName": "eeb80ecd-db76-444f-a63e-8f1df92eab1a.png",
     "locale": "ja",
     "updatedAt": "2024-11-05T00:53:29+00:00",
     "version": 2,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

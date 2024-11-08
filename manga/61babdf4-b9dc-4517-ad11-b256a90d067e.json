@@ -90,16 +90,18 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2018-01-29T09:20:23+00:00",
-  "updatedAt": "2023-02-01T17:30:18+00:00"
+  "updatedAt": "2024-11-07T02:33:19+00:00"
  },
  "relationships": [
   {
    "id": "a1afcb8e-d059-4c49-b274-eaf42ea86f97",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n中村春菊"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -113,9 +115,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/marukawashoten",
+    "updatedAt": "2024-11-07T02:29:07+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -125,7 +127,9 @@
    "id": "a1afcb8e-d059-4c49-b274-eaf42ea86f97",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n中村春菊"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -139,25 +143,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/marukawashoten",
+    "updatedAt": "2024-11-07T02:29:07+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "65caf54b-967a-4f1f-b6fa-a89546d8f94d",
+   "id": "16ecc262-7f50-4729-a3a4-afa2a665eab8",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-23T07:45:26+00:00",
+    "createdAt": "2024-11-07T02:33:18+00:00",
     "description": "",
-    "fileName": "3f304be7-9548-480f-a0b8-775906a75ee0.jpg",
+    "fileName": "991b4484-571c-47e9-8a2c-5d6bb92897f9.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-23T07:45:26+00:00",
-    "version": 2,
-    "volume": "16"
+    "updatedAt": "2024-11-07T02:33:18+00:00",
+    "version": 1,
+    "volume": "19"
    }
   },
   {

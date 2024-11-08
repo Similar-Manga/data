@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "be3ef204-9f9f-4847-a951-30c9bb84dce2",
-   "title": {
-    "en": "Kaiun Coliseum"
-   },
-   "contentRating": "safe",
-   "score": 0.22167556,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "0dabaa3c-d638-4500-8e9a-e706f0c2c793",
    "title": {
     "en": "Yokai Buster Murakami"
@@ -26,6 +15,17 @@
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "be3ef204-9f9f-4847-a951-30c9bb84dce2",
+   "title": {
+    "en": "Kaiun Coliseum"
+   },
+   "contentRating": "safe",
+   "score": 0.22167556,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -60,30 +60,6 @@
    ]
   },
   {
-   "id": "500ac84c-959c-4d6d-bea4-1ebcee2aea67",
-   "title": {
-    "en": "Yo-kai Watch"
-   },
-   "contentRating": "safe",
-   "score": 0.20181322,
-   "languages": [
-    "en",
-    "es",
-    "ar"
-   ]
-  },
-  {
-   "id": "3edf4a22-aea3-43d7-bcfc-3b8b3410172e",
-   "title": {
-    "en": "Karekore the Half-Blood"
-   },
-   "contentRating": "safe",
-   "score": 0.19827265,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "f25669f5-d886-49c5-bbac-d3b4c5ff3d02",
    "title": {
     "en": "Exorcist no Kiyoshi-kun"
@@ -98,12 +74,15 @@
    ]
   },
   {
-   "id": "f0c6398a-98d9-49c6-aa56-9325b2cd8e02",
+   "id": "3edf4a22-aea3-43d7-bcfc-3b8b3410172e",
    "title": {
-    "en": "Operation of Great Mysteries [Kuwata Version] + School Master"
+    "en": "Karekore the Half-Blood"
    },
    "contentRating": "safe",
-   "score": 0.19498213
+   "score": 0.19827265,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "59f00952-2667-4679-aac2-82a38dacf4d1",
@@ -111,8 +90,20 @@
     "en": "Urban Legend Professor Uramon"
    },
    "contentRating": "safe",
-   "score": 0.19469722,
+   "score": 0.19469832,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "66fdcdd7-5a0e-4f55-8fd1-da732aa194e2",
+   "title": {
+    "en": "Watashi wo Center ni suru to Chikaimasu ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.19270816,
+   "languages": [
+    "id",
     "en"
    ]
   },
@@ -136,35 +127,20 @@
    ]
   },
   {
-   "id": "66fdcdd7-5a0e-4f55-8fd1-da732aa194e2",
-   "title": {
-    "en": "Watashi wo Center ni suru to Chikaimasu ka?"
-   },
-   "contentRating": "safe",
-   "score": 0.19269201,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "805bacac-f47e-4b0f-a28c-da086c7f66fb",
-   "title": {
-    "en": "2 x Bone"
-   },
-   "contentRating": "safe",
-   "score": 0.19255112,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2ec14035-a00a-4236-8f5e-9155be4fb0cf",
    "title": {
     "en": "Hono Mieru Shonen: Yoi no Kodoku"
    },
    "contentRating": "safe",
-   "score": 0.19234347
+   "score": 0.19234467
+  },
+  {
+   "id": "f0c6398a-98d9-49c6-aa56-9325b2cd8e02",
+   "title": {
+    "en": "Operation of Great Mysteries [Kuwata Version] + School Master"
+   },
+   "contentRating": "safe",
+   "score": 0.19087026
   },
   {
    "id": "c1f4ca03-800d-43f2-b9dd-4b6aee5abb7d",
@@ -172,8 +148,28 @@
     "en": "Gears - Shotaro Ishinomori Premium Collection"
    },
    "contentRating": "safe",
-   "score": 0.18898019
+   "score": 0.18898311
+  },
+  {
+   "id": "0b3c413a-fce9-45bd-bbef-e94952cc2a28",
+   "title": {
+    "en": "Yo-kai Watch the Movie: The Great Adventure of the Flying Whale \u0026 the Double World, Nyan!"
+   },
+   "contentRating": "safe",
+   "score": 0.18735005
+  },
+  {
+   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
+   "title": {
+    "en": "Tiger \u0026 Bunny"
+   },
+   "contentRating": "safe",
+   "score": 0.18417938,
+   "languages": [
+    "ru",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T21:41:38+00:00"
+ "updatedAt": "2024-11-07T20:54:01+00:00"
 }

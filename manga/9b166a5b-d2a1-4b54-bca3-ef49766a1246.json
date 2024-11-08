@@ -20,10 +20,14 @@
    },
    {
     "ru": "Я собираюсь стать собой"
+   },
+   {
+    "fr": "Devenir enfin moi-même (Glénat)"
    }
   ],
   "description": {
    "en": "An autobiographical manga that tells the story of the author's trip to Thailand in order to undergo sex reassignment surgery, describing the process of transitioning from male to female. But the path to womanhood is a lot more painful than imagined…",
+   "fr": "Être réellement la personne que l'on sait être.\n\nYuna Hirasawa s'est rendue en Thaïlande pour subir une chirurgie de réassignation sexuelle. Cependant, ce processus s'est révélé bien plus éprouvant qu'elle l'avait imaginé… Cet essai autobiographique retrace le parcours de l'autrice, qui souffrait d'un TIG (trouble de l'identité de genre), pour, enfin, être en adéquation avec elle-même. Entre son accueil à l'hôpital par les médecins, ses douleurs et les mauvaises surprises, elle raconte son expérience personnelle dans les moindres détails.",
    "ru": "Автобиографическая история о путешествии в Таиланд, где автор перенесла хирургическую коррекцию пола. В этой манге вы увидите тернистый и болезненный путь в становлении из мужчины в женщину..."
   },
   "links": {
@@ -60,6 +64,30 @@
     }
    },
    {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "c8cbe35b-1b2b-4a3f-9c37-db84c4514856",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Medical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -73,9 +101,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2019-11-02T03:52:27+00:00",
-  "updatedAt": "2022-04-07T14:49:19+00:00"
+  "updatedAt": "2024-11-05T22:48:22+00:00"
  },
  "relationships": [
   {

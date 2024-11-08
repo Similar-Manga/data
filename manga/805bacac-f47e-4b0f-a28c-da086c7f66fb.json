@@ -3,35 +3,43 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "2 x Bone"
+   "en": "2 × BONE"
   },
   "altTitles": [
+   {
+    "ja": "２×ＢＯＮＥ"
+   },
+   {
+    "ja": "トゥーボーン"
+   },
    {
     "en": "2×BONE"
    },
    {
-    "en": "Two Bone"
+    "en": "2 x Bone"
    },
    {
-    "ja": "トゥーボーン"
+    "en": "Two Bone"
    }
   ],
   "description": {
-   "en": "Natural selection has created a deadly new species known as \"Eclipse,\" who are driven to eliminate humanity. A scientist called Kurusu Kenji headed an organization whose purpose was to fight these deadly creatures of bone. To this end, he created the \"Osteon,\" Eclipse-like creatures that obey the commands of the human from whose DNA they are created. Now Kenji is gone, and his assistant Kidogawa Rokuko is attempting to recruit his estranged teenage son. Kurusu Akira wanted nothing to do with the father that he believed abandoned him, but attacks from Eclipse force him to accept his own Osteon from Rokuko. He slowly finds himself drawn into the organization, whose members expect him to take his father's place. Akira and his Osteon may have little interest in protecting humanity, but they are determined not to be beaten! [tethysdust]"
+   "en": "Natural selection has created a deadly new species known as “Eclipse”, who are driven to eliminate humanity. A scientist called Kurusu Kenji headed an organization whose purpose was to fight these deadly creatures of bone. To this end, he created “Osteons”, Eclipse-like creatures that obey the commands of the human from whose DNA they are created. Now Kenji is gone, and his assistant Kidogawa Rokuko is attempting to recruit his estranged teenage son. Kurusu Akira wanted nothing to do with the father that he believed abandoned him, but attacks from Eclipse force him to accept his own Osteon from Rokuko. He slowly finds himself drawn into the organization, whose members expect him to take his father's place. Akira and his Osteon may have little interest in protecting humanity, but they are determined not to be beaten!"
   },
   "links": {
    "al": "80543",
-   "amz": "https://www.amazon.co.jp/-/en/%E6%B8%85%E6%B0%B4-%E5%B9%B8%E8%A9%A9%E9%83%8E/dp/4063764044/",
+   "amz": "https://www.amazon.co.jp/s?i=stripbooks\u0026rh=p_28%3A2%C3%97BONE+%28%E3%82%B7%E3%83%AA%E3%82%A6%E3%82%B9%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%29\u0026s=date-desc-rank",
    "ap": "2xbone",
-   "bw": "series/61718/list",
+   "bw": "series/61718",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1486320",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/348762/",
    "kt": "8203",
    "mal": "50543",
-   "mu": "85448"
+   "mu": "85448",
+   "raw": "https://kc.kodansha.co.jp/title?code=1000006291"
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
+  "lastChapter": "17",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2012,
@@ -79,32 +87,34 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2018-07-15T11:43:46+00:00",
-  "updatedAt": "2023-07-01T10:33:34+00:00"
+  "updatedAt": "2024-11-05T17:24:31+00:00"
  },
  "relationships": [
   {
    "id": "fb973a0a-cccf-4699-9db8-ed1c97eb9935",
    "type": "author",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Name In Native Language:** 清水幸詩郎\n\n**Additional Socials:**\n- [Instagram](https://www.instagram.com/koushirou011/)"
+    },
+    "booth": "https://mayonakapurin.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://smzk013.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Shimizu Koushiro",
+    "name": "Shimizu Koushirou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/65611948",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/smzk013",
+    "updatedAt": "2024-11-05T17:16:44+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -114,38 +124,40 @@
    "id": "fb973a0a-cccf-4699-9db8-ed1c97eb9935",
    "type": "artist",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Name In Native Language:** 清水幸詩郎\n\n**Additional Socials:**\n- [Instagram](https://www.instagram.com/koushirou011/)"
+    },
+    "booth": "https://mayonakapurin.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://smzk013.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Shimizu Koushiro",
+    "name": "Shimizu Koushirou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/65611948",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/smzk013",
+    "updatedAt": "2024-11-05T17:16:44+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "fd9a6846-a458-4f7a-8dff-9ab93bd544f0",
+   "id": "abeec205-6108-4719-aea3-bf1d6ec103b9",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-23T08:11:13+00:00",
+    "createdAt": "2024-11-05T17:21:39+00:00",
     "description": "",
-    "fileName": "2197b940-4869-44ba-97a5-ba2a51ea5fe4.png",
+    "fileName": "8c860e32-a885-43cc-88a0-d0a0d9f296a7.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-23T08:11:13+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-05T17:21:39+00:00",
+    "version": 1,
     "volume": "3"
    }
   }

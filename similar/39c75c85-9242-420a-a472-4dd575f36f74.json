@@ -14,13 +14,14 @@
    "score": 0.2851258
   },
   {
-   "id": "27fe5a83-23ce-4a6e-8c88-8e3c10799402",
+   "id": "850a7a99-7da4-4f61-ba94-6d881ccae9cf",
    "title": {
-    "en": "Tsumi to Bachi"
+    "en": "Today's Little Girl"
    },
    "contentRating": "safe",
-   "score": 0.2724499,
+   "score": 0.25970003,
    "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -30,10 +31,21 @@
     "en": "Ko Mori Uta"
    },
    "contentRating": "safe",
-   "score": 0.25967422,
+   "score": 0.25968122,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "27fe5a83-23ce-4a6e-8c88-8e3c10799402",
+   "title": {
+    "en": "Tsumi to Bachi"
+   },
+   "contentRating": "safe",
+   "score": 0.2570208,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -42,7 +54,7 @@
     "en": "Kita Kamakura no Mameda Nuki - Urenai Sakka to Ayakashi Shiki Gohan"
    },
    "contentRating": "safe",
-   "score": 0.25431556
+   "score": 0.2543115
   },
   {
    "id": "c6ba9e84-b2b1-4c49-be9d-26036cd38119",
@@ -50,7 +62,7 @@
     "en": "Sazanamimachi to, Hazama no Ko"
    },
    "contentRating": "safe",
-   "score": 0.24755596,
+   "score": 0.24755408,
    "languages": [
     "en",
     "ru"
@@ -62,7 +74,7 @@
     "en": "A Land Mine Vampire's Overbearing Love (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.24203603,
+   "score": 0.24204068,
    "languages": [
     "en"
    ]
@@ -73,67 +85,23 @@
     "en": "Hello Vry"
    },
    "contentRating": "safe",
-   "score": 0.23950435
+   "score": 0.23950586
   },
   {
-   "id": "a47dc6d9-f302-48fc-a82a-eefbfde9f895",
+   "id": "31248326-0448-49ef-824d-413c17d7d285",
    "title": {
-    "en": "My Beloved Wife's Diary"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525
-  },
-  {
-   "id": "a9c7d3c6-6acb-4454-b89d-ea9ac5ccc4fc",
-   "title": {
-    "en": "Yougo Kyouyu no Kyuujitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525
-  },
-  {
-   "id": "07507bdb-182b-4a54-b38c-ea70a82fafab",
-   "title": {
-    "en": "Houkago, Nikoichi Kurashi"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525
-  },
-  {
-   "id": "1745e525-7d06-4ed5-b6a5-11c350976049",
-   "title": {
-    "en": "Tsukikage Cafe"
+    "en": "Obviously I'm In Love"
    },
    "contentRating": "safe",
    "score": 0.23809525,
    "languages": [
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
-   "id": "75461b0a-2a59-4388-91e4-76013d8827ad",
+   "id": "17b82fd9-aed1-4350-ace9-ebd16de204da",
    "title": {
-    "en": "Daru-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
-   "id": "e60993f7-b586-479c-a5b5-86b0e55ce195",
-   "title": {
-    "en": "Kanotokoto - Musashi Hanamachi Kaiwatan"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525
-  },
-  {
-   "id": "613b119a-1e77-4d01-a507-1d60474c2fd1",
-   "title": {
-    "en": "All Aboard"
+    "en": "Hotel Laurel no Wataridoritachi"
    },
    "contentRating": "safe",
    "score": 0.23809525
@@ -147,13 +115,48 @@
    "score": 0.23809525
   },
   {
-   "id": "2154b2af-923d-4b4f-9000-c5efd5eaf9fe",
+   "id": "613b119a-1e77-4d01-a507-1d60474c2fd1",
    "title": {
-    "en": "Kamakura BAKEneko Club"
+    "en": "All Aboard"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525
+  },
+  {
+   "id": "75461b0a-2a59-4388-91e4-76013d8827ad",
+   "title": {
+    "en": "Daru-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
+   "id": "a47dc6d9-f302-48fc-a82a-eefbfde9f895",
+   "title": {
+    "en": "My Beloved Wife's Diary"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525
+  },
+  {
+   "id": "07507bdb-182b-4a54-b38c-ea70a82fafab",
+   "title": {
+    "en": "Houkago, Nikoichi Kurashi"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525
+  },
+  {
+   "id": "1b153c46-69b4-44b1-a968-bd4267979439",
+   "title": {
+    "en": "Koi no Mikoto"
    },
    "contentRating": "safe",
    "score": 0.23809525
   }
  ],
- "updatedAt": "2024-11-05T21:18:40+00:00"
+ "updatedAt": "2024-11-07T20:36:17+00:00"
 }

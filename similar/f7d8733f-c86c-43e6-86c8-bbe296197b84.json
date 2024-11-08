@@ -6,20 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "9c04e4fb-20c8-4063-a3ad-b2c9f7064389",
-   "title": {
-    "en": "Dash Boy! Ten"
-   },
-   "contentRating": "safe",
-   "score": 0.52992004
-  },
-  {
    "id": "8e44dffc-d1b3-4111-a06f-c5d618d0c0c5",
    "title": {
     "en": "Mini 4wd Racer Kakeru"
    },
    "contentRating": "safe",
-   "score": 0.35940945
+   "score": 0.35940927
+  },
+  {
+   "id": "9c04e4fb-20c8-4063-a3ad-b2c9f7064389",
+   "title": {
+    "en": "Dash Boy! Ten"
+   },
+   "contentRating": "safe",
+   "score": 0.28405917
   },
   {
    "id": "e1c18abf-c0c9-485f-a1a3-9cff6cbec6b0",
@@ -43,11 +43,19 @@
     "en": "Yowamushi Pedal - Spare Bike"
    },
    "contentRating": "safe",
-   "score": 0.24780273,
+   "score": 0.2477975,
    "languages": [
     "en",
     "fr"
    ]
+  },
+  {
+   "id": "2a4bfc28-7bf4-4eb7-bbab-55db7da3222c",
+   "title": {
+    "en": "Ultimate Oasobi"
+   },
+   "contentRating": "safe",
+   "score": 0.23031825
   },
   {
    "id": "9d2bccba-33b3-4c95-a4bf-8cdea584a32a",
@@ -64,22 +72,6 @@
    ]
   },
   {
-   "id": "2a4bfc28-7bf4-4eb7-bbab-55db7da3222c",
-   "title": {
-    "en": "Ultimate Oasobi"
-   },
-   "contentRating": "safe",
-   "score": 0.23031825
-  },
-  {
-   "id": "356f86ab-f481-4ddf-ae9a-fbbcceb739f8",
-   "title": {
-    "en": "Wonderful Bandits"
-   },
-   "contentRating": "safe",
-   "score": 0.22796033
-  },
-  {
    "id": "34f94304-2393-4704-a1b2-815a2e2601c4",
    "title": {
     "en": "Great Shot"
@@ -88,15 +80,12 @@
    "score": 0.22796033
   },
   {
-   "id": "d37e89cd-b959-440b-b617-0a27873a0557",
+   "id": "356f86ab-f481-4ddf-ae9a-fbbcceb739f8",
    "title": {
-    "en": "The God Before Me"
+    "en": "Wonderful Bandits"
    },
    "contentRating": "safe",
-   "score": 0.22796033,
-   "languages": [
-    "en"
-   ]
+   "score": 0.22796033
   },
   {
    "id": "4ea2c4a6-2679-4595-97c9-7f9098a343e5",
@@ -131,12 +120,23 @@
    "score": 0.22796033
   },
   {
+   "id": "d37e89cd-b959-440b-b617-0a27873a0557",
+   "title": {
+    "en": "The God Before Me"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "25657e34-f4dd-40e8-a505-8c369ef0095d",
    "title": {
     "en": "Dorahachi"
    },
    "contentRating": "safe",
-   "score": 0.22693132,
+   "score": 0.22693403,
    "languages": [
     "en"
    ]
@@ -147,8 +147,8 @@
     "en": "Astro Kyūdan"
    },
    "contentRating": "safe",
-   "score": 0.2154766
+   "score": 0.21547928
   }
  ],
- "updatedAt": "2024-11-05T22:44:36+00:00"
+ "updatedAt": "2024-11-07T21:41:02+00:00"
 }

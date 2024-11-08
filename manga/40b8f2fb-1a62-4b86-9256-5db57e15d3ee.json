@@ -10,16 +10,67 @@
     "ja": "怪奇・猫毛のアン"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Serialized in \"The Horror\""
+  },
   "links": {
    "raw": "https://www.sukima.me/book/title/BT0000563714/"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
   "lastChapter": "14",
+  "publicationDemographic": "shoujo",
   "status": "completed",
-  "contentRating": "erotica",
+  "contentRating": "suggestive",
   "tags": [
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
@@ -31,12 +82,36 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2022-03-01T02:37:14+00:00",
-  "updatedAt": "2022-03-01T18:00:31+00:00"
+  "updatedAt": "2024-11-06T20:07:28+00:00"
  },
  "relationships": [
   {

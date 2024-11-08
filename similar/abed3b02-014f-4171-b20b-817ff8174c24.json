@@ -11,21 +11,31 @@
     "en": "My Beloved Ghost"
    },
    "contentRating": "safe",
-   "score": 0.31161976,
+   "score": 0.3116562,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e9d6f121-bf23-4c97-bd4e-74ec05dfa0a8",
+   "id": "02541091-9e86-4dee-ba4a-765be5c9671d",
    "title": {
-    "en": "Memory Lost"
+    "en": "Reluctant To Go"
    },
    "contentRating": "safe",
-   "score": 0.21597971,
+   "score": 0.21295886,
    "languages": [
-    "fr",
     "en"
+   ]
+  },
+  {
+   "id": "6b9ba2cd-b867-4b3a-b905-ceffbd845c85",
+   "title": {
+    "en": "Fall for You"
+   },
+   "contentRating": "safe",
+   "score": 0.21295886,
+   "languages": [
+    "tr"
    ]
   },
   {
@@ -43,14 +53,15 @@
    ]
   },
   {
-   "id": "6b9ba2cd-b867-4b3a-b905-ceffbd845c85",
+   "id": "c8cd3c5e-cc1a-4109-9b0f-c27881b5b7ec",
    "title": {
-    "en": "Fall for You"
+    "en": "Golden Time"
    },
    "contentRating": "safe",
-   "score": 0.21295886,
+   "score": 0.20203052,
    "languages": [
-    "tr"
+    "en",
+    "es"
    ]
   },
   {
@@ -62,18 +73,6 @@
    "score": 0.20203052,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "c8cd3c5e-cc1a-4109-9b0f-c27881b5b7ec",
-   "title": {
-    "en": "Golden Time"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "es"
    ]
   },
   {
@@ -93,7 +92,7 @@
     "en": "Ghost Speaker"
    },
    "contentRating": "safe",
-   "score": 0.19957411,
+   "score": 0.19958556,
    "languages": [
     "en"
    ]
@@ -104,54 +103,7 @@
     "en": "Haeran, the Chemical Engineer"
    },
    "contentRating": "safe",
-   "score": 0.19779687,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "61566310-b625-49cd-bdc9-b52b737125e1",
-   "title": {
-    "en": "An Exorbitant Wife"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "34d8a0e8-6811-459d-87a1-2d3e81ad18fb",
-   "title": {
-    "en": "Serena"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en",
-    "es-la",
-    "ar"
-   ]
-  },
-  {
-   "id": "733554c4-2b86-4923-bb4a-ccdd1dae7654",
-   "title": {
-    "en": "Your Neighbor's Preference"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a803e5b7-da53-4f04-99f6-043b3e511308",
-   "title": {
-    "en": "Boss's Blatant Taste"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
+   "score": 0.19779746,
    "languages": [
     "en"
    ]
@@ -160,6 +112,17 @@
    "id": "5c591e16-75a7-4f4f-b899-514c1e688f2f",
    "title": {
     "en": "Another's Love Story"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b5e63a2f-f4bc-4c3d-8b25-7b137385abb3",
+   "title": {
+    "en": "Reborn to Be a Movie Queen"
    },
    "contentRating": "safe",
    "score": 0.19440396,
@@ -180,16 +143,52 @@
    ]
   },
   {
-   "id": "b5e63a2f-f4bc-4c3d-8b25-7b137385abb3",
+   "id": "a803e5b7-da53-4f04-99f6-043b3e511308",
    "title": {
-    "en": "Reborn to Be a Movie Queen"
+    "en": "Boss's Blatant Taste"
    },
    "contentRating": "safe",
    "score": 0.19440396,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "34d8a0e8-6811-459d-87a1-2d3e81ad18fb",
+   "title": {
+    "en": "Serena"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
+    "en",
+    "es-la",
+    "ar"
+   ]
+  },
+  {
+   "id": "61566310-b625-49cd-bdc9-b52b737125e1",
+   "title": {
+    "en": "An Exorbitant Wife"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "733554c4-2b86-4923-bb4a-ccdd1dae7654",
+   "title": {
+    "en": "Your Neighbor's Preference"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T22:08:57+00:00"
+ "updatedAt": "2024-11-07T21:15:10+00:00"
 }

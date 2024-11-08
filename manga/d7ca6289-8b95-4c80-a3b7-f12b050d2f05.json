@@ -7,10 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "クロスロード"
+    "ja": "クロスロード"
    },
    {
-    "en": "爱的十字路口"
+    "zh": "爱的十字路口"
    }
   ],
   "description": {
@@ -24,8 +24,10 @@
    "mu": "5750"
   },
   "originalLanguage": "ja",
+  "lastVolume": "7",
   "publicationDemographic": "shoujo",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2003,
   "contentRating": "safe",
   "tags": [
    {
@@ -49,6 +51,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5bd0e105-4481-44ca-b6e7-7544da56b1a3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Incest"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -90,9 +104,9 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2018-07-07T14:49:08+00:00",
-  "updatedAt": "2018-07-07T14:49:08+00:00"
+  "updatedAt": "2024-11-06T09:24:05+00:00"
  },
  "relationships": [
   {

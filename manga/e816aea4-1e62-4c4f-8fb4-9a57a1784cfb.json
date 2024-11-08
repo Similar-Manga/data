@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Unicorn Panic! (Yu-Gi-Oh! ARC-V)"
+   "en": "Yu-Gi-Oh! ARC-V - Unicorn Panic! (Doujinshi)"
   },
-  "description": {
-   "en": ""
-  },
+  "altTitles": [
+   {
+    "ja": "ユニコンぱにっく! (遊☆戯☆王ARC-V)"
+   }
+  ],
+  "description": {},
   "originalLanguage": "ja",
   "status": "completed",
   "contentRating": "pornographic",
@@ -42,9 +45,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2020-11-25T10:29:56+00:00",
-  "updatedAt": "2021-05-25T15:48:59+00:00"
+  "updatedAt": "2024-11-05T05:55:14+00:00"
  },
  "relationships": [
   {
@@ -58,7 +61,33 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Bon",
+    "name": "BON (circle) ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-05T05:54:04+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fbb24b18-676a-4e7d-b3ce-d27a558b92d7",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ibonnu",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -68,6 +97,32 @@
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "756a7183-4a2d-4d28-a891-767172cc0eae",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "BON (circle) ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-05T05:54:04+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -111,6 +166,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "bd40d291-b66e-4d4c-b02f-d47555d8bd6d",
+   "type": "manga",
+   "related": "based_on"
   }
  ]
 }

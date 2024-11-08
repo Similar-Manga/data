@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Antique Cat Shop"
+   "en": "The Antique Cat Shop"
   },
   "altTitles": [
    {
@@ -11,6 +11,9 @@
    },
    {
     "ja-ro": "Kottou Nekoya"
+   },
+   {
+    "en": "Antique Cat Shop"
    }
   ],
   "description": {
@@ -89,16 +92,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2019-03-01T20:31:00+00:00",
-  "updatedAt": "2024-01-29T19:57:17+00:00"
+  "updatedAt": "2024-11-06T20:35:38+00:00"
  },
  "relationships": [
   {
    "id": "cf926932-960a-4a3b-a6e0-3855d453412b",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鷹野久"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -112,9 +117,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/takanohisa",
+    "updatedAt": "2024-11-05T17:05:51+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -124,7 +129,9 @@
    "id": "cf926932-960a-4a3b-a6e0-3855d453412b",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鷹野久"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -138,9 +145,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/takanohisa",
+    "updatedAt": "2024-11-05T17:05:51+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

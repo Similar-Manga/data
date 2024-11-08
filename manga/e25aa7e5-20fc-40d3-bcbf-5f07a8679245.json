@@ -15,7 +15,7 @@
   },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/4041138094",
-   "bw": "de950d91a5-d137-4341-92d9-d37979526e00/?adpcnt=7qM_SasK",
+   "bw": "series/433310/list",
    "cdj": "https://www.cdjapan.co.jp/searchuni?term.media_format=\u0026q=ブラッドナイトマーケット",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/782910/",
    "mal": "157568",
@@ -23,8 +23,10 @@
    "raw": "https://comic-walker.com/contents/detail/KDCW_KS02203950010000_68/"
   },
   "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "14",
   "publicationDemographic": "seinen",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2023,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -50,6 +52,18 @@
     "attributes": {
      "name": {
       "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Boys' Love"
      },
      "description": {},
      "group": "genre",
@@ -94,9 +108,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2023-04-04T10:29:01+00:00",
-  "updatedAt": "2024-02-11T03:23:58+00:00"
+  "updatedAt": "2024-11-06T12:08:32+00:00"
  },
  "relationships": [
   {
@@ -156,16 +170,16 @@
    }
   },
   {
-   "id": "9d5e4851-2634-4f77-83b2-cbe64eace8d7",
+   "id": "3155723f-26c8-4f5f-8a4a-6e9a7132b78d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-06-09T17:56:59+00:00",
-    "description": "Volume 1 Cover from BookWalker",
-    "fileName": "ca3e894d-39a0-44e7-acec-0ba9d1754de2.jpg",
+    "createdAt": "2024-11-06T12:07:21+00:00",
+    "description": "",
+    "fileName": "17f376b6-6d53-44d8-a88f-3dceec0dbfec.jpg",
     "locale": "ja",
-    "updatedAt": "2024-06-09T17:56:59+00:00",
+    "updatedAt": "2024-11-06T12:07:21+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "3"
    }
   },
   {

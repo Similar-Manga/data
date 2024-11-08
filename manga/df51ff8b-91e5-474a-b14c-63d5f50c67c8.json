@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "A Dog's Life"
+   "en": "Dog's Life"
   },
   "altTitles": [
    {
@@ -28,6 +28,7 @@
   "lastVolume": "1",
   "lastChapter": "8",
   "status": "completed",
+  "year": 2010,
   "contentRating": "erotica",
   "availableTranslatedLanguages": [
    "fr"
@@ -48,32 +49,34 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2020-05-14T02:02:13+00:00",
-  "updatedAt": "2024-05-04T00:11:44+00:00"
+  "updatedAt": "2024-11-06T07:43:34+00:00"
  },
  "relationships": [
   {
    "id": "80e313b8-35ea-440a-8d5a-088153478573",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** ヒノモト円時\n\n**Additional Sites:**\n- [Old pixiv](https://www.pixiv.net/users/199808)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Enji Hinomoto",
+    "name": "Hinomoto Enji",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/21880404",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/futatuori",
+    "updatedAt": "2024-11-06T07:42:14+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -83,23 +86,25 @@
    "id": "80e313b8-35ea-440a-8d5a-088153478573",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** ヒノモト円時\n\n**Additional Sites:**\n- [Old pixiv](https://www.pixiv.net/users/199808)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Enji Hinomoto",
+    "name": "Hinomoto Enji",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/21880404",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/futatuori",
+    "updatedAt": "2024-11-06T07:42:14+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -7,28 +7,28 @@
   },
   "altTitles": [
    {
-    "ja-ro": "Doujima-kun ha Doujinai"
-   },
-   {
-    "ja-ro": "Doujima-kun wa Doujinai"
-   },
-   {
     "ja": "堂島くんは動じない"
    },
    {
-    "zh": "堂島同學毫不動搖"
+    "ja-ro": "Doujima-kun ha Doujinai"
    },
    {
-    "en": "Doujima-kun Won’t Be Disturbed"
+    "en": "Doujima-kun won't be Disturbed"
+   },
+   {
+    "zh": "堂島同學毫不動搖"
    }
   ],
   "description": {
-   "en": "That stupid Doujima, he's always sitting next to me with that blank expression, but he's gotta have all kinds of dirty thoughts, right? One thing leads to another, and…wait, me?! N-no, I wasn't thinking… shut up you dummy!"
+   "en": "That stupid Doujima, he's always sitting next to me with that blank expression, but he's gotta have all kinds of dirty thoughts, right? One thing leads to another, and... wait, me?! N-no, I wasn't thinking... shut up you dummy!",
+   "ja": "隣の席の堂島はいっつも無表情。でも、真面目キャラに見えて、頭の中はきっとエロいこととか考えてるんだろー？　AとかBとかCとか、ＷＸＹとか…えっアタシ!?　か、かか…考えてなんかねーよ!! バカ！　\n\n隣の席の堂島。いっつもクールぶってるけど頭の中ではエロいこととか考えてるはず…。ほら堂島、しりとりお前の番な、「お」…（おっぱい、こい…）（おっぱい、こい…！）（おっぱい、こい…！！）おっぱい！！！って、何言わせるんだバカ！いつもいつも辱められるのはなんでアタシばっかなんだよ!?"
   },
   "links": {
    "al": "123164",
+   "amz": "https://www.amazon.co.jp/dp/B09838KS69",
    "ap": "doujima-kun-wa-doujinai",
-   "bw": "series/295377/list",
+   "bw": "series/295377",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/632304/",
    "kt": "58494",
    "mal": "129281",
    "mu": "171409",
@@ -112,16 +112,18 @@
    }
   ],
   "state": "published",
-  "version": 35,
+  "version": 37,
   "createdAt": "2020-09-29T23:24:34+00:00",
-  "updatedAt": "2024-10-09T13:00:46+00:00"
+  "updatedAt": "2024-11-07T00:38:24+00:00"
  },
  "relationships": [
   {
    "id": "b2f2c2e1-c602-4207-8d89-f5f29a302e2a",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: ぱんやかわ\n\n**Circle/s**:\n[Panmodoki no Yu](https://mangadex.org/author/d7322ab6-1dab-40f8-b18b-d783f2572d3a) (ぱんもどきの湯)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": "https://panyakawa.fanbox.cc/",
@@ -136,8 +138,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/pan_iwsmd46",
-    "updatedAt": "2023-05-11T23:11:10+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-07T06:01:56+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -147,7 +149,9 @@
    "id": "b2f2c2e1-c602-4207-8d89-f5f29a302e2a",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: ぱんやかわ\n\n**Circle/s**:\n[Panmodoki no Yu](https://mangadex.org/author/d7322ab6-1dab-40f8-b18b-d783f2572d3a) (ぱんもどきの湯)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": "https://panyakawa.fanbox.cc/",
@@ -162,25 +166,30 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/pan_iwsmd46",
-    "updatedAt": "2023-05-11T23:11:10+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-07T06:01:56+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "5b5e4328-895d-49b4-a181-9e5c8e723b1c",
+   "id": "ba7a8809-3740-4e0e-b7e6-48dc1d460c45",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-02-21T00:23:59+00:00",
+    "createdAt": "2024-11-07T00:37:14+00:00",
     "description": "",
-    "fileName": "85f5284b-502f-49fc-bc27-34288b040ebf.jpg",
+    "fileName": "8c51ec40-bcd1-4555-b779-230b45d769e0.jpg",
     "locale": "ja",
-    "updatedAt": "2022-02-21T00:23:59+00:00",
+    "updatedAt": "2024-11-07T00:37:14+00:00",
     "version": 1,
     "volume": "3"
    }
+  },
+  {
+   "id": "0258bab3-08ed-49cf-9bbf-b8b87b5dba9a",
+   "type": "manga",
+   "related": "doujinshi"
   }
  ]
 }

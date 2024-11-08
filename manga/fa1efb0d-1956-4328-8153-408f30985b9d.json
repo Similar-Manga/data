@@ -1,0 +1,165 @@
+{
+ "id": "fa1efb0d-1956-4328-8153-408f30985b9d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shoten'in-san no Heya ni Seikishi ga Sundemasu."
+  },
+  "altTitles": [
+   {
+    "ja": "書店員さんの部屋に聖騎士が住んでます。"
+   },
+   {
+    "ja-ro": "Shotenin-san no Heya ni Seikishi ga Sundemasu."
+   },
+   {
+    "en": "There is a Holy Knight Living in my Room."
+   }
+  ],
+  "description": {
+   "ja": "異世界の騎士、普通の書店員さんに忠誠を誓う!?\n\n異世界で闘っていた聖騎士・アンティは気が付くとなぜか秋葉原にいた。さらに仕えていた王にそっくりな書店員・雨澤を王と勘違い。一方、雨澤はアンティをオタクなコスプレ外国人と誤解。そんなかみ合わない２人が、異文化なルームシェアをスタートすることに…!? 一緒に外出すれば鎧が悪目立ち、一緒にカレーを作れば鍋ごと燃える。それでも２人はなんだか仲良しで…。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B07XG34Z63",
+   "ap": "shotenin-san-no-heya-ni-seikishi-ga-sundemasu",
+   "bw": "series/150486",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/442613/",
+   "mal": "110225",
+   "mu": "236so1c"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "16",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2017,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-06T23:31:05+00:00",
+  "updatedAt": "2024-11-07T05:20:55+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e74315fe-5e1d-4801-8e81-e0a73882ff13",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** あかまる\n\n**Also Known As:** Torao Akamaru (寅尾あかまる)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akamaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/35325316",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/akafujipiyokoo1",
+    "updatedAt": "2024-09-11T22:01:09+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9e5e041b-91eb-4e34-8027-11acdeec9df0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://tatsubon.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tatsubon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=479833",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/TATSUBONi",
+    "updatedAt": "2022-12-01T23:54:51+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "db7c99cc-1322-439d-9549-424c606f31cc",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-06T23:31:08+00:00",
+    "description": "",
+    "fileName": "ca510373-2c02-4567-9c24-b8ffe919e2ac.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-06T23:31:08+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

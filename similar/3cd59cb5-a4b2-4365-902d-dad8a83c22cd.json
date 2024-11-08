@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "891ad43d-4162-4d0f-99c3-43417c1abe4c",
+   "title": {
+    "en": "Bakefox no Chuushin"
+   },
+   "contentRating": "safe",
+   "score": 0.27308938
+  },
+  {
    "id": "01843800-3819-4eda-ab0c-9bd19aa03bd2",
    "title": {
     "en": "Yami no Koutaishi"
    },
    "contentRating": "safe",
-   "score": 0.24878307
+   "score": 0.24879669
   },
   {
    "id": "4b453df4-524c-431a-a5a7-736317811cec",
@@ -19,15 +27,7 @@
     "en": "Kitsune no Muko-sama to Watashi no Fuufu Keiyaku"
    },
    "contentRating": "safe",
-   "score": 0.24620439
-  },
-  {
-   "id": "891ad43d-4162-4d0f-99c3-43417c1abe4c",
-   "title": {
-    "en": "Bakefox no Chuushin"
-   },
-   "contentRating": "safe",
-   "score": 0.23803677
+   "score": 0.24618207
   },
   {
    "id": "917ad65e-b82a-4af2-bd9e-21526fd1ed30",
@@ -35,7 +35,7 @@
     "en": "Itsuwarihime no Naishogoto ~Koukyuu de Migawari no Kisaki wo Enjitara, Koutei to Goei ni Chouai saremashita~"
    },
    "contentRating": "safe",
-   "score": 0.23556873
+   "score": 0.23556882
   },
   {
    "id": "aa480a63-4048-4097-babe-7551921fe6c6",
@@ -43,7 +43,7 @@
     "en": "Fly High in the Sky!"
    },
    "contentRating": "safe",
-   "score": 0.23443212
+   "score": 0.23404807
   },
   {
    "id": "dbc54fff-e34a-4965-8944-fed9d0eab402",
@@ -51,38 +51,11 @@
     "en": "Mayonaka Lolita"
    },
    "contentRating": "safe",
-   "score": 0.2286371,
+   "score": 0.22864664,
    "languages": [
     "pt-br",
     "it"
    ]
-  },
-  {
-   "id": "8290de3b-2430-4a84-abd8-b9e4f8412e89",
-   "title": {
-    "en": "Mizugami-sama ni Sasagu Kuchizuke"
-   },
-   "contentRating": "safe",
-   "score": 0.22800915
-  },
-  {
-   "id": "bf44b0a9-707c-4bcd-9c0c-e8cc195ff926",
-   "title": {
-    "en": "Prince of the Night"
-   },
-   "contentRating": "safe",
-   "score": 0.22800915,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "aae1cdd8-3eb1-4501-b99a-4a2cc77536ef",
-   "title": {
-    "en": "Nounashi Miko wa, Kishin-sama ni Aisareru"
-   },
-   "contentRating": "safe",
-   "score": 0.22800915
   },
   {
    "id": "3e1f12de-d97d-4baa-b701-0987ab2e1bb3",
@@ -92,6 +65,18 @@
    "contentRating": "safe",
    "score": 0.22800915,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bf33da0b-ff39-40c4-835e-ce4b3dbc0fa9",
+   "title": {
+    "en": "Bell Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.22800915,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -112,16 +97,31 @@
    "score": 0.22800915
   },
   {
-   "id": "bf33da0b-ff39-40c4-835e-ce4b3dbc0fa9",
+   "id": "bf44b0a9-707c-4bcd-9c0c-e8cc195ff926",
    "title": {
-    "en": "Bell Princess"
+    "en": "Prince of the Night"
    },
    "contentRating": "safe",
    "score": 0.22800915,
    "languages": [
-    "fr",
     "en"
    ]
+  },
+  {
+   "id": "8290de3b-2430-4a84-abd8-b9e4f8412e89",
+   "title": {
+    "en": "Mizugami-sama ni Sasagu Kuchizuke"
+   },
+   "contentRating": "safe",
+   "score": 0.22800915
+  },
+  {
+   "id": "aae1cdd8-3eb1-4501-b99a-4a2cc77536ef",
+   "title": {
+    "en": "Nounashi Miko wa, Kishin-sama ni Aisareru"
+   },
+   "contentRating": "safe",
+   "score": 0.22800915
   },
   {
    "id": "bdc8973a-d8bb-4de7-9191-4f31a2e7be62",
@@ -129,20 +129,9 @@
     "en": "P Angel"
    },
    "contentRating": "safe",
-   "score": 0.22586718,
+   "score": 0.22587357,
    "languages": [
     "bg",
-    "en"
-   ]
-  },
-  {
-   "id": "f153682b-4a2c-425a-9f52-741e62c447e8",
-   "title": {
-    "en": "Witch Shop"
-   },
-   "contentRating": "safe",
-   "score": 0.22167556,
-   "languages": [
     "en"
    ]
   },
@@ -156,7 +145,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "f153682b-4a2c-425a-9f52-741e62c447e8",
+   "title": {
+    "en": "Witch Shop"
+   },
+   "contentRating": "safe",
+   "score": 0.22167556,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T21:20:04+00:00"
+ "updatedAt": "2024-11-07T20:37:19+00:00"
 }

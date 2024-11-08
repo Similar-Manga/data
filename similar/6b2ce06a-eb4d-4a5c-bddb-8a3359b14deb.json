@@ -6,6 +6,31 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3fe2a894-23da-4b36-a429-6c80e40a6162",
+   "title": {
+    "en": "Seishun Protagonist"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "78a664a7-2f4e-464b-b925-92984012f00c",
+   "title": {
+    "en": "Anata ga Shite Kurenakute mo"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi"
+   ]
+  },
+  {
    "id": "4ecd5276-fa48-46a2-98aa-07ee00a0d927",
    "title": {
     "en": "A Train at the End of Summer"
@@ -31,19 +56,6 @@
    ]
   },
   {
-   "id": "78a664a7-2f4e-464b-b925-92984012f00c",
-   "title": {
-    "en": "Anata ga Shite Kurenakute mo"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
    "id": "ff627fca-f104-42a3-8803-be82e990cc20",
    "title": {
     "en": "Chiisana Akari"
@@ -51,41 +63,6 @@
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "3fe2a894-23da-4b36-a429-6c80e40a6162",
-   "title": {
-    "en": "Seishun Protagonist"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "4d705e68-d064-405c-9c7a-4852c964ab98",
-   "title": {
-    "en": "Ao ni, Fureru."
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
-   "title": {
-    "en": "Kamisama to"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
     "pt-br"
    ]
   },
@@ -104,17 +81,15 @@
    ]
   },
   {
-   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
+   "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
    "title": {
-    "en": "Arte"
+    "en": "Kamisama to"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
     "en",
-    "pt-br",
-    "vi",
-    "es-la"
+    "pt-br"
    ]
   },
   {
@@ -130,30 +105,28 @@
    ]
   },
   {
-   "id": "af94f2e6-48e2-4116-a05a-1856bc80e9bf",
+   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
    "title": {
-    "en": "Mu-kai"
+    "en": "Arte"
    },
    "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en",
-    "it",
-    "fr"
-   ]
-  },
-  {
-   "id": "a86a2dae-e38a-4603-a518-503db8d5e369",
-   "title": {
-    "en": "Dance Dance Danseur"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
+   "score": 0.20203052,
    "languages": [
     "en",
     "pt-br",
-    "de",
-    "ru"
+    "vi",
+    "es-la"
+   ]
+  },
+  {
+   "id": "4d705e68-d064-405c-9c7a-4852c964ab98",
+   "title": {
+    "en": "Ao ni, Fureru."
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pt-br"
    ]
   },
   {
@@ -173,12 +146,39 @@
    ]
   },
   {
+   "id": "a86a2dae-e38a-4603-a518-503db8d5e369",
+   "title": {
+    "en": "Dance Dance Danseur"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
+    "en",
+    "pt-br",
+    "de",
+    "ru"
+   ]
+  },
+  {
+   "id": "af94f2e6-48e2-4116-a05a-1856bc80e9bf",
+   "title": {
+    "en": "Mu-kai"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
+    "en",
+    "it",
+    "fr"
+   ]
+  },
+  {
    "id": "511d3218-df57-4cab-8510-d88a5a96a951",
    "title": {
     "en": "49th Confession"
    },
    "contentRating": "safe",
-   "score": 0.17308444,
+   "score": 0.17308496,
    "languages": [
     "th",
     "pt-br",
@@ -188,35 +188,31 @@
    ]
   },
   {
-   "id": "229eb307-021e-4062-8d39-94422da2671e",
+   "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
    "title": {
-    "en": "Tail Star"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a5d7f06b-740e-4901-a3a5-700104c7972f",
-   "title": {
-    "en": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi"
+    "en": "Mattaku Saikin no Tantei to Kitara"
    },
    "contentRating": "safe",
    "score": 0.16495723,
    "languages": [
     "en",
     "ru",
-    "id",
     "pt-br",
-    "fr",
+    "es-la"
+   ]
+  },
+  {
+   "id": "33e296db-0a3b-4b9e-8ab9-463560730825",
+   "title": {
+    "en": "She’s Coming Tonight"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en",
     "it"
    ]
   }
  ],
- "updatedAt": "2024-11-05T21:40:07+00:00"
+ "updatedAt": "2024-11-07T20:52:51+00:00"
 }

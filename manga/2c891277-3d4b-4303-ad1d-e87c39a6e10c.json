@@ -62,7 +62,7 @@
    "al": "51419",
    "amz": "https://www.amazon.co.jp/kindle-dbs/product/B074C5MFNV",
    "ap": "nozoki-ana",
-   "bw": "series/124259/list/",
+   "bw": "series/124259/list",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-634219",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/120564/",
    "kt": "10975",
@@ -115,6 +115,18 @@
     }
    },
    {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -140,9 +152,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 11,
   "createdAt": "2018-02-03T15:59:01+00:00",
-  "updatedAt": "2023-06-04T17:36:07+00:00"
+  "updatedAt": "2024-11-06T01:55:57+00:00"
  },
  "relationships": [
   {

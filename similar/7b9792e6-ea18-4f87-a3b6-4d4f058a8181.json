@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "67b2c907-5085-4e6a-80fc-c15d29c9af41",
-   "title": {
-    "en": "Natsume Yuujinchou Visual Fan Book"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "ru"
-   ]
-  },
-  {
    "id": "4c53c85c-0303-4cf0-887b-15092774c6a1",
    "title": {
     "en": "Shugo Chara! Jewel Joker"
@@ -31,12 +20,23 @@
    ]
   },
   {
+   "id": "67b2c907-5085-4e6a-80fc-c15d29c9af41",
+   "title": {
+    "en": "Natsume Yuujinchou Visual Fan Book"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
    "id": "eacb6eea-737f-4ae8-88cf-7cd0645ba339",
    "title": {
     "en": "God and Girl"
    },
    "contentRating": "safe",
-   "score": 0.19399154,
+   "score": 0.19518915,
    "languages": [
     "ru",
     "pt-br",
@@ -66,19 +66,17 @@
    ]
   },
   {
-   "id": "60de2707-2a4a-4fa6-92fa-0b534898cd4d",
+   "id": "3637ca06-20de-4796-93db-e06721ec5a6d",
    "title": {
-    "en": "Majo-senpai Nippou"
+    "en": "Matsurika Kanriden ~Koukyuu Jokan, Kimagure Koutei ni Misomerare~"
    },
    "contentRating": "safe",
    "score": 0.17496355,
    "languages": [
-    "en",
-    "it",
+    "id",
     "ru",
-    "pt-br",
-    "fr",
-    "id"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -95,17 +93,19 @@
    ]
   },
   {
-   "id": "3637ca06-20de-4796-93db-e06721ec5a6d",
+   "id": "60de2707-2a4a-4fa6-92fa-0b534898cd4d",
    "title": {
-    "en": "Matsurika Kanriden ~Koukyuu Jokan, Kimagure Koutei ni Misomerare~"
+    "en": "Majo-senpai Nippou"
    },
    "contentRating": "safe",
    "score": 0.17496355,
    "languages": [
-    "id",
-    "ru",
     "en",
-    "pt-br"
+    "it",
+    "ru",
+    "pt-br",
+    "fr",
+    "id"
    ]
   },
   {
@@ -135,6 +135,18 @@
    ]
   },
   {
+   "id": "1fad2582-24e0-47ff-86b0-f9ba68860123",
+   "title": {
+    "en": "My Girlfriend's Child"
+   },
+   "contentRating": "safe",
+   "score": 0.16343464,
+   "languages": [
+    "es-la",
+    "ru"
+   ]
+  },
+  {
    "id": "b3dfbe4f-830c-4d88-89cf-7e8d6332ef64",
    "title": {
     "en": "Piyo Piyo Angel"
@@ -146,37 +158,12 @@
    ]
   },
   {
-   "id": "1fad2582-24e0-47ff-86b0-f9ba68860123",
-   "title": {
-    "en": "My Girlfriend's Child"
-   },
-   "contentRating": "safe",
-   "score": 0.16131738,
-   "languages": [
-    "es-la",
-    "ru"
-   ]
-  },
-  {
-   "id": "f2b62555-1056-4996-bf3b-986ccac0b6ee",
-   "title": {
-    "en": "Yume ka Utsutsu ka"
-   },
-   "contentRating": "safe",
-   "score": 0.16029613,
-   "languages": [
-    "ru",
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
    "title": {
     "en": "Tsuki no Kanon"
    },
    "contentRating": "safe",
-   "score": 0.15665863,
+   "score": 0.15752922,
    "languages": [
     "fr",
     "en",
@@ -203,7 +190,7 @@
     "en": "Yubisaki to Renren"
    },
    "contentRating": "safe",
-   "score": 0.14657098,
+   "score": 0.14775495,
    "languages": [
     "hu",
     "pt-br",
@@ -212,6 +199,19 @@
     "tr",
     "it",
     "ru"
+   ]
+  },
+  {
+   "id": "157c43dd-0cb5-47da-a382-f04a6a5d3e2f",
+   "title": {
+    "en": "Ryuukishi no Okiniiri"
+   },
+   "contentRating": "safe",
+   "score": 0.14285715,
+   "languages": [
+    "ru",
+    "en",
+    "fr"
    ]
   },
   {
@@ -226,5 +226,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-05T21:47:19+00:00"
+ "updatedAt": "2024-11-07T20:58:27+00:00"
 }

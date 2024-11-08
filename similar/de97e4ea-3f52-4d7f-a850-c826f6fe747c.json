@@ -11,7 +11,7 @@
     "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
    },
    "contentRating": "safe",
-   "score": 0.30286264,
+   "score": 0.30285862,
    "languages": [
     "th",
     "ru",
@@ -23,20 +23,20 @@
    ]
   },
   {
-   "id": "47e29ecf-b00b-483d-b922-5059f993dc90",
-   "title": {
-    "en": "Hana Nusubito wa Shounen no Uchi"
-   },
-   "contentRating": "safe",
-   "score": 0.2957894
-  },
-  {
    "id": "860abf94-5bd3-48a1-a234-7e6821775663",
    "title": {
     "en": "Yamato Nadeshiko wa Kujikenai."
    },
    "contentRating": "safe",
-   "score": 0.29463956
+   "score": 0.29930463
+  },
+  {
+   "id": "47e29ecf-b00b-483d-b922-5059f993dc90",
+   "title": {
+    "en": "Hana Nusubito wa Shounen no Uchi"
+   },
+   "contentRating": "safe",
+   "score": 0.29578945
   },
   {
    "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
@@ -44,7 +44,7 @@
     "en": "Kimi no Love o Misetekure!"
    },
    "contentRating": "safe",
-   "score": 0.29404056,
+   "score": 0.29404154,
    "languages": [
     "vi",
     "pt-br",
@@ -59,7 +59,7 @@
     "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
    },
    "contentRating": "safe",
-   "score": 0.2925947,
+   "score": 0.29259056,
    "languages": [
     "en",
     "pt-br"
@@ -71,7 +71,7 @@
     "en": "Chigau Miyahara Omae janai!"
    },
    "contentRating": "safe",
-   "score": 0.29244584,
+   "score": 0.29244655,
    "languages": [
     "vi",
     "pt-br",
@@ -85,7 +85,7 @@
     "en": "Hitomi-chan Is Shy With Strangers"
    },
    "contentRating": "safe",
-   "score": 0.29236352,
+   "score": 0.29236144,
    "languages": [
     "en",
     "pt-br",
@@ -99,19 +99,35 @@
    ]
   },
   {
-   "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
+   "id": "a2f14ca0-1fad-4198-95cf-d5bfa053238b",
    "title": {
-    "ja-ro": "Houkago Kitaku Biyori"
+    "en": "Nemuro-kun wa Kao ga Ii!"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
-    "es-la",
-    "vi",
     "en",
-    "ru",
-    "id",
-    "pt-br"
+    "es-la",
+    "id"
+   ]
+  },
+  {
+   "id": "1bad66ee-4857-433e-a075-704d93672341",
+   "title": {
+    "en": "Bokudakega Shitterundaze"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605
+  },
+  {
+   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "title": {
+    "en": "Tokiwa-san to Inoue-kun no Boushin"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -132,17 +148,6 @@
    ]
   },
   {
-   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
-   "title": {
-    "en": "Tenshi-chan to Akuma-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
    "title": {
     "en": "Skip and Loafer"
@@ -160,22 +165,24 @@
    ]
   },
   {
-   "id": "a2f14ca0-1fad-4198-95cf-d5bfa053238b",
+   "id": "d16f92a6-6f5f-442c-b011-b68abc986209",
    "title": {
-    "en": "Nemuro-kun wa Kao ga Ii!"
+    "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
+    "vi",
     "en",
-    "es-la",
-    "id"
+    "ru",
+    "id",
+    "pt-br"
    ]
   },
   {
-   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
    "title": {
-    "en": "Tokiwa-san to Inoue-kun no Boushin"
+    "en": "Tenshi-chan to Akuma-kun"
    },
    "contentRating": "safe",
    "score": 0.28520605,
@@ -197,28 +204,21 @@
    ]
   },
   {
-   "id": "d16f92a6-6f5f-442c-b011-b68abc986209",
+   "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
    "title": {
-    "en": "Houkago no Idol ni wa Himitsu ga aru"
+    "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
+    "es-la",
     "vi",
     "en",
     "ru",
     "id",
     "pt-br"
    ]
-  },
-  {
-   "id": "358f92cf-4064-4683-85de-fff1aec7cbe9",
-   "title": {
-    "en": "Danshi Koukousei to Fureau Houhou"
-   },
-   "contentRating": "safe",
-   "score": 0.273567
   }
  ],
- "updatedAt": "2024-11-05T22:32:47+00:00"
+ "updatedAt": "2024-11-07T21:32:33+00:00"
 }

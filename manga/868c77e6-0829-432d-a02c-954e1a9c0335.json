@@ -5,6 +5,11 @@
   "title": {
    "en": "Hybrid Child"
   },
+  "altTitles": [
+   {
+    "ja": "ハイブリッドチャイルド"
+   }
+  ],
   "description": {
    "en": "The Hybrid Child is an amazing 'doll' that can grow if it is lavished with enough love and care from its owner. Neither fully machine nor fully human, the various Hybrid Child models develop strong emotional bonds with their owners.   \nThis volume contains several short stories of love, sacrifice, and drama: Young Kotaro learns the importance of responsibility when his Hybrid Child's lifespan runs out. The tragic swordsman Seya learns to love again with the help of his Hybrid child, Yuzu. The final tale tells the story of Kuroda, the creator of the Hybrid Child designs, and how his lost love inspired their creation.",
    "pl": "Hybrid Child to niesamowity robot przypominający swoim wyglądem człowieka. Nie jest to jednak ani maszyna ani lalka, gdyż potrafi nawiązać silna więź emocjonalna ze swoim właścicielem. Tomik zawiera 4 różne historie o miłości i poświęceniu. Ostatnia z nich opowiada o Kurodzie - twórcy Hybrid Child - i o tym, co zainspirowało go do stworzenia tego \"robota\"… (Yunnie)  \nOpis ze strony Synthesiss"
@@ -15,12 +20,14 @@
    "ap": "hybrid-child",
    "kt": "597",
    "mal": "257",
-   "mu": "288"
+   "mu": "288",
+   "raw": "https://www.kadokawa.co.jp/product/200611000120/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "4",
   "status": "completed",
+  "year": 2003,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "tr",
@@ -115,16 +122,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2018-05-21T14:37:59+00:00",
-  "updatedAt": "2022-01-25T05:43:50+00:00"
+  "updatedAt": "2024-11-07T02:57:28+00:00"
  },
  "relationships": [
   {
    "id": "a1afcb8e-d059-4c49-b274-eaf42ea86f97",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n中村春菊"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -138,9 +147,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/marukawashoten",
+    "updatedAt": "2024-11-07T02:29:07+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -150,7 +159,9 @@
    "id": "a1afcb8e-d059-4c49-b274-eaf42ea86f97",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n中村春菊"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -164,25 +175,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/marukawashoten",
+    "updatedAt": "2024-11-07T02:29:07+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "8d2febf1-12fb-4fa4-87ee-f6332a8ab46c",
+   "id": "adaa6c8e-b901-4f05-8820-121d5938a6b0",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:28:29+00:00",
+    "createdAt": "2024-11-07T02:57:27+00:00",
     "description": "",
-    "fileName": "fc457f41-2ad0-4d38-a5b7-47dad38f8d4f.jpg",
+    "fileName": "d6895052-4942-4b95-935f-6d515b1537e5.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:28:29+00:00",
+    "updatedAt": "2024-11-07T02:57:27+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1.1"
    }
   }
  ]

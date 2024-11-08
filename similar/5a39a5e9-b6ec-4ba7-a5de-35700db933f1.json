@@ -6,20 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "dd56b39e-bc8f-4b8b-a839-8a2916901ebc",
-   "title": {
-    "en": "Why, Nanda-san?"
-   },
-   "contentRating": "safe",
-   "score": 0.23817438,
-   "languages": [
-    "fr",
-    "vi",
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "2e7b879e-af6c-4dea-8f23-6461c734c0ed",
    "title": {
     "en": "I Want You to Say I'm Cool!"
@@ -34,12 +20,26 @@
    ]
   },
   {
+   "id": "dd56b39e-bc8f-4b8b-a839-8a2916901ebc",
+   "title": {
+    "en": "Why, Nanda-san?"
+   },
+   "contentRating": "safe",
+   "score": 0.23817438,
+   "languages": [
+    "fr",
+    "vi",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "3acfb83e-afbc-46a5-98ac-6846f18855a7",
    "title": {
     "en": "Kimi to Barairo no Hibi"
    },
    "contentRating": "safe",
-   "score": 0.22945811,
+   "score": 0.22945541,
    "languages": [
     "es-la",
     "en",
@@ -54,7 +54,7 @@
     "en": "Momose Akira no Hatsukoi Hatan-chuu."
    },
    "contentRating": "safe",
-   "score": 0.22246236,
+   "score": 0.22246517,
    "languages": [
     "pt-br",
     "vi",
@@ -73,23 +73,37 @@
     "en": "Renai Kyoutei"
    },
    "contentRating": "safe",
-   "score": 0.21845366,
+   "score": 0.21845423,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "3fa6b379-05ac-47df-84d5-39bea2cdad8b",
+   "id": "54f9b52a-7e8d-45e7-ae1d-e628b08924ea",
    "title": {
-    "en": "Rain and a Slow Runner"
+    "en": "Hyoutenka no Nukumori"
+   },
+   "contentRating": "safe",
+   "score": 0.21742247,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "43131083-173d-4915-a397-db2b7446d453",
+   "title": {
+    "en": "Shakaijin Kareshi to Daigakusei Kanojo"
    },
    "contentRating": "safe",
    "score": 0.21742247,
    "languages": [
     "en",
-    "fr",
-    "tr"
+    "vi",
+    "fr"
    ]
   },
   {
@@ -106,20 +120,6 @@
     "vi",
     "es-la",
     "id"
-   ]
-  },
-  {
-   "id": "54f9b52a-7e8d-45e7-ae1d-e628b08924ea",
-   "title": {
-    "en": "Hyoutenka no Nukumori"
-   },
-   "contentRating": "safe",
-   "score": 0.21742247,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en",
-    "pl"
    ]
   },
   {
@@ -141,29 +141,16 @@
    ]
   },
   {
-   "id": "6ba5c5b9-4d55-43ff-8311-26a905f78d84",
+   "id": "3fa6b379-05ac-47df-84d5-39bea2cdad8b",
    "title": {
-    "en": "Love Begins With a Voice"
+    "en": "Rain and a Slow Runner"
    },
    "contentRating": "safe",
    "score": 0.21742247,
    "languages": [
+    "en",
     "fr",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "43131083-173d-4915-a397-db2b7446d453",
-   "title": {
-    "en": "Shakaijin Kareshi to Daigakusei Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.21742247,
-   "languages": [
-    "en",
-    "vi",
-    "fr"
+    "tr"
    ]
   },
   {
@@ -178,36 +165,54 @@
    ]
   },
   {
-   "id": "92a6b94e-f205-46b5-b522-c135c20a7aa4",
+   "id": "6ba5c5b9-4d55-43ff-8311-26a905f78d84",
    "title": {
-    "en": "Tsuki no Oki ni Mesu mama"
+    "en": "Love Begins With a Voice"
+   },
+   "contentRating": "safe",
+   "score": 0.21742247,
+   "languages": [
+    "fr",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "eccca788-db66-44cb-8f8d-c85c51605449",
+   "title": {
+    "en": "The Strongest Legend"
    },
    "contentRating": "safe",
    "score": 0.21450901,
    "languages": [
+    "it",
     "en",
-    "th",
-    "es-la",
-    "id",
-    "pt-br",
     "fr"
    ]
   },
   {
-   "id": "d3e1b39d-8727-472d-b4b0-5c01c94cc370",
+   "id": "b7a2d54a-6d1b-4b1b-a266-1b3737f4f671",
    "title": {
-    "en": "The Sound of Something New"
+    "en": "Numa Sugite Mohaya Koi"
    },
    "contentRating": "safe",
    "score": 0.21450901,
    "languages": [
-    "id",
-    "hu",
-    "fr",
-    "es-la",
     "pt-br",
     "en",
-    "he"
+    "fr"
+   ]
+  },
+  {
+   "id": "6949f923-abcb-417c-adad-0dc1d32348c3",
+   "title": {
+    "en": "Change the World"
+   },
+   "contentRating": "safe",
+   "score": 0.21450901,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -225,32 +230,7 @@
     "fr",
     "id"
    ]
-  },
-  {
-   "id": "58c9abd8-a4a6-41b1-9504-d7da7ec10acd",
-   "title": {
-    "en": "Tsuji-kun And Miyazono-san"
-   },
-   "contentRating": "safe",
-   "score": 0.21450901,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br",
-    "fr",
-    "da",
-    "tl",
-    "zh",
-    "de",
-    "es-la",
-    "hi",
-    "ms",
-    "zh-hk",
-    "tr",
-    "vi",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2024-11-05T21:32:41+00:00"
+ "updatedAt": "2024-11-07T20:47:14+00:00"
 }

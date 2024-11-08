@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b6a4b905-537a-4719-8759-dc470779796e",
+   "title": {
+    "en": "Say Love"
+   },
+   "contentRating": "safe",
+   "score": 0.29892606,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "26dc223a-7ba0-4c5c-9523-91223c85846c",
    "title": {
     "en": "Gal to Kouhensachi Danshi ga Yobikou de Koisuru Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.29824308,
+   "score": 0.29523,
    "languages": [
     "en"
    ]
@@ -22,19 +33,31 @@
     "en": "Douse Naku Nara Koi ga ii"
    },
    "contentRating": "safe",
-   "score": 0.2966796,
+   "score": 0.291666,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "b6a4b905-537a-4719-8759-dc470779796e",
+   "id": "59d43c56-6718-47d9-bb7e-df75144516d0",
    "title": {
-    "en": "Say Love"
+    "en": "Kimi wo Wasureru Koi ga Shitai"
    },
    "contentRating": "safe",
-   "score": 0.28525537,
+   "score": 0.2832326,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "2b2e4a4c-57ca-425f-bd0e-f73129005150",
+   "title": {
+    "en": "Tsugi wa Ii yo ne, Senpai"
+   },
+   "contentRating": "safe",
+   "score": 0.27659196,
    "languages": [
     "en"
    ]
@@ -45,66 +68,9 @@
     "en": "Peach Girl Next"
    },
    "contentRating": "safe",
-   "score": 0.2785826,
+   "score": 0.27506992,
    "languages": [
     "it",
-    "en"
-   ]
-  },
-  {
-   "id": "2b2e4a4c-57ca-425f-bd0e-f73129005150",
-   "title": {
-    "en": "Tsugi wa Ii yo ne, Senpai"
-   },
-   "contentRating": "safe",
-   "score": 0.277928,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "161c7304-dbfc-4c9b-9670-d8ddd352db1b",
-   "title": {
-    "en": "Shitsuji Kuroboshi wa Kashizukanai"
-   },
-   "contentRating": "safe",
-   "score": 0.2718145,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "59d43c56-6718-47d9-bb7e-df75144516d0",
-   "title": {
-    "en": "Kimi wo Wasureru Koi ga Shitai"
-   },
-   "contentRating": "safe",
-   "score": 0.26897374,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "03677663-c2c8-44aa-9b21-b1c1b0f64086",
-   "title": {
-    "en": "Ekikoi: The Young Miss Falls for the Station Attendant"
-   },
-   "contentRating": "safe",
-   "score": 0.2658455,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "eb4109f4-cbe8-4b22-b76e-c51be973bbdb",
-   "title": {
-    "en": "8 mm"
-   },
-   "contentRating": "safe",
-   "score": 0.2616798,
-   "languages": [
     "en"
    ]
   },
@@ -114,38 +80,72 @@
     "en": "Ardour"
    },
    "contentRating": "safe",
-   "score": 0.2616798,
+   "score": 0.27192408,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef",
+   "id": "161c7304-dbfc-4c9b-9670-d8ddd352db1b",
    "title": {
-    "en": "The Tale of Taro Yamada"
+    "en": "Shitsuji Kuroboshi wa Kashizukanai"
    },
    "contentRating": "safe",
-   "score": 0.2616798,
+   "score": 0.27098012,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8f1cdce9-c9a1-4c35-a157-0b7e72c5b4b3",
+   "id": "aae1d0b5-1d98-4d7d-acc7-76a638af59bc",
    "title": {
-    "en": "Hoshi no Ouka"
+    "en": "Nurse Angel Ririka SOS"
    },
    "contentRating": "safe",
-   "score": 0.2616798,
+   "score": 0.2688691,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "8870af2c-3682-478d-8060-b5af58a91932",
+   "title": {
+    "en": "Onyanoko Darling"
+   },
+   "contentRating": "safe",
+   "score": 0.2656709,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "03677663-c2c8-44aa-9b21-b1c1b0f64086",
+   "title": {
+    "en": "Ekikoi: The Young Miss Falls for the Station Attendant"
+   },
+   "contentRating": "safe",
+   "score": 0.26344702,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
    "id": "4560b99b-a493-48fd-9b1b-61c31d7ed7a3",
    "title": {
     "en": "Renai Catalog"
+   },
+   "contentRating": "safe",
+   "score": 0.2616798,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "61c7e0eb-44c1-4e56-a1c1-d3c87e1136ef",
+   "title": {
+    "en": "The Tale of Taro Yamada"
    },
    "contentRating": "safe",
    "score": 0.2616798,
@@ -165,6 +165,17 @@
    ]
   },
   {
+   "id": "8f1cdce9-c9a1-4c35-a157-0b7e72c5b4b3",
+   "title": {
+    "en": "Hoshi no Ouka"
+   },
+   "contentRating": "safe",
+   "score": 0.2616798,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d87dd658-2741-493c-905b-fd3fae4fda0c",
    "title": {
     "en": "Kimi ni Todoke Special ～Soulmate～"
@@ -175,18 +186,7 @@
     "ar",
     "en"
    ]
-  },
-  {
-   "id": "a9779082-e501-4f7b-a6d6-e42de4dd9b23",
-   "title": {
-    "ja": "Hashiba Kaede wa Tokimekitai"
-   },
-   "contentRating": "safe",
-   "score": 0.26089182,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-11-05T22:08:17+00:00"
+ "updatedAt": "2024-11-07T21:14:43+00:00"
 }

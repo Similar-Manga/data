@@ -1,0 +1,174 @@
+{
+ "id": "ddc3aa66-9d59-4fbf-8c21-7eb8ae796fc8",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Gokuri"
+  },
+  "altTitles": [
+   {
+    "ja": "ごくりっ"
+   }
+  ],
+  "description": {
+   "es-la": "El estudiante de preparatoria Taku está enamorado de su amiga de la infancia Riko.\nSin embargo, los sentimientos de Riko son más hacia su novio, Naoki, que está en el extranjero.\n\n\"Quiero que Riko se vuelva hacia mí\", le pide Taku al santuario de la plenitud del amor.\nEntonces, Riko es poseída por un demonio y se convertirá en un cadáver si no bebe \"eso\" de Taku. ?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/本-前原-タケル/s?rh=n:465392,p_27:前原+タケル"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2016,
+  "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-05T17:01:15+00:00",
+  "updatedAt": "2024-11-05T17:03:10+00:00"
+ },
+ "relationships": [
+  {
+   "id": "01fa980d-a777-4317-a0fb-fa80809a6975",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-05T16:58:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takeru Maehara",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-05T16:58:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "01fa980d-a777-4317-a0fb-fa80809a6975",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-05T16:58:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takeru Maehara",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-05T16:58:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a8fd4a9a-b609-4a63-8a50-2dceac8f2a3a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-05T17:01:19+00:00",
+    "description": "",
+    "fileName": "058712bb-b188-4bf9-bb77-f82ce1f68ec0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-05T17:01:19+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "8716cd0a-ef10-42bf-b25c-d21131be4b74",
+   "type": "creator"
+  }
+ ]
+}

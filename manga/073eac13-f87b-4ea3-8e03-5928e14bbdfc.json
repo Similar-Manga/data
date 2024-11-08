@@ -3,15 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Prodigy and the Beast: Love Love Edition"
+   "en": "Shindou to Moujuu - Raburabu-hen"
   },
   "altTitles": [
    {
     "ja": "神童と猛獣　ラブラブ編"
+   },
+   {
+    "en": "Prodigy and the Beast: Love Love Edition"
    }
   ],
   "description": {
    "en": "Sequel to \"The Prodigy and the Beast\". It's a collection of love dovey scenes of Kenichi and Erina, who started dating after confessing at the entrance ceremony of their high school. A lot of flirting!"
+  },
+  "links": {
+   "bw": "series/412494/list",
+   "mu": "w8blfjy",
+   "raw": "https://www.pixiv.net/user/2494053/series/104021"
   },
   "originalLanguage": "ja",
   "status": "ongoing",
@@ -65,12 +73,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2023-04-23T19:39:57+00:00",
-  "updatedAt": "2023-04-23T19:41:15+00:00"
+  "updatedAt": "2024-11-06T16:11:59+00:00"
  },
  "relationships": [
   {
@@ -130,27 +150,22 @@
    }
   },
   {
-   "id": "dd4f95bf-69cf-4bac-80b1-8460b73fca9a",
+   "id": "5aac764a-030b-47dd-ad28-6549fa7daa25",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-04-23T19:40:00+00:00",
+    "createdAt": "2024-11-06T16:10:13+00:00",
     "description": "",
-    "fileName": "e2e1fad2-d050-4764-a4d4-ca1ff281e39b.jpg",
+    "fileName": "034058fa-938d-4883-aa3d-c7e51d92d4a2.jpg",
     "locale": "ja",
-    "updatedAt": "2023-04-23T19:40:00+00:00",
+    "updatedAt": "2024-11-06T16:10:13+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {
    "id": "3b80ab66-ed0f-4c1c-8950-f52563e7aae0",
    "type": "manga",
    "related": "prequel"
-  },
-  {
-   "id": "3b80ab66-ed0f-4c1c-8950-f52563e7aae0",
-   "type": "manga",
-   "related": "sequel"
   },
   {
    "id": "9c4d552c-d0b8-4bdf-bcc0-b56b407eb2b9",

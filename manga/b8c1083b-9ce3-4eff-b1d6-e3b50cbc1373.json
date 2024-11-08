@@ -1,0 +1,159 @@
+{
+ "id": "b8c1083b-9ce3-4eff-b1d6-e3b50cbc1373",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Faceless Person"
+  },
+  "altTitles": [
+   {
+    "ja": "表情(かお)のない人"
+   },
+   {
+    "ja": "表情のない人"
+   },
+   {
+    "ja-ro": "Kao no Nai Hito"
+   }
+  ],
+  "description": {
+   "en": "**Alt Official Raw:** [pixiv](https://www.pixiv.net/artworks/122799258)"
+  },
+  "links": {
+   "raw": "https://x.com/ihsuta3/status/1682948493596594177"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-06T02:55:48+00:00",
+  "updatedAt": "2024-11-06T03:04:01+00:00"
+ },
+ "relationships": [
+  {
+   "id": "52c6b4b4-11e5-41e0-99b2-aca934b4c0b0",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 森本淳士"
+    },
+    "booth": null,
+    "createdAt": "2022-04-08T19:03:07+00:00",
+    "fanBox": "https://morimoto33445.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morimoto Atsushi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/109593977",
+    "skeb": "https://skeb.jp/@ihsuta3",
+    "tumblr": null,
+    "twitter": "https://twitter.com/ihsuta3",
+    "updatedAt": "2024-11-06T01:41:54+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "52c6b4b4-11e5-41e0-99b2-aca934b4c0b0",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 森本淳士"
+    },
+    "booth": null,
+    "createdAt": "2022-04-08T19:03:07+00:00",
+    "fanBox": "https://morimoto33445.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morimoto Atsushi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/109593977",
+    "skeb": "https://skeb.jp/@ihsuta3",
+    "tumblr": null,
+    "twitter": "https://twitter.com/ihsuta3",
+    "updatedAt": "2024-11-06T01:41:54+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "983d458b-4a8b-4139-8574-317c0d0cf7c4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-06T02:58:02+00:00",
+    "description": "",
+    "fileName": "fc2efe2a-7018-4259-add9-b67824bd9f54.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-06T02:58:02+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

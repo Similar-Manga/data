@@ -12,12 +12,15 @@
   ],
   "description": {},
   "links": {
+   "bw": "series/457768/list",
    "mu": "pc3smp3",
    "raw": "https://comic.k-manga.jp/title/187200/pv"
   },
   "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "9",
   "publicationDemographic": "josei",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2023,
   "contentRating": "safe",
   "tags": [
@@ -46,22 +49,22 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Web Comic"
+      "en": "Cooking"
      },
      "description": {},
-     "group": "format",
+     "group": "theme",
      "version": 1
     }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2023-10-02T08:58:23+00:00",
-  "updatedAt": "2023-10-02T19:57:19+00:00"
+  "updatedAt": "2024-11-06T16:37:37+00:00"
  },
  "relationships": [
   {
@@ -117,16 +120,16 @@
    }
   },
   {
-   "id": "222ef325-0904-4128-b867-3f9ebf63f8d0",
+   "id": "bff68416-15df-444f-a588-ae88a95143d0",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-10-02T08:58:24+00:00",
+    "createdAt": "2024-11-06T16:37:36+00:00",
     "description": "",
-    "fileName": "1bcf44d1-525b-4561-8b9d-66fd497d72d4.jpg",
+    "fileName": "76ceb346-b87a-4eaf-9b28-12c795829ea0.jpg",
     "locale": "ja",
-    "updatedAt": "2023-10-02T08:58:24+00:00",
+    "updatedAt": "2024-11-06T16:37:36+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "3"
    }
   },
   {

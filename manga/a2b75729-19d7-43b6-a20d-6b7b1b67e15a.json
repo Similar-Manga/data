@@ -1,0 +1,153 @@
+{
+ "id": "a2b75729-19d7-43b6-a20d-6b7b1b67e15a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Poor Cambion"
+  },
+  "altTitles": [
+   {
+    "ko": "가엾은 캄비온"
+   }
+  ],
+  "description": {
+   "en": "Lian, a 30-year-old running a perfume business in the US, is searching for an assistant when she meets Eunseo, a young student studying abroad. Despite their significant age difference and Eunseo’s bold flirting from the start, they end up going to a hotel together. Once there, Eunseo reveals a shocking secret and begins to slowly strangle the terrified Lian. How will their dangerous yet irresistible relationship unfold? A spin-off of 340 Days of Grace"
+  },
+  "links": {
+   "mu": "uqa6thd"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-07T09:18:16+00:00",
+  "updatedAt": "2024-11-07T17:04:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2692241e-7315-457f-bde1-d2b6cd4eb40f",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Circles:**\nOnbororo"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akuta Michi (芥ミチ)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/308171",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/aktmc02",
+    "updatedAt": "2024-02-06T08:44:47+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2692241e-7315-457f-bde1-d2b6cd4eb40f",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Circles:**\nOnbororo"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akuta Michi (芥ミチ)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/308171",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/aktmc02",
+    "updatedAt": "2024-02-06T08:44:47+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4d5debcb-85df-4dba-a28f-13d99232d674",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-07T09:18:18+00:00",
+    "description": "",
+    "fileName": "43d5d052-f572-4377-886f-009ecdcee00d.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-07T09:18:18+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a0483f18-9ebd-4a87-966b-1d06fa6427e8",
+   "type": "creator"
+  }
+ ]
+}

@@ -6,12 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
+   "title": {
+    "en": "I Love You, Kyouko-san."
+   },
+   "contentRating": "safe",
+   "score": 0.24147265,
+   "languages": [
+    "en",
+    "zh-hk",
+    "id",
+    "it",
+    "pt-br"
+   ]
+  },
+  {
    "id": "3b6c3a0b-8752-41fc-9d3e-1310f6f28252",
    "title": {
     "en": "Giant Killing"
    },
    "contentRating": "safe",
-   "score": 0.19616917,
+   "score": 0.19494067,
    "languages": [
     "ar",
     "pt-br",
@@ -20,21 +35,6 @@
     "en",
     "pl",
     "id"
-   ]
-  },
-  {
-   "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
-   "title": {
-    "en": "I Love You, Kyouko-san."
-   },
-   "contentRating": "safe",
-   "score": 0.19317813,
-   "languages": [
-    "en",
-    "zh-hk",
-    "id",
-    "it",
-    "pt-br"
    ]
   },
   {
@@ -49,25 +49,12 @@
    ]
   },
   {
-   "id": "b9e40a22-ca9c-4f08-b537-ca6b75d8d720",
-   "title": {
-    "en": "Tokyo Cannabis Special Ward - The Guy Called Cannabis King"
-   },
-   "contentRating": "safe",
-   "score": 0.16705376,
-   "languages": [
-    "vi",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "ba3e4b3c-99d0-4e60-b007-8bd1e14ff940",
    "title": {
     "en": "The Song of the Voiceless Bird"
    },
    "contentRating": "safe",
-   "score": 0.1569329,
+   "score": 0.15676507,
    "languages": [
     "pt-br",
     "pl",
@@ -75,29 +62,16 @@
    ]
   },
   {
-   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
+   "id": "b9e40a22-ca9c-4f08-b537-ca6b75d8d720",
    "title": {
-    "en": "Revenge Doll"
-   },
-   "contentRating": "safe",
-   "score": 0.15670727,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
-   "title": {
-    "en": "Mattaku Saikin no Tantei to Kitara"
+    "en": "Tokyo Cannabis Special Ward - The Guy Called Cannabis King"
    },
    "contentRating": "safe",
    "score": 0.15649216,
    "languages": [
+    "vi",
     "en",
-    "ru",
-    "pt-br",
-    "es-la"
+    "pt-br"
    ]
   },
   {
@@ -120,12 +94,38 @@
    ]
   },
   {
+   "id": "562f13b3-6032-46cf-a25f-98d7dbeb0b7e",
+   "title": {
+    "en": "Mattaku Saikin no Tantei to Kitara"
+   },
+   "contentRating": "safe",
+   "score": 0.15649216,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
+   "title": {
+    "en": "Revenge Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.15114887,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
    "title": {
     "en": "Shadowman"
    },
    "contentRating": "safe",
-   "score": 0.15063001,
+   "score": 0.1508685,
    "languages": [
     "pt-br",
     "es",
@@ -138,30 +138,61 @@
     "en": "Great Pretender"
    },
    "contentRating": "safe",
-   "score": 0.1484788,
+   "score": 0.14824274,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "733fc3ac-deca-444e-bb79-14186e00ccf1",
+   "id": "9065edbb-87ce-4286-8f17-3e78560ce711",
    "title": {
-    "en": "Shadows House (Official Colored)"
+    "en": "Jack Jeanne: PUPPET"
    },
    "contentRating": "safe",
-   "score": 0.1475915,
+   "score": 0.14754222,
+   "languages": [
+    "hi",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "8f883600-9655-4498-b87c-65328cada285",
+   "title": {
+    "en": "The Violence Action"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba",
+   "title": {
+    "en": "Madoromi Barmaid"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
    "languages": [
     "pt-br",
     "en",
-    "vi",
-    "ru",
-    "es",
-    "id",
-    "tr",
-    "fr",
     "es-la",
-    "it"
+    "ru"
+   ]
+  },
+  {
+   "id": "5490db60-019e-4a3a-a2dc-c9d3d83b289d",
+   "title": {
+    "en": "Twin Doll no Hakoniwa"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "en",
+    "es"
    ]
   },
   {
@@ -182,56 +213,18 @@
    ]
   },
   {
-   "id": "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba",
+   "id": "3617aaec-946c-4957-83a1-599c559669b4",
    "title": {
-    "en": "Madoromi Barmaid"
+    "en": "Ultra Heaven"
    },
    "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
-   "id": "8f883600-9655-4498-b87c-65328cada285",
-   "title": {
-    "en": "The Violence Action"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "5490db60-019e-4a3a-a2dc-c9d3d83b289d",
-   "title": {
-    "en": "Twin Doll no Hakoniwa"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
+   "score": 0.14696202,
    "languages": [
     "en",
-    "es"
-   ]
-  },
-  {
-   "id": "9065edbb-87ce-4286-8f17-3e78560ce711",
-   "title": {
-    "en": "Jack Jeanne: PUPPET"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "hi",
-    "pt-br",
-    "en"
+    "vi",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2024-11-05T21:59:44+00:00"
+ "updatedAt": "2024-11-07T21:08:18+00:00"
 }

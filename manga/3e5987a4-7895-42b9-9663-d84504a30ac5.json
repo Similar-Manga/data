@@ -1,0 +1,174 @@
+{
+ "id": "3e5987a4-7895-42b9-9663-d84504a30ac5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kaitou Lupin Den - Aventurier"
+  },
+  "altTitles": [
+   {
+    "ja": "怪盗ルパン伝アバンチュリエ"
+   }
+  ],
+  "description": {
+   "ja": "時は1899年――フランスからアメリカに渡る大西洋豪華客船プロヴァンス号に、恐ろしい無線電信が届いた。 ――貴船一等船室ニ、あるせーぬ・るぱんアリ―― 果たしてルパンは誰なのか？ ホームズと並ぶ永遠のヒーロー、ルパン。"
+  },
+  "links": {
+   "al": "88282",
+   "amz": "https://www.amazon.co.jp/dp/B07B1JZFPQ",
+   "ap": "kaitou-lupin-den-aventurier",
+   "mal": "56765",
+   "mu": "c235wpf"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "10",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2013,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-07T14:14:50+00:00",
+  "updatedAt": "2024-11-07T14:15:02+00:00"
+ },
+ "relationships": [
+  {
+   "id": "49c2858a-56d7-4282-b5f5-664a4de3e1ab",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morita Takashi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "780aa7ad-dce3-4d85-8cbb-c7d51f1549b7",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-11-22T15:02:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maurice Leblanc",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-11-22T15:02:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "49c2858a-56d7-4282-b5f5-664a4de3e1ab",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morita Takashi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4688ea21-26a9-490d-8b2e-aac1a03eb858",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-07T14:14:54+00:00",
+    "description": "",
+    "fileName": "6bdc91cf-ddee-4487-b14f-234aaccd47cc.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-07T14:14:54+00:00",
+    "version": 1,
+    "volume": "10"
+   }
+  },
+  {
+   "id": "fb0ff419-912a-40f8-82c4-c7299e021275",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

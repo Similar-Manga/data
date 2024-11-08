@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d82d23f5-ac5d-4ee3-8de7-ab51097fc194",
+   "title": {
+    "en": "Tabegoro 80's Tsushin"
+   },
+   "contentRating": "safe",
+   "score": 0.30814043
+  },
+  {
    "id": "9adabe75-571b-4811-b543-3d3be83d7baf",
    "title": {
     "en": "He Was My Brother"
    },
    "contentRating": "safe",
-   "score": 0.30696478,
+   "score": 0.30694506,
    "languages": [
     "en",
     "es-la"
@@ -23,44 +31,20 @@
     "en": "Infinity Days"
    },
    "contentRating": "safe",
-   "score": 0.30000725
-  },
-  {
-   "id": "10800c0e-176b-46bc-aec7-90ac74ea3241",
-   "title": {
-    "en": "Hitohira Encore"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "4ad67e2e-5c09-4589-85fe-5ecfc090f7b6",
-   "title": {
-    "en": "Grass Flute Nori"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "d82d23f5-ac5d-4ee3-8de7-ab51097fc194",
-   "title": {
-    "en": "Tabegoro 80's Tsushin"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "25e51bec-1f9c-4198-a912-566c4ab1dd55",
-   "title": {
-    "en": "Quince Fruit"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.30000737
   },
   {
    "id": "13bdfbed-4c10-4523-9fc6-af3b4dad9579",
    "title": {
     "en": "Even in Your Absence, He Continues to Shine"
+   },
+   "contentRating": "safe",
+   "score": 0.29314
+  },
+  {
+   "id": "4ad67e2e-5c09-4589-85fe-5ecfc090f7b6",
+   "title": {
+    "en": "Grass Flute Nori"
    },
    "contentRating": "safe",
    "score": 0.2857143
@@ -74,12 +58,28 @@
    "score": 0.2857143
   },
   {
+   "id": "25e51bec-1f9c-4198-a912-566c4ab1dd55",
+   "title": {
+    "en": "Quince Fruit"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "10800c0e-176b-46bc-aec7-90ac74ea3241",
+   "title": {
+    "en": "Hitohira Encore"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "a4b23020-b2f3-4856-adb1-107ef35bdd27",
    "title": {
     "en": "Bungu Shoujo Nonono"
    },
    "contentRating": "safe",
-   "score": 0.25944912
+   "score": 0.2681213
   },
   {
    "id": "3fe2a894-23da-4b36-a429-6c80e40a6162",
@@ -87,7 +87,7 @@
     "en": "Seishun Protagonist"
    },
    "contentRating": "safe",
-   "score": 0.25660715,
+   "score": 0.2566111,
    "languages": [
     "pt-br",
     "es-la"
@@ -99,30 +99,11 @@
     "en": "Aono-kun ni Sawaritai kara Shinitai"
    },
    "contentRating": "safe",
-   "score": 0.25469264,
+   "score": 0.2546895,
    "languages": [
     "zh",
     "vi",
     "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "48f27148-7a89-4547-a983-119516ccce79",
-   "title": {
-    "en": "Natsu no Mamono"
-   },
-   "contentRating": "safe",
-   "score": 0.25132257
-  },
-  {
-   "id": "49cf00aa-6088-446e-9ec7-13fb126fe891",
-   "title": {
-    "en": "Oui Oui Days"
-   },
-   "contentRating": "safe",
-   "score": 0.25018826,
-   "languages": [
     "en"
    ]
   },
@@ -132,7 +113,26 @@
     "en": "Uso kara Deta Makoto"
    },
    "contentRating": "safe",
-   "score": 0.24982183
+   "score": 0.2524903
+  },
+  {
+   "id": "48f27148-7a89-4547-a983-119516ccce79",
+   "title": {
+    "en": "Natsu no Mamono"
+   },
+   "contentRating": "safe",
+   "score": 0.25132087
+  },
+  {
+   "id": "49cf00aa-6088-446e-9ec7-13fb126fe891",
+   "title": {
+    "en": "Oui Oui Days"
+   },
+   "contentRating": "safe",
+   "score": 0.25018877,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "65417a30-164f-4cd2-8a56-fa4e0e3c1272",
@@ -140,7 +140,7 @@
     "en": "Kokoro ga Danshi Shougakusei."
    },
    "contentRating": "safe",
-   "score": 0.24683544
+   "score": 0.24683659
   },
   {
    "id": "49c047a5-b5bc-4133-a61b-7598f1fd19b6",
@@ -148,7 +148,7 @@
     "en": "Katsura's Wig of the Day"
    },
    "contentRating": "safe",
-   "score": 0.2434938,
+   "score": 0.24349399,
    "languages": [
     "en",
     "es-la",
@@ -156,5 +156,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-05T21:44:52+00:00"
+ "updatedAt": "2024-11-07T20:56:31+00:00"
 }

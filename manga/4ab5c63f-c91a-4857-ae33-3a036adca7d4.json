@@ -7,13 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "Café gourmand"
+    "fr": "Café gourmand"
    },
    {
     "ja-ro": "Cafe Relish ni Oide"
-   },
-   {
-    "ja-ro": "Chara Cafe Relish ni Oide"
    },
    {
     "en": "Welcome To Café Relish"
@@ -22,7 +19,7 @@
     "ru": "Добро пожаловать в кафе «Relish»"
    },
    {
-    "ja": "カフェレリッシュにおいで"
+    "ja": "カフェRelishにおいで"
    }
   ],
   "description": {
@@ -31,10 +28,14 @@
   },
   "links": {
    "al": "41573",
+   "amz": "https://www.amazon.co.jp/dp/4861343097/",
    "ap": "cafe-relish-ni-oide",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-65321",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/125282/",
    "kt": "21617",
    "mal": "11573",
-   "mu": "35882"
+   "mu": "35882",
+   "raw": "https://www.cmoa.jp/title/20900/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -88,16 +89,18 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2018-02-17T18:13:42+00:00",
-  "updatedAt": "2023-12-08T13:31:05+00:00"
+  "updatedAt": "2024-11-05T08:11:13+00:00"
  },
  "relationships": [
   {
    "id": "57d36e4f-3926-431a-9cb1-14110c3078d4",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nタカツキノボル"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -112,9 +115,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-05T08:12:30+00:00",
+    "version": 2,
+    "website": "http://www7b.biglobe.ne.jp/~takatsuki/",
     "weibo": null,
     "youtube": null
    }
@@ -123,7 +126,9 @@
    "id": "57d36e4f-3926-431a-9cb1-14110c3078d4",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nタカツキノボル"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -138,9 +143,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-05T08:12:30+00:00",
+    "version": 2,
+    "website": "http://www7b.biglobe.ne.jp/~takatsuki/",
     "weibo": null,
     "youtube": null
    }
@@ -153,9 +158,9 @@
     "description": "",
     "fileName": "5bfa81a6-8552-40cf-a0c4-e86a37c75267.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:49:23+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-05T08:10:15+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

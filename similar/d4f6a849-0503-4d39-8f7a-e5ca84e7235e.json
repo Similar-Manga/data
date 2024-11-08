@@ -11,7 +11,7 @@
     "en": "Bocchi no Boku ni Kyousei Kanojo ga Yattekita"
    },
    "contentRating": "safe",
-   "score": 0.2850645,
+   "score": 0.28507695,
    "languages": [
     "pt-br",
     "en",
@@ -25,7 +25,7 @@
     "en": "Juukinzoku Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.2703456,
+   "score": 0.2703545,
    "languages": [
     "en"
    ]
@@ -36,10 +36,23 @@
     "en": "Miboujin Elf no Kanamori-san"
    },
    "contentRating": "safe",
-   "score": 0.26763967,
+   "score": 0.26764047,
    "languages": [
     "es-la",
     "en"
+   ]
+  },
+  {
+   "id": "a2f14ca0-1fad-4198-95cf-d5bfa053238b",
+   "title": {
+    "en": "Nemuro-kun wa Kao ga Ii!"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "es-la",
+    "id"
    ]
   },
   {
@@ -60,17 +73,22 @@
    ]
   },
   {
-   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
+   "id": "6cc0f7c2-0db6-432b-8189-fcedbcdda888",
    "title": {
-    "en": "Chigau Miyahara Omae janai!"
+    "en": "Hitomi-chan Is Shy With Strangers"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "vi",
+    "en",
     "pt-br",
     "es-la",
-    "en"
+    "fr",
+    "ru",
+    "ar",
+    "id",
+    "hi",
+    "vi"
    ]
   },
   {
@@ -102,66 +120,20 @@
    ]
   },
   {
-   "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
+   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
    "title": {
-    "ja-ro": "Houkago Kitaku Biyori"
+    "en": "Skip and Loafer"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "es-la",
-    "vi",
-    "en",
-    "ru",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
-   "title": {
-    "en": "Kimi no Love o Misetekure!"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "vi",
     "pt-br",
-    "ru",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "a2f14ca0-1fad-4198-95cf-d5bfa053238b",
-   "title": {
-    "en": "Nemuro-kun wa Kao ga Ii!"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
+    "uk",
     "en",
+    "vi",
     "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "6cc0f7c2-0db6-432b-8189-fcedbcdda888",
-   "title": {
-    "en": "Hitomi-chan Is Shy With Strangers"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "fr",
     "ru",
-    "ar",
-    "id",
-    "hi",
-    "vi"
+    "tl"
    ]
   },
   {
@@ -177,13 +149,17 @@
    ]
   },
   {
-   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
    "title": {
-    "en": "Tokiwa-san to Inoue-kun no Boushin"
+    "en": "Kimi no Love o Misetekure!"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
+    "vi",
+    "pt-br",
+    "ru",
+    "es-la",
     "en"
    ]
   },
@@ -205,6 +181,33 @@
    ]
   },
   {
+   "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
+   "title": {
+    "ja-ro": "Houkago Kitaku Biyori"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "es-la",
+    "vi",
+    "en",
+    "ru",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "title": {
+    "en": "Tokiwa-san to Inoue-kun no Boushin"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "8ff245e6-df38-41ac-86db-886126c1910d",
    "title": {
     "en": "Tenshi-chan to Akuma-kun"
@@ -216,22 +219,19 @@
    ]
   },
   {
-   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
+   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
    "title": {
-    "en": "Skip and Loafer"
+    "en": "Chigau Miyahara Omae janai!"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "pt-br",
-    "uk",
-    "en",
     "vi",
+    "pt-br",
     "es-la",
-    "ru",
-    "tl"
+    "en"
    ]
   }
  ],
- "updatedAt": "2024-11-05T22:27:58+00:00"
+ "updatedAt": "2024-11-07T21:29:14+00:00"
 }

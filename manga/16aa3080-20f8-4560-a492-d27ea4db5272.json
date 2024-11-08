@@ -14,6 +14,9 @@
    },
    {
     "ja-ro": "Koakuma Kyoushi Saiko"
+   },
+   {
+    "en": "The Devil in School"
    }
   ],
   "description": {
@@ -195,9 +198,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2024-05-08T02:41:52+00:00",
-  "updatedAt": "2024-07-16T19:16:43+00:00"
+  "updatedAt": "2024-11-06T15:05:20+00:00"
  },
  "relationships": [
   {
@@ -264,6 +267,11 @@
     "version": 1,
     "volume": "2"
    }
+  },
+  {
+   "id": "926a0010-1e84-42a8-b559-7cf7b0cb8126",
+   "type": "manga",
+   "related": "alternate_version"
   },
   {
    "id": "d03635af-51ac-4884-b71a-c72d82a22eaf",

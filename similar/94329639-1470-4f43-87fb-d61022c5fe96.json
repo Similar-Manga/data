@@ -11,7 +11,7 @@
     "en": "Record of the Dead"
    },
    "contentRating": "safe",
-   "score": 0.16292654,
+   "score": 0.16291134,
    "languages": [
     "en"
    ]
@@ -29,14 +29,16 @@
    ]
   },
   {
-   "id": "7275875a-7713-4895-969f-a5e15186ba67",
+   "id": "416e63e0-a641-4338-b9e8-2461e81ff152",
    "title": {
-    "en": "Phantom Mansion"
+    "en": "How to Survive as a Maid in a Horror Game"
    },
    "contentRating": "safe",
-   "score": 0.12620746,
+   "score": 0.12790135,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "pl"
    ]
   },
   {
@@ -51,12 +53,23 @@
    ]
   },
   {
+   "id": "7275875a-7713-4895-969f-a5e15186ba67",
+   "title": {
+    "en": "Phantom Mansion"
+   },
+   "contentRating": "safe",
+   "score": 0.12620746,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "df8763cd-322a-465f-b730-e55b93d1fda8",
    "title": {
     "en": "Ribs Woman"
    },
    "contentRating": "safe",
-   "score": 0.11925969,
+   "score": 0.11925393,
    "languages": [
     "en"
    ]
@@ -67,7 +80,7 @@
     "en": "Junji Ito: A Study From the Abyss of Horror"
    },
    "contentRating": "safe",
-   "score": 0.11584399,
+   "score": 0.11584026,
    "languages": [
     "en",
     "pl"
@@ -108,28 +121,6 @@
    ]
   },
   {
-   "id": "abf7336b-3c0e-4e82-a530-978a7c7d9daa",
-   "title": {
-    "en": "Treasure Chest"
-   },
-   "contentRating": "safe",
-   "score": 0.08924215,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cfdc5375-facb-477a-a229-d75a7d326064",
-   "title": {
-    "en": "Message"
-   },
-   "contentRating": "safe",
-   "score": 0.08924215,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "76051a0c-1029-4842-a739-f3d0138e9346",
    "title": {
     "en": "Souichi's Junji Ito Exhibition: Enchantment"
@@ -155,24 +146,37 @@
    ]
   },
   {
-   "id": "60d05f87-f4a2-4ff1-b553-ecd3b7112ebc",
+   "id": "cfdc5375-facb-477a-a229-d75a7d326064",
    "title": {
-    "en": "The Phantom of the Opera"
+    "en": "Message"
    },
    "contentRating": "safe",
-   "score": 0.0798206,
+   "score": 0.08924215,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f062be82-3d8f-4441-885a-0d0bf7771196",
+   "id": "abf7336b-3c0e-4e82-a530-978a7c7d9daa",
    "title": {
-    "en": "Hiruko"
+    "en": "Treasure Chest"
+   },
+   "contentRating": "safe",
+   "score": 0.08924215,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1e2abe58-293a-4f92-8a05-d816a279d066",
+   "title": {
+    "en": "Dream Vendor"
    },
    "contentRating": "safe",
    "score": 0.0798206,
    "languages": [
+    "it",
+    "pl",
     "en"
    ]
   },
@@ -188,5 +192,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-05T21:58:13+00:00"
+ "updatedAt": "2024-11-07T21:07:05+00:00"
 }

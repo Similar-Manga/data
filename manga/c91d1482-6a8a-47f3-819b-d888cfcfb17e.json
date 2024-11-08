@@ -14,26 +14,25 @@
    }
   ],
   "description": {
-   "en": "In the Meiji restoration period of Japan, the government bans ghost stories and tales about demons. Despite this, a rental book shop called “the Reflected Rabbit” lends out books about ghouls and ghosts to its patrons."
+   "en": "In the Meiji Restoration period of Japan, the government bans ghost stories and tales about demons. Despite this, a rental book shop called the “Reflected Rabbit” lends out books about ghouls and ghosts to its patrons."
   },
   "links": {
    "al": "74831",
-   "amz": "https://www.amazon.co.jp/gp/product/B074C91HSC",
+   "amz": "https://www.amazon.co.jp/dp/B074C91HSC",
    "ap": "mukahi-usagidou-nikki",
-   "bw": "series/96867/",
+   "bw": "series/96867",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1366329",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/245868/",
    "kt": "24411",
    "mal": "44831",
-   "mu": "75169",
-   "raw": "https://www.comicbunch.com/manga/end/mukaiusagidounikki/"
+   "mu": "75169"
   },
   "originalLanguage": "ja",
   "lastVolume": "8",
-  "lastChapter": "55.5",
+  "lastChapter": "55",
   "publicationDemographic": "seinen",
   "status": "completed",
-  "year": 2013,
+  "year": 2012,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -78,16 +77,18 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2018-11-24T21:26:07+00:00",
-  "updatedAt": "2022-05-08T18:24:21+00:00"
+  "updatedAt": "2024-11-05T22:48:25+00:00"
  },
  "relationships": [
   {
    "id": "cf926932-960a-4a3b-a6e0-3855d453412b",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鷹野久"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -101,9 +102,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/takanohisa",
+    "updatedAt": "2024-11-05T17:05:51+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -113,7 +114,9 @@
    "id": "cf926932-960a-4a3b-a6e0-3855d453412b",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鷹野久"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -127,25 +130,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/takanohisa",
+    "updatedAt": "2024-11-05T17:05:51+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "cf846d36-e9f4-4fa8-8cc7-990e1078bd07",
+   "id": "e386d89f-1c91-4f42-849b-d40c53656d0a",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-23T05:59:07+00:00",
+    "createdAt": "2021-05-28T23:22:41+00:00",
     "description": "",
-    "fileName": "5fe662ad-abd3-4a48-8d47-ce3c6754ba52.jpg",
+    "fileName": "0ded455e-6a07-4e56-b4f6-daff6a0b585a.png",
     "locale": "ja",
-    "updatedAt": "2021-05-23T05:59:07+00:00",
+    "updatedAt": "2021-05-28T23:22:41+00:00",
     "version": 2,
-    "volume": "3"
+    "volume": "8"
    }
   }
  ]

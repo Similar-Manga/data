@@ -6,26 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3e0b9d06-cf97-4c12-9e0b-f6e41a72181b",
-   "title": {
-    "en": "Stray Dog"
-   },
-   "contentRating": "safe",
-   "score": 0.30230445,
-   "languages": [
-    "en",
-    "it",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
    "id": "a438d102-3eec-4639-b6e5-70bdb08e0cba",
    "title": {
     "en": "Is Your Dog Safe Now?"
    },
    "contentRating": "safe",
-   "score": 0.28645957,
+   "score": 0.28643554,
    "languages": [
     "en"
    ]
@@ -36,17 +22,20 @@
     "en": "Dog Signal"
    },
    "contentRating": "safe",
-   "score": 0.2808331
+   "score": 0.28080013
   },
   {
-   "id": "31824ff0-fe87-4ae9-a14f-89e82a22d46f",
+   "id": "3e0b9d06-cf97-4c12-9e0b-f6e41a72181b",
    "title": {
-    "en": "Atsuko chan is a dog !?"
+    "en": "Stray Dog"
    },
    "contentRating": "safe",
-   "score": 0.26566878,
+   "score": 0.2692863,
    "languages": [
-    "en"
+    "en",
+    "it",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -55,7 +44,18 @@
     "en": "Aru Hi Inu no Kuni kara Tegami ga Kite"
    },
    "contentRating": "safe",
-   "score": 0.26425275
+   "score": 0.26828107
+  },
+  {
+   "id": "31824ff0-fe87-4ae9-a14f-89e82a22d46f",
+   "title": {
+    "en": "Atsuko chan is a dog !?"
+   },
+   "contentRating": "safe",
+   "score": 0.2658123,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "99ca0a26-cdf5-4f7f-83a3-e743fa9645b1",
@@ -63,7 +63,7 @@
     "ja": "Isekai Tensei Shitara Aiken ga Saikyou ni Narimashita"
    },
    "contentRating": "safe",
-   "score": 0.2586974,
+   "score": 0.25867102,
    "languages": [
     "pt-br",
     "en",
@@ -71,20 +71,12 @@
    ]
   },
   {
-   "id": "b3623bac-4d21-41a4-ac2b-e7b53a60cfbf",
-   "title": {
-    "en": "Pavlov's Dogs"
-   },
-   "contentRating": "safe",
-   "score": 0.25083524
-  },
-  {
    "id": "f7d3a91a-f47a-43ce-9a2c-4da813b15eea",
    "title": {
     "en": "My Dog Becomes a Human"
    },
    "contentRating": "safe",
-   "score": 0.24893208,
+   "score": 0.24888463,
    "languages": [
     "uk",
     "ro",
@@ -100,12 +92,24 @@
    ]
   },
   {
+   "id": "06780848-7ca6-4670-90e6-9edafe1cb975",
+   "title": {
+    "en": "Love Wan!"
+   },
+   "contentRating": "safe",
+   "score": 0.24677362,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "64edb636-7dd5-406e-90ae-98796f38f00a",
    "title": {
     "en": "Ame to Kimi to (Webcomic)"
    },
    "contentRating": "safe",
-   "score": 0.24784023,
+   "score": 0.24598776,
    "languages": [
     "th",
     "en",
@@ -116,24 +120,12 @@
    ]
   },
   {
-   "id": "06780848-7ca6-4670-90e6-9edafe1cb975",
-   "title": {
-    "en": "Love Wan!"
-   },
-   "contentRating": "safe",
-   "score": 0.24680197,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "45c31711-ed65-419c-81eb-0a030030a76a",
    "title": {
     "en": "Nightmare of Dogs"
    },
    "contentRating": "safe",
-   "score": 0.24508807
+   "score": 0.24505231
   },
   {
    "id": "2c694b76-5924-4b91-ba1a-4e1319ec9aeb",
@@ -141,7 +133,7 @@
     "en": "Birth of a Dog"
    },
    "contentRating": "safe",
-   "score": 0.24160811,
+   "score": 0.24158809,
    "languages": [
     "en"
    ]
@@ -152,7 +144,7 @@
     "en": "Tibetan Mastiff Rock Dog"
    },
    "contentRating": "safe",
-   "score": 0.24146415
+   "score": 0.24143505
   },
   {
    "id": "0f4b8a6e-b76b-4b95-9d64-c3e85a635594",
@@ -160,7 +152,15 @@
     "en": "Guide Dog Prometheus"
    },
    "contentRating": "safe",
-   "score": 0.238385
+   "score": 0.23833586
+  },
+  {
+   "id": "b3623bac-4d21-41a4-ac2b-e7b53a60cfbf",
+   "title": {
+    "en": "Pavlov's Dogs"
+   },
+   "contentRating": "safe",
+   "score": 0.23363128
   },
   {
    "id": "61d53bb7-b868-4ab2-ac1f-d309581e275e",
@@ -168,7 +168,7 @@
     "en": "Seihantai na Watashitachi"
    },
    "contentRating": "safe",
-   "score": 0.23017411,
+   "score": 0.23014326,
    "languages": [
     "en",
     "es-la",
@@ -182,11 +182,11 @@
     "en": "Extreme Dog Owner"
    },
    "contentRating": "safe",
-   "score": 0.22979937,
+   "score": 0.22977959,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-05T21:45:05+00:00"
+ "updatedAt": "2024-11-07T20:56:40+00:00"
 }

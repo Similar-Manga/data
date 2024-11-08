@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "991fbf53-7c9f-407f-be6b-9869c6e91f7a",
-   "title": {
-    "en": "Crisis 2050"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
    "id": "6cfe3826-bff3-4388-873f-81326bdeceb6",
    "title": {
     "en": "Dune Messiah"
@@ -30,12 +22,20 @@
    "score": 0.23328476
   },
   {
+   "id": "991fbf53-7c9f-407f-be6b-9869c6e91f7a",
+   "title": {
+    "en": "Crisis 2050"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
+  },
+  {
    "id": "59af2e53-6c02-4efe-bcd7-48215f875bf8",
    "title": {
     "en": "Namima no Kodomo-tachi"
    },
    "contentRating": "safe",
-   "score": 0.21241824
+   "score": 0.21238543
   },
   {
    "id": "ba1c6284-8e52-472f-b27d-2f10b71dbfe9",
@@ -47,6 +47,14 @@
    "languages": [
     "zh"
    ]
+  },
+  {
+   "id": "40c2a676-d48c-4dba-a9ff-6718ca2d886c",
+   "title": {
+    "en": "Zegapain XOR"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
   },
   {
    "id": "134e3ea9-e26c-4efa-8330-6542011f1ea4",
@@ -73,20 +81,12 @@
    "score": 0.20203052
   },
   {
-   "id": "40c2a676-d48c-4dba-a9ff-6718ca2d886c",
-   "title": {
-    "en": "Zegapain XOR"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
    "id": "4b961bba-f68d-487e-ae12-5f638fb19b52",
    "title": {
     "en": "Ashita, Hadashi de Koi."
    },
    "contentRating": "safe",
-   "score": 0.19295721,
+   "score": 0.19295542,
    "languages": [
     "en",
     "es-la",
@@ -108,7 +108,7 @@
     "en": "Maou-jou, Akibeya arimasu!"
    },
    "contentRating": "safe",
-   "score": 0.1750732
+   "score": 0.17508115
   },
   {
    "id": "91480fbd-93c4-484d-9c6f-33a7e2de33aa",
@@ -116,7 +116,18 @@
     "en": "The Skull Man"
    },
    "contentRating": "safe",
-   "score": 0.17241919
+   "score": 0.17241758
+  },
+  {
+   "id": "f20fd674-d661-4736-9b2d-b07b51841923",
+   "title": {
+    "en": "Gamera Vs. Barugon"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "e5148679-29de-4fff-b1a1-c77c44c41d5a",
@@ -131,24 +142,13 @@
    ]
   },
   {
-   "id": "f20fd674-d661-4736-9b2d-b07b51841923",
-   "title": {
-    "en": "Gamera Vs. Barugon"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "db1e0f80-1b09-4652-9029-a733e8020828",
    "title": {
     "en": "Shin Mahouka Koukou no Rettousei: Cygnus no Otome-tachi"
    },
    "contentRating": "safe",
-   "score": 0.15638377
+   "score": 0.15638201
   }
  ],
- "updatedAt": "2024-11-05T22:40:19+00:00"
+ "updatedAt": "2024-11-07T21:37:57+00:00"
 }

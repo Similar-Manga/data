@@ -7,31 +7,52 @@
   },
   "altTitles": [
    {
-    "en": "Dai-5 Tokusou"
+    "ja": "第伍特捜"
    },
    {
-    "en": "Daigo Tokusou"
+    "ja-ro": "Daigo Tokusou"
    },
    {
-    "en": "第伍特捜"
+    "ja-ro": "Dai-5 Tokusou"
+   },
+   {
+    "en": "Battle Field No. 5"
    }
   ],
   "description": {
    "en": "Island No. 5 is a chaotic place said to have the highest population density in the world. On this island, the police force is just a decoration and the four crime syndicates act as police over each of the four zones the island is divided into. Because of this, only the people who score the lowest on the police academy exam are sent to this lawless island so that they may just leave things be.   \n  \nMeet Inada Daigo, a 17-year-old newbie just assigned to this island. His strong sense of justice makes him pick a fight with the mafia ruling over the northern region, where he was assigned to, on his first day. Now he will carve his name in Island No. 5's history as the strongest rookie policeman ever."
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/dp/4063955133",
-   "bw": "de06cca848-daaf-4ed5-912b-2ec17ca3880d",
+   "al": "95753",
+   "amz": "https://www.amazon.co.jp/s?i=stripbooks\u0026rh=p_28:第伍特捜\u0026s=date-desc-rank",
+   "ap": "daigo-tokusou",
+   "bw": "series/54709",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/331057/",
+   "kt": "42441",
    "mal": "92055",
    "mu": "124059",
-   "raw": "http://www.shonenmagazine.com/smaga/daigotokusou"
+   "raw": "https://pocket.shonenmagazine.com/episode/10834108156640767879"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
+  "lastChapter": "14",
   "publicationDemographic": "shounen",
   "status": "completed",
+  "year": 2015,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
@@ -70,16 +91,18 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2018-11-13T02:35:51+00:00",
-  "updatedAt": "2024-07-13T14:33:38+00:00"
+  "updatedAt": "2024-11-06T07:35:40+00:00"
  },
  "relationships": [
   {
    "id": "785aee28-f688-4789-bb2a-f66a7812fc41",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鉄田猿児"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -90,12 +113,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/529682",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/tetusaruno",
+    "updatedAt": "2024-11-06T07:32:53+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -105,7 +128,9 @@
    "id": "785aee28-f688-4789-bb2a-f66a7812fc41",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鉄田猿児"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -116,28 +141,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/529682",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/tetusaruno",
+    "updatedAt": "2024-11-06T07:32:53+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "4caa150d-9f94-4fa4-8555-2c568366cc16",
+   "id": "48ec75cd-a37b-41d2-ba7b-c0c7167b83fd",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:51:21+00:00",
+    "createdAt": "2024-11-06T07:27:15+00:00",
     "description": "",
-    "fileName": "158d994a-7eca-4813-8124-29422f37dcba.png",
+    "fileName": "f693ae54-df48-4c78-b468-a0148aaef61c.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:51:21+00:00",
+    "updatedAt": "2024-11-06T07:27:15+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

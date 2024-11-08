@@ -3,26 +3,35 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Junjou Romantica - Chika*Chika (Doujinshi)"
+   "en": "Junjou Romantica dj - Chika * Chika"
   },
   "altTitles": [
    {
-    "en": "Junjou Romantica dj - Chika*Chika"
+    "ja": "チカチカチープスター"
+   },
+   {
+    "ja": "シアターチカチカチッカ"
+   },
+   {
+    "ja-ro": "Junjou Romantica dj - Chika * Chika Cheap ★ Star"
+   },
+   {
+    "ja-ro": "Junjou Romantica dj - Theater Chika Chika Chikka"
    }
   ],
   "description": {
-   "en": ""
+   "en": "Side stories and gags featuring Usagi x Misaki and Nowaki x Hiroki. Also contains short (novel) stories in the Junai universe.\n\n[Volume 1](https://www.suruga-ya.jp/product/detail/ZHOYU2373)\n[Volume 2](https://www.suruga-ya.jp/product/detail/ZHOYU2372)"
   },
   "links": {
    "al": "37188",
    "kt": "14834",
    "mal": "7188",
-   "mu": "28419"
+   "mu": "28419",
+   "raw": "https://www.suruga-ya.jp/product/detail/ZHOYU2373"
   },
   "originalLanguage": "ja",
-  "lastVolume": "1",
-  "lastChapter": "1",
   "status": "completed",
+  "year": 2003,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -79,16 +88,18 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 9,
   "createdAt": "2019-10-21T05:52:12+00:00",
-  "updatedAt": "2021-05-25T15:41:07+00:00"
+  "updatedAt": "2024-11-07T06:51:05+00:00"
  },
  "relationships": [
   {
    "id": "a1afcb8e-d059-4c49-b274-eaf42ea86f97",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n中村春菊"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -102,9 +113,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/marukawashoten",
+    "updatedAt": "2024-11-07T02:29:07+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -114,7 +125,9 @@
    "id": "a1afcb8e-d059-4c49-b274-eaf42ea86f97",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n中村春菊"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -128,25 +141,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/marukawashoten",
+    "updatedAt": "2024-11-07T02:29:07+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "01e9d8aa-1ecc-4ff7-882e-472387dce25e",
+   "id": "0f0713ae-1759-4852-aa8d-b496f63ec7db",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:30:53+00:00",
+    "createdAt": "2024-11-07T06:51:11+00:00",
     "description": "",
-    "fileName": "b21ca17c-8581-4caa-a0cb-abb9bc70a28f.jpg",
+    "fileName": "deb63131-efba-4204-8179-d6ea08b53dec.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:30:53+00:00",
+    "updatedAt": "2024-11-07T06:51:11+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   },
   {

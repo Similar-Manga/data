@@ -21,7 +21,7 @@
    "al": "135232",
    "amz": "https://www.amazon.co.jp/dp/4107724565/",
    "ap": "kimi-ni-aitai",
-   "bw": "series/336219",
+   "bw": "series/336219/list",
    "cdj": "https://www.cdjapan.co.jp/searchuni?q=君に会いたい+売野機子",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/676291/",
    "mu": "183264",
@@ -29,7 +29,7 @@
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
-  "lastChapter": "16",
+  "lastChapter": "17",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2021,
@@ -74,24 +74,12 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 15,
   "createdAt": "2022-01-26T15:55:41+00:00",
-  "updatedAt": "2024-09-24T07:41:02+00:00"
+  "updatedAt": "2024-11-05T16:29:33+00:00"
  },
  "relationships": [
   {
@@ -151,14 +139,14 @@
    }
   },
   {
-   "id": "f291eebd-5095-4c9e-bb7f-914387237b5a",
+   "id": "a6d4e0e5-ba29-46a2-8dbb-3d80ec80804c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-06-02T11:44:17+00:00",
+    "createdAt": "2024-11-05T16:29:00+00:00",
     "description": "",
-    "fileName": "67baca36-28eb-47dd-8bda-9dd6c02a3ac7.jpg",
+    "fileName": "8b37666c-ed13-4edb-9908-83ed5f90c414.jpg",
     "locale": "ja",
-    "updatedAt": "2024-06-02T11:44:17+00:00",
+    "updatedAt": "2024-11-05T16:29:00+00:00",
     "version": 1,
     "volume": "2"
    }

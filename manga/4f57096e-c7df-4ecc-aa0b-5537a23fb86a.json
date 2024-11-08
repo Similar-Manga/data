@@ -17,7 +17,7 @@
   "links": {
    "al": "173482",
    "amz": "https://www.amazon.co.jp/dp/B0CQRBT8GT",
-   "bw": "series/450023",
+   "bw": "series/450023/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/806058/",
    "mu": "gzruato",
    "raw": "https://comic-walker.com/contents/detail/KDCW_FS04204071010000_68/"
@@ -67,18 +67,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -92,9 +80,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2023-05-26T11:25:38+00:00",
-  "updatedAt": "2024-09-27T21:27:48+00:00"
+  "updatedAt": "2024-11-06T15:57:54+00:00"
  },
  "relationships": [
   {
@@ -154,14 +142,14 @@
    }
   },
   {
-   "id": "4891b8ac-ffc3-4e66-b2be-ef401df0821e",
+   "id": "be6b84d3-9e1c-470c-a1c0-f87034ca305a",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-14T22:56:09+00:00",
+    "createdAt": "2024-11-06T15:59:04+00:00",
     "description": "",
-    "fileName": "3b9ddda5-e4de-4b73-b8c2-ad97021a9d1a.jpg",
+    "fileName": "b4e57fa6-f99f-4169-9044-80f797c43764.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-14T22:56:09+00:00",
+    "updatedAt": "2024-11-06T15:59:04+00:00",
     "version": 1,
     "volume": "2"
    }

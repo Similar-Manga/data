@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cecc7261-1af6-43d4-8b69-1a0173a8b4f7",
+   "title": {
+    "en": "Code Name: TARANTULA"
+   },
+   "contentRating": "safe",
+   "score": 0.26383036,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
    "title": {
     "en": "KILLER PARENT"
    },
    "contentRating": "safe",
-   "score": 0.2675152,
+   "score": 0.2590829,
    "languages": [
     "tr",
     "en",
@@ -19,12 +30,23 @@
    ]
   },
   {
-   "id": "cecc7261-1af6-43d4-8b69-1a0173a8b4f7",
+   "id": "08daf943-9d76-44fe-85dc-4c24aebe1f20",
    "title": {
-    "en": "Code Name: TARANTULA"
+    "en": "Company Grievance Squad"
    },
    "contentRating": "safe",
-   "score": 0.2658767,
+   "score": 0.25729722,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cd79e505-ca47-4423-9ce8-8bd973095afe",
+   "title": {
+    "en": "The Founder"
+   },
+   "contentRating": "safe",
+   "score": 0.25538582,
    "languages": [
     "en"
    ]
@@ -35,33 +57,11 @@
     "en": "PSYCHOPATH HERO"
    },
    "contentRating": "safe",
-   "score": 0.26333448,
+   "score": 0.24913126,
    "languages": [
     "en",
     "it",
     "pl"
-   ]
-  },
-  {
-   "id": "cd79e505-ca47-4423-9ce8-8bd973095afe",
-   "title": {
-    "en": "The Founder"
-   },
-   "contentRating": "safe",
-   "score": 0.25686517,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "08daf943-9d76-44fe-85dc-4c24aebe1f20",
-   "title": {
-    "en": "Company Grievance Squad"
-   },
-   "contentRating": "safe",
-   "score": 0.25567135,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -70,7 +70,7 @@
     "en": "A Bona fide Killer"
    },
    "contentRating": "safe",
-   "score": 0.25149238,
+   "score": 0.24838875,
    "languages": [
     "en"
    ]
@@ -92,7 +92,7 @@
     "en": "You Mao's Labyrinth"
    },
    "contentRating": "safe",
-   "score": 0.24645476,
+   "score": 0.24294175,
    "languages": [
     "en",
     "ru"
@@ -104,32 +104,7 @@
     "en": "Trial by God’s Descendants"
    },
    "contentRating": "safe",
-   "score": 0.24109302,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0b10e36d-25e3-4a4b-a381-ebf395e9646e",
-   "title": {
-    "en": "Linked Soul"
-   },
-   "contentRating": "safe",
-   "score": 0.24035104,
-   "languages": [
-    "ru",
-    "tr",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "b4af43f1-6072-4511-ad04-c4cd365cb7ef",
-   "title": {
-    "en": "Shadow Hack"
-   },
-   "contentRating": "safe",
-   "score": 0.23965617,
+   "score": 0.23801832,
    "languages": [
     "en"
    ]
@@ -140,35 +115,34 @@
     "en": "Coin Revenge"
    },
    "contentRating": "safe",
-   "score": 0.23893256,
+   "score": 0.23596564,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "28bcb966-313a-40ad-8d52-fcd2a9089436",
+   "id": "b4af43f1-6072-4511-ad04-c4cd365cb7ef",
    "title": {
-    "en": "Return of the Bloodthirsty Police"
+    "en": "Shadow Hack"
    },
    "contentRating": "safe",
-   "score": 0.23506396,
+   "score": 0.23558958,
    "languages": [
-    "en",
-    "pl",
-    "pt-br"
+    "en"
    ]
   },
   {
-   "id": "e6ff979f-33e3-4c0a-b1dd-299c555a355d",
+   "id": "0b10e36d-25e3-4a4b-a381-ebf395e9646e",
    "title": {
-    "en": "MZ"
+    "en": "Linked Soul"
    },
    "contentRating": "safe",
-   "score": 0.23502785,
+   "score": 0.23412742,
    "languages": [
+    "ru",
+    "tr",
     "en",
-    "fr",
-    "es-la"
+    "pt-br"
    ]
   },
   {
@@ -183,16 +157,46 @@
    ]
   },
   {
-   "id": "20c7ce58-acb3-405a-979d-3c25a7d2f2b9",
+   "id": "e6ff979f-33e3-4c0a-b1dd-299c555a355d",
    "title": {
-    "en": "Preview"
+    "en": "MZ"
    },
    "contentRating": "safe",
-   "score": 0.23150712,
+   "score": 0.23230517,
    "languages": [
+    "en",
+    "fr",
+    "es-la"
+   ]
+  },
+  {
+   "id": "28bcb966-313a-40ad-8d52-fcd2a9089436",
+   "title": {
+    "en": "Return of the Bloodthirsty Police"
+   },
+   "contentRating": "safe",
+   "score": 0.23221655,
+   "languages": [
+    "en",
+    "pl",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "a3db9212-7e87-44ea-8264-23f914671444",
+   "title": {
+    "en": "Killer Peter"
+   },
+   "contentRating": "safe",
+   "score": 0.22880529,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "fr",
+    "ar",
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-05T22:43:58+00:00"
+ "updatedAt": "2024-11-07T21:40:34+00:00"
 }

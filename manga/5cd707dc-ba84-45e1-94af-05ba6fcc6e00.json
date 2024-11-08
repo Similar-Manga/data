@@ -7,13 +7,13 @@
   },
   "altTitles": [
    {
-    "en": "Koisuru Bitch-kun"
+    "ja-ro": "Koisuru Bitch-kun"
    },
    {
-    "en": "恋するビッチくん"
+    "ja": "恋するビッチくん"
    },
    {
-    "en": "轻浮的桃色恋人"
+    "zh": "轻浮的桃色恋人"
    }
   ],
   "description": {
@@ -22,15 +22,20 @@
   },
   "links": {
    "al": "71561",
+   "amz": "https://www.amazon.co.jp/dp/4861345715/",
    "ap": "koisuru-bicchi-kun",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1261776",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/162836/",
    "kt": "21446",
    "mal": "41561",
-   "mu": "81973"
+   "mu": "81973",
+   "raw": "https://www.cmoa.jp/title/59383/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "6.5",
   "status": "completed",
+  "year": 2012,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
@@ -112,16 +117,18 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2018-07-17T21:46:28+00:00",
-  "updatedAt": "2018-07-17T21:46:28+00:00"
+  "updatedAt": "2024-11-05T08:54:08+00:00"
  },
  "relationships": [
   {
    "id": "4554b481-af9c-4d0d-adb6-1c6453aba47c",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n古川ふみ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -132,13 +139,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=3887170",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/fumi_full",
+    "updatedAt": "2024-11-05T08:15:33+00:00",
+    "version": 2,
+    "website": "http://pas8.sakura.ne.jp/micoma/sun",
     "weibo": null,
     "youtube": null
    }
@@ -147,7 +154,9 @@
    "id": "4554b481-af9c-4d0d-adb6-1c6453aba47c",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n古川ふみ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -158,28 +167,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=3887170",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/fumi_full",
+    "updatedAt": "2024-11-05T08:15:33+00:00",
+    "version": 2,
+    "website": "http://pas8.sakura.ne.jp/micoma/sun",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "c393da12-aacf-4fd3-9fcf-116f6527ad72",
+   "id": "a045fd3f-0246-4f50-9403-fb9527037f31",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:41:19+00:00",
+    "createdAt": "2021-05-23T08:12:00+00:00",
     "description": "",
-    "fileName": "4df9dfa4-8066-48ef-af43-b45fc2fbe4a3.jpg",
+    "fileName": "801aeb0a-cc2f-411b-93a2-fa2936eeb401.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:41:19+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T08:12:00+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

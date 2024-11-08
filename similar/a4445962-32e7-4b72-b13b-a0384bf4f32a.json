@@ -11,7 +11,7 @@
     "en": "Wakaba-sanchi no Aoi Koi"
    },
    "contentRating": "safe",
-   "score": 0.31380072,
+   "score": 0.31380063,
    "languages": [
     "vi",
     "en"
@@ -23,7 +23,7 @@
     "en": "Kusunoki's Flunking Her High School Glow-Up"
    },
    "contentRating": "safe",
-   "score": 0.31346112,
+   "score": 0.31346467,
    "languages": [
     "en",
     "vi",
@@ -38,7 +38,7 @@
     "en": "Code Geass: Lelouch The Private Home Tutor"
    },
    "contentRating": "safe",
-   "score": 0.3111391,
+   "score": 0.31113377,
    "languages": [
     "pt-br",
     "en"
@@ -50,7 +50,7 @@
     "en": "Kesa Mo Yuraretemasu"
    },
    "contentRating": "safe",
-   "score": 0.2975988,
+   "score": 0.2976041,
    "languages": [
     "vi",
     "pt-br",
@@ -66,13 +66,14 @@
     "en": "My Clueless First Friend"
    },
    "contentRating": "safe",
-   "score": 0.29759568,
+   "score": 0.2975957,
    "languages": [
     "en",
     "uk",
     "pt-br",
     "ru",
     "vi",
+    "it",
     "id",
     "es-la"
    ]
@@ -83,7 +84,7 @@
     "en": "One Piece in Love"
    },
    "contentRating": "safe",
-   "score": 0.2943113,
+   "score": 0.29431176,
    "languages": [
     "en"
    ]
@@ -94,55 +95,10 @@
     "en": "Don't Touch Kando-chan!"
    },
    "contentRating": "safe",
-   "score": 0.28668228,
+   "score": 0.28668544,
    "languages": [
     "en",
     "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f5c25341-d6ff-4585-8548-3a48fc7654d9",
-   "title": {
-    "en": "Momose Akira no Hatsukoi Hatan-chuu."
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "pt-br",
-    "vi",
-    "tr",
-    "pl",
-    "fr",
-    "en",
-    "ru",
-    "id",
-    "es-la"
-   ]
-  },
-  {
-   "id": "57e0dd82-503b-4ba1-81a3-f3323f8f6456",
-   "title": {
-    "en": "Urasaki-san wants to tell Omoteno-kun."
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "baed25ca-569e-4461-bb31-b64883b39d99",
-   "title": {
-    "en": "Itsuki-kun wa Tadasaretai"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "fr",
-    "uk",
-    "en",
     "pt-br"
    ]
   },
@@ -183,30 +139,17 @@
    ]
   },
   {
-   "id": "b5351a0c-96af-49f7-898e-17914a082561",
+   "id": "baed25ca-569e-4461-bb31-b64883b39d99",
    "title": {
-    "en": "Boku no Kanojo wa Dekkawaii"
+    "en": "Itsuki-kun wa Tadasaretai"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
-    "vi",
-    "pl",
+    "fr",
+    "uk",
     "en",
-    "pt-br",
-    "id",
-    "fr"
-   ]
-  },
-  {
-   "id": "7c2ab8e0-58e6-4315-93a1-c787ef765751",
-   "title": {
-    "en": "Aisupe @"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
+    "pt-br"
    ]
   },
   {
@@ -225,12 +168,70 @@
    ]
   },
   {
+   "id": "7c2ab8e0-58e6-4315-93a1-c787ef765751",
+   "title": {
+    "en": "Aisupe @"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f5c25341-d6ff-4585-8548-3a48fc7654d9",
+   "title": {
+    "en": "Momose Akira no Hatsukoi Hatan-chuu."
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "pt-br",
+    "vi",
+    "tr",
+    "pl",
+    "fr",
+    "en",
+    "ru",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "57e0dd82-503b-4ba1-81a3-f3323f8f6456",
+   "title": {
+    "en": "Urasaki-san wants to tell Omoteno-kun."
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "b5351a0c-96af-49f7-898e-17914a082561",
+   "title": {
+    "en": "Boku no Kanojo wa Dekkawaii"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "vi",
+    "pl",
+    "en",
+    "pt-br",
+    "id",
+    "fr"
+   ]
+  },
+  {
    "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
    "title": {
     "en": "Kaoru Hana wa Rin to Saku"
    },
    "contentRating": "safe",
-   "score": 0.27681014,
+   "score": 0.2768107,
    "languages": [
     "pt-br",
     "ru",
@@ -245,5 +246,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-05T22:05:31+00:00"
+ "updatedAt": "2024-11-07T21:12:38+00:00"
 }

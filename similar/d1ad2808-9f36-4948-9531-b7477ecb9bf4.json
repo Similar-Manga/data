@@ -11,7 +11,7 @@
     "en": "Mobile Suit MOON Gundam"
    },
    "contentRating": "safe",
-   "score": 0.28510508,
+   "score": 0.28803584,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Mobile Suit Gundam Aggressor"
    },
    "contentRating": "safe",
-   "score": 0.2444289,
+   "score": 0.24527216,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.23884133,
+   "score": 0.24063069,
    "languages": [
     "en"
    ]
@@ -50,13 +50,14 @@
    ]
   },
   {
-   "id": "7e3ade15-6a35-444f-983b-4b7167f09bf1",
+   "id": "80456a4e-93ad-4f38-a3c9-48818bbd485f",
    "title": {
-    "en": "Mobile Suit Zeta Gundam Define"
+    "en": "Navigatoria"
    },
    "contentRating": "safe",
-   "score": 0.22927123,
+   "score": 0.23258328,
    "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -66,10 +67,21 @@
     "en": "Mega Man Battle Network Special Arc: The Runaway Blues"
    },
    "contentRating": "safe",
-   "score": 0.22924924,
+   "score": 0.23177743,
    "languages": [
     "en",
     "ar"
+   ]
+  },
+  {
+   "id": "7e3ade15-6a35-444f-983b-4b7167f09bf1",
+   "title": {
+    "en": "Mobile Suit Zeta Gundam Define"
+   },
+   "contentRating": "safe",
+   "score": 0.23091266,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -111,34 +123,11 @@
     "en": "Mobile Suit Gundam: The Witch from Mercury - Vanadis Heart"
    },
    "contentRating": "safe",
-   "score": 0.2200758,
+   "score": 0.220721,
    "languages": [
     "vi",
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "49c033b0-621b-43bf-b478-45725ea0d47f",
-   "title": {
-    "en": "∀ Gundam - ∀ “Korokoro”"
-   },
-   "contentRating": "safe",
-   "score": 0.21320073,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "9af8c114-aa40-4091-bc33-6b7d4f17b50a",
-   "title": {
-    "en": "Mobile Suit Gundam - École du Ciel"
-   },
-   "contentRating": "safe",
-   "score": 0.21320073,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -154,9 +143,9 @@
    ]
   },
   {
-   "id": "07fd9259-87a5-4002-8e2c-8f829d78e6c7",
+   "id": "9af8c114-aa40-4091-bc33-6b7d4f17b50a",
    "title": {
-    "en": "Mobile Suit Zeta Gundam 1/2 - U.C.0087 Another Story"
+    "en": "Mobile Suit Gundam - École du Ciel"
    },
    "contentRating": "safe",
    "score": 0.21320073,
@@ -165,14 +154,28 @@
    ]
   },
   {
-   "id": "1a82e7d2-3ea7-412c-aa7e-08f7f66fe4d0",
+   "id": "49c033b0-621b-43bf-b478-45725ea0d47f",
    "title": {
-    "en": "The Thief of Shanghai"
+    "en": "∀ Gundam - ∀ “Korokoro”"
    },
    "contentRating": "safe",
-   "score": 0.21121173,
+   "score": 0.21320073,
    "languages": [
+    "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "05ba257a-e70a-4ba3-9784-2230ec7162b4",
+   "title": {
+    "en": "Repeat"
+   },
+   "contentRating": "safe",
+   "score": 0.21280314,
+   "languages": [
+    "it",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -181,7 +184,7 @@
     "en": "Mega Man 11"
    },
    "contentRating": "safe",
-   "score": 0.20825242,
+   "score": 0.21111275,
    "languages": [
     "ar",
     "es",
@@ -191,5 +194,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-05T22:26:21+00:00"
+ "updatedAt": "2024-11-07T21:28:07+00:00"
 }

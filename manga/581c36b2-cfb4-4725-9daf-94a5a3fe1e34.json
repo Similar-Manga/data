@@ -1,0 +1,182 @@
+{
+ "id": "581c36b2-cfb4-4725-9daf-94a5a3fe1e34",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Gilded Seven"
+  },
+  "description": {
+   "en": "The series follows Keigo Westwood, a member of Bear Root City Police Departments Special Forces Unit. While undergoing an operation against the large-scale criminal organization La Llorona, he gets trapped in the eruption of Yellowstone and finds himself transported to 19th century America. Karasuma stated the manga will take place in the American Wild West."
+  },
+  "links": {
+   "ap": "gilded-seven",
+   "raw": "https://comic-zenon.com/"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "292e862b-2d17-4062-90a2-0356caa4ae27",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Time Travel"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "85daba54-a71c-4554-8a28-9901a8b0afad",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mafia"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Police"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-07T09:48:31+00:00",
+  "updatedAt": "2024-11-07T09:50:47+00:00"
+ },
+ "relationships": [
+  {
+   "id": "eaa6ab11-7724-452d-bb5b-4a5710bc1f96",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Karasuma Tasuku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/karasuma2828",
+    "updatedAt": "2023-05-20T18:01:20+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "eaa6ab11-7724-452d-bb5b-4a5710bc1f96",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Karasuma Tasuku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/karasuma2828",
+    "updatedAt": "2023-05-20T18:01:20+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f4fd625a-2aab-4ed0-8db8-bbe9c374ae4f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-07T09:48:34+00:00",
+    "description": "",
+    "fileName": "3611b939-5951-490e-a6f8-fab4004ffea1.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-07T09:48:34+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "d88d2784-64f0-4b63-971b-ae709ddbf2cd",
+   "type": "creator"
+  }
+ ]
+}

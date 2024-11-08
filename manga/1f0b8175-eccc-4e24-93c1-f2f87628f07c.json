@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Scissors (HASHIGUCHI Takashi)"
+   "en": "Scissors"
   },
   "altTitles": [
    {
@@ -44,19 +44,21 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2023-06-06T23:54:29+00:00",
-  "updatedAt": "2023-06-06T23:54:59+00:00"
+  "updatedAt": "2024-11-07T14:35:47+00:00"
  },
  "relationships": [
   {
    "id": "52c9f2dc-2138-48b1-98b7-d931650cf542",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 橋口たかし\n\n**Alt. names**:\nhassystan2\n\n**Circle/s**:\n[Hassystant](https://mangadex.org/author/95483c41-2ed2-48fb-baaf-d00e4de02904) (ハシスタント)\n"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://hassystudio.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -64,13 +66,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/en/users/29352153",
+    "skeb": "https://skeb.jp/@hassystan2",
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/hassystan2",
+    "updatedAt": "2024-11-07T15:53:24+00:00",
+    "version": 3,
+    "website": "http://www5d.biglobe.ne.jp/~pantasia/",
     "weibo": null,
     "youtube": null
    }
@@ -79,10 +81,12 @@
    "id": "52c9f2dc-2138-48b1-98b7-d931650cf542",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 橋口たかし\n\n**Alt. names**:\nhassystan2\n\n**Circle/s**:\n[Hassystant](https://mangadex.org/author/95483c41-2ed2-48fb-baaf-d00e4de02904) (ハシスタント)\n"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://hassystudio.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -90,13 +94,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/en/users/29352153",
+    "skeb": "https://skeb.jp/@hassystan2",
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/hassystan2",
+    "updatedAt": "2024-11-07T15:53:24+00:00",
+    "version": 3,
+    "website": "http://www5d.biglobe.ne.jp/~pantasia/",
     "weibo": null,
     "youtube": null
    }

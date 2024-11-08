@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "65e7cc2d-3454-4e44-92c5-90ae9010cc16",
+   "title": {
+    "en": "Water Cube"
+   },
+   "contentRating": "safe",
+   "score": 0.2795328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5f552411-902a-4978-ae68-cbea8a6554c0",
    "title": {
     "en": "Saki: Achiga-hen - episode of side-A"
    },
    "contentRating": "safe",
-   "score": 0.27582923,
+   "score": 0.27583092,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +34,7 @@
     "en": "Double Bull"
    },
    "contentRating": "safe",
-   "score": 0.26994756,
+   "score": 0.2699487,
    "languages": [
     "en"
    ]
@@ -34,21 +45,10 @@
     "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
    },
    "contentRating": "safe",
-   "score": 0.26067904,
+   "score": 0.2606846,
    "languages": [
     "id",
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "65e7cc2d-3454-4e44-92c5-90ae9010cc16",
-   "title": {
-    "en": "Water Cube"
-   },
-   "contentRating": "safe",
-   "score": 0.25938717,
-   "languages": [
     "en"
    ]
   },
@@ -58,7 +58,7 @@
     "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
-   "score": 0.25884733,
+   "score": 0.25884822,
    "languages": [
     "es-la",
     "vi",
@@ -74,7 +74,7 @@
     "en": "Tamayomi"
    },
    "contentRating": "safe",
-   "score": 0.25609818,
+   "score": 0.25610036,
    "languages": [
     "en"
    ]
@@ -85,7 +85,7 @@
     "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.2542413,
+   "score": 0.25424242,
    "languages": [
     "vi",
     "en",
@@ -100,26 +100,35 @@
     "en": "Kirihara-san wa Kyorikan ga Bagutteru"
    },
    "contentRating": "safe",
-   "score": 0.24846746,
+   "score": 0.24847485,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
+   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
    "title": {
-    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
+    "en": "Kimi no Love o Misetekure!"
    },
    "contentRating": "safe",
    "score": 0.24244238,
    "languages": [
-    "th",
-    "ru",
-    "en",
+    "vi",
     "pt-br",
+    "ru",
     "es-la",
-    "de",
-    "pl"
+    "en"
+   ]
+  },
+  {
+   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
+   "title": {
+    "en": "Tenshi-chan to Akuma-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.24244238,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -133,43 +142,6 @@
     "en",
     "es-la",
     "id"
-   ]
-  },
-  {
-   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
-   "title": {
-    "en": "Chigau Miyahara Omae janai!"
-   },
-   "contentRating": "safe",
-   "score": 0.24244238,
-   "languages": [
-    "vi",
-    "pt-br",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "39a038c6-9699-44fb-9e8a-5cb12fb4a748",
-   "title": {
-    "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
-   },
-   "contentRating": "safe",
-   "score": 0.24244238,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
-   "title": {
-    "en": "Tokiwa-san to Inoue-kun no Boushin"
-   },
-   "contentRating": "safe",
-   "score": 0.24244238,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -190,9 +162,26 @@
    ]
   },
   {
-   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
+   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
    "title": {
-    "en": "Tenshi-chan to Akuma-kun"
+    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
+   },
+   "contentRating": "safe",
+   "score": 0.24244238,
+   "languages": [
+    "th",
+    "ru",
+    "en",
+    "pt-br",
+    "es-la",
+    "de",
+    "pl"
+   ]
+  },
+  {
+   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "title": {
+    "en": "Tokiwa-san to Inoue-kun no Boushin"
    },
    "contentRating": "safe",
    "score": 0.24244238,
@@ -216,7 +205,21 @@
     "ru",
     "tl"
    ]
+  },
+  {
+   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
+   "title": {
+    "en": "Chigau Miyahara Omae janai!"
+   },
+   "contentRating": "safe",
+   "score": 0.24244238,
+   "languages": [
+    "vi",
+    "pt-br",
+    "es-la",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-05T21:22:36+00:00"
+ "updatedAt": "2024-11-07T20:39:18+00:00"
 }
