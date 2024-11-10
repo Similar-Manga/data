@@ -10,9 +10,7 @@
     "en": "おねだりしてみて"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "links": {
    "al": "101133",
    "ap": "onedari-shite-mite",
@@ -37,6 +35,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -90,9 +100,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-09-30T13:50:54+00:00",
-  "updatedAt": "2021-05-25T15:42:40+00:00"
+  "updatedAt": "2024-11-08T22:06:47+00:00"
  },
  "relationships": [
   {

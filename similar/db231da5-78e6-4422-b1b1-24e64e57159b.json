@@ -11,7 +11,7 @@
     "en": "Bad Boy Who Lies In Love"
    },
    "contentRating": "safe",
-   "score": 0.3219182,
+   "score": 0.32913974,
    "languages": [
     "pl",
     "pt-br",
@@ -25,7 +25,7 @@
     "en": "Slow-Healing Heart"
    },
    "contentRating": "safe",
-   "score": 0.32006067,
+   "score": 0.3200645,
    "languages": [
     "en"
    ]
@@ -36,7 +36,7 @@
     "en": "A Bitch and a Punk"
    },
    "contentRating": "safe",
-   "score": 0.31270653,
+   "score": 0.3127063,
    "languages": [
     "en"
    ]
@@ -47,21 +47,9 @@
     "en": "Enemies Should Settle but Not Be Friends"
    },
    "contentRating": "safe",
-   "score": 0.30703756,
+   "score": 0.30705112,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "f878e310-8835-4a63-87da-55fa2936ddd0",
-   "title": {
-    "en": "Tonari no Seki no Kowai Onnanoko no Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.3033439,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -70,7 +58,7 @@
     "en": "Dangerous New Employee"
    },
    "contentRating": "safe",
-   "score": 0.30223927,
+   "score": 0.30636677,
    "languages": [
     "en",
     "ar"
@@ -82,7 +70,7 @@
     "en": "Secret Love"
    },
    "contentRating": "safe",
-   "score": 0.30031413,
+   "score": 0.30030307,
    "languages": [
     "pt-br",
     "uk",
@@ -100,19 +88,19 @@
     "en": "Peach Branch Bubbles"
    },
    "contentRating": "safe",
-   "score": 0.3002361,
+   "score": 0.3002311,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "d0679776-4143-43bf-8e09-b2aa8a0746f2",
+   "id": "b0cc0813-4ea3-4fb1-9873-3780038e5704",
    "title": {
-    "en": "Hidden Persona"
+    "en": "Lemon"
    },
    "contentRating": "safe",
-   "score": 0.2940308,
+   "score": 0.29593176,
    "languages": [
     "en"
    ]
@@ -123,29 +111,7 @@
     "en": "My Classmates Are All Very Strange"
    },
    "contentRating": "safe",
-   "score": 0.2921662,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b0cc0813-4ea3-4fb1-9873-3780038e5704",
-   "title": {
-    "en": "Lemon"
-   },
-   "contentRating": "safe",
-   "score": 0.29115897,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1a5ffed7-10cd-46c1-b20d-4c2bbb5cca07",
-   "title": {
-    "en": "This Cinderella Is Not a Vegetarian!"
-   },
-   "contentRating": "safe",
-   "score": 0.28988492,
+   "score": 0.2953125,
    "languages": [
     "en"
    ]
@@ -156,30 +122,34 @@
     "en": "How to Turn You Around"
    },
    "contentRating": "safe",
-   "score": 0.28938493,
+   "score": 0.29512674,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "a266987f-f69b-47e7-ac78-d138dda9e62a",
+   "id": "b100cd89-688d-4ed2-821a-ba8a7947e1ff",
    "title": {
-    "en": "I Want to Escape the Earth"
+    "en": "Secret Love (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.2867072,
+   "score": 0.29491177,
    "languages": [
-    "en"
+    "en",
+    "fr",
+    "it",
+    "pt-br",
+    "id"
    ]
   },
   {
-   "id": "5ca26e13-c7d4-46de-a035-90c9bc52e06d",
+   "id": "d0679776-4143-43bf-8e09-b2aa8a0746f2",
    "title": {
-    "en": "Star Ginseng Store"
+    "en": "Hidden Persona"
    },
    "contentRating": "safe",
-   "score": 0.2865181,
+   "score": 0.294027,
    "languages": [
     "en"
    ]
@@ -190,12 +160,49 @@
     "en": "Homemaker"
    },
    "contentRating": "safe",
-   "score": 0.28615236,
+   "score": 0.293339,
    "languages": [
     "en",
     "es-la"
    ]
+  },
+  {
+   "id": "1a5ffed7-10cd-46c1-b20d-4c2bbb5cca07",
+   "title": {
+    "en": "This Cinderella Is Not a Vegetarian!"
+   },
+   "contentRating": "safe",
+   "score": 0.28988206,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5ca26e13-c7d4-46de-a035-90c9bc52e06d",
+   "title": {
+    "en": "Star Ginseng Store"
+   },
+   "contentRating": "safe",
+   "score": 0.28958744,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "329cf43e-8e0c-4984-95c8-5df22aca1aa1",
+   "title": {
+    "en": "Xuejie, Don't Livestream It!"
+   },
+   "contentRating": "safe",
+   "score": 0.28942725,
+   "languages": [
+    "pt-br",
+    "it",
+    "en",
+    "tr",
+    "es-la"
+   ]
   }
  ],
- "updatedAt": "2024-11-07T21:31:21+00:00"
+ "updatedAt": "2024-11-09T21:16:14+00:00"
 }

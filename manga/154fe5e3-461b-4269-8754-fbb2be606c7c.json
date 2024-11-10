@@ -3,9 +3,15 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "X JUMP 2007-8 (Doujinshi)"
+   "en": "X JUMP (Doujinshi)"
   },
   "altTitles": [
+   {
+    "en": "X JUMP 2007-8"
+   },
+   {
+    "en": "X JUMP 2008-6"
+   },
    {
     "ja-ro": "Kyou no Oppai"
    },
@@ -20,18 +26,46 @@
    }
   ],
   "description": {
-   "en": "0. Opening pages (Bleach) [BANG-YOU]  \n1. Kyou no Oppai (Bleach) [BANG-YOU]  \n2.   \n3. Illustration  \n4. Hebi no Ana (The Snake's Cave) (Naruto) [Mosha]  \n5.  \n6. Comments"
+   "en": "### X Jump\n\nA doujin anthology released by the circle Nagaredamaya. This is a collection of parodies from various franchises.\n\n#### Volume 1 (2007-8 Edition)\n* Cover art by BANG-YOU\n\n1. Bleach - **Today's Boobs** / Kyou no Oppai (今日のおっぱい) *by BANG-YOU*\n2. Busou Renkin - A Manga About Tokiko and Kazuki Flirting / Tokiko-san to Kazuki ga Ichaicha Suru Manga (斗貴子さんとカズキがイチャイチャする漫画) *by Yuu*\n3. Ichigo 100% - Illustration *by Yasuyuki*\n4. Naruto - **The Snake's Cave** / Hebi no Ana (蛇の穴) *by Mosha*\n5. Busou Renkin - \"Let's Go and Destroy It.\" She Says / \"Saa, Hakaishi ni Ikou.\" to Kanojo wa Iu (「さあ、破壊しに行こう。」 と彼女は言う) *by Futou Ryouko*\n\n#### Volume 2 (2008-6 Edition)\n* Cover art by BANG-YOU\n1. Dream Note de Kami ni Naru! (Aoi-san ni Seiteki na Imi de) (ドリムノートで神になる! （あおいさんに性的な意味で）) *by BANG-YOU*\n2. Tabun, Kouiu Mono wa Nozomareteinai de Arou Manga (たぶん、こういうものは望まれていないであろうマンガ) *by Hotondo Shindeiru*\n3. To Love-Ru - RPG!  (Rito-kun ga Party de Gachi Mousou!) (RPG! （リト君がパーティーでガチ妄想!）) *by Mosha*\n4. Illustration *by Sacchi*\n5. Sumou (Wara) (すもう（笑）) *by Ash Yokoshima*\n6. Ikaname (イカナメ) *by Mitsugi*\n7. Illustration *by Azusa*\n8. Panties \u003c Breasts / Pantsu \u003c Chichi (パンツ＜乳) *by Pikanyaa*\n9. Girl Fight / Shoujo Fight (少女ファイト) *by Yuu*"
+  },
+  "links": {
+   "mu": "lrxmcsb"
   },
   "originalLanguage": "ja",
-  "lastVolume": "1",
-  "lastChapter": "6",
+  "lastVolume": "2",
+  "lastChapter": "9",
   "status": "completed",
+  "year": 2007,
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "ff9cf448-3601-4ee3-9801-f72750cde41b",
   "tags": [
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
    {
     "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
     "type": "tag",
@@ -46,40 +80,12 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 33,
   "createdAt": "2020-08-19T07:27:02+00:00",
-  "updatedAt": "2024-10-29T15:30:41+00:00"
+  "updatedAt": "2024-11-08T13:12:25+00:00"
  },
  "relationships": [
   {
-   "id": "1d72b70f-78e2-4d44-ab33-c8ad6d6d6541",
-   "type": "author",
-   "attributes": {
-    "biography": {
-     "en": "Circle name: [Nagaredamaya](https://mangadex.org/author/7bacfd11-fc58-47e9-9794-4ab4e9e0d2ad) (流弾屋)\n\nAssociated Names:\n- BAN Yuu\n- BANG You\n- Circle Gewalt (BANG-YOU)\n- didori\n- Manguri Cannon (BANG-YOU)\n- 卍勇"
-    },
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "BANG-YOU",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/users/16942",
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "http://twitter.com/bang_you",
-    "updatedAt": "2024-01-17T04:11:23+00:00",
-    "version": 4,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
    "id": "7bacfd11-fc58-47e9-9794-4ab4e9e0d2ad",
    "type": "author",
    "attributes": {
@@ -108,86 +114,6 @@
    }
   },
   {
-   "id": "8c48d49d-e362-4331-a253-2cba9ae11cfa",
-   "type": "author",
-   "attributes": {
-    "biography": {
-     "en": "**Native name**: やすゆき \n\n**Circle/s**:\n[Kamikire Basami](https://mangadex.org/author/8eb61cab-f27c-43fb-aeff-9ca5ea5ad046) (紙切ればさみ)"
-    },
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Yasuyuki",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-29T15:28:59+00:00",
-    "version": 2,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "aab9b61a-95ee-423a-9c2b-39732ee9f64b",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Futou Ryouko",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "cdcf15ef-d318-4e0e-8962-ff8e1ad59d07",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Mosha",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
    "id": "1d72b70f-78e2-4d44-ab33-c8ad6d6d6541",
    "type": "artist",
    "attributes": {
@@ -210,34 +136,6 @@
     "twitter": "http://twitter.com/bang_you",
     "updatedAt": "2024-01-17T04:11:23+00:00",
     "version": 4,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "7bacfd11-fc58-47e9-9794-4ab4e9e0d2ad",
-   "type": "artist",
-   "attributes": {
-    "biography": {
-     "en": "**Native name**: 流弾屋\n\n**Members**:\n[BANG-YOU](https://mangadex.org/author/1d72b70f-78e2-4d44-ab33-c8ad6d6d6541)\n[Shindou](https://mangadex.org/author/81ac21b0-453a-4360-8d71-d94b5e9bc7f7)"
-    },
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=22755",
-    "name": "Nagaredamaya (Circle)",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-01-17T04:10:14+00:00",
-    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -324,16 +222,42 @@
    }
   },
   {
-   "id": "5bc325ed-3bd2-4f1b-9789-6c0fa98dff89",
+   "id": "f6e52334-4b8b-41f7-b95f-808482ad44d0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuu (由)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-08T12:10:48+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6bda5e5a-4531-4489-a771-536129db655e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:07:10+00:00",
+    "createdAt": "2024-11-08T13:01:35+00:00",
     "description": "",
-    "fileName": "89109d63-672a-42f9-82a2-6c1c338f6554.jpg",
+    "fileName": "8257a297-8720-4a21-ac9a-ab77750b7710.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:07:10+00:00",
+    "updatedAt": "2024-11-08T13:01:35+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   },
   {
@@ -375,6 +299,11 @@
    "id": "4e8542ae-0f94-400d-b8c4-ac0a64640202",
    "type": "manga",
    "related": "based_on"
+  },
+  {
+   "id": "65e8e0bb-2f5e-4818-888f-5f49d97379e9",
+   "type": "manga",
+   "related": "colored"
   },
   {
    "id": "6b1eb93e-473a-4ab3-9922-1a66d2a29a4a",

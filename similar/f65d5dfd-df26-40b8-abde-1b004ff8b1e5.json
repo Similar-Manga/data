@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "932dc839-f118-4986-9c72-d7fd3dfcca01",
-   "title": {
-    "en": "The witch and the warm man"
-   },
-   "contentRating": "safe",
-   "score": 0.31262106,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "78ebeff0-7c19-4f73-bb96-67de04e10e3c",
    "title": {
     "en": "The Beauty Ran Away With the Hedgehog"
    },
    "contentRating": "safe",
-   "score": 0.30934027,
+   "score": 0.30934784,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a0828088-bd0f-4383-b7f8-7702f7775396",
+   "title": {
+    "en": "Ohayo Tokyo!"
+   },
+   "contentRating": "safe",
+   "score": 0.3082888,
    "languages": [
     "en"
    ]
@@ -33,22 +33,11 @@
     "en": "Sweet First Love"
    },
    "contentRating": "safe",
-   "score": 0.3054344,
+   "score": 0.3054427,
    "languages": [
     "en",
     "es",
     "id"
-   ]
-  },
-  {
-   "id": "a0828088-bd0f-4383-b7f8-7702f7775396",
-   "title": {
-    "en": "Ohayo Tokyo!"
-   },
-   "contentRating": "safe",
-   "score": 0.30540234,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -57,7 +46,7 @@
     "en": "Meet You"
    },
    "contentRating": "safe",
-   "score": 0.30503383,
+   "score": 0.3050389,
    "languages": [
     "en"
    ]
@@ -68,9 +57,24 @@
     "en": "My Classmates Are All Very Strange"
    },
    "contentRating": "safe",
-   "score": 0.2976251,
+   "score": 0.29762852,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "329cf43e-8e0c-4984-95c8-5df22aca1aa1",
+   "title": {
+    "en": "Xuejie, Don't Livestream It!"
+   },
+   "contentRating": "safe",
+   "score": 0.29521763,
+   "languages": [
+    "pt-br",
+    "it",
+    "en",
+    "tr",
+    "es-la"
    ]
   },
   {
@@ -79,7 +83,7 @@
     "en": "Secret Love (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.29538357,
+   "score": 0.2934768,
    "languages": [
     "en",
     "fr",
@@ -89,31 +93,20 @@
    ]
   },
   {
-   "id": "54349b82-7b0f-413b-bdb0-ff7f495f2c74",
-   "title": {
-    "en": "How a Rebellious Girl Fell into Love"
-   },
-   "contentRating": "safe",
-   "score": 0.2904192,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5e2acc1c-c647-420f-96cd-3fa4fc047fa5",
    "title": {
     "en": "Help me! Ancestors"
    },
    "contentRating": "safe",
-   "score": 0.28947255,
+   "score": 0.2894548,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "8f6060f6-8582-4e99-b753-75f55f40d978",
+   "id": "a9a3cc00-9ce6-4f65-81a1-974eacb33c78",
    "title": {
-    "en": "Our Eunha"
+    "en": "Clothing Bin of Love"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -133,31 +126,32 @@
    ]
   },
   {
-   "id": "ab44b337-5cb1-4dd2-a708-e30a7ead13b4",
+   "id": "df6c80ae-90c7-4377-8c6f-96135058d2ce",
    "title": {
-    "en": "What Kind of Rice Cake Is This"
+    "en": "How to Turn You Around"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a9a3cc00-9ce6-4f65-81a1-974eacb33c78",
-   "title": {
-    "en": "Clothing Bin of Love"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
+    "en",
+    "ru"
    ]
   },
   {
    "id": "f9ac73fe-3807-4815-ab34-e21183f1c106",
    "title": {
     "en": "Pitbull \u0026 Mew"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8f6060f6-8582-4e99-b753-75f55f40d978",
+   "title": {
+    "en": "Our Eunha"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -178,20 +172,28 @@
    ]
   },
   {
-   "id": "329cf43e-8e0c-4984-95c8-5df22aca1aa1",
+   "id": "ab44b337-5cb1-4dd2-a708-e30a7ead13b4",
    "title": {
-    "en": "Xuejie, Don't Livestream It!"
+    "en": "What Kind of Rice Cake Is This"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "pt-br",
-    "it",
-    "en",
-    "tr",
-    "es-la"
+    "en"
+   ]
+  },
+  {
+   "id": "112eaa14-d7cc-44f8-9a48-f050e9638326",
+   "title": {
+    "en": "The Campus Daily Life"
+   },
+   "contentRating": "safe",
+   "score": 0.2853258,
+   "languages": [
+    "ru",
+    "en"
    ]
   }
  ],
- "updatedAt": "2024-11-07T21:40:29+00:00"
+ "updatedAt": "2024-11-09T21:25:28+00:00"
 }

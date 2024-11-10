@@ -11,7 +11,7 @@
     "en": "6 Hours and 5 Minutes"
    },
    "contentRating": "safe",
-   "score": 0.32653105,
+   "score": 0.32537028,
    "languages": [
     "tr",
     "pl",
@@ -26,7 +26,7 @@
     "en": "The Sound of Something New"
    },
    "contentRating": "safe",
-   "score": 0.3231359,
+   "score": 0.3232359,
    "languages": [
     "id",
     "hu",
@@ -43,7 +43,7 @@
     "en": "Best Friends"
    },
    "contentRating": "safe",
-   "score": 0.2978426,
+   "score": 0.2997399,
    "languages": [
     "en"
    ]
@@ -54,32 +54,9 @@
     "en": "Tobe Seito no Namae Kurai Oboero Gou"
    },
    "contentRating": "safe",
-   "score": 0.29085305,
+   "score": 0.28874826,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "0dc8638e-2031-4b1c-afde-257fff44a370",
-   "title": {
-    "en": "I am deaf"
-   },
-   "contentRating": "safe",
-   "score": 0.2850267,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d12f2ca4-4d87-4969-bf5f-bf2b37d64e42",
-   "title": {
-    "en": "The Scent of That Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.284093,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -105,17 +82,15 @@
    ]
   },
   {
-   "id": "0f8439c0-762f-4801-9d45-a8b482d29dd8",
+   "id": "d12f2ca4-4d87-4969-bf5f-bf2b37d64e42",
    "title": {
-    "en": "Amagoi no Kanojo"
+    "en": "The Scent of That Girl"
    },
    "contentRating": "safe",
    "score": 0.284093,
    "languages": [
     "en",
-    "id",
-    "de",
-    "ko"
+    "pt-br"
    ]
   },
   {
@@ -130,23 +105,26 @@
    ]
   },
   {
-   "id": "d5ffe970-d842-418b-b00b-264b57de3f3a",
+   "id": "0f8439c0-762f-4801-9d45-a8b482d29dd8",
    "title": {
-    "en": "Yuri Espoir"
+    "en": "Amagoi no Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.2783214,
+   "score": 0.284093,
    "languages": [
-    "en"
+    "en",
+    "id",
+    "de",
+    "ko"
    ]
   },
   {
-   "id": "f933f2ff-db4c-4a84-b82a-9a72321bc1bf",
+   "id": "0dc8638e-2031-4b1c-afde-257fff44a370",
    "title": {
-    "en": "I'm an Idiot"
+    "en": "I am deaf"
    },
    "contentRating": "safe",
-   "score": 0.26813787,
+   "score": 0.27444264,
    "languages": [
     "en"
    ]
@@ -157,7 +135,7 @@
     "en": "Story About A Cheery Girl \u0026 A Gloomy Girl"
    },
    "contentRating": "safe",
-   "score": 0.26352218,
+   "score": 0.27202484,
    "languages": [
     "ru",
     "en",
@@ -165,39 +143,63 @@
    ]
   },
   {
-   "id": "dca5046d-7d96-449d-9dce-2f04a4cfd5a9",
+   "id": "d5ffe970-d842-418b-b00b-264b57de3f3a",
    "title": {
-    "en": "Nomura Nao to Kyougoku Hina wa"
+    "en": "Yuri Espoir"
    },
    "contentRating": "safe",
-   "score": 0.25808987,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "1bad9201-5d94-4e1c-9002-3047c4c9bb22",
-   "title": {
-    "en": "Love Story ~Aiwa~"
-   },
-   "contentRating": "safe",
-   "score": 0.2541005,
+   "score": 0.27152494,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "76baa138-ad6c-4d25-8084-fe6a24a45273",
+   "id": "f933f2ff-db4c-4a84-b82a-9a72321bc1bf",
    "title": {
-    "en": "Oniyuri-san and Himeyuri-san"
+    "en": "I'm an Idiot"
    },
    "contentRating": "safe",
-   "score": 0.2541005,
+   "score": 0.2678024,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4beb8e69-75e5-41d5-9b38-2bb977627ad7",
+   "title": {
+    "en": "Nanpa otoko ni karamareta Yuri-puru no Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.26762763,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "06667f19-5a9e-48b4-a1cd-4de12ab699ae",
+   "title": {
+    "en": "Koi Yori Aoku (Oneshot)"
+   },
+   "contentRating": "safe",
+   "score": 0.26198718,
+   "languages": [
+    "ko",
+    "en",
+    "ca",
+    "id"
+   ]
+  },
+  {
+   "id": "bafbd13b-0192-4eda-be72-4951c4fdae58",
+   "title": {
+    "en": "Watashi ga Riaru de, Yuri Nante."
+   },
+   "contentRating": "safe",
+   "score": 0.2614017,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-07T20:56:45+00:00"
+ "updatedAt": "2024-11-09T20:41:43+00:00"
 }

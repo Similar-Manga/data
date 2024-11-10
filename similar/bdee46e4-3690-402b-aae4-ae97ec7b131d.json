@@ -6,27 +6,27 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "7e2ddc4c-c07c-4163-bf48-2b7c45f7b7fb",
-   "title": {
-    "en": "NANA"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2279574,
-   "languages": [
-    "ar",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "3c337289-cee9-4d64-a5e0-906f6772f8b7",
    "title": {
     "en": "Play!"
    },
    "contentRating": "suggestive",
-   "score": 0.2216127,
+   "score": 0.23226503,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "7e2ddc4c-c07c-4163-bf48-2b7c45f7b7fb",
+   "title": {
+    "en": "NANA"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22790113,
+   "languages": [
+    "ar",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -35,7 +35,7 @@
     "en": "Falling in Love Is Not as Good as the Boy Band, Crown"
    },
    "contentRating": "suggestive",
-   "score": 0.21811168,
+   "score": 0.21798715,
    "languages": [
     "ru",
     "en"
@@ -47,7 +47,7 @@
     "en": "Jitsu wa Imouto deshita. ~Saikin Dekita Giri no Otouto no Kyorikan ga Yatara Chikai Wake~"
    },
    "contentRating": "suggestive",
-   "score": 0.21051665,
+   "score": 0.21485531,
    "languages": [
     "es-la",
     "en",
@@ -62,21 +62,8 @@
     "en": "Zutto Seishun Poi desu yo"
    },
    "contentRating": "suggestive",
-   "score": 0.20941699,
+   "score": 0.2145023,
    "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "9afb3424-4a71-4fc9-a3ab-60bb87aa9ed8",
-   "title": {
-    "en": "Tsurenai Kanojo no Hitorijime"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20797747,
-   "languages": [
-    "pt-br",
     "en",
     "id"
    ]
@@ -87,10 +74,23 @@
     "en": "Let Me Hear The Voice Of Your Heart"
    },
    "contentRating": "suggestive",
-   "score": 0.2061785,
+   "score": 0.2126495,
    "languages": [
     "en",
     "vi"
+   ]
+  },
+  {
+   "id": "9afb3424-4a71-4fc9-a3ab-60bb87aa9ed8",
+   "title": {
+    "en": "Tsurenai Kanojo no Hitorijime"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20796904,
+   "languages": [
+    "pt-br",
+    "en",
+    "id"
    ]
   },
   {
@@ -99,7 +99,7 @@
     "en": "Shihai Shoujo Kubaru-chan"
    },
    "contentRating": "suggestive",
-   "score": 0.20407084,
+   "score": 0.20406313,
    "languages": [
     "en",
     "id",
@@ -123,39 +123,12 @@
    ]
   },
   {
-   "id": "94f5cf68-7f42-4ad2-842f-15d5e787c9bb",
-   "title": {
-    "en": "Seishun Bakusou!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1991053,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "557615b9-6fec-4ab7-a512-03cbde39815f",
-   "title": {
-    "en": "Chika Idol wo Kage de Sasaeru Ore"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19564225,
-   "languages": [
-    "it",
-    "en",
-    "vi",
-    "pt-br",
-    "pl",
-    "tr"
-   ]
-  },
-  {
    "id": "32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4",
    "title": {
     "en": "Rent-A-Girlfriend"
    },
    "contentRating": "suggestive",
-   "score": 0.19474645,
+   "score": 0.19992287,
    "languages": [
     "en",
     "vi",
@@ -173,12 +146,39 @@
    ]
   },
   {
+   "id": "94f5cf68-7f42-4ad2-842f-15d5e787c9bb",
+   "title": {
+    "en": "Seishun Bakusou!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19909187,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "557615b9-6fec-4ab7-a512-03cbde39815f",
+   "title": {
+    "en": "Chika Idol wo Kage de Sasaeru Ore"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1956214,
+   "languages": [
+    "it",
+    "en",
+    "vi",
+    "pt-br",
+    "pl",
+    "tr"
+   ]
+  },
+  {
    "id": "b8475fe9-aa2d-40da-958c-00e2a1b83c25",
    "title": {
     "en": "Blue Blazes"
    },
    "contentRating": "suggestive",
-   "score": 0.1931423,
+   "score": 0.19313926,
    "languages": [
     "en"
    ]
@@ -189,7 +189,7 @@
     "en": "Kotowarenai Kaichou wa Tomoe-kun ni Dake shite Agetai"
    },
    "contentRating": "suggestive",
-   "score": 0.19256726,
+   "score": 0.1925523,
    "languages": [
     "en"
    ]
@@ -217,5 +217,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-07T21:21:21+00:00"
+ "updatedAt": "2024-11-09T21:06:17+00:00"
 }

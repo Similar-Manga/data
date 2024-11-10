@@ -45,7 +45,7 @@
     "en": "EDEN"
    },
    "contentRating": "safe",
-   "score": 0.20719595,
+   "score": 0.20719777,
    "languages": [
     "en"
    ]
@@ -63,14 +63,15 @@
    ]
   },
   {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
+   "id": "811a001d-a10c-4c71-95c1-628da16396f2",
    "title": {
-    "en": "Watashi wa Kagome"
+    "en": "Classroom"
    },
    "contentRating": "safe",
    "score": 0.19352116,
    "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -82,18 +83,6 @@
    "score": 0.19352116,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "811a001d-a10c-4c71-95c1-628da16396f2",
-   "title": {
-    "en": "Classroom"
-   },
-   "contentRating": "safe",
-   "score": 0.19352116,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -113,6 +102,17 @@
    ]
   },
   {
+   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
+   "title": {
+    "en": "Watashi wa Kagome"
+   },
+   "contentRating": "safe",
+   "score": 0.19352116,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "147e7e1b-26c8-42f6-92e1-fbd7a43e9c03",
    "title": {
     "en": "Shitabashiri"
@@ -126,9 +126,9 @@
    ]
   },
   {
-   "id": "2dead4db-6d7e-4853-b4a0-895168555425",
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
    "title": {
-    "en": "Calamity Lost"
+    "en": "Strange Moon"
    },
    "contentRating": "safe",
    "score": 0.17665982,
@@ -137,9 +137,9 @@
    ]
   },
   {
-   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
+   "id": "2dead4db-6d7e-4853-b4a0-895168555425",
    "title": {
-    "en": "Strange Moon"
+    "en": "Calamity Lost"
    },
    "contentRating": "safe",
    "score": 0.17665982,
@@ -156,20 +156,6 @@
    "score": 0.17034185,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "f88747f3-e9d3-4238-8941-ec815dcefd98",
-   "title": {
-    "en": "Ability Shop"
-   },
-   "contentRating": "safe",
-   "score": 0.16862984,
-   "languages": [
-    "pl",
-    "vi",
-    "en",
-    "id"
    ]
   },
   {
@@ -195,7 +181,21 @@
     "es-la",
     "en"
    ]
+  },
+  {
+   "id": "f88747f3-e9d3-4238-8941-ec815dcefd98",
+   "title": {
+    "en": "Ability Shop"
+   },
+   "contentRating": "safe",
+   "score": 0.16862984,
+   "languages": [
+    "pl",
+    "vi",
+    "en",
+    "id"
+   ]
   }
  ],
- "updatedAt": "2024-11-07T21:36:32+00:00"
+ "updatedAt": "2024-11-09T21:21:26+00:00"
 }

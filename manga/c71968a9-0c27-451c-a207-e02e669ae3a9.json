@@ -16,7 +16,14 @@
   "description": {
    "en": "A set of isolated shorts set during the One Year War, told through the point of view of a newspaper photographer."
   },
+  "links": {
+   "amz": "https://www.amazon.co.jp/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0-MS%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E9%9B%BB%E6%92%83%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E4%B8%AD%E5%8E%9F-%E3%82%8C%E3%81%84-ebook/dp/B01BTGJMNE",
+   "bw": "de5a1ddcfe-6395-4ac3-a6f5-e3501dd5423c",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/350767/"
+  },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "10",
   "status": "completed",
   "year": 1989,
   "contentRating": "safe",
@@ -44,12 +51,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2020-03-18T09:40:14+00:00",
-  "updatedAt": "2024-04-01T20:10:21+00:00"
+  "updatedAt": "2024-11-09T07:16:44+00:00"
  },
  "relationships": [
   {
@@ -112,9 +131,9 @@
     "description": "",
     "fileName": "1dcc0624-e3cc-49c4-a97c-03103d63b57e.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:49:03+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-09T07:16:44+00:00",
+    "version": 2,
+    "volume": "1"
    }
   },
   {

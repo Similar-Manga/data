@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "32645802-ea9f-4c40-b777-f2907157551c",
-   "title": {
-    "en": "Saijoukai de Dakishimete"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
    "id": "31c28f73-5dfa-463e-9443-638ff6bf1071",
    "title": {
     "en": "Gapz Garden"
@@ -37,12 +26,23 @@
    ]
   },
   {
+   "id": "32645802-ea9f-4c40-b777-f2907157551c",
+   "title": {
+    "en": "Saijoukai de Dakishimete"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
    "id": "387cb608-d8ac-42d9-936e-4d2d7d37cbab",
    "title": {
     "en": "Tenshi Shukushi"
    },
    "contentRating": "safe",
-   "score": 0.27407226
+   "score": 0.27407673
   },
   {
    "id": "1c97d23e-10f7-4373-9e87-89be6e5d6363",
@@ -50,7 +50,7 @@
     "en": "\"Bungaku Shoujo\" to Koisuru Poet"
    },
    "contentRating": "safe",
-   "score": 0.2551323
+   "score": 0.25513318
   },
   {
    "id": "5114b271-bc67-408c-b316-a24b8845f042",
@@ -58,7 +58,7 @@
     "en": "The Fool of the Planet"
    },
    "contentRating": "safe",
-   "score": 0.24967824
+   "score": 0.2496707
   },
   {
    "id": "de2ef7a8-72df-4873-906f-cd3f65115171",
@@ -66,7 +66,7 @@
     "en": "Honey"
    },
    "contentRating": "safe",
-   "score": 0.24963267
+   "score": 0.24963309
   },
   {
    "id": "a5dbdc12-9f84-4a4a-96c9-a9633c96d178",
@@ -74,29 +74,7 @@
     "en": "Oh! My Darling"
    },
    "contentRating": "safe",
-   "score": 0.24938914
-  },
-  {
-   "id": "360b3e4e-addd-41e0-a95f-76b9c8fc29a0",
-   "title": {
-    "en": "Orgel Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1acf9ab1-cee1-486a-b71e-70a8b2a508ee",
-   "title": {
-    "en": "MISS"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
+   "score": 0.24938941
   },
   {
    "id": "dbd45ff2-2731-48e7-9304-0aa24739b5ac",
@@ -108,28 +86,6 @@
    "languages": [
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "06756e5d-b061-4575-8305-28bb778f563a",
-   "title": {
-    "en": "Girl in Heels"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
-   "id": "0621ecc9-c098-4660-ab53-4816a2cadd29",
-   "title": {
-    "en": "Tendou-ke Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pt-br",
-    "it",
-    "hu"
    ]
   },
   {
@@ -146,9 +102,34 @@
    ]
   },
   {
-   "id": "1512d37e-3e35-462f-af77-be7b476417f5",
+   "id": "0621ecc9-c098-4660-ab53-4816a2cadd29",
    "title": {
-    "en": "Shining"
+    "en": "Tendou-ke Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pt-br",
+    "it",
+    "hu"
+   ]
+  },
+  {
+   "id": "1acf9ab1-cee1-486a-b71e-70a8b2a508ee",
+   "title": {
+    "en": "MISS"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "06756e5d-b061-4575-8305-28bb778f563a",
+   "title": {
+    "en": "Girl in Heels"
    },
    "contentRating": "safe",
    "score": 0.24743582
@@ -160,7 +141,26 @@
    },
    "contentRating": "safe",
    "score": 0.24743582
+  },
+  {
+   "id": "360b3e4e-addd-41e0-a95f-76b9c8fc29a0",
+   "title": {
+    "en": "Orgel Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1512d37e-3e35-462f-af77-be7b476417f5",
+   "title": {
+    "en": "Shining"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
   }
  ],
- "updatedAt": "2024-11-07T21:27:40+00:00"
+ "updatedAt": "2024-11-09T21:12:31+00:00"
 }

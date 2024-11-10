@@ -11,14 +11,14 @@
    }
   ],
   "description": {
-   "en": "Action Thriller about a lonely man obsessed with a delusional plot to save Japan by assassinating a politician. But his twisted plan is disturbed when he's witnessing a young girl next door getting abducted by the Yakuza. He decides to save her but his attempt ends in a chaotic massacre where he manages to kill the gangsters. But things only get worse from here on out, now he's getting hunted down by even more ruthless killers.",
+   "en": "Action thriller about an obsessed lonely man with a delusional plot to save Japan by assassinating a politician. But his twisted plan is disturbed when he witnesses a young girl next door getting abducted by the Yakuza. He decides to save her but his attempt ends in a chaotic massacre where he manages to kill the gangsters. But things only get worse from here on out, now he's getting hunted down by even more ruthless killers.",
    "ja": "尾城慎太郎39歳。低学歴、低収入、いわゆる低級国民。失い、奪われ続けた男は、社会から断絶し孤独と絶望の果てに、政治家の暗殺を決意した‥‥。"
   },
   "links": {
    "al": "181362",
    "amz": "https://www.amazon.co.jp/dp/B0D18B6ZLB",
    "ap": "amateur-vigilante",
-   "bw": "series/489770/list",
+   "bw": "series/489770",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/854041/",
    "mal": "171415",
    "mu": "za521ic",
@@ -80,16 +80,18 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2024-09-16T11:55:12+00:00",
-  "updatedAt": "2024-10-25T13:13:21+00:00"
+  "updatedAt": "2024-11-07T14:14:05+00:00"
  },
  "relationships": [
   {
    "id": "00906648-9035-40fa-ac5a-6c92c2fc876b",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 浅村壮平\n\n**Circle:** Asamura Boukendan (浅村冒険団)"
+    },
     "booth": null,
     "createdAt": "2022-03-01T13:55:03+00:00",
     "fanBox": null,
@@ -100,12 +102,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/83072500",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-03-01T13:55:03+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/asamurasohey",
+    "updatedAt": "2024-11-07T14:16:04+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -115,7 +117,9 @@
    "id": "9af9265c-4caf-4d6b-a0c1-5c067a0b896f",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 内藤光太郎"
+    },
     "booth": null,
     "createdAt": "2022-06-28T18:37:10+00:00",
     "fanBox": null,
@@ -129,9 +133,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-06-28T18:37:10+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/muni_1geki",
+    "updatedAt": "2024-11-07T14:37:54+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

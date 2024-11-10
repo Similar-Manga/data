@@ -5,20 +5,41 @@
   "title": {
    "en": "Katame Dungeon"
   },
-  "description": {
-   "en": ""
-  },
+  "altTitles": [
+   {
+    "ja": "カタメダンジョン"
+   },
+   {
+    "en": "Petrification Dungeon"
+   }
+  ],
+  "description": {},
   "originalLanguage": "ja",
+  "lastChapter": "2",
   "status": "completed",
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "dba2994c-bc1d-4c6c-8b4d-cbf386758c56",
+  "tags": [
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-12-11T23:30:28+00:00",
-  "updatedAt": "2021-05-25T15:42:33+00:00"
+  "updatedAt": "2024-11-07T11:28:34+00:00"
  },
  "relationships": [
   {
@@ -81,9 +102,9 @@
     "description": "",
     "fileName": "f07c2dd7-5fba-4926-bd3e-3fb1dccba803.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:37:11+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-07T11:28:34+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

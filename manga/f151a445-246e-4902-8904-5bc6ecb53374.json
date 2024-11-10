@@ -55,9 +55,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2018-08-18T05:11:41+00:00",
-  "updatedAt": "2024-06-14T05:22:24+00:00"
+  "updatedAt": "2024-11-07T20:09:50+00:00"
  },
  "relationships": [
   {
@@ -243,6 +243,32 @@
    }
   },
   {
+   "id": "4bc33470-717d-4017-8981-45e0aef86247",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Astllatte*Sorato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/2466132",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/xxxsorato",
+    "updatedAt": "2024-04-05T17:33:39+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "4ddaa33d-928f-43e9-ab8a-3234715a055e",
    "type": "author",
    "attributes": {
@@ -280,32 +306,6 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Minase Chiho",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "6bf4148c-4d36-4bd3-8ad3-49360d7ce219",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Astllatte*Sorato (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -737,6 +737,32 @@
    }
   },
   {
+   "id": "4bc33470-717d-4017-8981-45e0aef86247",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Astllatte*Sorato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/2466132",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/xxxsorato",
+    "updatedAt": "2024-04-05T17:33:39+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "4ddaa33d-928f-43e9-ab8a-3234715a055e",
    "type": "artist",
    "attributes": {
@@ -774,32 +800,6 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Minase Chiho",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "6bf4148c-4d36-4bd3-8ad3-49360d7ce219",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Astllatte*Sorato (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,

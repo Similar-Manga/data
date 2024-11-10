@@ -3,17 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Koi Koinegau"
+   "en": "Koi, Koinegau"
   },
   "altTitles": [
-   {
-    "ja-ro": "Koi, Koinegau"
-   },
    {
     "en": "To Long for Love"
    },
    {
-    "ja": "恋希う"
+    "ja": "恋、希う"
+   },
+   {
+    "ja-ro": "Koi Koinegau"
    }
   ],
   "description": {
@@ -21,7 +21,9 @@
   },
   "links": {
    "al": "85629",
+   "amz": "https://www.amazon.co.jp/dp/B00CQ79AEM/",
    "ap": "koi-koinegau",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1506241",
    "kt": "15453",
    "mal": "56139",
    "mu": "102409"
@@ -76,9 +78,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2018-08-22T22:38:48+00:00",
-  "updatedAt": "2023-07-19T11:05:43+00:00"
+  "updatedAt": "2024-11-07T06:27:07+00:00"
  },
  "relationships": [
   {
@@ -145,9 +147,9 @@
     "description": "",
     "fileName": "101835cf-c5c6-41be-8eda-db65c5b29c24.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:42:42+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-07T06:27:07+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

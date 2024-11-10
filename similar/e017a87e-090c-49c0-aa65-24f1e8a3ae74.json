@@ -11,7 +11,7 @@
     "en": "Pokémon Diamond and Pearl"
    },
    "contentRating": "safe",
-   "score": 0.3257545,
+   "score": 0.3257576,
    "languages": [
     "en"
    ]
@@ -22,34 +22,11 @@
     "en": "Wilted Flower"
    },
    "contentRating": "safe",
-   "score": 0.23057033,
+   "score": 0.230573,
    "languages": [
     "ru",
     "en",
     "th"
-   ]
-  },
-  {
-   "id": "11c217a5-128c-44a0-96b2-3e592c76931e",
-   "title": {
-    "en": "Kuzukago Mountain"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "03911f4a-33cd-4305-bf27-dd0c01aca7f8",
-   "title": {
-    "en": "Anastasia no Shinei Taichou"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "tr"
    ]
   },
   {
@@ -70,15 +47,15 @@
    ]
   },
   {
-   "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
+   "id": "99d5a551-f53c-438f-8bac-ffffbf04fac2",
    "title": {
-    "en": "Dr. Chanbelee"
+    "en": "Shuumatsu wa Aoi Haru"
    },
    "contentRating": "safe",
    "score": 0.21428573,
    "languages": [
-    "ro",
-    "pl",
+    "id",
+    "pt-br",
     "en"
    ]
   },
@@ -97,6 +74,42 @@
    ]
   },
   {
+   "id": "03911f4a-33cd-4305-bf27-dd0c01aca7f8",
+   "title": {
+    "en": "Anastasia no Shinei Taichou"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
+   "title": {
+    "en": "Dr. Chanbelee"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "ro",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "11c217a5-128c-44a0-96b2-3e592c76931e",
+   "title": {
+    "en": "Kuzukago Mountain"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "24856a89-229a-4cca-9fae-8c70ee1eebd9",
    "title": {
     "en": "Nyan-Nyan Oratorio"
@@ -109,67 +122,9 @@
    ]
   },
   {
-   "id": "99d5a551-f53c-438f-8bac-ffffbf04fac2",
-   "title": {
-    "en": "Shuumatsu wa Aoi Haru"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "id",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "e1b08943-1195-4eab-85a4-a7bfc0766eed",
-   "title": {
-    "en": "One-Armed Amy"
-   },
-   "contentRating": "safe",
-   "score": 0.20432854,
-   "languages": [
-    "fr",
-    "hu",
-    "hi",
-    "he",
-    "uk",
-    "en",
-    "it",
-    "pt-br",
-    "id",
-    "es-la",
-    "pl",
-    "ca",
-    "ru"
-   ]
-  },
-  {
-   "id": "1b8af6aa-9424-4e89-ab8c-bbc6cc7ea16c",
-   "title": {
-    "en": "Yogen Kikou"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "8234db2f-6912-49e6-a17f-7353c814e69a",
    "title": {
     "en": "Mama Gomen, Watashi Corona ka ni Hosuto Kayotteru"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8c3f9d96-d99c-44d7-9ceb-7da738afdb1a",
-   "title": {
-    "en": "Sky, Bread, Factory, and..."
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -189,32 +144,66 @@
    ]
   },
   {
+   "id": "8c3f9d96-d99c-44d7-9ceb-7da738afdb1a",
+   "title": {
+    "en": "Sky, Bread, Factory, and..."
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1b8af6aa-9424-4e89-ab8c-bbc6cc7ea16c",
+   "title": {
+    "en": "Yogen Kikou"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "96b5eef2-7240-4c76-87e5-b24c9a637d30",
    "title": {
     "en": "Pearl Kingdom Story Prince Princess"
    },
    "contentRating": "safe",
-   "score": 0.19938578
+   "score": 0.19938836
   },
   {
-   "id": "df6c5e34-ee07-4f63-acaf-d0924027ca2f",
+   "id": "a79e8284-2fa8-4a16-b708-dc2c4efa04c6",
    "title": {
-    "en": "Pen Pal at the End of the World"
+    "en": "That Bygone Day When You and I Talked"
    },
    "contentRating": "safe",
    "score": 0.19166298,
    "languages": [
-    "ru",
-    "fr",
-    "ar",
-    "es-la",
-    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "dee582b2-2633-4287-86c5-e7a9e51e8bba",
+   "title": {
+    "en": "Yuusha Goikkou no Kaerimichi"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
     "en",
-    "th",
+    "es-la",
+    "ru",
+    "zh-hk",
+    "id",
+    "tr",
+    "vi",
     "uk",
-    "vi"
+    "fr",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2024-11-07T21:33:01+00:00"
+ "updatedAt": "2024-11-09T21:17:51+00:00"
 }

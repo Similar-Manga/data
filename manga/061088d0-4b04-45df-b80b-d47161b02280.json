@@ -13,7 +13,10 @@
     "ko": "신수도시"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Paradise City, where the divine beasts rest.\n\nThis place is ruled by the organization Abyss, which exploits the divine beasts' power.\n\nHa-woon, a former police officer who lost his family to Abyss, accidentally obtains the 'Huntdog System', the only means of countering the divine beasts' power.\n\nHowever, as he fights Abyss, he learns that Paradise City and the divine beasts have a big secret...",
+   "ko": "신수가 잠들어 있는 도시 낙원향.\n\n이곳은 신수의 힘을 악용하는 조직 아비시에게 지배당하고 있다.\n\n아비시에게 가족을 빼앗긴 전 경찰 하운은 우연한 기회에 얻어이들이 가진 신수의 힘에 대항할 수 있는 유일한 수단인 ‘헌트독 시스템’을 얻게 된다.\n\n허나 아비시와 싸워나가며 낙원향과 신수들에게는그보다 더 큰 비밀이 있다는 걸 알게 되는데…"
+  },
   "links": {
    "mu": "rk0guv1",
    "raw": "https://page.kakao.com/content/64395656"
@@ -36,6 +39,18 @@
     }
    },
    {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -44,6 +59,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -58,12 +85,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-10-31T13:47:19+00:00",
-  "updatedAt": "2024-10-31T13:47:26+00:00"
+  "updatedAt": "2024-11-09T03:06:56+00:00"
  },
  "relationships": [
   {

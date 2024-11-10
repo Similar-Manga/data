@@ -6,9 +6,46 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0dfe9335-5d55-4565-b189-3acc6cfc6195",
+   "title": {
+    "en": "Alpine Rose"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en",
+    "tr",
+    "fr"
+   ]
+  },
+  {
+   "id": "729940e6-e49e-4ce0-9011-12c10b80f97e",
+   "title": {
+    "en": "Golden Japanesque"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "es",
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "4a9d450d-4423-4f81-9cba-ed8d36bcee62",
    "title": {
     "en": "Gu Fang Bu Zi Shang"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "279c8bd9-cd3a-43ff-a305-7cecbe5360ea",
+   "title": {
+    "en": "Hanamuko no Yakusoku"
    },
    "contentRating": "safe",
    "score": 0.2851258,
@@ -40,17 +77,6 @@
    ]
   },
   {
-   "id": "279c8bd9-cd3a-43ff-a305-7cecbe5360ea",
-   "title": {
-    "en": "Hanamuko no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6f2ef040-1f05-43cc-9c90-5051799a31de",
    "title": {
     "en": "The Count's Daughter"
@@ -62,38 +88,12 @@
    ]
   },
   {
-   "id": "0dfe9335-5d55-4565-b189-3acc6cfc6195",
-   "title": {
-    "en": "Alpine Rose"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en",
-    "tr",
-    "fr"
-   ]
-  },
-  {
-   "id": "729940e6-e49e-4ce0-9011-12c10b80f97e",
-   "title": {
-    "en": "Golden Japanesque"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "es",
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "fe0d8cda-c169-4b0f-9e37-c855d3083407",
    "title": {
     "en": "Lady Victorian"
    },
    "contentRating": "safe",
-   "score": 0.26105767,
+   "score": 0.26105902,
    "languages": [
     "en"
    ]
@@ -104,7 +104,7 @@
     "en": "Master, Please Have a Rest!"
    },
    "contentRating": "safe",
-   "score": 0.26072836,
+   "score": 0.26072907,
    "languages": [
     "en",
     "fr",
@@ -117,7 +117,7 @@
     "en": "Hanameguri Awase"
    },
    "contentRating": "safe",
-   "score": 0.2579807,
+   "score": 0.2579802,
    "languages": [
     "en"
    ]
@@ -128,7 +128,7 @@
     "en": "To the Dear F - Phantom of the Opera"
    },
    "contentRating": "safe",
-   "score": 0.25436994,
+   "score": 0.25437278,
    "languages": [
     "en"
    ]
@@ -139,22 +139,10 @@
     "en": "A Lonesome Fragrance Waiting to Be Appreciated"
    },
    "contentRating": "safe",
-   "score": 0.25407705,
+   "score": 0.25407767,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "16ebf1f7-5d5d-4126-ab05-d670a719bb23",
-   "title": {
-    "en": "Tale of Felluah"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -172,14 +160,15 @@
    ]
   },
   {
-   "id": "4119fa2c-8650-46f8-a887-9cc50093023c",
+   "id": "16ebf1f7-5d5d-4126-ab05-d670a719bb23",
    "title": {
-    "en": "The Stubborn Tomboy and The Flower"
+    "en": "Tale of Felluah"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
@@ -193,7 +182,18 @@
     "pl",
     "en"
    ]
+  },
+  {
+   "id": "4119fa2c-8650-46f8-a887-9cc50093023c",
+   "title": {
+    "en": "The Stubborn Tomboy and The Flower"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-07T20:29:09+00:00"
+ "updatedAt": "2024-11-09T20:14:05+00:00"
 }

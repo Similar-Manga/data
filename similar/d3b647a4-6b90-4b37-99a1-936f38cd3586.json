@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
-   "title": {
-    "en": "Little War"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
    "title": {
     "en": "Karakuri"
@@ -33,12 +20,25 @@
    ]
   },
   {
+   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
+   "title": {
+    "en": "Little War"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "cb117c49-22e8-48e4-83cb-015aaae0d827",
    "title": {
     "en": "LOVE THE WARZ"
    },
    "contentRating": "safe",
-   "score": 0.2506448,
+   "score": 0.25064516,
    "languages": [
     "en",
     "pt-br",
@@ -51,7 +51,7 @@
     "en": "Jump Super Stars"
    },
    "contentRating": "safe",
-   "score": 0.2426657,
+   "score": 0.2426648,
    "languages": [
     "pt-br",
     "pl",
@@ -66,7 +66,7 @@
     "en": "Garaku"
    },
    "contentRating": "safe",
-   "score": 0.24144375,
+   "score": 0.241444,
    "languages": [
     "vi",
     "en",
@@ -82,7 +82,7 @@
     "en": "Sakamoto"
    },
    "contentRating": "safe",
-   "score": 0.23496786,
+   "score": 0.23497005,
    "languages": [
     "it",
     "vi",
@@ -96,7 +96,7 @@
     "en": "Hello Baby"
    },
    "contentRating": "safe",
-   "score": 0.23479715,
+   "score": 0.23479986,
    "languages": [
     "ca",
     "en",
@@ -105,6 +105,33 @@
     "pt-br",
     "ro",
     "de"
+   ]
+  },
+  {
+   "id": "a949278d-d2cf-4b78-b513-1fdb6a5a1d06",
+   "title": {
+    "en": "Joreishi Rentaro no Yakusoku"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "it",
+    "pt-br",
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
+   "title": {
+    "en": "SKY CLAW"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en"
    ]
   },
   {
@@ -125,47 +152,16 @@
    ]
   },
   {
-   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
+   "id": "23760ab0-68bd-43fb-b811-35b7bf62c257",
    "title": {
-    "en": "SKY CLAW"
+    "en": "Shikigami"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "pt-br",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "13f600ad-cc77-473d-b08c-a70240643fe0",
-   "title": {
-    "en": "Lawless Kid"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "mn",
-    "pt-br",
-    "fr",
-    "ru",
-    "vi",
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "a949278d-d2cf-4b78-b513-1fdb6a5a1d06",
-   "title": {
-    "en": "Joreishi Rentaro no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "it",
-    "pt-br",
-    "zh-hk",
-    "en"
+    "vi",
+    "pt-br"
    ]
   },
   {
@@ -197,16 +193,20 @@
    ]
   },
   {
-   "id": "23760ab0-68bd-43fb-b811-35b7bf62c257",
+   "id": "13f600ad-cc77-473d-b08c-a70240643fe0",
    "title": {
-    "en": "Shikigami"
+    "en": "Lawless Kid"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en",
+    "mn",
+    "pt-br",
+    "fr",
+    "ru",
     "vi",
-    "pt-br"
+    "en",
+    "pl"
    ]
   },
   {
@@ -215,7 +215,7 @@
     "en": "Megaton Punch!"
    },
    "contentRating": "safe",
-   "score": 0.22011954,
+   "score": 0.22012068,
    "languages": [
     "pt-br"
    ]
@@ -226,7 +226,7 @@
     "en": "I Spy"
    },
    "contentRating": "safe",
-   "score": 0.21578604,
+   "score": 0.21581355,
    "languages": [
     "pt-br",
     "ru",
@@ -236,5 +236,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-07T21:28:49+00:00"
+ "updatedAt": "2024-11-09T21:13:39+00:00"
 }

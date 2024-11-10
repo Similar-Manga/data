@@ -112,12 +112,38 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2024-10-26T23:27:31+00:00",
-  "updatedAt": "2024-10-29T15:01:04+00:00"
+  "updatedAt": "2024-11-07T20:08:42+00:00"
  },
  "relationships": [
   {
+   "id": "318c1cf3-40b7-4bff-91e9-e64bd4f07af6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mushiyaki!! (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-07-06T02:53:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "e2683147-dc2d-42ca-9f98-61154b719325",
    "type": "author",
    "attributes": {
@@ -144,8 +170,8 @@
    }
   },
   {
-   "id": "ff3e1e8e-da1c-42b6-b38d-57f6dc1a4975",
-   "type": "author",
+   "id": "318c1cf3-40b7-4bff-91e9-e64bd4f07af6",
+   "type": "artist",
    "attributes": {
     "biography": {},
     "booth": null,
@@ -154,7 +180,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Hashiya (Circle)",
+    "name": "Mushiyaki!! (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -162,7 +188,7 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-29T15:00:57+00:00",
+    "updatedAt": "2023-07-06T02:53:25+00:00",
     "version": 2,
     "website": null,
     "weibo": null,
@@ -190,32 +216,6 @@
     "twitter": null,
     "updatedAt": "2024-10-26T22:12:10+00:00",
     "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "ff3e1e8e-da1c-42b6-b38d-57f6dc1a4975",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Hashiya (Circle)",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-29T15:00:57+00:00",
-    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

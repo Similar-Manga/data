@@ -3,36 +3,30 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Mori no Hotori de Jam wo Niru"
+   "en": "Mori no Hotori de Jam wo Niru ~Isekai de Hajimeru Inakagurashi~"
   },
   "altTitles": [
    {
-    "en": "Simmering Jam at the Edge of the Forest"
-   },
-   {
-    "ja-ro": "Mori no Hotori de Jam wo Niru: Isekai de Hajimeru Inakagurashi"
-   },
-   {
-    "ja": "森のほとりでジャムを煮る"
-   },
-   {
     "ja": "森のほとりでジャムを煮る ～異世界ではじめる田舎暮らし～"
+   },
+   {
+    "en": "Simmering Jam at the Edge of the Forest"
    }
   ],
   "description": {
-   "en": "As a special being called \"The Inviter of the Spirit,\" the thirty-something Margaret was summoned to a different world. However, waiting there was a country life that was the exact opposite of the previous life. Starting with a gentle grandmother, surrounded by warm people, a cheerful and delicious slow life begins!"
+   "en": "As a special being called \"The Inviter of the Spirit,\" the thirty-something Margaret was summoned to a different world. However, waiting there was a country life that was the exact opposite of the previous life.",
+   "ja": "休日出勤中不慮の事故に遭い、目が覚めると異世界にいた私。瀕死のところ、ご隠居貴族の老婦人・アデレイドに助けられ、彼女の屋敷に居候させてもらうことになるのだが、そこで待っていたのは、多忙な前世とは真逆の田舎生活（スローライフ）だった。さらに私は、『精霊の招き人』という特別な存在として召喚されたことが判明。だけどそんなことはおかまいなし！“マーガレット”という新しい名前もつけてもらったし、魔法や妖精が存在するこの異世界で心機一転、スローライフを満喫させてもらいます！"
   },
   "links": {
    "al": "112283",
    "amz": "https://www.amazon.co.jp/dp/B08TW8XRBX",
    "bw": "series/228559",
-   "cdj": "https://www.cdjapan.co.jp/searchuni?q=%E6%A3%AE%E3%81%AE%E3%81%BB%E3%81%A8%E3%82%8A%E3%81%A7%E3%82%B8%E3%83%A3%E3%83%A0%E3%82%92%E7%85%AE%E3%82%8B+Comic",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=森のほとりでジャムを煮る+Comic",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/568848/",
    "kt": "56349",
    "mal": "122152",
    "mu": "157168",
-   "nu": "simmering-jams-at-the-edge-of-the-forest",
-   "raw": "https://www.cmoa.jp/title/188985/"
+   "nu": "simmering-jams-at-the-edge-of-the-forest"
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
@@ -120,9 +114,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2020-04-16T07:02:45+00:00",
-  "updatedAt": "2024-05-27T02:43:17+00:00"
+  "updatedAt": "2024-11-08T23:36:56+00:00"
  },
  "relationships": [
   {
@@ -180,15 +174,15 @@
    }
   },
   {
-   "id": "1157df4b-5d1a-4f39-91c9-86265f58e7af",
+   "id": "78875aaa-4a06-4c65-bc56-4109bde9dbfe",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:52:36+00:00",
+    "createdAt": "2024-11-08T23:36:55+00:00",
     "description": "",
-    "fileName": "51072215-ed91-4399-b4b6-66c011e48193.jpg",
+    "fileName": "de318950-0f2e-4fd2-9493-876b54db91aa.jpg",
     "locale": "ja",
-    "updatedAt": "2021-12-12T13:16:06+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-08T23:36:55+00:00",
+    "version": 1,
     "volume": "3"
    }
   }

@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "It's hard to be a hero in korea"
+   "en": "It's Hard to Be a Hero in Korea"
   },
   "altTitles": [
    {
@@ -11,7 +11,7 @@
    }
   ],
   "description": {
-   "en": "A second chance arrives for Ma Beomtae, whose dream of becoming a hero was shattered by a false accusation. Now, he must debut on a survival program to become a hero.\nHowever, being a K-hero these days isn't as easy as it seems. With a 7-day workweek, mandatory donations, constant backstabbing, and colleagues going crazy... Will Ma Beomtae be able to successfully fulfill his hero dream?"
+   "en": "A second chance arrives for Ma Beomtae, whose dream of becoming a hero was shattered by a false accusation. Now, he must debut on a survival program to become a hero.\n\nHowever, being a K-hero these days isn't as easy as it seems. With a 7-day work week, mandatory donations, constant backstabbing, and colleagues going crazy... Will Ma Beomtae be able to successfully fulfill his hero dream?"
   },
   "links": {
    "mu": "b0oxp4y",
@@ -63,6 +63,18 @@
     }
    },
    {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
@@ -76,9 +88,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2024-08-30T21:42:50+00:00",
-  "updatedAt": "2024-08-30T22:13:13+00:00"
+  "updatedAt": "2024-11-09T03:36:47+00:00"
  },
  "relationships": [
   {

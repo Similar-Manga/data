@@ -49,8 +49,20 @@
    "ru",
    "pl"
   ],
-  "latestUploadedChapter": "d49e0dc4-3326-49ba-917a-a2c44cdd1963",
+  "latestUploadedChapter": "d8b1691e-6ff0-49a8-b71a-293c26b3bd1e",
   "tags": [
+   {
+    "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Loli"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
     "type": "tag",
@@ -84,6 +96,30 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -122,12 +158,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 28,
+  "version": 29,
   "createdAt": "2020-02-24T23:57:42+00:00",
-  "updatedAt": "2024-10-31T00:12:18+00:00"
+  "updatedAt": "2024-11-08T12:42:17+00:00"
  },
  "relationships": [
   {

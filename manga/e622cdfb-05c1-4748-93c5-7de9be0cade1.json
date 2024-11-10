@@ -1,0 +1,147 @@
+{
+ "id": "e622cdfb-05c1-4748-93c5-7de9be0cade1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Junk Life"
+  },
+  "altTitles": [
+   {
+    "ja": "ジャンクライフ"
+   }
+  ],
+  "description": {
+   "en": "Published in Jump SQ. RISE 2019 SUMMER."
+  },
+  "links": {
+   "al": "135028",
+   "amz": "https://www.amazon.co.jp/dp/B07TCK538J",
+   "bw": "deb5a173e1-a729-467e-8b72-96bfb8cc16c3",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2381738",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/452395/A002205362/",
+   "raw": "https://shonenjumpplus.com/magazine/3270296674393612710"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2019,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-09T19:04:58+00:00",
+  "updatedAt": "2024-11-09T19:05:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2d3fa977-7dd0-47da-9cae-d4404232fb4c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 空もずく\n\n**Additional Sites:**\n- [Sora Mozuku–Toumori Higoro Shared X](https://x.com/sora_toumori)"
+    },
+    "booth": null,
+    "createdAt": "2022-05-11T14:57:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sora Mozuku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sora_mozuku",
+    "updatedAt": "2024-11-09T17:31:22+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "95dc4d7e-45a2-4514-be13-52202f02dc89",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 十森ひごろ\n\n**Additional Sites:**\n- [2nd X](https://x.com/TH_autumnthree)\n- [Sora Mozuku–Toumori Higoro Shared X](https://x.com/sora_toumori)"
+    },
+    "booth": null,
+    "createdAt": "2022-05-11T14:58:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Toumori Higoro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/5325537",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/mwinterfour",
+    "updatedAt": "2024-11-09T19:20:48+00:00",
+    "version": 6,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "64f08c5d-188c-4984-8cd0-5f86f153734a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-09T19:05:04+00:00",
+    "description": "",
+    "fileName": "362a6976-1cff-4ffa-8dfc-c5540c91e7e0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-09T19:05:04+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

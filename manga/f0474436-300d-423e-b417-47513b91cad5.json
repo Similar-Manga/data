@@ -1,0 +1,158 @@
+{
+ "id": "f0474436-300d-423e-b417-47513b91cad5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Aoiro Stripe"
+  },
+  "altTitles": [
+   {
+    "ja": "青色ストライプ"
+   },
+   {
+    "en": "Blue Color Stripe"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/191613/list",
+   "mal": "113680"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "8",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2018,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-07T17:35:04+00:00",
+  "updatedAt": "2024-11-07T17:35:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "eaa6cfd6-6c57-48e3-836b-579d6d79e47c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n盛田賢司"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morita Kenji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kenjimorita1",
+    "updatedAt": "2023-06-29T23:16:31+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "eaa6cfd6-6c57-48e3-836b-579d6d79e47c",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n盛田賢司"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morita Kenji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kenjimorita1",
+    "updatedAt": "2023-06-29T23:16:31+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f325c370-b97c-4b91-b8f8-1cec1b413907",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-07T17:35:15+00:00",
+    "description": "",
+    "fileName": "d4bba129-9f7b-460c-b181-95af0a16f995.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-07T17:35:15+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

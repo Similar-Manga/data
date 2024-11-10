@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "cfb30153-2ab5-4e46-ae00-bcf8c8994870",
-   "title": {
-    "en": "Sick Guts"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
    "id": "7bdb8457-da53-4965-9c06-e534e772faeb",
    "title": {
     "en": "Boomerang Head"
@@ -43,18 +31,6 @@
    ]
   },
   {
-   "id": "7db5c649-573c-4f39-b314-a0bd8487fd29",
-   "title": {
-    "en": "Go Go! Encyclopedia Girls"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "es",
-    "en"
-   ]
-  },
-  {
    "id": "670eb240-f97c-4809-9c4e-f89ec5ea5429",
    "title": {
     "en": "Moto Ojou-sama, Roudou no o Jikan desu"
@@ -69,14 +45,27 @@
    ]
   },
   {
-   "id": "b8c20da0-5911-4a0a-a972-ac1603eca86b",
+   "id": "7db5c649-573c-4f39-b314-a0bd8487fd29",
    "title": {
-    "en": "ERROR US"
+    "en": "Go Go! Encyclopedia Girls"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.2857143,
    "languages": [
-    "es"
+    "es",
+    "en"
+   ]
+  },
+  {
+   "id": "cfb30153-2ab5-4e46-ae00-bcf8c8994870",
+   "title": {
+    "en": "Sick Guts"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "es",
+    "en"
    ]
   },
   {
@@ -99,6 +88,17 @@
    "score": 0.23328476,
    "languages": [
     "en",
+    "es"
+   ]
+  },
+  {
+   "id": "b8c20da0-5911-4a0a-a972-ac1603eca86b",
+   "title": {
+    "en": "ERROR US"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
     "es"
    ]
   },
@@ -147,7 +147,7 @@
     "en": "METRA-K"
    },
    "contentRating": "safe",
-   "score": 0.18981996,
+   "score": 0.18860613,
    "languages": [
     "es"
    ]
@@ -164,6 +164,20 @@
     "id",
     "es",
     "en"
+   ]
+  },
+  {
+   "id": "194b6647-6f74-4783-b262-9815502f0c9f",
+   "title": {
+    "en": "For My Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.17147529,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr",
+    "es"
    ]
   },
   {
@@ -194,26 +208,12 @@
     "en": "Hollow Grimoire"
    },
    "contentRating": "safe",
-   "score": 0.16229266,
+   "score": 0.16135141,
    "languages": [
     "en",
-    "es"
-   ]
-  },
-  {
-   "id": "194b6647-6f74-4783-b262-9815502f0c9f",
-   "title": {
-    "en": "For My Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.15829182,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
     "es"
    ]
   }
  ],
- "updatedAt": "2024-11-07T20:19:42+00:00"
+ "updatedAt": "2024-11-09T20:04:47+00:00"
 }

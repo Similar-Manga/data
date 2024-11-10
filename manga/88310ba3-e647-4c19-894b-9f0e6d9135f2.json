@@ -13,10 +13,12 @@
   "description": {},
   "links": {
    "al": "152607",
-   "bw": "series/353806/list",
+   "amz": "https://www.amazon.co.jp/dp/B0B7R1MC6X",
+   "bw": "series/353806",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/696160/",
    "mal": "144524",
    "mu": "197196",
-   "raw": "https://yanmaga.jp/comics/%E3%82%BE%E3%83%9F%E3%82%A2/230328cd8676a7cb3cd1247ab0856cdc"
+   "raw": "https://yanmaga.jp/comics/%E3%82%BE%E3%83%9F%E3%82%A2"
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
@@ -52,16 +54,18 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 12,
   "createdAt": "2022-03-01T13:56:26+00:00",
-  "updatedAt": "2024-04-10T16:15:53+00:00"
+  "updatedAt": "2024-11-07T15:34:18+00:00"
  },
  "relationships": [
   {
    "id": "00906648-9035-40fa-ac5a-6c92c2fc876b",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 浅村壮平\n\n**Circle:** Asamura Boukendan (浅村冒険団)"
+    },
     "booth": null,
     "createdAt": "2022-03-01T13:55:03+00:00",
     "fanBox": null,
@@ -72,12 +76,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/83072500",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-03-01T13:55:03+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/asamurasohey",
+    "updatedAt": "2024-11-07T14:16:04+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -87,7 +91,9 @@
    "id": "09236d15-a5a7-4dd8-a7ce-2fd7343cc654",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 石田点"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -101,9 +107,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ishidaink",
+    "updatedAt": "2024-11-07T15:37:13+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

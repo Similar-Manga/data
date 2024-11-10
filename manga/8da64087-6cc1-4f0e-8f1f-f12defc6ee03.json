@@ -1,0 +1,154 @@
+{
+ "id": "8da64087-6cc1-4f0e-8f1f-f12defc6ee03",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Suki Dakara, da yo"
+  },
+  "altTitles": [
+   {
+    "ja": "すきだから、だよ"
+   }
+  ],
+  "description": {
+   "ja": "彼氏に尽くして浮気されて傷心の不遇女子の前に、 会社で人気の先輩男子が現れ、優しく寄り添ってくれるが… 新感覚・怖＆甘ラブサスペンス！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/gp/product/B0CXLH4XYR?ref_=dbs_p_pwh_rwt_anx_cl_4\u0026storeType=ebooks",
+   "bw": "de6c0cbfe2-3ec2-4ead-a071-232d0169fdf8",
+   "ebj": "https://ebookjapan.yahoo.co.jp/stories/139321/",
+   "mu": "uz4xkef",
+   "raw": "https://cycomi.com/title/193"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-09T11:23:24+00:00",
+  "updatedAt": "2024-11-09T11:25:08+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3407d3a5-9d16-4096-b7bd-533d4dcb5585",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamaguchi Eito",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3407d3a5-9d16-4096-b7bd-533d4dcb5585",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamaguchi Eito",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "73c2b238-f9e5-4b8d-a0c4-a627fec7a18a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-09T11:23:28+00:00",
+    "description": "",
+    "fileName": "17c95316-0cb1-45ad-9c6e-bc2e1bf01a2e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-09T11:23:28+00:00",
+    "version": 1,
+    "volume": "6"
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

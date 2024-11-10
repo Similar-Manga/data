@@ -50,9 +50,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-08-18T05:07:12+00:00",
-  "updatedAt": "2024-09-02T17:51:06+00:00"
+  "updatedAt": "2024-11-07T20:28:42+00:00"
  },
  "relationships": [
   {
@@ -82,17 +82,19 @@
    }
   },
   {
-   "id": "3a23c0bc-5a52-4d97-a8b5-327389927d41",
+   "id": "13467a55-3c71-474e-9ca1-32c347de66f8",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Also known by his birth name Hirano Toshihiro"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Hirano Toshihiro",
+    "name": "Hirano Toshiki",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -100,8 +102,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-09-22T18:26:19+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

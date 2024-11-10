@@ -11,7 +11,7 @@
     "en": "Macross 7th Chord"
    },
    "contentRating": "safe",
-   "score": 0.2820958,
+   "score": 0.2820888,
    "languages": [
     "en",
     "es-la"
@@ -23,7 +23,7 @@
     "en": "Macross the ride - insert manga"
    },
    "contentRating": "safe",
-   "score": 0.24751674,
+   "score": 0.24751951,
    "languages": [
     "es-la"
    ]
@@ -56,7 +56,7 @@
     "en": "Beyond the Sky"
    },
    "contentRating": "safe",
-   "score": 0.22816181,
+   "score": 0.22816186,
    "languages": [
     "pl",
     "en"
@@ -79,7 +79,7 @@
     "en": "Code Geass: Lelouch of the Re;surrection"
    },
    "contentRating": "safe",
-   "score": 0.20924024,
+   "score": 0.20924062,
    "languages": [
     "en"
    ]
@@ -96,9 +96,20 @@
    ]
   },
   {
-   "id": "69373c97-2794-4304-97b7-7477975f962f",
+   "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
    "title": {
-    "en": "Mobile Suit Gundam Valpurgis EVE"
+    "en": "Shin Henkei Shoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2197ea4e-069e-46ff-a000-1493b28422ae",
+   "title": {
+    "en": "Esoragoto"
    },
    "contentRating": "safe",
    "score": 0.19440396,
@@ -118,29 +129,6 @@
    ]
   },
   {
-   "id": "84d6b69d-9003-49b0-b90b-652ad1b4725f",
-   "title": {
-    "en": "Brave Universe Sworgrader"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "c260db72-d9c3-40e6-aba6-badc8a692453",
-   "title": {
-    "en": "Shin Henkei Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.19440396,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "f73d1664-58c6-4cdc-b1c3-59d37643b54b",
    "title": {
     "en": "Mobile Suit Gundam SEED MSV - The Housenka That Blooms on the Battlefield"
@@ -152,13 +140,25 @@
    ]
   },
   {
-   "id": "2197ea4e-069e-46ff-a000-1493b28422ae",
+   "id": "69373c97-2794-4304-97b7-7477975f962f",
    "title": {
-    "en": "Esoragoto"
+    "en": "Mobile Suit Gundam Valpurgis EVE"
    },
    "contentRating": "safe",
    "score": 0.19440396,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "84d6b69d-9003-49b0-b90b-652ad1b4725f",
+   "title": {
+    "en": "Brave Universe Sworgrader"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -187,5 +187,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-07T20:16:46+00:00"
+ "updatedAt": "2024-11-09T20:01:52+00:00"
 }

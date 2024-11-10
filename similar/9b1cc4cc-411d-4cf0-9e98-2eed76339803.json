@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a512df3b-f21a-4e46-9228-85ece8338c01",
+   "title": {
+    "en": "The Time a Polar Bear Came to My House"
+   },
+   "contentRating": "safe",
+   "score": 0.3197822,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "3efbc4a2-9182-41fb-a3a8-e5c2d569c3db",
    "title": {
     "en": "Fiction or Nonfiction"
    },
    "contentRating": "safe",
-   "score": 0.30570033,
+   "score": 0.30570945,
    "languages": [
     "en"
    ]
@@ -22,7 +34,7 @@
     "en": "Poor Father and Daughter"
    },
    "contentRating": "safe",
-   "score": 0.29381445,
+   "score": 0.2938219,
    "languages": [
     "en",
     "fr",
@@ -36,7 +48,7 @@
     "en": "Ramboo and Panboo"
    },
    "contentRating": "safe",
-   "score": 0.29265282,
+   "score": 0.2926583,
    "languages": [
     "en"
    ]
@@ -47,44 +59,11 @@
     "en": "Childhood Friends Commuting to School by Train"
    },
    "contentRating": "safe",
-   "score": 0.2864969,
+   "score": 0.28641817,
    "languages": [
     "en",
     "id",
     "vi"
-   ]
-  },
-  {
-   "id": "85da5551-6bca-4ed4-9f72-e47e7d797c4b",
-   "title": {
-    "en": "Mojo's Journal"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ebe39c1c-aa78-4ba7-857c-308154aaf022",
-   "title": {
-    "en": "Vang Vang's Silly Adventures"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a5b1601f-e762-478f-946d-4a96cbd91304",
-   "title": {
-    "en": "Independent Diary"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -99,9 +78,9 @@
    ]
   },
   {
-   "id": "e9595a7c-6699-41a0-9ed0-94ef835a2e51",
+   "id": "a06f05f5-12c2-44a0-8472-3ecf2fa7f880",
    "title": {
-    "en": "Next Door Country"
+    "en": "Please Subscribe to the Second Floor"
    },
    "contentRating": "safe",
    "score": 0.2852744,
@@ -110,42 +89,9 @@
    ]
   },
   {
-   "id": "fb3397f1-c7d3-43ce-9cb3-80facfad3c65",
+   "id": "a5b1601f-e762-478f-946d-4a96cbd91304",
    "title": {
-    "en": "A New Life"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5a0dc515-b4bb-4ef4-af41-bd022b440c6a",
-   "title": {
-    "en": "Kamvret Lyfe"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c68a50de-928e-468b-8369-5248dcad7309",
-   "title": {
-    "en": "The Oddball Advertising Agency"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "916c72bf-ceaa-44a0-ab88-843f80027a69",
-   "title": {
-    "en": "Da Ji Da Li"
+    "en": "Independent Diary"
    },
    "contentRating": "safe",
    "score": 0.2852744,
@@ -167,9 +113,64 @@
    ]
   },
   {
-   "id": "a06f05f5-12c2-44a0-8472-3ecf2fa7f880",
+   "id": "c68a50de-928e-468b-8369-5248dcad7309",
    "title": {
-    "en": "Please Subscribe to the Second Floor"
+    "en": "The Oddball Advertising Agency"
+   },
+   "contentRating": "safe",
+   "score": 0.2852744,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fb3397f1-c7d3-43ce-9cb3-80facfad3c65",
+   "title": {
+    "en": "A New Life"
+   },
+   "contentRating": "safe",
+   "score": 0.2852744,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e9595a7c-6699-41a0-9ed0-94ef835a2e51",
+   "title": {
+    "en": "Next Door Country"
+   },
+   "contentRating": "safe",
+   "score": 0.2852744,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ebe39c1c-aa78-4ba7-857c-308154aaf022",
+   "title": {
+    "en": "Vang Vang's Silly Adventures"
+   },
+   "contentRating": "safe",
+   "score": 0.2852744,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5a0dc515-b4bb-4ef4-af41-bd022b440c6a",
+   "title": {
+    "en": "Kamvret Lyfe"
+   },
+   "contentRating": "safe",
+   "score": 0.2852744,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "85da5551-6bca-4ed4-9f72-e47e7d797c4b",
+   "title": {
+    "en": "Mojo's Journal"
    },
    "contentRating": "safe",
    "score": 0.2852744,
@@ -183,11 +184,11 @@
     "en": "Yi'An High School: After Class"
    },
    "contentRating": "safe",
-   "score": 0.27944785,
+   "score": 0.27943164,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-07T21:09:28+00:00"
+ "updatedAt": "2024-11-09T20:54:27+00:00"
 }

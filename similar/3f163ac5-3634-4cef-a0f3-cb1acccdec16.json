@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "54349b82-7b0f-413b-bdb0-ff7f495f2c74",
+   "title": {
+    "en": "How a Rebellious Girl Fell into Love"
+   },
+   "contentRating": "safe",
+   "score": 0.38147974,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "93622dc2-2f6d-474e-a811-e8920c969267",
    "title": {
     "en": "My Secret Buddy"
    },
    "contentRating": "safe",
-   "score": 0.44761497,
+   "score": 0.364665,
    "languages": [
     "en"
    ]
@@ -22,18 +33,7 @@
     "en": "My Secret Boyfriend"
    },
    "contentRating": "safe",
-   "score": 0.41335005,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "54349b82-7b0f-413b-bdb0-ff7f495f2c74",
-   "title": {
-    "en": "How a Rebellious Girl Fell into Love"
-   },
-   "contentRating": "safe",
-   "score": 0.3718085,
+   "score": 0.33348486,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "The Affair Club"
    },
    "contentRating": "safe",
-   "score": 0.32043692,
+   "score": 0.33032453,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "First Love, Lasting Hate"
    },
    "contentRating": "safe",
-   "score": 0.30178034,
+   "score": 0.3028394,
    "languages": [
     "en"
    ]
@@ -66,10 +66,21 @@
     "en": "Butler, please!"
    },
    "contentRating": "safe",
-   "score": 0.28239447,
+   "score": 0.28596377,
    "languages": [
     "es-la",
     "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "aaaf37d8-c96f-402d-9cb1-04fad835836c",
+   "title": {
+    "en": "Bodyguard"
+   },
+   "contentRating": "safe",
+   "score": 0.27020222,
+   "languages": [
     "en"
    ]
   },
@@ -79,7 +90,7 @@
     "en": "Scrambled: Journeylism"
    },
    "contentRating": "safe",
-   "score": 0.2665979,
+   "score": 0.2673287,
    "languages": [
     "en"
    ]
@@ -90,18 +101,18 @@
     "en": "Only the Cats Know"
    },
    "contentRating": "safe",
-   "score": 0.26487815,
+   "score": 0.26549777,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "aaaf37d8-c96f-402d-9cb1-04fad835836c",
+   "id": "7304477d-8f63-46f6-974d-0b210cad8367",
    "title": {
-    "en": "Bodyguard"
+    "en": "Berandal Love Comedy"
    },
    "contentRating": "safe",
-   "score": 0.2639942,
+   "score": 0.2563107,
    "languages": [
     "en"
    ]
@@ -118,48 +129,14 @@
    ]
   },
   {
-   "id": "7304477d-8f63-46f6-974d-0b210cad8367",
-   "title": {
-    "en": "Berandal Love Comedy"
-   },
-   "contentRating": "safe",
-   "score": 0.2536176,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "84e37d72-ce40-4029-b6ab-5d7160f143c0",
    "title": {
     "en": "It’s Neither Windy or Rainy, and nor Is It Clear"
    },
    "contentRating": "safe",
-   "score": 0.25309113,
+   "score": 0.25471646,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "19cc32ee-b0cc-4f4c-aceb-6f6c4e16d63e",
-   "title": {
-    "en": "Love Is a Promise"
-   },
-   "contentRating": "safe",
-   "score": 0.2507954,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0d7e2a21-9b44-44fe-ab33-67c17bbc25be",
-   "title": {
-    "en": "Love \u0026 Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.25016153,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -168,10 +145,33 @@
     "en": "I Don't Want to Be Bullied by Girls"
    },
    "contentRating": "safe",
-   "score": 0.24998896,
+   "score": 0.2545627,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "0d7e2a21-9b44-44fe-ab33-67c17bbc25be",
+   "title": {
+    "en": "Love \u0026 Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.25159207,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "19cc32ee-b0cc-4f4c-aceb-6f6c4e16d63e",
+   "title": {
+    "en": "Love Is a Promise"
+   },
+   "contentRating": "safe",
+   "score": 0.25141463,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -180,7 +180,7 @@
     "en": "The Secret of the Partner Next to You"
    },
    "contentRating": "safe",
-   "score": 0.24920025,
+   "score": 0.2507384,
    "languages": [
     "pt-br",
     "es-la",
@@ -189,5 +189,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-07T20:38:07+00:00"
+ "updatedAt": "2024-11-09T20:22:46+00:00"
 }

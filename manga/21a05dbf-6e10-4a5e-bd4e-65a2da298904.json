@@ -10,7 +10,10 @@
     "ko": "크립티드"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Robin is an ordinary high school student in South Korea.\n\nOn his way home from school as usual, an air raid warning sounds throughout the city, and an unidentified 'thing' takes away Robin's ordinary daily life.\n\nRobin gets caught up in the fight between the 'monster', a being forgotten by humans for a long time, and the 'nameless unit' that protects humans... \n\nWhat the heck, this is scary!",
+   "ko": "대한민국의 평범한 고등학생 로빈.\n\n평소와 다름 없던 하교길 도중, 도시 전역에 공습 경보가 울려 퍼지고정체 불명의 '그것'은 평범했던 로빈의 일상을 송두리째 앗아 간다.\n\n오랜 시간동안 인간들에게 잊혀졌던 존재 '괴이'와 인간을 지키는 '무명대'의 싸움에로빈은 휘말리게 되는데... 뭐야, 이거 무서워!"
+  },
   "links": {
    "mu": "w1jr6pe",
    "raw": "https://comic.naver.com/webtoon/list?titleId=832758"
@@ -24,6 +27,18 @@
   ],
   "latestUploadedChapter": "df0a3124-234f-4926-b7db-95ff8603d0c0",
   "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
@@ -98,9 +113,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-10-19T19:37:29+00:00",
-  "updatedAt": "2024-10-19T19:37:34+00:00"
+  "updatedAt": "2024-11-09T03:28:18+00:00"
  },
  "relationships": [
   {

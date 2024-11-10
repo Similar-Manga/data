@@ -1,0 +1,150 @@
+{
+ "id": "ae26c3e9-1da4-41e0-a13c-c1bc4aef86bf",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "How To Die Tomorrow"
+  },
+  "altTitles": [
+   {
+    "ja": "明日ノ死ニ方"
+   },
+   {
+    "ja-ro": "Asu no Shi ni Kata"
+   }
+  ],
+  "description": {
+   "en": "Published in Jump SQ. RISE 2018 AUTUMN."
+  },
+  "links": {
+   "al": "135026",
+   "amz": "https://www.amazon.co.jp/dp/B07J5KD334",
+   "bw": "de05304387-e8c5-42e9-a651-4d1ea82d9d07",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2287238",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/452395/A002025538/",
+   "raw": "https://shonenjumpplus.com/magazine/3270296674393612163"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2018,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-09T18:44:16+00:00",
+  "updatedAt": "2024-11-09T18:45:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2d3fa977-7dd0-47da-9cae-d4404232fb4c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 空もずく\n\n**Additional Sites:**\n- [Sora Mozuku–Toumori Higoro Shared X](https://x.com/sora_toumori)"
+    },
+    "booth": null,
+    "createdAt": "2022-05-11T14:57:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sora Mozuku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sora_mozuku",
+    "updatedAt": "2024-11-09T17:31:22+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "95dc4d7e-45a2-4514-be13-52202f02dc89",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 十森ひごろ\n\n**Additional Sites:**\n- [2nd X](https://x.com/TH_autumnthree)\n- [Sora Mozuku–Toumori Higoro Shared X](https://x.com/sora_toumori)"
+    },
+    "booth": null,
+    "createdAt": "2022-05-11T14:58:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Toumori Higoro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/5325537",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/mwinterfour",
+    "updatedAt": "2024-11-09T19:20:48+00:00",
+    "version": 6,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6d183b9b-2579-4b94-8dd0-8b42ade08add",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-09T18:44:21+00:00",
+    "description": "",
+    "fileName": "68b64cf8-125e-4c1b-9927-057f8d7eddac.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-09T18:44:21+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

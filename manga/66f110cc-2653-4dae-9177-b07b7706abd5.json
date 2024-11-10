@@ -37,7 +37,7 @@
    "th",
    "en"
   ],
-  "latestUploadedChapter": "e43d00b9-1321-4571-93f2-728f0fba3718",
+  "latestUploadedChapter": "65d2973f-c39c-438d-8fcc-cfa88c7a6724",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -60,6 +60,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -89,9 +101,9 @@
    }
   ],
   "state": "published",
-  "version": 23,
+  "version": 24,
   "createdAt": "2022-07-14T09:27:47+00:00",
-  "updatedAt": "2024-08-05T14:38:57+00:00"
+  "updatedAt": "2024-11-08T19:10:50+00:00"
  },
  "relationships": [
   {

@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "eba9285c-8314-4f14-898d-a9476b83a394",
-   "title": {
-    "en": "Pokémon"
-   },
-   "contentRating": "safe",
-   "score": 0.33387062,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "eab0c11e-b65a-4658-98fa-6e618208252d",
    "title": {
     "en": "Pokémon Diamond and Pearl"
    },
    "contentRating": "safe",
-   "score": 0.31619692,
+   "score": 0.3392824,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eba9285c-8314-4f14-898d-a9476b83a394",
+   "title": {
+    "en": "Pokémon"
+   },
+   "contentRating": "safe",
+   "score": 0.33443487,
    "languages": [
     "en"
    ]
@@ -33,11 +33,19 @@
     "en": "Pokémon Super Mystery Dungeon - Go! Expedition Society Juniors!"
    },
    "contentRating": "safe",
-   "score": 0.29392397,
+   "score": 0.29452077,
    "languages": [
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "2548c06f-a8e0-450c-9ac5-8874e6934052",
+   "title": {
+    "en": "Pokémon Ruby Sapphire 2Koma"
+   },
+   "contentRating": "safe",
+   "score": 0.28481698
   },
   {
    "id": "fb74e93d-e947-4774-83e7-d972b85d3d11",
@@ -45,7 +53,7 @@
     "en": "Pokémon SPECIAL Scarlet \u0026 Violet"
    },
    "contentRating": "safe",
-   "score": 0.2670802,
+   "score": 0.2828131,
    "languages": [
     "en",
     "vi"
@@ -57,7 +65,7 @@
     "en": "Pokémon Mezastar Mezase! Tag Master"
    },
    "contentRating": "safe",
-   "score": 0.26592505
+   "score": 0.26614115
   },
   {
    "id": "a271303b-af4f-437a-b7c6-6c9dbba15655",
@@ -73,7 +81,7 @@
     "en": "Pokémon: Mewtwo Strikes Back!"
    },
    "contentRating": "safe",
-   "score": 0.2500644,
+   "score": 0.25031677,
    "languages": [
     "pl",
     "en"
@@ -85,7 +93,7 @@
     "en": "Pokémon HeartGold SoulSilver: Go! Go! Pokéathlon"
    },
    "contentRating": "safe",
-   "score": 0.24614741,
+   "score": 0.24634555,
    "languages": [
     "pt-br",
     "en",
@@ -98,7 +106,7 @@
     "en": "RWBY: Ice Queendom"
    },
    "contentRating": "safe",
-   "score": 0.24006054,
+   "score": 0.24041691,
    "languages": [
     "ru",
     "en",
@@ -106,20 +114,12 @@
    ]
   },
   {
-   "id": "2548c06f-a8e0-450c-9ac5-8874e6934052",
-   "title": {
-    "en": "Pokémon Ruby Sapphire 2Koma"
-   },
-   "contentRating": "safe",
-   "score": 0.23914325
-  },
-  {
    "id": "f9b26533-a516-499b-b2ca-8d095ac5174a",
    "title": {
     "en": "Pokémon HGSS"
    },
    "contentRating": "safe",
-   "score": 0.23767327,
+   "score": 0.2378351,
    "languages": [
     "en"
    ]
@@ -130,7 +130,15 @@
     "en": "Pokémon Battle: Pikachu's Big Exciting Adventure"
    },
    "contentRating": "safe",
-   "score": 0.233031
+   "score": 0.23358256
+  },
+  {
+   "id": "0b80be23-1e56-4295-b551-31d7461874ee",
+   "title": {
+    "en": "TEAM PHOENIX"
+   },
+   "contentRating": "safe",
+   "score": 0.22915006
   },
   {
    "id": "8ec6a40f-5b98-4fa5-a379-bb6578e7b1fa",
@@ -138,9 +146,21 @@
     "en": "When I Tried Strengthening a Rusty Sword, It Turned into an OP Magic Sword"
    },
    "contentRating": "safe",
-   "score": 0.21753822,
+   "score": 0.22491704,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "309e623b-ac49-42b6-a9ee-bb9adee266e8",
+   "title": {
+    "en": "The Birth of Mega Man"
+   },
+   "contentRating": "safe",
+   "score": 0.21897072,
+   "languages": [
+    "es",
     "en"
    ]
   },
@@ -150,31 +170,12 @@
     "en": "Pokémon Mystery Dungeon: Explorers of Time and Darkness"
    },
    "contentRating": "safe",
-   "score": 0.21548921,
+   "score": 0.21598953,
    "languages": [
     "en",
     "uk"
    ]
-  },
-  {
-   "id": "e4abbf0e-25d3-4ba1-b365-7307f423fb2d",
-   "title": {
-    "en": "Do Your Best Mario"
-   },
-   "contentRating": "safe",
-   "score": 0.21419182
-  },
-  {
-   "id": "25d11bea-fe4e-444c-8199-e74de82474db",
-   "title": {
-    "en": "Pokémon the Movie 2000: The Power of One"
-   },
-   "contentRating": "safe",
-   "score": 0.21254793,
-   "languages": [
-    "pl"
-   ]
   }
  ],
- "updatedAt": "2024-11-07T21:36:47+00:00"
+ "updatedAt": "2024-11-09T21:21:41+00:00"
 }

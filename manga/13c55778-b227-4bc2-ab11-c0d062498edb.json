@@ -16,7 +16,7 @@
     "ja": "切れぬ牌などあんまりない！"
    },
    {
-    "vi": "Không có quân nào là mình không thể dứt!"
+    "vi": "Không có quân nào là tôi không thể dứt!"
    }
   ],
   "description": {
@@ -43,6 +43,18 @@
   "latestUploadedChapter": "d7f197e7-5f53-4ee0-a204-29e652336d5c",
   "tags": [
    {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
     "type": "tag",
     "attributes": {
@@ -55,26 +67,26 @@
     }
    },
    {
-    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Ghosts"
+      "en": "Sports"
      },
      "description": {},
-     "group": "theme",
+     "group": "genre",
      "version": 1
     }
    },
    {
-    "id": "81183756-1453-4c81-aa9e-f6e1b63be016",
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Samurai"
+      "en": "Doujinshi"
      },
      "description": {},
-     "group": "theme",
+     "group": "format",
      "version": 1
     }
    },
@@ -92,9 +104,9 @@
    }
   ],
   "state": "published",
-  "version": 17,
+  "version": 19,
   "createdAt": "2021-01-01T01:37:07+00:00",
-  "updatedAt": "2024-10-19T15:20:18+00:00"
+  "updatedAt": "2024-11-07T22:22:04+00:00"
  },
  "relationships": [
   {

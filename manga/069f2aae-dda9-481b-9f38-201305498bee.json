@@ -14,16 +14,17 @@
    "en": "Within a country akin to a tower, rabbits live in towns on the upper floors 1 to 13, and the oppressed wolves live in the lower stratum. The lower the floor, the worse the living conditions and security get. To move up, a key is needed as proof of passage, but moving down is unrestricted. In this kind of country, a rabbit named Bell has the daily task of capturing wolves, and will savagely kill any that enter her domain. Despite all this, a wolf appears by her side–!?"
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/gp/product/B073J679MM",
+   "amz": "https://www.amazon.co.jp/dp/B073J679MM",
    "ap": "basculer",
+   "bw": "de40db4e92-bc75-4c64-b56a-c3163a787bd0",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/414795/",
    "kt": "50642",
    "mal": "109249",
    "mu": "100527"
   },
   "originalLanguage": "ja",
-  "lastVolume": "2",
   "publicationDemographic": "seinen",
-  "status": "completed",
+  "status": "hiatus",
   "year": 2014,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -45,6 +46,18 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -58,9 +71,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2019-02-24T05:57:27+00:00",
-  "updatedAt": "2023-12-04T16:37:29+00:00"
+  "updatedAt": "2024-11-07T11:38:09+00:00"
  },
  "relationships": [
   {
@@ -120,16 +133,16 @@
    }
   },
   {
-   "id": "c77c7090-5967-4f4c-bd59-d771486cc2e6",
+   "id": "95b3cbe6-6c73-4ed4-97bb-d369e6ae1b84",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:02:26+00:00",
+    "createdAt": "2024-11-07T11:33:50+00:00",
     "description": "",
-    "fileName": "ef0aff5a-df7c-4bdb-add8-2029efc9ee7b.jpg",
+    "fileName": "84f2ac69-40ef-4c64-bd20-af113d3b7da2.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:02:26+00:00",
+    "updatedAt": "2024-11-07T11:33:50+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

@@ -6,34 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "fd0638a8-2bf3-4e9c-85c2-2e5d72bf34fd",
-   "title": {
-    "en": "Youkai Apartment no Yuuga na Nichijou"
-   },
-   "contentRating": "safe",
-   "score": 0.2702964,
-   "languages": [
-    "en",
-    "pl",
-    "es-la"
-   ]
-  },
-  {
-   "id": "74088ca4-48ea-4c09-8df0-2943708b1c0c",
-   "title": {
-    "en": "Gabriel DropOut"
-   },
-   "contentRating": "safe",
-   "score": 0.26196098,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "id",
-    "fr"
-   ]
-  },
-  {
    "id": "1b0673c7-f4e9-4e3a-bfbd-46835ab22819",
    "title": {
     "en": "Edomae Elf"
@@ -48,12 +20,40 @@
    ]
   },
   {
+   "id": "fd0638a8-2bf3-4e9c-85c2-2e5d72bf34fd",
+   "title": {
+    "en": "Youkai Apartment no Yuuga na Nichijou"
+   },
+   "contentRating": "safe",
+   "score": 0.24283502,
+   "languages": [
+    "en",
+    "pl",
+    "es-la"
+   ]
+  },
+  {
+   "id": "74088ca4-48ea-4c09-8df0-2943708b1c0c",
+   "title": {
+    "en": "Gabriel DropOut"
+   },
+   "contentRating": "safe",
+   "score": 0.24110086,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "id",
+    "fr"
+   ]
+  },
+  {
    "id": "a0d76ebd-99d5-4702-b35b-349be10c6af3",
    "title": {
     "en": "Ikusaba Animation"
    },
    "contentRating": "safe",
-   "score": 0.23382287,
+   "score": 0.23404409,
    "languages": [
     "en",
     "fr"
@@ -77,6 +77,17 @@
    ]
   },
   {
+   "id": "90657ab4-b422-41bd-80ed-7bd9a658b29c",
+   "title": {
+    "en": "ISOUROU TENSHI - HAJIMETE NO CHIKYUU SEIKATSU"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
    "id": "da6e04bc-8992-49bb-95c9-21e73a62c193",
    "title": {
     "en": "After-school Secret Club"
@@ -89,14 +100,17 @@
    ]
   },
   {
-   "id": "90657ab4-b422-41bd-80ed-7bd9a658b29c",
+   "id": "b700777b-b007-436a-8830-951cd5e1df97",
    "title": {
-    "en": "ISOUROU TENSHI - HAJIMETE NO CHIKYUU SEIKATSU"
+    "en": "Phantom Busters"
    },
    "contentRating": "safe",
-   "score": 0.22506468,
+   "score": 0.22278878,
    "languages": [
-    "fr"
+    "vi",
+    "pt-br",
+    "en",
+    "id"
    ]
   },
   {
@@ -105,7 +119,7 @@
     "en": "Chick Bomb"
    },
    "contentRating": "safe",
-   "score": 0.21824151,
+   "score": 0.21845528,
    "languages": [
     "en",
     "es-la"
@@ -117,7 +131,7 @@
     "en": "Kusunoki's Flunking Her High School Glow-Up"
    },
    "contentRating": "safe",
-   "score": 0.21784325,
+   "score": 0.2184195,
    "languages": [
     "en",
     "vi",
@@ -132,25 +146,11 @@
     "en": "Westa no Daidokoro -Wasureta Boku no Sekai Gohan-"
    },
    "contentRating": "safe",
-   "score": 0.21248905,
+   "score": 0.21295501,
    "languages": [
     "es-la",
     "vi",
     "en"
-   ]
-  },
-  {
-   "id": "b700777b-b007-436a-8830-951cd5e1df97",
-   "title": {
-    "en": "Phantom Busters"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "vi",
-    "pt-br",
-    "en",
-    "id"
    ]
   },
   {
@@ -184,11 +184,29 @@
     "en": "Harebare Biyori"
    },
    "contentRating": "safe",
-   "score": 0.20496152,
+   "score": 0.2052143,
    "languages": [
     "en",
     "es-la",
     "id"
+   ]
+  },
+  {
+   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
+   "title": {
+    "en": "My Clueless First Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.20267093,
+   "languages": [
+    "en",
+    "uk",
+    "pt-br",
+    "ru",
+    "vi",
+    "it",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -202,25 +220,7 @@
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
-   "title": {
-    "en": "My Clueless First Friend"
-   },
-   "contentRating": "safe",
-   "score": 0.20247939,
-   "languages": [
-    "en",
-    "uk",
-    "pt-br",
-    "ru",
-    "vi",
-    "it",
-    "id",
-    "es-la"
-   ]
   }
  ],
- "updatedAt": "2024-11-07T21:07:38+00:00"
+ "updatedAt": "2024-11-09T20:52:36+00:00"
 }

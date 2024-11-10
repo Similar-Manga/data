@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
+   "title": {
+    "en": "Lion Books"
+   },
+   "contentRating": "safe",
+   "score": 0.29410338,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
    "title": {
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.28958043,
+   "score": 0.28206643,
    "languages": [
     "en",
     "pt-br",
@@ -24,23 +35,12 @@
    ]
   },
   {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.28830016,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "553f2052-6320-4657-a5f1-ef5713d73be2",
    "title": {
     "en": "21st Century Adventure"
    },
    "contentRating": "safe",
-   "score": 0.25590768
+   "score": 0.2588516
   },
   {
    "id": "c99e4da0-c333-49ed-84fb-44dab733c7f2",
@@ -48,18 +48,10 @@
     "en": "The Mysterious Underground Men (Official Colored)"
    },
    "contentRating": "safe",
-   "score": 0.24215513,
+   "score": 0.24106048,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
-   "title": {
-    "en": "Dr. Thrill"
-   },
-   "contentRating": "safe",
-   "score": 0.23565693
   },
   {
    "id": "f0566129-581e-4be6-874a-88e72a10c7de",
@@ -67,7 +59,15 @@
     "en": "The Son of the Godfather"
    },
    "contentRating": "safe",
-   "score": 0.22930542
+   "score": 0.23584522
+  },
+  {
+   "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
+   "title": {
+    "en": "Dr. Thrill"
+   },
+   "contentRating": "safe",
+   "score": 0.22342353
   },
   {
    "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
@@ -75,7 +75,7 @@
     "en": "The Legend of Dororo and Hyakkimaru"
    },
    "contentRating": "safe",
-   "score": 0.22045846,
+   "score": 0.22032712,
    "languages": [
     "ru",
     "tr",
@@ -112,22 +112,31 @@
     "en": "Onikirimaru"
    },
    "contentRating": "safe",
-   "score": 0.21630822,
+   "score": 0.216743,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "596bae2a-6a5b-4975-8e5e-1dd44393eaaf",
+   "id": "500ac84c-959c-4d6d-bea4-1ebcee2aea67",
    "title": {
-    "en": "Cyborg 009"
+    "en": "Yo-kai Watch"
    },
    "contentRating": "safe",
-   "score": 0.21445769,
+   "score": 0.21483997,
    "languages": [
     "en",
-    "pt-br"
+    "es",
+    "ar"
    ]
+  },
+  {
+   "id": "ff495f01-ae9a-4f8b-80ac-35743a3a683d",
+   "title": {
+    "en": "Tuberculose"
+   },
+   "contentRating": "safe",
+   "score": 0.20985074
   },
   {
    "id": "a27b0456-0a48-4765-8cc1-8329f99be820",
@@ -135,7 +144,7 @@
     "en": "Shin Hyataro of the Ushiro"
    },
    "contentRating": "safe",
-   "score": 0.20944226
+   "score": 0.2097839
   },
   {
    "id": "94179f73-32cd-442f-8c28-dca671af0fdd",
@@ -159,20 +168,12 @@
    ]
   },
   {
-   "id": "ff495f01-ae9a-4f8b-80ac-35743a3a683d",
-   "title": {
-    "en": "Tuberculose"
-   },
-   "contentRating": "safe",
-   "score": 0.20849596
-  },
-  {
    "id": "433ab7c2-9785-49f6-bde2-94a46f9cd385",
    "title": {
     "en": "Cursed Kyosuke PSI Ghost Investigation Room"
    },
    "contentRating": "safe",
-   "score": 0.20621501
+   "score": 0.20672742
   },
   {
    "id": "12e2ab29-e28d-460c-bb14-2a6743281435",
@@ -186,5 +187,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-07T20:43:06+00:00"
+ "updatedAt": "2024-11-09T20:27:49+00:00"
 }

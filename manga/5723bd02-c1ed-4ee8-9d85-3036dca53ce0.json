@@ -3,38 +3,36 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Overdose Love"
+   "en": "Aiyoku Overdose"
   },
   "altTitles": [
    {
-    "ja": "Aiyoku Overdose, 愛欲オーバードーズ"
+    "ja": "愛欲オーバードーズ"
+   },
+   {
+    "en": "Overdose Love"
    }
   ],
   "description": {
    "en": "In the world of \"Doseverse,\" there are people with special characteristics: \"Drugs\" who can cure the illness of others just by touching them, and \"Krankes\" who are born with chronic health problems. Mikasaki, a \"Kranke\" for whom no treatment works, meets Yuma, a \"Drug\" at the medical facility where he is admitted. Mikasaki feels uncomfortable around Asuma, a refreshing elite who is the complete opposite of himself, but when Asuma touches him for treatment, a sense of pleasure wells up inside him... \"It's okay, you can feel good.\" Even though he knows it's a medical procedure, he kisses him deeply and heals him until he melts - the one who saves and the one who can only be saved... the ultimate love born in an absurd world."
   },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CVHZW513",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/807014/",
+   "mal": "173959",
    "mu": "ahqow2l",
-   "raw": "https://mechacomic.jp/books/185789"
+   "raw": "https://www.cmoa.jp/title/285198/"
   },
   "originalLanguage": "ja",
-  "publicationDemographic": "shoujo",
-  "status": "ongoing",
+  "lastChapter": "5",
+  "status": "completed",
   "year": 2024,
-  "contentRating": "safe",
+  "contentRating": "erotica",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "2ae68033-dcbb-4b2b-8c72-3c29ea2b192a",
   "tags": [
-   {
-    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Long Strip"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -70,31 +68,21 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 14,
   "createdAt": "2024-09-15T10:51:31+00:00",
-  "updatedAt": "2024-09-16T01:40:37+00:00"
+  "updatedAt": "2024-11-07T13:51:27+00:00"
  },
  "relationships": [
   {
    "id": "34075c7e-9b2a-4b97-a30a-6f592bee9000",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n下野圭"
+    },
     "booth": null,
     "createdAt": "2022-04-22T21:47:57+00:00",
     "fanBox": null,
@@ -109,8 +97,8 @@
     "skeb": null,
     "tumblr": "https://ishigoro.tumblr.com/",
     "twitter": "https://twitter.com/shimono_kei",
-    "updatedAt": "2022-04-23T03:03:20+00:00",
-    "version": 3,
+    "updatedAt": "2024-09-19T01:59:10+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -120,7 +108,9 @@
    "id": "34075c7e-9b2a-4b97-a30a-6f592bee9000",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n下野圭"
+    },
     "booth": null,
     "createdAt": "2022-04-22T21:47:57+00:00",
     "fanBox": null,
@@ -135,24 +125,24 @@
     "skeb": null,
     "tumblr": "https://ishigoro.tumblr.com/",
     "twitter": "https://twitter.com/shimono_kei",
-    "updatedAt": "2022-04-23T03:03:20+00:00",
-    "version": 3,
+    "updatedAt": "2024-09-19T01:59:10+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "1da40c96-52cc-41fc-8585-fc2b76cf643d",
+   "id": "d1f95bcb-ce50-407a-8591-fe3948355f25",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-15T10:51:35+00:00",
+    "createdAt": "2024-11-04T16:28:56+00:00",
     "description": "",
-    "fileName": "9a2dd5b0-03a6-4203-8372-fce871d9cc0d.png",
+    "fileName": "7156628e-b226-4a79-867f-c74d4385f5f7.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-15T10:51:35+00:00",
+    "updatedAt": "2024-11-04T16:28:56+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "0.1"
    }
   },
   {

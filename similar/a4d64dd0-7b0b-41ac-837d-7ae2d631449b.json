@@ -6,14 +6,15 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
+   "id": "b245e178-31f8-4c9a-9b75-8bd49ae671e2",
    "title": {
-    "en": "Manaka no Mori"
+    "en": "Kimi to Boku no Ashiato ~Time Travel Kasuga Kenkyuusho~"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en"
+    "en",
+    "it"
    ]
   },
   {
@@ -28,15 +29,14 @@
    ]
   },
   {
-   "id": "b245e178-31f8-4c9a-9b75-8bd49ae671e2",
+   "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
    "title": {
-    "en": "Kimi to Boku no Ashiato ~Time Travel Kasuga Kenkyuusho~"
+    "en": "Manaka no Mori"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en",
-    "it"
+    "en"
    ]
   },
   {
@@ -45,7 +45,7 @@
     "en": "Sekai de Ichiban, Ore ga ◯◯"
    },
    "contentRating": "safe",
-   "score": 0.22032264,
+   "score": 0.2203219,
    "languages": [
     "en"
    ]
@@ -56,7 +56,7 @@
     "en": "Kamisama Kazoku"
    },
    "contentRating": "safe",
-   "score": 0.21432517,
+   "score": 0.21432345,
    "languages": [
     "en",
     "pt-br"
@@ -68,12 +68,23 @@
     "ja": "Sensei, Kongetsu Dou Desu ka"
    },
    "contentRating": "safe",
-   "score": 0.21365562,
+   "score": 0.21365552,
    "languages": [
     "en",
     "pt-br",
     "vi",
     "es-la"
+   ]
+  },
+  {
+   "id": "a1aac928-7a29-41f3-b497-2c7a1f4f7ef3",
+   "title": {
+    "en": "Ascribe to Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -89,55 +100,20 @@
    ]
   },
   {
-   "id": "6258fbe3-6732-49eb-84d2-daab7bdd1416",
+   "id": "4308cd33-9620-415f-8a2b-ef5f51c775bd",
    "title": {
-    "en": "Double Marriage"
+    "en": "Nanja Monja"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "es-la",
     "en"
-   ]
-  },
-  {
-   "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
-   "title": {
-    "en": "Kamisama to"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
    "id": "de53dc3b-9306-4f37-a5b1-ec9f8726a968",
    "title": {
     "ja": "Shinigami no Hatsukoi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c379ed57-5b8a-4096-9287-9b8ed07785ad",
-   "title": {
-    "en": "Yoka-san ga Nameru"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a39e4520-fa2c-47c5-9908-2ee176c91eb7",
-   "title": {
-    "en": "Tena on S-String"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -162,9 +138,21 @@
    ]
   },
   {
-   "id": "a1aac928-7a29-41f3-b497-2c7a1f4f7ef3",
+   "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
    "title": {
-    "en": "Ascribe to Heaven"
+    "en": "Kamisama to"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "a39e4520-fa2c-47c5-9908-2ee176c91eb7",
+   "title": {
+    "en": "Tena on S-String"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -173,9 +161,21 @@
    ]
   },
   {
-   "id": "4308cd33-9620-415f-8a2b-ef5f51c775bd",
+   "id": "6258fbe3-6732-49eb-84d2-daab7bdd1416",
    "title": {
-    "en": "Nanja Monja"
+    "en": "Double Marriage"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "c379ed57-5b8a-4096-9287-9b8ed07785ad",
+   "title": {
+    "en": "Yoka-san ga Nameru"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -189,12 +189,12 @@
     "en": "Renri no Eda"
    },
    "contentRating": "safe",
-   "score": 0.18932287,
+   "score": 0.18932164,
    "languages": [
     "en",
     "vi"
    ]
   }
  ],
- "updatedAt": "2024-11-07T21:12:50+00:00"
+ "updatedAt": "2024-11-09T20:57:47+00:00"
 }

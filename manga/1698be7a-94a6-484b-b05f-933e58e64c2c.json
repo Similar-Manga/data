@@ -10,15 +10,21 @@
     "ja": "無二の一撃"
    },
    {
+    "en": "Peerless Blow"
+   },
+   {
     "ru": "Ни с чем не сравнимый удар"
    }
   ],
   "description": {
-   "en": "The boy at bottom of his life with a friend who lives lonely.\nFollow the strongest karate road!-- Depicted here is the new star of fighting (as in hand-to-hand combat) manga, the story of growth of the new generation of youth X karate!"
+   "en": "Toudou Gen, a middle school student being chased by debt collectors and estranged from his parents, is seeking a reason to live. Gen is living a rock-bottom life far from that of a typical 15-year-old when an aloof karate artist of the same age, Ibuki Ren, appears before him. As the heir to the Ibuki Dimension Style, which is considered taboo in the karate world, Ren has devoted himself to solitudinous training. Upon seeing his overwhelming “strength”, Gen is inspired to embark on the path to the strongest karate with Ren, in order to obtain the “indomitable strength” that will never yield to anything!! A new-era youth × karate development tale!!"
   },
   "links": {
    "al": "151665",
+   "amz": "https://www.amazon.co.jp/dp/B0BL3PTYM9",
    "ap": "muni-no-ichigeki",
+   "bw": "series/380344",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/724032/",
    "mal": "148712",
    "mu": "nyf49yt",
    "raw": "https://pocket.shonenmagazine.com/episode/3270375685304223759"
@@ -66,19 +72,33 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 16,
   "createdAt": "2022-06-28T18:40:22+00:00",
-  "updatedAt": "2024-09-16T11:56:17+00:00"
+  "updatedAt": "2024-11-07T15:20:24+00:00"
  },
  "relationships": [
   {
    "id": "9af9265c-4caf-4d6b-a0c1-5c067a0b896f",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 内藤光太郎"
+    },
     "booth": null,
     "createdAt": "2022-06-28T18:37:10+00:00",
     "fanBox": null,
@@ -92,9 +112,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-06-28T18:37:10+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/muni_1geki",
+    "updatedAt": "2024-11-07T14:37:54+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -104,7 +124,9 @@
    "id": "9af9265c-4caf-4d6b-a0c1-5c067a0b896f",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 内藤光太郎"
+    },
     "booth": null,
     "createdAt": "2022-06-28T18:37:10+00:00",
     "fanBox": null,
@@ -118,9 +140,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-06-28T18:37:10+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/muni_1geki",
+    "updatedAt": "2024-11-07T14:37:54+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

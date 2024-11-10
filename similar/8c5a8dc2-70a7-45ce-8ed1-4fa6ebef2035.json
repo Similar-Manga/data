@@ -11,7 +11,29 @@
     "en": "I Know What He Is"
    },
    "contentRating": "safe",
-   "score": 0.48602417,
+   "score": 0.4798369,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f46e69d5-2080-420c-aa45-54d452b4f0a1",
+   "title": {
+    "en": "Kataomoi Couple"
+   },
+   "contentRating": "safe",
+   "score": 0.374254,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "de52c8c4-d08a-4d2e-88f6-cf846112de41",
+   "title": {
+    "en": "Neko Hiroimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.31635976,
    "languages": [
     "en"
    ]
@@ -22,34 +44,10 @@
     "en": "Ayakashi's Bride"
    },
    "contentRating": "safe",
-   "score": 0.31898013,
+   "score": 0.3147177,
    "languages": [
     "en",
     "vi"
-   ]
-  },
-  {
-   "id": "de52c8c4-d08a-4d2e-88f6-cf846112de41",
-   "title": {
-    "en": "Neko Hiroimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.3173339,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ab2522a-bb08-419a-b272-1c799207fbc0",
-   "title": {
-    "en": "I'm the Ex-Girlfriend of a Soldier"
-   },
-   "contentRating": "safe",
-   "score": 0.31648043,
-   "languages": [
-    "th",
-    "en",
-    "ru"
    ]
   },
   {
@@ -58,7 +56,7 @@
     "en": "For My Hero"
    },
    "contentRating": "safe",
-   "score": 0.31325418,
+   "score": 0.30568296,
    "languages": [
     "en",
     "pt-br",
@@ -67,14 +65,16 @@
    ]
   },
   {
-   "id": "f46e69d5-2080-420c-aa45-54d452b4f0a1",
+   "id": "5f88271f-07fd-4da9-9c00-e88d06bbe570",
    "title": {
-    "en": "Kataomoi Couple"
+    "en": "My Childhood Friends Are Trying to Kill Me"
    },
    "contentRating": "safe",
-   "score": 0.30307052,
+   "score": 0.29751357,
    "languages": [
-    "en"
+    "en",
+    "tr",
+    "fr"
    ]
   },
   {
@@ -83,7 +83,7 @@
     "en": "My Lovely Master"
    },
    "contentRating": "safe",
-   "score": 0.3010056,
+   "score": 0.29532817,
    "languages": [
     "en"
    ]
@@ -94,35 +94,11 @@
     "en": "Distance Between You and Me"
    },
    "contentRating": "safe",
-   "score": 0.2995079,
+   "score": 0.29307306,
    "languages": [
     "pl",
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "37ae44cf-4f5d-4856-b1fa-81eff90978cb",
-   "title": {
-    "en": "Boku no Pet"
-   },
-   "contentRating": "safe",
-   "score": 0.2929104,
-   "languages": [
-    "bg",
-    "en"
-   ]
-  },
-  {
-   "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
-   "title": {
-    "en": "Hana ni Kedamono"
-   },
-   "contentRating": "safe",
-   "score": 0.28922266,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -131,34 +107,12 @@
     "en": "The King's Choice"
    },
    "contentRating": "safe",
-   "score": 0.2881953,
+   "score": 0.28650165,
    "languages": [
     "pl",
     "pt-br",
     "en",
     "bg"
-   ]
-  },
-  {
-   "id": "ad47a46d-abdd-48b5-b460-968ffd1b288b",
-   "title": {
-    "en": "One + One"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "de1a52a0-039f-42f7-8362-dd53f5d60577",
-   "title": {
-    "en": "Lunar - Lunatic Parade"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -186,16 +140,62 @@
    ]
   },
   {
-   "id": "e5cc1541-7dd0-417e-85d6-30559978dbfe",
+   "id": "ad47a46d-abdd-48b5-b460-968ffd1b288b",
    "title": {
-    "en": "Koi"
+    "en": "One + One"
    },
    "contentRating": "safe",
-   "score": 0.2855222,
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "de1a52a0-039f-42f7-8362-dd53f5d60577",
+   "title": {
+    "en": "Lunar - Lunatic Parade"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "37ae44cf-4f5d-4856-b1fa-81eff90978cb",
+   "title": {
+    "en": "Boku no Pet"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "bg",
+    "en"
+   ]
+  },
+  {
+   "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
+   "title": {
+    "en": "Hana ni Kedamono"
+   },
+   "contentRating": "safe",
+   "score": 0.28390858,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "a901d310-ae15-41a6-80d6-b341fd010e08",
+   "title": {
+    "en": "Loving a Player"
+   },
+   "contentRating": "safe",
+   "score": 0.28016108,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-07T21:04:18+00:00"
+ "updatedAt": "2024-11-09T20:49:16+00:00"
 }

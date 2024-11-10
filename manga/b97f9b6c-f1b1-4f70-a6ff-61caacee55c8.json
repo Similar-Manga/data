@@ -7,16 +7,16 @@
   },
   "altTitles": [
    {
-    "en": "Getsu Mei Sei Ki"
+    "ja-ro": "Getsu Mei Sei Ki"
    },
    {
-    "en": "Getsu Seiki"
+    "ja-ro": "Getsu Seiki"
    },
    {
-    "en": "Getsumei"
+    "ja-ro": "Getsumei"
    },
    {
-    "en": "Getsumei Seiki"
+    "ja-ro": "Getsumei Seiki"
    },
    {
     "en": "Giã Biệt Anh Hùng"
@@ -25,16 +25,16 @@
     "en": "Goodbye"
    },
    {
-    "en": "Ketsu Meiseiki"
+    "ja-ro": "Ketsu Meiseiki"
    },
    {
-    "en": "Shinsen-gumi"
+    "ja-ro": "Shinsen-gumi"
    },
    {
-    "en": "月明星稀"
+    "ja": "月明星稀"
    },
    {
-    "en": "月明星稀～さよなら新選組～"
+    "ja": "月明星稀～さよなら新選組～"
    }
   ],
   "description": {
@@ -43,14 +43,17 @@
   "links": {
    "al": "34391",
    "ap": "getsu-seiki-sayonara-shinsengumi",
+   "bw": "series/128717/list",
    "kt": "9538",
    "mal": "4391",
    "mu": "1747"
   },
   "originalLanguage": "ja",
   "lastVolume": "10",
+  "lastChapter": "108",
   "publicationDemographic": "seinen",
   "status": "completed",
+  "year": 2003,
   "contentRating": "safe",
   "tags": [
    {
@@ -91,9 +94,9 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2018-06-02T06:49:57+00:00",
-  "updatedAt": "2018-06-02T06:49:57+00:00"
+  "updatedAt": "2024-11-07T17:40:08+00:00"
  },
  "relationships": [
   {
@@ -153,16 +156,16 @@
    }
   },
   {
-   "id": "b9f6d596-637c-4f13-921d-a6e19425d50d",
+   "id": "6ccf14ca-3202-4c03-b3b9-47966c155d45",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:36:14+00:00",
+    "createdAt": "2024-11-07T17:38:36+00:00",
     "description": "",
-    "fileName": "f4f2dac8-484d-4f35-a86c-4ed8e78dc600.jpg",
+    "fileName": "e8bf0136-879a-4c37-ad0a-2159013db6db.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:36:14+00:00",
+    "updatedAt": "2024-11-07T17:38:36+00:00",
     "version": 1,
-    "volume": null
+    "volume": "10"
    }
   }
  ]

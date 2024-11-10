@@ -1,0 +1,172 @@
+{
+ "id": "9afb2827-ad56-4f9e-a47b-74e065264ec1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Saigo no Majo no Monogatari"
+  },
+  "altTitles": [
+   {
+    "ja": "最後の魔女の物語"
+   },
+   {
+    "ja-ro": "Saigo no Majo no Monogatari."
+   },
+   {
+    "en": "The Last Witch's Story."
+   }
+  ],
+  "description": {
+   "ja": "「魔女」とは――。\n超自然的能力を持つ存在。\n人々に災いをもたらす呪術の使い手。\n悪霊から生まれた忌むべきもの。\n\n創作話では、恐ろしい存在としてよく描かれるが。\nでも、本当の魔女はそんな万能なものじゃない。\n\nこれは、戦火を生き抜いた魔女たちの、\n「最後」の物語。"
+  },
+  "links": {
+   "raw": "https://comic-walker.com/detail/KC_006018_S/episodes/KC_0060180000200011_E?episodeType=latest"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-08T10:29:22+00:00",
+  "updatedAt": "2024-11-08T13:25:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0419dcbc-0c38-4471-865a-02e64579c2b2",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Native name: 吉良いと \n\n**Alt. names**:\nKiraito\nKilight"
+    },
+    "booth": "https://kilight.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://kilight.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kira Ito (吉良いと)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/36410103",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kilightit",
+    "updatedAt": "2024-10-17T16:30:11+00:00",
+    "version": 6,
+    "website": "https://kilightit.localinfo.jp",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0419dcbc-0c38-4471-865a-02e64579c2b2",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Native name: 吉良いと \n\n**Alt. names**:\nKiraito\nKilight"
+    },
+    "booth": "https://kilight.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://kilight.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kira Ito (吉良いと)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/36410103",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kilightit",
+    "updatedAt": "2024-10-17T16:30:11+00:00",
+    "version": 6,
+    "website": "https://kilightit.localinfo.jp",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a9478962-0aa1-4cc7-85ee-f0924cca4c46",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-08T10:29:23+00:00",
+    "description": "",
+    "fileName": "95fc3e1d-928e-4f74-849a-a49cd0536f9e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-08T10:29:23+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "id": "500cf73b-f30a-428e-961f-6c55c471e4a4",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Psychic-er Maruko-chan"
+  },
+  "altTitles": [
+   {
+    "ja": "サイキッカーまるこちゃん"
+   }
+  ],
+  "description": {
+   "ja": "超がつくほど不運体質のまるこ。周りの人たちの優しさに恩返しをしたい——と強く願ったら超能力が発動して！？ 超がつくほど巨大な愛で、みなさんのお役に立たせていただきます……！！"
+  },
+  "links": {
+   "mu": "xyxffjq",
+   "raw": "https://comic-ogyaaa.com/episode/4856001361334680673"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-08T10:41:13+00:00",
+  "updatedAt": "2024-11-08T13:29:55+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2db53343-e98f-4fcf-ba5a-f8eac0b82bdb",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-08T10:39:33+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mayonaka Choki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-08T10:39:33+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2db53343-e98f-4fcf-ba5a-f8eac0b82bdb",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-08T10:39:33+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mayonaka Choki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-08T10:39:33+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "73280d92-cf79-4aea-8ac7-9d3312cb5d4a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-08T10:41:15+00:00",
+    "description": "",
+    "fileName": "81292638-8104-4649-97f7-530e6bcdce4b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-08T10:41:15+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

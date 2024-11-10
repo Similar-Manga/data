@@ -11,7 +11,7 @@
     "en": "Red House"
    },
    "contentRating": "safe",
-   "score": 0.32962656,
+   "score": 0.32972178,
    "languages": [
     "fr",
     "ro",
@@ -34,17 +34,6 @@
    ]
   },
   {
-   "id": "4dffa743-b8bc-443a-b3fb-768f801ea13e",
-   "title": {
-    "en": "Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "43932ac8-d6af-4dfb-95af-2c878424f81d",
    "title": {
     "en": "Haru Meguru"
@@ -57,12 +46,23 @@
    ]
   },
   {
+   "id": "4dffa743-b8bc-443a-b3fb-768f801ea13e",
+   "title": {
+    "en": "Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "98da2297-1cec-4f2e-be55-bd971a8b95c4",
    "title": {
     "en": "The Battle of the Rainbow"
    },
    "contentRating": "safe",
-   "score": 0.20935267,
+   "score": 0.20935649,
    "languages": [
     "en"
    ]
@@ -93,15 +93,29 @@
    ]
   },
   {
-   "id": "fdf89ccc-b244-408f-b164-afede1163661",
+   "id": "3f6c214e-8afb-4fdd-9a7e-a215747b936d",
    "title": {
-    "en": "Until You Fall Asleep"
+    "en": "Snow Maidens"
    },
    "contentRating": "safe",
    "score": 0.19047621,
    "languages": [
-    "en",
-    "pl"
+    "fr",
+    "pt-br",
+    "ar",
+    "en"
+   ]
+  },
+  {
+   "id": "de094678-4d93-46fd-b7a6-26f59fe97226",
+   "title": {
+    "en": "Tarou-kun wa Yuganderu"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "pl",
+    "en"
    ]
   },
   {
@@ -119,14 +133,26 @@
    ]
   },
   {
-   "id": "de094678-4d93-46fd-b7a6-26f59fe97226",
+   "id": "636daa88-4430-4d1c-a50f-6b9b74d28f43",
    "title": {
-    "en": "Tarou-kun wa Yuganderu"
+    "en": "Good-bye, My 19 year Old Self"
    },
    "contentRating": "safe",
    "score": 0.19047621,
    "languages": [
-    "pl",
+    "fr",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "866fe726-79da-4984-90d0-487dc89f03a1",
+   "title": {
+    "en": "Togainu no Chi"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
     "en"
    ]
   },
@@ -134,31 +160,6 @@
    "id": "df5d797c-42c4-4794-8ce9-436741df5b35",
    "title": {
     "en": "Butterfly in the Air"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3f6c214e-8afb-4fdd-9a7e-a215747b936d",
-   "title": {
-    "en": "Snow Maidens"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "fr",
-    "pt-br",
-    "ar",
-    "en"
-   ]
-  },
-  {
-   "id": "866fe726-79da-4984-90d0-487dc89f03a1",
-   "title": {
-    "en": "Togainu no Chi"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -180,16 +181,15 @@
    ]
   },
   {
-   "id": "636daa88-4430-4d1c-a50f-6b9b74d28f43",
+   "id": "fdf89ccc-b244-408f-b164-afede1163661",
    "title": {
-    "en": "Good-bye, My 19 year Old Self"
+    "en": "Until You Fall Asleep"
    },
    "contentRating": "safe",
    "score": 0.19047621,
    "languages": [
-    "fr",
     "en",
-    "it"
+    "pl"
    ]
   },
   {
@@ -204,5 +204,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-07T20:52:09+00:00"
+ "updatedAt": "2024-11-09T20:37:06+00:00"
 }

@@ -7,7 +7,7 @@
   },
   "altTitles": [
    {
-    "en": "haikyuu dj - Start Line of Love"
+    "en": "haikyuu - Start Line of Love (Doujinshi)"
    }
   ],
   "description": {
@@ -72,9 +72,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-11-06T14:46:29+00:00",
-  "updatedAt": "2024-11-06T14:48:28+00:00"
+  "updatedAt": "2024-11-07T05:20:04+00:00"
  },
  "relationships": [
   {
@@ -104,6 +104,32 @@
    }
   },
   {
+   "id": "88b525f9-2735-4460-93b8-52615457fb5c",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-04-28T10:07:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Taihen Yoku ga Demashita (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-07T05:19:58+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "5cd5b72b-ce42-4753-a7a8-efc253dd060d",
    "type": "artist",
    "attributes": {
@@ -124,6 +150,32 @@
     "twitter": null,
     "updatedAt": "2024-11-06T14:47:40+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "88b525f9-2735-4460-93b8-52615457fb5c",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-04-28T10:07:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Taihen Yoku ga Demashita (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-07T05:19:58+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

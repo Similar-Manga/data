@@ -22,23 +22,7 @@
     "en": "Thousand Nine Children's Case"
    },
    "contentRating": "safe",
-   "score": 0.22839142
-  },
-  {
-   "id": "ae669ba5-ea9d-4436-aefa-27c9ef2b2409",
-   "title": {
-    "en": "Broadway of the Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.21502191
-  },
-  {
-   "id": "111b6998-629d-4685-a733-79ba3f413e42",
-   "title": {
-    "en": "Eight Grave Village"
-   },
-   "contentRating": "safe",
-   "score": 0.21502191
+   "score": 0.22838816
   },
   {
    "id": "0c178bca-9b98-4896-8ecd-2f8e15a17ad6",
@@ -52,14 +36,6 @@
    ]
   },
   {
-   "id": "f60c86bc-c79b-44e7-875a-bafcc6a01dd6",
-   "title": {
-    "en": "Boogie Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.21502191
-  },
-  {
    "id": "342811b9-2c86-4b5e-8276-8b77913f1896",
    "title": {
     "en": "Chii-chan"
@@ -68,17 +44,41 @@
    "score": 0.21502191
   },
   {
-   "id": "9417d9a2-fc35-4d60-9583-fa2fa73b3f47",
+   "id": "ae669ba5-ea9d-4436-aefa-27c9ef2b2409",
    "title": {
-    "en": "55-year-old map Again ~From Rainbow Pass~"
+    "en": "Broadway of the Dead"
    },
    "contentRating": "safe",
-   "score": 0.18814418
+   "score": 0.21502191
+  },
+  {
+   "id": "f60c86bc-c79b-44e7-875a-bafcc6a01dd6",
+   "title": {
+    "en": "Boogie Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.21502191
+  },
+  {
+   "id": "111b6998-629d-4685-a733-79ba3f413e42",
+   "title": {
+    "en": "Eight Grave Village"
+   },
+   "contentRating": "safe",
+   "score": 0.21502191
   },
   {
    "id": "010a452a-0bb0-4c2b-b258-6655c977b3eb",
    "title": {
     "en": "Tracker Daijin Touba"
+   },
+   "contentRating": "safe",
+   "score": 0.18814418
+  },
+  {
+   "id": "9417d9a2-fc35-4d60-9583-fa2fa73b3f47",
+   "title": {
+    "en": "55-year-old map Again ~From Rainbow Pass~"
    },
    "contentRating": "safe",
    "score": 0.18814418
@@ -95,12 +95,23 @@
    ]
   },
   {
+   "id": "239efce0-8af9-45ee-bcae-a5d3047f58e4",
+   "title": {
+    "en": "It's Time to Go to His Stomach, OK?"
+   },
+   "contentRating": "safe",
+   "score": 0.17613585,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "75043a3f-daec-4ced-943c-65805e837c68",
    "title": {
     "en": "A Middle-aged Man Who Returned From Another World Becomes Unrivaled In The Apocalyptic World"
    },
    "contentRating": "safe",
-   "score": 0.17147674,
+   "score": 0.17147356,
    "languages": [
     "en",
     "vi",
@@ -113,7 +124,7 @@
     "en": "The Witch and the Beast"
    },
    "contentRating": "safe",
-   "score": 0.16637693,
+   "score": 0.16637711,
    "languages": [
     "vi",
     "pt-br",
@@ -123,33 +134,17 @@
    ]
   },
   {
-   "id": "239efce0-8af9-45ee-bcae-a5d3047f58e4",
-   "title": {
-    "en": "It's Time to Go to His Stomach, OK?"
-   },
-   "contentRating": "safe",
-   "score": 0.16459186,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d97fe2cf-6a94-4a2a-ab54-8ede4501172f",
-   "title": {
-    "en": "Dorachuu"
-   },
-   "contentRating": "safe",
-   "score": 0.16459186,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "eecc9ec0-3b5d-4f2d-a4fb-2bb39fb16457",
    "title": {
     "en": "Jikken Chiku 13"
+   },
+   "contentRating": "safe",
+   "score": 0.16459186
+  },
+  {
+   "id": "012f7874-f216-4f39-b470-08d43a939541",
+   "title": {
+    "en": "Jigokusai"
    },
    "contentRating": "safe",
    "score": 0.16459186
@@ -172,5 +167,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-07T20:58:32+00:00"
+ "updatedAt": "2024-11-09T20:43:29+00:00"
 }

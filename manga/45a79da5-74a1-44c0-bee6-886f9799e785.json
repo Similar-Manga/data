@@ -3,15 +3,28 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "YOMA"
+   "en": "Youma"
   },
   "altTitles": [
    {
     "en": "Curse of the Yoma"
+   },
+   {
+    "en": "YOMA"
+   },
+   {
+    "ja": "妖魔"
    }
   ],
   "description": {
    "en": "After having been betrayed by his best friend, a rogue ninja named Hikage embarks on a journey to track him down and bring him back to the clan. Along this journey Hikage encounters many monsters and the true origin of his friend."
+  },
+  "links": {
+   "al": "49696",
+   "ap": "youma",
+   "kt": "youma",
+   "mal": "19696",
+   "mu": "g69sg5m"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
@@ -20,6 +33,10 @@
   "status": "completed",
   "year": 1986,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "5d4d3a25-a4f4-4388-b13c-02e4fc1b07d6",
   "tags": [
    {
     "id": "33771934-028e-4cb3-8744-691e866a923e",
@@ -119,9 +136,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-11-06T16:51:03+00:00",
-  "updatedAt": "2024-11-06T19:54:32+00:00"
+  "updatedAt": "2024-11-08T08:40:07+00:00"
  },
  "relationships": [
   {

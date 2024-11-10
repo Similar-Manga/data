@@ -6,6 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "00171d76-68e9-4135-8c2b-d645deebeb82",
+   "title": {
+    "en": "Tenshi no Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl"
+   ]
+  },
+  {
+   "id": "43686548-c742-46bf-9f91-0c088e2254c8",
+   "title": {
+    "en": "Hanasaki Sentimental"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
    "id": "189447eb-6ee5-4f1a-872e-f447995c8d64",
    "title": {
     "en": "Pretty"
@@ -14,6 +36,18 @@
    "score": 0.2857143,
    "languages": [
     "fr"
+   ]
+  },
+  {
+   "id": "03d50963-b105-4dc4-a413-c1bab9048491",
+   "title": {
+    "en": "Nan Eomma Nun Appa"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "it",
+    "pl"
    ]
   },
   {
@@ -30,46 +64,12 @@
    ]
   },
   {
-   "id": "43686548-c742-46bf-9f91-0c088e2254c8",
-   "title": {
-    "en": "Hanasaki Sentimental"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "00171d76-68e9-4135-8c2b-d645deebeb82",
-   "title": {
-    "en": "Tenshi no Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "03d50963-b105-4dc4-a413-c1bab9048491",
-   "title": {
-    "en": "Nan Eomma Nun Appa"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "it",
-    "pl"
-   ]
-  },
-  {
    "id": "d84dd0a0-dabe-4021-b722-40faf24071fe",
    "title": {
     "en": "About Teddy Bear"
    },
    "contentRating": "safe",
-   "score": 0.26046064,
+   "score": 0.2604395,
    "languages": [
     "fr"
    ]
@@ -80,7 +80,7 @@
     "en": "Issho ni Kaero."
    },
    "contentRating": "safe",
-   "score": 0.24933721,
+   "score": 0.24933338,
    "languages": [
     "tr",
     "en",
@@ -94,7 +94,7 @@
     "en": "Territory M no Juunin"
    },
    "contentRating": "safe",
-   "score": 0.2492824,
+   "score": 0.24928524,
    "languages": [
     "es-la",
     "en",
@@ -108,7 +108,7 @@
     "en": "Koi*Oto"
    },
    "contentRating": "safe",
-   "score": 0.24556789,
+   "score": 0.24556433,
    "languages": [
     "en",
     "pt-br"
@@ -120,23 +120,23 @@
     "en": "I Will Be Cinderella"
    },
    "contentRating": "safe",
-   "score": 0.24150772,
+   "score": 0.24150749,
    "languages": [
     "en",
     "fr"
    ]
   },
   {
-   "id": "6e031c4f-fc1e-46a3-87ad-8ef3702fcdd7",
+   "id": "d0a49ab6-3172-4e10-bc38-a6c88c76c432",
    "title": {
-    "en": "Nocturne"
+    "en": "Dramatic Irony"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "fr",
     "en",
-    "pl",
-    "fr"
+    "es-la"
    ]
   },
   {
@@ -154,41 +154,44 @@
    ]
   },
   {
-   "id": "7eabe852-5454-48a1-976a-9aaa2b9ca7b0",
+   "id": "d0d3f9b1-2b76-451f-8911-37e00eb90c00",
    "title": {
-    "en": "Kimi no Yokogao o Miteita"
+    "en": "Dear Green"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en",
     "vi",
-    "fr",
-    "es-la"
-   ]
-  },
-  {
-   "id": "3b0e10a3-7685-46fd-8707-7f4a935c978a",
-   "title": {
-    "en": "Merry Unbalance Christmas"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
+    "it",
     "en",
+    "ro",
     "pl"
    ]
   },
   {
-   "id": "de094678-4d93-46fd-b7a6-26f59fe97226",
+   "id": "1814d0df-a4eb-44f2-acf1-28ffe3f55da8",
    "title": {
-    "en": "Tarou-kun wa Yuganderu"
+    "en": "Honey Lemon Soda"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "6e031c4f-fc1e-46a3-87ad-8ef3702fcdd7",
+   "title": {
+    "en": "Nocturne"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
     "pl",
-    "en"
+    "fr"
    ]
   },
   {
@@ -204,5 +207,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-07T20:38:45+00:00"
+ "updatedAt": "2024-11-09T20:23:25+00:00"
 }

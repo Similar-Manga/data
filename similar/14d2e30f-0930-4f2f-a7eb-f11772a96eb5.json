@@ -6,23 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c9f61c57-44e9-4f0d-a738-bfab26c1b43a",
-   "title": {
-    "en": "Doraemon"
-   },
-   "contentRating": "safe",
-   "score": 0.20815724,
-   "languages": [
-    "it",
-    "vi",
-    "fr",
-    "pl",
-    "pt-br",
-    "en",
-    "ar"
-   ]
-  },
-  {
    "id": "52e56d01-12ef-476c-b4f2-df47d38abbf4",
    "title": {
     "en": "Sora ni Mairu"
@@ -39,7 +22,7 @@
     "en": "Trillion Game"
    },
    "contentRating": "safe",
-   "score": 0.20338608,
+   "score": 0.20338906,
    "languages": [
     "es-la",
     "en",
@@ -53,13 +36,25 @@
     "en": "Keep Your Hands Off Eizouken!"
    },
    "contentRating": "safe",
-   "score": 0.1993067,
+   "score": 0.1993028,
    "languages": [
     "en",
     "es-la",
     "zh",
     "pt-br",
     "tr"
+   ]
+  },
+  {
+   "id": "02efd1cb-45bc-4fd2-b34b-73e644e7b4f6",
+   "title": {
+    "en": "Outsider Paradise"
+   },
+   "contentRating": "safe",
+   "score": 0.19089277,
+   "languages": [
+    "en",
+    "es-la"
    ]
   },
   {
@@ -86,18 +81,6 @@
    ]
   },
   {
-   "id": "f43571d0-0e03-434e-aa1a-d8bf37556bae",
-   "title": {
-    "en": "Meganebashi Hanako no Mitate"
-   },
-   "contentRating": "safe",
-   "score": 0.19089277,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
    "id": "3512d948-2886-4a9a-b0dc-44e02bb67c87",
    "title": {
     "en": "Kagaku Chop"
@@ -110,25 +93,14 @@
    ]
   },
   {
-   "id": "02efd1cb-45bc-4fd2-b34b-73e644e7b4f6",
+   "id": "f43571d0-0e03-434e-aa1a-d8bf37556bae",
    "title": {
-    "en": "Outsider Paradise"
+    "en": "Meganebashi Hanako no Mitate"
    },
    "contentRating": "safe",
    "score": 0.19089277,
    "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "22e1c260-6e61-4a39-ae9f-caa60ba3c02d",
-   "title": {
-    "en": "Space Family Carlvinson"
-   },
-   "contentRating": "safe",
-   "score": 0.18378252,
-   "languages": [
+    "zh-hk",
     "en"
    ]
   },
@@ -138,7 +110,7 @@
     "en": "Minami-ke"
    },
    "contentRating": "safe",
-   "score": 0.18231484,
+   "score": 0.18229787,
    "languages": [
     "fr",
     "pt-br",
@@ -152,24 +124,12 @@
    ]
   },
   {
-   "id": "e1d6dd1c-5ceb-44f7-bfe6-f74199288b07",
-   "title": {
-    "en": "Saint☆Young Men"
-   },
-   "contentRating": "safe",
-   "score": 0.18004175,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "db6ba094-2332-4945-b92f-ce6791e6161b",
    "title": {
     "en": "The Legend of the Strongest Man Nakane"
    },
    "contentRating": "safe",
-   "score": 0.17972738,
+   "score": 0.17972812,
    "languages": [
     "tr",
     "en"
@@ -212,7 +172,43 @@
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "374b1da0-90c0-490e-b8e8-c74aaa468da6",
+   "title": {
+    "en": "Eirun Last Code"
+   },
+   "contentRating": "safe",
+   "score": 0.1726483,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1515d3bb-f8d3-4154-9423-e15f9e3088be",
+   "title": {
+    "en": "Fami-res Iko."
+   },
+   "contentRating": "safe",
+   "score": 0.1707397,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "35a02480-b71d-4aae-9a29-b53d50fb6309",
+   "title": {
+    "en": "A Gentle Time"
+   },
+   "contentRating": "safe",
+   "score": 0.1707397,
+   "languages": [
+    "vi",
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-11-07T20:23:22+00:00"
+ "updatedAt": "2024-11-09T20:08:19+00:00"
 }

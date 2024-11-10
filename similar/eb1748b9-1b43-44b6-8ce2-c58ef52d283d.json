@@ -6,12 +6,15 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c4f5af3b-7741-4c52-aec5-68080c4a605d",
+   "id": "78a72c7b-b19d-4c05-a0b7-176e3ecf7441",
    "title": {
-    "en": "Parasite Doll"
+    "en": "Dark Metro"
    },
    "contentRating": "safe",
-   "score": 0.24983473
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "cd14a481-211e-43c7-b100-a1b466e93d6d",
@@ -25,15 +28,12 @@
    ]
   },
   {
-   "id": "78a72c7b-b19d-4c05-a0b7-176e3ecf7441",
+   "id": "c4f5af3b-7741-4c52-aec5-68080c4a605d",
    "title": {
-    "en": "Dark Metro"
+    "en": "Parasite Doll"
    },
    "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
+   "score": 0.24983473
   },
   {
    "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
@@ -41,7 +41,7 @@
     "en": "Semi-Eternal Happy End"
    },
    "contentRating": "safe",
-   "score": 0.24428155,
+   "score": 0.2442637,
    "languages": [
     "en",
     "pl"
@@ -53,7 +53,7 @@
     "en": "Second Coming"
    },
    "contentRating": "safe",
-   "score": 0.23940685,
+   "score": 0.2406075,
    "languages": [
     "en"
    ]
@@ -72,7 +72,7 @@
     "en": "Nankuru Nannai!"
    },
    "contentRating": "safe",
-   "score": 0.22690275
+   "score": 0.22690867
   },
   {
    "id": "8d242e4c-0b6e-416f-abca-a08e7a3cea60",
@@ -80,7 +80,7 @@
     "en": "Gingitsune"
    },
    "contentRating": "safe",
-   "score": 0.2230915,
+   "score": 0.22309391,
    "languages": [
     "ru",
     "en"
@@ -92,7 +92,7 @@
     "en": "Yougen no Chi"
    },
    "contentRating": "safe",
-   "score": 0.22209495,
+   "score": 0.22208656,
    "languages": [
     "en"
    ]
@@ -108,6 +108,14 @@
     "ko",
     "en"
    ]
+  },
+  {
+   "id": "46f7d439-fe8c-4bf8-9bc8-688dfe0460f5",
+   "title": {
+    "en": "Ten X -Tenbatsu-"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632
   },
   {
    "id": "320da354-11f7-4cff-8aeb-191b39f0bf88",
@@ -134,22 +142,6 @@
    ]
   },
   {
-   "id": "46f7d439-fe8c-4bf8-9bc8-688dfe0460f5",
-   "title": {
-    "en": "Ten X -Tenbatsu-"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632
-  },
-  {
-   "id": "f04427ab-2049-460a-bb63-1a39a183485e",
-   "title": {
-    "en": "Embryo"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632
-  },
-  {
    "id": "959ac289-6dd1-4418-aa79-5e43938326a0",
    "title": {
     "en": "Dero Dero"
@@ -159,6 +151,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "f04427ab-2049-460a-bb63-1a39a183485e",
+   "title": {
+    "en": "Embryo"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632
   },
   {
    "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
@@ -174,5 +174,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-07T21:36:44+00:00"
+ "updatedAt": "2024-11-09T21:21:38+00:00"
 }

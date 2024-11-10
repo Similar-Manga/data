@@ -6,34 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1bddb3cb-44c8-471a-9133-f9589fb1c879",
-   "title": {
-    "en": "It's Nice Having a Little Sister"
-   },
-   "contentRating": "safe",
-   "score": 0.25039127,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "108f20d5-ea83-4a31-8a10-730fa3879875",
    "title": {
     "en": "Chii-chan no Oshinagaki Hanjouki"
    },
    "contentRating": "safe",
    "score": 0.24471025,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0d3838bf-b5f7-46d0-ac4e-b192e51e3784",
-   "title": {
-    "en": "Utsurun desu."
-   },
-   "contentRating": "safe",
-   "score": 0.23532934,
    "languages": [
     "en"
    ]
@@ -50,12 +28,23 @@
    ]
   },
   {
-   "id": "3a6b5746-3b5f-4f52-86f9-6be1cf49f0d5",
+   "id": "0d3838bf-b5f7-46d0-ac4e-b192e51e3784",
    "title": {
-    "ja": "Deaimon"
+    "en": "Utsurun desu."
    },
    "contentRating": "safe",
-   "score": 0.20993571,
+   "score": 0.23532934,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1bddb3cb-44c8-471a-9133-f9589fb1c879",
+   "title": {
+    "en": "It's Nice Having a Little Sister"
+   },
+   "contentRating": "safe",
+   "score": 0.22092253,
    "languages": [
     "en"
    ]
@@ -72,24 +61,12 @@
    ]
   },
   {
-   "id": "cc077710-3f9a-4acb-8319-a80f80ca4c45",
+   "id": "3a6b5746-3b5f-4f52-86f9-6be1cf49f0d5",
    "title": {
-    "en": "Poyopoyo Kansatsu Nikki"
+    "ja": "Deaimon"
    },
    "contentRating": "safe",
-   "score": 0.20201139,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "c79bdd6c-3af0-4338-91c6-daa2697f34af",
-   "title": {
-    "en": "Jansou no Saeko-san"
-   },
-   "contentRating": "safe",
-   "score": 0.1921456,
+   "score": 0.19725907,
    "languages": [
     "en"
    ]
@@ -98,28 +75,6 @@
    "id": "6968e4a5-4ac5-4222-93d3-772ee57ad893",
    "title": {
     "en": "Free!"
-   },
-   "contentRating": "safe",
-   "score": 0.1921456,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "676dd3ab-98a5-4fd4-8a26-bd78a604d329",
-   "title": {
-    "en": "Yurumates"
-   },
-   "contentRating": "safe",
-   "score": 0.1921456,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1f005653-3b2b-4f8b-bb89-746bd8f16b01",
-   "title": {
-    "en": "Oshigoto Biyori!"
    },
    "contentRating": "safe",
    "score": 0.1921456,
@@ -139,26 +94,13 @@
    ]
   },
   {
-   "id": "651e0896-dc17-4399-a2f3-f85eb93402d4",
+   "id": "a258b1f0-663a-43cf-832b-0352397a9982",
    "title": {
-    "en": "Dekoboko Girlish"
+    "en": "Hetare Ane"
    },
    "contentRating": "safe",
    "score": 0.1921456,
    "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "bcbf1a82-c4c4-47e0-9d60-84d1e9a8974b",
-   "title": {
-    "en": "Tonari no Figure Genkeishi"
-   },
-   "contentRating": "safe",
-   "score": 0.1921456,
-   "languages": [
-    "zh",
     "en"
    ]
   },
@@ -184,7 +126,64 @@
     "ko",
     "en"
    ]
+  },
+  {
+   "id": "1f005653-3b2b-4f8b-bb89-746bd8f16b01",
+   "title": {
+    "en": "Oshigoto Biyori!"
+   },
+   "contentRating": "safe",
+   "score": 0.1921456,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "676dd3ab-98a5-4fd4-8a26-bd78a604d329",
+   "title": {
+    "en": "Yurumates"
+   },
+   "contentRating": "safe",
+   "score": 0.1921456,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bcbf1a82-c4c4-47e0-9d60-84d1e9a8974b",
+   "title": {
+    "en": "Tonari no Figure Genkeishi"
+   },
+   "contentRating": "safe",
+   "score": 0.1921456,
+   "languages": [
+    "zh",
+    "en"
+   ]
+  },
+  {
+   "id": "c79bdd6c-3af0-4338-91c6-daa2697f34af",
+   "title": {
+    "en": "Jansou no Saeko-san"
+   },
+   "contentRating": "safe",
+   "score": 0.1921456,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "651e0896-dc17-4399-a2f3-f85eb93402d4",
+   "title": {
+    "en": "Dekoboko Girlish"
+   },
+   "contentRating": "safe",
+   "score": 0.1921456,
+   "languages": [
+    "en",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2024-11-07T20:55:44+00:00"
+ "updatedAt": "2024-11-09T20:40:42+00:00"
 }

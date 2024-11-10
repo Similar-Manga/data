@@ -3,18 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Frigidity, Cure"
+   "en": "Fukanshou, Naoshimasu"
   },
   "altTitles": [
    {
     "ja": "不感症、治します"
+   },
+   {
+    "ja-ro": "Fukanshō, Naoshimasu"
+   },
+   {
+    "en": "Frigidity, Cure"
    }
   ],
   "description": {
-   "en": "The reputation of the Kurasato Clinic, where Mio, an associate nurse, has become a new employee is extremely dangerous. Her salary is very high, but it seems that many doctors are perverts and have quit... She was given a uniform that was too tight on her body, too miniskirt, and her breasts were too wide open. Such a sexual harassment hospital... is it really an ant?"
+   "ja": "准看護師・美桜が新しく勤めることになった鞍里（くらさと）クリニックの評判は激ヤバ。給料は超高いが医者が変態で何人もやめているらしい・・・　さっそく支給された制服だってカラダにピチッとしすぎだしミニスカすぎるし胸は大きく開きすぎ。こんなセクハラ病院・・・ほんとアリなの？"
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/-/en/入江謙三-ebook/dp/B09QKRV4B7/ref=sr_1_1?__mk_ja_JP=カタカナ\u0026keywords=不感症、治します+1+小学館\u0026qid=1686100298\u0026s=digital-text\u0026sr=1-1",
+   "amz": "https://www.amazon.co.jp/-/en/入江謙三-ebook/dp/B09QKRV4B7/",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/685441/"
   },
   "originalLanguage": "ja",
@@ -61,9 +67,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2023-06-07T01:19:22+00:00",
-  "updatedAt": "2023-06-07T01:19:31+00:00"
+  "updatedAt": "2024-11-07T14:38:28+00:00"
  },
  "relationships": [
   {
@@ -96,10 +102,12 @@
    "id": "52c9f2dc-2138-48b1-98b7-d931650cf542",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 橋口たかし\n\n**Alt. names**:\nhassystan2\n\n**Circle/s**:\n[Hassystant](https://mangadex.org/author/95483c41-2ed2-48fb-baaf-d00e4de02904) (ハシスタント)\n"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://hassystudio.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -107,13 +115,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/en/users/29352153",
+    "skeb": "https://skeb.jp/@hassystan2",
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/hassystan2",
+    "updatedAt": "2024-11-07T15:53:24+00:00",
+    "version": 3,
+    "website": "http://www5d.biglobe.ne.jp/~pantasia/",
     "weibo": null,
     "youtube": null
    }

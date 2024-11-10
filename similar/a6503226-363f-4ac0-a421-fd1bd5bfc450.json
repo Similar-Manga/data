@@ -11,7 +11,7 @@
     "en": "The Lady of Udon"
    },
    "contentRating": "safe",
-   "score": 0.27299947,
+   "score": 0.2729751,
    "languages": [
     "es-la",
     "pl",
@@ -24,9 +24,23 @@
     "en": "Love Spice"
    },
    "contentRating": "safe",
-   "score": 0.26170167,
+   "score": 0.26169038,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "0295d266-4870-4ea3-814b-35f9afc7a9fd",
+   "title": {
+    "en": "Dachi no Imouto"
+   },
+   "contentRating": "safe",
+   "score": 0.26018792,
+   "languages": [
+    "pt-br",
+    "en",
+    "th",
+    "id"
    ]
   },
   {
@@ -35,7 +49,7 @@
     "en": "Koisuru Hotaru to Kurashiteru"
    },
    "contentRating": "safe",
-   "score": 0.2550822,
+   "score": 0.2550831,
    "languages": [
     "en",
     "it"
@@ -47,7 +61,7 @@
     "en": "Catch! Love"
    },
    "contentRating": "safe",
-   "score": 0.2550238,
+   "score": 0.2550232,
    "languages": [
     "en"
    ]
@@ -58,23 +72,9 @@
     "en": "Kimi ni Sasageru Otokomae"
    },
    "contentRating": "safe",
-   "score": 0.25464407,
+   "score": 0.25464526,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "0295d266-4870-4ea3-814b-35f9afc7a9fd",
-   "title": {
-    "en": "Dachi no Imouto"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "pt-br",
-    "en",
-    "th",
-    "id"
    ]
   },
   {
@@ -97,7 +97,7 @@
     "en": "Poop Manager: Praise the Cat Lord"
    },
    "contentRating": "safe",
-   "score": 0.24574074,
+   "score": 0.24574506,
    "languages": [
     "en"
    ]
@@ -108,56 +108,9 @@
     "en": "Te o Tsunaide Sanposhite"
    },
    "contentRating": "safe",
-   "score": 0.24058807,
+   "score": 0.24058342,
    "languages": [
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "980bf600-ceb9-4e11-8f95-cde35f597618",
-   "title": {
-    "en": "Korogaru Onna to Koi no Numa"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "ae531f1b-d281-4c0b-9a5b-bdb64707d7fa",
-   "title": {
-    "en": "Koi wo Futasaji"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7242acf0-248f-4dfd-85cb-0910f9abbba4",
-   "title": {
-    "en": "Misaki-kun no Bukiyou na Dekiai"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "6e98dfc5-b279-4156-9909-6658fd18ad8f",
-   "title": {
-    "en": "To Start"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
     "en"
    ]
   },
@@ -175,12 +128,59 @@
    ]
   },
   {
+   "id": "6e98dfc5-b279-4156-9909-6658fd18ad8f",
+   "title": {
+    "en": "To Start"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "980bf600-ceb9-4e11-8f95-cde35f597618",
+   "title": {
+    "en": "Korogaru Onna to Koi no Numa"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "7242acf0-248f-4dfd-85cb-0910f9abbba4",
+   "title": {
+    "en": "Misaki-kun no Bukiyou na Dekiai"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "ae531f1b-d281-4c0b-9a5b-bdb64707d7fa",
+   "title": {
+    "en": "Koi wo Futasaji"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "65be0a5f-2425-42bd-a388-2f0f5f573e3a",
    "title": {
     "en": "The Net Generation Teacher"
    },
    "contentRating": "safe",
-   "score": 0.23525892,
+   "score": 0.23767102,
    "languages": [
     "en",
     "pt-br"
@@ -192,11 +192,11 @@
     "en": "How to Massage"
    },
    "contentRating": "safe",
-   "score": 0.23273686,
+   "score": 0.23273572,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-07T21:13:16+00:00"
+ "updatedAt": "2024-11-09T20:58:13+00:00"
 }

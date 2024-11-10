@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "193145ff-f9a0-4d92-a643-ae48ded5513e",
-   "title": {
-    "en": "Fate/Ikustella"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "489888be-8d95-4dae-bf93-f8e3edb58b48",
    "title": {
     "en": "Maison de Pilote"
@@ -39,12 +28,23 @@
    ]
   },
   {
+   "id": "193145ff-f9a0-4d92-a643-ae48ded5513e",
+   "title": {
+    "en": "Fate/Ikustella"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f5c25341-d6ff-4585-8548-3a48fc7654d9",
    "title": {
     "en": "Momose Akira no Hatsukoi Hatan-chuu."
    },
    "contentRating": "safe",
-   "score": 0.24221987,
+   "score": 0.24222213,
    "languages": [
     "pt-br",
     "vi",
@@ -96,98 +96,12 @@
    ]
   },
   {
-   "id": "10b8bb96-3b6a-4edc-a428-ddd3e88c3a63",
-   "title": {
-    "en": "Robo Maid"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en",
-    "pl",
-    "uk",
-    "pt-br",
-    "id",
-    "kk"
-   ]
-  },
-  {
    "id": "ebf86f62-d325-4961-b9c8-abf0bf9e644b",
    "title": {
     "en": "New Model Android"
    },
    "contentRating": "safe",
    "score": 0.22980437,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f153b6c4-13b0-40bf-b6a3-5194f1bd4dfa",
-   "title": {
-    "en": "The Story of a Boy Who Can See Lifespans"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "uk",
-    "en"
-   ]
-  },
-  {
-   "id": "9a0525d0-6320-4c38-a527-7084177a754c",
-   "title": {
-    "en": "Gold-digger Sebiri-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "29efb52e-71d9-4a1d-b18d-d3aa9a980d85",
-   "title": {
-    "en": "Domino Kick"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "02f27663-b823-483b-8b7c-4d875a32470f",
-   "title": {
-    "en": "This Snarky Streamer Is Too Cute IRL"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "71763dfb-8b85-4a74-92df-dfe46478fc5d",
-   "title": {
-    "en": "Kaiju No. 8: Relax"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "adac4606-4a89-4229-b04a-96e5b706d3d9",
-   "title": {
-    "en": "Ume to Momo no Futsuu no Kurashi"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
    "languages": [
     "en"
    ]
@@ -203,7 +117,91 @@
     "en",
     "tr"
    ]
+  },
+  {
+   "id": "02f27663-b823-483b-8b7c-4d875a32470f",
+   "title": {
+    "en": "This Snarky Streamer Is Too Cute IRL"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "7555afa5-1d92-4e73-896b-8b8565fe78c6",
+   "title": {
+    "en": "AI-san wa Gakushuu suru"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "987d8965-e448-4216-a45f-b795b2e059b7",
+   "title": {
+    "en": "Dorei no Onnanoko wo Guhehe suru"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "ru",
+    "id",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "adac4606-4a89-4229-b04a-96e5b706d3d9",
+   "title": {
+    "en": "Ume to Momo no Futsuu no Kurashi"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "12bdd25d-b9fd-41b7-9e90-11edd6c7c217",
+   "title": {
+    "en": "She's an Android"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "71763dfb-8b85-4a74-92df-dfe46478fc5d",
+   "title": {
+    "en": "Kaiju No. 8: Relax"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "f153b6c4-13b0-40bf-b6a3-5194f1bd4dfa",
+   "title": {
+    "en": "The Story of a Boy Who Can See Lifespans"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "uk",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-07T21:30:59+00:00"
+ "updatedAt": "2024-11-09T21:15:52+00:00"
 }

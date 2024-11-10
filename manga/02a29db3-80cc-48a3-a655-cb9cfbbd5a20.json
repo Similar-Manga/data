@@ -49,7 +49,6 @@
   "originalLanguage": "ko",
   "lastVolume": "2",
   "lastChapter": "101",
-  "publicationDemographic": "shoujo",
   "status": "completed",
   "year": 2020,
   "contentRating": "safe",
@@ -181,9 +180,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2020-07-05T09:55:19+00:00",
-  "updatedAt": "2022-06-16T19:45:29+00:00"
+  "updatedAt": "2024-11-07T16:10:18+00:00"
  },
  "relationships": [
   {
@@ -239,17 +238,19 @@
    }
   },
   {
-   "id": "262deb4d-dd84-40e6-b8c7-643fd52b694c",
+   "id": "25168772-bd90-4879-a115-c1bb47ee4eb9",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 이오\n\n**Alt. names**:\nIO\nIo\nLee-Oh\nLee Oh"
+    },
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2023-05-16T04:16:08+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Lee Oh",
+    "name": "Lee Oh (이오)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -257,8 +258,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-07T16:09:51+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
