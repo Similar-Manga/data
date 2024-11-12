@@ -1,0 +1,153 @@
+{
+ "id": "9e7a0aef-3f6c-4490-bae5-b71fbdd6a0d5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Uchi no Oyomemuko"
+  },
+  "altTitles": [
+   {
+    "ja": "うちのお嫁婿"
+   },
+   {
+    "ja-ro": "Uchi no Oyome Muko"
+   }
+  ],
+  "description": {
+   "ja": "仕事一筋のバリキャリアラサーの佳奈子は家事が苦手で、いつも自分の部屋は散らかり放題…恋愛に脇目も振らず、仕事に没頭し、今ではファッション誌の副編集長を任されるまでになった――そんなある日、高校時代に振った後輩の拓也が中途で入社してきた。知り合いという事で歓迎会に参加させられ…「あれ…私……？」「おはようございます先輩」「昨夜は大変だったんですよ～もう」「え、なにが…？」「もしかして覚えてないんですか？ 見違えるほどキレイになった自分の部屋、上半身裸の拓也、下着姿の自分。一体なにが起きたの～～～!?"
+  },
+  "links": {
+   "raw": "https://www.cmoa.jp/title/228379/"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-11T11:59:27+00:00",
+  "updatedAt": "2024-11-11T12:32:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "20050b40-6bfa-4559-a012-8232e27874dc",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-07-21T13:54:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Torino Sasami",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-07-21T14:04:41+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "20050b40-6bfa-4559-a012-8232e27874dc",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-07-21T13:54:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Torino Sasami",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-07-21T14:04:41+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5deae118-3bdd-4f94-9564-c5e1763bcfd3",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-11T11:59:42+00:00",
+    "description": "",
+    "fileName": "b48844d3-206f-4095-ad50-31bb5001dce2.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-11T11:59:42+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

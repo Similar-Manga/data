@@ -1,0 +1,147 @@
+{
+ "id": "21c9876a-b08f-4149-a7be-3d6362b0fe98",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ikenie no Mura"
+  },
+  "altTitles": [
+   {
+    "ja": "生贄の村"
+   },
+   {
+    "ja-ro": "Ikenie no Mura"
+   },
+   {
+    "en": "Village of Sacrifices"
+   }
+  ],
+  "description": {
+   "en": "\"Don't go near the shrine! If you want to leave this village safely...\" \n\nMoriya Tou was at the peak of happiness. His girlfriend Kasumi accepted his marriage proposal. However, from that day on, Kasumi disappeared... leaving behind the words, \"I'll get permission from my aunt and sister back home.\" In pursuit of Kasumi's whereabouts, Tou visits Ototachimura, a closed village that has been ruled by a feudal lord's family since ancient times. The villagers look at Tou suspiciously, Kasumi's sister Tsubaki has a melancholy look on her face, and there is a shrine that worships something unknown. Is this village hiding something...? \n\nOn the morning before the once-every-25-year festival, the body of a villager is discovered...!"
+  },
+  "links": {
+   "ap": "ikenie-no-mura",
+   "mu": "2x6sfu0"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-11-09T00:06:36+00:00",
+  "updatedAt": "2024-11-09T16:39:59+00:00"
+ },
+ "relationships": [
+  {
+   "id": "53d7e3e6-acef-46e4-ad66-e5510a64655d",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 金成陽三郎"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanari Youzaburou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kanariyouzaburo",
+    "updatedAt": "2024-08-21T00:06:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "db342123-0436-4cbb-97e3-07c8bd09fdfc",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kitagawa Shou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "21bd74c6-781c-45ea-b5f5-8e9fcef719ed",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-09T16:38:44+00:00",
+    "description": "Cover from BookLive to replace the previous 160x226 cover",
+    "fileName": "01207236-d441-4215-9347-0ec95bac782d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-09T16:38:44+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "2277027e-05ca-4be8-ad79-e65154ec5886",
+   "type": "creator"
+  }
+ ]
+}

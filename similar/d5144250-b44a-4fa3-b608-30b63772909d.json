@@ -11,7 +11,7 @@
     "en": "Medabot Reloaded"
    },
    "contentRating": "safe",
-   "score": 0.25469837,
+   "score": 0.2547038,
    "languages": [
     "en",
     "es-la"
@@ -23,7 +23,7 @@
     "en": "Brave Universe Sworgrader"
    },
    "contentRating": "safe",
-   "score": 0.24759455,
+   "score": 0.24759687,
    "languages": [
     "es-la",
     "en"
@@ -35,7 +35,7 @@
     "en": "Toaru Majutsu no Virtual-On"
    },
    "contentRating": "safe",
-   "score": 0.21501331,
+   "score": 0.21501356,
    "languages": [
     "es-la",
     "zh",
@@ -54,20 +54,6 @@
    ]
   },
   {
-   "id": "3c09ce11-8ed0-41f6-ac12-962fe63c5f77",
-   "title": {
-    "en": "MY LITTLE MARS"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
    "id": "c6a894bc-5493-420a-bd9e-2eaa99a7d4f8",
    "title": {
     "en": "Space Battleship Silver Seven"
@@ -82,12 +68,26 @@
    ]
   },
   {
+   "id": "3c09ce11-8ed0-41f6-ac12-962fe63c5f77",
+   "title": {
+    "en": "MY LITTLE MARS"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "dea77c2d-dbaa-434a-b0af-0c116642434c",
    "title": {
     "en": "Ichi the Witch"
    },
    "contentRating": "safe",
-   "score": 0.18409121,
+   "score": 0.18404281,
    "languages": [
     "ar",
     "vi",
@@ -96,21 +96,6 @@
     "fr",
     "es-la",
     "ru"
-   ]
-  },
-  {
-   "id": "5fcf0847-7d3a-4164-a705-970a06df2794",
-   "title": {
-    "en": "Blue Archive - Problem Solver 68 Business Diary"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "en",
-    "vi",
-    "es-la",
-    "ru",
-    "id"
    ]
   },
   {
@@ -130,17 +115,18 @@
    ]
   },
   {
-   "id": "8dcdcee1-717d-4601-b828-4035ff247b31",
+   "id": "5fcf0847-7d3a-4164-a705-970a06df2794",
    "title": {
-    "en": "Mimicry Girls"
+    "en": "Blue Archive - Problem Solver 68 Business Diary"
    },
    "contentRating": "safe",
-   "score": 0.1702035,
+   "score": 0.18070157,
    "languages": [
-    "vi",
     "en",
-    "id",
-    "es-la"
+    "vi",
+    "es-la",
+    "ru",
+    "id"
    ]
   },
   {
@@ -149,7 +135,7 @@
     "en": "The Witch and the Mercenary"
    },
    "contentRating": "safe",
-   "score": 0.16389562,
+   "score": 0.17387307,
    "languages": [
     "vi",
     "th",
@@ -159,12 +145,26 @@
    ]
   },
   {
+   "id": "8dcdcee1-717d-4601-b828-4035ff247b31",
+   "title": {
+    "en": "Mimicry Girls"
+   },
+   "contentRating": "safe",
+   "score": 0.17020494,
+   "languages": [
+    "vi",
+    "en",
+    "id",
+    "es-la"
+   ]
+  },
+  {
    "id": "818f32c4-8585-465a-b2a9-dcab764cd947",
    "title": {
     "en": "Aola Star - Parallel Universe"
    },
    "contentRating": "safe",
-   "score": 0.15967461,
+   "score": 0.15967184,
    "languages": [
     "en",
     "es",
@@ -177,7 +177,7 @@
     "en": "Liliwords"
    },
    "contentRating": "safe",
-   "score": 0.15441862,
+   "score": 0.15442225,
    "languages": [
     "pt-br",
     "en",
@@ -190,7 +190,7 @@
     "en": "BLACK999"
    },
    "contentRating": "safe",
-   "score": 0.15071972,
+   "score": 0.15073188,
    "languages": [
     "id",
     "es-la",
@@ -203,7 +203,7 @@
     "en": "Kaiju No. 8"
    },
    "contentRating": "safe",
-   "score": 0.14934851,
+   "score": 0.1493435,
    "languages": [
     "ar",
     "uk",
@@ -223,26 +223,31 @@
    ]
   },
   {
-   "id": "4809bb6c-1af2-41c5-9291-983027602d7f",
+   "id": "9d9b04ad-9a83-49f4-8ae4-a9a3780fe9c0",
    "title": {
-    "en": "SHY"
+    "en": "Sakamoto Days"
    },
    "contentRating": "safe",
    "score": 0.14285715,
    "languages": [
     "vi",
-    "en",
-    "es-la",
-    "ru",
-    "fr",
     "pt-br",
-    "id",
+    "it",
+    "ru",
+    "en",
     "es",
-    "th",
     "tr",
-    "it"
+    "ar",
+    "es-la",
+    "sr",
+    "fr",
+    "pl",
+    "id",
+    "bn",
+    "th",
+    "fa"
    ]
   }
  ],
- "updatedAt": "2024-11-09T21:14:07+00:00"
+ "updatedAt": "2024-11-11T21:55:48+00:00"
 }

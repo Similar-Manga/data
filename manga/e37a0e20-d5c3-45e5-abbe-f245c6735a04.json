@@ -87,6 +87,18 @@
     }
    },
    {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
@@ -109,12 +121,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "fad12b5e-68ba-460e-b933-9ae8318f5b65",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gyaru"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 22,
+  "version": 23,
   "createdAt": "2023-04-19T10:33:48+00:00",
-  "updatedAt": "2024-10-26T10:54:05+00:00"
+  "updatedAt": "2024-11-10T00:38:55+00:00"
  },
  "relationships": [
   {

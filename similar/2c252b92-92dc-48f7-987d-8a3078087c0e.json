@@ -22,19 +22,6 @@
    ]
   },
   {
-   "id": "1c90fcae-63d3-490c-aa35-e879e5d5d158",
-   "title": {
-    "en": "Parasite"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
    "id": "a4edc11f-50d6-4fdd-a8b6-c44f6398979c",
    "title": {
     "en": "A City Called Nowhere"
@@ -49,9 +36,22 @@
    ]
   },
   {
-   "id": "47f701c2-d565-4ff7-aa66-08110a9435bf",
+   "id": "1c90fcae-63d3-490c-aa35-e879e5d5d158",
    "title": {
-    "en": "Itadaki no Lvitsa"
+    "en": "Parasite"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "3f88dc02-1552-4c41-9497-bbe1ed5878b0",
+   "title": {
+    "en": "Gakkyuu Majo Saiban"
    },
    "contentRating": "safe",
    "score": 0.19440396,
@@ -60,9 +60,9 @@
    ]
   },
   {
-   "id": "3f88dc02-1552-4c41-9497-bbe1ed5878b0",
+   "id": "47f701c2-d565-4ff7-aa66-08110a9435bf",
    "title": {
-    "en": "Gakkyuu Majo Saiban"
+    "en": "Itadaki no Lvitsa"
    },
    "contentRating": "safe",
    "score": 0.19440396,
@@ -93,7 +93,7 @@
     "en": "My Sp/lit Little Sister"
    },
    "contentRating": "safe",
-   "score": 0.1664442,
+   "score": 0.16644861,
    "languages": [
     "en",
     "it",
@@ -107,7 +107,7 @@
     "en": "Client"
    },
    "contentRating": "safe",
-   "score": 0.16391999,
+   "score": 0.16390626,
    "languages": [
     "en",
     "uk",
@@ -120,7 +120,7 @@
     "en": "Spirited Away by the Rain Woman Youkai"
    },
    "contentRating": "safe",
-   "score": 0.15892509,
+   "score": 0.15893324,
    "languages": [
     "vi",
     "en",
@@ -145,21 +145,31 @@
    ]
   },
   {
-   "id": "9e27b55a-8227-42b0-ad92-7a0f661038a6",
+   "id": "1555ebef-189e-4d12-b2fe-17d68195e01d",
    "title": {
-    "en": "Anata no Kage wo Ou"
+    "en": "Propose"
    },
    "contentRating": "safe",
    "score": 0.15713485,
    "languages": [
-    "it",
-    "ru",
-    "hi",
-    "vi",
-    "pl",
-    "pt-br",
     "fr",
+    "vi",
+    "id",
     "tr",
+    "en",
+    "it",
+    "ru"
+   ]
+  },
+  {
+   "id": "6ebb9695-a705-4175-a76f-1dea10ea264d",
+   "title": {
+    "en": "Nichijoubi no Zashiki-warashi"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -178,32 +188,22 @@
    ]
   },
   {
-   "id": "6ebb9695-a705-4175-a76f-1dea10ea264d",
+   "id": "9e27b55a-8227-42b0-ad92-7a0f661038a6",
    "title": {
-    "en": "Nichijoubi no Zashiki-warashi"
+    "en": "Anata no Kage wo Ou"
    },
    "contentRating": "safe",
    "score": 0.15713485,
    "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "1555ebef-189e-4d12-b2fe-17d68195e01d",
-   "title": {
-    "en": "Propose"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "fr",
-    "vi",
-    "id",
-    "tr",
-    "en",
     "it",
-    "ru"
+    "ru",
+    "hi",
+    "vi",
+    "pl",
+    "pt-br",
+    "fr",
+    "tr",
+    "en"
    ]
   },
   {
@@ -231,5 +231,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-09T20:16:14+00:00"
+ "updatedAt": "2024-11-11T20:39:32+00:00"
 }

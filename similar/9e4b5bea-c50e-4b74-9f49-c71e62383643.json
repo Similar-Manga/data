@@ -11,7 +11,7 @@
     "en": "The Fairy and the Hunter"
    },
    "contentRating": "safe",
-   "score": 0.37662825,
+   "score": 0.376635,
    "languages": [
     "pl",
     "en",
@@ -24,7 +24,7 @@
     "en": "Sleeping Prince"
    },
    "contentRating": "safe",
-   "score": 0.33362707
+   "score": 0.33364478
   },
   {
    "id": "8981592c-e550-42f7-a14d-599e59a98f83",
@@ -32,7 +32,7 @@
     "en": "Risou no Ouji no Tsukurikata"
    },
    "contentRating": "safe",
-   "score": 0.32789046,
+   "score": 0.32791144,
    "languages": [
     "tr",
     "es-la",
@@ -45,7 +45,7 @@
     "en": "Tobenai Washi Ouji"
    },
    "contentRating": "safe",
-   "score": 0.3069448,
+   "score": 0.3069581,
    "languages": [
     "pl",
     "es-la",
@@ -58,7 +58,18 @@
     "en": "Maousa"
    },
    "contentRating": "safe",
-   "score": 0.30278796,
+   "score": 0.30279073,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d29eae50-8d3f-40ce-9b19-2711f7fe3015",
+   "title": {
+    "en": "Kaze no Yubiwa to Hikari no Udewa"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
@@ -75,44 +86,6 @@
    ]
   },
   {
-   "id": "726c511d-1b92-4d50-90d4-6e332438e3d4",
-   "title": {
-    "en": "Chou no Ito"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "4f088331-c386-44d9-9c14-ae7889edbc41",
-   "title": {
-    "en": "2001 Seconds Time Trap"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "ro",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "df1461ec-becf-4918-93c2-360ffc64fdae",
-   "title": {
-    "en": "Flower Crown"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "4c2d0f59-1cdf-4633-93bb-04ce6752193e",
    "title": {
     "en": "Hana to Himegimi to Akuma no Vivian"
@@ -124,47 +97,14 @@
    ]
   },
   {
-   "id": "2164906a-0343-4ae2-99aa-46714e67fa05",
+   "id": "a9e2231d-857f-4adb-a302-a904a4bf5a0a",
    "title": {
-    "en": "Tsui no Kami, Kotonoha no Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "0fcabed7-7e5a-403e-a4d8-270efc133ad8",
-   "title": {
-    "en": "Hitomi kara Destiny"
+    "en": "Baku to Nemurihime"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en",
-    "vi",
-    "ro"
-   ]
-  },
-  {
-   "id": "aac793c7-cac3-46cc-bede-6cccb429b298",
-   "title": {
-    "en": "Honey*Witch"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl"
-   ]
-  },
-  {
-   "id": "20054acb-037a-4a78-8caa-3a41127dbf4b",
-   "title": {
-    "en": "Prickly Day"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -188,7 +128,70 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b3e75907-2bd0-474d-8845-0fa5446019c1",
+   "title": {
+    "en": "HELP!!"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "bg",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "0fcabed7-7e5a-403e-a4d8-270efc133ad8",
+   "title": {
+    "en": "Hitomi kara Destiny"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "vi",
+    "ro"
+   ]
+  },
+  {
+   "id": "4f088331-c386-44d9-9c14-ae7889edbc41",
+   "title": {
+    "en": "2001 Seconds Time Trap"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "ro",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "ae447c62-4aaf-4a5b-851c-f93ec6a2a62d",
+   "title": {
+    "en": "Kaze no Kaeru Basho"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "bg",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "aac793c7-cac3-46cc-bede-6cccb429b298",
+   "title": {
+    "en": "Honey*Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl"
+   ]
   }
  ],
- "updatedAt": "2024-11-09T20:55:30+00:00"
+ "updatedAt": "2024-11-11T21:31:09+00:00"
 }

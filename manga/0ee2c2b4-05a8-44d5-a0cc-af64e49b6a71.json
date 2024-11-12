@@ -3,29 +3,56 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tsuihousareta Akuyaku Reijou to Tenshou Danshaku no Surou de Fushigi na Kekkon Seikatsu"
+   "en": "Tsuihou Sareta Akuyaku Reijou to Tensei Danshaku no Slow de Fushigi na Kekkon Seikatsu"
   },
   "altTitles": [
    {
-    "ja": "追放された悪役令嬢と転生男爵のスローで不思議な結婚生活 コミック版"
+    "ja": "追放された悪役令嬢と転生男爵のスローで不思議な結婚生活"
+   },
+   {
+    "ja-ro": "Tsuihousareta Akuyaku Reijou to Tensei Danshaku no Slow de Fushigi na Kekkon Seikatsu"
+   },
+   {
+    "en": "The Mellow and Mysterious Life of an Exiled Villainess and a Reincarnated Baron"
+   },
+   {
+    "en": "The Exiled Villainess and the Reincarnated Baron's Slow and Mysterious Married Life"
    }
   ],
   "description": {
-   "en": "Kuro Heartfield who governs the frontier land. His true identity is a normal 25-year-old man who has been reincarnated from another world. He bought the resentment of a noble person and came to this frontier as a feudal lord like a relegation, but he likes the life here and has no complaints.\n\nOne day, a marriage proposal is forcibly brought to him. His partner is Miss Violet Valentine. She is a noble daughter of a duke, but her true identity is a so-called villainous daughter who is in conflict with the heroine in a certain love game.\n\nIn order to make a place in this world, a strange married life between misfits starts now!",
-   "ja": "前世の記憶を持ったまま乙女ゲームの世界に転生してしまったクロ・ハートフィールド。\r\n彼はこの世界で「追放ルート」を辿ってしまった美しき悪役令嬢のヴァイオレット・バレンタインと強制的に結婚することに……。\r\nはみ出し者な2人の結婚生活に華（？）を添えるのは、クロの収める領地に住む、欲望と本能のままに生きるクセの強～い住民たち。\r\nこの世界で自分たちの居場所を作るため、転生男爵と悪役令嬢の愉快でちょっとシリアスな結婚生活が今スタート！"
+   "en": "Kuro Heartfield is the lord of the frontier territory, but his true identity is that of an ordinary 25-year-old man who got reincarnated here from another world. He has been relegated to being the feudal lord of this remote region for his demotion, after earning the resentment of high-ranking nobles, but here he found his new life to his liking, and so he has no complaints.\n\nOne day, he receives a compulsory marriage proposal and his soon-to-be spouse's name is Lady Violet Valentine. She is a respectable noble lady from a duke's house, but her true identity is that of a so-called villainess, one who opposes the heroine in nearly all the routes of a certain romance game.\n\nA slightly mysterious married life starts today between these fellow outcasts aiming to make a place where they belong! \n\n(Source: Pixiv Comic)",
+   "ja": "辺境の地を治めるクロ・ハートフィールド。彼の正体は、別の世界から転生してきた25歳の普通の男性。高貴な人間の恨みを買い、左遷のようにこの辺境に領主としてやってきたが、ここの生活が結構気に入っており不満はない。そんなある日、彼に強制的に縁談が持ち込まれる。お相手はヴァイオレット・バレンタイン嬢。公爵家のれっきとしたお嬢様だが、彼女の正体は実はとある恋愛ゲームでヒロインのとほとんどのルートで対立するいわゆる悪役令嬢だった。この世界に居場所を作るべく、はみ出し者同士のちょっと不思議な結婚生活が今スタート！"
   },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0C98M16HM",
    "bw": "series/386813/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/731005/",
+   "mal": "170851",
    "mu": "1qdb0q3",
+   "nu": "the-mellow-and-mysterious-life-of-an-exiled-villainess-and-a-reincarnated-baron",
    "raw": "https://comic.pixiv.net/works/8704"
   },
   "originalLanguage": "ja",
   "status": "ongoing",
   "year": 2022,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "538ca4ca-7ce9-497b-8ec3-27757e6153db",
   "tags": [
+   {
+    "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -73,12 +100,36 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 21,
   "createdAt": "2023-07-03T22:39:43+00:00",
-  "updatedAt": "2024-10-31T15:13:55+00:00"
+  "updatedAt": "2024-11-11T09:06:20+00:00"
  },
  "relationships": [
   {
@@ -111,7 +162,9 @@
    "id": "349c66f2-dd5e-4794-975d-7882b41d9993",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 郁橋むいこ\n\n**Circle/s**:\nHarapeko Shucchoujo (はらぺこ出張所)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -122,12 +175,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/383288",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/muiko_i",
+    "updatedAt": "2024-11-11T09:04:02+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d4f6a849-0503-4d39-8f7a-e5ca84e7235e",
+   "title": {
+    "en": "Yankee Kanojo no Jakuten"
+   },
+   "contentRating": "safe",
+   "score": 0.31078264,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "fca3f516-df2d-414d-9d3e-02e8746484f4",
    "title": {
     "en": "The Motorcycle Letters"
    },
    "contentRating": "safe",
-   "score": 0.25257123
+   "score": 0.25255552
   },
   {
    "id": "87515aa0-3c90-4b76-9254-0363fdbec36b",
@@ -19,7 +31,7 @@
     "en": "Miboujin Elf no Kanamori-san"
    },
    "contentRating": "safe",
-   "score": 0.24852821,
+   "score": 0.24849865,
    "languages": [
     "es-la",
     "en"
@@ -39,7 +51,7 @@
     "en": "'89"
    },
    "contentRating": "safe",
-   "score": 0.24577256
+   "score": 0.24579813
   },
   {
    "id": "aef6f0d1-4d1f-4052-8b04-2c8ff314a504",
@@ -47,61 +59,15 @@
     "en": "Sutta Monda!"
    },
    "contentRating": "safe",
-   "score": 0.23709744
+   "score": 0.23710299
   },
   {
-   "id": "bd9071cf-632c-49bf-a122-28bb3bbf7be7",
+   "id": "17ebab6e-6fd4-44c8-afe6-ca545ab2d53f",
    "title": {
-    "en": "Garandou no Garakuta-tachi"
+    "en": "Mizukoshi-kun wa Futtou Shitakunai no ni"
    },
    "contentRating": "safe",
    "score": 0.23328476
-  },
-  {
-   "id": "61377cbe-947c-4c0e-80a2-47db808e0848",
-   "title": {
-    "en": "Mememememememememe Menheraa..."
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9a1ab109-6bdc-40be-a382-efc08d8701e5",
-   "title": {
-    "en": "Shibuya Honky Tonk"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "9f4be8ab-7572-4b8b-bf8f-277fc1c3af26",
-   "title": {
-    "en": "Houkago Metaverse"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "7f8d8997-0b82-4ec1-a230-cbca6fb0d431",
-   "title": {
-    "en": "Tokyo Graffiti"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "fb66e1ee-e780-4ba1-8cdf-6035198b536d",
-   "title": {
-    "en": "Archaic Smile"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "ru"
-   ]
   },
   {
    "id": "3850ed09-72ca-47d4-b29b-9c4f85a4cffe",
@@ -120,17 +86,9 @@
    "score": 0.23328476
   },
   {
-   "id": "17ebab6e-6fd4-44c8-afe6-ca545ab2d53f",
+   "id": "bd9071cf-632c-49bf-a122-28bb3bbf7be7",
    "title": {
-    "en": "Mizukoshi-kun wa Futtou Shitakunai no ni"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "2bae0450-d19b-4dae-b735-95e5a824c1f0",
-   "title": {
-    "en": "if no Toriko"
+    "en": "Garandou no Garakuta-tachi"
    },
    "contentRating": "safe",
    "score": 0.23328476
@@ -142,7 +100,53 @@
    },
    "contentRating": "safe",
    "score": 0.23328476
+  },
+  {
+   "id": "9a1ab109-6bdc-40be-a382-efc08d8701e5",
+   "title": {
+    "en": "Shibuya Honky Tonk"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
+  },
+  {
+   "id": "9f4be8ab-7572-4b8b-bf8f-277fc1c3af26",
+   "title": {
+    "en": "Houkago Metaverse"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
+  },
+  {
+   "id": "61377cbe-947c-4c0e-80a2-47db808e0848",
+   "title": {
+    "en": "Mememememememememe Menheraa..."
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fb66e1ee-e780-4ba1-8cdf-6035198b536d",
+   "title": {
+    "en": "Archaic Smile"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
+   "id": "7f8d8997-0b82-4ec1-a230-cbca6fb0d431",
+   "title": {
+    "en": "Tokyo Graffiti"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
   }
  ],
- "updatedAt": "2024-11-09T20:53:26+00:00"
+ "updatedAt": "2024-11-11T21:28:28+00:00"
 }

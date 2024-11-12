@@ -6,20 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "b15614d2-259c-4f55-97c1-a9248343f37b",
-   "title": {
-    "en": "Kanojo no Elegy"
-   },
-   "contentRating": "safe",
-   "score": 0.29165015
-  },
-  {
    "id": "4f07037d-d46b-45d0-acff-53b596b97fa3",
    "title": {
     "en": "Kamiasobi! - Card Game Shoujo no Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.28887776
+   "score": 0.2873951
+  },
+  {
+   "id": "b15614d2-259c-4f55-97c1-a9248343f37b",
+   "title": {
+    "en": "Kanojo no Elegy"
+   },
+   "contentRating": "safe",
+   "score": 0.28712416
   },
   {
    "id": "d16f92a6-6f5f-442c-b011-b68abc986209",
@@ -27,7 +27,7 @@
     "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.27840984,
+   "score": 0.2763488,
    "languages": [
     "vi",
     "en",
@@ -42,7 +42,7 @@
     "en": "Class no Idol wa Kyou mo Osenai"
    },
    "contentRating": "safe",
-   "score": 0.2749492
+   "score": 0.27492583
   },
   {
    "id": "acde33ef-d926-437a-b82e-e0d9b4b59741",
@@ -50,15 +50,7 @@
     "en": "Mashiba Kyoudai wa Kao ga Katai"
    },
    "contentRating": "safe",
-   "score": 0.2743297
-  },
-  {
-   "id": "5d6772b3-33c6-4b42-bd18-5fdcbb65fbfa",
-   "title": {
-    "en": "Akutsu-san wa Oshi ni Niteiru"
-   },
-   "contentRating": "safe",
-   "score": 0.2734707
+   "score": 0.27433127
   },
   {
    "id": "25886ab0-17f1-4801-b929-6b36fe4e5214",
@@ -66,7 +58,7 @@
     "en": "Minami-ke"
    },
    "contentRating": "safe",
-   "score": 0.2726177,
+   "score": 0.27260643,
    "languages": [
     "fr",
     "pt-br",
@@ -80,12 +72,20 @@
    ]
   },
   {
+   "id": "5d6772b3-33c6-4b42-bd18-5fdcbb65fbfa",
+   "title": {
+    "en": "Akutsu-san wa Oshi ni Niteiru"
+   },
+   "contentRating": "safe",
+   "score": 0.26972508
+  },
+  {
    "id": "892ed11e-74ba-43a3-a97f-1a48d28052d1",
    "title": {
     "en": "Onii-chan wa Se ga Chiisai"
    },
    "contentRating": "safe",
-   "score": 0.27228302,
+   "score": 0.26964915,
    "languages": [
     "en"
    ]
@@ -96,7 +96,7 @@
     "en": "Joshikousei no Mudazukai"
    },
    "contentRating": "safe",
-   "score": 0.27136898,
+   "score": 0.26551032,
    "languages": [
     "en",
     "es-la",
@@ -107,20 +107,23 @@
    ]
   },
   {
+   "id": "f0b5463c-bc2f-4808-a7f6-6efe3edd083d",
+   "title": {
+    "en": "Poca Poca Taiwan!"
+   },
+   "contentRating": "safe",
+   "score": 0.26401994,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b5cbe751-0cd1-4962-8026-f9474bb678cb",
    "title": {
     "en": "Mushi Communicator"
    },
    "contentRating": "safe",
-   "score": 0.26572478
-  },
-  {
-   "id": "358f92cf-4064-4683-85de-fff1aec7cbe9",
-   "title": {
-    "en": "Danshi Koukousei to Fureau Houhou"
-   },
-   "contentRating": "safe",
-   "score": 0.26506257
+   "score": 0.26400125
   },
   {
    "id": "6b6f1e1b-6b62-4b4d-b3eb-e284efdd94c5",
@@ -128,15 +131,7 @@
     "en": "Tsukurite ☆ Kousaku-kun"
    },
    "contentRating": "safe",
-   "score": 0.2639208
-  },
-  {
-   "id": "7638a141-d515-48a5-8a92-1c9e806a9b98",
-   "title": {
-    "en": "Dairy's"
-   },
-   "contentRating": "safe",
-   "score": 0.2639031
+   "score": 0.2624752
   },
   {
    "id": "b053199f-8c8c-4410-a44f-e60a0d834fa9",
@@ -144,10 +139,18 @@
     "en": "Beshari-Gurashi"
    },
    "contentRating": "safe",
-   "score": 0.26313213,
+   "score": 0.26116198,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "13787206-3f1e-4f30-954f-8810b6eec6cf",
+   "title": {
+    "en": "Nguruwa Kaihou"
+   },
+   "contentRating": "safe",
+   "score": 0.26050916
   },
   {
    "id": "97698810-9f86-4a3c-884e-add6918838e3",
@@ -155,19 +158,16 @@
     "en": "Ore no Risk"
    },
    "contentRating": "safe",
-   "score": 0.26168022
+   "score": 0.25970337
   },
   {
-   "id": "bd19e205-27e6-42db-9e11-4a0ba82cf074",
+   "id": "4e6095ac-44be-4245-8245-3c432ecf6c03",
    "title": {
-    "en": "Normal Girl"
+    "en": "Kaichou! Kyou wa Saborimashou!"
    },
    "contentRating": "safe",
-   "score": 0.26165,
-   "languages": [
-    "ko"
-   ]
+   "score": 0.25959447
   }
  ],
- "updatedAt": "2024-11-09T21:08:21+00:00"
+ "updatedAt": "2024-11-11T21:47:55+00:00"
 }

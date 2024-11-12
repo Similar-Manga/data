@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Invincible Summoner Who Crawled up from Level 1: I’Ll Beat All the Reincarnators in the Secret Dungeon that Only I Can Use!"
+   "en": "Level 1 kara Hajimaru Shoukan Musou - Ore Dake Tsukaeru Ura Dungeon de Subete no Tenseisha o Bucchigiru"
   },
   "altTitles": [
    {
@@ -28,6 +28,10 @@
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "504a74f7-9cf4-4991-a8e7-41f8ff4d7365",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -91,9 +95,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-11-09T14:31:43+00:00",
-  "updatedAt": "2024-11-09T14:33:26+00:00"
+  "updatedAt": "2024-11-09T16:45:41+00:00"
  },
  "relationships": [
   {
@@ -164,6 +168,11 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "38c6f934-7558-4d1b-80d1-91114e0419eb",
+   "type": "manga",
+   "related": "alternate_version"
   },
   {
    "id": "0b79d7be-f0b8-4c71-a8cb-bead0f91651d",

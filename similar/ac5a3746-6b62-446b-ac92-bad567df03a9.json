@@ -6,21 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
-   "title": {
-    "en": "Kimi no Love o Misetekure!"
-   },
-   "contentRating": "safe",
-   "score": 0.2856258,
-   "languages": [
-    "vi",
-    "pt-br",
-    "ru",
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "ee96e2b7-9af2-4864-9656-649f4d3b6fec",
    "title": {
     "en": "Otaku ni Yasashii Gal wa Inai!?"
@@ -43,7 +28,7 @@
     "en": "Kimi ni Koi wo suru Nante, Arienai Hazu Datta"
    },
    "contentRating": "safe",
-   "score": 0.2782197,
+   "score": 0.27822095,
    "languages": [
     "pt-br"
    ]
@@ -54,7 +39,7 @@
     "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
-   "score": 0.27593133,
+   "score": 0.2759311,
    "languages": [
     "es-la",
     "vi",
@@ -70,7 +55,7 @@
     "en": "Nemuro-kun wa Kao ga Ii!"
    },
    "contentRating": "safe",
-   "score": 0.2752978,
+   "score": 0.27529797,
    "languages": [
     "en",
     "es-la",
@@ -83,7 +68,7 @@
     "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
    },
    "contentRating": "safe",
-   "score": 0.27512988,
+   "score": 0.2751063,
    "languages": [
     "en",
     "pt-br"
@@ -95,7 +80,7 @@
     "en": "Hitomi-chan Is Shy With Strangers"
    },
    "contentRating": "safe",
-   "score": 0.2736947,
+   "score": 0.2737028,
    "languages": [
     "en",
     "pt-br",
@@ -114,7 +99,7 @@
     "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.26922584,
+   "score": 0.2692261,
    "languages": [
     "vi",
     "en",
@@ -124,45 +109,13 @@
    ]
   },
   {
-   "id": "eeea01ed-4838-45ca-8e90-88d6f6e95603",
+   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
    "title": {
-    "en": "The Coppersmith's Bride"
+    "en": "Tokiwa-san to Inoue-kun no Boushin"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "ru",
-    "en",
-    "id",
-    "vi",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
-   "title": {
-    "en": "Chigau Miyahara Omae janai!"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "vi",
-    "pt-br",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
-   "title": {
-    "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "id",
-    "pt-br",
     "en"
    ]
   },
@@ -196,23 +149,6 @@
    ]
   },
   {
-   "id": "ee845b1a-b1cd-4fb3-ade2-0030890f7c2a",
-   "title": {
-    "en": "Mizuki-senpai's Love Fortune-Telling"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "id",
-    "es-la",
-    "en",
-    "pt-br",
-    "it",
-    "vi",
-    "ru"
-   ]
-  },
-  {
    "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
    "title": {
     "en": "Skip and Loafer"
@@ -230,16 +166,78 @@
    ]
   },
   {
-   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "id": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
    "title": {
-    "en": "Tokiwa-san to Inoue-kun no Boushin"
+    "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
+    "id",
+    "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "ee845b1a-b1cd-4fb3-ade2-0030890f7c2a",
+   "title": {
+    "en": "Mizuki-senpai's Love Fortune-Telling"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "id",
+    "es-la",
+    "en",
+    "pt-br",
+    "it",
+    "vi",
+    "ru"
+   ]
+  },
+  {
+   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
+   "title": {
+    "en": "Chigau Miyahara Omae janai!"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "vi",
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "eeea01ed-4838-45ca-8e90-88d6f6e95603",
+   "title": {
+    "en": "The Coppersmith's Bride"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "vi",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "49c047a5-b5bc-4133-a61b-7598f1fd19b6",
+   "title": {
+    "en": "Katsura's Wig of the Day"
+   },
+   "contentRating": "safe",
+   "score": 0.25289914,
+   "languages": [
+    "en",
+    "es-la",
+    "fr"
    ]
   }
  ],
- "updatedAt": "2024-11-09T21:00:15+00:00"
+ "updatedAt": "2024-11-11T21:37:07+00:00"
 }

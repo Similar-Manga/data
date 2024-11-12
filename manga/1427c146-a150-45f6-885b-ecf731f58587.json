@@ -10,16 +10,43 @@
     "ja": "13日の御茶漬海苔"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "10 brutal horror stories by Ochazukenori, the master of splatter manga! Ranging from slasher to SF horror, this anthology will sure shock you!\n\n\"If you don't eat your ochazuke... Ochazukenori will come and murder you! But who is the real identity of this killer?\" [Ochazukenori on the Thirteenth]"
+  },
   "links": {
    "mu": "ox5fsth"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
+  "lastChapter": "10",
   "status": "completed",
   "year": 1988,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "51d83883-4103-437c-b4b1-731cb73d786c",
     "type": "tag",
@@ -29,6 +56,30 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "9467335a-1b83-4497-9231-765337a00b96",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Post-Apocalyptic"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -55,12 +106,36 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2022-07-27T18:58:36+00:00",
-  "updatedAt": "2022-07-27T21:01:16+00:00"
+  "updatedAt": "2024-11-09T11:37:19+00:00"
  },
  "relationships": [
   {
@@ -127,9 +202,9 @@
     "description": "",
     "fileName": "4af6a99e-6995-46ce-ae1a-709497c91b61.jpg",
     "locale": "ja",
-    "updatedAt": "2022-07-27T18:58:37+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-11-09T11:38:13+00:00",
+    "version": 2,
+    "volume": "1.2"
    }
   },
   {

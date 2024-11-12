@@ -6,14 +6,16 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
+   "id": "d5e3f1e3-b893-491b-a0cf-beb64507460e",
    "title": {
-    "en": "REVOLT"
+    "en": "You Kind Liar"
    },
    "contentRating": "safe",
-   "score": 0.33135167,
+   "score": 0.23356864,
    "languages": [
-    "en"
+    "pt-br",
+    "en",
+    "id"
    ]
   },
   {
@@ -28,51 +30,12 @@
    ]
   },
   {
-   "id": "d5e3f1e3-b893-491b-a0cf-beb64507460e",
+   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
    "title": {
-    "en": "You Kind Liar"
+    "en": "REVOLT"
    },
    "contentRating": "safe",
-   "score": 0.23306443,
-   "languages": [
-    "pt-br",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "9ef6e461-033b-4976-b222-943856c94a97",
-   "title": {
-    "en": "Smiley"
-   },
-   "contentRating": "safe",
-   "score": 0.21004923,
-   "languages": [
-    "vi",
-    "es-la",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
-   "title": {
-    "en": "Sherlock"
-   },
-   "contentRating": "safe",
-   "score": 0.20806888,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
-   "title": {
-    "en": "B"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.22422306,
    "languages": [
     "en"
    ]
@@ -90,6 +53,31 @@
    ]
   },
   {
+   "id": "9ef6e461-033b-4976-b222-943856c94a97",
+   "title": {
+    "en": "Smiley"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "vi",
+    "es-la",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
+   "title": {
+    "en": "B"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "92a46ccf-cf75-41dd-8a69-7016e4521102",
    "title": {
     "en": "Yamima no Mamiya"
@@ -102,37 +90,13 @@
    ]
   },
   {
-   "id": "942c4d26-67a3-4a83-8a27-dbb68fe6ccad",
+   "id": "38ef3fbc-c78a-402f-af44-90784cf48ce9",
    "title": {
-    "en": "Zero no Shiniki"
+    "en": "THE iDOLM@STER Million Live! Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.19508079,
+   "score": 0.19534618,
    "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "4daee0fc-c770-4b4d-90bb-cb3ed4a5e19c",
-   "title": {
-    "en": "Mukoubuchi: The High-Stakes Underground Mahjong Series"
-   },
-   "contentRating": "safe",
-   "score": 0.19370644,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b7278172-1c27-4d1a-9f7f-a35a10776631",
-   "title": {
-    "en": "Super Danganronpa 2: Goodbye Despair Academy"
-   },
-   "contentRating": "safe",
-   "score": 0.19125059,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -143,28 +107,6 @@
    },
    "contentRating": "safe",
    "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ebbe576d-48f0-4af5-9b63-75af63ee413c",
-   "title": {
-    "en": "Bokura no Q"
-   },
-   "contentRating": "safe",
-   "score": 0.18431538,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "78156f6b-621f-4ce6-b2a4-86364fe69d1d",
-   "title": {
-    "en": "3-okuen Koukousei"
-   },
-   "contentRating": "safe",
-   "score": 0.17865817,
    "languages": [
     "en"
    ]
@@ -190,12 +132,68 @@
     "en": "RDB"
    },
    "contentRating": "safe",
-   "score": 0.17620656,
+   "score": 0.17626172,
    "languages": [
     "ru",
     "en"
    ]
+  },
+  {
+   "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
+   "title": {
+    "en": "Sherlock"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "4daee0fc-c770-4b4d-90bb-cb3ed4a5e19c",
+   "title": {
+    "en": "Mukoubuchi: The High-Stakes Underground Mahjong Series"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7d18c567-426e-4c11-8c49-6ec843f53cef",
+   "title": {
+    "en": "Ikigami Sairin"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b557ec15-0e84-4ea5-ad93-12d492f5093a",
+   "title": {
+    "en": "Yugo (2004)"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ebbe576d-48f0-4af5-9b63-75af63ee413c",
+   "title": {
+    "en": "Bokura no Q"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-09T21:15:21+00:00"
+ "updatedAt": "2024-11-11T21:57:25+00:00"
 }

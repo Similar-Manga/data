@@ -7,10 +7,10 @@
   },
   "altTitles": [
    {
-    "ja": "Honey Mellow Doll"
+    "ja": "はめドル！"
    },
    {
-    "ja": "はめドル！"
+    "en": "Honey Mellow Doll"
    }
   ],
   "description": {},
@@ -23,6 +23,7 @@
    "mu": "163249"
   },
   "originalLanguage": "ja",
+  "lastVolume": "4",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2019,
@@ -58,9 +59,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2020-05-18T09:59:26+00:00",
-  "updatedAt": "2024-03-11T06:59:53+00:00"
+  "updatedAt": "2024-11-10T20:46:06+00:00"
  },
  "relationships": [
   {
@@ -120,16 +121,16 @@
    }
   },
   {
-   "id": "657bfa8e-4ccf-4fe0-9032-104147705abc",
+   "id": "f19060ed-efa2-4d85-84a9-54fb8f8bb19a",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:56:21+00:00",
+    "createdAt": "2024-11-10T20:46:05+00:00",
     "description": "",
-    "fileName": "c2082072-a547-4fb9-9212-95640cca2fc9.jpg",
+    "fileName": "b81f0247-2241-4d35-a26e-6eb06883d141.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:56:21+00:00",
+    "updatedAt": "2024-11-10T20:46:05+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
   }
  ]

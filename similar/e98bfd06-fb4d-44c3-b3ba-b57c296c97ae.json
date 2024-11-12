@@ -11,7 +11,7 @@
     "en": "Warui Ko no Tame no Wasuremono Techou"
    },
    "contentRating": "safe",
-   "score": 0.31286392,
+   "score": 0.30791795,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "2 Centimeter Gossip"
    },
    "contentRating": "safe",
-   "score": 0.30252504,
+   "score": 0.29178014,
    "languages": [
     "en",
     "pt-br"
@@ -34,7 +34,7 @@
     "en": "Tsunagaru Koi"
    },
    "contentRating": "safe",
-   "score": 0.28955525,
+   "score": 0.28432268,
    "languages": [
     "en"
    ]
@@ -52,9 +52,9 @@
    ]
   },
   {
-   "id": "cfb5b80e-33e3-4d26-9458-f8813fa92cb5",
+   "id": "2213e3de-e007-4446-926b-65ae364875d6",
    "title": {
-    "en": "Ouchi e Kaerou: Neko Mimi Omegaverse"
+    "en": "Shitsuren Mania"
    },
    "contentRating": "safe",
    "score": 0.2841444,
@@ -63,9 +63,9 @@
    ]
   },
   {
-   "id": "2213e3de-e007-4446-926b-65ae364875d6",
+   "id": "cfb5b80e-33e3-4d26-9458-f8813fa92cb5",
    "title": {
-    "en": "Shitsuren Mania"
+    "en": "Ouchi e Kaerou: Neko Mimi Omegaverse"
    },
    "contentRating": "safe",
    "score": 0.2841444,
@@ -79,7 +79,7 @@
     "en": "Knocked Up Boys"
    },
    "contentRating": "safe",
-   "score": 0.2836848,
+   "score": 0.27473196,
    "languages": [
     "en"
    ]
@@ -90,25 +90,9 @@
     "en": "Hirahira Hyn"
    },
    "contentRating": "safe",
-   "score": 0.2773071,
+   "score": 0.27417803,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "2fe66428-2172-4567-9460-229c9ad260e5",
-   "title": {
-    "en": "Together Forever"
-   },
-   "contentRating": "safe",
-   "score": 0.2731557,
-   "languages": [
-    "en",
-    "vi",
-    "es-la",
-    "fr",
-    "pt-br",
-    "ar"
    ]
   },
   {
@@ -117,34 +101,11 @@
     "en": "Omairi Desu yo"
    },
    "contentRating": "safe",
-   "score": 0.27190074,
+   "score": 0.26970088,
    "languages": [
     "tr",
     "en",
     "vi"
-   ]
-  },
-  {
-   "id": "40f4ebb9-8e84-4f05-9431-301fe32613a6",
-   "title": {
-    "en": "Futari de Okashi na Kyuujitsu o"
-   },
-   "contentRating": "safe",
-   "score": 0.2699599,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "88efd31b-0dfe-4b57-b1fd-9d7bd892e624",
-   "title": {
-    "en": "Fallen Angels"
-   },
-   "contentRating": "safe",
-   "score": 0.2698451,
-   "languages": [
-    "fr",
-    "en"
    ]
   },
   {
@@ -153,7 +114,7 @@
     "en": "KiraKira"
    },
    "contentRating": "safe",
-   "score": 0.2695222,
+   "score": 0.2677368,
    "languages": [
     "en"
    ]
@@ -164,21 +125,9 @@
     "en": "B Kyuu Gourmet Club"
    },
    "contentRating": "safe",
-   "score": 0.2688486,
+   "score": 0.26718011,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "22a3eb13-aaf7-46b1-9684-b3a687fa379e",
-   "title": {
-    "en": "Hoezura ni Kamitsuku Kisu"
-   },
-   "contentRating": "safe",
-   "score": 0.2679266,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -187,11 +136,62 @@
     "en": "Silence"
    },
    "contentRating": "safe",
-   "score": 0.26790887,
+   "score": 0.26640433,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "88efd31b-0dfe-4b57-b1fd-9d7bd892e624",
+   "title": {
+    "en": "Fallen Angels"
+   },
+   "contentRating": "safe",
+   "score": 0.26512164,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "40f4ebb9-8e84-4f05-9431-301fe32613a6",
+   "title": {
+    "en": "Futari de Okashi na Kyuujitsu o"
+   },
+   "contentRating": "safe",
+   "score": 0.26336104,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2fe66428-2172-4567-9460-229c9ad260e5",
+   "title": {
+    "en": "Together Forever"
+   },
+   "contentRating": "safe",
+   "score": 0.26270694,
+   "languages": [
+    "en",
+    "vi",
+    "es-la",
+    "fr",
+    "pt-br",
+    "ar"
+   ]
+  },
+  {
+   "id": "22a3eb13-aaf7-46b1-9684-b3a687fa379e",
+   "title": {
+    "en": "Hoezura ni Kamitsuku Kisu"
+   },
+   "contentRating": "safe",
+   "score": 0.26169035,
+   "languages": [
+    "en",
+    "es-la"
+   ]
   }
  ],
- "updatedAt": "2024-11-09T21:21:08+00:00"
+ "updatedAt": "2024-11-11T22:04:42+00:00"
 }

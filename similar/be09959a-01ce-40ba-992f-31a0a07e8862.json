@@ -6,14 +6,21 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "84a2945e-0018-4301-9a54-f305971477a9",
+   "id": "457df47a-b67a-4168-8498-4787561f4d7f",
    "title": {
-    "en": "Birthday"
+    "en": "JK to Dullahan"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "7a14a386-a068-452a-b395-73908a7f74b5",
+   "title": {
+    "en": "Yoru to Yakusoku"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "fr",
     "en"
    ]
   },
@@ -26,17 +33,6 @@
    "score": 0.2857143,
    "languages": [
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "7a14a386-a068-452a-b395-73908a7f74b5",
-   "title": {
-    "en": "Yoru to Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
     "en"
    ]
   },
@@ -92,12 +88,16 @@
    ]
   },
   {
-   "id": "457df47a-b67a-4168-8498-4787561f4d7f",
+   "id": "84a2945e-0018-4301-9a54-f305971477a9",
    "title": {
-    "en": "JK to Dullahan"
+    "en": "Birthday"
    },
    "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.2857143,
+   "languages": [
+    "fr",
+    "en"
+   ]
   },
   {
    "id": "5b446430-9acd-4493-bb80-02f4381ad48e",
@@ -105,7 +105,7 @@
     "en": "Angelmois Please"
    },
    "contentRating": "safe",
-   "score": 0.2833501,
+   "score": 0.28333348,
    "languages": [
     "en"
    ]
@@ -116,7 +116,7 @@
     "en": "Godland Company"
    },
    "contentRating": "safe",
-   "score": 0.26420876,
+   "score": 0.2642213,
    "languages": [
     "en"
    ]
@@ -127,44 +127,28 @@
     "en": "Doroi Don"
    },
    "contentRating": "safe",
-   "score": 0.25096732
+   "score": 0.2509701
   },
   {
-   "id": "f61e1d39-43c0-4e7d-86e9-063a9c2f2245",
+   "id": "e2a00fb0-aaf8-466a-ba7b-4c7073959504",
    "title": {
-    "en": "Grim Reaper, Kill Me Please!"
+    "en": "Joubutsu Challenge!"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
+  },
+  {
+   "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
+   "title": {
+    "en": "Sakamoto"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "id",
+    "it",
     "vi",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "ab0421f3-a97b-4d76-8dbe-3bb4c294ef6f",
-   "title": {
-    "en": "Change Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e3d9c18c-7ab6-4495-be9f-43de5d64ab89",
-   "title": {
-    "en": "Gazer"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pt-br",
     "en",
-    "es"
+    "pt-br"
    ]
   },
   {
@@ -180,18 +164,29 @@
    ]
   },
   {
-   "id": "485471ff-4502-4af9-aa0f-956af49e7782",
+   "id": "662eafe3-345b-4e3a-9989-605741167561",
    "title": {
-    "en": "Tsukumono"
+    "en": "Cremators"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
     "en",
-    "pl",
-    "th"
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
+   "id": "03adcc45-74d2-4be6-bc1e-b239f265ea3f",
+   "title": {
+    "en": "Akuma-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2024-11-09T21:06:20+00:00"
+ "updatedAt": "2024-11-11T21:45:10+00:00"
 }

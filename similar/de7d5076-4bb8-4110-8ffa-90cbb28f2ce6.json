@@ -6,15 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "43480b8a-4f4b-474d-9dc2-82f289434d2d",
+   "id": "8406f36b-b613-4629-b195-7857991ad83c",
    "title": {
-    "en": "Kyou mo Ashita mo."
+    "en": "Omatase shimashita, Hatsukoi desu"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en",
-    "pt-br"
+    "es-la"
    ]
   },
   {
@@ -30,14 +29,15 @@
    ]
   },
   {
-   "id": "8406f36b-b613-4629-b195-7857991ad83c",
+   "id": "43480b8a-4f4b-474d-9dc2-82f289434d2d",
    "title": {
-    "en": "Omatase shimashita, Hatsukoi desu"
+    "en": "Kyou mo Ashita mo."
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "es-la"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -46,7 +46,7 @@
     "en": "Seishun Lover's Festival"
    },
    "contentRating": "safe",
-   "score": 0.26361755,
+   "score": 0.26361284,
    "languages": [
     "es-la"
    ]
@@ -57,7 +57,7 @@
     "en": "Skip Beat!"
    },
    "contentRating": "safe",
-   "score": 0.258038,
+   "score": 0.25804576,
    "languages": [
     "en",
     "pl",
@@ -73,7 +73,7 @@
     "en": "Koi suru 1/4"
    },
    "contentRating": "safe",
-   "score": 0.25388843,
+   "score": 0.25389388,
    "languages": [
     "pt-br",
     "de",
@@ -81,28 +81,27 @@
    ]
   },
   {
-   "id": "3730920b-499d-4052-901c-025bab17e11f",
+   "id": "9ce3fb74-cff0-477e-89d7-20c94d439142",
    "title": {
-    "en": "Amai Cheri wo Ageru"
+    "en": "Binetsu Shoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "152cac37-0ab3-4e3f-a98c-5090c1104590",
+   "title": {
+    "en": "Anesan Countdown!"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
     "es-la",
     "en"
-   ]
-  },
-  {
-   "id": "5d82a9b4-e918-4a18-b583-2baf0132976d",
-   "title": {
-    "en": "Ani ga Kareshi de, Gomen"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "vi",
-    "en",
-    "es-la"
    ]
   },
   {
@@ -120,18 +119,6 @@
    ]
   },
   {
-   "id": "152cac37-0ab3-4e3f-a98c-5090c1104590",
-   "title": {
-    "en": "Anesan Countdown!"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "6a7b2566-aa51-40c6-9329-0cc5b97ebd01",
    "title": {
     "en": "Urakata!!"
@@ -140,6 +127,31 @@
    "score": 0.24743582,
    "languages": [
     "es-la"
+   ]
+  },
+  {
+   "id": "5d82a9b4-e918-4a18-b583-2baf0132976d",
+   "title": {
+    "en": "Ani ga Kareshi de, Gomen"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "vi",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "3730920b-499d-4052-901c-025bab17e11f",
+   "title": {
+    "en": "Amai Cheri wo Ageru"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -155,24 +167,12 @@
    ]
   },
   {
-   "id": "9ce3fb74-cff0-477e-89d7-20c94d439142",
-   "title": {
-    "en": "Binetsu Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
    "title": {
     "en": "Hana-kun to Koisuru Watashi"
    },
    "contentRating": "safe",
-   "score": 0.24739239,
+   "score": 0.2474073,
    "languages": [
     "pt-br",
     "pl",
@@ -180,15 +180,15 @@
    ]
   },
   {
-   "id": "951e6728-5468-4f14-95bd-f90ec6470cce",
+   "id": "a985f6c8-e021-41c8-91b9-b3bbd2f60502",
    "title": {
-    "en": "Daifuku-chan to Ouji-sama"
+    "en": "My Idol Came to My House!"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en",
-    "pt-br"
+    "es-la",
+    "en"
    ]
   },
   {
@@ -208,5 +208,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-09T21:17:22+00:00"
+ "updatedAt": "2024-11-11T22:00:10+00:00"
 }

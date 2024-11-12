@@ -26,7 +26,7 @@
     "en": "Blue Box"
    },
    "contentRating": "safe",
-   "score": 0.24232765,
+   "score": 0.24235938,
    "languages": [
     "vi",
     "es-la",
@@ -48,28 +48,12 @@
    ]
   },
   {
-   "id": "e9dc373b-314c-44ff-9428-ae63319ae86b",
-   "title": {
-    "en": "Toradora!"
-   },
-   "contentRating": "safe",
-   "score": 0.23942918,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr",
-    "es",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
    "id": "7cb01d3b-3633-4286-b357-1d7691313a07",
    "title": {
     "en": "A Silent Voice Special Movie Book"
    },
    "contentRating": "safe",
-   "score": 0.23829602,
+   "score": 0.23955563,
    "languages": [
     "en",
     "fr",
@@ -81,16 +65,43 @@
    ]
   },
   {
+   "id": "e9dc373b-314c-44ff-9428-ae63319ae86b",
+   "title": {
+    "en": "Toradora!"
+   },
+   "contentRating": "safe",
+   "score": 0.23943461,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr",
+    "es",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
    "id": "d4dfdb52-ecb4-4f1b-9978-980ac8b2cff3",
    "title": {
     "en": "One Week Friends Afterwards"
    },
    "contentRating": "safe",
-   "score": 0.23393565,
+   "score": 0.23393774,
    "languages": [
     "en",
     "es-la",
     "pt-br"
+   ]
+  },
+  {
+   "id": "9259da7a-d9e1-4dfb-bb93-a2c0c0ce83c3",
+   "title": {
+    "en": "Twisted Positions Do Not Intersect"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -119,14 +130,18 @@
    ]
   },
   {
-   "id": "9259da7a-d9e1-4dfb-bb93-a2c0c0ce83c3",
+   "id": "50491535-8d93-4f37-a885-14441766bd43",
    "title": {
-    "en": "Twisted Positions Do Not Intersect"
+    "en": "Takou no Koori Hime wo Tasuketara, Otomodachi kara Hajimeru Koto ni Narimashita"
    },
    "contentRating": "safe",
    "score": 0.22980437,
    "languages": [
-    "en"
+    "en",
+    "id",
+    "es-la",
+    "pt-br",
+    "vi"
    ]
   },
   {
@@ -150,27 +165,12 @@
    ]
   },
   {
-   "id": "50491535-8d93-4f37-a885-14441766bd43",
-   "title": {
-    "en": "Takou no Koori Hime wo Tasuketara, Otomodachi kara Hajimeru Koto ni Narimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en",
-    "id",
-    "es-la",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
    "id": "90513ab7-1a0e-4ffe-ae90-05fbaca44d7c",
    "title": {
     "en": "Hoshi no Alien ni Doryokushou wo."
    },
    "contentRating": "safe",
-   "score": 0.22900373,
+   "score": 0.2289999,
    "languages": [
     "fr",
     "en"
@@ -182,21 +182,10 @@
     "en": "Juu-gatsu no Hanabi"
    },
    "contentRating": "safe",
-   "score": 0.22890522,
+   "score": 0.22889444,
    "languages": [
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "2b2a94ff-92af-4791-9d88-c90b90296fed",
-   "title": {
-    "en": "TheLastPierrot"
-   },
-   "contentRating": "safe",
-   "score": 0.22552921,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -214,6 +203,17 @@
    ]
   },
   {
+   "id": "2b2a94ff-92af-4791-9d88-c90b90296fed",
+   "title": {
+    "en": "TheLastPierrot"
+   },
+   "contentRating": "safe",
+   "score": 0.22552921,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "21257695-df39-49a5-b952-d05a152879f5",
    "title": {
     "en": "Steel Septum"
@@ -225,21 +225,17 @@
    ]
   },
   {
-   "id": "75984e50-fe37-4803-962e-eed2c7f39ea9",
+   "id": "ac2c3e48-b7ef-4a58-9a14-42d7f9adfe18",
    "title": {
-    "en": "Bless"
+    "en": "Gotou-san wa Furimukasetai! (Pre-serialization)"
    },
    "contentRating": "safe",
    "score": 0.22506468,
    "languages": [
-    "uk",
     "fr",
-    "pt-br",
-    "en",
-    "vi",
-    "es-la"
+    "en"
    ]
   }
  ],
- "updatedAt": "2024-11-09T20:19:58+00:00"
+ "updatedAt": "2024-11-11T20:44:33+00:00"
 }

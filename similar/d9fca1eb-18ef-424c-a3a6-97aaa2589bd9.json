@@ -6,20 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c356869a-72ea-4e15-aeef-d383874b9a28",
-   "title": {
-    "en": "Fairytale Little Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.380517
-  },
-  {
    "id": "db887307-a729-4729-ae57-86083f06c22d",
    "title": {
     "en": "Futari wa Pretty Cure Max Heart 2: Yukizora no Tomodachi"
    },
    "contentRating": "safe",
-   "score": 0.33900118
+   "score": 0.32738256
   },
   {
    "id": "ae25b9b3-0293-4f37-b5ac-b5e00bbb79cb",
@@ -27,7 +19,7 @@
     "en": "Futari wa Pretty Cure Splash Star: Tick Tack Kiki Ippatsu!"
    },
    "contentRating": "safe",
-   "score": 0.3188804
+   "score": 0.30402505
   },
   {
    "id": "a873f33b-b3b2-41a5-ac36-db2ea371fb11",
@@ -35,7 +27,15 @@
     "en": "Futari wa Pretty Cure Max Heart: The Movie"
    },
    "contentRating": "safe",
-   "score": 0.3075437
+   "score": 0.29551327
+  },
+  {
+   "id": "c356869a-72ea-4e15-aeef-d383874b9a28",
+   "title": {
+    "en": "Fairytale Little Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.2944874
   },
   {
    "id": "88aa65c8-bb3a-4104-832d-f3c8b6f93f83",
@@ -43,7 +43,7 @@
     "en": "Witch Hand Craft: Tsuihousareta Oujo desu ga Zakkaya-san Hajimemashita"
    },
    "contentRating": "safe",
-   "score": 0.26571378
+   "score": 0.25746888
   },
   {
    "id": "afd3f386-6aa8-49a3-9a97-e7ad98af445c",
@@ -51,19 +51,7 @@
     "en": "Houkago Shinshi Kurabu"
    },
    "contentRating": "safe",
-   "score": 0.2523097
-  },
-  {
-   "id": "4be1a897-d03d-46ce-9860-7af22d434c30",
-   "title": {
-    "en": "Ouji to Majou to Himegimi to"
-   },
-   "contentRating": "safe",
-   "score": 0.2483572,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
+   "score": 0.2483777
   },
   {
    "id": "f755d00d-568c-4e18-8561-91be83867cee",
@@ -71,29 +59,7 @@
     "en": "Princess Anmitsu"
    },
    "contentRating": "safe",
-   "score": 0.24699488
-  },
-  {
-   "id": "07f88c39-5c73-49ca-b406-f63136441963",
-   "title": {
-    "en": "For the Mermaid Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.24530835,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "29ac9f00-6c16-40b1-b0e4-28610436e461",
-   "title": {
-    "en": "Dankira!!! Adrenaline Burst"
-   },
-   "contentRating": "safe",
-   "score": 0.24524717,
-   "languages": [
-    "en"
-   ]
+   "score": 0.24389401
   },
   {
    "id": "979997f6-dee6-4ff5-a580-ab390ac9fdc0",
@@ -101,19 +67,22 @@
     "en": "Kizoku kara Shomin ni Natta no de, Kon'yaku o Kaishou Saremashita!"
    },
    "contentRating": "safe",
-   "score": 0.24454631,
+   "score": 0.2411214,
    "languages": [
     "en",
     "id"
    ]
   },
   {
-   "id": "029f1c2e-5430-4294-887a-91b7922daab5",
+   "id": "07f88c39-5c73-49ca-b406-f63136441963",
    "title": {
-    "en": "Yumeyume, Koisuru Koto Nakare"
+    "en": "For the Mermaid Princess"
    },
    "contentRating": "safe",
-   "score": 0.24195729
+   "score": 0.23993443,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "f262be92-095a-4ad6-932e-e88f6d694001",
@@ -124,12 +93,31 @@
    "score": 0.23567893
   },
   {
+   "id": "29ac9f00-6c16-40b1-b0e4-28610436e461",
+   "title": {
+    "en": "Dankira!!! Adrenaline Burst"
+   },
+   "contentRating": "safe",
+   "score": 0.23567893,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "029f1c2e-5430-4294-887a-91b7922daab5",
+   "title": {
+    "en": "Yumeyume, Koisuru Koto Nakare"
+   },
+   "contentRating": "safe",
+   "score": 0.23489763
+  },
+  {
    "id": "b308f15d-6efb-4ce4-ae25-026a3fa1796d",
    "title": {
     "en": "Kaishin no Ichigeki!"
    },
    "contentRating": "safe",
-   "score": 0.23476526,
+   "score": 0.23270078,
    "languages": [
     "es-la",
     "en",
@@ -137,12 +125,16 @@
    ]
   },
   {
-   "id": "f361b519-5fbc-4e58-9ce0-db6e4aae8b7c",
+   "id": "4be1a897-d03d-46ce-9860-7af22d434c30",
    "title": {
-    "en": "Hinekure Kishi to Fuwafuwa Himesama: Kojougurashi to Chiisana Ouchi"
+    "en": "Ouji to Majou to Himegimi to"
    },
    "contentRating": "safe",
-   "score": 0.23369096
+   "score": 0.23182574,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   },
   {
    "id": "0f822a09-6552-4449-ae4a-3dd22457a23f",
@@ -150,8 +142,16 @@
     "en": "Kakan no Oukoku no Hanagirai Hime"
    },
    "contentRating": "safe",
-   "score": 0.2323579
+   "score": 0.2270756
+  },
+  {
+   "id": "f361b519-5fbc-4e58-9ce0-db6e4aae8b7c",
+   "title": {
+    "en": "Hinekure Kishi to Fuwafuwa Himesama: Kojougurashi to Chiisana Ouchi"
+   },
+   "contentRating": "safe",
+   "score": 0.22572766
   }
  ],
- "updatedAt": "2024-11-09T21:15:52+00:00"
+ "updatedAt": "2024-11-11T21:58:08+00:00"
 }

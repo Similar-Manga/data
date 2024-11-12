@@ -6,18 +6,36 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "ad9900fc-97d7-4d5a-8126-1f3a653a461a",
+   "id": "45b8d08e-b3ca-4aa7-bb14-120a1ed3c72f",
    "title": {
-    "en": "Josou Danshi wa Skirt wo Nugitai!"
+    "en": "Wakaba-chan wa Wakarasetai!"
    },
    "contentRating": "safe",
-   "score": 0.3163566,
+   "score": 0.30824077,
    "languages": [
     "vi",
+    "en",
+    "ru",
     "es-la",
     "id",
-    "en"
+    "pt-br"
    ]
+  },
+  {
+   "id": "a4fa13e2-3bc1-47c5-b6cd-e3cd86b6ab79",
+   "title": {
+    "en": "Koi wa Nintai"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "13230a3b-da64-4439-8ef1-2ae3482f70c2",
+   "title": {
+    "en": "Ikinari Neko Kick"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
   },
   {
    "id": "49c047a5-b5bc-4133-a61b-7598f1fd19b6",
@@ -25,7 +43,7 @@
     "en": "Katsura's Wig of the Day"
    },
    "contentRating": "safe",
-   "score": 0.31139937,
+   "score": 0.2857143,
    "languages": [
     "en",
     "es-la",
@@ -33,47 +51,20 @@
    ]
   },
   {
-   "id": "45b8d08e-b3ca-4aa7-bb14-120a1ed3c72f",
+   "id": "014cce99-dc70-4684-b431-f623754452fd",
    "title": {
-    "en": "Wakaba-chan wa Wakarasetai!"
+    "en": "Kokage-chan wa Koi no Noroi ni Maketakunai"
    },
    "contentRating": "safe",
-   "score": 0.3099932,
-   "languages": [
-    "vi",
-    "en",
-    "ru",
-    "es-la",
-    "id",
-    "pt-br"
-   ]
+   "score": 0.2857143
   },
   {
-   "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
+   "id": "2942280a-db68-4d62-9e08-34d145cb0701",
    "title": {
-    "ja-ro": "Houkago Kitaku Biyori"
+    "en": "Chuugakusei Nikki"
    },
    "contentRating": "safe",
-   "score": 0.2959939,
-   "languages": [
-    "es-la",
-    "vi",
-    "en",
-    "ru",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "c379ed57-5b8a-4096-9287-9b8ed07785ad",
-   "title": {
-    "en": "Yoka-san ga Nameru"
-   },
-   "contentRating": "safe",
-   "score": 0.287156,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2857143
   },
   {
    "id": "b34220a4-ae89-4f53-b3b8-f6edd86b1292",
@@ -88,30 +79,6 @@
    ]
   },
   {
-   "id": "014cce99-dc70-4684-b431-f623754452fd",
-   "title": {
-    "en": "Kokage-chan wa Koi no Noroi ni Maketakunai"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "a4fa13e2-3bc1-47c5-b6cd-e3cd86b6ab79",
-   "title": {
-    "en": "Koi wa Nintai"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "2942280a-db68-4d62-9e08-34d145cb0701",
-   "title": {
-    "en": "Chuugakusei Nikki"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "f8e143d8-2c14-4efd-b92a-3170062003a6",
    "title": {
     "en": "LovePlus - Nene Days"
@@ -123,12 +90,45 @@
    ]
   },
   {
-   "id": "13230a3b-da64-4439-8ef1-2ae3482f70c2",
+   "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
    "title": {
-    "en": "Ikinari Neko Kick"
+    "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.2818364,
+   "languages": [
+    "es-la",
+    "vi",
+    "en",
+    "ru",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ad9900fc-97d7-4d5a-8126-1f3a653a461a",
+   "title": {
+    "en": "Josou Danshi wa Skirt wo Nugitai!"
+   },
+   "contentRating": "safe",
+   "score": 0.27697954,
+   "languages": [
+    "vi",
+    "es-la",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "c379ed57-5b8a-4096-9287-9b8ed07785ad",
+   "title": {
+    "en": "Yoka-san ga Nameru"
+   },
+   "contentRating": "safe",
+   "score": 0.2719615,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "979753be-1a3f-49c1-8836-ba218a4f8d96",
@@ -136,23 +136,37 @@
     "en": "Uso kara Deta Makoto"
    },
    "contentRating": "safe",
-   "score": 0.27967694
+   "score": 0.26358175
   },
   {
-   "id": "1bad66ee-4857-433e-a075-704d93672341",
+   "id": "6cc0f7c2-0db6-432b-8189-fcedbcdda888",
    "title": {
-    "en": "Boku dake ga Shitterun Daze"
+    "en": "Hitomi-chan Is Shy With Strangers"
    },
    "contentRating": "safe",
-   "score": 0.27198678
+   "score": 0.25883943,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "fr",
+    "ru",
+    "ar",
+    "id",
+    "hi",
+    "vi"
+   ]
   },
   {
-   "id": "358f92cf-4064-4683-85de-fff1aec7cbe9",
+   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
    "title": {
-    "en": "Danshi Koukousei to Fureau Houhou"
+    "en": "Tenshi-chan to Akuma-kun"
    },
    "contentRating": "safe",
-   "score": 0.27176765
+   "score": 0.25763398,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "348966d0-c807-45cf-9260-8adf006a9da6",
@@ -160,7 +174,7 @@
     "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
    },
    "contentRating": "safe",
-   "score": 0.26991493,
+   "score": 0.25697494,
    "languages": [
     "th",
     "ru",
@@ -178,12 +192,12 @@
     "en": "Kamisama Kazoku"
    },
    "contentRating": "safe",
-   "score": 0.26656803,
+   "score": 0.25574324,
    "languages": [
     "en",
     "pt-br"
    ]
   }
  ],
- "updatedAt": "2024-11-09T20:35:46+00:00"
+ "updatedAt": "2024-11-11T21:05:18+00:00"
 }

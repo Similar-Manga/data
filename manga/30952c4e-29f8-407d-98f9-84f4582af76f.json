@@ -38,8 +38,32 @@
    "en",
    "es-la"
   ],
-  "latestUploadedChapter": "fe4a52a2-573d-4677-a234-d2ae010c7fe7",
+  "latestUploadedChapter": "8a6b348f-11c0-4588-8949-0fe80839da77",
   "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
@@ -90,9 +114,9 @@
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 13,
   "createdAt": "2023-06-20T03:38:55+00:00",
-  "updatedAt": "2024-10-07T23:01:39+00:00"
+  "updatedAt": "2024-11-09T07:04:15+00:00"
  },
  "relationships": [
   {

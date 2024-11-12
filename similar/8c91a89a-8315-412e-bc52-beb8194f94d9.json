@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
+   "title": {
+    "en": "Coffee \u0026 Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.2485624,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
    "title": {
     "en": "Shuumatsu no Valkyrie"
    },
    "contentRating": "safe",
-   "score": 0.21559416,
+   "score": 0.22127318,
    "languages": [
     "zh-hk",
     "en",
@@ -32,24 +44,12 @@
    ]
   },
   {
-   "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
-   "title": {
-    "en": "Coffee \u0026 Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.21161544,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
    "title": {
     "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.20176984,
+   "score": 0.21052633,
    "languages": [
     "es-la",
     "en",
@@ -65,27 +65,27 @@
    ]
   },
   {
-   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
-   "title": {
-    "en": "Asadora!"
-   },
-   "contentRating": "safe",
-   "score": 0.19361196,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "1edab9a2-41b0-4873-a3cc-7aa0b68db194",
    "title": {
     "en": "The Judgement Day - Fist of the North Star: Ryuken Gaiden"
    },
    "contentRating": "safe",
-   "score": 0.19273467,
+   "score": 0.20087238,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
+   "title": {
+    "en": "Asadora!"
+   },
+   "contentRating": "safe",
+   "score": 0.19630118,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -95,6 +95,28 @@
    },
    "contentRating": "safe",
    "score": 0.18700619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
+   "title": {
+    "en": "Black Humor Short Story Collection"
+   },
+   "contentRating": "safe",
+   "score": 0.18649577,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
+   "title": {
+    "en": "The Darwin Incident"
+   },
+   "contentRating": "safe",
+   "score": 0.18128783,
    "languages": [
     "en"
    ]
@@ -110,28 +132,6 @@
     "zh-hk",
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
-   "title": {
-    "en": "The Darwin Incident"
-   },
-   "contentRating": "safe",
-   "score": 0.17663625,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
-   "title": {
-    "en": "Black Humor Short Story Collection"
-   },
-   "contentRating": "safe",
-   "score": 0.17506386,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -157,13 +157,14 @@
    ]
   },
   {
-   "id": "535319ca-4ac9-417b-a8e0-0b6b569e89da",
+   "id": "3cf05515-d2d4-4fd9-8781-d54b7ba6a3a3",
    "title": {
-    "en": "Hyoukaku no Meteoria"
+    "en": "S. Flight"
    },
    "contentRating": "safe",
-   "score": 0.16915059,
+   "score": 0.17323436,
    "languages": [
+    "zh",
     "en"
    ]
   },
@@ -173,10 +174,21 @@
     "en": "Pineapple Army"
    },
    "contentRating": "safe",
-   "score": 0.1688768,
+   "score": 0.17181385,
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "9830e7b1-2736-4b31-a4de-b2166be500e8",
+   "title": {
+    "en": "Good Weather"
+   },
+   "contentRating": "safe",
+   "score": 0.1701714,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -191,41 +203,20 @@
    ]
   },
   {
-   "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
+   "id": "4ffdd63e-4e7e-412b-ac64-71c1f3b41a2f",
    "title": {
-    "en": "Kingdom"
+    "en": "Shojo Manga"
    },
    "contentRating": "safe",
-   "score": 0.16693416,
+   "score": 0.16766888,
    "languages": [
-    "en",
     "it",
-    "vi",
-    "ar",
-    "ru",
-    "uk",
-    "es",
-    "pt-br",
-    "pl",
-    "es-la",
     "tr",
-    "ro",
-    "id",
-    "de",
+    "pt-br",
+    "en",
     "fr"
-   ]
-  },
-  {
-   "id": "7a4ff526-0aea-432b-872c-863493525ddf",
-   "title": {
-    "en": "Hero Company"
-   },
-   "contentRating": "safe",
-   "score": 0.16547938,
-   "languages": [
-    "en"
    ]
   }
  ],
- "updatedAt": "2024-11-09T20:49:21+00:00"
+ "updatedAt": "2024-11-11T21:23:13+00:00"
 }

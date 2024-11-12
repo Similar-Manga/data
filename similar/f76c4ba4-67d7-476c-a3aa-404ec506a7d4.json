@@ -6,20 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1bad66ee-4857-433e-a075-704d93672341",
-   "title": {
-    "en": "Boku dake ga Shitterun Daze"
-   },
-   "contentRating": "safe",
-   "score": 0.2755422
-  },
-  {
    "id": "47e29ecf-b00b-483d-b922-5059f993dc90",
    "title": {
     "en": "Hana Nusubito wa Shounen no Uchi"
    },
    "contentRating": "safe",
-   "score": 0.27496403
+   "score": 0.27496606
   },
   {
    "id": "348966d0-c807-45cf-9260-8adf006a9da6",
@@ -27,7 +19,7 @@
     "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
    },
    "contentRating": "safe",
-   "score": 0.271519,
+   "score": 0.27151287,
    "languages": [
     "th",
     "ru",
@@ -45,7 +37,7 @@
     "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.26934958,
+   "score": 0.26934466,
    "languages": [
     "vi",
     "en",
@@ -55,12 +47,20 @@
    ]
   },
   {
+   "id": "de97e4ea-3f52-4d7f-a850-c826f6fe747c",
+   "title": {
+    "en": "Tonari ni Koakuma-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.2691965
+  },
+  {
    "id": "cfb5f5ae-8ee6-488f-8b59-257957297108",
    "title": {
     "en": "Kyoushitsu no Archaic Smile"
    },
    "contentRating": "safe",
-   "score": 0.26668346
+   "score": 0.26668432
   },
   {
    "id": "39a038c6-9699-44fb-9e8a-5cb12fb4a748",
@@ -68,24 +68,33 @@
     "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
    },
    "contentRating": "safe",
-   "score": 0.2664625,
+   "score": 0.26645857,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
+   "id": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
    "title": {
-    "en": "Kimi no Love o Misetekure!"
+    "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "vi",
+    "id",
     "pt-br",
-    "ru",
-    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
+   "title": {
+    "en": "Tenshi-chan to Akuma-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
     "en"
    ]
   },
@@ -106,35 +115,47 @@
    ]
   },
   {
-   "id": "a2f14ca0-1fad-4198-95cf-d5bfa053238b",
+   "id": "ee845b1a-b1cd-4fb3-ade2-0030890f7c2a",
    "title": {
-    "en": "Nemuro-kun wa Kao ga Ii!"
+    "en": "Mizuki-senpai's Love Fortune-Telling"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "en",
+    "id",
     "es-la",
-    "id"
+    "en",
+    "pt-br",
+    "it",
+    "vi",
+    "ru"
    ]
   },
   {
-   "id": "860abf94-5bd3-48a1-a234-7e6821775663",
+   "id": "d2dd1aa8-bd61-4b91-a429-99d0295e53af",
    "title": {
-    "en": "Yamato Nadeshiko wa Kujikenai."
+    "en": "A-Channel Anthology Comic"
    },
    "contentRating": "safe",
    "score": 0.2569291
   },
   {
-   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
+   "id": "6cc0f7c2-0db6-432b-8189-fcedbcdda888",
    "title": {
-    "en": "Tenshi-chan to Akuma-kun"
+    "en": "Hitomi-chan Is Shy With Strangers"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "es-la",
+    "fr",
+    "ru",
+    "ar",
+    "id",
+    "hi",
+    "vi"
    ]
   },
   {
@@ -163,32 +184,35 @@
    ]
   },
   {
-   "id": "de97e4ea-3f52-4d7f-a850-c826f6fe747c",
+   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
    "title": {
-    "en": "Tonari ni Koakuma-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291
-  },
-  {
-   "id": "d2dd1aa8-bd61-4b91-a429-99d0295e53af",
-   "title": {
-    "en": "A-Channel Anthology Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291
-  },
-  {
-   "id": "c98e66b6-1957-4f5e-bb38-3a023e96c6b0",
-   "title": {
-    "en": "K-ON! Story Anthology Comic"
+    "en": "Skip and Loafer"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "en"
+    "pt-br",
+    "uk",
+    "en",
+    "vi",
+    "es-la",
+    "ru",
+    "tl"
+   ]
+  },
+  {
+   "id": "a2f14ca0-1fad-4198-95cf-d5bfa053238b",
+   "title": {
+    "en": "Nemuro-kun wa Kao ga Ii!"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "es-la",
+    "id"
    ]
   }
  ],
- "updatedAt": "2024-11-09T21:25:51+00:00"
+ "updatedAt": "2024-11-11T22:10:43+00:00"
 }

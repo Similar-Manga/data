@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "83beb81f-22a4-4fd9-9dc5-1d3e52ad7bef",
-   "title": {
-    "en": "ReMember"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "0512e2a1-a241-42ab-ab19-24f092a769e4",
    "title": {
     "en": "Tokyo Duel"
@@ -28,6 +16,18 @@
     "en",
     "vi",
     "pt-br"
+   ]
+  },
+  {
+   "id": "83beb81f-22a4-4fd9-9dc5-1d3e52ad7bef",
+   "title": {
+    "en": "ReMember"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -49,7 +49,7 @@
     "en": "Placebo"
    },
    "contentRating": "safe",
-   "score": 0.17564982,
+   "score": 0.17565066,
    "languages": [
     "en"
    ]
@@ -60,7 +60,18 @@
     "en": "ABLE"
    },
    "contentRating": "safe",
-   "score": 0.17376387,
+   "score": 0.1737622,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f631e43f-d306-4b4d-9deb-185652bca70d",
+   "title": {
+    "en": "Kuudanshi"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
    "languages": [
     "en"
    ]
@@ -69,29 +80,6 @@
    "id": "ecc1f245-9667-461b-9a96-df6f000f4984",
    "title": {
     "en": "Shinsengumi Jingishou Asagi"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "944f5727-7917-4d47-8c9c-654dcf535acb",
-   "title": {
-    "en": "Tough Gaiden - The Man Who Succeeds the Dragon"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "f631e43f-d306-4b4d-9deb-185652bca70d",
-   "title": {
-    "en": "Kuudanshi"
    },
    "contentRating": "safe",
    "score": 0.16495723,
@@ -114,9 +102,9 @@
    ]
   },
   {
-   "id": "7d0c9a8d-19f4-401c-b296-5d882c056b96",
+   "id": "9002b2bd-feac-44b2-b118-ddac0e7dcaad",
    "title": {
-    "en": "Urthotics"
+    "en": "Cestvs Series II: Legend of Desperate Struggle"
    },
    "contentRating": "safe",
    "score": 0.16495723,
@@ -125,9 +113,21 @@
    ]
   },
   {
-   "id": "9002b2bd-feac-44b2-b118-ddac0e7dcaad",
+   "id": "944f5727-7917-4d47-8c9c-654dcf535acb",
    "title": {
-    "en": "Cestvs Series II: Legend of Desperate Struggle"
+    "en": "Tough Gaiden - The Man Who Succeeds the Dragon"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "7d0c9a8d-19f4-401c-b296-5d882c056b96",
+   "title": {
+    "en": "Urthotics"
    },
    "contentRating": "safe",
    "score": 0.16495723,
@@ -141,7 +141,7 @@
     "en": "Duelant"
    },
    "contentRating": "safe",
-   "score": 0.16265246,
+   "score": 0.16265123,
    "languages": [
     "en"
    ]
@@ -152,10 +152,21 @@
     "en": "Bigger Hunter"
    },
    "contentRating": "safe",
-   "score": 0.15059006,
+   "score": 0.15058933,
    "languages": [
     "pl",
     "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "f1a28618-ecff-45df-aa6a-e57906616a24",
+   "title": {
+    "en": "Saber Cats"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
     "en"
    ]
   },
@@ -172,17 +183,6 @@
     "ru",
     "es-la",
     "fr"
-   ]
-  },
-  {
-   "id": "f1a28618-ecff-45df-aa6a-e57906616a24",
-   "title": {
-    "en": "Saber Cats"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -205,5 +205,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-09T20:36:12+00:00"
+ "updatedAt": "2024-11-11T21:05:51+00:00"
 }

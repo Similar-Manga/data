@@ -1,0 +1,172 @@
+{
+ "id": "550c2ac8-dce7-4820-a216-e70183405aa1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Witch Craft Works Extra"
+  },
+  "altTitles": [
+   {
+    "ja": "ウィッチクラフトワークス EXTRA"
+   }
+  ],
+  "description": {
+   "ja": "祝「ウィッチクラフトワークス」完結！…でも、その後の多華宮君と火々里さん、霞ちゃんの行く末、KMM団の未来、理事長の真の敵、語られなかった歴史…いろいろ気になる事はありませんか？残された物語を、ここで全部見せちゃいます！"
+  },
+  "links": {
+   "al": "159522",
+   "amz": "https://www.amazon.co.jp/dp/B0BVBZB1RX",
+   "bw": "series/397968",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/744477/",
+   "mu": "4u4e747",
+   "raw": "https://comic-days.com/volume/4855956445066440505"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-11T15:21:50+00:00",
+  "updatedAt": "2024-11-11T15:22:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "24721ec4-ed39-4527-9207-9bff7664c098",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizunagi Ryuu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "24721ec4-ed39-4527-9207-9bff7664c098",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizunagi Ryuu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "805f75cf-74ed-42ee-b02c-5fca6e02ca52",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-11T15:22:00+00:00",
+    "description": "",
+    "fileName": "2038d138-ee26-49d1-9080-766b93cebe7f.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-11T15:22:00+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "34f72e29-1bda-40df-ae93-0e1c32d96ea6",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

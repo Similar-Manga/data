@@ -11,7 +11,7 @@
     "en": "Blue Lock (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.29018903,
+   "score": 0.29011196,
    "languages": [
     "en"
    ]
@@ -22,10 +22,33 @@
     "en": "MINOR"
    },
    "contentRating": "safe",
-   "score": 0.25723028,
+   "score": 0.2572258,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "bbb6d2c1-05ee-4588-8525-befabef12b14",
+   "title": {
+    "en": "Kuromori Climb"
+   },
+   "contentRating": "safe",
+   "score": 0.24160752,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5bf388dc-2738-4665-82d2-3924fb87d7c7",
+   "title": {
+    "en": "Watch the Repair"
+   },
+   "contentRating": "safe",
+   "score": 0.24160752,
+   "languages": [
+    "fr",
+    "en"
    ]
   },
   {
@@ -38,19 +61,6 @@
    "languages": [
     "pt-br",
     "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "67bfd1a8-1492-4a05-b169-45f6d4de6e7a",
-   "title": {
-    "en": "Hajime no Ippo Gaiden - Naniwa no Tora"
-   },
-   "contentRating": "safe",
-   "score": 0.24160752,
-   "languages": [
-    "de",
-    "pl",
     "en"
    ]
   },
@@ -68,25 +78,15 @@
    ]
   },
   {
-   "id": "5bf388dc-2738-4665-82d2-3924fb87d7c7",
+   "id": "67bfd1a8-1492-4a05-b169-45f6d4de6e7a",
    "title": {
-    "en": "Watch the Repair"
+    "en": "Hajime no Ippo Gaiden - Naniwa no Tora"
    },
    "contentRating": "safe",
    "score": 0.24160752,
    "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "bbb6d2c1-05ee-4588-8525-befabef12b14",
-   "title": {
-    "en": "Kuromori Climb"
-   },
-   "contentRating": "safe",
-   "score": 0.24160752,
-   "languages": [
+    "de",
+    "pl",
     "en"
    ]
   },
@@ -96,7 +96,7 @@
     "en": "Blue Box (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.22374748,
+   "score": 0.22376578,
    "languages": [
     "en",
     "es-la",
@@ -120,42 +120,6 @@
    ]
   },
   {
-   "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
-   "title": {
-    "en": "Karakuri"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br",
-    "it"
-   ]
-  },
-  {
-   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
-   "title": {
-    "en": "Ryuudan Shounen"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
-   "title": {
-    "en": "Chou Kasoku Ningen Leo"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d3b647a4-6b90-4b37-99a1-936f38cd3586",
    "title": {
     "en": "レンタルキラー"
@@ -164,19 +128,6 @@
    "score": 0.21140657,
    "languages": [
     "pt-br"
-   ]
-  },
-  {
-   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
-   "title": {
-    "en": "Minds"
-   },
-   "contentRating": "safe",
-   "score": 0.21140657,
-   "languages": [
-    "en",
-    "tr",
-    "pl"
    ]
   },
   {
@@ -193,16 +144,65 @@
    ]
   },
   {
-   "id": "527c7683-8bb9-4d6c-9cb1-9e772a90e30c",
+   "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
    "title": {
-    "en": "Skyaway's"
+    "en": "Karakuri"
    },
    "contentRating": "safe",
-   "score": 0.20052,
+   "score": 0.21140657,
+   "languages": [
+    "en",
+    "pl",
+    "pt-br",
+    "it"
+   ]
+  },
+  {
+   "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
+   "title": {
+    "en": "Chou Kasoku Ningen Leo"
+   },
+   "contentRating": "safe",
+   "score": 0.21140657,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "006a499e-cb23-42eb-bb60-d6ad8b4bd427",
+   "title": {
+    "en": "Ryuudan Shounen"
+   },
+   "contentRating": "safe",
+   "score": 0.21140657,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
+   "title": {
+    "en": "Minds"
+   },
+   "contentRating": "safe",
+   "score": 0.21140657,
+   "languages": [
+    "en",
+    "tr",
+    "pl"
+   ]
+  },
+  {
+   "id": "70d764c4-3d47-46b6-ba47-85f19a9083a5",
+   "title": {
+    "en": "Kiru Aoharu"
+   },
+   "contentRating": "safe",
+   "score": 0.20053281,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-09T20:22:00+00:00"
+ "updatedAt": "2024-11-11T20:47:14+00:00"
 }

@@ -1,0 +1,170 @@
+{
+ "id": "cbd63d05-cf6f-4f54-a30c-61146a1ef8fe",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Playful Mounting"
+  },
+  "altTitles": [
+   {
+    "ja": "たわむれマウンティング"
+   },
+   {
+    "ja-ro": "Tawamure Mounting"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/en/artworks/124146239"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "bed422ef-9306-4578-b6de-6b1813315b39",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-11-10T01:59:35+00:00",
+  "updatedAt": "2024-11-10T09:29:29+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8c24f0b6-f56a-4363-b8fb-e8a499320b9b",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Alternative Names: 綿桐 さや "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Watagiri Saya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/17826",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sayamendo",
+    "updatedAt": "2022-05-23T11:45:09+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8c24f0b6-f56a-4363-b8fb-e8a499320b9b",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Alternative Names: 綿桐 さや "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Watagiri Saya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/17826",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sayamendo",
+    "updatedAt": "2022-05-23T11:45:09+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "11fc687f-2487-42f7-89f7-2bd2666d9dae",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-10T02:17:13+00:00",
+    "description": "",
+    "fileName": "ee9fec62-5293-4363-9665-b15c5ca083d3.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-10T02:17:13+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4daa4c08-3e2d-45af-a1be-f8d5e9f40f5d",
+   "type": "creator"
+  }
+ ]
+}

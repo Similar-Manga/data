@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.2996835,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "f82f14d8-4758-4ca4-809e-ac655f2d4a0e",
    "title": {
     "en": "Dragon Quest: Sora in the Blue Sky"
    },
    "contentRating": "safe",
-   "score": 0.2817007,
+   "score": 0.28170463,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
+   "title": {
+    "en": "Lion Books"
+   },
+   "contentRating": "safe",
+   "score": 0.26534975,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Alice in Osamuland"
    },
    "contentRating": "safe",
-   "score": 0.24280617
+   "score": 0.24279945
   },
   {
    "id": "e0456e4f-e428-4509-90c7-141e69a211b3",
@@ -41,7 +41,7 @@
     "en": "Axe-Swinging Elf and Bow-Drawing Dwarf"
    },
    "contentRating": "safe",
-   "score": 0.23932505,
+   "score": 0.23932777,
    "languages": [
     "en"
    ]
@@ -52,7 +52,7 @@
     "en": "Cyfandir Chronicles"
    },
    "contentRating": "safe",
-   "score": 0.23790166,
+   "score": 0.23788095,
    "languages": [
     "en"
    ]
@@ -63,15 +63,7 @@
     "en": "Higashi no Mori no Majo no Niwa"
    },
    "contentRating": "safe",
-   "score": 0.23698494
-  },
-  {
-   "id": "f1cde0bc-d407-4c8e-97ae-c0b0b15ea17f",
-   "title": {
-    "en": "Elf Otto to Dwarf Yome (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.23548435
+   "score": 0.23696259
   },
   {
    "id": "8d1a4a97-26f5-4bcd-a41c-398048ba29d0",
@@ -79,7 +71,7 @@
     "en": "Accidental Warrior"
    },
    "contentRating": "safe",
-   "score": 0.23377004,
+   "score": 0.2337548,
    "languages": [
     "en",
     "pl"
@@ -91,7 +83,7 @@
     "en": "The Hyrule Fantasy (Famicom RPG Book)"
    },
    "contentRating": "safe",
-   "score": 0.23009951,
+   "score": 0.23010333,
    "languages": [
     "en"
    ]
@@ -102,7 +94,7 @@
     "en": "Majo to Majuu"
    },
    "contentRating": "safe",
-   "score": 0.22980188
+   "score": 0.22977996
   },
   {
    "id": "a0f07593-c72d-4a6a-888e-e455c25406f5",
@@ -110,7 +102,10 @@
     "en": "Dragon Quest VI - Land of Illusion"
    },
    "contentRating": "safe",
-   "score": 0.22928156
+   "score": 0.22928919,
+   "languages": [
+    "vi"
+   ]
   },
   {
    "id": "7a34b48c-7932-4f40-9b8c-99682f59e550",
@@ -118,7 +113,7 @@
     "en": "Buna no Mori no Aria"
    },
    "contentRating": "safe",
-   "score": 0.22861871,
+   "score": 0.2285983,
    "languages": [
     "en",
     "pt-br",
@@ -127,23 +122,12 @@
    ]
   },
   {
-   "id": "36014191-132e-46ad-ba20-a3ccf9487d5c",
-   "title": {
-    "en": "Valkyrie Profile 2"
-   },
-   "contentRating": "safe",
-   "score": 0.22459212,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "98017a70-5580-40fb-9d69-69e377325484",
    "title": {
     "en": "Kono Sekai no Kouryakuhon wo Hirotte Shimaimashita"
    },
    "contentRating": "safe",
-   "score": 0.22227673,
+   "score": 0.22227147,
    "languages": [
     "ar",
     "id",
@@ -156,7 +140,27 @@
     "en": "Hengen no Hanko"
    },
    "contentRating": "safe",
-   "score": 0.22225966
+   "score": 0.2222615
+  },
+  {
+   "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
+   "title": {
+    "en": "Dr. Thrill"
+   },
+   "contentRating": "safe",
+   "score": 0.22123516
+  },
+  {
+   "id": "233df7db-db3e-4133-9d69-44f381f77a8c",
+   "title": {
+    "en": "Ge Ge Ge no Kitaro"
+   },
+   "contentRating": "safe",
+   "score": 0.22109224,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   },
   {
    "id": "8d81259a-6dfd-4881-8796-ea5577417d43",
@@ -164,11 +168,11 @@
     "en": "Shukufuku no Kuro to Hametsu no Shiro - Dragon Knights II"
    },
    "contentRating": "safe",
-   "score": 0.2181206,
+   "score": 0.21812782,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-09T20:31:35+00:00"
+ "updatedAt": "2024-11-11T20:59:51+00:00"
 }

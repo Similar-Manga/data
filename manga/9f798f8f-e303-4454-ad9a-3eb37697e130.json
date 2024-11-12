@@ -27,6 +27,18 @@
   "contentRating": "safe",
   "tags": [
    {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
     "type": "tag",
     "attributes": {
@@ -39,6 +51,18 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
     "attributes": {
@@ -47,6 +71,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -64,9 +100,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2022-09-18T21:28:25+00:00",
-  "updatedAt": "2022-09-21T10:30:37+00:00"
+  "updatedAt": "2024-11-10T16:30:11+00:00"
  },
  "relationships": [
   {

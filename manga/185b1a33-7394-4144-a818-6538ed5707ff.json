@@ -1,0 +1,167 @@
+{
+ "id": "185b1a33-7394-4144-a818-6538ed5707ff",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ryogoku Leviathan -Grand Sumo Legends: \"Spirit, Body, Techinque\""
+  },
+  "altTitles": [
+   {
+    "ja": "両国リヴァイアサン ―大相撲“心･技･体”伝説―"
+   }
+  ],
+  "description": {
+   "en": "Leviathan, a man with an extremely unnatural body, declares that Sumo will now be ruled by muscle alone! But what is the truth behind Leviathan's body? A mysterious light sci-fi sumo manga that may just make you cry!"
+  },
+  "links": {
+   "bw": "de16fe8518-3d5e-49ae-9d59-c975979d9894"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "1",
+  "status": "completed",
+  "year": 2011,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "5cb6b02b-2721-48df-8618-8a129bcf6f4e",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-11T16:07:31+00:00",
+  "updatedAt": "2024-11-11T16:09:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "68523525-078c-4480-b415-94935c0eb819",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-11T15:50:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nishino Maruta",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T15:50:27+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "68523525-078c-4480-b415-94935c0eb819",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-11T15:50:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nishino Maruta",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T15:50:27+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "24e06d51-fd23-49e6-bb6d-015f6b8e1ac9",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-11T16:07:34+00:00",
+    "description": "",
+    "fileName": "489209df-43fe-45b7-a599-debfb2254e95.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-11T16:07:34+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "fd5e8166-86a8-4f5b-8801-087e626d631c",
+   "type": "creator"
+  }
+ ]
+}

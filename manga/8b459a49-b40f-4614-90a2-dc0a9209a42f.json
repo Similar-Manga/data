@@ -3,17 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+   "en": "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka"
   },
   "altTitles": [
-   {
-    "ja-ro": "DanMachi"
-   },
    {
     "fr": "DanMachi - La Légende des Familias"
    },
    {
-    "ja-ro": "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka"
+    "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
    },
    {
     "ja-ro": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
@@ -23,9 +20,6 @@
    },
    {
     "fr": "Est-ce que c'est mauvais de vouloir rencontrer des filles dans un donjon ?"
-   },
-   {
-    "en": "Will it be wrong to demand an encounter from dungeon?"
    },
    {
     "ru": "Может, я встречу тебя в подземелье?"
@@ -44,12 +38,6 @@
    },
    {
     "ko": "던전에서 만남을 추구하면 안 되는 걸까"
-   },
-   {
-    "en": "Is it wrong that I want to meet you in a dungeon?"
-   },
-   {
-    "en": "Can't I Expect A Chance Encounter In The Dungeon?"
    },
    {
     "th": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน"
@@ -76,7 +64,7 @@
     "tr": "Zindanda Kız Düşürmeye Çalışmak Yanlış Mı?"
    },
    {
-    "en": "Zindanda qız tutmağa çalışmaq düz deyil?"
+    "tr": "Zindanda qız tutmağa çalışmaq düz deyil?"
    },
    {
     "es": "¿Está mal enamorarse en una mazmorra?"
@@ -97,10 +85,10 @@
     "zh": "伏城求逑蓋有罔乎 (Classical Chinese)"
    },
    {
-    "en": "Is It Wrong to Pick Up Girls in a Dungeon?"
+    "vi": "Gặp Em Ở Ngục Tối Liệu Có Gì Sai?"
    },
    {
-    "vi": "Gặp Em Ở Ngục Tối Liệu Có Gì Sai?"
+    "ja-ro": "DanMachi"
    }
   ],
   "description": {
@@ -277,9 +265,9 @@
    }
   ],
   "state": "published",
-  "version": 34,
+  "version": 35,
   "createdAt": "2018-08-03T00:02:18+00:00",
-  "updatedAt": "2024-09-07T16:33:39+00:00"
+  "updatedAt": "2024-11-10T12:44:25+00:00"
  },
  "relationships": [
   {
@@ -423,7 +411,7 @@
   {
    "id": "2cfb0b5a-f6ea-46e4-975b-c56ad90b8627",
    "type": "manga",
-   "related": "sequel"
+   "related": "alternate_version"
   },
   {
    "id": "3970d36c-eac4-4821-a8e6-ea2e7a659d1f",

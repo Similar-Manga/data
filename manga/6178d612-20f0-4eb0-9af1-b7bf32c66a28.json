@@ -17,7 +17,7 @@
    }
   ],
   "description": {
-   "en": "A collection of shoujo eroguro stories (weirdly with the girls) by Sanjou Tomomi.    1. Akachan wa Daare?  2. Ana no Naka (In the Cave)  3. Inu ni Naritai (I Want to Become a Dog)  4. Mushi Shoujo (An Insect Girl)  5. Koibito Ningyou (A Lover Doll)  6. Bijo to Kaibutsu (Beauty and the Monster)  7. Koufuku e no Shinryaku (Aggression To Happiness)  8. Kyoufu! Uroko Shoujo (Fear! A Scale Girl)  9. Kawahagi Collector (A Leatherfish Collector)  10. Imomushi (A Green Caterpillar)  11. Mori no Hanayome (A Bride of a Forest)"
+   "en": "A collection of shoujo eroguro stories (weirdly with the girls) by Sanjou Tomomi.    \n\n1. Akachan wa Daare? \n2. Ana no Naka (In the Cave)\n3. Inu ni Naritai (I Want to Become a Dog) \n4. Mushi Shoujo (An Insect Girl)  \n5. Koibito Ningyou (A Lover Doll)  \n6. Bijo to Kaibutsu (Beauty and the Monster)  \n7. Koufuku e no Shinryaku (Aggression To Happiness)  \n8. Kyoufu! Uroko Shoujo (Fear! A Scale Girl)\n9. Kawahagi Collector (A Leatherfish Collector)  \n10. Imomushi (A Green Caterpillar)\n11. Mori no Hanayome (A Bride of a Forest)"
   },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B073CZG1M1/",
@@ -37,11 +37,35 @@
   "latestUploadedChapter": "9d24c241-b8fa-43ee-a02f-deb68dc7ee59",
   "tags": [
    {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
     "type": "tag",
     "attributes": {
      "name": {
       "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
      },
      "description": {},
      "group": "theme",
@@ -57,6 +81,18 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -119,12 +155,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2020-07-31T07:00:17+00:00",
-  "updatedAt": "2024-08-24T22:15:20+00:00"
+  "updatedAt": "2024-11-10T01:09:08+00:00"
  },
  "relationships": [
   {

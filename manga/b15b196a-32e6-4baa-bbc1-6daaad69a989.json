@@ -38,6 +38,18 @@
   "latestUploadedChapter": "657a3ffc-b8ba-43e8-a2f8-697045fe32f8",
   "tags": [
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -51,9 +63,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 13,
   "createdAt": "2023-07-13T23:21:25+00:00",
-  "updatedAt": "2024-11-02T16:49:43+00:00"
+  "updatedAt": "2024-11-10T14:45:10+00:00"
  },
  "relationships": [
   {

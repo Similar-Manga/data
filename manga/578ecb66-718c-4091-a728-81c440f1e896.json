@@ -3,28 +3,35 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "All My Alter Egos Are Tycoons"
+   "en": "My Avatars’ Path to Greatness"
   },
   "altTitles": [
    {
     "es-la": "Mis alter egos son seres trascendentales"
    },
    {
-    "en": "My Alter Ego's Path to Greatness"
+    "en": "All My Alter Egos Are Tycoons"
    },
    {
     "en": "Sovereign of the Infinite Clones"
    },
    {
     "ko": "내 분신이 거물이 되어간다"
+   },
+   {
+    "en": "My Alter Ego's Path to Greatness"
    }
   ],
   "description": {
-   "en": "A young man, Han Sunghyun, loses his family in an indiscriminate attack by superhumans. While living a reclusive life due to the trauma of the incident, one day, he awakens the ability to control avatars in his place!\n\n\"What?! I can send avatars to hunt in dangerous otherworlds while I stay safely at home, just focusing on strengthening my powers?!\"\n\nAs his avatars grow rapidly, crossing dimensions, races, and professions, Han Sunghyun begins to hunt down the superhumans who abuse their powers!",
+   "en": "Seonghyeon Han is a victim of a violent crime that left him with impaired legs and a fear of the outside world. Now, he faces an even greater challenge: while he gained the power to create clones, he has just 24 hours before being sent to another dimension.\n\nAs the countdown ticks down, Seonghyeon makes a desperate move -- he sends his clone through the interdimensional portal, and discovers his real body can remain safe at home.\n\nThus begins the epic tale of Seonghyeon's... clones.",
    "ko": "대륙의 공포- 불사왕이 절망을 불러오고, 신의 뜻을 받드는 빛의 기사가 이에 맞선다.\n혼란의 시대에 준동하는 수많은 영웅들.\n\n그리고 갑작스레 지구에 등장한 정체불명의 강자들까지!\n\n그런데,\n그게 전부 나였다.\n…정확히는 이세계에 보냈던 내 분신들이었다."
   },
   "links": {
-   "mu": "6sqizap"
+   "ap": "my-avatars-path-to-greatness",
+   "engtl": "https://www.webtoons.com/en/fantasy/my-avatars-path-to-greatness/list?title_no=7111",
+   "mal": "174687",
+   "mu": "6sqizap",
+   "raw": "https://comic.naver.com/webtoon/list?titleId=832667"
   },
   "originalLanguage": "ko",
   "status": "ongoing",
@@ -56,6 +63,18 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -121,9 +140,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2024-10-10T17:50:23+00:00",
-  "updatedAt": "2024-10-18T00:18:45+00:00"
+  "updatedAt": "2024-11-10T12:13:00+00:00"
  },
  "relationships": [
   {
@@ -158,14 +177,16 @@
    "id": "b4ac01c2-ab54-4514-804a-a42040e1e6c0",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "A Korean novelist."
+    },
     "booth": null,
     "createdAt": "2024-10-10T17:48:08+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Silheom Sample",
+    "name": "TestSample (실험샘플)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -173,8 +194,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-10T17:48:08+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-10T12:14:10+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -184,14 +205,16 @@
    "id": "286f63cc-e3ec-46b1-9094-67a0325a5058",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "I like to play games and watch movies. I think it's cool when a series leaves an impression on someone. I hope you also read and feel this way. Nice to meet you all. \u003c(^_^)/"
+    },
     "booth": null,
     "createdAt": "2024-10-10T17:48:22+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Hansa",
+    "name": "Hansa (한사)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -199,8 +222,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-10T17:48:22+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-10T12:14:55+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -214,9 +237,9 @@
     "description": "",
     "fileName": "b187d1d4-84e5-4e6f-aea9-2cf6de02640b.jpg",
     "locale": "ko",
-    "updatedAt": "2024-10-10T17:50:25+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-11-10T12:12:59+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

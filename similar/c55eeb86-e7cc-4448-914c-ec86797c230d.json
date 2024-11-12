@@ -6,27 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "f71d3798-b043-435f-ac75-552042a7d5c2",
-   "title": {
-    "en": "Grand Blues!"
-   },
-   "contentRating": "safe",
-   "score": 0.33628538,
-   "languages": [
-    "en",
-    "id",
-    "es-la"
-   ]
-  },
-  {
    "id": "578b2e43-690e-4295-bfae-0baa40cf8a42",
    "title": {
     "en": "Me, My Sister, and Ghosts"
    },
    "contentRating": "safe",
-   "score": 0.32149312,
+   "score": 0.32155582,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f71d3798-b043-435f-ac75-552042a7d5c2",
+   "title": {
+    "en": "Grand Blues!"
+   },
+   "contentRating": "safe",
+   "score": 0.30450326,
+   "languages": [
+    "en",
+    "id",
+    "es-la"
    ]
   },
   {
@@ -35,7 +35,7 @@
     "en": "Yahari 4-koma Demo Ore no Seishun Love Come wa Machigatteiru"
    },
    "contentRating": "safe",
-   "score": 0.29804325,
+   "score": 0.29813072,
    "languages": [
     "en",
     "es-la",
@@ -48,7 +48,7 @@
     "en": "Angel Beats! the 4-Koma - Bokura no Sensen Koushinkyoku"
    },
    "contentRating": "safe",
-   "score": 0.29675087,
+   "score": 0.2968321,
    "languages": [
     "en",
     "vi",
@@ -61,7 +61,7 @@
     "en": "Satsuten!"
    },
    "contentRating": "safe",
-   "score": 0.28157017,
+   "score": 0.28167078,
    "languages": [
     "en",
     "pt-br",
@@ -70,12 +70,23 @@
    ]
   },
   {
+   "id": "8486a742-ef0c-40ad-b614-89d1da0beeb5",
+   "title": {
+    "en": "Clannad - 4-koma Manga Gekijou"
+   },
+   "contentRating": "safe",
+   "score": 0.28004164,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b312a68e-2f96-4829-819f-4d99008c44d9",
    "title": {
     "en": "Castlevania 4koma"
    },
    "contentRating": "safe",
-   "score": 0.2772444,
+   "score": 0.2773216,
    "languages": [
     "en"
    ]
@@ -86,7 +97,7 @@
     "en": "Gensou Suikoden V - 4koma Anthology Comic"
    },
    "contentRating": "safe",
-   "score": 0.26803276,
+   "score": 0.26811486,
    "languages": [
     "en"
    ]
@@ -97,21 +108,10 @@
     "en": "Grandia - 4-koma Manga Gekijou"
    },
    "contentRating": "safe",
-   "score": 0.26400793,
+   "score": 0.26407996,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "8486a742-ef0c-40ad-b614-89d1da0beeb5",
-   "title": {
-    "en": "Clannad - 4-koma Manga Gekijou"
-   },
-   "contentRating": "safe",
-   "score": 0.26170292,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -120,7 +120,7 @@
     "en": "Nyanko Sensei ga Iku!"
    },
    "contentRating": "safe",
-   "score": 0.26118585,
+   "score": 0.2612035,
    "languages": [
     "en"
    ]
@@ -131,7 +131,7 @@
     "en": "Ooboonuu to Chiiboonuu"
    },
    "contentRating": "safe",
-   "score": 0.2602396,
+   "score": 0.26023766,
    "languages": [
     "en"
    ]
@@ -142,21 +142,9 @@
     "en": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Official 4koma Anthology"
    },
    "contentRating": "safe",
-   "score": 0.26008672,
+   "score": 0.2601788,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "e42f6486-e018-4f29-b54c-7baed2ee855d",
-   "title": {
-    "en": "Minigram (MILGRAM 4koma)"
-   },
-   "contentRating": "safe",
-   "score": 0.25999185,
-   "languages": [
-    "en",
-    "es"
    ]
   },
   {
@@ -165,7 +153,7 @@
     "en": "Twst 4koma"
    },
    "contentRating": "safe",
-   "score": 0.2592338,
+   "score": 0.2593187,
    "languages": [
     "zh-hk",
     "en"
@@ -183,16 +171,28 @@
    ]
   },
   {
+   "id": "e42f6486-e018-4f29-b54c-7baed2ee855d",
+   "title": {
+    "en": "Minigram (MILGRAM 4koma)"
+   },
+   "contentRating": "safe",
+   "score": 0.25554818,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "42973dd1-290f-45e2-aa7d-0b2efc0edf0f",
    "title": {
     "en": "Jibun ga Twintail no Kawaii Onnanoko da to Omoikonde, Kyou no Dekigoto wo 4koma ni Suru"
    },
    "contentRating": "safe",
-   "score": 0.2517666,
+   "score": 0.251844,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-09T21:08:48+00:00"
+ "updatedAt": "2024-11-11T21:48:29+00:00"
 }

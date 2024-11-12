@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "83d91f2a-4e67-4deb-88f4-728c44a3ec92",
-   "title": {
-    "en": "Hello Again"
-   },
-   "contentRating": "safe",
-   "score": 0.28382835,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "7dbf493a-b544-4cc4-be45-2f6ff7f80a9f",
    "title": {
     "en": "Bara to Lion"
@@ -40,6 +29,17 @@
    ]
   },
   {
+   "id": "83d91f2a-4e67-4deb-88f4-728c44a3ec92",
+   "title": {
+    "en": "Hello Again"
+   },
+   "contentRating": "safe",
+   "score": 0.28382835,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "888c0136-19ff-4d5e-bb6b-7c0a985554a2",
    "title": {
     "en": "Honto wa Suki da"
@@ -56,7 +56,7 @@
     "en": "Me and My Professor"
    },
    "contentRating": "safe",
-   "score": 0.28252092,
+   "score": 0.28252536,
    "languages": [
     "en"
    ]
@@ -67,7 +67,7 @@
     "en": "Anata wa Boku Dake no Hana"
    },
    "contentRating": "safe",
-   "score": 0.28056964,
+   "score": 0.2805678,
    "languages": [
     "en"
    ]
@@ -78,7 +78,7 @@
     "en": "Mou Sukoshi dake, Soba ni Ite"
    },
    "contentRating": "safe",
-   "score": 0.26610878,
+   "score": 0.2661083,
    "languages": [
     "en"
    ]
@@ -89,7 +89,7 @@
     "en": "Moshi Moshi, Kame-San."
    },
    "contentRating": "safe",
-   "score": 0.26425457,
+   "score": 0.26425526,
    "languages": [
     "en"
    ]
@@ -100,7 +100,7 @@
     "en": "Wakaba no - Shounenki"
    },
    "contentRating": "safe",
-   "score": 0.26195022,
+   "score": 0.26194778,
    "languages": [
     "en"
    ]
@@ -111,7 +111,7 @@
     "en": "Suki de Gomen"
    },
    "contentRating": "safe",
-   "score": 0.26164368,
+   "score": 0.261646,
    "languages": [
     "en"
    ]
@@ -122,9 +122,21 @@
     "en": "Ienekonora wa Oogataken ga Nigate"
    },
    "contentRating": "safe",
-   "score": 0.2615839,
+   "score": 0.26158285,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ef323a0d-9a81-4028-9c21-e85b6f318744",
+   "title": {
+    "en": "Sekai ga Hajimaru Asa ni Umi wo Mito"
+   },
+   "contentRating": "safe",
+   "score": 0.26125202,
+   "languages": [
+    "en",
+    "vi"
    ]
   },
   {
@@ -133,29 +145,7 @@
     "en": "Harusame Tunnel"
    },
    "contentRating": "safe",
-   "score": 0.25879207,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9985337e-fa25-4b62-a139-8159b8f1a783",
-   "title": {
-    "en": "Your Color"
-   },
-   "contentRating": "safe",
-   "score": 0.2538638,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ff3c410e-9bfe-471c-ad2a-328c15d71d09",
-   "title": {
-    "en": "Ani no Yuujin"
-   },
-   "contentRating": "safe",
-   "score": 0.2538638,
+   "score": 0.25879344,
    "languages": [
     "en"
    ]
@@ -174,6 +164,20 @@
    ]
   },
   {
+   "id": "98eb1113-4481-47a7-823d-cce1bb0bcb6e",
+   "title": {
+    "en": "Boys Love"
+   },
+   "contentRating": "safe",
+   "score": 0.2538638,
+   "languages": [
+    "bg",
+    "ru",
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "22a3eb13-aaf7-46b1-9684-b3a687fa379e",
    "title": {
     "en": "Hoezura ni Kamitsuku Kisu"
@@ -186,5 +190,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-09T20:23:18+00:00"
+ "updatedAt": "2024-11-11T20:48:59+00:00"
 }

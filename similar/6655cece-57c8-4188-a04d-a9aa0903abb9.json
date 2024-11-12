@@ -11,7 +11,7 @@
     "en": "Captain Tsubasa - Rising Sun"
    },
    "contentRating": "safe",
-   "score": 0.79858595,
+   "score": 0.7985939,
    "languages": [
     "en",
     "tr",
@@ -24,7 +24,7 @@
     "en": "Rising Sun R"
    },
    "contentRating": "safe",
-   "score": 0.47390878,
+   "score": 0.47391978,
    "languages": [
     "en"
    ]
@@ -42,17 +42,6 @@
    ]
   },
   {
-   "id": "6e3d0841-96b5-48f3-9b71-dea671b51fab",
-   "title": {
-    "en": "Highway Wolf"
-   },
-   "contentRating": "safe",
-   "score": 0.21407677,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d88f684f-6cfe-4d31-9605-9e9f73f7ff11",
    "title": {
     "en": "The Days of Diamond"
@@ -66,12 +55,23 @@
    ]
   },
   {
+   "id": "6e3d0841-96b5-48f3-9b71-dea671b51fab",
+   "title": {
+    "en": "Highway Wolf"
+   },
+   "contentRating": "safe",
+   "score": 0.21407677,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "dfd073ea-8b5e-4e5f-b79d-211abc73fa35",
    "title": {
     "en": "Omega Tribe Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.20328815,
+   "score": 0.20328957,
    "languages": [
     "en"
    ]
@@ -82,7 +82,7 @@
     "en": "Because Goodbyes Are Coming Soon"
    },
    "contentRating": "safe",
-   "score": 0.20210631,
+   "score": 0.20211454,
    "languages": [
     "fr",
     "pt-br",
@@ -111,18 +111,43 @@
    ]
   },
   {
-   "id": "5763292a-3bb7-43e8-a0fc-53f2140253a2",
+   "id": "070bc563-823d-48e3-8bd1-911a0314f7f5",
    "title": {
-    "en": "Bungo"
+    "en": "Mahjong of the North Star"
+   },
+   "contentRating": "safe",
+   "score": 0.17479295,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5eb2c6fa-4dc4-4fba-974f-ae44bd8ce2ff",
+   "title": {
+    "en": "Ao Ashi Brotherfoot"
+   },
+   "contentRating": "safe",
+   "score": 0.17479295,
+   "languages": [
+    "en",
+    "es-la",
+    "fr"
+   ]
+  },
+  {
+   "id": "c96f1bf8-a100-40bb-98ef-c240b9b7cf96",
+   "title": {
+    "en": "MF Ghost"
    },
    "contentRating": "safe",
    "score": 0.17479295,
    "languages": [
     "en",
     "pt-br",
-    "es",
-    "fr",
-    "ru"
+    "pl",
+    "ru",
+    "it",
+    "ms"
    ]
   },
   {
@@ -143,14 +168,18 @@
    ]
   },
   {
-   "id": "070bc563-823d-48e3-8bd1-911a0314f7f5",
+   "id": "5763292a-3bb7-43e8-a0fc-53f2140253a2",
    "title": {
-    "en": "Mahjong of the North Star"
+    "en": "Bungo"
    },
    "contentRating": "safe",
    "score": 0.17479295,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "es",
+    "fr",
+    "ru"
    ]
   },
   {
@@ -167,41 +196,12 @@
    ]
   },
   {
-   "id": "c96f1bf8-a100-40bb-98ef-c240b9b7cf96",
-   "title": {
-    "en": "MF Ghost"
-   },
-   "contentRating": "safe",
-   "score": 0.17479295,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "ru",
-    "it",
-    "ms"
-   ]
-  },
-  {
-   "id": "5eb2c6fa-4dc4-4fba-974f-ae44bd8ce2ff",
-   "title": {
-    "en": "Ao Ashi Brotherfoot"
-   },
-   "contentRating": "safe",
-   "score": 0.17479295,
-   "languages": [
-    "en",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
    "id": "d416cb20-3ab4-4ee2-a3a4-ddf8b8f28fe9",
    "title": {
     "en": "Steel of the Celestial Shadows"
    },
    "contentRating": "safe",
-   "score": 0.17213634,
+   "score": 0.17213906,
    "languages": [
     "en",
     "fr",
@@ -209,9 +209,9 @@
    ]
   },
   {
-   "id": "66164b4e-dd16-4f51-a670-174ac822e3ba",
+   "id": "a8c1f264-e95c-4d9a-bbbe-4cd8e5e293d2",
    "title": {
-    "en": "Yamato no Hane"
+    "en": "Zero Angel: The Clear Blue Fallen Angel"
    },
    "contentRating": "safe",
    "score": 0.17029701,
@@ -220,5 +220,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-09T20:36:10+00:00"
+ "updatedAt": "2024-11-11T21:05:48+00:00"
 }

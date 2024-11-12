@@ -11,7 +11,7 @@
     "en": "The Witches' End"
    },
    "contentRating": "safe",
-   "score": 0.46344465,
+   "score": 0.46334732,
    "languages": [
     "fr",
     "en"
@@ -23,7 +23,7 @@
     "en": "Someday, I want to die"
    },
    "contentRating": "safe",
-   "score": 0.44691578,
+   "score": 0.44666946,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "A Witch's Hopeless Wish"
    },
    "contentRating": "safe",
-   "score": 0.38343418,
+   "score": 0.38334975,
    "languages": [
     "id",
     "en",
@@ -47,7 +47,7 @@
     "en": "SIRIUS"
    },
    "contentRating": "safe",
-   "score": 0.38251626,
+   "score": 0.38243213,
    "languages": [
     "en"
    ]
@@ -58,7 +58,18 @@
     "en": "Potion Witch"
    },
    "contentRating": "safe",
-   "score": 0.36854753,
+   "score": 0.3684754,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d2046dd6-1288-49a6-a242-b63c8d0be1f7",
+   "title": {
+    "en": "The Diary of a 100 Day Part-Time Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.36181873,
    "languages": [
     "en"
    ]
@@ -69,7 +80,7 @@
     "en": "Champignon no Majo"
    },
    "contentRating": "safe",
-   "score": 0.35030854,
+   "score": 0.35015127,
    "languages": [
     "en",
     "pt-br"
@@ -81,7 +92,7 @@
     "en": "Accidental Warrior"
    },
    "contentRating": "safe",
-   "score": 0.34810564,
+   "score": 0.34803894,
    "languages": [
     "en",
     "pl"
@@ -93,81 +104,7 @@
     "en": "A Day with Me"
    },
    "contentRating": "safe",
-   "score": 0.34403962,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8c9cd534-26b8-4caa-b903-295c7fdc909f",
-   "title": {
-    "en": "Coherence"
-   },
-   "contentRating": "safe",
-   "score": 0.33459365,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d2046dd6-1288-49a6-a242-b63c8d0be1f7",
-   "title": {
-    "en": "The Diary of a 100 Day Part-Time Witch"
-   },
-   "contentRating": "safe",
-   "score": 0.33067474,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "93a45e48-c28e-43e7-8c8c-d13b69716997",
-   "title": {
-    "en": "Brainless Witch"
-   },
-   "contentRating": "safe",
-   "score": 0.32951453,
-   "languages": [
-    "en",
-    "id",
-    "pt-br",
-    "es"
-   ]
-  },
-  {
-   "id": "52925883-c86a-4f3c-a315-877a01258e14",
-   "title": {
-    "en": "The Witch and the Beast"
-   },
-   "contentRating": "safe",
-   "score": 0.3293046,
-   "languages": [
-    "vi",
-    "pt-br",
-    "en",
-    "uk",
-    "ru"
-   ]
-  },
-  {
-   "id": "ca3c2f1b-ca10-4b4f-ab01-5038f4210b67",
-   "title": {
-    "en": "Star Road Witch"
-   },
-   "contentRating": "safe",
-   "score": 0.32928434,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "68fe48a6-3d49-41fb-ab17-9ac48d33214e",
-   "title": {
-    "en": "Forest of the Jade Bird"
-   },
-   "contentRating": "safe",
-   "score": 0.3261457,
+   "score": 0.34397444,
    "languages": [
     "en"
    ]
@@ -178,11 +115,63 @@
     "en": "Becoming a Witch in a World Full of Monster Stories"
    },
    "contentRating": "safe",
-   "score": 0.32408726,
+   "score": 0.34273377,
    "languages": [
     "en",
     "id",
     "tr"
+   ]
+  },
+  {
+   "id": "8c9cd534-26b8-4caa-b903-295c7fdc909f",
+   "title": {
+    "en": "Coherence"
+   },
+   "contentRating": "safe",
+   "score": 0.3345405,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "93a45e48-c28e-43e7-8c8c-d13b69716997",
+   "title": {
+    "en": "Brainless Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.32943547,
+   "languages": [
+    "en",
+    "id",
+    "pt-br",
+    "es"
+   ]
+  },
+  {
+   "id": "ca3c2f1b-ca10-4b4f-ab01-5038f4210b67",
+   "title": {
+    "en": "Star Road Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.32924834,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "52925883-c86a-4f3c-a315-877a01258e14",
+   "title": {
+    "en": "The Witch and the Beast"
+   },
+   "contentRating": "safe",
+   "score": 0.3292374,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "uk",
+    "ru"
    ]
   },
   {
@@ -191,11 +180,30 @@
     "en": "Working at the Witch's Mansion"
    },
    "contentRating": "safe",
-   "score": 0.30986187,
+   "score": 0.30980682,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "aafb046c-9de4-4c3d-990c-6d75b079c0b9",
+   "title": {
+    "en": "Release That Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.30937088,
+   "languages": [
+    "en",
+    "es-la",
+    "ru",
+    "tr",
+    "uk",
+    "pt-br",
+    "fr",
+    "es",
+    "id"
+   ]
   }
  ],
- "updatedAt": "2024-11-09T20:35:28+00:00"
+ "updatedAt": "2024-11-11T21:04:55+00:00"
 }

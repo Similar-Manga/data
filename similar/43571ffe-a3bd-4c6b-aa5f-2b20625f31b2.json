@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b7c3baa1-3603-4220-a5bf-8ddef5485505",
+   "title": {
+    "en": "Joujin Kamen"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619
+  },
+  {
    "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
    "title": {
     "en": "Evil Eater"
@@ -17,12 +25,12 @@
    ]
   },
   {
-   "id": "b7c3baa1-3603-4220-a5bf-8ddef5485505",
+   "id": "effd49e4-71e5-4fdb-86f1-7ed7dd4c06e3",
    "title": {
-    "en": "Joujin Kamen"
+    "en": "Akki no Virus"
    },
    "contentRating": "safe",
-   "score": 0.24692619
+   "score": 0.23809525
   },
   {
    "id": "d1386b96-8c73-4d1b-a2d7-7cb306db66a1",
@@ -33,20 +41,23 @@
    "score": 0.23809525
   },
   {
-   "id": "effd49e4-71e5-4fdb-86f1-7ed7dd4c06e3",
-   "title": {
-    "en": "Akki no Virus"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525
-  },
-  {
    "id": "22cccf3c-e171-408b-8edc-824a68960195",
    "title": {
     "en": "Yougen no Chi"
    },
    "contentRating": "safe",
-   "score": 0.23434375,
+   "score": 0.23433863,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2ee825b5-fca6-40a3-98f2-e47d44bd7fc8",
+   "title": {
+    "en": "Sekiryuu no Otome"
+   },
+   "contentRating": "safe",
+   "score": 0.22222224,
    "languages": [
     "en"
    ]
@@ -65,12 +76,12 @@
    ]
   },
   {
-   "id": "2ee825b5-fca6-40a3-98f2-e47d44bd7fc8",
+   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
    "title": {
-    "en": "Sekiryuu no Otome"
+    "en": "Arthur Pyuty wa Yoru no Majo"
    },
    "contentRating": "safe",
-   "score": 0.22222224,
+   "score": 0.2208575,
    "languages": [
     "en"
    ]
@@ -88,23 +99,12 @@
    ]
   },
   {
-   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
-   "title": {
-    "en": "Arthur Pyuty wa Yoru no Majo"
-   },
-   "contentRating": "safe",
-   "score": 0.2208575,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6e8ec78a-db6e-438d-ae37-488b3e81ae5b",
    "title": {
     "en": "Doku Doku Doku"
    },
    "contentRating": "safe",
-   "score": 0.20198861
+   "score": 0.20198654
   },
   {
    "id": "cd14a481-211e-43c7-b100-a1b466e93d6d",
@@ -112,51 +112,8 @@
     "en": "Nikubami Honegishimi"
    },
    "contentRating": "safe",
-   "score": 0.20173731,
+   "score": 0.20173796,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4a907996-bf1d-4a34-a4ae-ab8e86de0ab6",
-   "title": {
-    "en": "At the End of 4 Minutes"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "vi",
-    "fr",
-    "en",
-    "pt-br",
-    "ca"
-   ]
-  },
-  {
-   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
-   "title": {
-    "en": "Mercy"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "ru",
-    "fr",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "7e50742e-76bc-44be-b561-ac6ce1681a63",
-   "title": {
-    "en": "Tokyo Ghoul: Redrawn"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "it",
-    "pt-br",
-    "pl",
     "en"
    ]
   },
@@ -175,7 +132,50 @@
    },
    "contentRating": "safe",
    "score": 0.20161438
+  },
+  {
+   "id": "7e50742e-76bc-44be-b561-ac6ce1681a63",
+   "title": {
+    "en": "Tokyo Ghoul: Redrawn"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438,
+   "languages": [
+    "it",
+    "pt-br",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
+   "title": {
+    "en": "Mercy"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438,
+   "languages": [
+    "ru",
+    "fr",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "4a907996-bf1d-4a34-a4ae-ab8e86de0ab6",
+   "title": {
+    "en": "At the End of 4 Minutes"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438,
+   "languages": [
+    "vi",
+    "fr",
+    "en",
+    "pt-br",
+    "ca"
+   ]
   }
  ],
- "updatedAt": "2024-11-09T20:24:17+00:00"
+ "updatedAt": "2024-11-11T20:50:21+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "A Heart for the Emperor"
    },
    "contentRating": "safe",
-   "score": 0.28783098,
+   "score": 0.28782085,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Please Sponsor My Revenge"
    },
    "contentRating": "safe",
-   "score": 0.27840492,
+   "score": 0.27840638,
    "languages": [
     "es-la",
     "en"
@@ -34,9 +34,22 @@
     "en": "One Step Forward to the Flower Path"
    },
    "contentRating": "safe",
-   "score": 0.27713165,
+   "score": 0.27713233,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b15b9a74-75d7-4a01-9e28-85795ad210ab",
+   "title": {
+    "en": "The Siren"
+   },
+   "contentRating": "safe",
+   "score": 0.27078804,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -55,16 +68,28 @@
    ]
   },
   {
-   "id": "b15b9a74-75d7-4a01-9e28-85795ad210ab",
+   "id": "586e21fb-3680-4048-8b57-587ab59868aa",
    "title": {
-    "en": "The Siren"
+    "en": "Your Regrets Mean Nothing to Me"
    },
    "contentRating": "safe",
-   "score": 0.27078804,
+   "score": 0.26963693,
    "languages": [
-    "pl",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "b6642f38-2def-41a1-97d2-2258d83c7d95",
+   "title": {
+    "en": "The Accidental Heiress"
+   },
+   "contentRating": "safe",
+   "score": 0.26963693,
+   "languages": [
+    "pt-br",
     "en",
-    "pt-br"
+    "pl"
    ]
   },
   {
@@ -82,30 +107,6 @@
    ]
   },
   {
-   "id": "b6642f38-2def-41a1-97d2-2258d83c7d95",
-   "title": {
-    "en": "The Accidental Heiress"
-   },
-   "contentRating": "safe",
-   "score": 0.26963693,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "0226c641-1974-4fba-99ba-5daf683d45c5",
-   "title": {
-    "en": "I Just Wanted to Find My Father"
-   },
-   "contentRating": "safe",
-   "score": 0.26963693,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "89059c67-08e2-443a-8d5a-eeda3fab46bb",
    "title": {
     "en": "Somehow, I Raised a Prince"
@@ -118,14 +119,13 @@
    ]
   },
   {
-   "id": "586e21fb-3680-4048-8b57-587ab59868aa",
+   "id": "0226c641-1974-4fba-99ba-5daf683d45c5",
    "title": {
-    "en": "Your Regrets Mean Nothing to Me"
+    "en": "I Just Wanted to Find My Father"
    },
    "contentRating": "safe",
    "score": 0.26963693,
    "languages": [
-    "es-la",
     "en"
    ]
   },
@@ -148,48 +148,11 @@
     "en": "The Lady and the Lion"
    },
    "contentRating": "safe",
-   "score": 0.26708582,
+   "score": 0.26708728,
    "languages": [
     "pl",
     "en",
     "tr"
-   ]
-  },
-  {
-   "id": "68350bca-395a-4af0-8ef7-48dcc5bbbae8",
-   "title": {
-    "en": "House Garnet's Archvillain"
-   },
-   "contentRating": "safe",
-   "score": 0.25818628,
-   "languages": [
-    "es-la",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "c221af9e-450f-4600-9eab-c4a1bedc665c",
-   "title": {
-    "en": "The Baby Divine Beast"
-   },
-   "contentRating": "safe",
-   "score": 0.25818628,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "ca95d49a-67af-4f94-8337-9918e7524b13",
-   "title": {
-    "en": "Lillien of Turin"
-   },
-   "contentRating": "safe",
-   "score": 0.25818628,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -207,7 +170,44 @@
     "pl",
     "id"
    ]
+  },
+  {
+   "id": "c221af9e-450f-4600-9eab-c4a1bedc665c",
+   "title": {
+    "en": "The Baby Divine Beast"
+   },
+   "contentRating": "safe",
+   "score": 0.25818628,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "68350bca-395a-4af0-8ef7-48dcc5bbbae8",
+   "title": {
+    "en": "House Garnet's Archvillain"
+   },
+   "contentRating": "safe",
+   "score": 0.25818628,
+   "languages": [
+    "es-la",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "5e56feef-0277-4af9-8a3e-ce7ecc3bcdce",
+   "title": {
+    "en": "Dear Nemesis"
+   },
+   "contentRating": "safe",
+   "score": 0.25808597,
+   "languages": [
+    "es-la",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-09T21:02:39+00:00"
+ "updatedAt": "2024-11-11T21:40:15+00:00"
 }

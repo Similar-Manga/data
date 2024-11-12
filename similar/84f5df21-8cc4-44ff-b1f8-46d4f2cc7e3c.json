@@ -6,25 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d90ddc7b-8dc9-41fa-a15a-c36b14cb14e5",
-   "title": {
-    "en": "The Negatibrain"
-   },
-   "contentRating": "safe",
-   "score": 0.24370492,
-   "languages": [
-    "pl",
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
    "title": {
     "en": "Death of a Highschool"
    },
    "contentRating": "safe",
-   "score": 0.24339437,
+   "score": 0.24605915,
    "languages": [
     "pt-br",
     "tr",
@@ -33,12 +20,37 @@
    ]
   },
   {
+   "id": "d90ddc7b-8dc9-41fa-a15a-c36b14cb14e5",
+   "title": {
+    "en": "The Negatibrain"
+   },
+   "contentRating": "safe",
+   "score": 0.24593765,
+   "languages": [
+    "pl",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "459958d1-4898-4c98-b4aa-193e2bc56a3d",
+   "title": {
+    "en": "Blood-Coloured Forbidden Territory"
+   },
+   "contentRating": "safe",
+   "score": 0.24163577,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "c605289c-ee3e-49df-abb1-81630c8a6a24",
    "title": {
     "en": "Monster Cage"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24130647,
    "languages": [
     "en",
     "pl",
@@ -58,24 +70,12 @@
    ]
   },
   {
-   "id": "459958d1-4898-4c98-b4aa-193e2bc56a3d",
-   "title": {
-    "en": "Blood-Coloured Forbidden Territory"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "1436ef54-436d-49d8-b1a7-15ffe7d08123",
    "title": {
     "en": "Blood Type V"
    },
    "contentRating": "safe",
-   "score": 0.21839146,
+   "score": 0.22190188,
    "languages": [
     "it",
     "en",
@@ -84,12 +84,25 @@
    ]
   },
   {
+   "id": "485471ff-4502-4af9-aa0f-956af49e7782",
+   "title": {
+    "en": "Tsukumono"
+   },
+   "contentRating": "safe",
+   "score": 0.21669577,
+   "languages": [
+    "en",
+    "pl",
+    "th"
+   ]
+  },
+  {
    "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
    "title": {
     "en": "Dr. Chanbelee"
    },
    "contentRating": "safe",
-   "score": 0.21153131,
+   "score": 0.21357141,
    "languages": [
     "ro",
     "pl",
@@ -102,11 +115,24 @@
     "en": "Cremators"
    },
    "contentRating": "safe",
-   "score": 0.2113089,
+   "score": 0.21330008,
    "languages": [
     "en",
     "pt-br",
     "pl"
+   ]
+  },
+  {
+   "id": "1fd108dc-df83-40ba-8fb3-f673cdd2099f",
+   "title": {
+    "en": "Rokuyoku"
+   },
+   "contentRating": "safe",
+   "score": 0.20304768,
+   "languages": [
+    "pl",
+    "ro",
+    "en"
    ]
   },
   {
@@ -122,37 +148,6 @@
     "pl",
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "96c166e4-37cb-4554-bbdd-a4ed6a25566a",
-   "title": {
-    "en": "Permanent God"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "id",
-    "pl",
-    "pt-br",
-    "bg",
-    "hu",
-    "it",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "485471ff-4502-4af9-aa0f-956af49e7782",
-   "title": {
-    "en": "Tsukumono"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "pl",
-    "th"
    ]
   },
   {
@@ -184,16 +179,21 @@
    ]
   },
   {
-   "id": "1fd108dc-df83-40ba-8fb3-f673cdd2099f",
+   "id": "96c166e4-37cb-4554-bbdd-a4ed6a25566a",
    "title": {
-    "en": "Rokuyoku"
+    "en": "Permanent God"
    },
    "contentRating": "safe",
-   "score": 0.19910373,
+   "score": 0.20203052,
    "languages": [
+    "id",
     "pl",
-    "ro",
-    "en"
+    "pt-br",
+    "bg",
+    "hu",
+    "it",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -202,7 +202,7 @@
     "en": "Classroom"
    },
    "contentRating": "safe",
-   "score": 0.19370371,
+   "score": 0.19649713,
    "languages": [
     "en",
     "pl"
@@ -214,7 +214,7 @@
     "en": "Enma Gavel"
    },
    "contentRating": "safe",
-   "score": 0.18911038,
+   "score": 0.19091351,
    "languages": [
     "id",
     "ru",
@@ -226,5 +226,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-09T20:46:39+00:00"
+ "updatedAt": "2024-11-11T21:19:30+00:00"
 }

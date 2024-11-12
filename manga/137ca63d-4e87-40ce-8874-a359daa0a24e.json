@@ -1,0 +1,166 @@
+{
+ "id": "137ca63d-4e87-40ce-8874-a359daa0a24e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Track And Field Club's Harpy"
+  },
+  "altTitles": [
+   {
+    "ja": "陸上部のハーピィ"
+   },
+   {
+    "ja-ro": "Rikujoubu no Harpy"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/artworks/69199024"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2018,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-09T20:29:26+00:00",
+  "updatedAt": "2024-11-09T20:31:39+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2d3fa977-7dd0-47da-9cae-d4404232fb4c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 空もずく\n\n**Additional Sites:**\n- [Sora Mozuku–Toumori Higoro Shared X](https://x.com/sora_toumori)"
+    },
+    "booth": null,
+    "createdAt": "2022-05-11T14:57:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sora Mozuku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sora_mozuku",
+    "updatedAt": "2024-11-09T17:31:22+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "95dc4d7e-45a2-4514-be13-52202f02dc89",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 十森ひごろ\n\n**Additional Sites:**\n- [2nd X](https://x.com/TH_autumnthree)\n- [Sora Mozuku–Toumori Higoro Shared X](https://x.com/sora_toumori)"
+    },
+    "booth": null,
+    "createdAt": "2022-05-11T14:58:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Toumori Higoro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/5325537",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/mwinterfour",
+    "updatedAt": "2024-11-09T19:20:48+00:00",
+    "version": 6,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "10f2b405-a52b-4507-b09d-af1d5478f85f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-09T20:29:28+00:00",
+    "description": "",
+    "fileName": "b3eaa785-5552-4910-88a9-20abba88dcbb.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-09T20:29:28+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

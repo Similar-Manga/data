@@ -11,7 +11,7 @@
     "en": "Awa Koi"
    },
    "contentRating": "safe",
-   "score": 0.3347132,
+   "score": 0.33470717,
    "languages": [
     "es-la",
     "pt-br",
@@ -24,7 +24,7 @@
     "en": "Koisuru Mitsuba"
    },
    "contentRating": "safe",
-   "score": 0.33422872,
+   "score": 0.33420804,
    "languages": [
     "en",
     "fr",
@@ -37,7 +37,7 @@
     "en": "Kojin Jugyou"
    },
    "contentRating": "safe",
-   "score": 0.33371863,
+   "score": 0.3337013,
    "languages": [
     "en"
    ]
@@ -48,7 +48,7 @@
     "en": "Boku Datte, Kiss Shitai"
    },
    "contentRating": "safe",
-   "score": 0.32659796,
+   "score": 0.32660064,
    "languages": [
     "en",
     "pt-br"
@@ -60,7 +60,18 @@
     "en": "Osanajimi Ja Dame Desu Ka?"
    },
    "contentRating": "safe",
-   "score": 0.31837425,
+   "score": 0.31837252,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "08dfe0d5-14ea-4713-bde6-dddcf3513f5b",
+   "title": {
+    "en": "Osananajimi ga Kyouteki desu"
+   },
+   "contentRating": "safe",
+   "score": 0.3183592,
    "languages": [
     "en"
    ]
@@ -71,7 +82,7 @@
     "en": "Kare no 1-Ban ni Naru Houhou"
    },
    "contentRating": "safe",
-   "score": 0.3183023,
+   "score": 0.318305,
    "languages": [
     "en"
    ]
@@ -82,7 +93,7 @@
     "en": "Hatsukoi wa Nido Oishii"
    },
    "contentRating": "safe",
-   "score": 0.31788358,
+   "score": 0.31788462,
    "languages": [
     "en",
     "es-la",
@@ -95,87 +106,7 @@
     "en": "Viva Love You"
    },
    "contentRating": "safe",
-   "score": 0.31699252,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9c141b59-00ac-467b-93cb-164644b6c60c",
-   "title": {
-    "en": "Hitotsu no Shigusa mo"
-   },
-   "contentRating": "safe",
-   "score": 0.31115,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fdddcbd4-4cde-481f-8a85-681334ec1c24",
-   "title": {
-    "en": "Ani ni Ai Saresugite Komattemasu"
-   },
-   "contentRating": "safe",
-   "score": 0.30972707,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae4e5ec4-9090-4cbf-9305-a53097528705",
-   "title": {
-    "en": "Sensei no Koto Ga Suki nan Desu"
-   },
-   "contentRating": "safe",
-   "score": 0.30937195,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "feda19f3-7142-4889-a267-6cc0a1d9ab80",
-   "title": {
-    "en": "1-ko Shita kara, Kiss Sasete."
-   },
-   "contentRating": "safe",
-   "score": 0.30860928,
-   "languages": [
-    "vi",
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "21676a6b-cb66-4351-9177-e27bc6dc381d",
-   "title": {
-    "en": "Goshujinsama to Watashi"
-   },
-   "contentRating": "safe",
-   "score": 0.3067254,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "628c364b-4389-41ab-abb9-5b9e4f0238cd",
-   "title": {
-    "en": "Kanpeki Kareshi Kanojo"
-   },
-   "contentRating": "safe",
-   "score": 0.3051296,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "691557a3-ca52-4e5a-9dc6-5c32c90fd2f0",
-   "title": {
-    "en": "Ami! Nonstop"
-   },
-   "contentRating": "safe",
-   "score": 0.3050197,
+   "score": 0.31699425,
    "languages": [
     "en"
    ]
@@ -186,11 +117,79 @@
     "en": "Ryuunosuke-kun wa Yasashikunai"
    },
    "contentRating": "safe",
-   "score": 0.30360398,
+   "score": 0.31482455,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9c141b59-00ac-467b-93cb-164644b6c60c",
+   "title": {
+    "en": "Hitotsu no Shigusa mo"
+   },
+   "contentRating": "safe",
+   "score": 0.31115407,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fdddcbd4-4cde-481f-8a85-681334ec1c24",
+   "title": {
+    "en": "Ani ni Ai Saresugite Komattemasu"
+   },
+   "contentRating": "safe",
+   "score": 0.3097253,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ae4e5ec4-9090-4cbf-9305-a53097528705",
+   "title": {
+    "en": "Sensei no Koto Ga Suki nan Desu"
+   },
+   "contentRating": "safe",
+   "score": 0.30937356,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "feda19f3-7142-4889-a267-6cc0a1d9ab80",
+   "title": {
+    "en": "1-ko Shita kara, Kiss Sasete."
+   },
+   "contentRating": "safe",
+   "score": 0.30861092,
+   "languages": [
+    "vi",
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "622eed0b-e454-4bbb-8a7c-5b40921c6b30",
+   "title": {
+    "en": "Nobles' Love Company"
+   },
+   "contentRating": "safe",
+   "score": 0.30694857,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "21676a6b-cb66-4351-9177-e27bc6dc381d",
+   "title": {
+    "en": "Goshujinsama to Watashi"
+   },
+   "contentRating": "safe",
+   "score": 0.30672708,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-09T20:43:21+00:00"
+ "updatedAt": "2024-11-11T21:15:09+00:00"
 }

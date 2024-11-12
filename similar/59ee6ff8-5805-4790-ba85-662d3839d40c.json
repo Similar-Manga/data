@@ -11,7 +11,7 @@
     "en": "Perpltxed Doodles"
    },
    "contentRating": "safe",
-   "score": 0.3443991
+   "score": 0.34440878
   },
   {
    "id": "65a2ca97-2f0c-4caf-af21-4984f1edf766",
@@ -19,7 +19,7 @@
     "en": "1R Life With Original Doodles"
    },
    "contentRating": "safe",
-   "score": 0.33081737
+   "score": 0.33083415
   },
   {
    "id": "f72c21fb-21a6-489b-b137-77918b5ac834",
@@ -27,7 +27,18 @@
     "en": "Memoirs of a nameless person"
    },
    "contentRating": "safe",
-   "score": 0.2450011
+   "score": 0.24502508
+  },
+  {
+   "id": "4f665ec1-a93a-46e4-936d-54bfde53063b",
+   "title": {
+    "en": "Child - 4Koma"
+   },
+   "contentRating": "safe",
+   "score": 0.24365796,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "7c4f0ee0-32ca-4835-8463-940038ef57a9",
@@ -42,23 +53,12 @@
    ]
   },
   {
-   "id": "4f665ec1-a93a-46e4-936d-54bfde53063b",
-   "title": {
-    "en": "Child - 4Koma"
-   },
-   "contentRating": "safe",
-   "score": 0.24365796,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c887aa0a-fbca-4c12-a8b2-44dfef889aa8",
    "title": {
     "en": "Floofy Cat"
    },
    "contentRating": "safe",
-   "score": 0.22771451,
+   "score": 0.22771753,
    "languages": [
     "fr",
     "it",
@@ -71,49 +71,51 @@
     "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.22456239,
+   "score": 0.2245742,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ee8f7f56-17fc-4a41-a873-f8549ba676d3",
+   "id": "b907ae16-498f-44d0-ba23-587975336168",
    "title": {
-    "en": "Zutto Neko Shoshinsha"
+    "en": "AniApt ~Animal Apartment~"
    },
    "contentRating": "safe",
    "score": 0.21793433,
    "languages": [
-    "ru",
-    "th",
     "en",
-    "",
-    "fr"
+    "ja"
+   ]
+  },
+  {
+   "id": "3f4a567a-9c20-450b-a0e8-bc488e222e80",
+   "title": {
+    "en": "Iwaneko"
+   },
+   "contentRating": "safe",
+   "score": 0.21793433,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "732b8dc0-43c2-4f06-800f-dd4e6c8a42c3",
+   "title": {
+    "en": "Do Not Repost"
+   },
+   "contentRating": "safe",
+   "score": 0.21793433,
+   "languages": [
+    "en",
+    "id",
+    "pt-br"
    ]
   },
   {
    "id": "dc045f6b-d125-4fc3-906e-49a0c751ee01",
    "title": {
     "en": "Shikaruneko"
-   },
-   "contentRating": "safe",
-   "score": 0.21793433,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "313c2233-9793-4544-bf65-a75271249b6f",
-   "title": {
-    "en": "Neko wa Matatabi"
-   },
-   "contentRating": "safe",
-   "score": 0.21793433
-  },
-  {
-   "id": "3f4a567a-9c20-450b-a0e8-bc488e222e80",
-   "title": {
-    "en": "Iwaneko"
    },
    "contentRating": "safe",
    "score": 0.21793433,
@@ -134,31 +136,6 @@
    ]
   },
   {
-   "id": "b907ae16-498f-44d0-ba23-587975336168",
-   "title": {
-    "en": "AniApt ~Animal Apartment~"
-   },
-   "contentRating": "safe",
-   "score": 0.21793433,
-   "languages": [
-    "en",
-    "ja"
-   ]
-  },
-  {
-   "id": "732b8dc0-43c2-4f06-800f-dd4e6c8a42c3",
-   "title": {
-    "en": "Do Not Repost"
-   },
-   "contentRating": "safe",
-   "score": 0.21793433,
-   "languages": [
-    "en",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
    "id": "6058a9c0-a59d-4137-bccb-954e43f42293",
    "title": {
     "en": "Storks"
@@ -170,16 +147,40 @@
    ]
   },
   {
-   "id": "d3f0e6ea-3228-490c-ad0e-0b7a08866274",
+   "id": "ee8f7f56-17fc-4a41-a873-f8549ba676d3",
    "title": {
-    "en": "Register Cat"
+    "en": "Zutto Neko Shoshinsha"
    },
    "contentRating": "safe",
    "score": 0.21793433,
    "languages": [
-    "en"
+    "ru",
+    "th",
+    "en",
+    "",
+    "fr"
    ]
+  },
+  {
+   "id": "a6257666-bd4d-457b-9a44-d56dc91df1ba",
+   "title": {
+    "en": "Critically-Endangered Species Hacchin-Pamos"
+   },
+   "contentRating": "safe",
+   "score": 0.21793433,
+   "languages": [
+    "en",
+    "de"
+   ]
+  },
+  {
+   "id": "313c2233-9793-4544-bf65-a75271249b6f",
+   "title": {
+    "en": "Neko wa Matatabi"
+   },
+   "contentRating": "safe",
+   "score": 0.21793433
   }
  ],
- "updatedAt": "2024-11-09T20:31:54+00:00"
+ "updatedAt": "2024-11-11T21:00:17+00:00"
 }

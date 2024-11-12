@@ -16,9 +16,13 @@
     "ja": "聖女の見た夢2"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "NTR warning"
+  },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastChapter": "2",
+  "status": "completed",
+  "year": 2019,
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en",
@@ -40,11 +44,37 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2020-04-27T02:08:17+00:00",
-  "updatedAt": "2022-03-23T03:02:44+00:00"
+  "updatedAt": "2024-11-11T01:06:37+00:00"
  },
  "relationships": [
+  {
+   "id": "6ca70356-b95b-43eb-9624-959c3cc25d45",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Saint Shiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "c7950a5d-065c-4361-8659-6f1e877de679",
    "type": "author",
@@ -98,16 +128,42 @@
    }
   },
   {
-   "id": "623c6553-c07f-4f17-89b0-bb2ac212f671",
+   "id": "c7950a5d-065c-4361-8659-6f1e877de679",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Saint Seiya (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-06-14T00:29:00+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ab0deca5-f1f8-4f6a-892d-fb1a152f0611",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:53:53+00:00",
+    "createdAt": "2021-05-23T07:25:39+00:00",
     "description": "",
-    "fileName": "2711a8e8-9e48-4452-a3b1-f545096106dc.jpg",
+    "fileName": "1b3a4536-a40c-4aa1-9696-a7cea740434a.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:53:53+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T07:25:39+00:00",
+    "version": 2,
+    "volume": "2"
    }
   }
  ]

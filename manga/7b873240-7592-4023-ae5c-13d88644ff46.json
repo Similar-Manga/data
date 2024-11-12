@@ -3,20 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Aiming to Conquer the Demon King’s Castle with Merchant Skills ～Since I Have Been Transported to Another World, I Decided to Survive with the Strongest Items and Talk Techniques ～"
+   "en": "Shounin Skill de Maoujou no Kouryaku wo Mezasu ~Isekai Tenishita no de Saikyou Item to Tookujutsu de Ikinuku to ni shita~"
   },
   "altTitles": [
    {
     "ja": "商人スキルで魔王城の攻略を目指す ～異世界転移したので最強アイテムとトーク術で生き抜くことにした～"
    },
    {
-    "ja-ro": "Shounin Skill de Maoujou no Kouryaku wo Mezasu - Isekai Tenishita no de Saikyou Item to Tookujutsu de Ikinuku to ni shita"
-   },
-   {
-    "ja": "商人スキルで魔王城の攻略を目指す"
-   },
-   {
-    "ja-ro": "Shounin Skill de Maoujou no Kouryaku wo Mezasu"
+    "en": "Aiming to Conquer the Demon King's Castle with Merchant Skills: Since I Have Been Transported to Another World, I Decided to Survive with the Strongest Items and Talk Techniques"
    }
   ],
   "description": {
@@ -24,14 +18,15 @@
   },
   "links": {
    "al": "183929",
+   "mal": "175999",
    "mu": "l94jx7d",
-   "raw": "https://comic-walker.com/detail/KC_005912_S/episodes/KC_0059120000200011_E?episodeType=first"
+   "raw": "https://comic-walker.com/detail/KC_005912_S/"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "ongoing",
   "year": 2024,
-  "contentRating": "erotica",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
   ],
@@ -43,6 +38,18 @@
     "attributes": {
      "name": {
       "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
      },
      "description": {},
      "group": "theme",
@@ -123,9 +130,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 15,
   "createdAt": "2024-11-01T06:50:35+00:00",
-  "updatedAt": "2024-11-06T23:55:08+00:00"
+  "updatedAt": "2024-11-11T01:41:07+00:00"
  },
  "relationships": [
   {
@@ -188,9 +195,9 @@
     "description": "",
     "fileName": "238347dc-7437-4ec8-9a46-e030e0f27333.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-01T06:50:43+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-11-11T01:40:27+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

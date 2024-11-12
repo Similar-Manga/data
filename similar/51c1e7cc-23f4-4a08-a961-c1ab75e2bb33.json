@@ -11,7 +11,7 @@
     "en": "Kao ni Denai Ko"
    },
    "contentRating": "safe",
-   "score": 0.43696633,
+   "score": 0.43700862,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Urasaki-san wants to tell Omoteno-kun."
    },
    "contentRating": "safe",
-   "score": 0.32229668,
+   "score": 0.32229024,
    "languages": [
     "vi",
     "en"
@@ -34,7 +34,7 @@
     "en": "Kesa Mo Yuraretemasu"
    },
    "contentRating": "safe",
-   "score": 0.29661348,
+   "score": 0.29661414,
    "languages": [
     "vi",
     "pt-br",
@@ -50,7 +50,7 @@
     "en": "Itsuki-kun wa Tadasaretai"
    },
    "contentRating": "safe",
-   "score": 0.2940952,
+   "score": 0.29408714,
    "languages": [
     "fr",
     "uk",
@@ -64,7 +64,7 @@
     "en": "Wakaba-sanchi no Aoi Koi"
    },
    "contentRating": "safe",
-   "score": 0.29380432,
+   "score": 0.293806,
    "languages": [
     "vi",
     "en"
@@ -76,13 +76,13 @@
     "en": "You and I are Polar Opposites"
    },
    "contentRating": "safe",
-   "score": 0.2928742,
+   "score": 0.2928526,
    "languages": [
     "pt-br",
     "en",
     "vi",
-    "es",
-    "th"
+    "th",
+    "es"
    ]
   },
   {
@@ -91,76 +91,9 @@
     "en": "My Partner is Rotten"
    },
    "contentRating": "safe",
-   "score": 0.29050127,
+   "score": 0.29049557,
    "languages": [
     "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "7c2ab8e0-58e6-4315-93a1-c787ef765751",
-   "title": {
-    "en": "Aisupe @"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0d8da574-3a62-48a8-aad2-05225160b1a6",
-   "title": {
-    "en": "One Piece in Love"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c0e068aa-e7a5-41fc-b72f-39b613613a61",
-   "title": {
-    "en": "Amagami LS ~Haruka Another~"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b5351a0c-96af-49f7-898e-17914a082561",
-   "title": {
-    "en": "Boku no Kanojo wa Dekkawaii"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "vi",
-    "pl",
-    "en",
-    "pt-br",
-    "id",
-    "fr"
-   ]
-  },
-  {
-   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
-   "title": {
-    "en": "My Clueless First Friend"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en",
-    "uk",
-    "pt-br",
-    "ru",
-    "vi",
-    "it",
-    "id",
     "es-la"
    ]
   },
@@ -199,18 +132,19 @@
    ]
   },
   {
-   "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
+   "id": "b5351a0c-96af-49f7-898e-17914a082561",
    "title": {
-    "en": "Kusunoki's Flunking Her High School Glow-Up"
+    "en": "Boku no Kanojo wa Dekkawaii"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
-    "en",
     "vi",
-    "es-la",
+    "pl",
+    "en",
     "pt-br",
-    "ru"
+    "id",
+    "fr"
    ]
   },
   {
@@ -227,7 +161,74 @@
     "id",
     "es-la"
    ]
+  },
+  {
+   "id": "7c2ab8e0-58e6-4315-93a1-c787ef765751",
+   "title": {
+    "en": "Aisupe @"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
+   "title": {
+    "en": "Kusunoki's Flunking Her High School Glow-Up"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "vi",
+    "es-la",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "c0e068aa-e7a5-41fc-b72f-39b613613a61",
+   "title": {
+    "en": "Amagami LS ~Haruka Another~"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
+   "title": {
+    "en": "My Clueless First Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "uk",
+    "pt-br",
+    "ru",
+    "vi",
+    "it",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "590666db-1beb-4830-8732-dc11dfbe0148",
+   "title": {
+    "en": "Code Geass: Lelouch The Private Home Tutor"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-09T20:29:06+00:00"
+ "updatedAt": "2024-11-11T20:56:39+00:00"
 }

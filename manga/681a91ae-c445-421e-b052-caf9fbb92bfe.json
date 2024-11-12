@@ -3,41 +3,42 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Crime and Punishment - A Falsified Romance"
+   "en": "Crime and Punishment: A falsified romance"
   },
   "altTitles": [
    {
-    "en": "Crime and Punishment (OCHIAI Naoyuki)"
-   },
-   {
-    "ja-ro": "Tsumi to Batsu (OCHIAI Naoyuki)"
-   },
-   {
-    "ja": "罪と罰 (落合尚之)"
+    "ja": "罪と罰"
    },
    {
     "ja": "罪と罰 A Falsified Romance"
+   },
+   {
+    "ja-ro": "Tsumi to Batsu"
+   },
+   {
+    "ja-ro": "Tsumi to Batsu - A Falsified Romance"
+   },
+   {
+    "en": "Crime and Punishment: A Falsified Romance"
    },
    {
     "zh": "罪与罚"
    },
    {
     "ru": "Преступление и Наказание"
-   },
-   {
-    "ja-ro": "Tsumi to Batsu - A Falsified Romance"
    }
   ],
   "description": {
-   "en": "Miroku Tachi was a promising student until he dropped out of college. Now, after months spent as a NEET, he has hatched a plan to help his sister, himself, and the whole world… by murdering someone.  \n  \nBased on Crime and Punishment by Fyodor Dostoyevsky, but in a modern-day Japanese setting.",
+   "en": "Miroku Tachi was a promising student until he dropped out of college. Now, after months spent as a NEET, he has hatched a plan to help his sister, himself, and the whole world… by murdering someone.  \n  \nBased on *Crime and Punishment* by Fyodor Dostoyevsky but in a modern-day Japanese setting.\n___\n**Official English:** [emaqi - United States \u0026 Canada only!](https://emaqi.com/manga/crime-and-punishment-a-falsified-romance/volumes)",
    "ru": "Мироку Тачи был подающим надежды студентом, пока его не вышвырнули из колледжа. Теперь, спустя месяцы, проведенные в нищете и нужде, он решается помочь своей сестре, себе, и всему миру... совершив убийство."
   },
   "links": {
    "al": "49323",
    "amz": "https://www.amazon.co.jp/dp/B07872DK1Q",
    "ap": "crime-and-punishment-a-falsified-romance",
-   "bw": "series/16315/list",
+   "bw": "series/16315",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/108815/",
+   "engtl": "https://x.com/emaqi_official/status/1854886602834924008",
    "kt": "7438",
    "mal": "19323",
    "mu": "15611"
@@ -155,16 +156,18 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2018-01-26T08:31:10+00:00",
-  "updatedAt": "2023-02-19T04:18:11+00:00"
+  "updatedAt": "2024-11-10T02:23:34+00:00"
  },
  "relationships": [
   {
    "id": "1667f8f6-f4e1-4d14-b1ba-142bc6b119a4",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 落合尚之"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -178,9 +181,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ochiailyon",
+    "updatedAt": "2024-11-10T02:17:39+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -190,7 +193,9 @@
    "id": "1667f8f6-f4e1-4d14-b1ba-142bc6b119a4",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 落合尚之"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -204,9 +209,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ochiailyon",
+    "updatedAt": "2024-11-10T02:17:39+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

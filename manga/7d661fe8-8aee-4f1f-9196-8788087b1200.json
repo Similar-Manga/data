@@ -1,0 +1,104 @@
+{
+ "id": "7d661fe8-8aee-4f1f-9196-8788087b1200",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "คืนนี้ข้าจะล่อลวงศัตรูด้วยร่างกายของข้าเอง"
+  },
+  "description": {
+   "th": "ข้าสลับร่างกับศัตรูตัวฉกาจของข้า แล้วก็พบว่านางตั้งท้อง เมื่อข้าอยู่ในร่างของพระสนมหนิงข้าก็ถูกนางกลั่นแกล้งให้โมโหทุกวันและที่แย่กว่านั้นคือ: นางจิ้งจอกแสนเจ้าเล่ห์และน่ากลัวผู้นี้แอบมีใจให้กับข้า"
+  },
+  "originalLanguage": "th",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-11-10T10:53:16+00:00",
+  "updatedAt": "2024-11-10T21:24:16+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3b9a6f81-ffb5-4709-894d-277e86c1903b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-10T10:36:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "顾我，白三文化，Fire工作室",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-10T10:36:23+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3b9a6f81-ffb5-4709-894d-277e86c1903b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-10T10:36:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "顾我，白三文化，Fire工作室",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-10T10:36:23+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "15c661c5-0b3d-41ec-9d7a-64348854ffd3",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-10T10:53:20+00:00",
+    "description": "",
+    "fileName": "d1dfb7b0-a564-41b2-82b6-39a210f11436.jpg",
+    "locale": "th",
+    "updatedAt": "2024-11-10T10:53:20+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "e453ef3e-12e8-471b-aa4e-a99057207e58",
+   "type": "creator"
+  }
+ ]
+}

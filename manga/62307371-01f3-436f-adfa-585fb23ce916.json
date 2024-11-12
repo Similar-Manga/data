@@ -1,0 +1,180 @@
+{
+ "id": "62307371-01f3-436f-adfa-585fb23ce916",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Touhou - Keine o Kashite Choudai na (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "慧音を貸して頂戴な (東方)"
+   },
+   {
+    "ja-ro": "Keine o Kashite Choudai na (Touhou)"
+   },
+   {
+    "en": "Let Me Borrow Keine Would You? (Touhou)"
+   },
+   {
+    "vi": "Cho ta mượn Keine nhá (Touhou)"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.melonbooks.co.jp/detail/detail.php?product_id=124574"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2015,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-11-09T12:34:21+00:00",
+  "updatedAt": "2024-11-11T01:54:19+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ddf25b57-3735-4bba-903c-34092f10eeb2",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Unya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ddf25b57-3735-4bba-903c-34092f10eeb2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Unya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "094ac91c-34b8-47d0-9eac-6cfdfef1d073",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-09T12:34:25+00:00",
+    "description": "",
+    "fileName": "202d36c3-2460-42d3-92bf-98eaed853e26.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-09T12:34:25+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "11dfeee4-647a-4181-a942-4cd47032bd07",
+   "type": "creator"
+  }
+ ]
+}

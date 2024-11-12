@@ -32,7 +32,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "3e388818-360b-4d6a-854a-b093876b07c1",
+  "latestUploadedChapter": "0e6341a8-ca1d-48b8-8eda-d9c3e16a1541",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -71,6 +71,30 @@
     }
    },
    {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "9467335a-1b83-4497-9231-765337a00b96",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Post-Apocalyptic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
     "type": "tag",
     "attributes": {
@@ -79,6 +103,18 @@
      },
      "description": {},
      "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -120,9 +156,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 12,
   "createdAt": "2020-03-26T02:21:34+00:00",
-  "updatedAt": "2024-10-08T18:05:14+00:00"
+  "updatedAt": "2024-11-09T19:32:02+00:00"
  },
  "relationships": [
   {

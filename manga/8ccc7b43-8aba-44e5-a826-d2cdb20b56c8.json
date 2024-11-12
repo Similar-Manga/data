@@ -1,0 +1,151 @@
+{
+ "id": "8ccc7b43-8aba-44e5-a826-d2cdb20b56c8",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Akazukin-kun no Shuuchaku"
+  },
+  "altTitles": [
+   {
+    "ja": "赤ずきんくんの執着"
+   }
+  ],
+  "description": {
+   "ja": "白馬の王子様に憧れる少女・杏。ある日、彼女は学校の図書館で不思議な本を見つける。ページを開くと本に封印されていたグリム童話のキャラクターたちが解き放たれてしまって……!? ヤンデレ赤ずきんの少年と夢見る文学少女が織りなす、エモかわダークな童話×学園ファンタジー。はじまり、はじまり――…。"
+  },
+  "links": {
+   "mu": "5m7idfv",
+   "raw": "https://kansai.mag-garden.co.jp/series/d7cef57f1543d"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-11T10:50:17+00:00",
+  "updatedAt": "2024-11-11T10:51:04+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8d0505d5-77c5-4c59-a3d6-8d96c2844bb3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-11T10:47:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Isanami Suyao",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T10:47:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8d0505d5-77c5-4c59-a3d6-8d96c2844bb3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-11T10:47:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Isanami Suyao",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T10:47:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cb01a622-2c4e-4698-b353-f87e1b4b0af3",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-11T10:50:37+00:00",
+    "description": "",
+    "fileName": "2ed7b740-04f5-4c8d-9194-79a4d1cbc9c8.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-11T10:50:37+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

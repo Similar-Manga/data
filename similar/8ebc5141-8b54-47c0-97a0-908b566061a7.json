@@ -6,43 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "efd50f80-4d61-4ba6-a788-daeb90f4843e",
-   "title": {
-    "en": "Ishi ni Usubeni, Tetsu ni Hoshi"
-   },
-   "contentRating": "safe",
-   "score": 0.22185336,
-   "languages": [
-    "uk",
-    "vi",
-    "en",
-    "ru",
-    "th",
-    "fr",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
-   "title": {
-    "en": "Foo Fighter Fuji"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "748db5ec-de42-4083-bcb6-ea2d99cd0e84",
    "title": {
     "en": "Love You"
    },
    "contentRating": "safe",
-   "score": 0.21597971,
+   "score": 0.22469103,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9f8f05a4-15cb-45ee-81c6-3f9698862d47",
+   "title": {
+    "en": "Hero Killer"
+   },
+   "contentRating": "safe",
+   "score": 0.2166466,
+   "languages": [
+    "fr",
+    "en",
+    "pl",
+    "tr"
    ]
   },
   {
@@ -61,83 +46,12 @@
    ]
   },
   {
-   "id": "9f8f05a4-15cb-45ee-81c6-3f9698862d47",
+   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
    "title": {
-    "en": "Hero Killer"
+    "en": "Foo Fighter Fuji"
    },
    "contentRating": "safe",
-   "score": 0.21356742,
-   "languages": [
-    "fr",
-    "en",
-    "pl",
-    "tr"
-   ]
-  },
-  {
-   "id": "86b4a817-4c42-401c-b7c7-ed0c0f80bc60",
-   "title": {
-    "en": "31 Heroes"
-   },
-   "contentRating": "safe",
-   "score": 0.21198682,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "84e70b38-9586-416b-abd6-d60a19a645bc",
-   "title": {
-    "en": "Shunkan × Heroism"
-   },
-   "contentRating": "safe",
-   "score": 0.21129127,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
-   "title": {
-    "en": "SKY CLAW"
-   },
-   "contentRating": "safe",
-   "score": 0.20884126,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "b5a737bc-080a-4e20-bad2-89d77f83deb8",
-   "title": {
-    "en": "Fluctuations of the Hitman S"
-   },
-   "contentRating": "safe",
-   "score": 0.20476887,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "357edf8c-a728-462f-817c-33ee12e785c3",
-   "title": {
-    "en": "Anne-chan Tarou"
-   },
-   "contentRating": "safe",
-   "score": 0.20057568,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6cb8e355-f34e-477c-b79e-4f387617fa41",
-   "title": {
-    "en": "29 de Bukiyou de"
-   },
-   "contentRating": "safe",
-   "score": 0.19997138,
+   "score": 0.21597971,
    "languages": [
     "en"
    ]
@@ -148,11 +62,133 @@
     "en": "LOVE THE WARZ"
    },
    "contentRating": "safe",
-   "score": 0.19905473,
+   "score": 0.21342824,
    "languages": [
     "en",
     "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "86b4a817-4c42-401c-b7c7-ed0c0f80bc60",
+   "title": {
+    "en": "31 Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.21321876,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "84e70b38-9586-416b-abd6-d60a19a645bc",
+   "title": {
+    "en": "Shunkan × Heroism"
+   },
+   "contentRating": "safe",
+   "score": 0.2129965,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e2d0a988-33c6-4df2-b2f0-edaebd022845",
+   "title": {
+    "en": "SKY CLAW"
+   },
+   "contentRating": "safe",
+   "score": 0.21175589,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "a1ab1bbe-baeb-498c-88b0-c29a735dadbb",
+   "title": {
+    "en": "Love Attack"
+   },
+   "contentRating": "safe",
+   "score": 0.21034667,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b5a737bc-080a-4e20-bad2-89d77f83deb8",
+   "title": {
+    "en": "Fluctuations of the Hitman S"
+   },
+   "contentRating": "safe",
+   "score": 0.20537424,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "357edf8c-a728-462f-817c-33ee12e785c3",
+   "title": {
+    "en": "Anne-chan Tarou"
+   },
+   "contentRating": "safe",
+   "score": 0.20516239,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "816b8429-118d-46bd-9cdc-9554c816bde1",
+   "title": {
+    "en": "No Strategy, No Bullshit."
+   },
+   "contentRating": "safe",
+   "score": 0.20506048,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e89d4b05-714f-4e64-8105-4243858909f0",
+   "title": {
+    "en": "Sono Koi, Damasarete Imasenka?"
+   },
+   "contentRating": "safe",
+   "score": 0.20420547,
+   "languages": [
+    "fr",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "6f672b0c-4952-47d9-8a8a-53130c5759aa",
+   "title": {
+    "en": "A Story About Confessing Before the End of the World"
+   },
+   "contentRating": "safe",
+   "score": 0.20408164,
+   "languages": [
+    "zh",
+    "fr",
+    "it",
+    "tr",
+    "en",
+    "ru",
+    "nl",
+    "uk",
+    "vi"
+   ]
+  },
+  {
+   "id": "09d51cdd-e3c1-4537-8f58-2fb959bee5bc",
+   "title": {
+    "en": "Bokuretsu Manken Love Gun"
+   },
+   "contentRating": "safe",
+   "score": 0.20161493,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -161,7 +197,7 @@
     "en": "Enma Gavel"
    },
    "contentRating": "safe",
-   "score": 0.19855483,
+   "score": 0.20041883,
    "languages": [
     "id",
     "ru",
@@ -171,48 +207,7 @@
     "pt-br",
     "pl"
    ]
-  },
-  {
-   "id": "8bae52fd-be5e-4157-844a-77a0f1bc63f4",
-   "title": {
-    "en": "Shimatsuya K"
-   },
-   "contentRating": "safe",
-   "score": 0.1972641,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7c418a1c-9241-451e-995a-31f673b4340a",
-   "title": {
-    "en": "Sleepy Princess in the Demon Castle"
-   },
-   "contentRating": "safe",
-   "score": 0.19662537,
-   "languages": [
-    "zh-hk",
-    "pt-br",
-    "es-la",
-    "en",
-    "pl",
-    "fr",
-    "id",
-    "th"
-   ]
-  },
-  {
-   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
-   "title": {
-    "en": "CROSS"
-   },
-   "contentRating": "safe",
-   "score": 0.19562268,
-   "languages": [
-    "en",
-    "de"
-   ]
   }
  ],
- "updatedAt": "2024-11-09T20:50:08+00:00"
+ "updatedAt": "2024-11-11T21:24:13+00:00"
 }
