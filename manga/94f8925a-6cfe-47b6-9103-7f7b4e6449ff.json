@@ -7,20 +7,25 @@
   },
   "altTitles": [
    {
-    "ja": "派遣社員お銀"
+    "ja": "派遣社員 お銀"
    },
    {
-    "ja-ro": "Contingent Worker Oginn"
+    "ja": "Contingent Worker OGINN"
+   },
+   {
+    "en": "Dispatch Employee Ogin"
    }
   ],
   "description": {},
   "links": {
    "al": "51893",
-   "amz": "https://www.amazon.co.jp/-/en/%E7%A5%9E%E5%B0%BE%E9%BE%8D-ebook/dp/B00KIKM69K/ref=sr_1_3?keywords=%E8%90%BD%E5%90%88%E5%B0%9A%E4%B9%8B\u0026qid=1685871005\u0026s=digital-text\u0026sr=1-3",
+   "amz": "https://www.amazon.co.jp/dp/B00KIKM69K",
+   "ap": "hakenshain-ogin",
    "bw": "dea7f7b016-af52-422e-97bb-791ecc38565f",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/122322/",
    "mal": "21893",
-   "mu": "6kcb9oq"
+   "mu": "6kcb9oq",
+   "raw": "https://csbs.shogakukan.co.jp/book?book_group_id=6992"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -68,33 +73,33 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 6,
   "createdAt": "2023-06-04T09:39:00+00:00",
-  "updatedAt": "2023-06-04T09:48:36+00:00"
+  "updatedAt": "2024-11-12T00:54:48+00:00"
  },
  "relationships": [
   {
-   "id": "1667f8f6-f4e1-4d14-b1ba-142bc6b119a4",
+   "id": "eeee8ce2-5cf2-4dd1-93ab-431074454e6b",
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 落合尚之"
+     "en": "**Name In Native Language:** 上代務"
     },
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2024-07-20T11:53:41+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Ochiai Naoyuki",
+    "name": "Kamishiro Tsutomu",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": "https://twitter.com/ochiailyon",
-    "updatedAt": "2024-11-10T02:17:39+00:00",
+    "twitter": null,
+    "updatedAt": "2024-11-12T00:36:26+00:00",
     "version": 2,
     "website": null,
     "weibo": null,
@@ -130,14 +135,14 @@
    }
   },
   {
-   "id": "c0c00201-0646-4c3e-b1e9-6bdd3e4015c1",
+   "id": "fcb17e58-73aa-497d-8d1c-611ac84e7896",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-06-04T09:39:01+00:00",
+    "createdAt": "2024-11-12T00:35:38+00:00",
     "description": "",
-    "fileName": "a1d3fdbe-a25b-4a40-a797-1e047da209a4.jpg",
+    "fileName": "76b59d24-904d-4050-bc64-b9714450148c.jpg",
     "locale": "ja",
-    "updatedAt": "2023-06-04T09:39:01+00:00",
+    "updatedAt": "2024-11-12T00:35:38+00:00",
     "version": 1,
     "volume": "1"
    }

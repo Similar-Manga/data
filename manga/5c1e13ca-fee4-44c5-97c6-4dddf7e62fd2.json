@@ -17,7 +17,7 @@
    }
   ],
   "description": {
-   "en": "Levis Cloyd, a man who transmigrated from Earth to another world, is bound to live a time-limited life. To survive, he must kill living beings.\n\nLiving with the motto of \"if you are going through hell, keep going, \" he meets another opportunity.\n- - -\nMinhyuk, a bedridden man in Korea, meticulously counts his waning days when suddenly, he's transmigrated to another world where he gains the new identity of Levis, the Soul Harvester. \n\nIn this world, Levis must claim lives to extend his own, a haunting paradox that he must come to terms with.\n\nForced to grapple with a life tethered to a merciless ticking clock, Levis becomes a harbinger of fate, tasked with the daunting responsibility of ending the lives of others in order to preserve his own.\n\nHow far does the will to survive stretch? Is one life's preservation worth another's demise?"
+   "en": "Levis Cloyd, a man who transmigrated from Earth to another world, is bound to live a time-limited life. To survive, he must kill living beings.\n\nLiving with the motto of \"if you are going through hell, keep going, \" he meets another opportunity.orth another's demise?"
   },
   "links": {
    "al": "178776",
@@ -43,6 +43,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -179,6 +191,18 @@
     }
    },
    {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
@@ -192,9 +216,9 @@
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 13,
   "createdAt": "2023-08-18T17:00:59+00:00",
-  "updatedAt": "2024-11-08T12:04:21+00:00"
+  "updatedAt": "2024-11-12T21:49:11+00:00"
  },
  "relationships": [
   {

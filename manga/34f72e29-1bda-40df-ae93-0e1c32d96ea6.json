@@ -7,12 +7,6 @@
   },
   "altTitles": [
    {
-    "ru": "Прикладное колдовство"
-   },
-   {
-    "th": "สงครามแม่มด"
-   },
-   {
     "ja": "ウィッチクラフトワークス"
    },
    {
@@ -20,6 +14,12 @@
    },
    {
     "zh": "魔女的使命"
+   },
+   {
+    "ru": "Прикладное колдовство"
+   },
+   {
+    "th": "สงครามแม่มด"
    }
   ],
   "description": {
@@ -28,9 +28,9 @@
   },
   "links": {
    "al": "49896",
-   "amz": "https://www.amazon.co.jp/gp/product/B074CDVSFB",
+   "amz": "https://www.amazon.co.jp/dp/B074CDVSFB",
    "ap": "witch-craft-works",
-   "bw": "series/3562/list",
+   "bw": "series/3562",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/126302/",
    "engtl": "https://kodansha.us/series/witchcraft-works/",
    "kt": "8341",
@@ -143,9 +143,9 @@
    }
   ],
   "state": "published",
-  "version": 30,
+  "version": 31,
   "createdAt": "2018-01-18T23:13:05+00:00",
-  "updatedAt": "2024-10-11T14:07:18+00:00"
+  "updatedAt": "2024-11-11T15:23:12+00:00"
  },
  "relationships": [
   {
@@ -201,22 +201,27 @@
    }
   },
   {
-   "id": "9b1fbf5e-de71-47b3-bf37-b52e1bd2d606",
+   "id": "e3184866-d1c0-4c05-a639-4c07895b9f3b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-25T16:19:04+00:00",
+    "createdAt": "2022-03-11T18:36:13+00:00",
     "description": "",
-    "fileName": "5e7d7c75-4e25-4102-be66-95de8557f711.jpg",
+    "fileName": "b34ceb5d-776a-4752-b592-5d52889c28a9.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-25T16:19:04+00:00",
+    "updatedAt": "2022-03-11T18:36:13+00:00",
     "version": 1,
-    "volume": "20"
+    "volume": "17"
    }
   },
   {
    "id": "18c41d02-408a-4a84-9aba-713eb3269376",
    "type": "manga",
    "related": "doujinshi"
+  },
+  {
+   "id": "550c2ac8-dce7-4820-a216-e70183405aa1",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "aa8ba8d4-a5fc-4c69-a536-502535e4714c",

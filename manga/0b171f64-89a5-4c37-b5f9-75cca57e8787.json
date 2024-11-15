@@ -3,14 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hazure Waku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete o Juurin Suru made"
+   "en": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete o Juurin Suru made"
   },
   "altTitles": [
    {
     "ja": "ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで"
    },
    {
+    "ja-ro": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made"
+   },
+   {
+    "ja-ro": "Hazure Waku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin Suru made"
+   },
+   {
     "en": "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells"
+   },
+   {
+    "en": "How I Became The Strongest And Trampled Everything With The [Status Abnormality Skills] That Were Thought To Be Duds"
    },
    {
     "ko": "꽝취급 받는 [상태이상 스킬]로 최강이 된 내가 전부 유린할 때까지"
@@ -29,7 +38,7 @@
    }
   ],
   "description": {
-   "en": "Mimori Touka has always been something of a background character in his high school. So when he and his classmates are summoned to a fantasy land and gifted with incredible skills, it seems like the perfect opportunity to make a name for himself. The only problem? Mimori’s skills are abysmal at best, and he’s banished to a deadly dungeon. But as he begins to test these new abilities, he discovers just how powerful he’s become. Can Mimori fight his way back to exact revenge?!",
+   "en": "Mimori Touka has always been something of a background character in his high school. So when he and his classmates are summoned to a fantasy land and gifted with incredible skills, it seems like the perfect opportunity to make a name for himself. The only problem? Mimori’s skills are abysmal at best, and he’s banished to a deadly dungeon. But as he begins to test these new abilities, he discovers just how powerful he’s become. Can Mimori fight his way back to exact revenge?!\n___\n**Compositor:** [Uchiuchi Keyaki](https://mangadex.org/author/3b71274c-d84b-4505-bed0-1ee2adda188f)\n**Character Designer:** [KWKM](https://mangadex.org/author/d7705978-2785-490d-8292-71738dc20ef3)",
    "ja": "学校では“空気モブ”な高校生・三森灯火は、クラスメイトとともに勇者として異世界に召喚された。しかし、次々と周りがＳ級やＡ級の才覚を見出される中、〝廃棄対象〟となるＥ級の才能しかないと宣告されてしまう。救済を求める彼にクラスメイトが向けたのは蔑みの眼差しで……。そして、召喚主の女神ヴィシスにより生存者ゼロの遺跡に廃棄される。絶望に満ちた奈落の底で煮えたぎる復讐心を抱えた少年は、ハズレ枠と誹られた【状態異常スキル】で魔物を蹂躙する！\n\n「何をしても生き残る――クソ女神に一発くれてやるまでは」",
    "pt": "Durante a viagem escolar Touka e seus colegas são convocados para outro mundo. No entanto, Touka foi o único com a classificação mais baixa: Rank-E - um status extremamente baixo em comparação com seus colegas de classe. Assim, o personagem secundário e herói abandonado, se tornara o mais forte à medida que avança e contra-ataca.\n\n\n---",
    "pt-br": "Durante a viagem escolar, Touka e seus colegas são convocados para outro mundo. No entanto, Touka foi o único com a classificação mais baixa: Rank E – um status extremamente baixo comparado a seus colegas de classe. Assim, o herói abandonado se tornará absolutamente o demônio mais forte à medida que avança e contra-ataca.",
@@ -39,7 +48,7 @@
    "al": "110989",
    "amz": "https://www.amazon.co.jp/dp/B08KWMPS89",
    "ap": "hazure-waku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
-   "bw": "series/230059/list",
+   "bw": "series/230059",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2446402",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/570656",
    "engtl": "https://sevenseasentertainment.com/series/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-manga/",
@@ -63,7 +72,7 @@
    "fr",
    "id"
   ],
-  "latestUploadedChapter": "957f85f1-a3f8-462f-a0b1-c976c2a52827",
+  "latestUploadedChapter": "dfbeb8ff-1832-4703-a32a-2c3e9a25ed4d",
   "tags": [
    {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
@@ -175,23 +184,25 @@
    }
   ],
   "state": "published",
-  "version": 44,
+  "version": 47,
   "createdAt": "2020-01-27T12:05:05+00:00",
-  "updatedAt": "2024-10-26T10:30:45+00:00"
+  "updatedAt": "2024-11-12T22:06:52+00:00"
  },
  "relationships": [
   {
    "id": "fbeb49a6-fa4d-44da-8f4d-a8d35ef04d5e",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 篠崎芳"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Shinozaki Kaoru (篠崎芳)",
+    "name": "Shinozaki Kaoru",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -199,9 +210,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-12T19:06:25+00:00",
+    "version": 2,
+    "website": "https://mypage.syosetu.com/381532/",
     "weibo": null,
     "youtube": null
    }
@@ -210,7 +221,9 @@
    "id": "33712d0a-1f72-4ed7-b623-41e3065701ea",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鵜吉しょう\n\n**Also Known As:** Uyoshi (うよし)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -221,56 +234,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/60074",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "3b71274c-d84b-4505-bed0-1ee2adda188f",
-   "type": "artist",
-   "attributes": {
-    "biography": {
-     "en": "**Alt names**:\n内々けやき"
-    },
-    "booth": "https://keyaki.booth.pm/",
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Uchiuchi Keyaki",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/users/557089",
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/keyaki0202",
-    "updatedAt": "2024-05-04T03:53:10+00:00",
+    "twitter": "https://twitter.com/uyoshi19",
+    "updatedAt": "2024-11-12T20:48:19+00:00",
     "version": 2,
-    "website": null,
+    "website": "http://mihamanonacchan.blog122.fc2.com/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "514743f9-c749-4320-aef8-519829092333",
+   "id": "2087854e-c409-413f-8a10-53ea6bc9744a",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-10T22:31:21+00:00",
-    "description": "",
-    "fileName": "4e35ff58-d0b1-4f44-8c28-ed604542d8d9.jpg",
+    "createdAt": "2024-11-13T03:37:21+00:00",
+    "description": "Volume Cover From The Artist's Twitter",
+    "fileName": "7b3ab437-4da9-4607-8841-5ac640cebf42.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-10T22:31:21+00:00",
+    "updatedAt": "2024-11-13T03:37:21+00:00",
     "version": 1,
-    "volume": "10"
+    "volume": "11"
    }
   }
  ]

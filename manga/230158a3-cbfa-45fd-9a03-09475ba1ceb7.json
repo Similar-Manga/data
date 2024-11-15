@@ -3,11 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Fire Emblem: Kakusei - Fire Loveblem - Kakusei Kinshin Daigattai (Doujinshi)"
+   "en": "Fire Emblem: Awakening - Fire Loveblem: Awakening Great Incest Union (Doujinshi)"
   },
+  "altTitles": [
+   {
+    "ja": "ファイアーエムブレム 覚醒 - ファイアーラブブレム 覚醒近親大合体"
+   },
+   {
+    "ja-ro": "Fire Emblem: Kakusei - Fire Loveblem - Kakusei Kinshin Daigattai"
+   }
+  ],
   "description": {},
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2012,
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en"
@@ -15,14 +24,26 @@
   "latestUploadedChapter": "df36348e-e8d2-444b-9853-1e2c8128d1a8",
   "tags": [
    {
-    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Oneshot"
+      "en": "Anthology"
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "5bd0e105-4481-44ca-b6e7-7544da56b1a3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Incest"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -40,13 +61,13 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2019-07-05T08:31:50+00:00",
-  "updatedAt": "2024-09-11T17:34:03+00:00"
+  "updatedAt": "2024-11-12T21:10:30+00:00"
  },
  "relationships": [
   {
-   "id": "fe077de6-ddc9-4752-9161-d3197d21ec0d",
+   "id": "02ed1c69-4744-478f-9c1b-02fd74420e6c",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -56,7 +77,249 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Bronco Hitoritabi",
+    "name": "Leonardo 16Sei",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0dc40252-5d22-405a-85fa-91df0a0c1aac",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Links:**\n- [Twitter (NSFW)](https://twitter.com/noi3)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Noise",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/22604",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/St_noi3",
+    "updatedAt": "2024-05-05T06:30:00+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "19fda4c1-3237-44cb-8e84-6d491a2ce917",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yajiro Masaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1d48c68c-0bb7-4265-a4f1-2a3897b1a618",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Konpeto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3b71274c-d84b-4505-bed0-1ee2adda188f",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 内々けやき\n\n**Circle:** [Bronco Hitoritabi](https://mangadex.org/author/c27a9d86-34a5-4d4f-81bc-a8b34fb2c3b1) (ブロンコ一人旅)\n\nCompositor for [Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://mangadex.org/title/0b171f64-89a5-4c37-b5f9-75cca57e8787)."
+    },
+    "booth": "https://keyaki.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/search/search.php?mode=search\u0026text_type=author\u0026name=%E5%86%85%E3%80%85%E3%81%91%E3%82%84%E3%81%8D",
+    "name": "Uchiuchi Keyaki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/557089",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/keyaki0202",
+    "updatedAt": "2024-11-12T21:50:49+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8578fc3b-7fb0-4784-b134-cd710aefae8e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c02fd9e6-22af-46d8-be17-59d2f3194042",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nono",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c27a9d86-34a5-4d4f-81bc-a8b34fb2c3b1",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** ブロンコ一人旅\n\nCircle of [Uchiuchi Keyaki](https://mangadex.org/author/3b71274c-d84b-4505-bed0-1ee2adda188f)."
+    },
+    "booth": "https://keyaki.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=15300",
+    "name": "Bronco Hitoritabi (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-12T21:43:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c7597eaf-3009-4c9b-801f-be2d4685b8f0",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nItsumu (いつむ)\nたまごろー\n\n**Circle**: [Funi Funi Lab](https://mangadex.org/author/8e054931-4398-4d2a-ad74-7df826615b28) (フニフニラボ)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamagoro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/83063",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tama_funi",
+    "updatedAt": "2023-07-21T19:17:49+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "da39c903-1638-4213-8e7e-299d70e65f64",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Lala-kun",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -83,32 +346,6 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Leonardo 16Sei",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "0b878651-3090-42be-abeb-9b8c0b2e0d44",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Uchi-Uchi Keyaki",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -204,6 +441,34 @@
    }
   },
   {
+   "id": "3b71274c-d84b-4505-bed0-1ee2adda188f",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 内々けやき\n\n**Circle:** [Bronco Hitoritabi](https://mangadex.org/author/c27a9d86-34a5-4d4f-81bc-a8b34fb2c3b1) (ブロンコ一人旅)\n\nCompositor for [Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://mangadex.org/title/0b171f64-89a5-4c37-b5f9-75cca57e8787)."
+    },
+    "booth": "https://keyaki.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/search/search.php?mode=search\u0026text_type=author\u0026name=%E5%86%85%E3%80%85%E3%81%91%E3%82%84%E3%81%8D",
+    "name": "Uchiuchi Keyaki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/557089",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/keyaki0202",
+    "updatedAt": "2024-11-12T21:50:49+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "8578fc3b-7fb0-4784-b134-cd710aefae8e",
    "type": "artist",
    "attributes": {
@@ -250,6 +515,34 @@
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c27a9d86-34a5-4d4f-81bc-a8b34fb2c3b1",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** ブロンコ一人旅\n\nCircle of [Uchiuchi Keyaki](https://mangadex.org/author/3b71274c-d84b-4505-bed0-1ee2adda188f)."
+    },
+    "booth": "https://keyaki.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=15300",
+    "name": "Bronco Hitoritabi (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-12T21:43:57+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -310,16 +603,16 @@
    }
   },
   {
-   "id": "af7c9a91-9a4b-4f16-af8e-1cd4f296fd50",
+   "id": "7eaa1d47-f615-4f8f-b901-95865c6144fa",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:17:50+00:00",
+    "createdAt": "2024-11-12T21:08:15+00:00",
     "description": "",
-    "fileName": "a3e943e3-303a-4414-a3b5-e1449472f5df.jpg",
+    "fileName": "3a31f268-5b32-4d8c-bf21-b198e94bc2f1.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:17:50+00:00",
+    "updatedAt": "2024-11-12T21:08:15+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

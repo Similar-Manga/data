@@ -11,7 +11,7 @@
     "en": "Blue Box"
    },
    "contentRating": "safe",
-   "score": 0.2899101,
+   "score": 0.2963226,
    "languages": [
     "vi",
     "es-la",
@@ -38,7 +38,7 @@
     "en": "Bullet 6mm"
    },
    "contentRating": "safe",
-   "score": 0.28299657,
+   "score": 0.29309547,
    "languages": [
     "en"
    ]
@@ -49,7 +49,7 @@
     "en": "Build Up"
    },
    "contentRating": "safe",
-   "score": 0.272117,
+   "score": 0.28048468,
    "languages": [
     "en",
     "fr",
@@ -58,12 +58,24 @@
    ]
   },
   {
+   "id": "8e793b67-8e2e-4901-a0bf-27fa9ff769c7",
+   "title": {
+    "en": "Fairway no Koe wo Kikasete"
+   },
+   "contentRating": "safe",
+   "score": 0.25943515,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
    "id": "ec0c3cbf-dc3d-4df2-b2c6-2af7ad41541e",
    "title": {
     "en": "Mane Mane Nichi Nichi"
    },
    "contentRating": "safe",
-   "score": 0.2608518,
+   "score": 0.25705647,
    "languages": [
     "en",
     "fr",
@@ -79,20 +91,8 @@
     "en": "Dorahachi"
    },
    "contentRating": "safe",
-   "score": 0.25581625,
+   "score": 0.25631848,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8e793b67-8e2e-4901-a0bf-27fa9ff769c7",
-   "title": {
-    "en": "Fairway no Koe wo Kikasete"
-   },
-   "contentRating": "safe",
-   "score": 0.2551638,
-   "languages": [
-    "zh-hk",
     "en"
    ]
   },
@@ -117,6 +117,19 @@
    ]
   },
   {
+   "id": "c1cf1700-3f87-4b29-89f2-d89d58307830",
+   "title": {
+    "en": "Idol A"
+   },
+   "contentRating": "safe",
+   "score": 0.24697177,
+   "languages": [
+    "pt-br",
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "127d4af7-4062-45ec-afb7-b8cf33deb3db",
    "title": {
     "en": "Welcome to the Ballroom"
@@ -135,16 +148,14 @@
    ]
   },
   {
-   "id": "c1cf1700-3f87-4b29-89f2-d89d58307830",
+   "id": "d629a4a1-8e50-4e1d-8b9c-e782228483af",
    "title": {
-    "en": "Idol A"
+    "en": "Sasameke"
    },
    "contentRating": "safe",
-   "score": 0.24494165,
+   "score": 0.24479795,
    "languages": [
-    "pt-br",
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
@@ -156,33 +167,6 @@
    "score": 0.24060427,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "8f3c24d3-6e15-4fea-a60f-f80cef482853",
-   "title": {
-    "en": "Ahiru no Sora"
-   },
-   "contentRating": "safe",
-   "score": 0.23943856,
-   "languages": [
-    "en",
-    "tl",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
-   "title": {
-    "en": "Red Blue"
-   },
-   "contentRating": "safe",
-   "score": 0.23939572,
-   "languages": [
-    "en",
-    "pt-br",
-    "id"
    ]
   },
   {
@@ -200,25 +184,34 @@
    ]
   },
   {
-   "id": "d629a4a1-8e50-4e1d-8b9c-e782228483af",
+   "id": "96ae166c-d8e1-4e9e-88cb-805b65154d7e",
    "title": {
-    "en": "Sasameke"
+    "en": "Red Blue"
    },
    "contentRating": "safe",
-   "score": 0.23697868,
+   "score": 0.23939572,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "id"
    ]
   },
   {
-   "id": "6497b73a-713a-4760-8927-5e34f83544a7",
+   "id": "9eb78304-0436-484d-9a79-a925b45e2731",
    "title": {
-    "en": "Tonde Hi ni Iru Natsu to Mushi"
+    "en": "Wind Breaker"
    },
    "contentRating": "safe",
-   "score": 0.22671624,
+   "score": 0.23542915,
    "languages": [
-    "en"
+    "pt-br",
+    "ru",
+    "fr",
+    "en",
+    "vi",
+    "es-la",
+    "id",
+    "fa"
    ]
   },
   {
@@ -227,14 +220,25 @@
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.22581016,
+   "score": 0.23495038,
    "languages": [
     "ru",
     "en",
     "es",
     "pt-br"
    ]
+  },
+  {
+   "id": "6497b73a-713a-4760-8927-5e34f83544a7",
+   "title": {
+    "en": "Tonde Hi ni Iru Natsu to Mushi"
+   },
+   "contentRating": "safe",
+   "score": 0.23453423,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-11T20:31:22+00:00"
+ "updatedAt": "2024-11-13T20:32:51+00:00"
 }

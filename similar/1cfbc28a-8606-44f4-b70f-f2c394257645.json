@@ -6,12 +6,15 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "77e6e73d-2819-4525-b030-1a2169031291",
+   "id": "6e3d0841-96b5-48f3-9b71-dea671b51fab",
    "title": {
-    "en": "U-31"
+    "en": "Highway Wolf"
    },
    "contentRating": "safe",
-   "score": 0.28350797
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "a28efef2-bb97-4fe9-82fa-adfcd4c99cd6",
@@ -20,19 +23,6 @@
    },
    "contentRating": "safe",
    "score": 0.28350797
-  },
-  {
-   "id": "d88f684f-6cfe-4d31-9605-9e9f73f7ff11",
-   "title": {
-    "en": "The Days of Diamond"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "pt-br",
-    "en",
-    "vi"
-   ]
   },
   {
    "id": "876944c8-8085-4de6-8ad1-4dc71df5924e",
@@ -51,40 +41,24 @@
    "score": 0.28350797
   },
   {
-   "id": "6e3d0841-96b5-48f3-9b71-dea671b51fab",
+   "id": "77e6e73d-2819-4525-b030-1a2169031291",
    "title": {
-    "en": "Highway Wolf"
+    "en": "U-31"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797
+  },
+  {
+   "id": "d88f684f-6cfe-4d31-9605-9e9f73f7ff11",
+   "title": {
+    "en": "The Days of Diamond"
    },
    "contentRating": "safe",
    "score": 0.28350797,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a8c1f264-e95c-4d9a-bbbe-4cd8e5e293d2",
-   "title": {
-    "en": "Zero Angel: The Clear Blue Fallen Angel"
-   },
-   "contentRating": "safe",
-   "score": 0.23814702,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5763292a-3bb7-43e8-a0fc-53f2140253a2",
-   "title": {
-    "en": "Bungo"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328,
-   "languages": [
-    "en",
     "pt-br",
-    "es",
-    "fr",
-    "ru"
+    "en",
+    "vi"
    ]
   },
   {
@@ -104,12 +78,51 @@
    "score": 0.23148328
   },
   {
+   "id": "7a4c4f71-e139-4cc0-a72a-2b16b9d27bfa",
+   "title": {
+    "en": "Momotarou (UCHIYAMA Mamoru)"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328
+  },
+  {
    "id": "ddab3920-3961-466a-8798-cf5436aba395",
    "title": {
     "en": "Decathlon"
    },
    "contentRating": "safe",
    "score": 0.23148328
+  },
+  {
+   "id": "d8c36e4e-b702-46c3-9799-cc6f6148c197",
+   "title": {
+    "en": "Koshien for our Nine People"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328
+  },
+  {
+   "id": "1a5522a7-741c-4f9f-9486-68d75d870ef4",
+   "title": {
+    "en": "The Racer's Mourning Band is a Red Rose"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328
+  },
+  {
+   "id": "5763292a-3bb7-43e8-a0fc-53f2140253a2",
+   "title": {
+    "en": "Bungo"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "en",
+    "pt-br",
+    "es",
+    "fr",
+    "ru"
+   ]
   },
   {
    "id": "070bc563-823d-48e3-8bd1-911a0314f7f5",
@@ -123,33 +136,12 @@
    ]
   },
   {
-   "id": "1a5522a7-741c-4f9f-9486-68d75d870ef4",
-   "title": {
-    "en": "The Racer's Mourning Band is a Red Rose"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328
-  },
-  {
    "id": "814f530a-65ad-47fa-a0df-2385eaf8346b",
    "title": {
     "en": "Akudou Warugaki"
    },
    "contentRating": "safe",
    "score": 0.23148328
-  },
-  {
-   "id": "5eb2c6fa-4dc4-4fba-974f-ae44bd8ce2ff",
-   "title": {
-    "en": "Ao Ashi Brotherfoot"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328,
-   "languages": [
-    "en",
-    "es-la",
-    "fr"
-   ]
   },
   {
    "id": "08a8c8ad-915c-42b4-9a2d-8cfa6aabb843",
@@ -160,5 +152,5 @@
    "score": 0.23148328
   }
  ],
- "updatedAt": "2024-11-11T20:32:24+00:00"
+ "updatedAt": "2024-11-13T20:34:00+00:00"
 }

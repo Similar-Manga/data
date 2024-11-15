@@ -3,14 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tokumu Sentai Shinesman"
+   "en": "Special Task Force Shinesman"
   },
   "altTitles": [
    {
     "en": "Shinesman"
    },
    {
-    "en": "特務戦隊シャインズマン"
+    "ja": "特務戦隊シャインズマン"
+   },
+   {
+    "ja-ro": "Tokumu Sentai Shinesman"
    }
   ],
   "description": {
@@ -58,9 +61,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2018-06-18T14:22:24+00:00",
-  "updatedAt": "2021-05-25T15:46:01+00:00"
+  "updatedAt": "2024-11-11T05:56:37+00:00"
  },
  "relationships": [
   {

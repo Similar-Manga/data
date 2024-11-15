@@ -1,0 +1,161 @@
+{
+ "id": "ef4ead73-57a7-4d10-95b3-de73cfdd2670",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Minasoko"
+  },
+  "altTitles": [
+   {
+    "ja": "水底"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-09T10:22:39+00:00",
+  "updatedAt": "2024-11-11T20:15:22+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7222d0d5-836c-4bf3-9174-72bceade8c87",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nコトヤマ\n\n**Circle**: [nogoodlife](https://mangadex.org/author/1b446b41-c358-4209-af99-b3a6eaf749d0)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kotoyama",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/cot_510",
+    "updatedAt": "2023-06-29T00:06:16+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7222d0d5-836c-4bf3-9174-72bceade8c87",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nコトヤマ\n\n**Circle**: [nogoodlife](https://mangadex.org/author/1b446b41-c358-4209-af99-b3a6eaf749d0)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kotoyama",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/cot_510",
+    "updatedAt": "2023-06-29T00:06:16+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ea7fea4b-2c3e-4652-89a8-e52fad06b4a5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-09T10:22:48+00:00",
+    "description": "",
+    "fileName": "59badaa4-02bb-481a-bd46-99089ecc4f8b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-09T10:22:48+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "b4f4495e-db0f-4d1e-a8df-72bd1f79c136",
+   "type": "creator"
+  }
+ ]
+}

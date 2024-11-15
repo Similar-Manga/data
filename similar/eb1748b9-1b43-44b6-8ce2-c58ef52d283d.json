@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
+   "title": {
+    "en": "Semi-Eternal Happy End"
+   },
+   "contentRating": "safe",
+   "score": 0.25153932,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "c4f5af3b-7741-4c52-aec5-68080c4a605d",
    "title": {
     "en": "Parasite Doll"
@@ -36,24 +48,12 @@
    ]
   },
   {
-   "id": "a20333f9-e2ff-47da-9fac-1d74e08ad4f1",
-   "title": {
-    "en": "Semi-Eternal Happy End"
-   },
-   "contentRating": "safe",
-   "score": 0.24392064,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "0ffc066b-f967-40fb-a6dc-d8dfe4160804",
    "title": {
     "en": "Second Coming"
    },
    "contentRating": "safe",
-   "score": 0.23888062,
+   "score": 0.23889373,
    "languages": [
     "en"
    ]
@@ -72,7 +72,7 @@
     "en": "Nankuru Nannai!"
    },
    "contentRating": "safe",
-   "score": 0.22661461
+   "score": 0.22662036
   },
   {
    "id": "8d242e4c-0b6e-416f-abca-a08e7a3cea60",
@@ -80,7 +80,7 @@
     "en": "Gingitsune"
    },
    "contentRating": "safe",
-   "score": 0.22272155,
+   "score": 0.22273506,
    "languages": [
     "ru",
     "en"
@@ -92,7 +92,7 @@
     "en": "Yougen no Chi"
    },
    "contentRating": "safe",
-   "score": 0.22176176,
+   "score": 0.22178377,
    "languages": [
     "en"
    ]
@@ -119,12 +119,15 @@
    ]
   },
   {
-   "id": "f04427ab-2049-460a-bb63-1a39a183485e",
+   "id": "959ac289-6dd1-4418-aa79-5e43938326a0",
    "title": {
-    "en": "Embryo"
+    "en": "Dero Dero"
    },
    "contentRating": "safe",
-   "score": 0.2163632
+   "score": 0.2163632,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "c20a131d-dcc7-4f0f-ae1c-901118f1e562",
@@ -135,17 +138,6 @@
    "score": 0.2163632,
    "languages": [
     "ko",
-    "en"
-   ]
-  },
-  {
-   "id": "959ac289-6dd1-4418-aa79-5e43938326a0",
-   "title": {
-    "en": "Dero Dero"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
     "en"
    ]
   },
@@ -161,6 +153,14 @@
    ]
   },
   {
+   "id": "f04427ab-2049-460a-bb63-1a39a183485e",
+   "title": {
+    "en": "Embryo"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632
+  },
+  {
    "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
    "title": {
     "en": "Memento Memori"
@@ -174,5 +174,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-11T22:05:21+00:00"
+ "updatedAt": "2024-11-13T22:18:22+00:00"
 }

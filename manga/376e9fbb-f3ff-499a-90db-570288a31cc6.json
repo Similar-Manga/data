@@ -16,14 +16,30 @@
   "description": {
    "fr": "Quand un ange est mis au défi de séduire un démon, celui-ci se voit vite être mis en déroute par plus puissant que lui...\u0003Venez à la rencontre de Métatron et de Mammon, et découvrez leur histoire infernale..."
   },
+  "links": {
+   "mu": "pthnht3"
+  },
   "originalLanguage": "zh",
   "status": "ongoing",
+  "year": 2024,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "fr"
   ],
   "latestUploadedChapter": "d29d0932-cdcd-426b-8679-c1ae44fbc2a1",
   "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -49,6 +65,18 @@
     }
    },
    {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -59,12 +87,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-10-10T10:41:52+00:00",
-  "updatedAt": "2024-10-10T10:44:54+00:00"
+  "updatedAt": "2024-11-13T03:44:54+00:00"
  },
  "relationships": [
   {

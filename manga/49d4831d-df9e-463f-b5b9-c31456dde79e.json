@@ -1,0 +1,144 @@
+{
+ "id": "49d4831d-df9e-463f-b5b9-c31456dde79e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Beni  no Lily"
+  },
+  "altTitles": [
+   {
+    "ja": "紅のリリィ"
+   },
+   {
+    "ja-ro": "Kurenai no Lily"
+   },
+   {
+    "en": "Crimson Lily"
+   }
+  ],
+  "description": {
+   "ja": "ファザコンの紅葉（もみじ）は美人なのに彼氏ができず周りに残念がられている。ある日、暴漢に襲われたところを助けてくれた男は…！？「脱いで触って愛して」の、いいじま凛、新境地スタート！"
+  },
+  "links": {
+   "raw": "https://flowercomics.jp/title/1904"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-11-12T11:47:32+00:00",
+  "updatedAt": "2024-11-12T16:19:37+00:00"
+ },
+ "relationships": [
+  {
+   "id": "fa0ae1f7-53fd-40db-9b8f-c27d98f43d16",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-09-20T13:13:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Iijima Rin",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-09-20T15:02:03+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fa0ae1f7-53fd-40db-9b8f-c27d98f43d16",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-09-20T13:13:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Iijima Rin",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-09-20T15:02:03+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "049b3f20-cc5a-4545-8b99-b38b4af2aa96",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-12T11:48:01+00:00",
+    "description": "",
+    "fileName": "ecdb759f-0ca2-4f6a-884f-75fa5c98bad3.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-12T11:48:01+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",
+   "type": "creator"
+  }
+ ]
+}

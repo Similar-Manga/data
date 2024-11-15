@@ -20,7 +20,7 @@
    }
   ],
   "description": {
-   "en": "The underground speaks of hitman of incredible skill, this man goes by the name \"Jesus.\" Why, you ask? because that happens to be last word to escape the lips of any fool unfortunate enough to be caught on the wrong end of his gun.\n\n\n----\n\nIndonesian release by Elex Media Komputindo as **J**"
+   "en": "The criminal underworld speaks of a hitman bearing incredible skill...this man goes by the name \"Jesus.\" Why, you ask? Because it happens to be last word to escape the lips of any fool unfortunate enough to be caught on the wrong end of his gun.\n\nInternationally wanted hitman, codenamed Jesus, fakes his death using the body of his exact double, high school teacher Shingo Fujisawa. A much bigger problem is at play, as Fujisawa's family is unaware of his death (via cardiac arrest), leading to Jesus taking up the name and profession of his much more legally-sound doppelganger. When the mafia and international agents start showing up in Japan, Jesus must do everything in his power to keep his newfound family, peers, and students safe, all while his opponents pray for mercy!\n\n\n----\n\nIndonesian release by Elex Media Komputindo as **J**"
   },
   "links": {
    "al": "50130",
@@ -39,7 +39,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "9298f4c2-8a66-4fa9-a583-4e172e7b7320",
+  "latestUploadedChapter": "9a5c483c-f30e-41ef-badb-52cb20c702d3",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -59,6 +59,18 @@
     "attributes": {
      "name": {
       "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
      },
      "description": {},
      "group": "genre",
@@ -90,6 +102,30 @@
     }
    },
    {
+    "id": "85daba54-a71c-4554-8a28-9901a8b0afad",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mafia"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -100,12 +136,60 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "da2d50ca-3018-4cc0-ac7a-6b7d472a29ea",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Delinquents"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Police"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 11,
   "createdAt": "2018-02-08T11:01:06+00:00",
-  "updatedAt": "2024-05-21T15:04:26+00:00"
+  "updatedAt": "2024-11-12T23:52:05+00:00"
  },
  "relationships": [
   {

@@ -17,7 +17,8 @@
    "en": "Annan, a senior game producer, traveled to the foggy continent of another world and became a rare elite NPC with a player system. But he still has a heart that belongs to a player. Although I love to stir up trouble and act recklessly, I am a good player and a righteous partner favored by this world. Now I am carrying the main quest, as a righteous player, I am ordered by heaven to eliminate you, the evil NPC!"
   },
   "links": {
-   "mu": "sga2g3e"
+   "mu": "sga2g3e",
+   "nu": "the-righteous-players"
   },
   "originalLanguage": "zh",
   "status": "ongoing",
@@ -89,6 +90,18 @@
     }
    },
    {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
@@ -102,16 +115,18 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-11-11T10:22:02+00:00",
-  "updatedAt": "2024-11-11T10:22:14+00:00"
+  "updatedAt": "2024-11-11T20:46:15+00:00"
  },
  "relationships": [
   {
    "id": "57bf0b88-d445-43d9-b6c8-421b6429bdad",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Chinese writer."
+    },
     "booth": null,
     "createdAt": "2024-11-11T10:20:45+00:00",
     "fanBox": null,
@@ -126,8 +141,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-11T10:20:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-11T20:46:47+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

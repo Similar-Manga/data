@@ -23,7 +23,7 @@
     "en": "Atarashii Joushi wa Dotennen"
    },
    "contentRating": "safe",
-   "score": 0.25468892,
+   "score": 0.2546869,
    "languages": [
     "en",
     "vi"
@@ -35,7 +35,30 @@
     "en": "Are You A Cat?"
    },
    "contentRating": "safe",
-   "score": 0.2519886,
+   "score": 0.25199106,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b2c328e2-7aca-4c17-b95a-6697371544ff",
+   "title": {
+    "en": "Drama na Koi wa Kihon kara"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "102b2da5-e06b-4b29-97d1-67c5599fdbcc",
+   "title": {
+    "en": "Yonagi-san no Yonayona Gyoza"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
    "languages": [
     "en"
    ]
@@ -66,18 +89,16 @@
    ]
   },
   {
-   "id": "cef6253d-6a55-4438-921c-46968b426f2f",
+   "id": "2fd5ad01-d052-4591-96d0-1c5685a68d82",
    "title": {
-    "en": "Uchi no Kaisha no Chiisai Senpai no Hanashi"
+    "en": "Meshinuma"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
     "en",
-    "pt-br",
-    "es-la",
-    "id",
-    "ru"
+    "vi",
+    "id"
    ]
   },
   {
@@ -92,87 +113,34 @@
    ]
   },
   {
-   "id": "102b2da5-e06b-4b29-97d1-67c5599fdbcc",
-   "title": {
-    "en": "Yonagi-san no Yonayona Gyoza"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2fd5ad01-d052-4591-96d0-1c5685a68d82",
-   "title": {
-    "en": "Meshinuma"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "vi",
-    "id"
-   ]
-  },
-  {
-   "id": "b2c328e2-7aca-4c17-b95a-6697371544ff",
-   "title": {
-    "en": "Drama na Koi wa Kihon kara"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "4573b6f1-2330-47ea-8b32-c9feaec4f21b",
    "title": {
     "en": "Hazukashigariya no Tsuma to Shinkon Seikatsu Hajimemashita"
    },
    "contentRating": "safe",
-   "score": 0.24063937,
+   "score": 0.24065252,
    "languages": [
     "vi",
     "en",
     "es-la",
     "id"
-   ]
-  },
-  {
-   "id": "52d4ad1e-d02c-4fef-81d6-1e758e699d31",
-   "title": {
-    "en": "Hatarakanai Futari"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "es-la",
-    "pl",
-    "pt-br",
-    "tr",
-    "es"
-   ]
-  },
-  {
-   "id": "ce8e0d23-f93f-45f3-9cba-1f3f6f36b3ff",
-   "title": {
-    "en": "Mirukarani Ayashii Futari"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
    "id": "b1a6ffb2-7dab-40ab-bc0f-908cecdc42b4",
    "title": {
     "en": "Nico Nicholson no Manga Doujouyaburi"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e2435e7e-3be4-4de8-9292-59753b597c31",
+   "title": {
+    "en": "Hokuriku Triangle"
    },
    "contentRating": "safe",
    "score": 0.23809525,
@@ -192,17 +160,44 @@
    ]
   },
   {
-   "id": "0515c867-3cb8-43a9-bdb1-eeec4037e974",
+   "id": "ce8e0d23-f93f-45f3-9cba-1f3f6f36b3ff",
    "title": {
-    "en": "Chi's Sweet Adventures"
+    "en": "Mirukarani Ayashii Futari"
    },
    "contentRating": "safe",
    "score": 0.23809525,
    "languages": [
     "en",
-    "ru"
+    "pt-br"
+   ]
+  },
+  {
+   "id": "52d4ad1e-d02c-4fef-81d6-1e758e699d31",
+   "title": {
+    "en": "Hatarakanai Futari"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en",
+    "es-la",
+    "pl",
+    "pt-br",
+    "tr",
+    "es"
+   ]
+  },
+  {
+   "id": "94c7c216-8925-4625-9f04-447cb434ac42",
+   "title": {
+    "en": "Ikioku - The Cooler Half"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2024-11-11T21:52:41+00:00"
+ "updatedAt": "2024-11-13T22:04:03+00:00"
 }

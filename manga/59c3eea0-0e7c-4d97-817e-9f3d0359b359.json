@@ -3,23 +3,27 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Haru wa megurite"
+   "en": "Haru wa Megurite"
   },
   "altTitles": [
    {
-    "en": "Haru is around the corner"
+    "ja": "ハルはめぐりて"
    },
    {
-    "ja": "ハルはめぐりて"
+    "ja-ro": "Haru ha Megurite"
+   },
+   {
+    "en": "Haru Is Around the Corner"
    }
   ],
   "description": {
    "en": "Haru is a middle schooler, travelling solo around the world. Join her on her travels, and experience all sorts of surprises and fresh sights."
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/%E3%83%8F%E3%83%AB%E3%81%AF%E3%82%81%E3%81%90%E3%82%8A%E3%81%A6-%E3%83%93%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%A3%AE%E6%B3%89-%E5%B2%B3%E5%9C%9F/dp/4047340596",
+   "amz": "https://www.amazon.co.jp/ハルはめぐりて-ビームコミックス-森泉-岳土/dp/4047340596",
    "bw": "dede5e2cf3-56b7-42e4-9782-309fd457ba95",
-   "mu": "9qkmgcf"
+   "mu": "9qkmgcf",
+   "raw": "https://www.kadokawa.co.jp/product/321601000279/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -28,7 +32,23 @@
   "status": "completed",
   "year": 2016,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "be3ba733-e286-4401-ae86-e5cfd491c5ce",
   "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
     "type": "tag",
@@ -55,9 +75,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 6,
   "createdAt": "2024-11-11T05:18:49+00:00",
-  "updatedAt": "2024-11-11T05:19:41+00:00"
+  "updatedAt": "2024-11-12T05:57:37+00:00"
  },
  "relationships": [
   {

@@ -3,31 +3,29 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Seiju no kuni no kinjutsukai"
+   "en": "Seiju no Kuni no Kinjutsukai"
   },
   "altTitles": [
    {
-    "en": "The Forbidden Spell Master of the Sacred Tree (Original)"
+    "ja": "聖樹の国の禁呪使い"
+   },
+   {
+    "en": "The Holy Tree Kingdom's Forbidden Curse User"
    },
    {
     "en": "The Forbidden Spell Master of the Sacred Tree Kingdom"
-   },
-   {
-    "en": "せいじゅのくにのきんじゅつかい"
-   },
-   {
-    "en": "聖樹の国の禁呪使い"
    }
   ],
   "description": {
-   "en": "One day, Sagara Kurohiko who was fed up with everything is surrounded by a bright light and loses consciousness. When he wakes up, he finds himself in a different world with a humongous tree! In addition, he for some reason can easily read the \"forbidden spells\" that nobody has been able to read thus far and because of that he ends up enrolling in the academy that trains \"Sacred tree knights.\""
+   "en": "One day, Sagara Kurohiko who was fed up with everything is surrounded by a bright light and loses consciousness. When he wakes up, he finds himself in a different world with a humongous tree! In addition, he for some reason can easily read the “forbidden spells” that nobody has been able to read thus far. Because of that, he ends up enrolling in the academy that trains “Sacred Tree Knights”.\n\n**Hiatus Note:** After the latest Chapter 3, the series went on hiatus in October 2018 due to original author Shinozaki Kaoru's poor health, which made it difficult for them to supervize the manga series.\n___\n**Character Designer:** [Shimesaba Kohada](https://mangadex.org/author/87fa8e4c-b760-4ff8-a208-37a7bc31ca27)"
   },
   "links": {
    "ap": "seiju-no-kuni-no-kinju-tsukai",
    "kt": "54408",
    "mal": "113778",
    "mu": "146958",
-   "nu": "seiju-no-kuni-no-kinju-tsukai"
+   "nu": "seiju-no-kuni-no-kinju-tsukai",
+   "raw": "http://www.comic-valkyrie.com/modules/web_valkyrie/seijuno/"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
@@ -111,26 +109,40 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2019-04-09T16:24:17+00:00",
-  "updatedAt": "2022-11-04T18:39:52+00:00"
+  "updatedAt": "2024-11-12T19:57:51+00:00"
  },
  "relationships": [
   {
    "id": "fbeb49a6-fa4d-44da-8f4d-a8d35ef04d5e",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 篠崎芳"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Shinozaki Kaoru (篠崎芳)",
+    "name": "Shinozaki Kaoru",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -138,9 +150,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-12T19:06:25+00:00",
+    "version": 2,
+    "website": "https://mypage.syosetu.com/381532/",
     "weibo": null,
     "youtube": null
    }
@@ -172,16 +184,16 @@
    }
   },
   {
-   "id": "f03d63f5-61a6-4f51-9346-6cdd1484e48f",
+   "id": "f29fab78-ced1-46a2-bd6b-39aa1ac8a5ec",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:07:26+00:00",
-    "description": "",
-    "fileName": "1c790bd9-a3b1-4fbb-8926-8e256d922e74.jpg",
+    "createdAt": "2024-11-12T19:50:53+00:00",
+    "description": "cropped promotional art",
+    "fileName": "0f761ce2-539b-4bc0-8fdf-da85311ba9c7.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:07:26+00:00",
+    "updatedAt": "2024-11-12T19:50:53+00:00",
     "version": 1,
-    "volume": null
+    "volume": "0.1"
    }
   }
  ]

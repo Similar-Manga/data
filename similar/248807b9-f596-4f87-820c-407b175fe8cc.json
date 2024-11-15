@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "980e8042-e420-476d-afa7-f7f5d3c512ea",
-   "title": {
-    "en": "Miyakawa-ke no Kuufuku"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "it",
-    "pt-br"
-   ]
-  },
-  {
    "id": "2a9c293f-9513-40ed-ae1b-fe84221ada28",
    "title": {
     "en": "Shiro to Kujira"
@@ -30,14 +17,16 @@
    ]
   },
   {
-   "id": "902d6c51-cab3-4138-8e87-d20765147611",
+   "id": "980e8042-e420-476d-afa7-f7f5d3c512ea",
    "title": {
-    "en": "Bless Jane Doe"
+    "en": "Miyakawa-ke no Kuufuku"
    },
    "contentRating": "safe",
-   "score": 0.19440396,
+   "score": 0.23809525,
    "languages": [
-    "zh"
+    "en",
+    "it",
+    "pt-br"
    ]
   },
   {
@@ -65,12 +54,34 @@
    ]
   },
   {
+   "id": "902d6c51-cab3-4138-8e87-d20765147611",
+   "title": {
+    "en": "Bless Jane Doe"
+   },
+   "contentRating": "safe",
+   "score": 0.19440396,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
+   "id": "26db84fc-6986-4d3f-8666-4bd523ce8c7f",
+   "title": {
+    "en": "Sanposuru Onnanoko"
+   },
+   "contentRating": "safe",
+   "score": 0.17958267,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
    "id": "f5bf9cc3-d003-47fe-bc76-99774b2a0562",
    "title": {
     "en": "Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.18079956,
+   "score": 0.17765675,
    "languages": [
     "es-la",
     "en",
@@ -84,17 +95,6 @@
     "uk",
     "vi",
     "fr"
-   ]
-  },
-  {
-   "id": "26db84fc-6986-4d3f-8666-4bd523ce8c7f",
-   "title": {
-    "en": "Sanposuru Onnanoko"
-   },
-   "contentRating": "safe",
-   "score": 0.17958267,
-   "languages": [
-    "zh"
    ]
   },
   {
@@ -124,40 +124,47 @@
    ]
   },
   {
-   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
+   "id": "157ab2cc-1fc7-4b29-8955-72d94a140982",
    "title": {
-    "en": "My Clueless First Friend"
+    "en": "Kesa Mo Yuraretemasu"
    },
    "contentRating": "safe",
    "score": 0.16835876,
    "languages": [
-    "en",
-    "uk",
-    "pt-br",
-    "ru",
     "vi",
-    "it",
-    "id",
-    "es-la"
+    "pt-br",
+    "en",
+    "zh",
+    "fr",
+    "id"
    ]
   },
   {
-   "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
+   "id": "eccca788-db66-44cb-8f8d-c85c51605449",
    "title": {
-    "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
+    "en": "The Strongest Legend"
    },
    "contentRating": "safe",
    "score": 0.16835876,
    "languages": [
+    "it",
     "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
+   "title": {
+    "en": "TakuTore!"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876,
+   "languages": [
     "pt-br",
     "it",
-    "zh",
-    "pl",
-    "fr",
-    "es-la",
-    "vi",
-    "es"
+    "id",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -178,45 +185,22 @@
    ]
   },
   {
-   "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
+   "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
    "title": {
-    "en": "TakuTore!"
+    "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
    },
    "contentRating": "safe",
    "score": 0.16835876,
    "languages": [
+    "en",
     "pt-br",
     "it",
-    "id",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "157ab2cc-1fc7-4b29-8955-72d94a140982",
-   "title": {
-    "en": "Kesa Mo Yuraretemasu"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "vi",
-    "pt-br",
-    "en",
     "zh",
+    "pl",
     "fr",
-    "id"
-   ]
-  },
-  {
-   "id": "6d0eda24-34c6-43a3-91ea-d9444c2c44b1",
-   "title": {
-    "en": "Kirisaki Karin wa Korosasenai"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "zh"
+    "es-la",
+    "vi",
+    "es"
    ]
   },
   {
@@ -245,16 +229,32 @@
    ]
   },
   {
-   "id": "eccca788-db66-44cb-8f8d-c85c51605449",
+   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
    "title": {
-    "en": "The Strongest Legend"
+    "en": "My Clueless First Friend"
    },
    "contentRating": "safe",
    "score": 0.16835876,
    "languages": [
-    "it",
     "en",
-    "fr"
+    "uk",
+    "pt-br",
+    "ru",
+    "vi",
+    "it",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "6d0eda24-34c6-43a3-91ea-d9444c2c44b1",
+   "title": {
+    "en": "Kirisaki Karin wa Korosasenai"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876,
+   "languages": [
+    "zh"
    ]
   },
   {
@@ -263,7 +263,7 @@
     "en": "Asaoka High School Baseball Team Journal - Over Fence"
    },
    "contentRating": "safe",
-   "score": 0.15960361,
+   "score": 0.1603893,
    "languages": [
     "it",
     "pt-br",
@@ -271,5 +271,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-11T20:35:50+00:00"
+ "updatedAt": "2024-11-13T20:38:04+00:00"
 }

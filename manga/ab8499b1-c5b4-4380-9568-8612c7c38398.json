@@ -7,18 +7,26 @@
   },
   "altTitles": [
    {
-    "en": "The Hyena Has Seven Lives"
+    "ja": "相続探偵"
    },
    {
-    "ja": "相続探偵"
+    "ja": "The hyena has seven lives."
+   },
+   {
+    "en": "Inheritance Detective"
+   },
+   {
+    "en": "The Hyena Has Seven Lives"
    }
   ],
   "description": {
-   "en": "If there's people, there's inheritance. And if there's inheritance, there's trouble. At a prominent mystery novelist's funeral, a bitter \"family feud\" over his estate has begun. A videotape of the author's will shown at the site of the funeral has been like that first boxing bell of a fight, sounding the beginning of a merciless struggle between the author's three daughters and his secretary. Hot on the scent of this delectably shady case is a certain detective who goes by the name Nao Haie. Claiming to be a detective who specializes in any trouble having to do with inheritance and with a sense of smell like that of a hyena, Haie will blow the mysterious case of the author's will and the secrets it hides wide open!! A one-of-a-kind inheritance mystery begins now!!"
+   "en": "If there are people, there are inheritances. And if there are inheritances, there's trouble.\n\nAt a prominent mystery novelist's funeral, a bitter family feud over his estate has begun. A videotape of the author's will shown at the funeral site was like the first boxing bell of a fight, sounding the beginning of a merciless struggle between the author's three daughters and his secretary. Hot on the scent of this delectably shady case is a certain detective who goes by the name Haie Nao. Claiming to be a detective who specializes in any trouble having to do with inheritances and with a sense of smell like that of a hyena, Haie will blow the mysterious case of the author's will and the secrets it hides wide open!!\n\nA one-of-a-kind inheritance mystery begins now!!"
   },
   "links": {
    "al": "129067",
-   "amz": "https://www.amazon.co.jp/dp/4065233836",
+   "amz": "https://www.amazon.co.jp/dp/B09CD4QZXQ",
+   "ap": "souzoku-tantei",
+   "bw": "series/300469",
    "cdj": "https://www.cdjapan.co.jp/searchuni?term.media_format=\u0026q=相続探偵",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/636009/",
    "mal": "138454",
@@ -26,6 +34,8 @@
    "raw": "https://comic-days.com/episode/13933686331769319966"
   },
   "originalLanguage": "ja",
+  "lastVolume": "7",
+  "lastChapter": "48",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2020,
@@ -61,16 +71,18 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 11,
   "createdAt": "2021-02-06T14:37:39+00:00",
-  "updatedAt": "2023-01-15T19:32:53+00:00"
+  "updatedAt": "2024-11-12T18:51:24+00:00"
  },
  "relationships": [
   {
    "id": "0e5d7b16-4317-4112-b261-7ef2c26078b6",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 西荻弓絵"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -85,8 +97,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-12T16:14:33+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -97,7 +109,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "Name (in native language)\n幾田羊"
+     "en": "**Name In Native Language:** 幾田羊"
     },
     "booth": null,
     "createdAt": "2022-05-02T21:55:12+00:00",
@@ -113,24 +125,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2023-01-15T09:08:20+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-12T16:13:44+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "2bb32004-d750-4970-a131-7e404aed358c",
+   "id": "5b0034f4-7b9a-4e2a-8e39-d09037186eda",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-01-15T09:07:31+00:00",
+    "createdAt": "2024-11-12T16:07:58+00:00",
     "description": "",
-    "fileName": "c7290a96-7783-4d7e-970f-a2b15af58a17.jpg",
+    "fileName": "44a6927c-e7f4-4e93-96cb-cd3974232c96.jpg",
     "locale": "ja",
-    "updatedAt": "2023-01-15T09:07:31+00:00",
+    "updatedAt": "2024-11-12T16:07:58+00:00",
     "version": 1,
-    "volume": "6"
+    "volume": "7"
    }
   }
  ]

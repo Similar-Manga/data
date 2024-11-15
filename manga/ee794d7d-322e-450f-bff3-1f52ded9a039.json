@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "ぽいんぽいんのフレイレン"
+   "en": "Sousou no Frieren - Poinpoin no Frieren (Doujinshi)"
   },
   "altTitles": [
    {
     "en": "Sousou no Frieren - Perky Perky Frieren (Doujinshi)"
+   },
+   {
+    "ja": "ぽいんぽいんのフレイレン"
    }
   ],
   "description": {
@@ -15,6 +18,7 @@
   },
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2024,
   "contentRating": "erotica",
   "availableTranslatedLanguages": [
    "en"
@@ -42,18 +46,6 @@
      },
      "description": {},
      "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Self-Published"
-     },
-     "description": {},
-     "group": "format",
      "version": 1
     }
    },
@@ -131,9 +123,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2024-11-11T04:32:10+00:00",
-  "updatedAt": "2024-11-11T04:34:53+00:00"
+  "updatedAt": "2024-11-11T05:58:47+00:00"
  },
  "relationships": [
   {
@@ -204,7 +196,7 @@
   {
    "id": "b0b721ff-c388-4486-aa0f-c2b0bb321512",
    "type": "manga",
-   "related": "doujinshi"
+   "related": "based_on"
   },
   {
    "id": "6d9aa4c9-c072-425a-bb6a-34ae7ad33329",

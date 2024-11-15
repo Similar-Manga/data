@@ -11,7 +11,7 @@
     "en": "Kaikoku no Julius"
    },
    "contentRating": "safe",
-   "score": 0.22179015
+   "score": 0.2193475
   },
   {
    "id": "1f8d1029-1c93-4996-b2fa-9f1ea8b76d6a",
@@ -19,7 +19,15 @@
     "en": "Taberu Dake"
    },
    "contentRating": "safe",
-   "score": 0.21981774
+   "score": 0.2176334
+  },
+  {
+   "id": "7ecd4edb-b819-4de6-af37-293e293932f5",
+   "title": {
+    "en": "Akuma-sama Herupu☆"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
   },
   {
    "id": "69ce0790-d96b-4ff5-9a55-3974199b6b78",
@@ -33,14 +41,6 @@
    ]
   },
   {
-   "id": "f771926b-8a6a-49f4-bfb7-5075e0960623",
-   "title": {
-    "en": "Leteitenite"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
    "id": "ed63c616-b0f9-4c35-8b50-959570cd748b",
    "title": {
     "en": "JSDF Nurse"
@@ -49,33 +49,9 @@
    "score": 0.20203052
   },
   {
-   "id": "7ecd4edb-b819-4de6-af37-293e293932f5",
+   "id": "f771926b-8a6a-49f4-bfb7-5075e0960623",
    "title": {
-    "en": "Akuma-sama Herupu☆"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "09d2d6f5-c101-4d0b-9cc7-f55daef0f850",
-   "title": {
-    "en": "Ruru Hikaru"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "d34b496e-c78e-40c0-8d9b-13ee724981ac",
-   "title": {
-    "en": "Majo no Sukusuku Isekai Ikuji ~Tsukaima-chan to Mofumofu Mahou Seibutsu no Ikusei Nisshi~"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "8a706406-e422-4cd8-8456-7a0cbdc9e355",
-   "title": {
-    "en": "Spar☆Takashi"
+    "en": "Leteitenite"
    },
    "contentRating": "safe",
    "score": 0.20203052
@@ -89,53 +65,39 @@
    "score": 0.20203052
   },
   {
+   "id": "09d2d6f5-c101-4d0b-9cc7-f55daef0f850",
+   "title": {
+    "en": "Ruru Hikaru"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
+  },
+  {
+   "id": "8a706406-e422-4cd8-8456-7a0cbdc9e355",
+   "title": {
+    "en": "Spar☆Takashi"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
+  },
+  {
+   "id": "d34b496e-c78e-40c0-8d9b-13ee724981ac",
+   "title": {
+    "en": "Majo no Sukusuku Isekai Ikuji ~Tsukaima-chan to Mofumofu Mahou Seibutsu no Ikusei Nisshi~"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
+  },
+  {
    "id": "88228c06-a554-40ce-912b-84ab6eac6c89",
    "title": {
     "en": "Houkago Assault Girls"
    },
    "contentRating": "safe",
-   "score": 0.18406256,
+   "score": 0.18171424,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "99836e26-5eff-4320-8f64-11c5333fab49",
-   "title": {
-    "en": "Kobito no Shiita to Karigurashi no Mori"
-   },
-   "contentRating": "safe",
-   "score": 0.17761636
-  },
-  {
-   "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
-   "title": {
-    "en": "The Planet of Sutakola"
-   },
-   "contentRating": "safe",
-   "score": 0.17662859,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8fffd254-d197-4520-b958-e7ef01968231",
-   "title": {
-    "en": "Genghis Khan the Wolf"
-   },
-   "contentRating": "safe",
-   "score": 0.16735071
-  },
-  {
-   "id": "9acb0ed4-0f86-424a-9af4-f63d01eb2b44",
-   "title": {
-    "en": "Lady Lowe and The Seven Days Forest"
-   },
-   "contentRating": "safe",
-   "score": 0.16506866,
-   "languages": [
-    "zh-hk"
    ]
   },
   {
@@ -149,7 +111,42 @@
     "en",
     "ru"
    ]
+  },
+  {
+   "id": "8fffd254-d197-4520-b958-e7ef01968231",
+   "title": {
+    "en": "Genghis Khan the Wolf"
+   },
+   "contentRating": "safe",
+   "score": 0.16432656
+  },
+  {
+   "id": "99836e26-5eff-4320-8f64-11c5333fab49",
+   "title": {
+    "en": "Kobito no Shiita to Karigurashi no Mori"
+   },
+   "contentRating": "safe",
+   "score": 0.16298077
+  },
+  {
+   "id": "c8b0a3a4-e6e4-4bad-868b-09090e7b5daf",
+   "title": {
+    "en": "The Planet of Sutakola"
+   },
+   "contentRating": "safe",
+   "score": 0.1617736,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0c7bee4c-fbbf-4e95-a569-23d0bab33f47",
+   "title": {
+    "en": "The Furious Battle of Yamato"
+   },
+   "contentRating": "safe",
+   "score": 0.16065463
   }
  ],
- "updatedAt": "2024-11-11T20:47:46+00:00"
+ "updatedAt": "2024-11-13T20:51:16+00:00"
 }

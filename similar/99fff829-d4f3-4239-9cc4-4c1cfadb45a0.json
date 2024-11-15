@@ -11,7 +11,7 @@
     "en": "Ten Thousand Kinds of Love"
    },
    "contentRating": "safe",
-   "score": 0.3474292,
+   "score": 0.33283663,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Jitenshaya-san no Takahashi-kun"
    },
    "contentRating": "safe",
-   "score": 0.32514468,
+   "score": 0.31577474,
    "languages": [
     "en",
     "ar"
@@ -34,8 +34,21 @@
     "en": "Hakoiri no Musume"
    },
    "contentRating": "safe",
-   "score": 0.32411778,
+   "score": 0.3060405,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "aa90bb32-0b5c-425e-82ab-a2007542f118",
+   "title": {
+    "en": "\"Mi\" Seijuku"
+   },
+   "contentRating": "safe",
+   "score": 0.30496928,
+   "languages": [
+    "ru",
+    "pl",
     "en"
    ]
   },
@@ -45,7 +58,7 @@
     "en": "Otona-Najimi"
    },
    "contentRating": "safe",
-   "score": 0.31153372,
+   "score": 0.29638675,
    "languages": [
     "en",
     "it",
@@ -54,36 +67,12 @@
    ]
   },
   {
-   "id": "aa90bb32-0b5c-425e-82ab-a2007542f118",
-   "title": {
-    "en": "\"Mi\" Seijuku"
-   },
-   "contentRating": "safe",
-   "score": 0.31103796,
-   "languages": [
-    "ru",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "8cb72dc1-ded7-49d3-b45c-96c82b7950ef",
-   "title": {
-    "en": "Seasons of Love"
-   },
-   "contentRating": "safe",
-   "score": 0.3021358,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
    "id": "7f797a03-f5ee-4f2f-be93-b2248d5082e0",
    "title": {
     "en": "Sputnik"
    },
    "contentRating": "safe",
-   "score": 0.29841614,
+   "score": 0.29530528,
    "languages": [
     "pt-br",
     "en"
@@ -95,49 +84,26 @@
     "en": "The Horse That Passes Through Time"
    },
    "contentRating": "safe",
-   "score": 0.29539955,
+   "score": 0.2929917,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d39c6c91-755e-4ae0-8d98-221ba70d8949",
+   "id": "8cb72dc1-ded7-49d3-b45c-96c82b7950ef",
    "title": {
-    "en": "Catch! Love"
+    "en": "Seasons of Love"
    },
    "contentRating": "safe",
-   "score": 0.28895935,
+   "score": 0.2892041,
    "languages": [
-    "en"
+    "es-la"
    ]
   },
   {
-   "id": "7fe751f9-1568-4b60-a113-4f3a8772d869",
+   "id": "85e284be-1316-48d7-a086-14e17dd85462",
    "title": {
-    "en": "Matcha Made in Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.2888925,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "fa05d7a1-27dd-46e8-9f58-63668955d7f6",
-   "title": {
-    "en": "Tamaki and Amane"
-   },
-   "contentRating": "safe",
-   "score": 0.2856875,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b31f0d20-27ed-49a6-9490-9ea286da1fb0",
-   "title": {
-    "en": "Lady Rin!"
+    "en": "No, You na."
    },
    "contentRating": "safe",
    "score": 0.2851258,
@@ -158,17 +124,6 @@
    ]
   },
   {
-   "id": "b31eab48-cb2a-44ad-83d8-e403e8c504ca",
-   "title": {
-    "en": "Suppli"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "778144e6-8dd6-432d-bb69-72dc51c1f5e5",
    "title": {
     "en": "3D Material"
@@ -181,16 +136,61 @@
    ]
   },
   {
-   "id": "85e284be-1316-48d7-a086-14e17dd85462",
+   "id": "b31eab48-cb2a-44ad-83d8-e403e8c504ca",
    "title": {
-    "en": "No, You na."
+    "en": "Suppli"
    },
    "contentRating": "safe",
    "score": 0.2851258,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b31f0d20-27ed-49a6-9490-9ea286da1fb0",
+   "title": {
+    "en": "Lady Rin!"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7fe751f9-1568-4b60-a113-4f3a8772d869",
+   "title": {
+    "en": "Matcha Made in Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.27905756,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "d39c6c91-755e-4ae0-8d98-221ba70d8949",
+   "title": {
+    "en": "Catch! Love"
+   },
+   "contentRating": "safe",
+   "score": 0.27704698,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fa05d7a1-27dd-46e8-9f58-63668955d7f6",
+   "title": {
+    "en": "Tamaki and Amane"
+   },
+   "contentRating": "safe",
+   "score": 0.27661046,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-11T21:29:23+00:00"
+ "updatedAt": "2024-11-13T21:39:52+00:00"
 }

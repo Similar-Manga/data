@@ -37,7 +37,7 @@
    "pt-br",
    "en"
   ],
-  "latestUploadedChapter": "a0f79f36-2cdf-4127-bf78-0f1e3ae7ec84",
+  "latestUploadedChapter": "d82149a4-3376-49af-828c-f3845c5851b5",
   "tags": [
    {
     "id": "2bd2e8d0-f146-434a-9b51-fc9ff2c5fe6a",
@@ -52,11 +52,35 @@
     }
    },
    {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "7064a261-a137-4d3a-8848-2d385de3a99c",
     "type": "tag",
     "attributes": {
      "name": {
       "en": "Superhero"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
      },
      "description": {},
      "group": "genre",
@@ -89,9 +113,9 @@
    }
   ],
   "state": "published",
-  "version": 25,
+  "version": 26,
   "createdAt": "2023-05-30T18:34:08+00:00",
-  "updatedAt": "2024-10-29T20:00:59+00:00"
+  "updatedAt": "2024-11-12T12:39:11+00:00"
  },
  "relationships": [
   {

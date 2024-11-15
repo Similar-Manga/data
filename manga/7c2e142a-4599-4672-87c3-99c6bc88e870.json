@@ -7,10 +7,13 @@
   },
   "altTitles": [
    {
+    "ko": "원더랩"
+   },
+   {
     "en": "WonderLab - Lobotomy Corporation Comics"
    },
    {
-    "ko": "원더랩"
+    "en": "Lobotomy Corporation: Wonder Lab"
    }
   ],
   "description": {
@@ -159,16 +162,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2020-05-16T00:28:23+00:00",
-  "updatedAt": "2023-05-31T17:50:04+00:00"
+  "updatedAt": "2024-11-12T01:51:21+00:00"
  },
  "relationships": [
   {
    "id": "ba9aa238-0f20-46fe-95b8-91f7bb4032e9",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "South Korean indie game studio."
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -183,8 +188,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-12T01:49:24+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -230,6 +235,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "ae26f21c-d877-49ec-8e1a-eb0a3d73d321",
+   "type": "manga",
+   "related": "doujinshi"
   }
  ]
 }

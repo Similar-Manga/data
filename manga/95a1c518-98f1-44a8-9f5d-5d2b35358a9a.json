@@ -13,10 +13,10 @@
     "ja-ro": "Mizu Mahō Gurai Shika Torie ga Nai Kedo Gendai Chishiki ga Areba Jūbun da yo ne?"
    },
    {
-    "en": "Water Magic Is My Only Saving Grace, but Having Modern Knowledge Is Enough, Right?"
+    "en": "Even if My Only Strength Is Water Magic, Having Modern Knowledge Should Be Sufficient, Right?"
    },
    {
-    "en": "Although the Only Good Thing About Her Is Water Magic, Modern Knowledge Is Enough, Right?"
+    "en": "Water Magic Is My Only Saving Grace, but Having Modern Knowledge Is Enough, Right?"
    }
   ],
   "description": {
@@ -24,6 +24,8 @@
    "ja": "スラムの路上で生きる5歳の孤児フリムは、日本人だった前世を思い出した。\n暴力と理不尽だらけの日常、味方は誰もいない。あるのは「水が出せる魔法」と「現代知識」だけ。\n屋根がある寝床を求めるのも贅沢な状況だった……。\n\nしかし、この世界にはないアイデアで職場環境を改善したり、飲用水以外の水魔法の活用方法を見出して、フリムは徐々に存在感を…"
   },
   "links": {
+   "mu": "lxvklg6",
+   "nu": "even-if-my-only-strength-is-water-magic-having-modern-knowledge-should-be-sufficient-right",
    "raw": "https://comic-walker.com/detail/KC_006070_S"
   },
   "originalLanguage": "ja",
@@ -42,6 +44,18 @@
     "attributes": {
      "name": {
       "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
      },
      "description": {},
      "group": "theme",
@@ -86,9 +100,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 7,
   "createdAt": "2024-11-11T12:00:05+00:00",
-  "updatedAt": "2024-11-11T14:27:04+00:00"
+  "updatedAt": "2024-11-12T17:13:59+00:00"
  },
  "relationships": [
   {
@@ -147,24 +161,26 @@
    "id": "c6599d57-dc76-4d15-b1bb-0258cea7df49",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Mangaka and illustrator.\n\nNote: this artist prefers \"Azyaraya\"  as the romanization for 戯屋 while also specifying that it is read \"Ajaraya\" (あじゃらや).\n\n**Native name**:  戯屋べんべ\n\n**Alt. names**:\nAjaraya Benbe\nAzaraya Benbe\nあじゃらやべんべ"
+    },
     "booth": null,
     "createdAt": "2024-04-02T21:56:23+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Azaraya Benbe",
+    "name": "Azyaraya Benbe",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-04-02T21:56:23+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/txm_benben",
+    "updatedAt": "2024-11-12T14:49:44+00:00",
+    "version": 5,
+    "website": "https://www.azyaraya.com/",
     "weibo": null,
     "youtube": null
    }

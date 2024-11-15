@@ -23,8 +23,10 @@
    "mu": "1qaqk23"
   },
   "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "24",
   "publicationDemographic": "seinen",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2021,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
@@ -79,12 +81,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "da2d50ca-3018-4cc0-ac7a-6b7d472a29ea",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Delinquents"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2021-11-28T14:44:25+00:00",
-  "updatedAt": "2024-01-08T14:41:55+00:00"
+  "updatedAt": "2024-11-11T16:10:30+00:00"
  },
  "relationships": [
   {
@@ -140,16 +154,16 @@
    }
   },
   {
-   "id": "5dc5026a-dd3c-4fd8-9a9a-abae19ead901",
+   "id": "1e928160-cf57-41b7-9f77-043586b3b105",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-06-01T21:30:33+00:00",
+    "createdAt": "2024-11-11T16:10:28+00:00",
     "description": "",
-    "fileName": "b592ce83-09e0-46d0-be65-87845b7aaa20.png",
+    "fileName": "c8207421-b484-43b7-84f7-12098aabb71f.png",
     "locale": "ja",
-    "updatedAt": "2023-06-01T21:30:33+00:00",
+    "updatedAt": "2024-11-11T16:10:28+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "3"
    }
   },
   {

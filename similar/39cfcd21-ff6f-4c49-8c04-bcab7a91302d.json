@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b1d0e09f-59b5-480d-99a2-0b6bf8e66219",
+   "title": {
+    "en": "Usagi - Yasei no Touhai-"
+   },
+   "contentRating": "safe",
+   "score": 0.10862509,
+   "languages": [
+    "es"
+   ]
+  },
+  {
    "id": "5763292a-3bb7-43e8-a0fc-53f2140253a2",
    "title": {
     "en": "Bungo"
@@ -33,17 +44,6 @@
    ]
   },
   {
-   "id": "b1d0e09f-59b5-480d-99a2-0b6bf8e66219",
-   "title": {
-    "en": "Usagi - Yasei no Touhai-"
-   },
-   "contentRating": "safe",
-   "score": 0.10862509,
-   "languages": [
-    "es"
-   ]
-  },
-  {
    "id": "2caa303c-d903-4344-bfd9-2da45ecd141e",
    "title": {
     "en": "Resign"
@@ -61,20 +61,15 @@
    ]
   },
   {
-   "id": "6204ff54-c3d5-4645-b21f-f83f6fa303d0",
+   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
    "title": {
-    "en": "Ani no Yome to Kurashite Imasu."
+    "en": "Revenge Doll"
    },
    "contentRating": "safe",
    "score": 0.09407209,
    "languages": [
-    "ru",
-    "id",
     "en",
-    "ko",
-    "es",
-    "pt-br",
-    "de"
+    "es"
    ]
   },
   {
@@ -92,15 +87,20 @@
    ]
   },
   {
-   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
+   "id": "6204ff54-c3d5-4645-b21f-f83f6fa303d0",
    "title": {
-    "en": "Revenge Doll"
+    "en": "Ani no Yome to Kurashite Imasu."
    },
    "contentRating": "safe",
    "score": 0.09407209,
    "languages": [
+    "ru",
+    "id",
     "en",
-    "es"
+    "ko",
+    "es",
+    "pt-br",
+    "de"
    ]
   },
   {
@@ -145,11 +145,25 @@
     "en": "Asahinagu"
    },
    "contentRating": "safe",
-   "score": 0.07889861,
+   "score": 0.07888941,
    "languages": [
     "ru",
     "en",
     "es"
+   ]
+  },
+  {
+   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
+   "title": {
+    "en": "COSMOS"
+   },
+   "contentRating": "safe",
+   "score": 0.07680954,
+   "languages": [
+    "es",
+    "fr",
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -167,20 +181,6 @@
     "es-la",
     "pl",
     "es"
-   ]
-  },
-  {
-   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
-   "title": {
-    "en": "COSMOS"
-   },
-   "contentRating": "safe",
-   "score": 0.07680954,
-   "languages": [
-    "es",
-    "fr",
-    "pt-br",
-    "en"
    ]
   },
   {
@@ -203,7 +203,7 @@
     "en": "Shadows House (Official Colored)"
    },
    "contentRating": "safe",
-   "score": 0.0724105,
+   "score": 0.0724101,
    "languages": [
     "pt-br",
     "en",
@@ -211,6 +211,7 @@
     "ru",
     "es",
     "id",
+    "lt",
     "tr",
     "fr",
     "es-la",
@@ -223,7 +224,7 @@
     "en": "Otome Youkai Zakuro"
    },
    "contentRating": "safe",
-   "score": 0.067840524,
+   "score": 0.06783425,
    "languages": [
     "es-la",
     "en",
@@ -246,5 +247,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-11T20:45:48+00:00"
+ "updatedAt": "2024-11-13T20:48:58+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Tonari no Ninja"
    },
    "contentRating": "safe",
-   "score": 0.43212926,
+   "score": 0.43213823,
    "languages": [
     "fr",
     "en",
@@ -24,7 +24,7 @@
     "en": "Shinobigoto"
    },
    "contentRating": "safe",
-   "score": 0.36375818,
+   "score": 0.36376584,
    "languages": [
     "vi",
     "en"
@@ -36,7 +36,7 @@
     "en": "Dropout Ninja Rantaro"
    },
    "contentRating": "safe",
-   "score": 0.33914652,
+   "score": 0.33915704,
    "languages": [
     "en"
    ]
@@ -47,7 +47,7 @@
     "en": "Shinobi SS"
    },
    "contentRating": "safe",
-   "score": 0.33319658,
+   "score": 0.33321083,
    "languages": [
     "en"
    ]
@@ -58,9 +58,25 @@
     "en": "The Ninjas"
    },
    "contentRating": "safe",
-   "score": 0.27736396,
+   "score": 0.2773622,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "b5351a0c-96af-49f7-898e-17914a082561",
+   "title": {
+    "en": "Boku no Kanojo wa Dekkawaii"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "vi",
+    "pl",
+    "en",
+    "pt-br",
+    "id",
+    "fr"
    ]
   },
   {
@@ -84,79 +100,6 @@
    "score": 0.2569291,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
-   "title": {
-    "en": "TakuTore!"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "pt-br",
-    "it",
-    "id",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
-   "title": {
-    "en": "My Clueless First Friend"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en",
-    "uk",
-    "pt-br",
-    "ru",
-    "vi",
-    "it",
-    "id",
-    "es-la"
-   ]
-  },
-  {
-   "id": "c0e068aa-e7a5-41fc-b72f-39b613613a61",
-   "title": {
-    "en": "Amagami LS ~Haruka Another~"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "baed25ca-569e-4461-bb31-b64883b39d99",
-   "title": {
-    "en": "Itsuki-kun wa Tadasaretai"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "fr",
-    "uk",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
-   "title": {
-    "en": "Kusunoki's Flunking Her High School Glow-Up"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en",
-    "vi",
-    "es-la",
-    "pt-br",
-    "ru"
    ]
   },
   {
@@ -185,19 +128,30 @@
    ]
   },
   {
-   "id": "b5351a0c-96af-49f7-898e-17914a082561",
+   "id": "fe1394fe-3d67-48fb-b452-06580d2dd9d7",
    "title": {
-    "en": "Boku no Kanojo wa Dekkawaii"
+    "en": "Wakaba-sanchi no Aoi Koi"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
     "vi",
-    "pl",
-    "en",
+    "en"
+   ]
+  },
+  {
+   "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
+   "title": {
+    "en": "TakuTore!"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
     "pt-br",
+    "it",
     "id",
-    "fr"
+    "en",
+    "es-la"
    ]
   },
   {
@@ -234,7 +188,51 @@
     "fr",
     "id"
    ]
+  },
+  {
+   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
+   "title": {
+    "en": "My Clueless First Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "uk",
+    "pt-br",
+    "ru",
+    "vi",
+    "it",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "c0e068aa-e7a5-41fc-b72f-39b613613a61",
+   "title": {
+    "en": "Amagami LS ~Haruka Another~"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
+   "title": {
+    "en": "Kusunoki's Flunking Her High School Glow-Up"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "vi",
+    "es-la",
+    "pt-br",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2024-11-11T20:27:03+00:00"
+ "updatedAt": "2024-11-13T20:27:59+00:00"
 }

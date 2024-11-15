@@ -1,0 +1,154 @@
+{
+ "id": "f67cd21c-ecc2-49b8-818e-9ea501904bf1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ghost Hunter"
+  },
+  "altTitles": [
+   {
+    "ja": "ゴーストハンター"
+   }
+  ],
+  "description": {
+   "en": "In a world where ghost hunters work under GMC (Ghost Management Company), a ghost hunter who wakes up in his younger brother's body searches for his brother's soul and gets one step closer to the truth surrounding the company."
+  },
+  "links": {
+   "mu": "h85hi1q"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "202cedcc-0b05-44bc-8f1c-93dfc8f0a6cd",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-11T16:56:22+00:00",
+  "updatedAt": "2024-11-12T17:19:33+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a54249f4-0f63-428d-a24c-7e47ccdc01b3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-11T16:55:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "JJi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T16:55:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a54249f4-0f63-428d-a24c-7e47ccdc01b3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-11T16:55:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "JJi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T16:55:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9895dbb9-05b7-486f-9950-990fbd1a3dfd",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-11T16:56:36+00:00",
+    "description": "",
+    "fileName": "4421107a-b4e3-400f-b8c0-4685586f34de.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-11T16:56:36+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9cdba5af-b71d-49b6-b627-0faa5aeb84cf",
+   "type": "creator"
+  }
+ ]
+}

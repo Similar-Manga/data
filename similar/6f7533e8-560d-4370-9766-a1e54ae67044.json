@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7641ec7c-bdac-4fd5-b057-c435a6c379e9",
+   "title": {
+    "ja": "Yasashii Shinigami no Kaikata"
+   },
+   "contentRating": "safe",
+   "score": 0.22583687,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
    "id": "8c524461-f074-40fa-b3e4-9b58b301fe77",
    "title": {
     "en": "Lalin's Curse"
    },
    "contentRating": "safe",
-   "score": 0.22861029,
+   "score": 0.21709123,
    "languages": [
     "uk",
     "tr",
@@ -21,14 +32,21 @@
    ]
   },
   {
-   "id": "7641ec7c-bdac-4fd5-b057-c435a6c379e9",
+   "id": "feae68c5-11cd-4b88-a220-39d7fa653c11",
    "title": {
-    "ja": "Yasashii Shinigami no Kaikata"
+    "en": "Winner Takes All"
    },
    "contentRating": "safe",
-   "score": 0.22377583,
+   "score": 0.20092662,
    "languages": [
-    "ru"
+    "en",
+    "tr",
+    "pt-br",
+    "es-la",
+    "fr",
+    "id",
+    "ru",
+    "pl"
    ]
   },
   {
@@ -37,7 +55,7 @@
     "en": "Sayonara Eri"
    },
    "contentRating": "safe",
-   "score": 0.2112084,
+   "score": 0.19922197,
    "languages": [
     "pl",
     "ru",
@@ -55,54 +73,12 @@
    ]
   },
   {
-   "id": "feae68c5-11cd-4b88-a220-39d7fa653c11",
-   "title": {
-    "en": "Winner Takes All"
-   },
-   "contentRating": "safe",
-   "score": 0.19995846,
-   "languages": [
-    "en",
-    "tr",
-    "pt-br",
-    "es-la",
-    "fr",
-    "id",
-    "ru",
-    "pl"
-   ]
-  },
-  {
-   "id": "b6e291d1-5613-4b12-bcce-0c04877a7c0c",
-   "title": {
-    "en": "The Dream Atelier"
-   },
-   "contentRating": "safe",
-   "score": 0.19994536,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "a3b70d4f-2efa-4eca-9f81-61ab057ac9f1",
-   "title": {
-    "en": "Saru"
-   },
-   "contentRating": "safe",
-   "score": 0.19612177,
-   "languages": [
-    "pt-br",
-    "ru"
-   ]
-  },
-  {
    "id": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
    "title": {
     "en": "RDB"
    },
    "contentRating": "safe",
-   "score": 0.19219358,
+   "score": 0.19440591,
    "languages": [
     "ru",
     "en"
@@ -114,23 +90,11 @@
     "en": "Vampire Sphere"
    },
    "contentRating": "safe",
-   "score": 0.19188966,
+   "score": 0.19336827,
    "languages": [
     "en",
     "fr",
     "ru"
-   ]
-  },
-  {
-   "id": "3055b213-aaee-469c-a233-b97a8eff9494",
-   "title": {
-    "en": "No Longer a Heroine!"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "ru",
-    "en"
    ]
   },
   {
@@ -146,25 +110,50 @@
    ]
   },
   {
-   "id": "c2e093a2-2437-4358-9e4f-b1ccb35e885b",
+   "id": "3055b213-aaee-469c-a233-b97a8eff9494",
    "title": {
-    "en": "Gyeonwoo and the Priestess"
+    "en": "No Longer a Heroine!"
    },
    "contentRating": "safe",
-   "score": 0.18572767,
+   "score": 0.19047621,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "b6e291d1-5613-4b12-bcce-0c04877a7c0c",
+   "title": {
+    "en": "The Dream Atelier"
+   },
+   "contentRating": "safe",
+   "score": 0.18909433,
    "languages": [
     "en",
     "ru"
    ]
   },
   {
-   "id": "525083a7-439c-4f43-bf5c-e65bbb426bd9",
+   "id": "c2e093a2-2437-4358-9e4f-b1ccb35e885b",
    "title": {
-    "en": "Homesick"
+    "en": "Gyeonwoo and the Priestess"
    },
    "contentRating": "safe",
-   "score": 0.18283203,
+   "score": 0.18759447,
    "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "a3b70d4f-2efa-4eca-9f81-61ab057ac9f1",
+   "title": {
+    "en": "Saru"
+   },
+   "contentRating": "safe",
+   "score": 0.18758908,
+   "languages": [
+    "pt-br",
     "ru"
    ]
   },
@@ -174,7 +163,7 @@
     "en": "After God"
    },
    "contentRating": "safe",
-   "score": 0.1827531,
+   "score": 0.18323967,
    "languages": [
     "vi",
     "fr",
@@ -189,7 +178,7 @@
     "en": "Battle in 5 Seconds After Meeting"
    },
    "contentRating": "safe",
-   "score": 0.18238394,
+   "score": 0.18284827,
    "languages": [
     "en",
     "vi",
@@ -201,34 +190,47 @@
    ]
   },
   {
-   "id": "03cdf755-df46-4dc0-94dc-7816e099cd01",
+   "id": "efa992b1-8685-45bb-b71a-7d0d9cfbb68d",
    "title": {
-    "en": "The Demonic Contract"
+    "en": "Rendezvous"
    },
    "contentRating": "safe",
-   "score": 0.18140565,
+   "score": 0.1770198,
    "languages": [
-    "tr",
-    "id",
-    "pt-br",
-    "ru",
     "en",
-    "fr"
+    "fr",
+    "es-la",
+    "id",
+    "ru",
+    "tr"
    ]
   },
   {
-   "id": "14ebae8c-1131-4056-84df-333895db42f2",
+   "id": "0b62a1d2-5fe0-455d-bb5b-a086ce2410f8",
    "title": {
-    "en": "Regnal Trigger"
+    "en": "The Devil Is A Handsome Man"
    },
    "contentRating": "safe",
-   "score": 0.17908755,
+   "score": 0.17634669,
    "languages": [
-    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "ebcad9db-8ee9-4ec8-a054-8a4b866c0e31",
+   "title": {
+    "en": "1 Second"
+   },
+   "contentRating": "safe",
+   "score": 0.17634669,
+   "languages": [
+    "pt-br",
     "en",
+    "fr",
+    "id",
     "ru"
    ]
   }
  ],
- "updatedAt": "2024-11-11T21:09:59+00:00"
+ "updatedAt": "2024-11-13T21:17:10+00:00"
 }

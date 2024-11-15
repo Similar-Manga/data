@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f7ebdb92-2285-4f7c-8e67-e4ab75fe0557",
+   "title": {
+    "en": "Kenka Kagyou"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573
+  },
+  {
    "id": "e9cb4b80-ce3f-4f6c-be7b-d852cdea1d26",
    "title": {
     "en": "COOL TEAM"
@@ -14,12 +22,32 @@
    "score": 0.21428573
   },
   {
-   "id": "f7ebdb92-2285-4f7c-8e67-e4ab75fe0557",
+   "id": "6508cb6c-a39b-433e-82fa-4e70b30f4f78",
    "title": {
-    "en": "Kenka Kagyou"
+    "en": "Shinsengumi Rebellion"
    },
    "contentRating": "safe",
-   "score": 0.21428573
+   "score": 0.20203052
+  },
+  {
+   "id": "6c74b901-936c-4223-8029-58e3adee7513",
+   "title": {
+    "en": "Convoy"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
+  },
+  {
+   "id": "83beb81f-22a4-4fd9-9dc5-1d3e52ad7bef",
+   "title": {
+    "en": "ReMember"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "fr"
+   ]
   },
   {
    "id": "0512e2a1-a241-42ab-ab19-24f092a769e4",
@@ -33,6 +61,14 @@
     "vi",
     "pt-br"
    ]
+  },
+  {
+   "id": "9ac30595-a4d8-41ae-80bb-ed019922733a",
+   "title": {
+    "en": "Mizu no Senritsu"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
   },
   {
    "id": "9676b371-7468-4fdc-91c4-50fd56aa1d76",
@@ -51,48 +87,12 @@
    "score": 0.20203052
   },
   {
-   "id": "6c74b901-936c-4223-8029-58e3adee7513",
-   "title": {
-    "en": "Convoy"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "6508cb6c-a39b-433e-82fa-4e70b30f4f78",
-   "title": {
-    "en": "Shinsengumi Rebellion"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "9ac30595-a4d8-41ae-80bb-ed019922733a",
-   "title": {
-    "en": "Mizu no Senritsu"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "83beb81f-22a4-4fd9-9dc5-1d3e52ad7bef",
-   "title": {
-    "en": "ReMember"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "a77539cb-ead9-44a4-aef5-a4c07301c8d4",
    "title": {
     "en": "High School Jingi"
    },
    "contentRating": "safe",
-   "score": 0.19591704
+   "score": 0.19592045
   },
   {
    "id": "6462d958-278a-4ca9-ab3b-597887cb9e72",
@@ -100,7 +100,7 @@
     "en": "Dolphin"
    },
    "contentRating": "safe",
-   "score": 0.1814838
+   "score": 0.18147373
   },
   {
    "id": "b1ae9124-518e-4efa-ab37-b113acc3a14e",
@@ -108,7 +108,18 @@
     "en": "Sengoku Gonbe"
    },
    "contentRating": "safe",
-   "score": 0.18091068
+   "score": 0.18091401
+  },
+  {
+   "id": "b687a5f7-948c-4255-a913-f0f654a724f6",
+   "title": {
+    "en": "Criminals Meals"
+   },
+   "contentRating": "safe",
+   "score": 0.17761725,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "46622081-3215-40d2-81c5-e3127fc7fb2f",
@@ -127,18 +138,7 @@
     "en": "Masamune"
    },
    "contentRating": "safe",
-   "score": 0.17298827
-  },
-  {
-   "id": "b687a5f7-948c-4255-a913-f0f654a724f6",
-   "title": {
-    "en": "Criminals Meals"
-   },
-   "contentRating": "safe",
-   "score": 0.16890445,
-   "languages": [
-    "en"
-   ]
+   "score": 0.17298546
   },
   {
    "id": "6676aef9-cf30-4950-9a20-e0382b5e7447",
@@ -155,5 +155,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-11T20:52:21+00:00"
+ "updatedAt": "2024-11-13T20:56:24+00:00"
 }

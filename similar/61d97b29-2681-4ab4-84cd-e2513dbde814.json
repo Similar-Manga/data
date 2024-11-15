@@ -11,24 +11,13 @@
     "en": "Swell"
    },
    "contentRating": "safe",
-   "score": 0.30421054,
+   "score": 0.30420822,
    "languages": [
     "bg",
     "en",
     "pl",
     "de",
     "pt-br"
-   ]
-  },
-  {
-   "id": "87fb264d-027d-4418-91fa-473561b1bbd5",
-   "title": {
-    "en": "The Message in the Rain Shower"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -43,12 +32,23 @@
    ]
   },
   {
+   "id": "87fb264d-027d-4418-91fa-473561b1bbd5",
+   "title": {
+    "en": "The Message in the Rain Shower"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1e833038-34f2-4f68-8e3a-c3e42845fea5",
    "title": {
     "en": "Chingochou Futsuryoukyoku Ukeika"
    },
    "contentRating": "safe",
-   "score": 0.2746897,
+   "score": 0.27460992,
    "languages": [
     "en"
    ]
@@ -59,7 +59,7 @@
     "en": "Potechi"
    },
    "contentRating": "safe",
-   "score": 0.26265648,
+   "score": 0.2626536,
    "languages": [
     "en"
    ]
@@ -70,7 +70,7 @@
     "en": "Noroi no Video no Tadashii Kanshou Style"
    },
    "contentRating": "safe",
-   "score": 0.25504994,
+   "score": 0.25506026,
    "languages": [
     "en",
     "vi"
@@ -82,47 +82,9 @@
     "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.24952738,
+   "score": 0.24951646,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "91194389-7abd-4069-9d27-8d2a23ec6aad",
-   "title": {
-    "en": "Ko Mori Uta"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "abdc0662-1e43-4c37-9e01-f67beaf2dedb",
-   "title": {
-    "en": "Where on When,"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
-   "id": "ca0623d1-7484-4fd9-8c79-ee7ee58d4a10",
-   "title": {
-    "en": "Nurikabe"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
    ]
   },
   {
@@ -142,49 +104,75 @@
    ]
   },
   {
-   "id": "0f78226e-d211-4f34-b8d4-db40303b6d94",
+   "id": "abdc0662-1e43-4c37-9e01-f67beaf2dedb",
    "title": {
-    "en": "A Compulsory Holiday"
+    "en": "Where on When,"
    },
    "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bf8470f3-409c-49aa-8e84-83af31f677bc",
-   "title": {
-    "en": "Under the Bridge"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "72932e74-c5ef-48fc-b5d0-7b26f382572c",
-   "title": {
-    "en": "The Rabbit and the Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "940f858e-7a70-4269-97bd-380a99baeb7c",
-   "title": {
-    "en": "Natsu Neiro"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
+   "score": 0.24692619,
    "languages": [
     "en",
-    "fr"
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "91194389-7abd-4069-9d27-8d2a23ec6aad",
+   "title": {
+    "en": "Ko Mori Uta"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ca0623d1-7484-4fd9-8c79-ee7ee58d4a10",
+   "title": {
+    "en": "Nurikabe"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "7599c7be-d368-4b75-9fd1-a7c36a707861",
+   "title": {
+    "en": "Forbidden Games"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "476cd7bd-5625-4ba9-b6c2-e3f39558d66f",
+   "title": {
+    "en": "Dropper-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "42647c77-390c-41d9-a7fc-4cdfd8882050",
+   "title": {
+    "en": "Hakobune no Biosophia"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -197,7 +185,20 @@
    "languages": [
     "fr"
    ]
+  },
+  {
+   "id": "4c573712-38ef-49ff-957b-5b08c423030d",
+   "title": {
+    "en": "Toward the Twelve-colored Sea"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "pt-br",
+    "en",
+    "tr"
+   ]
   }
  ],
- "updatedAt": "2024-11-11T21:03:52+00:00"
+ "updatedAt": "2024-11-13T21:10:05+00:00"
 }

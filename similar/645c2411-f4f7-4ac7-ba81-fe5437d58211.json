@@ -6,12 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "51bd488f-670b-4f9f-8522-89622ef7db0b",
+   "id": "3617aaec-946c-4957-83a1-599c559669b4",
    "title": {
-    "en": "Dennou Sokai Reverse"
+    "en": "Ultra Heaven"
    },
    "contentRating": "safe",
-   "score": 0.24743582
+   "score": 0.29887918,
+   "languages": [
+    "en",
+    "vi",
+    "pt-br"
+   ]
   },
   {
    "id": "e3823f5a-017d-4dc1-a217-290147049c5e",
@@ -41,6 +46,14 @@
    ]
   },
   {
+   "id": "51bd488f-670b-4f9f-8522-89622ef7db0b",
+   "title": {
+    "en": "Dennou Sokai Reverse"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
+  },
+  {
    "id": "27d58bfa-6467-4204-972c-b23939f3d932",
    "title": {
     "en": "Tokyo Alternative"
@@ -54,23 +67,10 @@
     "en": "Nightmare Busters"
    },
    "contentRating": "safe",
-   "score": 0.23227537,
+   "score": 0.23227562,
    "languages": [
     "zh-hk",
     "en"
-   ]
-  },
-  {
-   "id": "3617aaec-946c-4957-83a1-599c559669b4",
-   "title": {
-    "en": "Ultra Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.22744803,
-   "languages": [
-    "en",
-    "vi",
-    "pt-br"
    ]
   },
   {
@@ -79,7 +79,7 @@
     "en": "Happiness"
    },
    "contentRating": "safe",
-   "score": 0.2266312
+   "score": 0.22663473
   },
   {
    "id": "b83802b7-cb00-4106-9624-362c63185369",
@@ -87,7 +87,7 @@
     "en": "Genesis Code"
    },
    "contentRating": "safe",
-   "score": 0.22507943
+   "score": 0.22507574
   },
   {
    "id": "dc22c201-a2a8-40aa-a23f-69852b0c8d0f",
@@ -104,17 +104,9 @@
    ]
   },
   {
-   "id": "1ab9a929-2e72-4f15-9a6d-814e8dc948dd",
+   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
    "title": {
-    "en": "Pakka"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573
-  },
-  {
-   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
-   "title": {
-    "en": "Hyakki Tsurezure Bukuro"
+    "en": "Kokushi no Shima"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -123,9 +115,21 @@
    ]
   },
   {
-   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
+   "id": "9e4b734d-cc7c-4133-af0b-80b53f4f239b",
    "title": {
-    "en": "Kokushi no Shima"
+    "en": "The Watchman"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
+   "title": {
+    "en": "Hyakki Tsurezure Bukuro"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -147,16 +151,12 @@
    ]
   },
   {
-   "id": "9e4b734d-cc7c-4133-af0b-80b53f4f239b",
+   "id": "1ab9a929-2e72-4f15-9a6d-814e8dc948dd",
    "title": {
-    "en": "The Watchman"
+    "en": "Pakka"
    },
    "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "it"
-   ]
+   "score": 0.21428573
   },
   {
    "id": "f0427c1c-ec3a-4984-9066-6f7e6a9b687a",
@@ -167,5 +167,5 @@
    "score": 0.21428573
   }
  ],
- "updatedAt": "2024-11-11T21:04:57+00:00"
+ "updatedAt": "2024-11-13T21:11:22+00:00"
 }

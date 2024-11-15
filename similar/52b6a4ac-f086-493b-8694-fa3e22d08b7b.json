@@ -11,7 +11,7 @@
     "en": "Rainy Days, Yesterday"
    },
    "contentRating": "safe",
-   "score": 0.3552428,
+   "score": 0.33288944,
    "languages": [
     "en",
     "pl"
@@ -23,7 +23,7 @@
     "en": "Say Love"
    },
    "contentRating": "safe",
-   "score": 0.33485344,
+   "score": 0.3182329,
    "languages": [
     "en"
    ]
@@ -34,21 +34,23 @@
     "en": "Naisho ni Shite ne"
    },
    "contentRating": "safe",
-   "score": 0.3222317,
+   "score": 0.31181142,
    "languages": [
     "es-la",
     "en"
    ]
   },
   {
-   "id": "ec97fe49-387a-40dc-8659-0cd02e2b08ed",
+   "id": "56aa452b-3c0c-4fa5-b4f6-37abd627fe9b",
    "title": {
-    "en": "Tsunagaru Koi"
+    "en": "Aisaseteyo Sensei"
    },
    "contentRating": "safe",
-   "score": 0.30530736,
+   "score": 0.30005077,
    "languages": [
-    "en"
+    "en",
+    "tr",
+    "vi"
    ]
   },
   {
@@ -57,18 +59,7 @@
     "en": "Knocked Up Boys"
    },
    "contentRating": "safe",
-   "score": 0.30433878,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2a3735d6-1406-4d62-90d8-0eb23f4912a0",
-   "title": {
-    "en": "B Kyuu Gourmet Club"
-   },
-   "contentRating": "safe",
-   "score": 0.29781574,
+   "score": 0.29631522,
    "languages": [
     "en"
    ]
@@ -79,11 +70,22 @@
     "en": "Kimi ni wa Todokanai"
    },
    "contentRating": "safe",
-   "score": 0.29540446,
+   "score": 0.29323986,
    "languages": [
     "es-la",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "ec97fe49-387a-40dc-8659-0cd02e2b08ed",
+   "title": {
+    "en": "Tsunagaru Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.2926179,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -92,80 +94,20 @@
     "en": "Sekai ga Hajimaru Asa ni Umi wo Mito"
    },
    "contentRating": "safe",
-   "score": 0.29390988,
+   "score": 0.28791502,
    "languages": [
     "en",
     "vi"
    ]
   },
   {
-   "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
+   "id": "2a3735d6-1406-4d62-90d8-0eb23f4912a0",
    "title": {
-    "en": "Kaoru Hana wa Rin to Saku"
+    "en": "B Kyuu Gourmet Club"
    },
    "contentRating": "safe",
-   "score": 0.29163605,
+   "score": 0.28658834,
    "languages": [
-    "pt-br",
-    "ru",
-    "en",
-    "fr",
-    "vi",
-    "id",
-    "es-la",
-    "he",
-    "ar",
-    "tr"
-   ]
-  },
-  {
-   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
-   "title": {
-    "en": "Gakuen Babysitters"
-   },
-   "contentRating": "safe",
-   "score": 0.2909254,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id"
-   ]
-  },
-  {
-   "id": "56aa452b-3c0c-4fa5-b4f6-37abd627fe9b",
-   "title": {
-    "en": "Aisaseteyo Sensei"
-   },
-   "contentRating": "safe",
-   "score": 0.28843477,
-   "languages": [
-    "en",
-    "tr",
-    "vi"
-   ]
-  },
-  {
-   "id": "59d43c56-6718-47d9-bb7e-df75144516d0",
-   "title": {
-    "en": "Kimi wo Wasureru Koi ga Shitai"
-   },
-   "contentRating": "safe",
-   "score": 0.2845143,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "513c25bc-9afc-4950-9272-5c01c47970b5",
-   "title": {
-    "en": "From the moon to the stars"
-   },
-   "contentRating": "safe",
-   "score": 0.28442198,
-   "languages": [
-    "es",
     "en"
    ]
   },
@@ -183,27 +125,83 @@
    ]
   },
   {
+   "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
+   "title": {
+    "en": "Kaoru Hana wa Rin to Saku"
+   },
+   "contentRating": "safe",
+   "score": 0.28339928,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "fr",
+    "vi",
+    "id",
+    "es-la",
+    "he",
+    "ar",
+    "tr"
+   ]
+  },
+  {
+   "id": "513c25bc-9afc-4950-9272-5c01c47970b5",
+   "title": {
+    "en": "From the moon to the stars"
+   },
+   "contentRating": "safe",
+   "score": 0.280301,
+   "languages": [
+    "es",
+    "en"
+   ]
+  },
+  {
    "id": "2213e3de-e007-4446-926b-65ae364875d6",
    "title": {
     "en": "Shitsuren Mania"
    },
    "contentRating": "safe",
-   "score": 0.28388718,
+   "score": 0.2798371,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f65e76c4-e4fb-40be-bc9b-bf6285d72d0b",
+   "id": "ff3c410e-9bfe-471c-ad2a-328c15d71d09",
    "title": {
-    "en": "Love Battle Manual"
+    "en": "Ani no Yuujin"
    },
    "contentRating": "safe",
-   "score": 0.28213707,
+   "score": 0.27779305,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "59d43c56-6718-47d9-bb7e-df75144516d0",
+   "title": {
+    "en": "Kimi wo Wasureru Koi ga Shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.27765203,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "1afa2287-8408-4b17-9195-c42902153cfb",
+   "title": {
+    "en": "Tamaranai no wa Koi na no ka"
+   },
+   "contentRating": "safe",
+   "score": 0.27650324,
+   "languages": [
+    "vi",
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-11T20:57:07+00:00"
+ "updatedAt": "2024-11-13T21:01:59+00:00"
 }

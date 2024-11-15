@@ -6,12 +6,23 @@
  "contentRating": "suggestive",
  "matches": [
   {
+   "id": "a23cdda7-4d5a-449f-8e86-48c2fc5ed717",
+   "title": {
+    "en": "Love Class (Pre-Serialization)"
+   },
+   "contentRating": "suggestive",
+   "score": 0.3070562,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
    "id": "d6e02221-7f55-4c16-97ea-1de4927a23be",
    "title": {
     "en": "Love Automation"
    },
    "contentRating": "suggestive",
-   "score": 0.29640856,
+   "score": 0.2964097,
    "languages": [
     "en"
    ]
@@ -22,47 +33,11 @@
     "en": "Boku no Idol"
    },
    "contentRating": "suggestive",
-   "score": 0.2935678,
+   "score": 0.29356724,
    "languages": [
     "pl",
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "058627ff-93c8-4f50-9e6d-e5eadcc6bd29",
-   "title": {
-    "en": "Teramachi-senpai Wants Him to Understand"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "617c972d-e9b6-481b-a392-e68b9344853d",
-   "title": {
-    "en": "Nanai Sanami ga Kiratte Kurenai"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "a6ed4a5c-9443-4fde-bfa3-1712d6542a8c",
-   "title": {
-    "en": "Princess School"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -82,39 +57,6 @@
    ]
   },
   {
-   "id": "c86efd9c-6ae0-4aaf-9cbc-fc5f718aae4d",
-   "title": {
-    "en": "Seito Kaichou Naseba Naru"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e3c0208-946a-49ef-930e-ed5d2e603ff9",
-   "title": {
-    "en": "Tackle Shoujo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "55f29750-22d0-43ca-8e03-42e1a342fd2d",
-   "title": {
-    "en": "Hakui no Kanojo (Pre-Serialization)"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e113ab5a-ae4b-47d7-9016-d8f1f5b0e654",
    "title": {
     "en": "Onaidoshi no Onee-san"
@@ -122,31 +64,6 @@
    "contentRating": "suggestive",
    "score": 0.2857143,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d80e18e0-4d5a-48a7-a4b7-1c218db42b1a",
-   "title": {
-    "en": "Takidani High Comic Club"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "fr",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "6524f4a2-6d51-4b37-b1c5-43c382abb5d9",
-   "title": {
-    "en": "Koi no Dracula"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "it",
     "en"
    ]
   },
@@ -181,28 +98,111 @@
    ]
   },
   {
-   "id": "ddb94991-fef1-4dd7-b4fe-39eb79b18a86",
+   "id": "d80e18e0-4d5a-48a7-a4b7-1c218db42b1a",
    "title": {
-    "en": "Yumemiru Shounen Shoujo"
+    "en": "Takidani High Comic Club"
    },
    "contentRating": "suggestive",
-   "score": 0.27575177,
+   "score": 0.2857143,
    "languages": [
+    "fr",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "55f29750-22d0-43ca-8e03-42e1a342fd2d",
+   "title": {
+    "en": "Hakui no Kanojo (Pre-Serialization)"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a6ed4a5c-9443-4fde-bfa3-1712d6542a8c",
+   "title": {
+    "en": "Princess School"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "058627ff-93c8-4f50-9e6d-e5eadcc6bd29",
+   "title": {
+    "en": "Teramachi-senpai Wants Him to Understand"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "6e3c0208-946a-49ef-930e-ed5d2e603ff9",
+   "title": {
+    "en": "Tackle Shoujo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c86efd9c-6ae0-4aaf-9cbc-fc5f718aae4d",
+   "title": {
+    "en": "Seito Kaichou Naseba Naru"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "617c972d-e9b6-481b-a392-e68b9344853d",
+   "title": {
+    "en": "Nanai Sanami ga Kiratte Kurenai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
+   "languages": [
+    "es-la",
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "d997a778-12e2-4e4a-9bda-af4a6a7c85aa",
+   "id": "6524f4a2-6d51-4b37-b1c5-43c382abb5d9",
    "title": {
-    "en": "Yuzu Chu♥"
+    "en": "Koi no Dracula"
    },
    "contentRating": "suggestive",
-   "score": 0.2730202,
+   "score": 0.2857143,
    "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "ddb94991-fef1-4dd7-b4fe-39eb79b18a86",
+   "title": {
+    "en": "Yumemiru Shounen Shoujo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.27575287,
+   "languages": [
+    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-11T22:02:33+00:00"
+ "updatedAt": "2024-11-13T22:14:59+00:00"
 }

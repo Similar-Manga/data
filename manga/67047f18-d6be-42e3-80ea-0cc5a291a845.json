@@ -1,0 +1,171 @@
+{
+ "id": "67047f18-d6be-42e3-80ea-0cc5a291a845",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Bocchi the Rock! - Stella of Silence (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "静寂のステラ"
+   },
+   {
+    "ja-ro": "Shijima no Sutera"
+   },
+   {
+    "vi": "Ngôi sao tĩnh lặng"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi"
+  ],
+  "latestUploadedChapter": "340d21ba-3c92-49aa-af36-015ea608f5a4",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Music"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-06T15:23:51+00:00",
+  "updatedAt": "2024-11-13T13:48:59+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1f1bb172-e30b-446e-8a5e-fa03b8c466ff",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-06T15:11:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "rk_g1x",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/90983341",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/rk_g1x",
+    "updatedAt": "2024-11-06T15:19:18+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1f1bb172-e30b-446e-8a5e-fa03b8c466ff",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-06T15:11:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "rk_g1x",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/90983341",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/rk_g1x",
+    "updatedAt": "2024-11-06T15:19:18+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6de79849-9d35-4dd9-a5b7-86bb2d1ce611",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-06T15:23:54+00:00",
+    "description": "",
+    "fileName": "726bb108-f720-4833-98bd-cc2b932c2fbb.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-06T15:23:54+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "2e0fdb3b-632c-4f8f-a311-5b56952db647",
+   "type": "manga",
+   "related": "based_on"
+  },
+  {
+   "id": "59f6a2e2-a177-4969-8be0-d3ad8d6bb6bf",
+   "type": "creator"
+  }
+ ]
+}

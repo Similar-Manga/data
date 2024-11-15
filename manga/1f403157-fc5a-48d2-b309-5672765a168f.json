@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Dandelion"
+   "en": "dandelion"
   },
   "altTitles": [
    {
@@ -15,13 +15,16 @@
   },
   "links": {
    "al": "51891",
+   "amz": "https://www.amazon.co.jp/s?i=stripbooks\u0026rh=p_27:落合尚之,p_28:ダンデライオン\u0026s=date-desc-rank",
+   "ap": "dandelion-naoyuki-ochiai",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/121627/",
    "mal": "21891",
-   "mu": "otg72rl"
+   "mu": "otg72rl",
+   "raw": "https://csbs.shogakukan.co.jp/book?book_group_id=7060"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
-  "lastChapter": "10",
+  "lastChapter": "9",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2001,
@@ -101,9 +104,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2023-06-04T09:34:17+00:00",
-  "updatedAt": "2023-06-04T09:48:34+00:00"
+  "updatedAt": "2024-11-12T00:58:33+00:00"
  },
  "relationships": [
   {
@@ -163,16 +166,16 @@
    }
   },
   {
-   "id": "5f90ca4a-b697-4d2d-a8e7-2c39e35c5edc",
+   "id": "dcb84f31-e09a-4768-9d2a-41a1fa52437e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-06-04T09:34:24+00:00",
+    "createdAt": "2024-11-12T00:57:22+00:00",
     "description": "",
-    "fileName": "1584af36-856d-44a9-9984-2ab8c3c5e3bb.jpg",
+    "fileName": "a30ddc27-91b3-4578-bd6b-d49916651576.jpg",
     "locale": "ja",
-    "updatedAt": "2023-06-04T09:34:24+00:00",
+    "updatedAt": "2024-11-12T00:57:22+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

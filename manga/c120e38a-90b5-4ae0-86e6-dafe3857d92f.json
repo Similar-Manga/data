@@ -3,11 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Dog Run!"
+   "en": "Danjo Kan ni Aru Mono ga Mebaeru Hanashi"
   },
   "altTitles": [
    {
-    "ja": "Dog Run!"
+    "ja": "男女間にあるものが芽生える話"
+   },
+   {
+    "ja-ro": "Danjo-kan ni Aru Mono ga Mebaeru Hanashi"
+   },
+   {
+    "en": "A Story About Something Growing Between a Man and a Woman"
    }
   ],
   "description": {
@@ -17,7 +23,6 @@
    "raw": "https://x.com/noco916/status/1651930040026951680/photo/1"
   },
   "originalLanguage": "ja",
-  "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2021,
   "contentRating": "safe",
@@ -75,6 +80,18 @@
     }
    },
    {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
@@ -100,9 +117,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-11-09T15:58:36+00:00",
-  "updatedAt": "2024-11-10T00:40:44+00:00"
+  "updatedAt": "2024-11-11T17:21:44+00:00"
  },
  "relationships": [
   {

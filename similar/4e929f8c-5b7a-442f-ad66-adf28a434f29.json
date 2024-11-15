@@ -11,7 +11,7 @@
     "en": "Shin Japan Archipelago of Toads and Frogs - The Mornings That Ring"
    },
    "contentRating": "suggestive",
-   "score": 0.23320048
+   "score": 0.23401672
   },
   {
    "id": "c3e1a1e4-bbd2-471d-b74a-bc4bd689c400",
@@ -19,7 +19,15 @@
     "en": "Metropolitan International Incidents Division - Hime Deka"
    },
    "contentRating": "suggestive",
-   "score": 0.21280636
+   "score": 0.21309955
+  },
+  {
+   "id": "50c60dac-0a38-4da9-92f6-f544cf7c87af",
+   "title": {
+    "en": "Legend of the Holy Common Man"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21082315
   },
   {
    "id": "dec0cba3-2a29-409c-bb2b-fc30e7fcc4be",
@@ -33,12 +41,15 @@
    ]
   },
   {
-   "id": "50c60dac-0a38-4da9-92f6-f544cf7c87af",
+   "id": "273933f5-7db4-463b-a704-29da253c517e",
    "title": {
-    "en": "Legend of the Holy Common Man"
+    "en": "Crime Game - Houritsu no Nai Sekai"
    },
    "contentRating": "suggestive",
-   "score": 0.21024887
+   "score": 0.20917106,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "ea1858c9-30fc-4dd9-81fb-6384ee77bc2c",
@@ -46,7 +57,7 @@
     "en": "Watashi no Hara no Naka no Bakemono"
    },
    "contentRating": "suggestive",
-   "score": 0.20861708,
+   "score": 0.20885125,
    "languages": [
     "vi",
     "en"
@@ -66,32 +77,9 @@
     "en": "Kodoku no ie"
    },
    "contentRating": "suggestive",
-   "score": 0.20563214,
+   "score": 0.20575973,
    "languages": [
     "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "3090ded3-3230-43b3-b4e3-f34bec59ca41",
-   "title": {
-    "en": "The Man Who Came in From the Sea"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20066841,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "89b23664-94b6-4dda-b0b0-ebee71f67653",
-   "title": {
-    "en": "Happy Family - Fukushuu no Rental Okaa-san"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19622305,
-   "languages": [
     "vi"
    ]
   },
@@ -101,7 +89,7 @@
     "en": "Golgo 13"
    },
    "contentRating": "suggestive",
-   "score": 0.19469552,
+   "score": 0.19485468,
    "languages": [
     "en",
     "ru",
@@ -123,7 +111,7 @@
     "en": "Fukumen no Hitsuji"
    },
    "contentRating": "suggestive",
-   "score": 0.19210114
+   "score": 0.1923706
   },
   {
    "id": "815163d8-e9b6-44cd-9b50-a34e82c2c764",
@@ -134,29 +122,40 @@
    "score": 0.18966082
   },
   {
-   "id": "5eb514bc-bb37-4f37-a2e9-def530b08c29",
-   "title": {
-    "en": "Gift±"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18715616,
-   "languages": [
-    "vi",
-    "ru",
-    "es-la"
-   ]
-  },
-  {
    "id": "e4351665-25f3-4edd-8546-10e5122e721d",
    "title": {
     "en": "Tsumi to Batsu no Spica"
    },
    "contentRating": "suggestive",
-   "score": 0.18175477,
+   "score": 0.18912181,
    "languages": [
     "en",
     "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "89b23664-94b6-4dda-b0b0-ebee71f67653",
+   "title": {
+    "en": "Happy Family - Fukushuu no Rental Okaa-san"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1879912,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
+   "id": "5eb514bc-bb37-4f37-a2e9-def530b08c29",
+   "title": {
+    "en": "Gift±"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18729219,
+   "languages": [
+    "vi",
+    "ru",
+    "es-la"
    ]
   },
   {
@@ -171,5 +170,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-11T20:55:16+00:00"
+ "updatedAt": "2024-11-13T20:59:40+00:00"
 }

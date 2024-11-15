@@ -3,17 +3,19 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Yumenosaki Gakuin no Tenkousei-chan ga Idol no Tamago o Kuiarashiteru tte Hontou desu ka!?"
+   "en": "Ensemble Stars! - Yumenosaki Gakuin no Tenkousei-chan ga Idol no Tamago o Kuiarashiteru tte Hontou desu ka!? (Doujinshi)"
   },
   "altTitles": [
    {
-    "ja": "夢ノ咲学院の転校生ちゃんがアイドルの卵を食い荒らしてるって本当ですか!?"
+    "ja": "夢ノ咲学院の転校生ちゃんがアイドルの卵を食い荒らしてるって本当ですか!? (あんさんぶるスターズ!)"
    },
    {
-    "en": "Is it true that the transfer student-chan is devouring the aspiring idols at Yumenosaki Academy!?"
+    "en": "Is it true that the transfer student-chan is devouring the aspiring idols at Yumenosaki Academy!? (Ensemble Stars!)"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "| Namespace | Tags |\n| :- | :- |\n| parody | ensemble stars |\n| male | harem, low shotacon, shotacon, virginity |\n| female | big breasts, bike shorts, blowjob, femdom, leg lock, sole female |\n| mixed | group |"
+  },
   "originalLanguage": "ja",
   "status": "completed",
   "contentRating": "pornographic",
@@ -35,11 +37,11 @@
     }
    },
    {
-    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "id": "65761a2a-415e-47f3-bef2-a9dababba7a6",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Harem"
+      "en": "Reverse Harem"
      },
      "description": {},
      "group": "theme",
@@ -60,9 +62,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2020-01-01T18:10:05+00:00",
-  "updatedAt": "2023-03-29T11:45:23+00:00"
+  "updatedAt": "2024-11-11T17:15:27+00:00"
  },
  "relationships": [
   {
@@ -133,6 +135,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "e9ead79e-6c06-4560-8e0d-9049ef8b821a",
+   "type": "manga",
+   "related": "based_on"
   }
  ]
 }

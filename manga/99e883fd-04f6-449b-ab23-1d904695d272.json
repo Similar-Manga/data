@@ -46,11 +46,11 @@
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
-   "ru",
    "vi",
+   "ru",
    "id"
   ],
-  "latestUploadedChapter": "f0a472e1-2d5a-4b41-a991-81a2d1247b45",
+  "latestUploadedChapter": "9e306af7-27d5-49ad-8d72-2d5b412e92d7",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -75,12 +75,48 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Video Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 16,
   "createdAt": "2023-12-31T13:16:03+00:00",
-  "updatedAt": "2024-11-05T09:57:58+00:00"
+  "updatedAt": "2024-11-13T03:12:54+00:00"
  },
  "relationships": [
   {

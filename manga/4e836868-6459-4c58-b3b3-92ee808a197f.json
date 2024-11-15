@@ -1,0 +1,141 @@
+{
+ "id": "4e836868-6459-4c58-b3b3-92ee808a197f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "S-Kyuu Boukensha ga Ayumu Michi: Tsuihou Sareta Shounen wa Shin no Nouryoku 'Buki Master' de Sekai Saikyou ni Itaru"
+  },
+  "altTitles": [
+   {
+    "ja": "Ｓ級冒険者が歩む道　 ～追放された少年は真の能力『武器マスター』で世界最強に至る～"
+   },
+   {
+    "ja-ro": "S-Kyuu Boukensha ga Ayumu Michi: Tsuihou Sareta Shounen wa Shin no Nouryoku 'Buki Masutaa' de Sekai Saikyou ni Itaru"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "5c1aa8c6-964a-4539-b712-ad44c5fbb947",
+  "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-12T21:38:43+00:00",
+  "updatedAt": "2024-11-13T03:15:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b2f267b9-8b67-424a-a48e-83c03d526841",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-12T21:36:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Satou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-12T21:36:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "05e84f15-f0e9-4a53-becf-5ca29bbe03b0",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nカネツキマサト"
+    },
+    "booth": null,
+    "createdAt": "2023-03-26T16:07:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanetsuki Masato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/16489158",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/appleappleeee",
+    "updatedAt": "2023-07-12T04:05:03+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "42953d9c-9dae-496f-a7da-be55de62ff9a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-12T21:38:45+00:00",
+    "description": "",
+    "fileName": "68d3c547-5b86-4a6c-911a-bbb12d95976e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-12T21:38:45+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "68d62155-85fa-4851-94af-37402bf16252",
+   "type": "creator"
+  }
+ ]
+}

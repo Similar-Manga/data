@@ -1,0 +1,169 @@
+{
+ "id": "29103c06-a295-40f4-921d-c4b0efaca04e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Saihate no Cyclops"
+  },
+  "altTitles": [
+   {
+    "ja": "最果てのサイクロプス"
+   },
+   {
+    "ja": "The End of Cyclops"
+   },
+   {
+    "en": "Cyclops of the End"
+   }
+  ],
+  "description": {
+   "en": "Assassinations of important figures are occurring in countries all over the world… An organization plotting world domination kidnaps a girl. Her older sister uses her psychic powers and wagers her life in order to save her younger sister, and a psychic battle begins…"
+  },
+  "links": {
+   "al": "96040",
+   "amz": "https://www.amazon.co.jp/dp/B074CFHWR8",
+   "ap": "saihate-no-cyclops",
+   "bw": "series/23499",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/315272/",
+   "mal": "93164",
+   "mu": "799w9rt",
+   "raw": "https://www.sukima.me/book/title/BENJA0000002/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "23",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2011,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-13T17:48:44+00:00",
+  "updatedAt": "2024-11-13T17:49:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "97272498-ed55-4a0d-98e1-4462e666c6e0",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 鈴木マサカズ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Suzuki Masakazu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/suzukimasakazu",
+    "updatedAt": "2024-10-11T08:16:37+00:00",
+    "version": 3,
+    "website": "http://suzukimasakazu.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "97272498-ed55-4a0d-98e1-4462e666c6e0",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 鈴木マサカズ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Suzuki Masakazu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/suzukimasakazu",
+    "updatedAt": "2024-10-11T08:16:37+00:00",
+    "version": 3,
+    "website": "http://suzukimasakazu.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "364b57a4-7943-42e2-9a7a-a56f3c096cf6",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-13T17:48:55+00:00",
+    "description": "",
+    "fileName": "cc0041cc-cf47-4943-8d1e-fda488f5e159.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-13T17:48:55+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

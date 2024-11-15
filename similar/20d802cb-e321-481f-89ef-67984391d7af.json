@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "bf8667d1-0996-495e-87f4-fdf29e4fa788",
-   "title": {
-    "en": "Kashimashi Meshi"
-   },
-   "contentRating": "safe",
-   "score": 0.24950607,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
    "title": {
     "en": "Café Velomano"
    },
    "contentRating": "safe",
-   "score": 0.24684772,
+   "score": 0.24660747,
    "languages": [
     "es-la",
     "en"
@@ -34,7 +23,7 @@
     "en": "The Girl on the Other Side of the Glass"
    },
    "contentRating": "safe",
-   "score": 0.2461993,
+   "score": 0.24596679,
    "languages": [
     "en",
     "pl"
@@ -46,7 +35,7 @@
     "en": "Matcha Made in Heaven"
    },
    "contentRating": "safe",
-   "score": 0.245378,
+   "score": 0.24515752,
    "languages": [
     "pt-br",
     "en"
@@ -58,9 +47,25 @@
     "en": "Kozure Batsuichi, Saigo no Koi wa Numa deshita."
    },
    "contentRating": "safe",
-   "score": 0.24411964,
+   "score": 0.24391878,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "503f623f-cc65-4fe5-bd89-e5e2c999a192",
+   "title": {
+    "en": "1LDK Blues"
+   },
+   "contentRating": "safe",
+   "score": 0.23976488,
+   "languages": [
+    "vi",
+    "tr",
+    "en",
+    "id",
+    "it",
+    "ru"
    ]
   },
   {
@@ -69,7 +74,7 @@
     "en": "Boku no Petto ni Narinasai."
    },
    "contentRating": "safe",
-   "score": 0.23894124,
+   "score": 0.23881406,
    "languages": [
     "pl",
     "en"
@@ -81,7 +86,7 @@
     "en": "Woman’s Hundred Faces"
    },
    "contentRating": "safe",
-   "score": 0.23833522,
+   "score": 0.23821725,
    "languages": [
     "en"
    ]
@@ -98,77 +103,15 @@
    ]
   },
   {
-   "id": "7d09492b-9a91-45bf-9550-57f2372b2db2",
-   "title": {
-    "en": "Always Hungry Harukawa"
-   },
-   "contentRating": "safe",
-   "score": 0.23574798,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "ce07a9bf-db0b-490b-8bb2-6c0932e37aec",
    "title": {
     "en": "Jitenshaya-san no Takahashi-kun"
    },
    "contentRating": "safe",
-   "score": 0.23161013,
+   "score": 0.23118147,
    "languages": [
     "en",
     "ar"
-   ]
-  },
-  {
-   "id": "7e0dcfbc-501c-487a-b08b-9d6150196d63",
-   "title": {
-    "en": "Clover"
-   },
-   "contentRating": "safe",
-   "score": 0.23015875,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2748775c-1362-4df6-a820-eb222aa7958f",
-   "title": {
-    "en": "Otona-Najimi"
-   },
-   "contentRating": "safe",
-   "score": 0.23015875,
-   "languages": [
-    "en",
-    "it",
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "1c676e15-ac73-4c3c-89aa-a8d499f8e64b",
-   "title": {
-    "en": "Katou Kyouju no Iutori"
-   },
-   "contentRating": "safe",
-   "score": 0.23015875,
-   "languages": [
-    "en",
-    "ru",
-    "vi"
-   ]
-  },
-  {
-   "id": "3d2420d7-7a5a-4318-935f-1d3fb35a55db",
-   "title": {
-    "en": "Sweet Spot"
-   },
-   "contentRating": "safe",
-   "score": 0.23015875,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -192,7 +135,68 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "96644848-f051-4459-bc80-461ffc00d19e",
+   "title": {
+    "en": "Hakoiri no Musume"
+   },
+   "contentRating": "safe",
+   "score": 0.23015875,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1c676e15-ac73-4c3c-89aa-a8d499f8e64b",
+   "title": {
+    "en": "Katou Kyouju no Iutori"
+   },
+   "contentRating": "safe",
+   "score": 0.23015875,
+   "languages": [
+    "en",
+    "ru",
+    "vi"
+   ]
+  },
+  {
+   "id": "2748775c-1362-4df6-a820-eb222aa7958f",
+   "title": {
+    "en": "Otona-Najimi"
+   },
+   "contentRating": "safe",
+   "score": 0.23015875,
+   "languages": [
+    "en",
+    "it",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "3d2420d7-7a5a-4318-935f-1d3fb35a55db",
+   "title": {
+    "en": "Sweet Spot"
+   },
+   "contentRating": "safe",
+   "score": 0.23015875,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "f02b25f2-7cd2-4f0a-9709-59d42921031b",
+   "title": {
+    "en": "Pawnshop: Shinobu's Jewel Box"
+   },
+   "contentRating": "safe",
+   "score": 0.23015875,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-11T20:34:04+00:00"
+ "updatedAt": "2024-11-13T20:35:59+00:00"
 }

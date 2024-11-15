@@ -1,0 +1,158 @@
+{
+ "id": "15a726e5-2057-48d0-a79f-b5ff9e121838",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Suzumiya Haruhi no Yuuutsu"
+  },
+  "altTitles": [
+   {
+    "ja": "涼宮ハルヒの憂鬱"
+   },
+   {
+    "en": "The Melancholy of Haruhi Suzumiya"
+   }
+  ],
+  "description": {
+   "en": "A manga series by Mizuno Makoto (みずの まこと). It ran from May to December 2004 (one volume, five chapters). It was published with limited input from Nagaru Tanigawa and strayed considerably from the light novels."
+  },
+  "links": {
+   "kt": "suzumiya-haruhi-no-yuuutsu",
+   "mu": "9bnr621"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "5",
+  "publicationDemographic": "shounen",
+  "status": "cancelled",
+  "year": 2004,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-12T23:31:19+00:00",
+  "updatedAt": "2024-11-13T11:06:39+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e711d55f-b204-4ba5-9253-f3e733ac40b3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tanigawa Nagaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d6a60e5c-7109-4710-bae5-4c2380ccb259",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-12T23:29:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizuno Makoto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-12T23:29:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e711d55f-b204-4ba5-9253-f3e733ac40b3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tanigawa Nagaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fa0901a5-8909-4183-aceb-9dbdcda35c86",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-12T23:31:22+00:00",
+    "description": "",
+    "fileName": "412a047e-0fe0-4080-97ed-13a399786120.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-12T23:31:22+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "1b4f62ed-f7d3-4a8b-aa74-0f7ef34bc072",
+   "type": "creator"
+  }
+ ]
+}

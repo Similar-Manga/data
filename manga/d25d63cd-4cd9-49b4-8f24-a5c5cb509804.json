@@ -1,0 +1,185 @@
+{
+ "id": "d25d63cd-4cd9-49b4-8f24-a5c5cb509804",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Mood Is Already That of War 2.1"
+  },
+  "altTitles": [
+   {
+    "ja": "気分はもう戦争２．１"
+   },
+   {
+    "ja-ro": "Kibun wa Mou Sensou 2.1"
+   },
+   {
+    "ja-ro": "Kibun ha Mou Sensou 2.1"
+   },
+   {
+    "ja": "気分はもう戦争２"
+   },
+   {
+    "ja-ro": "Kibun wa Mou Sensou 2"
+   },
+   {
+    "ja-ro": "Kibun ha Mou Sensou 2"
+   },
+   {
+    "en": "The Mood Is Already That of War 2"
+   }
+  ],
+  "description": {
+   "en": "In the year 200X, the Prime Minister is carrying out a review of the U.S.-Japan Security Treaty. One disturbing incident after another occurs. Transport vehicle detonations, military clashes, building explosions… What on Earth is happening in Japan!? Suzuki-san, Mitsuami, and Bandana accidentally get caught up in the action and head to the battlefield!\n\n**Note:** The series was titled *The Mood Is Already That of War 2* during its run in *Monthly Shounen Ace*, but it was volumized as *The Mood Is Already That of War 2.1*."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/4047134945",
+   "mu": "a6kxp1q",
+   "raw": "https://www.kadokawa.co.jp/product/200202000144/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "shounen",
+  "status": "cancelled",
+  "year": 2001,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-12T02:31:34+00:00",
+  "updatedAt": "2024-11-12T02:41:22+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f51d898f-2e75-4081-97bf-d355fda1afa2",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 矢作俊彦"
+    },
+    "booth": null,
+    "createdAt": "2022-05-21T14:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yahagi Toshihiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T18:01:12+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "929305d6-6c06-4ace-8c4c-ef619fc3f415",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 藤原カムイ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fujiwara Kamui",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kamuif",
+    "updatedAt": "2024-06-12T12:42:10+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "de4f0c91-e05c-44d1-8817-c02f1977ae70",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-12T02:31:36+00:00",
+    "description": "",
+    "fileName": "14ca5fd0-b5c9-448f-935d-c12235483d7d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-12T02:31:36+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "12f9ffcd-9158-4e2d-9901-90531305907b",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "c800131c-15a2-4a8c-8814-ab2591a342fb",
+   "type": "manga",
+   "related": "sequel"
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

@@ -11,7 +11,7 @@
     "ja-ro": "Kage no Jitsuryokusha ni Naritakute!"
    },
    "contentRating": "safe",
-   "score": 0.34935987,
+   "score": 0.34939882,
    "languages": [
     "pl",
     "uk",
@@ -36,7 +36,7 @@
     "en": "Our Future"
    },
    "contentRating": "safe",
-   "score": 0.2898727,
+   "score": 0.28985825,
    "languages": [
     "it",
     "en"
@@ -48,7 +48,7 @@
     "en": "Shadows House (Official Colored)"
    },
    "contentRating": "safe",
-   "score": 0.28164622,
+   "score": 0.2816466,
    "languages": [
     "pt-br",
     "en",
@@ -56,6 +56,7 @@
     "ru",
     "es",
     "id",
+    "lt",
     "tr",
     "fr",
     "es-la",
@@ -68,7 +69,7 @@
     "en": "Bikou"
    },
    "contentRating": "safe",
-   "score": 0.27891263,
+   "score": 0.27887434,
    "languages": [
     "it"
    ]
@@ -79,7 +80,7 @@
     "en": "Six AM Love Affair"
    },
    "contentRating": "safe",
-   "score": 0.27284127,
+   "score": 0.27284446,
    "languages": [
     "en",
     "it"
@@ -91,7 +92,7 @@
     "en": "The Two of Us"
    },
    "contentRating": "safe",
-   "score": 0.26886633,
+   "score": 0.26886913,
    "languages": [
     "it"
    ]
@@ -102,7 +103,7 @@
     "en": "The Box of Letters"
    },
    "contentRating": "safe",
-   "score": 0.24153158,
+   "score": 0.24153171,
    "languages": [
     "it",
     "en",
@@ -115,73 +116,11 @@
     "en": "Hitori Yogari"
    },
    "contentRating": "safe",
-   "score": 0.23881495,
+   "score": 0.23881547,
    "languages": [
     "it",
     "en",
     "id"
-   ]
-  },
-  {
-   "id": "d6b5f286-20ff-434c-a29e-1f8f518e2f52",
-   "title": {
-    "en": "Aozora to Kumorizora"
-   },
-   "contentRating": "safe",
-   "score": 0.23133406,
-   "languages": [
-    "es-la",
-    "en",
-    "vi",
-    "it"
-   ]
-  },
-  {
-   "id": "634a0b88-c8c0-47b8-a177-c30b7f0428c9",
-   "title": {
-    "en": "Futari Dake no Okujou"
-   },
-   "contentRating": "safe",
-   "score": 0.22796033,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "4edf52ca-11c3-4471-b986-e50181c98273",
-   "title": {
-    "en": "Mousouzuki-chan to Haraguro Sensei"
-   },
-   "contentRating": "safe",
-   "score": 0.22796033,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "0ccd4344-0e1d-44bf-9cde-4405eb58e22e",
-   "title": {
-    "en": "Sumire-chan's Tears"
-   },
-   "contentRating": "safe",
-   "score": 0.22796033,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "2960c71b-64eb-4eb1-b7bc-7925d8ce8088",
-   "title": {
-    "en": "In the afternoon..."
-   },
-   "contentRating": "safe",
-   "score": 0.22796033,
-   "languages": [
-    "en",
-    "it"
    ]
   },
   {
@@ -199,6 +138,31 @@
    ]
   },
   {
+   "id": "634a0b88-c8c0-47b8-a177-c30b7f0428c9",
+   "title": {
+    "en": "Futari Dake no Okujou"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "fe8cd509-ee21-4010-9181-de2e232f62e9",
+   "title": {
+    "en": "That Sensation"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
+   "languages": [
+    "it",
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "83b2af5e-ad29-4665-b499-35301ea01608",
    "title": {
     "en": "Twinkle, Little Secret"
@@ -207,6 +171,42 @@
    "score": 0.22796033,
    "languages": [
     "it"
+   ]
+  },
+  {
+   "id": "4edf52ca-11c3-4471-b986-e50181c98273",
+   "title": {
+    "en": "Mousouzuki-chan to Haraguro Sensei"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "2960c71b-64eb-4eb1-b7bc-7925d8ce8088",
+   "title": {
+    "en": "In the afternoon..."
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "50a8ea91-e60f-4238-b54a-b3f312f3638a",
+   "title": {
+    "en": "Foreign Communication"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
+   "languages": [
+    "it",
+    "en"
    ]
   },
   {
@@ -221,5 +221,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-11T22:12:50+00:00"
+ "updatedAt": "2024-11-13T22:27:05+00:00"
 }

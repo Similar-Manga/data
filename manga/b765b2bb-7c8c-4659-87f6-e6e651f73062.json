@@ -8,15 +8,24 @@
   "altTitles": [
    {
     "ja": "サムライ・ノングラータ"
+   },
+   {
+    "ja-ro": "Samurai · Nongrata"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Set in Paris, the ‘one-man trading company’ Hongou Yoshiaki and former French Foreign Legion Captain Norimizu Rintarou spring into action in this splendid ‘film on paper’ revival that combines the three elements of humor, action, and beautiful women!!\n___\n**Additional Buy Links:**\n- **Original 1991 Volume 1:** [Amazon](https://www.amazon.co.jp/dp/4091826814)\n- **Original 1991 Volume 2:** [Amazon](https://www.amazon.co.jp/dp/4091826822)\n- **2009 Omnibus:** [FREESTYLE](https://webfreestyle.com/products/%E7%9F%A2%E4%BD%9C%E4%BF%8A%E5%BD%A6-%E8%B0%B7%E5%8F%A3%E3%82%B8%E3%83%AD%E3%83%BC-br-%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4-%E3%83%8E%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%82%BF); Amazon: [physical](https://www.amazon.co.jp/dp/4939138429), [digital](https://www.amazon.co.jp/dp/B075RZM9WP)\n- **2022 Hardcover Omnibus:** [FREESTYLE](https://webfreestyle.com/products/%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4-%E3%83%8E%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC%E3%82%BF); [Amazon](https://www.amazon.co.jp/dp/4867310034)"
+  },
   "links": {
-   "amz": "https://www.amazon.com/samurai-nongrata-Japanese-TOSHIHIKO-YAHAGI-ebook/dp/B01M0DJFO9",
+   "al": "172171",
+   "amz": "https://www.amazon.co.jp/dp/B072ZLVPP7",
+   "ap": "samurai-nongrata",
+   "mal": "166941",
    "mu": "48958"
   },
   "originalLanguage": "ja",
-  "lastVolume": "1",
+  "lastVolume": "2",
+  "lastChapter": "24",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 1991,
@@ -48,16 +57,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 8,
   "createdAt": "2022-05-21T15:02:13+00:00",
-  "updatedAt": "2022-05-22T13:46:33+00:00"
+  "updatedAt": "2024-11-11T20:37:59+00:00"
  },
  "relationships": [
   {
    "id": "f51d898f-2e75-4081-97bf-d355fda1afa2",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 矢作俊彦"
+    },
     "booth": null,
     "createdAt": "2022-05-21T14:59:45+00:00",
     "fanBox": null,
@@ -72,8 +83,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2022-05-21T14:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-11T18:01:12+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -83,14 +94,16 @@
    "id": "97effcde-ce83-4f26-b0a6-b9dfcb615173",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 谷口ジロー"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Taniguchi Jiro",
+    "name": "Taniguchi Jirou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -98,24 +111,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-11T18:53:21+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "d881f186-a29a-45f5-ba19-4a3e5e52ebc6",
+   "id": "86b59d50-0fd6-40b9-9b16-108385c5b14a",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-05-21T15:02:17+00:00",
-    "description": "",
-    "fileName": "7fd2024e-8e95-4d82-952d-e154fe45c560.jpg",
+    "createdAt": "2024-11-11T20:29:52+00:00",
+    "description": "Original 1991 Volume 2 Cover",
+    "fileName": "ab5e300b-0d3c-4257-988d-a4d10f2250b1.jpg",
     "locale": "ja",
-    "updatedAt": "2022-05-21T15:02:17+00:00",
+    "updatedAt": "2024-11-11T20:29:52+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

@@ -1,0 +1,141 @@
+{
+ "id": "e2871022-0fe3-4942-a190-9f300756b921",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Vanta Black"
+  },
+  "altTitles": [
+   {
+    "ko": "벤타블랙"
+   }
+  ],
+  "description": {
+   "en": "\"You've disturbed something that should have been left alone.\"\nLee Shin-hyuk, codenamed \"Ventablack,\" is the Korean leader of \"55\" - an elite special operations unit selected from the world's top black agents. One day, his younger sister Sumin, who dreamed of becoming a K-pop idol trainee, is murdered in South America... and the world tries to cover up this fact.\nAfter abandoning everything to investigate his sister's death, Shin-hyuk confirms that the international drug cartel \"XICA\" is likely behind it. Subsequently, for his revenge, he deliberately approaches his targets by becoming a bodyguard for \"Yoo Chae-won,\" a global K-pop star whom they were originally targeting.\nFinally, he plunges into Brazil's \"Favela\" - a land of death forsaken even by God..."
+  },
+  "links": {
+   "mu": "anbbmqy"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "b4238b38-d4e3-42a9-9fc9-71b2b7c7fb21",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-11T18:01:10+00:00",
+  "updatedAt": "2024-11-12T17:19:35+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4c763326-1dfb-43a6-89bd-c836d9c4196f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-11T17:46:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "sinsinseong",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T17:46:12+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4c763326-1dfb-43a6-89bd-c836d9c4196f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-11T17:46:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "sinsinseong",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T17:46:12+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a7c9927d-7695-462d-a2de-43325a34fa56",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-11T18:01:16+00:00",
+    "description": "",
+    "fileName": "2cbd72e8-a70d-4cf1-bec7-2fb9bc97f6d4.png",
+    "locale": "ko",
+    "updatedAt": "2024-11-11T18:01:16+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9cdba5af-b71d-49b6-b627-0faa5aeb84cf",
+   "type": "creator"
+  }
+ ]
+}

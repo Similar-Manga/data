@@ -11,7 +11,7 @@
     "en": "7th Garden"
    },
    "contentRating": "suggestive",
-   "score": 0.26263237,
+   "score": 0.25960264,
    "languages": [
     "es",
     "id",
@@ -24,7 +24,7 @@
     "en": "Futago Saien"
    },
    "contentRating": "suggestive",
-   "score": 0.24509805,
+   "score": 0.24263564,
    "languages": [
     "vi",
     "es-la",
@@ -37,7 +37,7 @@
     "en": "Mahiro-chan's Secret"
    },
    "contentRating": "suggestive",
-   "score": 0.20733263,
+   "score": 0.20649329,
    "languages": [
     "en",
     "vi"
@@ -49,7 +49,7 @@
     "en": "Hanmen Kyoushi: Seito no Tame nara, Nandemo Yarimasu"
    },
    "contentRating": "suggestive",
-   "score": 0.18853016,
+   "score": 0.18826742,
    "languages": [
     "vi"
    ]
@@ -60,7 +60,7 @@
     "en": "CHASUI"
    },
    "contentRating": "suggestive",
-   "score": 0.1839572,
+   "score": 0.18371268,
    "languages": [
     "en"
    ]
@@ -71,19 +71,25 @@
     "en": "Kyouhaku DOG's -Another Secret-"
    },
    "contentRating": "suggestive",
-   "score": 0.18335296,
+   "score": 0.18255463,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "94ecf610-851c-4ed9-a9e4-c79e39f099ae",
+   "id": "efbd7593-c29f-45ec-aacb-497029978136",
    "title": {
-    "en": "Ichinen ni Ichido Shika Aenai Kimi no Hanashi."
+    "en": "Sensitive Boy"
    },
    "contentRating": "suggestive",
-   "score": 0.18162885,
+   "score": 0.17767107,
    "languages": [
+    "id",
+    "pt-br",
+    "en",
+    "pl",
+    "fr",
+    "es-la",
     "vi"
    ]
   },
@@ -105,31 +111,25 @@
    ]
   },
   {
-   "id": "efbd7593-c29f-45ec-aacb-497029978136",
-   "title": {
-    "en": "Sensitive Boy"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17767107,
-   "languages": [
-    "id",
-    "pt-br",
-    "en",
-    "pl",
-    "fr",
-    "es-la",
-    "vi"
-   ]
-  },
-  {
    "id": "78c68d66-ade5-4165-8e7e-f31fd2c28d32",
    "title": {
     "en": "Seifuku no Binetsu"
    },
    "contentRating": "suggestive",
-   "score": 0.17426595,
+   "score": 0.17402568,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "94ecf610-851c-4ed9-a9e4-c79e39f099ae",
+   "title": {
+    "en": "Ichinen ni Ichido Shika Aenai Kimi no Hanashi."
+   },
+   "contentRating": "suggestive",
+   "score": 0.17113465,
+   "languages": [
+    "vi"
    ]
   },
   {
@@ -145,33 +145,6 @@
    ]
   },
   {
-   "id": "036d2b6c-2501-4a41-89d4-8cc62a21cc1d",
-   "title": {
-    "en": "Gachi Koi Nenchakujuu: Net Haishinsha no Kanojo ni naritakute"
-   },
-   "contentRating": "suggestive",
-   "score": 0.1687606,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "eb228f42-f442-4f50-ab2b-b5123ae5eace",
-   "title": {
-    "en": "May My Father Die Soon."
-   },
-   "contentRating": "suggestive",
-   "score": 0.16832253,
-   "languages": [
-    "en",
-    "pt-br",
-    "ru",
-    "es-la",
-    "id"
-   ]
-  },
-  {
    "id": "d07f1832-6d9a-4fb1-8cff-b5f2dda73c27",
    "title": {
     "en": "Kuzu Rouninsei, Jinsei ga Tsurai no de Yoru no Onee-san wo Yondemita"
@@ -180,18 +153,6 @@
    "score": 0.16830236,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "d4d43c50-ce1a-4751-b474-e239cf862f2a",
-   "title": {
-    "en": "Otome no Teikoku"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16815569,
-   "languages": [
-    "en",
-    "ar"
    ]
   },
   {
@@ -205,7 +166,47 @@
     "es",
     "en"
    ]
+  },
+  {
+   "id": "d4d43c50-ce1a-4751-b474-e239cf862f2a",
+   "title": {
+    "en": "Otome no Teikoku"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16777542,
+   "languages": [
+    "en",
+    "ar"
+   ]
+  },
+  {
+   "id": "770c61b9-0ef2-460b-8c25-c10ab23349ce",
+   "title": {
+    "en": "Akebi-chan no Sailor Fuku"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16669677,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "es-la",
+    "ru",
+    "fr"
+   ]
+  },
+  {
+   "id": "aaf19a57-874f-4a2c-94b3-b5735e01fa36",
+   "title": {
+    "en": "Yuri SM de Futari no Kimochi wa Tsunagarimasu ka?"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16501148,
+   "languages": [
+    "en",
+    "es-la"
+   ]
   }
  ],
- "updatedAt": "2024-11-11T20:58:50+00:00"
+ "updatedAt": "2024-11-13T21:04:06+00:00"
 }

@@ -5,6 +5,14 @@
   "title": {
    "en": "Danjo Gyakuten Ninkatsu"
   },
+  "altTitles": [
+   {
+    "ja": "男女逆転妊活"
+   },
+   {
+    "en": "Genderswapped Pregnancy"
+   }
+  ],
   "description": {
    "en": "Warning futa"
   },
@@ -67,11 +75,37 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2021-12-31T10:58:20+00:00",
-  "updatedAt": "2023-10-17T14:17:05+00:00"
+  "updatedAt": "2024-11-11T16:01:10+00:00"
  },
  "relationships": [
+  {
+   "id": "61c786ba-d599-4be6-83e5-f7ef747946ff",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-11T16:00:35+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Setouchi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T16:00:35+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "8ba0acd7-1f1e-4993-b5c8-d325730bde62",
    "type": "author",
@@ -83,7 +117,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Setouchi Pharm",
+    "name": "Setouchi Pharm (circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -91,7 +125,33 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-12-31T10:56:05+00:00",
+    "updatedAt": "2024-11-11T16:00:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "61c786ba-d599-4be6-83e5-f7ef747946ff",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-11T16:00:35+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Setouchi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T16:00:35+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -109,7 +169,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Setouchi Pharm",
+    "name": "Setouchi Pharm (circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -117,8 +177,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-12-31T10:56:05+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-11T16:00:25+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

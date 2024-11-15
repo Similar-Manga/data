@@ -1,0 +1,181 @@
+{
+ "id": "b114b073-966c-48d3-be22-700fcaed3f10",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Koizumi Itsuki-kun no Inbou"
+  },
+  "altTitles": [
+   {
+    "ja": "古泉一樹くんの陰謀"
+   },
+   {
+    "en": "The Conspiracy of Koizumi Itsuki-kun"
+   }
+  ],
+  "description": {
+   "en": "A parody gag manga derived from Puyo's Suzumiya Haruhi-chan no Yuuutsu, stared by Koizumi Itsuki, Sonou Mori and Arakawa, the story depicts the daily life within \"the agency\".\n\nIt was serialized in the bimonthly magazine Altima Ace from Vol. 4, 2012 (released on 2012/04/18) to Vol. 7, 2012 (released on 2012/10/18). The series ended due to the publication of the magazine being discontinued, and there are only 4 episodes in total. The chapters were later included in Suzumiya Haruhi-chan no Yuuutsu volume 9."
+  },
+  "links": {
+   "kt": "koizumi-itsuki-kun-no-inbou",
+   "mu": "w8g5yse"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "4",
+  "publicationDemographic": "shounen",
+  "status": "cancelled",
+  "year": 2012,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-11-12T23:17:10+00:00",
+  "updatedAt": "2024-11-13T11:05:48+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c3748421-5c52-4dfe-87a1-0d2f82a8c90b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Puyo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e711d55f-b204-4ba5-9253-f3e733ac40b3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tanigawa Nagaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c3748421-5c52-4dfe-87a1-0d2f82a8c90b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Puyo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1dc54e7d-c387-4959-9b2d-93c36169f7bd",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-12T23:17:12+00:00",
+    "description": "",
+    "fileName": "0ebfd3eb-334e-4272-b9ab-7fb8d4ab94c9.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-12T23:17:12+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "1b4f62ed-f7d3-4a8b-aa74-0f7ef34bc072",
+   "type": "creator"
+  }
+ ]
+}
