@@ -3,17 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tales Of Destruction"
+   "en": "Otogi Bukkoroshiamu"
   },
   "altTitles": [
    {
-    "ja-ro": "Otogi Bukkoroshiamu"
+    "ja": "おとぎぶっ殺シアム"
+   },
+   {
+    "ja-ro": "Otogi Bukkoro Shiamu"
+   },
+   {
+    "ja-ro": "Otogi Bukkorosseum"
    },
    {
     "en": "FairyTale Killerseum"
    },
    {
-    "ja": "おとぎぶっ殺シアム"
+    "en": "Tales Of Destruction"
    }
   ],
   "description": {
@@ -289,23 +295,25 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2022-02-22T18:34:06+00:00",
-  "updatedAt": "2024-01-06T14:13:33+00:00"
+  "updatedAt": "2024-11-13T07:06:08+00:00"
  },
  "relationships": [
   {
    "id": "a0d2350f-7d4c-4fcf-a699-79b7beaad845",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: クロタロウ"
+    },
     "booth": null,
     "createdAt": "2021-10-30T04:59:28+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kurotaro",
+    "name": "Kurotarou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -313,8 +321,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-10-30T04:59:28+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-13T07:12:58+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -324,14 +332,16 @@
    "id": "a0d2350f-7d4c-4fcf-a699-79b7beaad845",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: クロタロウ"
+    },
     "booth": null,
     "createdAt": "2021-10-30T04:59:28+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kurotaro",
+    "name": "Kurotarou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -339,24 +349,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-10-30T04:59:28+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-13T07:12:58+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "1b5f199b-d225-450c-8759-bdc80ba578e0",
+   "id": "57c724ff-3aa6-4e72-9702-1de8ee0b6b18",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-05-02T10:33:59+00:00",
-    "description": "",
-    "fileName": "8996402c-bd63-40c4-856f-a8c236996556.jpg",
+    "createdAt": "2024-11-13T07:06:02+00:00",
+    "description": "Cover from BookLive",
+    "fileName": "cfa80c3e-faff-45d8-a259-4e37f2288b25.jpg",
     "locale": "ja",
-    "updatedAt": "2024-05-02T10:33:59+00:00",
+    "updatedAt": "2024-11-13T07:06:02+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "5"
    }
   },
   {

@@ -6,26 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "7bc15569-3f3c-4227-833a-653a29f59bf9",
-   "title": {
-    "en": "Suiheisen wa Yagate Matataku"
-   },
-   "contentRating": "safe",
-   "score": 0.26126775,
-   "languages": [
-    "vi"
-   ]
-  },
-  {
    "id": "ea4d294d-f026-4bf2-a999-a559084bad1b",
    "title": {
     "en": "Isso Anata ga Todome wo Sashite"
    },
    "contentRating": "safe",
-   "score": 0.24910219,
+   "score": 0.24910425,
    "languages": [
     "en",
     "pt-br",
+    "vi"
+   ]
+  },
+  {
+   "id": "7bc15569-3f3c-4227-833a-653a29f59bf9",
+   "title": {
+    "en": "Suiheisen wa Yagate Matataku"
+   },
+   "contentRating": "safe",
+   "score": 0.24658407,
+   "languages": [
     "vi"
    ]
   },
@@ -45,6 +45,17 @@
    ]
   },
   {
+   "id": "f585efd8-ac36-4434-a3ea-7a1a118b765b",
+   "title": {
+    "en": "Wada Kyoudai no Shojijou"
+   },
+   "contentRating": "safe",
+   "score": 0.2461571,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
    "id": "bee88f3b-f148-449d-9370-1da827dfb762",
    "title": {
     "en": "Omairi Desu yo"
@@ -58,23 +69,12 @@
    ]
   },
   {
-   "id": "f585efd8-ac36-4434-a3ea-7a1a118b765b",
-   "title": {
-    "en": "Wada Kyoudai no Shojijou"
-   },
-   "contentRating": "safe",
-   "score": 0.2461571,
-   "languages": [
-    "vi"
-   ]
-  },
-  {
    "id": "243c78ab-a9d5-488f-9f95-f9e9557dfaff",
    "title": {
     "en": "Kyou, Furyo wo Hirou"
    },
    "contentRating": "safe",
-   "score": 0.2393943,
+   "score": 0.23939271,
    "languages": [
     "en",
     "vi"
@@ -86,7 +86,7 @@
     "en": "Teihen na Bokura no Jijou"
    },
    "contentRating": "safe",
-   "score": 0.2388611,
+   "score": 0.23886196,
    "languages": [
     "en",
     "ru",
@@ -99,10 +99,22 @@
     "en": "Aisaseteyo Sensei"
    },
    "contentRating": "safe",
-   "score": 0.23734449,
+   "score": 0.23734559,
    "languages": [
     "en",
     "tr",
+    "vi"
+   ]
+  },
+  {
+   "id": "ef323a0d-9a81-4028-9c21-e85b6f318744",
+   "title": {
+    "en": "Sekai ga Hajimaru Asa ni Umi wo Mito"
+   },
+   "contentRating": "safe",
+   "score": 0.23247252,
+   "languages": [
+    "en",
     "vi"
    ]
   },
@@ -132,28 +144,15 @@
    ]
   },
   {
-   "id": "ef323a0d-9a81-4028-9c21-e85b6f318744",
+   "id": "70bd81d9-cf45-45fc-a26a-a2f0a269779b",
    "title": {
-    "en": "Sekai ga Hajimaru Asa ni Umi wo Mito"
-   },
-   "contentRating": "safe",
-   "score": 0.2308471,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "50d9f5b3-fc69-4742-bd72-1d652c337cf4",
-   "title": {
-    "en": "Crossplay Love: Otaku x Punk"
+    "en": "Chameleon wa Tenohira ni Koi wo Suru"
    },
    "contentRating": "safe",
    "score": 0.2201696,
    "languages": [
-    "en",
-    "pt-br",
-    "vi"
+    "vi",
+    "en"
    ]
   },
   {
@@ -171,15 +170,16 @@
    ]
   },
   {
-   "id": "70bd81d9-cf45-45fc-a26a-a2f0a269779b",
+   "id": "50d9f5b3-fc69-4742-bd72-1d652c337cf4",
    "title": {
-    "en": "Chameleon wa Tenohira ni Koi wo Suru"
+    "en": "Crossplay Love: Otaku x Punk"
    },
    "contentRating": "safe",
    "score": 0.2201696,
    "languages": [
-    "vi",
-    "en"
+    "en",
+    "pt-br",
+    "vi"
    ]
   },
   {
@@ -188,7 +188,7 @@
     "en": "10 Dance"
    },
    "contentRating": "safe",
-   "score": 0.21325333,
+   "score": 0.21325614,
    "languages": [
     "en",
     "ru",
@@ -202,7 +202,7 @@
     "en": "BoysLike!"
    },
    "contentRating": "safe",
-   "score": 0.21282527,
+   "score": 0.21283118,
    "languages": [
     "vi",
     "en",
@@ -211,5 +211,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-13T21:01:56+00:00"
+ "updatedAt": "2024-11-15T20:46:46+00:00"
 }

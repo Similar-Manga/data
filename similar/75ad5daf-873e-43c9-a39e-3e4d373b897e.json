@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ca48703f-4af1-4f66-8dec-3203cf215ec7",
+   "title": {
+    "en": "Apocalyptic Forecast"
+   },
+   "contentRating": "safe",
+   "score": 0.22162864,
+   "languages": [
+    "id",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "6834368f-66b8-4fac-a03a-09ecb625f256",
    "title": {
     "en": "I Log in Alone"
    },
    "contentRating": "safe",
-   "score": 0.21427329,
+   "score": 0.21427388,
    "languages": [
     "en",
     "fr",
@@ -23,16 +36,21 @@
    ]
   },
   {
-   "id": "ca48703f-4af1-4f66-8dec-3203cf215ec7",
+   "id": "a796fb50-cdc9-4c15-a48d-bc1d733d89b2",
    "title": {
-    "en": "Apocalyptic Forecast"
+    "en": "The Player Who Can't Level Up"
    },
    "contentRating": "safe",
-   "score": 0.20999098,
+   "score": 0.21403308,
    "languages": [
-    "id",
+    "es-la",
+    "pt-br",
     "en",
-    "pt-br"
+    "id",
+    "pl",
+    "fr",
+    "cs",
+    "de"
    ]
   },
   {
@@ -41,7 +59,7 @@
     "en": "The Book of Lagier"
    },
    "contentRating": "safe",
-   "score": 0.20394824,
+   "score": 0.20394772,
    "languages": [
     "es-la",
     "pt-br",
@@ -56,7 +74,7 @@
     "en": "66,666 Years: Advent of the Dark Mage"
    },
    "contentRating": "safe",
-   "score": 0.19874516,
+   "score": 0.1987442,
    "languages": [
     "fr",
     "pt-br",
@@ -69,7 +87,7 @@
     "en": "Book Eater"
    },
    "contentRating": "safe",
-   "score": 0.19797266,
+   "score": 0.19797269,
    "languages": [
     "fr",
     "pt-br",
@@ -84,27 +102,10 @@
     "en": "A Flame Reborn"
    },
    "contentRating": "safe",
-   "score": 0.19757663,
+   "score": 0.19757786,
    "languages": [
     "pt-br",
     "es-la"
-   ]
-  },
-  {
-   "id": "b407de00-75a5-415a-a001-585fb41b9cf2",
-   "title": {
-    "en": "The Max Level Hero Strikes Back"
-   },
-   "contentRating": "safe",
-   "score": 0.19544348,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "pl",
-    "it",
-    "fr",
-    "id"
    ]
   },
   {
@@ -154,7 +155,7 @@
     "en": "Ranker’s Return"
    },
    "contentRating": "safe",
-   "score": 0.19346544,
+   "score": 0.19346397,
    "languages": [
     "id",
     "tr",
@@ -165,30 +166,12 @@
    ]
   },
   {
-   "id": "a796fb50-cdc9-4c15-a48d-bc1d733d89b2",
-   "title": {
-    "en": "The Player Who Can't Level Up"
-   },
-   "contentRating": "safe",
-   "score": 0.19341284,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "en",
-    "id",
-    "pl",
-    "fr",
-    "cs",
-    "de"
-   ]
-  },
-  {
    "id": "8e9c0fe2-68d4-4224-9f96-ac51464eb94a",
    "title": {
     "en": "The Perfect Hybrid"
    },
    "contentRating": "safe",
-   "score": 0.18875115,
+   "score": 0.19030422,
    "languages": [
     "pl",
     "en",
@@ -202,7 +185,7 @@
     "en": "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity III: The Stage of Carnage, Shimousa - Seven Duels of Swordmasters"
    },
    "contentRating": "safe",
-   "score": 0.18824518,
+   "score": 0.18824272,
    "languages": [
     "ru",
     "fr",
@@ -221,7 +204,7 @@
     "en": "How to Use a Returner"
    },
    "contentRating": "safe",
-   "score": 0.18693858,
+   "score": 0.18693572,
    "languages": [
     "en",
     "fr",
@@ -236,7 +219,7 @@
     "en": "Wizard of Arsenia"
    },
    "contentRating": "safe",
-   "score": 0.18579295,
+   "score": 0.18579288,
    "languages": [
     "pt-br",
     "fr",
@@ -245,6 +228,22 @@
     "id",
     "it",
     "th"
+   ]
+  },
+  {
+   "id": "1eaf0d33-35ba-469e-a73a-d7f6e3c154e5",
+   "title": {
+    "en": "Disciple of the Holy Sword"
+   },
+   "contentRating": "safe",
+   "score": 0.18557687,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en",
+    "pl",
+    "fr",
+    "it"
    ]
   },
   {
@@ -263,5 +262,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-13T21:20:29+00:00"
+ "updatedAt": "2024-11-15T21:02:20+00:00"
 }

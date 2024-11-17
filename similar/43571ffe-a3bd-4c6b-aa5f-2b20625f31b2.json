@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "b7c3baa1-3603-4220-a5bf-8ddef5485505",
-   "title": {
-    "en": "Joujin Kamen"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619
-  },
-  {
    "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
    "title": {
     "en": "Evil Eater"
@@ -23,6 +15,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b7c3baa1-3603-4220-a5bf-8ddef5485505",
+   "title": {
+    "en": "Joujin Kamen"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619
   },
   {
    "id": "d1386b96-8c73-4d1b-a2d7-7cb306db66a1",
@@ -46,7 +46,7 @@
     "en": "Yougen no Chi"
    },
    "contentRating": "safe",
-   "score": 0.23434414,
+   "score": 0.23434082,
    "languages": [
     "en"
    ]
@@ -76,6 +76,17 @@
    ]
   },
   {
+   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
+   "title": {
+    "en": "Arthur Pyuty wa Yoru no Majo"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ecf03a97-2194-4e4b-b4cd-741b98015957",
    "title": {
     "en": "Kaya-chan wa Kowakunai"
@@ -88,23 +99,12 @@
    ]
   },
   {
-   "id": "dcbdf46e-33b0-4788-aa3f-41493779106b",
-   "title": {
-    "en": "Arthur Pyuty wa Yoru no Majo"
-   },
-   "contentRating": "safe",
-   "score": 0.2208575,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6e8ec78a-db6e-438d-ae37-488b3e81ae5b",
    "title": {
     "en": "Doku Doku Doku"
    },
    "contentRating": "safe",
-   "score": 0.2019909
+   "score": 0.20198588
   },
   {
    "id": "cd14a481-211e-43c7-b100-a1b466e93d6d",
@@ -112,10 +112,32 @@
     "en": "Nikubami Honegishimi"
    },
    "contentRating": "safe",
-   "score": 0.20173545,
+   "score": 0.20173769,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
+   "title": {
+    "en": "Mercy"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438,
+   "languages": [
+    "ru",
+    "fr",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "9528fde1-a28a-44bf-8317-9acab5a3c06d",
+   "title": {
+    "en": "Shin Jigokudou Reikai Tsuushin"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438
   },
   {
    "id": "4a907996-bf1d-4a34-a4ae-ab8e86de0ab6",
@@ -130,28 +152,6 @@
     "en",
     "pt-br",
     "ca"
-   ]
-  },
-  {
-   "id": "9528fde1-a28a-44bf-8317-9acab5a3c06d",
-   "title": {
-    "en": "Shin Jigokudou Reikai Tsuushin"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438
-  },
-  {
-   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
-   "title": {
-    "en": "Mercy"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "ru",
-    "fr",
-    "en",
-    "vi"
    ]
   },
   {
@@ -177,5 +177,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-13T20:54:10+00:00"
+ "updatedAt": "2024-11-15T20:40:08+00:00"
 }

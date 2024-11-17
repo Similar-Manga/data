@@ -7,7 +7,7 @@
   },
   "altTitles": [
    {
-    "en": "X GIRL 極限任務"
+    "zh-hk": "X GIRL 極限任務"
    },
    {
     "en": "X Girl: Limited Mission"
@@ -17,15 +17,16 @@
    }
   ],
   "description": {
-   "en": "The popular Idol group \"X Girl\" is going to preform at a live venue, fans are eagerly awaiting their appearance. But this time, the three beautiful sexy idols are high up in the sky on a secret mission, with their airplane's cockpit damaged it descends upon the concert venue."
+   "en": "The popular Idol group \"X Girl\" is going to perform at a live venue and fans are eagerly awaiting their appearance. \nBut this time, the three beautiful sexy idols are high up in the sky on a secret mission, so they descend upon the concert venue with their airplane's cockpit damaged."
   },
   "links": {
    "mal": "99166",
    "mu": "44059"
   },
-  "originalLanguage": "zh",
+  "originalLanguage": "zh-hk",
   "lastVolume": "4",
   "status": "completed",
+  "year": 2004,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -57,6 +58,30 @@
     }
    },
    {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -67,12 +92,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Music"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2018-12-25T04:34:57+00:00",
-  "updatedAt": "2021-05-25T15:42:40+00:00"
+  "updatedAt": "2024-11-15T03:24:11+00:00"
  },
  "relationships": [
   {
@@ -134,9 +171,9 @@
     "createdAt": "2021-05-24T16:55:38+00:00",
     "description": "",
     "fileName": "d2a76521-4e6a-49b2-ad25-f003807e6e39.jpg",
-    "locale": "zh",
-    "updatedAt": "2021-05-24T16:55:38+00:00",
-    "version": 1,
+    "locale": "zh-hk",
+    "updatedAt": "2024-11-15T03:24:11+00:00",
+    "version": 2,
     "volume": null
    }
   }

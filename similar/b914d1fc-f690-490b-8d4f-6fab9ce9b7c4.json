@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "92bafec7-6379-47cc-8f24-e783ada685d0",
+   "title": {
+    "en": "Sutta mon da!"
+   },
+   "contentRating": "safe",
+   "score": 0.31990686
+  },
+  {
    "id": "3326faf8-360b-42b0-b937-ef57b6bf17ce",
    "title": {
     "en": "Pet Wiz"
    },
    "contentRating": "safe",
-   "score": 0.31434762
+   "score": 0.31177944
   },
   {
    "id": "fe59a1c4-bf1e-4991-a1a1-b5912c8cb68e",
@@ -19,15 +27,7 @@
     "en": "Kawakita High School Flower Arrangement Club"
    },
    "contentRating": "safe",
-   "score": 0.30442363
-  },
-  {
-   "id": "92bafec7-6379-47cc-8f24-e783ada685d0",
-   "title": {
-    "en": "Sutta mon da!"
-   },
-   "contentRating": "safe",
-   "score": 0.3009476
+   "score": 0.3078032
   },
   {
    "id": "91c39787-11a8-47ea-a81d-77b1f8f0650e",
@@ -35,7 +35,7 @@
     "en": "Hyper Ultra Girlish"
    },
    "contentRating": "safe",
-   "score": 0.29386675,
+   "score": 0.3009691,
    "languages": [
     "ru",
     "en",
@@ -43,15 +43,28 @@
    ]
   },
   {
-   "id": "d4f6a849-0503-4d39-8f7a-e5ca84e7235e",
+   "id": "07500447-533b-4d64-93e3-4fbb8458a42d",
    "title": {
-    "en": "Yankee Kanojo no Jakuten"
+    "en": "A-Channel"
    },
    "contentRating": "safe",
-   "score": 0.29303113,
+   "score": 0.27316427,
    "languages": [
-    "pt-br",
-    "en"
+    "en",
+    "es",
+    "id"
+   ]
+  },
+  {
+   "id": "53a84ca6-a6ef-4273-92f4-8f894d86fafe",
+   "title": {
+    "en": "Gu-Pan!"
+   },
+   "contentRating": "safe",
+   "score": 0.2718637,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -60,7 +73,7 @@
     "en": "Bad Girl"
    },
    "contentRating": "safe",
-   "score": 0.29040268,
+   "score": 0.2713791,
    "languages": [
     "ko",
     "en",
@@ -74,34 +87,9 @@
     "en": "Poison Girl"
    },
    "contentRating": "safe",
-   "score": 0.27671823,
+   "score": 0.2713787,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "53a84ca6-a6ef-4273-92f4-8f894d86fafe",
-   "title": {
-    "en": "Gu-Pan!"
-   },
-   "contentRating": "safe",
-   "score": 0.27317744,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "07500447-533b-4d64-93e3-4fbb8458a42d",
-   "title": {
-    "en": "A-Channel"
-   },
-   "contentRating": "safe",
-   "score": 0.27279893,
-   "languages": [
-    "en",
-    "es",
-    "id"
    ]
   },
   {
@@ -110,26 +98,22 @@
     "en": "Morita-san wa Mukuchi"
    },
    "contentRating": "safe",
-   "score": 0.26840037,
+   "score": 0.2671244,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b3c63b9d-99c8-49a4-b2ab-aa04c73c0bbe",
+   "id": "d4f6a849-0503-4d39-8f7a-e5ca84e7235e",
    "title": {
-    "en": "Gakuen Colors"
+    "en": "Yankee Kanojo no Jakuten"
    },
    "contentRating": "safe",
-   "score": 0.25922194
-  },
-  {
-   "id": "db4fc304-3289-4ae4-a3d3-9a338f4c249c",
-   "title": {
-    "en": "Da Mon de Toyahashi ga Sukitte Ittoru Jan"
-   },
-   "contentRating": "safe",
-   "score": 0.25922194
+   "score": 0.26016322,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
   },
   {
    "id": "d5658d3c-44df-4f0f-9956-e5533684cfd3",
@@ -148,15 +132,20 @@
    "score": 0.25922194
   },
   {
-   "id": "bd19e205-27e6-42db-9e11-4a0ba82cf074",
+   "id": "b3c63b9d-99c8-49a4-b2ab-aa04c73c0bbe",
    "title": {
-    "en": "Normal Girl"
+    "en": "Gakuen Colors"
    },
    "contentRating": "safe",
-   "score": 0.25737906,
-   "languages": [
-    "ko"
-   ]
+   "score": 0.25922194
+  },
+  {
+   "id": "db4fc304-3289-4ae4-a3d3-9a338f4c249c",
+   "title": {
+    "en": "Da Mon de Toyahashi ga Sukitte Ittoru Jan"
+   },
+   "contentRating": "safe",
+   "score": 0.25922194
   },
   {
    "id": "8a96330b-680a-4054-9d60-3e9c55020d77",
@@ -164,8 +153,19 @@
     "en": "Hime Class"
    },
    "contentRating": "safe",
-   "score": 0.25652617
+   "score": 0.2573928
+  },
+  {
+   "id": "164eff7a-e949-4edf-8531-1664d2a8771d",
+   "title": {
+    "en": "Himuro no Tenchi: Fate/school life"
+   },
+   "contentRating": "safe",
+   "score": 0.2570118,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-13T21:53:56+00:00"
+ "updatedAt": "2024-11-15T21:35:02+00:00"
 }

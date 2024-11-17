@@ -10,7 +10,7 @@
     "en": "Wild Rose"
    },
    {
-    "en": "野ばら"
+    "ja": "野ばら"
    }
   ],
   "description": {
@@ -18,16 +18,21 @@
   },
   "links": {
    "al": "48004",
+   "amz": "https://www.amazon.co.jp/dp/4904101766/",
    "ap": "wild-rose-haruko-kumota",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-760191",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/173182/",
    "engtl": "https://junemanga.com/products/wild-rose",
    "kt": "5679",
    "mal": "18004",
-   "mu": "51067"
+   "mu": "51067",
+   "raw": "https://www.cmoa.jp/title/54748/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "7",
   "status": "completed",
+  "year": 2009,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -108,16 +113,18 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-04-27T18:41:15+00:00",
-  "updatedAt": "2021-05-25T15:44:41+00:00"
+  "updatedAt": "2024-11-15T04:22:52+00:00"
  },
  "relationships": [
   {
    "id": "dcc3e5cb-ec98-423c-a90b-67877b1b078f",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n雲田はるこ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -131,10 +138,10 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/KUMOHARU",
+    "updatedAt": "2024-11-15T04:15:36+00:00",
+    "version": 2,
+    "website": "http://kumotaharuko.jugem.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -143,7 +150,9 @@
    "id": "dcc3e5cb-ec98-423c-a90b-67877b1b078f",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n雲田はるこ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -157,25 +166,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/KUMOHARU",
+    "updatedAt": "2024-11-15T04:15:36+00:00",
+    "version": 2,
+    "website": "http://kumotaharuko.jugem.jp/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "d2828a1b-3d6d-4f00-84c1-1cf6d77222ae",
+   "id": "9400bb7a-1369-4fc9-87cc-da3bcbf95934",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:09:44+00:00",
+    "createdAt": "2021-05-23T06:36:35+00:00",
     "description": "",
-    "fileName": "f87d0270-1aa2-49b7-9491-728919baf3d9.jpg",
+    "fileName": "1393f926-5992-4ca2-afff-047134d5d89f.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:09:44+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:36:35+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

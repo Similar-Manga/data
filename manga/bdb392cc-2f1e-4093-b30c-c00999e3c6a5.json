@@ -8,6 +8,15 @@
   "altTitles": [
    {
     "ja": "断罪された悪役令嬢ですが、パンを焼いたら聖女にジョブチェンジしました!?"
+   },
+   {
+    "ja-ro": "Danzai Sareta Akuyaku Reijou Desu ga, Pan o Yaitara Seijo ni Job Change Shimashita!?"
+   },
+   {
+    "en": "I'm a Condemned Villainess, but When I Baked a Loaf of Bread, I Changed My Job to Saintess!?"
+   },
+   {
+    "en": "She Was Condemned as a Villain, but After Baking Bread She Changed Her Job to Become a Saint!?"
    }
   ],
   "description": {
@@ -29,8 +38,20 @@
    "ar",
    "en"
   ],
-  "latestUploadedChapter": "66321b90-8852-4561-b79a-418de6161d86",
+  "latestUploadedChapter": "1f534b33-1219-4126-a03d-985a77fed091",
   "tags": [
+   {
+    "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -92,6 +113,18 @@
     }
    },
    {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -105,9 +138,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 16,
   "createdAt": "2024-09-09T22:32:39+00:00",
-  "updatedAt": "2024-10-18T03:54:17+00:00"
+  "updatedAt": "2024-11-14T15:25:21+00:00"
  },
  "relationships": [
   {

@@ -6,6 +6,51 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3eaec012-99e9-4d8d-ba37-bd3f5d9295d2",
+   "title": {
+    "en": "The Little Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.32053018,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1a110b1c-0a07-4867-9559-e6c8fe74262c",
+   "title": {
+    "en": "Steam World"
+   },
+   "contentRating": "safe",
+   "score": 0.29926842,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8d5d91af-d0e1-490a-b7a4-eebe35af0b3c",
+   "title": {
+    "en": "Cousin From a Distant Country"
+   },
+   "contentRating": "safe",
+   "score": 0.27504018,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "772935d2-96cf-4b1c-b401-3e8ef928bfee",
+   "title": {
+    "en": "My Majesty Wants to Ruin the Country"
+   },
+   "contentRating": "safe",
+   "score": 0.2740502,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6627de7b-fd40-42b1-92f7-1456ed185f2f",
    "title": {
     "en": "Bugs"
@@ -18,12 +63,35 @@
    ]
   },
   {
-   "id": "f3a7a5e3-487d-433c-916b-bcaeccad5f6c",
+   "id": "4b099074-6afc-41fa-a1a5-8699bcc26332",
    "title": {
-    "en": "Deep Love - Real"
+    "en": "Rico"
    },
    "contentRating": "safe",
-   "score": 0.23451346,
+   "score": 0.25063118,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "80c27ff8-7916-4b81-9c0d-cb3d647a24b7",
+   "title": {
+    "en": "Legend of Nereid"
+   },
+   "contentRating": "safe",
+   "score": 0.2475286,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "8c34ba91-9b2d-493b-a100-6504f5600317",
+   "title": {
+    "en": "Yggdra Silver"
+   },
+   "contentRating": "safe",
+   "score": 0.23359448,
    "languages": [
     "en"
    ]
@@ -34,9 +102,21 @@
     "en": "I Want To Go North (Alternative Reading Order)"
    },
    "contentRating": "safe",
-   "score": 0.23254289,
+   "score": 0.23325051,
    "languages": [
     "es",
+    "en"
+   ]
+  },
+  {
+   "id": "edba4793-6c16-42ad-b437-82daceb52f30",
+   "title": {
+    "en": "Night at the Aquarium"
+   },
+   "contentRating": "safe",
+   "score": 0.23230016,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -58,7 +138,7 @@
     "en": "Cathexis"
    },
    "contentRating": "safe",
-   "score": 0.2264945,
+   "score": 0.22759472,
    "languages": [
     "en",
     "it",
@@ -78,18 +158,6 @@
    ]
   },
   {
-   "id": "e632d47a-df01-42cd-8ac4-0349a6150a5f",
-   "title": {
-    "en": "Death"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
    "id": "111aece9-5206-4245-b4db-56b805d6e63f",
    "title": {
     "en": "The Pool That Night"
@@ -98,19 +166,6 @@
    "score": 0.22506468,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "6d43f1ae-cc83-4bec-8be4-4582702c67b8",
-   "title": {
-    "en": "At Na-chan's"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en",
-    "pl",
-    "vi"
    ]
   },
   {
@@ -135,77 +190,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "edba4793-6c16-42ad-b437-82daceb52f30",
-   "title": {
-    "en": "Night at the Aquarium"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "3f6c214e-8afb-4fdd-9a7e-a215747b936d",
-   "title": {
-    "en": "Snow Maidens"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "fr",
-    "pt-br",
-    "ar",
-    "en"
-   ]
-  },
-  {
-   "id": "1113e7a6-341b-4f63-83ae-954d4aebaf2c",
-   "title": {
-    "en": "Wings"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "fr",
-    "bg",
-    "en",
-    "id",
-    "tr",
-    "pt-br",
-    "ru",
-    "pl"
-   ]
-  },
-  {
-   "id": "bdf4fc10-3b1f-44ce-a62f-5b7a9091320f",
-   "title": {
-    "en": "Assassin's Plan"
-   },
-   "contentRating": "safe",
-   "score": 0.21483447,
-   "languages": [
-    "ro",
-    "en"
-   ]
-  },
-  {
-   "id": "3dd14f1b-e71a-4c9c-a660-bbf71127f785",
-   "title": {
-    "en": "His Killing Plan"
-   },
-   "contentRating": "safe",
-   "score": 0.21263097,
-   "languages": [
-    "fr",
-    "es",
-    "en",
-    "it"
-   ]
   }
  ],
- "updatedAt": "2024-11-13T21:58:36+00:00"
+ "updatedAt": "2024-11-15T21:39:38+00:00"
 }

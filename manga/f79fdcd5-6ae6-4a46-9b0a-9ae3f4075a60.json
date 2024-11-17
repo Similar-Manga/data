@@ -3,42 +3,41 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "\"Kodomo wo Koroshite Kudasai\" to Iu Oya-tachi"
+   "en": "“Kodomo o Koroshite Kudasai” to Iu Oya-tachi"
   },
   "altTitles": [
    {
-    "th": "เหล่าพ่อแม่ผู้วิงวอน \"ให้ลูกของฉันหายไป\""
+    "ja": "「子供を殺してください」という親たち"
    },
    {
-    "ja": "「子供を殺してください」という親たち"
+    "ja-ro": "“Kodomo wo Koroshite Kudasai” to Iu Oya-tachi"
+   },
+   {
+    "en": "Parents Who Say “Please Kill My Child”"
+   },
+   {
+    "th": "เหล่าพ่อแม่ผู้วิงวอน \"ให้ลูกของฉันหายไป\""
    },
    {
     "zh": "说着「请将我的孩子杀死」的父母们"
    },
    {
-    "ja-ro": "`Kodomo o Koroshite Kudasai' to Iu Oya-tachi"
-   },
-   {
-    "ja-ro": "\"Kodomo o Koroshite kudasai\" to iu Oyatachi"
-   },
-   {
-    "ja-ro": "\"Kodomo wo Koroshite kudasai\" to iu Oyatachi"
-   },
-   {
     "zh-hk": "說著「請將我的孩子殺死」的父母們"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "[Official X](https://x.com/kodomowo_bunch)"
+  },
   "links": {
    "al": "110496",
    "amz": "https://www.amazon.co.jp/dp/B07959TZV8",
    "ap": "kodomo-wo-koroshite-kudasai-to-iu-oya-tachi",
-   "bw": "series/121465/list",
+   "bw": "series/121465",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2113337",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/418354",
    "mal": "105660",
    "mu": "140213",
-   "raw": "https://www.comicbunch.com/manga/bunch/kodomowo"
+   "raw": "https://kuragebunch.com/episode/13933686331620099150"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
@@ -57,19 +56,33 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2022-04-29T12:06:58+00:00",
-  "updatedAt": "2024-11-02T19:50:18+00:00"
+  "updatedAt": "2024-11-14T00:47:01+00:00"
  },
  "relationships": [
   {
    "id": "8fb23f38-caaf-470a-a6c2-b3dbd8931519",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 押川剛"
+    },
     "booth": null,
     "createdAt": "2022-04-29T12:00:58+00:00",
     "fanBox": null,
@@ -83,10 +96,10 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-04-29T12:00:58+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/King_of_Settoku",
+    "updatedAt": "2024-11-14T00:59:01+00:00",
+    "version": 3,
+    "website": "https://www.oshikawatakeshi.com/",
     "weibo": null,
     "youtube": null
    }
@@ -96,7 +109,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 鈴木マサカズ"
+     "en": "**Name In Native Language:** 鈴木マサカズ\n\nCompositor for [Even Still, Children Love Their Parents](https://mangadex.org/title/90a9f0ec-b837-48b1-a252-94c2b9fc7b54)."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -112,8 +125,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/suzukimasakazu",
-    "updatedAt": "2024-10-11T08:16:37+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-14T01:15:40+00:00",
+    "version": 4,
     "website": "http://suzukimasakazu.com/",
     "weibo": null,
     "youtube": null

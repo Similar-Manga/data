@@ -1,0 +1,136 @@
+{
+ "id": "ab73aebb-2f90-472e-b756-f04d3d3e9146",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Eguchi-san Chi no Junjou Succubus"
+  },
+  "altTitles": [
+   {
+    "ja": "江口さんちの純情サキュバス"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mal": "172789"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-13T00:46:24+00:00",
+  "updatedAt": "2024-11-14T19:24:57+00:00"
+ },
+ "relationships": [
+  {
+   "id": "20b76be3-050d-423b-84a4-833659740eb0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-13T00:40:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Eru Kudo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-13T00:40:54+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "20b76be3-050d-423b-84a4-833659740eb0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-13T00:40:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Eru Kudo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-13T00:40:54+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "889b7e6a-f092-46fe-be7f-7a640d0ca041",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-13T00:46:25+00:00",
+    "description": "",
+    "fileName": "76cbdfdf-85ab-4382-98b9-66df21c4b450.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-13T00:46:25+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "8b24dcd1-1c70-4218-8243-7b7ab280a8e8",
+   "type": "creator"
+  }
+ ]
+}

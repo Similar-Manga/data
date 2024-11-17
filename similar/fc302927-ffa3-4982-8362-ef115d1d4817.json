@@ -11,15 +11,7 @@
     "en": "The Chef - Shinsho"
    },
    "contentRating": "safe",
-   "score": 0.42500773
-  },
-  {
-   "id": "d2cfb28d-bdc8-4708-a0a6-74798c8d8b9a",
-   "title": {
-    "en": "Hanjuku Restaurant"
-   },
-   "contentRating": "safe",
-   "score": 0.37631607
+   "score": 0.41817802
   },
   {
    "id": "f77bb064-2f90-497d-a9b7-f13a6d8bb121",
@@ -27,7 +19,15 @@
     "en": "Kodomo no Gourmet"
    },
    "contentRating": "safe",
-   "score": 0.3722291
+   "score": 0.36557862
+  },
+  {
+   "id": "d2cfb28d-bdc8-4708-a0a6-74798c8d8b9a",
+   "title": {
+    "en": "Hanjuku Restaurant"
+   },
+   "contentRating": "safe",
+   "score": 0.3637588
   },
   {
    "id": "b18d8328-d14d-4901-9643-e8bbead2143d",
@@ -35,18 +35,7 @@
     "en": "Shinratsu Naru Gourmet"
    },
    "contentRating": "safe",
-   "score": 0.36834866
-  },
-  {
-   "id": "474f4e95-7731-4d92-badb-bfd52e601df0",
-   "title": {
-    "en": "Lisa's Table of Inedibles"
-   },
-   "contentRating": "safe",
-   "score": 0.33178943,
-   "languages": [
-    "en"
-   ]
+   "score": 0.3615315
   },
   {
    "id": "e1e9e826-96b3-4e1c-baf2-7f33a69f598b",
@@ -54,8 +43,43 @@
     "en": "The Chef"
    },
    "contentRating": "safe",
-   "score": 0.33160222,
+   "score": 0.32347408,
    "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "474f4e95-7731-4d92-badb-bfd52e601df0",
+   "title": {
+    "en": "Lisa's Table of Inedibles"
+   },
+   "contentRating": "safe",
+   "score": 0.32114828,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "079fa9a3-540e-46b9-8b9e-f534145e6e73",
+   "title": {
+    "en": "Artiste"
+   },
+   "contentRating": "safe",
+   "score": 0.31787476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a07499a5-b03b-4323-af81-3881737d2086",
+   "title": {
+    "en": "Westa no Daidokoro -Wasureta Boku no Sekai Gohan-"
+   },
+   "contentRating": "safe",
+   "score": 0.31301048,
+   "languages": [
+    "es-la",
     "vi",
     "en"
    ]
@@ -66,17 +90,18 @@
     "en": "Believe in Tomorrow"
    },
    "contentRating": "safe",
-   "score": 0.32327482
+   "score": 0.31293473
   },
   {
-   "id": "079fa9a3-540e-46b9-8b9e-f534145e6e73",
+   "id": "77566ea5-33a0-43e2-ba5b-ff7af8c397c9",
    "title": {
-    "en": "Artiste"
+    "en": "Witch Hat Atelier Kitchen"
    },
    "contentRating": "safe",
-   "score": 0.32033142,
+   "score": 0.3128357,
    "languages": [
-    "en"
+    "en",
+    "ru"
    ]
   },
   {
@@ -85,40 +110,7 @@
     "en": "Tenshi no Ryouriban"
    },
    "contentRating": "safe",
-   "score": 0.3186765
-  },
-  {
-   "id": "a07499a5-b03b-4323-af81-3881737d2086",
-   "title": {
-    "en": "Westa no Daidokoro -Wasureta Boku no Sekai Gohan-"
-   },
-   "contentRating": "safe",
-   "score": 0.31753477,
-   "languages": [
-    "es-la",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "77566ea5-33a0-43e2-ba5b-ff7af8c397c9",
-   "title": {
-    "en": "Witch Hat Atelier Kitchen"
-   },
-   "contentRating": "safe",
-   "score": 0.31541112,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "764a2274-f2b2-4242-9fc8-77f233573674",
-   "title": {
-    "en": "Mata no Okoshi wo"
-   },
-   "contentRating": "safe",
-   "score": 0.3079773
+   "score": 0.3104976
   },
   {
    "id": "bdb9ba04-3022-490a-906e-f3f845508f88",
@@ -126,18 +118,23 @@
     "en": "Meshi o Kurashita Hana to Tsugu"
    },
    "contentRating": "safe",
-   "score": 0.30577153
+   "score": 0.30378494
   },
   {
-   "id": "48e93eeb-297f-429a-b7c8-c6f418751772",
+   "id": "764a2274-f2b2-4242-9fc8-77f233573674",
    "title": {
-    "en": "Taste"
+    "en": "Mata no Okoshi wo"
    },
    "contentRating": "safe",
-   "score": 0.29942095,
-   "languages": [
-    "en"
-   ]
+   "score": 0.30088395
+  },
+  {
+   "id": "a2c343e7-b070-47ec-a0a2-36eb7feda085",
+   "title": {
+    "en": "Asa Meshi Mae"
+   },
+   "contentRating": "safe",
+   "score": 0.29765335
   },
   {
    "id": "c52b08ae-1a37-42b1-a8c0-f7f0b515e828",
@@ -145,19 +142,19 @@
     "en": "Cuisinier"
    },
    "contentRating": "safe",
-   "score": 0.2978768
+   "score": 0.29603174
   },
   {
-   "id": "aed41aa4-956c-4870-bdb8-85377ae5c02e",
+   "id": "48e93eeb-297f-429a-b7c8-c6f418751772",
    "title": {
-    "en": "Nagatan to Aoto - Ichika no Ryourichou"
+    "en": "Taste"
    },
    "contentRating": "safe",
-   "score": 0.2960403,
+   "score": 0.29360703,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-13T22:27:09+00:00"
+ "updatedAt": "2024-11-15T22:06:52+00:00"
 }

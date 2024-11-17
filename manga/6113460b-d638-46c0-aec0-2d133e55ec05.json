@@ -3,19 +3,35 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Sanshimai no oshigoto"
+   "en": "Sanshimai no Oshigoto"
   },
   "altTitles": [
+   {
+    "ja": "三姉妹のお仕事"
+   },
+   {
+    "ja-ro": "San Shimai no Oshigoto"
+   },
+   {
+    "en": "The Three Sisters' Job"
+   },
    {
     "es-la": "El trabajo de las tres hermanas"
    }
   ],
   "description": {
-   "es-la": "Había tres hermanas que resonaban en el mundo criminal como las 'Tres Hermanas'. Su trabajo consistía en 'extraer secretos'. La hermana mayor, Ichika, interrogaba a los objetivos y leía sus corazones a través de expresiones faciales y lenguaje corporal. La hermana del medio, Kirara, era experta en una variedad de métodos de tortura. La hermana menor, Yuyu, era hábil en una amplia gama de habilidades, como hackeo, actuación y falsificación de voces. Las tres hermanas se embarcan en su trabajo una vez más..."
+   "es-la": "Había tres hermanas que resonaban en el mundo criminal como las 'Tres Hermanas'. Su trabajo consistía en 'extraer secretos'. La hermana mayor, Ichika, interrogaba a los objetivos y leía sus corazones a través de expresiones faciales y lenguaje corporal. La hermana del medio, Kirara, era experta en una variedad de métodos de tortura. La hermana menor, Yuyu, era hábil en una amplia gama de habilidades, como hackeo, actuación y falsificación de voces. Las tres hermanas se embarcan en su trabajo una vez más...",
+   "ja": "裏社会にその名をとどろかせる「三姉妹」がいた。彼女たちの仕事は「ターゲットの握る秘密を引き出すこと」。成功率の高さから業界では絶大な信頼を得ており、緊急時には警察関係者からも頼られる腕前をもつ。対象を尋問し、表情やボディランゲージで心を読む長女・一花。バラエティ豊かな拷問が得意な次女・キララ。ハッキングや演技、声帯模倣など、あらゆる能力に長けている末っ子・ゆゆ。三姉妹は今日も仕事にとりかかる——。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/三姉妹のお仕事【タテヨミ】/dp/B0D7ZP4BT6",
+   "mu": "c18nudt",
+   "raw": "https://peep.jp/stories/DDNf2bfPVj9TTTXw"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
   "status": "completed",
+  "year": 2022,
   "contentRating": "safe",
   "tags": [
    {
@@ -27,6 +43,42 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -56,9 +108,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2023-10-04T02:01:59+00:00",
-  "updatedAt": "2023-11-23T09:38:37+00:00"
+  "updatedAt": "2024-11-14T05:04:59+00:00"
  },
  "relationships": [
   {

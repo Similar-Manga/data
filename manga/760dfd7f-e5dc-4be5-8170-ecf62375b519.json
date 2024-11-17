@@ -28,6 +28,7 @@
    "raw": "https://www.sunday-webry.com/episode/4855956445114741512"
   },
   "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2023,
   "contentRating": "safe",
@@ -35,8 +36,20 @@
    "vi",
    "en"
   ],
-  "latestUploadedChapter": "59de2e44-6a82-4636-9c21-29229f2ff32d",
+  "latestUploadedChapter": "93834bb7-eada-45d6-b81d-c869caa7b54d",
   "tags": [
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "51d83883-4103-437c-b4b1-731cb73d786c",
     "type": "tag",
@@ -87,9 +100,9 @@
    }
   ],
   "state": "published",
-  "version": 14,
+  "version": 16,
   "createdAt": "2023-02-25T12:39:06+00:00",
-  "updatedAt": "2024-10-23T00:46:29+00:00"
+  "updatedAt": "2024-11-13T19:03:28+00:00"
  },
  "relationships": [
   {
@@ -145,16 +158,16 @@
    }
   },
   {
-   "id": "e33e5ca9-29ba-4187-9b57-051418e3c11b",
+   "id": "e361d49e-2b78-407e-b0cd-aee90e9658d6",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-22T16:26:46+00:00",
+    "createdAt": "2024-11-13T18:37:23+00:00",
     "description": "",
-    "fileName": "b92cbbab-6af1-4bad-a553-2fea636258e9.jpg",
+    "fileName": "a122d62e-567d-4c5c-ad80-3787063fd3d1.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-22T16:26:46+00:00",
+    "updatedAt": "2024-11-13T18:37:23+00:00",
     "version": 1,
-    "volume": "4"
+    "volume": "5"
    }
   },
   {

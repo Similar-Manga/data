@@ -3,14 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Toshiden Shuo Senpai"
+   "en": "The Urban Legend Files"
   },
   "altTitles": [
+   {
+    "en": "Toshi Densetsu Senpai"
+   },
    {
     "ja": "都市伝説先輩"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Mokume is a first-year college student and occult fanatic! She hunts down an older student, Kugutsu, who is rumored to attract urban legends of all kinds... What will happen when she joins the Occult Club? The long-awaited occult comedy from the creator of “Janji”, Kazuki Hiraoka!"
+  },
+  "links": {
+   "engtl": "https://mangaplus.shueisha.co.jp/titles/100381",
+   "mal": "176232",
+   "raw": "https://shonenjumpplus.com/episode/17106567256884587803"
+  },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "ongoing",
@@ -31,9 +41,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 6,
   "createdAt": "2024-11-02T08:41:36+00:00",
-  "updatedAt": "2024-11-02T08:41:40+00:00"
+  "updatedAt": "2024-11-15T17:54:26+00:00"
  },
  "relationships": [
   {
@@ -89,14 +99,14 @@
    }
   },
   {
-   "id": "5736def3-ee11-43c6-accf-ce8306fcc2f3",
+   "id": "19a50a62-6819-4c09-a064-d1f420cb4d6b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-02T08:41:38+00:00",
+    "createdAt": "2024-11-15T16:52:22+00:00",
     "description": "",
-    "fileName": "a358deec-4341-487a-8ece-8ac8610fd413.jpg",
+    "fileName": "7f2855e8-ae8d-498f-8a67-420eb239e938.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-02T08:41:38+00:00",
+    "updatedAt": "2024-11-15T16:52:22+00:00",
     "version": 1,
     "volume": null
    }

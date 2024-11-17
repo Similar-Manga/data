@@ -11,8 +11,20 @@
     "en": "I Am the Last Boss"
    },
    "contentRating": "safe",
-   "score": 0.37962332,
+   "score": 0.3796306,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9c004064-f202-4f15-a278-4b68043b9ed4",
+   "title": {
+    "en": "The Top Player Returns"
+   },
+   "contentRating": "safe",
+   "score": 0.35524467,
+   "languages": [
+    "id",
     "en"
    ]
   },
@@ -22,132 +34,10 @@
     "en": "I Am the Rising Villain"
    },
    "contentRating": "safe",
-   "score": 0.34533125,
+   "score": 0.34526756,
    "languages": [
     "pt-br",
     "en"
-   ]
-  },
-  {
-   "id": "3faa91a8-795c-4625-b9d2-1ce516d56cfc",
-   "title": {
-    "en": "The Game That I Came From"
-   },
-   "contentRating": "safe",
-   "score": 0.3422145,
-   "languages": [
-    "en",
-    "id",
-    "es-la"
-   ]
-  },
-  {
-   "id": "9c004064-f202-4f15-a278-4b68043b9ed4",
-   "title": {
-    "en": "The Top Player Returns"
-   },
-   "contentRating": "safe",
-   "score": 0.34088233,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "b99cfe41-e70c-4f4a-9722-bf386b17c86b",
-   "title": {
-    "en": "Unemployed Monster Player"
-   },
-   "contentRating": "safe",
-   "score": 0.32808414,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2e79031f-b2be-4856-9a9c-4dd29501f38a",
-   "title": {
-    "en": "Resurgence of the Solo Beta Player"
-   },
-   "contentRating": "safe",
-   "score": 0.31943738,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "62e989da-8d25-4794-a203-66b50885c1e6",
-   "title": {
-    "en": "Monster Kingdom"
-   },
-   "contentRating": "safe",
-   "score": 0.31730276,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d65f4c46-9e71-482c-9959-3a3c469eac29",
-   "title": {
-    "en": "The Maxed-Out Player"
-   },
-   "contentRating": "safe",
-   "score": 0.31063968,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "73d15f35-a778-412c-b883-86f6d71a5908",
-   "title": {
-    "en": "I am the Final Boss"
-   },
-   "contentRating": "safe",
-   "score": 0.3077688,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "853bda99-f4d0-4085-b790-105944253a30",
-   "title": {
-    "en": "Star Player Supporter"
-   },
-   "contentRating": "safe",
-   "score": 0.3074157,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "e8dd62f8-fa46-4a3e-ba7d-23ba67b488e7",
-   "title": {
-    "en": "Moon Slayer"
-   },
-   "contentRating": "safe",
-   "score": 0.3041125,
-   "languages": [
-    "en",
-    "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "cc925ea7-e82d-4899-9779-861f833c3bdc",
-   "title": {
-    "en": "Legendary Ranker’s Comeback"
-   },
-   "contentRating": "safe",
-   "score": 0.3026726,
-   "languages": [
-    "es-la",
-    "en",
-    "fr"
    ]
   },
   {
@@ -156,7 +46,7 @@
     "en": "The Player Who Can't Level Up"
    },
    "contentRating": "safe",
-   "score": 0.29935458,
+   "score": 0.32851225,
    "languages": [
     "es-la",
     "pt-br",
@@ -169,12 +59,122 @@
    ]
   },
   {
+   "id": "b99cfe41-e70c-4f4a-9722-bf386b17c86b",
+   "title": {
+    "en": "Unemployed Monster Player"
+   },
+   "contentRating": "safe",
+   "score": 0.32809615,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2e79031f-b2be-4856-9a9c-4dd29501f38a",
+   "title": {
+    "en": "Resurgence of the Solo Beta Player"
+   },
+   "contentRating": "safe",
+   "score": 0.31933996,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "62e989da-8d25-4794-a203-66b50885c1e6",
+   "title": {
+    "en": "Monster Kingdom"
+   },
+   "contentRating": "safe",
+   "score": 0.31730446,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3faa91a8-795c-4625-b9d2-1ce516d56cfc",
+   "title": {
+    "en": "The Game That I Came From"
+   },
+   "contentRating": "safe",
+   "score": 0.3130658,
+   "languages": [
+    "en",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "d65f4c46-9e71-482c-9959-3a3c469eac29",
+   "title": {
+    "en": "The Maxed-Out Player"
+   },
+   "contentRating": "safe",
+   "score": 0.31065255,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "73d15f35-a778-412c-b883-86f6d71a5908",
+   "title": {
+    "en": "I am the Final Boss"
+   },
+   "contentRating": "safe",
+   "score": 0.3077843,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "853bda99-f4d0-4085-b790-105944253a30",
+   "title": {
+    "en": "Star Player Supporter"
+   },
+   "contentRating": "safe",
+   "score": 0.30742136,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "e8dd62f8-fa46-4a3e-ba7d-23ba67b488e7",
+   "title": {
+    "en": "Moon Slayer"
+   },
+   "contentRating": "safe",
+   "score": 0.3041378,
+   "languages": [
+    "en",
+    "es-la",
+    "id"
+   ]
+  },
+  {
+   "id": "cc925ea7-e82d-4899-9779-861f833c3bdc",
+   "title": {
+    "en": "Legendary Ranker’s Comeback"
+   },
+   "contentRating": "safe",
+   "score": 0.30267936,
+   "languages": [
+    "es-la",
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "04b138cd-fd73-4d6d-8552-8d1de84821d2",
    "title": {
     "en": "Rich Player"
    },
    "contentRating": "safe",
-   "score": 0.29655424,
+   "score": 0.29657015,
    "languages": [
     "en",
     "pl",
@@ -190,7 +190,7 @@
     "en": "Surviving the Game as a Barbarian"
    },
    "contentRating": "safe",
-   "score": 0.29375628,
+   "score": 0.29376513,
    "languages": [
     "fr",
     "es-la",
@@ -205,11 +205,11 @@
     "en": "Secret Player"
    },
    "contentRating": "safe",
-   "score": 0.29111838,
+   "score": 0.2911321,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-13T21:17:51+00:00"
+ "updatedAt": "2024-11-15T21:00:16+00:00"
 }

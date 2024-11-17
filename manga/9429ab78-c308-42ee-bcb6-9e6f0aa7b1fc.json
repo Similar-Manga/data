@@ -21,10 +21,36 @@
   "status": "ongoing",
   "year": 2023,
   "contentRating": "safe",
+  "tags": [
+   {
+    "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Traditional Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-10-24T19:35:58+00:00",
-  "updatedAt": "2024-11-01T20:44:45+00:00"
+  "updatedAt": "2024-11-14T13:16:00+00:00"
  },
  "relationships": [
   {
@@ -84,16 +110,16 @@
    }
   },
   {
-   "id": "79f57163-e55b-4250-af06-9101de7f1d2c",
+   "id": "b6032e82-e57a-43ac-bd67-c03e2d6c4f8f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-01T20:46:06+00:00",
+    "createdAt": "2024-11-14T13:15:18+00:00",
     "description": "",
-    "fileName": "4491bcc2-c1f7-46eb-aa61-196eb1f45e06.jpg",
+    "fileName": "f0278d49-08f2-4523-b1d1-40b74d7825a4.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-01T20:46:06+00:00",
+    "updatedAt": "2024-11-14T13:15:18+00:00",
     "version": 1,
-    "volume": "3"
+    "volume": "4"
    }
   },
   {

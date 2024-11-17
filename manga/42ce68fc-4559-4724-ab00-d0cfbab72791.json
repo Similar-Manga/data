@@ -10,10 +10,10 @@
     "en": "An Earthquake Rocks"
    },
    {
-    "en": "ナエガユル"
+    "ja": "ナエガユル"
    },
    {
-    "en": "地动天摇"
+    "zh": "地动天摇"
    }
   ],
   "description": {
@@ -23,7 +23,7 @@
    "al": "37895",
    "amz": "https://www.amazon.co.jp/gp/product/B07GGS84JD",
    "ap": "nae-ga-yuru",
-   "bw": "series/4705",
+   "bw": "series/4705/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/129891/",
    "kt": "16133",
    "mal": "7895",
@@ -63,12 +63,36 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2018-05-06T02:37:00+00:00",
-  "updatedAt": "2021-05-25T15:41:46+00:00"
+  "updatedAt": "2024-11-15T03:16:20+00:00"
  },
  "relationships": [
   {
@@ -135,9 +159,9 @@
     "description": "",
     "fileName": "fad0ef99-339e-41f7-a3f1-6e5c8dbde204.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:11:17+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-15T03:16:20+00:00",
+    "version": 2,
+    "volume": "2"
    }
   }
  ]

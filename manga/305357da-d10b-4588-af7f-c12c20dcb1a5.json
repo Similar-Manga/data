@@ -19,10 +19,11 @@
   "description": {},
   "links": {
    "al": "135342",
-   "amz": "https://www.amazon.co.jp/-/en/dp/B08L7LLF5C?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1720872088\u0026sr=1-1",
-   "bw": "series/256523/list",
+   "amz": "https://www.amazon.co.jp/dp/B08L7LLF5C",
+   "bw": "series/256523",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/597424/",
-   "mu": "yqjp9ug"
+   "mu": "yqjp9ug",
+   "raw": "https://comic-days.com/episode/10834108156753445221"
   },
   "originalLanguage": "ja",
   "lastVolume": "4",
@@ -106,33 +107,35 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-07-13T12:04:31+00:00",
-  "updatedAt": "2024-07-13T12:09:13+00:00"
+  "updatedAt": "2024-11-14T03:31:28+00:00"
  },
  "relationships": [
   {
    "id": "d1a3997a-419b-4309-8eb7-69f486e13dc5",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鈴木コイチ (Suzuki Koichi)\n\n**Additional Sites:**\n- [note](https://note.com/suzuki_coichi)"
+    },
     "booth": null,
     "createdAt": "2024-07-13T12:04:09+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Suzuki Koichi",
+    "name": "Suzuki Coichi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-07-13T12:04:09+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/SuzukiCoichi",
+    "updatedAt": "2024-11-14T02:56:38+00:00",
+    "version": 3,
+    "website": "https://suzukicoichi.myportfolio.com/",
     "weibo": null,
     "youtube": null
    }
@@ -141,40 +144,47 @@
    "id": "d1a3997a-419b-4309-8eb7-69f486e13dc5",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鈴木コイチ (Suzuki Koichi)\n\n**Additional Sites:**\n- [note](https://note.com/suzuki_coichi)"
+    },
     "booth": null,
     "createdAt": "2024-07-13T12:04:09+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Suzuki Koichi",
+    "name": "Suzuki Coichi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-07-13T12:04:09+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/SuzukiCoichi",
+    "updatedAt": "2024-11-14T02:56:38+00:00",
+    "version": 3,
+    "website": "https://suzukicoichi.myportfolio.com/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "95086861-7264-4fd3-a8c1-8609ff60762a",
+   "id": "307cc561-6937-4d5c-bcbe-5e0f38d86da1",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-07-13T12:04:33+00:00",
+    "createdAt": "2024-11-14T03:31:22+00:00",
     "description": "",
-    "fileName": "88aaa576-2aae-4145-b0ce-1cd27786c1f8.png",
+    "fileName": "ef096fe9-d1f4-4f0a-a2ee-c0d572907a72.jpg",
     "locale": "ja",
-    "updatedAt": "2024-07-13T12:04:33+00:00",
+    "updatedAt": "2024-11-14T03:31:22+00:00",
     "version": 1,
     "volume": "4"
    }
+  },
+  {
+   "id": "142bcd7c-5b37-4f64-9c11-3d74543a5c59",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",

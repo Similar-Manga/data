@@ -49,7 +49,7 @@
    "fr",
    "id"
   ],
-  "latestUploadedChapter": "05253bbd-9c94-45b2-a591-f120e367f6b3",
+  "latestUploadedChapter": "e8b8f110-f257-403b-97eb-45b9318e4bac",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -69,6 +69,30 @@
     "attributes": {
      "name": {
       "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
      },
      "description": {},
      "group": "genre",
@@ -117,6 +141,18 @@
     "attributes": {
      "name": {
       "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
      },
      "description": {},
      "group": "genre",
@@ -173,9 +209,9 @@
    }
   ],
   "state": "published",
-  "version": 18,
+  "version": 19,
   "createdAt": "2024-09-21T17:56:13+00:00",
-  "updatedAt": "2024-11-08T03:18:43+00:00"
+  "updatedAt": "2024-11-14T22:55:29+00:00"
  },
  "relationships": [
   {

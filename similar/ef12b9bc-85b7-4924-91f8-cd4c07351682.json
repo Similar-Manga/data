@@ -11,7 +11,7 @@
     "en": "Kimi ga Tonari ni Iru Nante"
    },
    "contentRating": "safe",
-   "score": 0.32464096,
+   "score": 0.3290439,
    "languages": [
     "es-la"
    ]
@@ -22,7 +22,7 @@
     "en": "Hajimete Koi o Shita Hi ni Yomu Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.27604052,
+   "score": 0.26945433,
    "languages": [
     "es-la"
    ]
@@ -33,7 +33,7 @@
     "en": "Ani ga Kareshi de, Gomen"
    },
    "contentRating": "safe",
-   "score": 0.26376703,
+   "score": 0.2644465,
    "languages": [
     "vi",
     "en",
@@ -41,15 +41,17 @@
    ]
   },
   {
-   "id": "152cac37-0ab3-4e3f-a98c-5090c1104590",
+   "id": "77eaea75-769a-4f30-9a03-e0cf74a38e66",
    "title": {
-    "en": "Anesan Countdown!"
+    "en": "Shigatsu no Kimi, Spica."
    },
    "contentRating": "safe",
-   "score": 0.2403367,
+   "score": 0.24075274,
    "languages": [
     "es-la",
-    "en"
+    "en",
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -75,26 +77,12 @@
    ]
   },
   {
-   "id": "77eaea75-769a-4f30-9a03-e0cf74a38e66",
-   "title": {
-    "en": "Shigatsu no Kimi, Spica."
-   },
-   "contentRating": "safe",
-   "score": 0.23983423,
-   "languages": [
-    "es-la",
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
    "id": "7eabe852-5454-48a1-976a-9aaa2b9ca7b0",
    "title": {
     "en": "Kimi no Yokogao o Miteita"
    },
    "contentRating": "safe",
-   "score": 0.23705114,
+   "score": 0.2378803,
    "languages": [
     "en",
     "vi",
@@ -103,12 +91,26 @@
    ]
   },
   {
+   "id": "5f3cf704-db07-4322-a399-d45589621d96",
+   "title": {
+    "en": "Daisuki no Yukue"
+   },
+   "contentRating": "safe",
+   "score": 0.23031825,
+   "languages": [
+    "fr",
+    "es-la",
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "4aecf422-7afe-405f-b2d4-e5b80a1872ac",
    "title": {
     "en": "Glasses with a Chance of Delinquent"
    },
    "contentRating": "safe",
-   "score": 0.22517492,
+   "score": 0.2254694,
    "languages": [
     "en",
     "es-la",
@@ -121,22 +123,9 @@
     "en": "Dramatic Love Album"
    },
    "contentRating": "safe",
-   "score": 0.22398272,
+   "score": 0.22423941,
    "languages": [
     "pl",
-    "es-la",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "ec482098-7ce2-4bbb-bb1e-ab64873c36ac",
-   "title": {
-    "en": "Awa Koi"
-   },
-   "contentRating": "safe",
-   "score": 0.22250284,
-   "languages": [
     "es-la",
     "pt-br",
     "en"
@@ -148,7 +137,7 @@
     "en": "Sweet Bitter"
    },
    "contentRating": "safe",
-   "score": 0.21712959,
+   "score": 0.21738538,
    "languages": [
     "en",
     "es-la"
@@ -160,36 +149,11 @@
     "en": "Kao Dake ja Suki ni Narimasen"
    },
    "contentRating": "safe",
-   "score": 0.2152882,
+   "score": 0.21549176,
    "languages": [
     "en",
     "hu",
     "fr",
-    "es-la"
-   ]
-  },
-  {
-   "id": "47561747-8564-41a1-9cf9-17a0b94fb12c",
-   "title": {
-    "en": "Kuzuna Kimi Shika Aisenai"
-   },
-   "contentRating": "safe",
-   "score": 0.21519183,
-   "languages": [
-    "es-la",
-    "vi",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "1f66f327-1083-4334-b7bc-39fc11809b53",
-   "title": {
-    "en": "Rui wa Koi o Yobu"
-   },
-   "contentRating": "safe",
-   "score": 0.21347304,
-   "languages": [
     "es-la"
    ]
   },
@@ -199,7 +163,7 @@
     "en": "Kimi to Barairo no Hibi"
    },
    "contentRating": "safe",
-   "score": 0.21286274,
+   "score": 0.21380787,
    "languages": [
     "es-la",
     "en",
@@ -207,7 +171,48 @@
     "vi",
     "es"
    ]
+  },
+  {
+   "id": "ec482098-7ce2-4bbb-bb1e-ab64873c36ac",
+   "title": {
+    "en": "Awa Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.21042119,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "0fb8ef3e-794a-4bdd-9d3c-6566d63a785b",
+   "title": {
+    "en": "Girl Crush"
+   },
+   "contentRating": "safe",
+   "score": 0.21025084,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "47561747-8564-41a1-9cf9-17a0b94fb12c",
+   "title": {
+    "en": "Kuzuna Kimi Shika Aisenai"
+   },
+   "contentRating": "safe",
+   "score": 0.20964666,
+   "languages": [
+    "es-la",
+    "vi",
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-11-13T22:20:12+00:00"
+ "updatedAt": "2024-11-15T22:00:06+00:00"
 }

@@ -21,6 +21,7 @@
    "amz": "https://www.amazon.co.jp/dp/B07J3SWJDG",
    "ap": "descending-stories-showa-genroku-rakugo-shinju",
    "bw": "series/176162",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=%E6%98%AD%E5%92%8C%E5%85%83%E7%A6%84%E8%90%BD%E8%AA%9E%E5%BF%83%E4%B8%AD",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/482290/",
    "engtl": "https://comics.inkr.com/title/224-descending-stories?utm_source=mgd",
    "kt": "20222",
@@ -126,16 +127,18 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2018-11-22T16:08:22+00:00",
-  "updatedAt": "2022-12-23T18:48:55+00:00"
+  "updatedAt": "2024-11-15T04:17:47+00:00"
  },
  "relationships": [
   {
    "id": "dcc3e5cb-ec98-423c-a90b-67877b1b078f",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n雲田はるこ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -149,10 +152,10 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/KUMOHARU",
+    "updatedAt": "2024-11-15T04:15:36+00:00",
+    "version": 2,
+    "website": "http://kumotaharuko.jugem.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -161,7 +164,9 @@
    "id": "dcc3e5cb-ec98-423c-a90b-67877b1b078f",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n雲田はるこ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -175,25 +180,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/KUMOHARU",
+    "updatedAt": "2024-11-15T04:15:36+00:00",
+    "version": 2,
+    "website": "http://kumotaharuko.jugem.jp/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "d2bd077c-4237-4f81-9d68-a08787538b26",
+   "id": "48f03f7b-dd30-4fb9-9639-4ea84db1942e",
    "type": "cover_art",
    "attributes": {
     "createdAt": "2021-05-23T05:58:28+00:00",
     "description": "",
-    "fileName": "67ce9a01-bcbc-4a94-ac02-a9a0cbbf1ade.jpg",
+    "fileName": "9e719795-fc98-4aa9-ac0b-a175f8746760.jpg",
     "locale": "ja",
     "updatedAt": "2021-05-23T05:58:28+00:00",
     "version": 2,
-    "volume": "1"
+    "volume": "10"
    }
   }
  ]

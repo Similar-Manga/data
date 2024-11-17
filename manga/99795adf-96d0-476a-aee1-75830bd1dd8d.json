@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Masters Are Subscribing"
+   "en": "The Masters Have Subscribed"
   },
   "altTitles": [
    {
@@ -17,12 +17,16 @@
    },
    {
     "ko": "사부님들이 구독 중"
+   },
+   {
+    "en": "The Masters Are Subscribing"
    }
   ],
   "description": {
-   "en": "Yeon Chungwoon, an outside disciple of the Wudang Sect, who had long wished to enter the main sect, finds himself enduring harsh days after being singled out by his peer, Yoon Sihu, the eldest son of the Deokpung Yoon Clan. Suddenly, one day he hears an unexpected voice...\n\nThus begins the strange journey of communication between Yeon Chungwoon, who has gained a connection to the heavens, and the masters who just want to stop working late nights."
+   "en": "“Cheong-un, parry the attack! Move faster or the obstacle course will kill you!” The progenitors of the great Wudang sect and the mighty Shaolin encounter post-ascension issues when they find themselves reduced to servants in the godly realm. Their only hope and escape from their divine chores lie in the hands of less-than-average Cheong-un, who can hardly beat his peers in the sect. Can the masters raise an average boy into a master of martial arts and finally relieve themselves of their menial chores?"
   },
   "links": {
+   "engtl": "https://www.webtoons.com/en/action/the-masters-have-subscribed/list?title_no=6994",
    "mu": "cnrwyrn",
    "raw": "https://comic.naver.com/webtoon/list.nhn?titleId=829785"
   },
@@ -121,23 +125,25 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2024-09-09T05:51:22+00:00",
-  "updatedAt": "2024-10-18T01:53:22+00:00"
+  "updatedAt": "2024-11-14T02:52:01+00:00"
  },
  "relationships": [
   {
    "id": "406a6b2e-4599-4fc5-bed7-597533b04eac",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Associated Names:**\n- Black Night\n- Dark Night\n\n---\n**Name (in native language):**\n흑야\n"
+    },
     "booth": null,
     "createdAt": "2024-09-09T05:47:51+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Heuk Ya",
+    "name": "DN (흑야)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -145,25 +151,27 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-09-09T05:47:51+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-14T02:55:47+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "d938682d-dc9a-4820-8851-48a92d2f3bd3",
+   "id": "a846f688-a1ca-42e1-947f-77824ea58dae",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Hello, I’m kangho HA, a creator who adapted this series. I try to find small but certain happiness in my work, and I’m glad to share it with you. I also want to thank everyone who has worked on this series with me. P.S. Another series I’ve adapted, “The Apothecary Prince” is also live on WEBTOON!"
+    },
     "booth": null,
-    "createdAt": "2024-09-09T05:47:24+00:00",
+    "createdAt": "2023-12-06T00:00:17+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Ha Kangho",
+    "name": "Ha Kangho (하강호)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -171,9 +179,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-09-09T05:47:24+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-14T02:50:54+00:00",
+    "version": 3,
+    "website": "https://www.instagram.com/ha.kako/?hl=en",
     "weibo": null,
     "youtube": null
    }
@@ -182,14 +190,16 @@
    "id": "9c9a3404-0d8d-4374-819f-029b33e5616b",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "I enjoy working in the dark room with videos on evolution and space in the background. I somehow feel at ease when I think we're like dust in the universe. The curtains are opening. Aaaah! It's so bright (´Д｀|||) I look forward to our journey with Cheong-un. Thank you for your support! (っ´ω｀)っ"
+    },
     "booth": null,
     "createdAt": "2024-09-09T05:48:04+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kim Kibaek",
+    "name": "KIM KI BAEK (김기백)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -197,8 +207,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-09-09T05:48:04+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-14T02:53:48+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -212,9 +222,9 @@
     "description": "",
     "fileName": "ce6efcb4-72b7-4b05-beec-5d69435887bb.jpg",
     "locale": "ko",
-    "updatedAt": "2024-09-09T05:59:05+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-11-14T02:39:21+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

@@ -119,14 +119,40 @@
    }
   ],
   "state": "published",
-  "version": 29,
+  "version": 30,
   "createdAt": "2021-11-13T15:22:08+00:00",
-  "updatedAt": "2024-11-03T15:16:32+00:00"
+  "updatedAt": "2024-11-13T05:21:22+00:00"
  },
  "relationships": [
   {
-   "id": "f1457613-a45e-486e-9bf1-7c43177a3b87",
+   "id": "430ffc8d-05da-4b5d-bd71-28d6cf10b169",
    "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-12-12T17:40:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sakusei Kenkyuujo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-12-12T17:40:03+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f1457613-a45e-486e-9bf1-7c43177a3b87",
+   "type": "artist",
    "attributes": {
     "biography": {
      "en": "**Alt names**:\nPorosuke (ぽろすけ)\n丈山雄為"
@@ -148,32 +174,6 @@
     "updatedAt": "2023-05-04T21:03:07+00:00",
     "version": 2,
     "website": "http://porosuk.blog135.fc2.com/",
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "430ffc8d-05da-4b5d-bd71-28d6cf10b169",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2022-12-12T17:40:03+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Sakusei Kenkyuujo",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-12-12T17:40:03+00:00",
-    "version": 1,
-    "website": null,
     "weibo": null,
     "youtube": null
    }

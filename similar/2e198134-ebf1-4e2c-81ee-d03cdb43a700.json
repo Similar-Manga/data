@@ -6,20 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "0d3838bf-b5f7-46d0-ac4e-b192e51e3784",
-   "title": {
-    "en": "Utsurun desu."
-   },
-   "contentRating": "safe",
-   "score": 0.28136674,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "baf73879-e066-4370-9ffe-755fd29b7ee2",
    "title": {
     "en": "Obungu to Issho"
+   },
+   "contentRating": "safe",
+   "score": 0.28136674
+  },
+  {
+   "id": "5501515c-c8ec-40f7-a5c8-e8824ffcc904",
+   "title": {
+    "en": "Prefectural Manga in my place"
    },
    "contentRating": "safe",
    "score": 0.28136674
@@ -36,12 +33,15 @@
    ]
   },
   {
-   "id": "5501515c-c8ec-40f7-a5c8-e8824ffcc904",
+   "id": "0d3838bf-b5f7-46d0-ac4e-b192e51e3784",
    "title": {
-    "en": "Prefectural Manga in my place"
+    "en": "Utsurun desu."
    },
    "contentRating": "safe",
-   "score": 0.28136674
+   "score": 0.28136674,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "2546dfa2-41c4-45fe-bb01-b1669d16d27d",
@@ -57,7 +57,7 @@
     "en": "Asahi's Big Family"
    },
    "contentRating": "safe",
-   "score": 0.25931752
+   "score": 0.253624
   },
   {
    "id": "676dd3ab-98a5-4fd4-8a26-bd78a604d329",
@@ -65,26 +65,7 @@
     "en": "Yurumates"
    },
    "contentRating": "safe",
-   "score": 0.25172582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5e900a31-b9f0-4a73-a913-7bd5726a2781",
-   "title": {
-    "en": "Henshuu Joou"
-   },
-   "contentRating": "safe",
-   "score": 0.24665137
-  },
-  {
-   "id": "be4148c6-0f0f-4415-95a9-a1ad56f6e0a7",
-   "title": {
-    "en": "Poison Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.24619061,
+   "score": 0.24748583,
    "languages": [
     "en"
    ]
@@ -95,7 +76,7 @@
     "en": "One Generation of Aquarium idiots"
    },
    "contentRating": "safe",
-   "score": 0.23910452
+   "score": 0.2372986
   },
   {
    "id": "ce7ce4e7-ca6a-40e6-be32-e3bcc00cbf7a",
@@ -103,23 +84,7 @@
     "en": "Onboro Hana Heim"
    },
    "contentRating": "safe",
-   "score": 0.23882715
-  },
-  {
-   "id": "abd8ae60-ddb2-4604-9bc7-bb599be95b2a",
-   "title": {
-    "en": "Zannen Nikushoku Usako-san"
-   },
-   "contentRating": "safe",
-   "score": 0.23833956
-  },
-  {
-   "id": "7b1d82e8-6a22-4647-a9b7-33f44967f8c3",
-   "title": {
-    "en": "Kokuei Yako no Chuu Zainichi Shi"
-   },
-   "contentRating": "safe",
-   "score": 0.237062
+   "score": 0.23706901
   },
   {
    "id": "f84d770c-bdf4-435d-b299-7d0417570707",
@@ -138,13 +103,51 @@
    "score": 0.23406628
   },
   {
-   "id": "3173ceb6-5116-4109-b6a2-420f0f3b05a5",
+   "id": "be4148c6-0f0f-4415-95a9-a1ad56f6e0a7",
    "title": {
-    "en": "Kosho 19 sai"
+    "en": "Poison Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.23055206,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9262b4c8-5a48-48d3-8e29-67b6cd8dfcb8",
+   "title": {
+    "en": "Dress up Cospy-chan"
    },
    "contentRating": "safe",
    "score": 0.22973497
+  },
+  {
+   "id": "5d9178ce-4f87-41c8-8ccf-c4cfe1345028",
+   "title": {
+    "en": "Tabata-chan School"
+   },
+   "contentRating": "safe",
+   "score": 0.22973497
+  },
+  {
+   "id": "3758b888-5faf-4f82-b3cc-d3b9faa5713d",
+   "title": {
+    "en": "Ji-Ran"
+   },
+   "contentRating": "safe",
+   "score": 0.22973497
+  },
+  {
+   "id": "6968e4a5-4ac5-4222-93d3-772ee57ad893",
+   "title": {
+    "en": "Free!"
+   },
+   "contentRating": "safe",
+   "score": 0.22973497,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-13T20:42:52+00:00"
+ "updatedAt": "2024-11-15T20:30:54+00:00"
 }

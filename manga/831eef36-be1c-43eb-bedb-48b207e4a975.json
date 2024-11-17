@@ -3,17 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Burazamurai"
+   "en": "Rogue Samurai"
   },
   "altTitles": [
    {
-    "en": "Rogue Samurai"
+    "ja": "無頼侍"
+   },
+   {
+    "ja-ro": "Burazamurai"
+   },
+   {
+    "en": "Scoundrel Samurai"
    },
    {
     "en": "Villain Samurai"
-   },
-   {
-    "ja": "ぶらざむらい"
    },
    {
     "zh-hk": "無頼侍"
@@ -23,14 +26,22 @@
    "en": "Suzumori Ganjuurou is a swordless samurai wandering around with nowhere to go until he stumbles across a wanted poster in the woods. To his fortune (or ill-fate), he crosses paths with the very man that everyone wants to kill—the Sister Slayer."
   },
   "links": {
+   "al": "115369",
+   "amz": "https://www.amazon.co.jp/dp/B074CL18BG",
+   "ap": "rogue-samurai",
+   "bw": "series/23498",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/332352/",
    "engtl": "https://comics.inkr.com/title/924-rogue-samurai?utm_source=mgd",
+   "mal": "109459",
    "mu": "26016"
   },
   "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "24",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2004,
-  "contentRating": "safe",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
   ],
@@ -86,9 +97,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 9,
   "createdAt": "2020-12-23T23:57:32+00:00",
-  "updatedAt": "2022-11-18T05:10:56+00:00"
+  "updatedAt": "2024-11-13T20:51:41+00:00"
  },
  "relationships": [
   {
@@ -96,7 +107,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 鈴木マサカズ"
+     "en": "**Name In Native Language:** 鈴木マサカズ\n\nCompositor for [Even Still, Children Love Their Parents](https://mangadex.org/title/90a9f0ec-b837-48b1-a252-94c2b9fc7b54)."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -112,8 +123,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/suzukimasakazu",
-    "updatedAt": "2024-10-11T08:16:37+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-14T01:15:40+00:00",
+    "version": 4,
     "website": "http://suzukimasakazu.com/",
     "weibo": null,
     "youtube": null
@@ -124,7 +135,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 鈴木マサカズ"
+     "en": "**Name In Native Language:** 鈴木マサカズ\n\nCompositor for [Even Still, Children Love Their Parents](https://mangadex.org/title/90a9f0ec-b837-48b1-a252-94c2b9fc7b54)."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -140,24 +151,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/suzukimasakazu",
-    "updatedAt": "2024-10-11T08:16:37+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-14T01:15:40+00:00",
+    "version": 4,
     "website": "http://suzukimasakazu.com/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "7a4cd24e-ec48-4f28-9cf8-b8571995f90d",
+   "id": "aabdeffe-e2c7-4ac1-85d7-6555068914fd",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:23:59+00:00",
+    "createdAt": "2024-11-13T17:59:50+00:00",
     "description": "",
-    "fileName": "24962f63-0c49-4e7c-a178-4b8ba67be26b.jpg",
+    "fileName": "58222f1e-9a14-454d-a4da-43fb128190f1.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:23:59+00:00",
+    "updatedAt": "2024-11-13T17:59:50+00:00",
     "version": 1,
-    "volume": null
+    "volume": "3"
    }
   }
  ]

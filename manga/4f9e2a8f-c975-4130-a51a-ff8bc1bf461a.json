@@ -7,7 +7,7 @@
   },
   "altTitles": [
    {
-    "en": "ダメBL"
+    "ja": "ダメBL"
    }
   ],
   "description": {
@@ -17,14 +17,17 @@
    "al": "69557",
    "amz": "https://www.amazon.co.jp/dp/4893087606",
    "ap": "dame-bl",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1047292",
    "kt": "19331",
    "mal": "39557",
-   "mu": "79620"
+   "mu": "79620",
+   "raw": "https://www.cmoa.jp/title/73889/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "14",
   "status": "completed",
+  "year": 2011,
   "contentRating": "erotica",
   "availableTranslatedLanguages": [
    "en",
@@ -142,9 +145,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2018-08-15T03:50:49+00:00",
-  "updatedAt": "2021-05-25T15:42:16+00:00"
+  "updatedAt": "2024-11-15T04:20:26+00:00"
  },
  "relationships": [
   {
@@ -361,7 +364,9 @@
    "id": "dcc3e5cb-ec98-423c-a90b-67877b1b078f",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n雲田はるこ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -375,10 +380,10 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/KUMOHARU",
+    "updatedAt": "2024-11-15T04:15:36+00:00",
+    "version": 2,
+    "website": "http://kumotaharuko.jugem.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -675,7 +680,9 @@
    "id": "dcc3e5cb-ec98-423c-a90b-67877b1b078f",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n雲田はるこ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -689,10 +696,10 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/KUMOHARU",
+    "updatedAt": "2024-11-15T04:15:36+00:00",
+    "version": 2,
+    "website": "http://kumotaharuko.jugem.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -783,9 +790,9 @@
     "description": "",
     "fileName": "cfc315f0-65ea-47b7-ba31-94411c5ed428.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:41:57+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-15T04:20:26+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

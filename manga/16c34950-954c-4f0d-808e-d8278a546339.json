@@ -10,10 +10,13 @@
     "ja": "数分後の未来が分かるようになったけど、女心は分からない。"
    },
    {
-    "ja-ro": "Sūfungo no Mirai ga Wakaru Yō ni Natta Kedo, Onnagokoro ha Wakaranai."
+    "ja-ro": "Suufungo no Mirai ga Wakaru You ni Natta Kedo, Onnagokoro ha Wakaranai."
    },
    {
     "en": "I Can Now See a Few Minutes Into the Future, but I Still Can't Understand a Woman's Heart."
+   },
+   {
+    "en": "I Can See a Few Minutes Into the Future, but I Don’t Know What a Woman's Mind Is Like"
    },
    {
     "id": "Sekarang saya dapat melihat masa depan dalam beberapa menit, tetapi saya tidak dapat memahami hati seorang wanita."
@@ -25,7 +28,10 @@
    "ja": "伊藤新世は数分後の未来が分かる。ただし視える未来は不幸につながるもの。\nお人好しな新世はそんな不都合な未来を回避し、様々な悩みを持つ少女を助けることになる。\n新世は知らない。いつの間にか、少女たちに好かれていることに。\n新世は気づかない。人知れず、少女たちが争っていることに。"
   },
   "links": {
-   "raw": "https://comic-walker.com/detail/KC_005690_S/episodes/KC_0056900000700021_E?episodeType=latest\u0026fbclid=IwY2xjawGc4m1leHRuA2FlbQIxMAABHegWs5X-JPpRiF3smakv25OI4AVEhD8bqUOs9vXL1KIX_JnFqQ4kHSbaUQ_aem_2SNVYULun3Abhza_b1fZ3A"
+   "mal": "176205",
+   "mu": "6et7o73",
+   "nu": "i-can-see-a-few-minutes-into-the-future-but-i-dont-know-what-a-womans-mind-is-like",
+   "raw": "https://comic-walker.com/detail/KC_005690_S?episodeType=first"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
@@ -33,9 +39,10 @@
   "year": 2024,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "id"
+   "id",
+   "en"
   ],
-  "latestUploadedChapter": "89908d84-1e4a-414f-9209-53d946bb38df",
+  "latestUploadedChapter": "044623a7-b3d9-4c6e-97ee-dbf374c7f8e5",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -72,37 +79,61 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 10,
   "createdAt": "2024-11-10T00:54:16+00:00",
-  "updatedAt": "2024-11-11T09:36:48+00:00"
+  "updatedAt": "2024-11-14T09:58:26+00:00"
  },
  "relationships": [
   {
-   "id": "1459d711-c584-4594-9bb5-bbbe646b69cc",
+   "id": "cf0872ad-dcb7-466b-bbf0-d158d454e49c",
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Circle**: [YOU2HP](https://mangadex.org/author/b97e8923-aacf-4cd0-b05f-f7205c416921)"
+     "en": "**Also Known As:** Mitsuya Saida (みつやさいだ)\n\n**Other Sites:**\n- [Kakuyomu](https://kakuyomu.jp/users/light1534)"
     },
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2024-11-14T03:03:52+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "You2",
+    "name": "mty",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": "https://twitter.com/kazuma2y",
-    "updatedAt": "2023-06-29T03:54:21+00:00",
-    "version": 3,
+    "twitter": "https://twitter.com/mitsuya_cida",
+    "updatedAt": "2024-11-14T03:27:59+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -113,7 +144,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Circle**: [YOU2HP](https://mangadex.org/author/b97e8923-aacf-4cd0-b05f-f7205c416921)"
+     "en": "**Other Sites:**\n- [MangaFolio](https://manga-no.com/@You2/mangafolio)\n\nNot to be confused with [YOU2](https://mangadex.org/author/0f7d4b8f-c461-4c55-9b80-fb89da0f8f0b)."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -125,28 +156,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/4033052",
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/kazuma2y",
-    "updatedAt": "2023-06-29T03:54:21+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-14T03:19:14+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "06a4eb0f-138c-45fa-9393-aa20db091362",
+   "id": "24a87acb-c405-4f59-bdb2-a234744c5587",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-10T00:54:17+00:00",
-    "description": "",
-    "fileName": "1d4aaf95-0181-4273-a5d9-8bbde0682eb8.jpg",
+    "createdAt": "2024-11-14T03:07:11+00:00",
+    "description": "pixiv Comic thumbnail\r\nhttps://comic.pixiv.net/works/10673",
+    "fileName": "9caa16b1-591a-45a1-b5a6-1210316c4ce5.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-10T00:54:17+00:00",
+    "updatedAt": "2024-11-14T03:07:11+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": null
    }
   },
   {

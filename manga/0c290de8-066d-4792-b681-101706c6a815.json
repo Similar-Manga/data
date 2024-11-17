@@ -3,12 +3,28 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "JYOJIZM SUMMER"
+   "en": "JYOJIZM SEASON"
   },
+  "altTitles": [
+   {
+    "ja": "JYOJIZM SUMMER"
+   },
+   {
+    "ja": "JYOJIZM WINTER"
+   },
+   {
+    "ja": "JYOJIZM SPRING"
+   },
+   {
+    "ja": "JYOJIZM AUTUMN"
+   }
+  ],
   "description": {
-   "en": ""
+   "en": "1. JYOJIZM SUMMER (C94) \n2. JYOJIZM AFTER SUMMER \n3. JYOJIZM WINTER (C95) \n4. JYOJIZM AFTER WINTER\n5. JYOJIZM SPRING (COMIC 1⭐15) \n6. JYOJIZM AFTER SPRING\n7. JYOJIZM AUTUMN (C97) \n8. JYOJIZM AFTER AUTUMN"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "8",
   "status": "completed",
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
@@ -42,11 +58,37 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2020-02-05T13:29:24+00:00",
-  "updatedAt": "2021-05-25T15:39:21+00:00"
+  "updatedAt": "2024-11-14T00:47:42+00:00"
  },
  "relationships": [
+  {
+   "id": "7a2f050f-9bdd-4866-9ffd-d4933fd98a1d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Uousaohkoku (circle) ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-14T00:31:29+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "ed9f0dac-1b76-4780-b80e-f76b4ed34dde",
    "type": "author",
@@ -68,6 +110,32 @@
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7a2f050f-9bdd-4866-9ffd-d4933fd98a1d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Uousaohkoku (circle) ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-14T00:31:29+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -100,16 +168,16 @@
    }
   },
   {
-   "id": "8b4cda67-835e-4f19-9233-5069cc48da89",
+   "id": "4c5cf99a-ca1e-4f59-b312-2da45a58049e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:43:49+00:00",
+    "createdAt": "2024-11-14T00:47:42+00:00",
     "description": "",
-    "fileName": "e96b00fb-d804-45d8-b28e-28b988abbefe.jpg",
+    "fileName": "795ff62b-57ea-4b02-88f8-e12b33c7a2a1.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:43:49+00:00",
+    "updatedAt": "2024-11-14T00:47:42+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

@@ -1,0 +1,146 @@
+{
+ "id": "8117fa0c-9844-488e-9972-1df988eae2fd",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Watashi no Kizu wa Shinde mo Kesanai"
+  },
+  "altTitles": [
+   {
+    "ja": "私の傷は死んでも消さない"
+   }
+  ],
+  "description": {
+   "ja": "軒下山猫には、二人の幼馴染みがいる。一人は、ある事件で額を傷つけてしまい、「一生責任を取る」ことを誓った女子大生・野鼠。もう一人は、ちっちゃい体のマスコット的な同級生・豆柴。時に三人で遊び仲良くしていた彼らだったのだが、高校二年になったある日、豆柴の家を訪れると様子が……。この日を境に山猫の人生が加速する！"
+  },
+  "links": {
+   "al": "111264",
+   "amz": "https://www.amazon.co.jp/dp/B08L7924HL",
+   "ap": "watashi-no-kizu-wa-shinde-mo-kesanai",
+   "bw": "series/237096",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/578864",
+   "mal": "133091",
+   "mu": "lrwa6sv"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "21",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2019,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-15T15:39:11+00:00",
+  "updatedAt": "2024-11-15T15:39:27+00:00"
+ },
+ "relationships": [
+  {
+   "id": "292c388a-6de5-49ca-ae77-5f6f6c10843b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hikagi Tatsuhiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "292c388a-6de5-49ca-ae77-5f6f6c10843b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hikagi Tatsuhiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7b8e6c1d-8eab-480f-8607-a060d43699bb",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-15T15:39:18+00:00",
+    "description": "",
+    "fileName": "072e918e-fcb7-41e3-88a4-68a8d0c36531.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-15T15:39:18+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

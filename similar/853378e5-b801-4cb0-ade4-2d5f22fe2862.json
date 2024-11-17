@@ -11,7 +11,7 @@
     "en": "Sore Hodo Hima De Wa Arimasen."
    },
    "contentRating": "safe",
-   "score": 0.3706617,
+   "score": 0.37065825,
    "languages": [
     "en",
     "es-la"
@@ -23,7 +23,7 @@
     "en": "The Long Summer of August 31"
    },
    "contentRating": "safe",
-   "score": 0.3120592,
+   "score": 0.31205308,
    "languages": [
     "ru",
     "vi",
@@ -36,7 +36,7 @@
     "en": "Are You A Cat?"
    },
    "contentRating": "safe",
-   "score": 0.29655543,
+   "score": 0.2965539,
    "languages": [
     "en"
    ]
@@ -47,7 +47,7 @@
     "en": "Club 9"
    },
    "contentRating": "safe",
-   "score": 0.29596636,
+   "score": 0.29596618,
    "languages": [
     "en"
    ]
@@ -58,7 +58,7 @@
     "en": "Ame to Kimi to"
    },
    "contentRating": "safe",
-   "score": 0.29273924,
+   "score": 0.2927241,
    "languages": [
     "en",
     "pl",
@@ -67,17 +67,6 @@
     "id",
     "fr",
     "vi"
-   ]
-  },
-  {
-   "id": "e2435e7e-3be4-4de8-9292-59753b597c31",
-   "title": {
-    "en": "Hokuriku Triangle"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -104,17 +93,6 @@
    ]
   },
   {
-   "id": "b1a6ffb2-7dab-40ab-bc0f-908cecdc42b4",
-   "title": {
-    "en": "Nico Nicholson no Manga Doujouyaburi"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c4c156fd-2478-462f-bd33-756521cdc5e5",
    "title": {
     "en": "Flat \u0026 Flow"
@@ -126,15 +104,30 @@
    ]
   },
   {
-   "id": "9378c75e-4cd7-4c6a-8ee3-7bbfb4f3ee54",
+   "id": "b1a6ffb2-7dab-40ab-bc0f-908cecdc42b4",
    "title": {
-    "en": "Shima-san"
+    "en": "Nico Nicholson no Manga Doujouyaburi"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "52d4ad1e-d02c-4fef-81d6-1e758e699d31",
+   "title": {
+    "en": "Hatarakanai Futari"
    },
    "contentRating": "safe",
    "score": 0.28508148,
    "languages": [
     "en",
-    "zh"
+    "es-la",
+    "pl",
+    "pt-br",
+    "tr",
+    "es"
    ]
   },
   {
@@ -161,22 +154,6 @@
    ]
   },
   {
-   "id": "52d4ad1e-d02c-4fef-81d6-1e758e699d31",
-   "title": {
-    "en": "Hatarakanai Futari"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en",
-    "es-la",
-    "pl",
-    "pt-br",
-    "tr",
-    "es"
-   ]
-  },
-  {
    "id": "94c7c216-8925-4625-9f04-447cb434ac42",
    "title": {
     "en": "Ikioku - The Cooler Half"
@@ -185,6 +162,29 @@
    "score": 0.28508148,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e2435e7e-3be4-4de8-9292-59753b597c31",
+   "title": {
+    "en": "Hokuriku Triangle"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9378c75e-4cd7-4c6a-8ee3-7bbfb4f3ee54",
+   "title": {
+    "en": "Shima-san"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en",
+    "zh"
    ]
   },
   {
@@ -200,5 +200,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-13T21:29:01+00:00"
+ "updatedAt": "2024-11-15T21:10:17+00:00"
 }

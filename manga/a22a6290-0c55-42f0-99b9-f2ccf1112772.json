@@ -20,11 +20,16 @@
    "en": "Tribute book for the 45th anniversary of Kuramochi Fusako as an artist."
   },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/4088458877/",
    "bw": "de2b2b90c6-13ac-4eb0-bb2d-2cd18d203c1d",
-   "mu": "jwxywss"
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2171829",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/439456/",
+   "mu": "jwxywss",
+   "raw": "https://www.cmoa.jp/title/142588/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
+  "lastChapter": "27",
   "publicationDemographic": "shoujo",
   "status": "completed",
   "year": 2018,
@@ -48,9 +53,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2023-03-31T19:30:17+00:00",
-  "updatedAt": "2023-04-30T16:43:33+00:00"
+  "updatedAt": "2024-11-15T04:26:38+00:00"
  },
  "relationships": [
   {
@@ -301,7 +306,9 @@
    "id": "dcc3e5cb-ec98-423c-a90b-67877b1b078f",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n雲田はるこ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -315,10 +322,10 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/KUMOHARU",
+    "updatedAt": "2024-11-15T04:15:36+00:00",
+    "version": 2,
+    "website": "http://kumotaharuko.jugem.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -735,7 +742,9 @@
    "id": "dcc3e5cb-ec98-423c-a90b-67877b1b078f",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n雲田はるこ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -749,10 +758,10 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/KUMOHARU",
+    "updatedAt": "2024-11-15T04:15:36+00:00",
+    "version": 2,
+    "website": "http://kumotaharuko.jugem.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -814,14 +823,14 @@
    }
   },
   {
-   "id": "f9b33338-224e-48f1-916c-bb1019f3abe4",
+   "id": "a8330da4-ac3f-43f2-b2a8-0027c45f451d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-03-31T19:30:26+00:00",
+    "createdAt": "2024-11-15T04:26:38+00:00",
     "description": "",
-    "fileName": "ca7b247e-32c1-4f3a-bf7e-90a709e21072.jpg",
+    "fileName": "216016fa-cecd-4dab-a282-2f7b4ecb1829.jpg",
     "locale": "ja",
-    "updatedAt": "2023-03-31T19:30:26+00:00",
+    "updatedAt": "2024-11-15T04:26:38+00:00",
     "version": 1,
     "volume": "1"
    }

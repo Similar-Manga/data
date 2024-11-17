@@ -3,28 +3,36 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Fukushū Papa ~ Ijime Ribenjā ~"
+   "en": "Fukushuu Papa ~Ijime Revenger~"
   },
   "altTitles": [
    {
     "ja": "復讐パパ ～イジメ・リベンジャー～"
    },
    {
+    "ja-ro": "Fukushū Papa ~ Ijime Ribenjā ~"
+   },
+   {
     "en": "Papa's Revenge: Bullies Revenger"
+   },
+   {
+    "en": "Revenge Papa: Bullying Revenger"
    },
    {
     "ru": "Месть папы: Отмщение обидчикам"
    }
   ],
   "description": {
-   "en": "\"Your daughter has committed suicide,\" is the news an unremarkable middle-aged man Wataru Fukunaga receives and finds himself face to face with the unrecognizable body of his daughter. In search of the truth about her death, he discovers that she was murdered. However, in an attempt to get to the truth, Wataru himself becomes a victim. Unexpectedly, he wakes up in the past before the death of his daughter.",
+   "en": "\"Your daughter has committed suicide,\" is the news an unremarkable middle-aged man named Wataru Fukunaga receives, and soon after he finds himself face to face with the unrecognizable body of his daughter. In search of the truth about her death, he discovers that she was murdered. However, in an attempt to get to the truth, Wataru himself becomes a victim. Unexpectedly, he wakes up in the past before the death of his daughter.",
    "ja": "娘が自殺した―― その知らせを受けた冴えない中年男性、福永 渡は、変わり果てた娘の遺体と対面する。死の真相を探るうち、彼は娘が殺されたという事実に行き当たる。ところが、事実を究明しようとした渡は、何者かによって殺されてしまう。目を覚ました彼は、娘が殺される前にタイムリープしていた。",
    "ru": "\"Ваша дочь совершила самоубийство\", - такое известие получает ничем не примечательный мужчина средних лет Ватару Фукунага и оказывается лицом к лицу с неузнаваемым телом своей дочери. В поисках правды о её гибели, он обнаруживает, что её убили. Однако в попытке докопаться до истины, Ватару сам становится жертвой. Неожиданно для себя он просыпается в прошлом до момента смерти дочери."
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/-/en/諸星モヨヨ-ebook/dp/B0CS6B87H4/ref=sr_1_9?crid=2H8QWZ0NYKA43\u0026dib=eyJ2IjoiMSJ9.5UYCTr7JQmEJJV1hRotD26mWPISuyTkBhsLs6S3Lt1MmwZctCugDETqdEzscINLDpzU_pYyrwxASBjARII_7-aoVy_YRtAvL8F5eC6CuqV4KAkhf815xqK-4j48fbst0jYt5qLfsf1c4RyzrsJsoHg.kDqp2U0eIPEqZH1AX45ucBjJR-Gr7QtcER__DyYFdw0\u0026dib_tag=se\u0026keywords=復讐パパ+～イジメ・リベンジャー～\u0026qid=1718882167\u0026s=digital-text\u0026sprefix=復讐パパ+イジメ+リベンジャー+,digital-text,457\u0026sr=1-9",
+   "amz": "https://www.amazon.co.jp/-/en/諸星モヨヨ-ebook/dp/B0CS6B87H4",
    "bw": "def3059457-d583-4630-836e-913c8103edfa",
-   "mu": "i6pxpug"
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/807474/",
+   "mu": "i6pxpug",
+   "raw": "https://peep.jp/stories/9x3U12HdX1yQOUK8"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
@@ -32,9 +40,10 @@
   "year": 2023,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
+   "en",
    "ru"
   ],
-  "latestUploadedChapter": "d993c2b8-58af-4306-83cb-6a921074e2f6",
+  "latestUploadedChapter": "afeacedc-9a06-4f6a-9f59-8385341cc933",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -119,35 +128,49 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 14,
   "createdAt": "2024-06-20T11:17:40+00:00",
-  "updatedAt": "2024-07-02T22:05:03+00:00"
+  "updatedAt": "2024-11-14T15:55:59+00:00"
  },
  "relationships": [
   {
    "id": "b87ed6e2-ff67-44f5-8da8-c6c395686162",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 諸星モヨヨ"
+    },
     "booth": null,
     "createdAt": "2024-06-20T11:12:01+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "MOROBOSHI Moyoyo",
+    "name": "Moroboshi Moyoyo",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-06-20T11:12:01+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/Moyoyo_DAISUKI",
+    "updatedAt": "2024-11-14T16:05:36+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -157,23 +180,25 @@
    "id": "2ce3043a-0b51-41f0-a103-2f40cf7879cd",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Manga artist. Not to be confused with the TL \u0026 Josei manga artist [Maguro Ouji](https://mangadex.org/author/c00da6d4-bb03-4709-aa4e-fce07bd16960) (真黒皇子).\n\n**Native name**: 大路まぐろ\n\n**Alt. names**:\nOji Maguro\nOhji Maguro"
+    },
     "booth": null,
     "createdAt": "2024-06-20T11:12:25+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "OOJI Maguro",
+    "name": "Ooji Maguro",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-06-20T11:12:25+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/0ji_maguro",
+    "updatedAt": "2024-11-14T16:04:47+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -206,16 +231,16 @@
    }
   },
   {
-   "id": "904177d6-3d99-4b10-ba24-9f28fdfd1ba0",
+   "id": "31e99895-1ee9-417d-99ab-2549669951a9",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-06-20T11:37:38+00:00",
-    "description": "",
-    "fileName": "1b912b5f-41bb-445f-a7b1-d28168633a9a.jpg",
+    "createdAt": "2024-11-14T04:34:58+00:00",
+    "description": "Rensaiban Cover from BookLive replacing the previous 938x1500 cover, the cover for chapters 1-5",
+    "fileName": "f314c28d-c447-4104-ace0-84a465fc7889.jpg",
     "locale": "ja",
-    "updatedAt": "2024-06-20T11:37:38+00:00",
+    "updatedAt": "2024-11-14T04:34:58+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "0.01"
    }
   },
   {

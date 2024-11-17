@@ -11,7 +11,7 @@
     "en": "Stripe Blue"
    },
    "contentRating": "safe",
-   "score": 0.2772692,
+   "score": 0.27726945,
    "languages": [
     "en"
    ]
@@ -22,18 +22,7 @@
     "en": "Angel Voice"
    },
    "contentRating": "safe",
-   "score": 0.25293118,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "78297fda-eed3-441b-acc6-7bae697cd690",
-   "title": {
-    "en": "Dan Doh!!"
-   },
-   "contentRating": "safe",
-   "score": 0.24160752,
+   "score": 0.25293013,
    "languages": [
     "en"
    ]
@@ -42,6 +31,17 @@
    "id": "4ef96c2c-25e5-4e1a-bb21-90a36c25096a",
    "title": {
     "en": "Age!"
+   },
+   "contentRating": "safe",
+   "score": 0.24160752,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "78297fda-eed3-441b-acc6-7bae697cd690",
+   "title": {
+    "en": "Dan Doh!!"
    },
    "contentRating": "safe",
    "score": 0.24160752,
@@ -68,7 +68,7 @@
     "en": "Rangeman"
    },
    "contentRating": "safe",
-   "score": 0.23516412,
+   "score": 0.23516501,
    "languages": [
     "en"
    ]
@@ -79,7 +79,7 @@
     "en": "Hyoujou Fubu"
    },
    "contentRating": "safe",
-   "score": 0.23116562,
+   "score": 0.23116659,
    "languages": [
     "en"
    ]
@@ -116,7 +116,7 @@
     "en": "Winning Pass"
    },
    "contentRating": "safe",
-   "score": 0.21725233,
+   "score": 0.2172554,
    "languages": [
     "pt-br",
     "en",
@@ -129,7 +129,7 @@
     "en": "Sasameke"
    },
    "contentRating": "safe",
-   "score": 0.21329172,
+   "score": 0.21329278,
    "languages": [
     "en"
    ]
@@ -169,14 +169,17 @@
    ]
   },
   {
-   "id": "a0fac2ac-88d6-4998-b203-b041e31fe1ee",
+   "id": "66381aec-a89d-4b33-982b-cca9e87a1e9e",
    "title": {
-    "en": "Tsuruko Returns the Favor"
+    "en": "She Looks Especially Cute to Me"
    },
    "contentRating": "safe",
    "score": 0.21140657,
    "languages": [
-    "en"
+    "en",
+    "id",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -191,5 +194,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-13T20:37:40+00:00"
+ "updatedAt": "2024-11-15T20:26:03+00:00"
 }

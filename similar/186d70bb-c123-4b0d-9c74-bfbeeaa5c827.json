@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "637b4eab-d063-4ff6-ba64-6e93d2e7775e",
+   "title": {
+    "en": "Cosmos"
+   },
+   "contentRating": "safe",
+   "score": 0.28594014,
+   "languages": [
+    "pl",
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "819eccad-1c98-4a40-8483-d8b343081d91",
    "title": {
     "en": "The Plague"
    },
    "contentRating": "safe",
-   "score": 0.27332768,
+   "score": 0.24309444,
    "languages": [
     "en"
    ]
@@ -22,40 +35,7 @@
     "en": "No Country for Zombie"
    },
    "contentRating": "safe",
-   "score": 0.26561156,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "17364102-554c-4dba-804e-b47be457e600",
-   "title": {
-    "en": "Star Ocean - To the Far Side of Time"
-   },
-   "contentRating": "safe",
-   "score": 0.23692876,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "06a45b72-842a-42fb-9b31-bcb835d99e3d",
-   "title": {
-    "en": "Stay in This Century"
-   },
-   "contentRating": "safe",
-   "score": 0.21959852,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ad51836-dd62-41e5-8e4f-3ca375d66ca0",
-   "title": {
-    "en": "The God of Plague and The Flower"
-   },
-   "contentRating": "safe",
-   "score": 0.21419266,
+   "score": 0.241259,
    "languages": [
     "en"
    ]
@@ -72,12 +52,12 @@
    ]
   },
   {
-   "id": "695ec8bf-b7db-4fb2-987e-a8edcee2b567",
+   "id": "17364102-554c-4dba-804e-b47be457e600",
    "title": {
-    "en": "A Cure for Killing"
+    "en": "Star Ocean - To the Far Side of Time"
    },
    "contentRating": "safe",
-   "score": 0.20735748,
+   "score": 0.21069843,
    "languages": [
     "en"
    ]
@@ -88,23 +68,9 @@
     "en": "Broken Elysium"
    },
    "contentRating": "safe",
-   "score": 0.2001598,
+   "score": 0.19774224,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "cb217579-43e6-4510-b38d-e28f3e907b93",
-   "title": {
-    "en": "Trace of Doomsday"
-   },
-   "contentRating": "safe",
-   "score": 0.19661461,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "id"
    ]
   },
   {
@@ -119,46 +85,60 @@
    ]
   },
   {
+   "id": "b0ef5ddb-97a9-4982-a1b4-6f87e8209ab0",
+   "title": {
+    "en": "Tokyo Doragon Naito"
+   },
+   "contentRating": "safe",
+   "score": 0.19371895,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "c4b1cb49-46e9-405d-8b48-8104de22e659",
+   "title": {
+    "en": "COSMOS"
+   },
+   "contentRating": "safe",
+   "score": 0.18921092,
+   "languages": [
+    "es",
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "06a45b72-842a-42fb-9b31-bcb835d99e3d",
+   "title": {
+    "en": "Stay in This Century"
+   },
+   "contentRating": "safe",
+   "score": 0.18818662,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4ad51836-dd62-41e5-8e4f-3ca375d66ca0",
+   "title": {
+    "en": "The God of Plague and The Flower"
+   },
+   "contentRating": "safe",
+   "score": 0.1857226,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "abbaa22a-25a1-434d-84ff-d8c960b2bf79",
    "title": {
     "en": "White bears"
    },
    "contentRating": "safe",
-   "score": 0.19248748,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0c4fc52c-a093-464d-937d-f245c70ee530",
-   "title": {
-    "en": "Late Winter"
-   },
-   "contentRating": "safe",
-   "score": 0.18805481,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "6646ba6a-1a79-4d2e-ad74-680123271b5a",
-   "title": {
-    "en": "Shinano River"
-   },
-   "contentRating": "safe",
-   "score": 0.18792385,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "467eee07-6c0b-49c5-a1bf-2b5d8686d514",
-   "title": {
-    "en": "Doom Spore"
-   },
-   "contentRating": "safe",
-   "score": 0.18452053,
+   "score": 0.18400235,
    "languages": [
     "en"
    ]
@@ -184,7 +164,32 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "cb217579-43e6-4510-b38d-e28f3e907b93",
+   "title": {
+    "en": "Trace of Doomsday"
+   },
+   "contentRating": "safe",
+   "score": 0.18326889,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "c1239252-3f81-44cd-834c-ee9ab58daf32",
+   "title": {
+    "en": "The Metabaron"
+   },
+   "contentRating": "safe",
+   "score": 0.1778557,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-13T20:31:35+00:00"
+ "updatedAt": "2024-11-15T20:20:48+00:00"
 }

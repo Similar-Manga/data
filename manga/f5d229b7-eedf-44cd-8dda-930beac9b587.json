@@ -3,22 +3,33 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Ginza Karamaru Hyakkaten Okyaku-sama Soudanshitsu"
+   "en": "Ginza Karamaru Department Store Customer Service Center"
   },
   "altTitles": [
    {
-    "en": "銀座からまる百貨店 お客様相談室"
+    "ja": "銀座からまる百貨店お客様相談室"
+   },
+   {
+    "ja-ro": "Ginza Karamaru Hyakkaten Okyaku-sama Soudanshitsu"
+   },
+   {
+    "ja-ro": "Ginza Karamaru Hyakkaten Okyakusamasoudanshitsu"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "links": {
-   "mu": "125324"
+   "amz": "https://www.amazon.co.jp/dp/B075LLRYQM",
+   "bw": "series/59277",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/345327/",
+   "mu": "vbky8gt",
+   "raw": "https://comic-days.com/episode/10834108156631821653"
   },
   "originalLanguage": "ja",
+  "lastVolume": "5",
+  "lastChapter": "44",
   "publicationDemographic": "seinen",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2015,
   "contentRating": "safe",
   "tags": [
    {
@@ -35,16 +46,18 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2018-11-23T16:56:26+00:00",
-  "updatedAt": "2018-11-23T16:56:26+00:00"
+  "updatedAt": "2024-11-14T01:44:26+00:00"
  },
  "relationships": [
   {
    "id": "4b1e4a37-59bb-4809-bb15-08b70b3e54a6",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 関根眞一\n\n**Other Romanization:** Sekine Shin'ichi"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -59,8 +72,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-14T01:48:21+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -71,7 +84,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 鈴木マサカズ"
+     "en": "**Name In Native Language:** 鈴木マサカズ\n\nCompositor for [Even Still, Children Love Their Parents](https://mangadex.org/title/90a9f0ec-b837-48b1-a252-94c2b9fc7b54)."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -87,24 +100,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/suzukimasakazu",
-    "updatedAt": "2024-10-11T08:16:37+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-14T01:15:40+00:00",
+    "version": 4,
     "website": "http://suzukimasakazu.com/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "c1a97394-4c32-4f7d-8862-5080faee9bec",
+   "id": "887d5b14-2065-4988-b357-0c9047b818eb",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:52:28+00:00",
+    "createdAt": "2024-11-14T01:44:21+00:00",
     "description": "",
-    "fileName": "ee738e67-900e-4a8f-8016-c7e55b270e05.jpg",
+    "fileName": "dd4a0004-3f53-4756-80cf-334d034e98d3.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:52:28+00:00",
+    "updatedAt": "2024-11-14T01:44:21+00:00",
     "version": 1,
-    "volume": null
+    "volume": "5"
    }
   }
  ]

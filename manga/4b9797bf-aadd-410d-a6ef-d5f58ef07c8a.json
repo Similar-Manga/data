@@ -8,17 +8,33 @@
   "altTitles": [
    {
     "en": "Don't Take Care Of Me, Flan Onee-chan! (Touhou Project)"
+   },
+   {
+    "ja": "(例大祭13) お世話しないでっフランお姉ちゃん! (東方Project)"
    }
   ],
   "description": {},
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2016,
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "6864e766-b439-4db2-82a0-767aba545417",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
     "type": "tag",
@@ -45,9 +61,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2020-01-14T05:53:31+00:00",
-  "updatedAt": "2022-02-24T23:25:49+00:00"
+  "updatedAt": "2024-11-14T04:54:57+00:00"
  },
  "relationships": [
   {
@@ -77,6 +93,32 @@
    }
   },
   {
+   "id": "f6fd169c-71aa-4569-8587-829327d7ce58",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Anmitsuyomogitei (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "ac8f73b2-7f99-427b-864f-c79e49db3c94",
    "type": "artist",
    "attributes": {
@@ -88,6 +130,32 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Michiking",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f6fd169c-71aa-4569-8587-829327d7ce58",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Anmitsuyomogitei (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,

@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "bb9d7179-8465-45ea-9806-215b38f2be7d",
-   "title": {
-    "en": "Onihime"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2f86d265-fc88-41db-929e-5dab9ac74352",
    "title": {
     "en": "Mario"
@@ -34,12 +23,23 @@
    ]
   },
   {
+   "id": "bb9d7179-8465-45ea-9806-215b38f2be7d",
+   "title": {
+    "en": "Onihime"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "d139f4b1-b782-4fdd-b006-35520f14a847",
    "title": {
     "en": "Sekishin"
    },
    "contentRating": "safe",
-   "score": 0.24607413,
+   "score": 0.24607627,
    "languages": [
     "en"
    ]
@@ -50,7 +50,7 @@
     "en": "Goblin Knight"
    },
    "contentRating": "safe",
-   "score": 0.23531024,
+   "score": 0.23531182,
    "languages": [
     "en"
    ]
@@ -87,7 +87,7 @@
     "en": "Minds"
    },
    "contentRating": "safe",
-   "score": 0.23103051,
+   "score": 0.2310256,
    "languages": [
     "en",
     "tr",
@@ -100,7 +100,7 @@
     "en": "Mobile Fighter G Gundam Side Story: The Next Generation"
    },
    "contentRating": "safe",
-   "score": 0.2308454,
+   "score": 0.23084167,
    "languages": [
     "en"
    ]
@@ -114,6 +114,17 @@
    "score": 0.21428573,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
+   "title": {
+    "en": "Chingiri"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
     "en"
    ]
   },
@@ -146,29 +157,6 @@
    ]
   },
   {
-   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
-   "title": {
-    "en": "Chingiri"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
-   "title": {
-    "en": "Monster and Child"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en",
-    "de"
-   ]
-  },
-  {
    "id": "c3f01e7a-01e0-4889-90bf-e4850881c980",
    "title": {
     "en": "Tiger Dragon Brothers"
@@ -182,6 +170,18 @@
     "uk",
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "6bbfb41e-d945-445d-b4f7-67a8ba7e8b98",
+   "title": {
+    "en": "Monster and Child"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en",
+    "de"
    ]
   },
   {
@@ -204,11 +204,11 @@
     "en": "Parasite B"
    },
    "contentRating": "safe",
-   "score": 0.20527864,
+   "score": 0.20528066,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-13T21:38:55+00:00"
+ "updatedAt": "2024-11-15T21:20:06+00:00"
 }

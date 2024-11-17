@@ -1,0 +1,140 @@
+{
+ "id": "c2e231b6-3da8-446a-8563-287d9c93af9b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Koyoi mo Ore wa Joshikousei to Zassou (Bansan) wo Sagasu"
+  },
+  "altTitles": [
+   {
+    "ja": "今宵も俺は女子高生と雑草（晩餐）を探す, 今宵も俺は女子高生と雑草（晩餐）を探す"
+   },
+   {
+    "en": "Tonight, I’m searching for wild grasses (dinner) with a high school girl"
+   }
+  ],
+  "description": {
+   "en": "Shuichiro Sakurano is an honor student who is relied upon by everyone, and has been active in the company since his first year at the company. However, he makes a big mistake and ends up voluntarily resigning… Having run out of savings and feeling desperate, Shuichiro reaches out to eat some weeds on the side of the road, but then a high school girl who makes a living by streaming videos appears. sunflower. I thought she would stop me, but for some reason she recommended another weed! ?As they go on an “exploration” to find ingredients in weeds and nearby rivers, the two gradually become attracted to each other.A pure love comedy with an age difference that also features a super popular biology YouTuber!"
+  },
+  "links": {
+   "mu": "ia3yk74"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-11-15T14:48:09+00:00",
+  "updatedAt": "2024-11-15T18:04:03+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f50e5988-d16a-45c0-a6b4-bda4409bc6a8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-15T14:40:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "HINOKAGE Sora",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-15T14:40:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "88876654-37a3-4be5-9f70-e65a68101e64",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-15T14:41:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motokazu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-15T14:41:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c88e5f2d-88e4-491c-8a0d-1304547b4a09",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-15T14:48:14+00:00",
+    "description": "",
+    "fileName": "a76d9cd6-23c1-409e-96fe-0031cebd8a33.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-15T14:48:14+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "fd5c78e1-8a23-4f9c-aa8d-8a6b58b8b7e5",
+   "type": "creator"
+  }
+ ]
+}

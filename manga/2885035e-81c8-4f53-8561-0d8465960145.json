@@ -3,11 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Souda Kazuichi in the Despair-Inducing Causality"
+   "en": "Super Danganronpa 2 - Zetsubouteki Ingaritsu no Naka no Souda Kazuichi"
   },
   "altTitles": [
    {
-    "ja-ro": "Zetsubouteki Ingaritsu no Naka no Souda Kazuichi"
+    "ja": "スーパーダンガンロンパ２ 絶望的因果律の中の左右田和一"
+   },
+   {
+    "ja-ro": "Super Danganronpa 2: Zetsubouteki Ingaritsu no Naka no Souda Kazuichi"
+   },
+   {
+    "en": "Super Danganronpa 2: Kazuichi Souda in the Middle of Despair-Inducing Causality"
+   },
+   {
+    "en": "Souda Kazuichi in the Despair-Inducing Causality"
    }
   ],
   "description": {
@@ -68,9 +77,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2024-11-12T03:15:10+00:00",
-  "updatedAt": "2024-11-12T22:37:45+00:00"
+  "updatedAt": "2024-11-14T02:08:43+00:00"
  },
  "relationships": [
   {
@@ -189,6 +198,11 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "b7278172-1c27-4d1a-9f7f-a35a10776631",
+   "type": "manga",
+   "related": "alternate_story"
   },
   {
    "id": "c56ac4a3-b429-4bb2-b0d8-8c3f64cdb23b",

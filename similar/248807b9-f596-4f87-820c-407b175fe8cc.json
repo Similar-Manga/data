@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "2a9c293f-9513-40ed-ae1b-fe84221ada28",
-   "title": {
-    "en": "Shiro to Kujira"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
    "id": "980e8042-e420-476d-afa7-f7f5d3c512ea",
    "title": {
     "en": "Miyakawa-ke no Kuufuku"
@@ -27,6 +16,17 @@
     "en",
     "it",
     "pt-br"
+   ]
+  },
+  {
+   "id": "2a9c293f-9513-40ed-ae1b-fe84221ada28",
+   "title": {
+    "en": "Shiro to Kujira"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "zh"
    ]
   },
   {
@@ -81,7 +81,7 @@
     "en": "Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.17765675,
+   "score": 0.17765091,
    "languages": [
     "es-la",
     "en",
@@ -124,19 +124,18 @@
    ]
   },
   {
-   "id": "157ab2cc-1fc7-4b29-8955-72d94a140982",
+   "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
    "title": {
-    "en": "Kesa Mo Yuraretemasu"
+    "en": "TakuTore!"
    },
    "contentRating": "safe",
    "score": 0.16835876,
    "languages": [
-    "vi",
     "pt-br",
+    "it",
+    "id",
     "en",
-    "zh",
-    "fr",
-    "id"
+    "es-la"
    ]
   },
   {
@@ -153,17 +152,20 @@
    ]
   },
   {
-   "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
+   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
    "title": {
-    "en": "TakuTore!"
+    "en": "My Clueless First Friend"
    },
    "contentRating": "safe",
    "score": 0.16835876,
    "languages": [
-    "pt-br",
-    "it",
-    "id",
     "en",
+    "uk",
+    "pt-br",
+    "ru",
+    "it",
+    "vi",
+    "id",
     "es-la"
    ]
   },
@@ -229,24 +231,6 @@
    ]
   },
   {
-   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
-   "title": {
-    "en": "My Clueless First Friend"
-   },
-   "contentRating": "safe",
-   "score": 0.16835876,
-   "languages": [
-    "en",
-    "uk",
-    "pt-br",
-    "ru",
-    "vi",
-    "it",
-    "id",
-    "es-la"
-   ]
-  },
-  {
    "id": "6d0eda24-34c6-43a3-91ea-d9444c2c44b1",
    "title": {
     "en": "Kirisaki Karin wa Korosasenai"
@@ -258,12 +242,28 @@
    ]
   },
   {
+   "id": "157ab2cc-1fc7-4b29-8955-72d94a140982",
+   "title": {
+    "en": "Kesa Mo Yuraretemasu"
+   },
+   "contentRating": "safe",
+   "score": 0.16835876,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "zh",
+    "fr",
+    "id"
+   ]
+  },
+  {
    "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
    "title": {
     "en": "Asaoka High School Baseball Team Journal - Over Fence"
    },
    "contentRating": "safe",
-   "score": 0.1603893,
+   "score": 0.1603877,
    "languages": [
     "it",
     "pt-br",
@@ -271,5 +271,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-13T20:38:04+00:00"
+ "updatedAt": "2024-11-15T20:26:24+00:00"
 }

@@ -6,28 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "6eff7a67-84a9-4355-8fb0-aa44c6913165",
-   "title": {
-    "en": "Eikyuu Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.33250526,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
    "id": "2f3fbc84-df09-4913-ad2e-436aa52a7177",
    "title": {
     "en": "Champignon no Majo"
    },
    "contentRating": "safe",
-   "score": 0.33101743,
+   "score": 0.33099106,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "6eff7a67-84a9-4355-8fb0-aa44c6913165",
+   "title": {
+    "en": "Eikyuu Shoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.3268041,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl"
    ]
   },
   {
@@ -36,7 +36,7 @@
     "en": "Egao Futatsu"
    },
    "contentRating": "safe",
-   "score": 0.31233022,
+   "score": 0.3123454,
    "languages": [
     "en"
    ]
@@ -47,7 +47,7 @@
     "en": "Disease"
    },
    "contentRating": "safe",
-   "score": 0.3106842,
+   "score": 0.31071615,
    "languages": [
     "pt-br",
     "fr",
@@ -57,23 +57,12 @@
    ]
   },
   {
-   "id": "a3b6405b-8bf7-4f56-b554-58b5a61ecb7a",
-   "title": {
-    "en": "Leave"
-   },
-   "contentRating": "safe",
-   "score": 0.3099492,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "771ff508-3fd5-4de8-aca1-0b7e64c33c07",
    "title": {
     "en": "A Witch's Hopeless Wish"
    },
    "contentRating": "safe",
-   "score": 0.30805302,
+   "score": 0.30802256,
    "languages": [
     "id",
     "en",
@@ -86,7 +75,7 @@
     "en": "The Witch and the Beast"
    },
    "contentRating": "safe",
-   "score": 0.3057417,
+   "score": 0.3057128,
    "languages": [
     "vi",
     "pt-br",
@@ -96,12 +85,23 @@
    ]
   },
   {
+   "id": "a3b6405b-8bf7-4f56-b554-58b5a61ecb7a",
+   "title": {
+    "en": "Leave"
+   },
+   "contentRating": "safe",
+   "score": 0.30216852,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "60de2707-2a4a-4fa6-92fa-0b534898cd4d",
    "title": {
     "en": "Majo-senpai Nippou"
    },
    "contentRating": "safe",
-   "score": 0.29631576,
+   "score": 0.29629377,
    "languages": [
     "en",
     "it",
@@ -117,7 +117,7 @@
     "en": "Shooting Girl"
    },
    "contentRating": "safe",
-   "score": 0.29516217,
+   "score": 0.29514387,
    "languages": [
     "en",
     "fr",
@@ -132,7 +132,7 @@
     "en": "Magic Marriage"
    },
    "contentRating": "safe",
-   "score": 0.29350525,
+   "score": 0.2934954,
    "languages": [
     "en",
     "fr"
@@ -144,39 +144,16 @@
     "en": "The Witches' End"
    },
    "contentRating": "safe",
-   "score": 0.28734118,
+   "score": 0.2873204,
    "languages": [
     "fr",
     "en"
    ]
   },
   {
-   "id": "e5f7d8f0-05ec-4997-a16e-35fa5b5c9ab4",
-   "title": {
-    "en": "Phantom Syndrome"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "4a07ca4d-657d-4bda-8418-0309034a4b87",
    "title": {
     "en": "Marine Blue"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6dd9e3d9-9bd4-43f6-b914-f17c5c6c47c5",
-   "title": {
-    "en": "Go With Grace"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -197,16 +174,39 @@
    ]
   },
   {
+   "id": "e5f7d8f0-05ec-4997-a16e-35fa5b5c9ab4",
+   "title": {
+    "en": "Phantom Syndrome"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "6dd9e3d9-9bd4-43f6-b914-f17c5c6c47c5",
+   "title": {
+    "en": "Go With Grace"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4ee9dfa7-0907-4ea3-a7b3-00228df2a390",
    "title": {
     "en": "Junai Rosen"
    },
    "contentRating": "safe",
-   "score": 0.2802105,
+   "score": 0.28017333,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-13T20:43:52+00:00"
+ "updatedAt": "2024-11-15T20:31:45+00:00"
 }

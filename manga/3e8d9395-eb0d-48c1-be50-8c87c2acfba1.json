@@ -10,19 +10,23 @@
     "ja": "ケーキの切れない非行少年たち"
    },
    {
-    "en": "The Delinquent Boys Who Cannot Cut the Cake"
+    "ja-ro": "Cake no Kirenai Hikoushounen-tachi"
    },
    {
     "ja-ro": "Keeki no Kirenai Hikou Shounen-tachi"
+   },
+   {
+    "en": "Juvenile Delinquents Who Can't Cut The Cake"
    }
   ],
   "description": {
-   "en": "Doctor Rokumugi, is engaged in psychiatric care at a juvenile training school in a certain prefecture. He found that the boys had something in common: they couldn't cut the cake into three equal parts."
+   "en": "Doctor Rokumugi provides psychiatric care at a juvenile training school in a certain prefecture. He finds that the delinquents have something in common: they can't cut the cake into three equal parts."
   },
   "links": {
    "al": "135524",
-   "amz": "https://www.amazon.co.jp/-/en/dp/B08Z3R463C?binding=kindle_edition\u0026ref=dbs_dp_awt_sb_pc_tukn",
-   "bw": "series/280960/list",
+   "amz": "https://www.amazon.co.jp/dp/B08Z3R463C",
+   "bw": "series/280960",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/616404/",
    "mal": "138467",
    "mu": "ym8u7a0",
    "raw": "https://kuragebunch.com/episode/13933686331658756380"
@@ -32,6 +36,18 @@
   "year": 2020,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
@@ -55,26 +71,40 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 11,
   "createdAt": "2022-09-06T14:30:12+00:00",
-  "updatedAt": "2024-11-05T16:24:09+00:00"
+  "updatedAt": "2024-11-14T02:23:06+00:00"
  },
  "relationships": [
   {
    "id": "e865061a-4a52-4ce2-915c-19db71fba969",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 宮口幸治"
+    },
     "booth": null,
     "createdAt": "2022-09-06T14:26:46+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kouji Miyaguchi",
+    "name": "Miyaguchi Kouji",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -82,8 +112,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2022-09-06T14:26:46+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-14T02:19:04+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -94,7 +124,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 鈴木マサカズ"
+     "en": "**Name In Native Language:** 鈴木マサカズ\n\nCompositor for [Even Still, Children Love Their Parents](https://mangadex.org/title/90a9f0ec-b837-48b1-a252-94c2b9fc7b54)."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -110,8 +140,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/suzukimasakazu",
-    "updatedAt": "2024-10-11T08:16:37+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-14T01:15:40+00:00",
+    "version": 4,
     "website": "http://suzukimasakazu.com/",
     "weibo": null,
     "youtube": null

@@ -11,7 +11,7 @@
     "en": "Koenaki Mono no Uta"
    },
    "contentRating": "safe",
-   "score": 0.31377745
+   "score": 0.31377366
   },
   {
    "id": "9ec59c1a-32e2-42c9-a0bf-7799aafdb301",
@@ -19,7 +19,15 @@
     "en": "Taisho no Hanayome - Fuufu kara Koi wo Hajimemasu"
    },
    "contentRating": "safe",
-   "score": 0.29752728
+   "score": 0.29753006
+  },
+  {
+   "id": "3f33e990-94a7-48e1-a455-62cd2835672f",
+   "title": {
+    "en": "Akatsuki no Ume wo Yuke"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
   },
   {
    "id": "a7283edb-9542-4ada-aaf7-a63f6d471e71",
@@ -36,20 +44,12 @@
    ]
   },
   {
-   "id": "3f33e990-94a7-48e1-a455-62cd2835672f",
-   "title": {
-    "en": "Akatsuki no Ume wo Yuke"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
    "id": "688c659b-3cf7-490e-a294-1651cd47ab9d",
    "title": {
     "en": "Kimi ni Korosaretai"
    },
    "contentRating": "safe",
-   "score": 0.2786269
+   "score": 0.278626
   },
   {
    "id": "7aafad0f-0d64-4f86-ab30-e0819e4b86a4",
@@ -57,15 +57,7 @@
     "en": "Teito no Shiyounin wa Koi Shimuru"
    },
    "contentRating": "safe",
-   "score": 0.27549773
-  },
-  {
-   "id": "22026ec0-be08-4018-9aea-ea94374bff45",
-   "title": {
-    "en": "Daikazoku Gohan Monogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.27404478
+   "score": 0.27550352
   },
   {
    "id": "78c345fe-3bd6-4c1e-abb4-8d415e1d6f6c",
@@ -73,7 +65,7 @@
     "en": "Yume no Shizuku, Kin no Torikago"
    },
    "contentRating": "safe",
-   "score": 0.2652153,
+   "score": 0.26521105,
    "languages": [
     "pt-br",
     "vi",
@@ -87,7 +79,15 @@
     "en": "Doku Otome: Taishou Seikei Kikan"
    },
    "contentRating": "safe",
-   "score": 0.2609704
+   "score": 0.2609708
+  },
+  {
+   "id": "22026ec0-be08-4018-9aea-ea94374bff45",
+   "title": {
+    "en": "Daikazoku Gohan Monogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.25757393
   },
   {
    "id": "d3a5c3f1-2d2e-464e-a311-9b057ed4335c",
@@ -95,7 +95,7 @@
     "en": "Irekawari Kon - Reitetsu Onzoushi no Ai ni Oboreru"
    },
    "contentRating": "safe",
-   "score": 0.2547088
+   "score": 0.254708
   },
   {
    "id": "3d2e27ff-f5d6-4f83-9518-e2ff2991304d",
@@ -103,7 +103,7 @@
     "en": "Elizabeth: Igirisu ni Sasageta Shougai"
    },
    "contentRating": "safe",
-   "score": 0.25408086
+   "score": 0.25407618
   },
   {
    "id": "cded2f67-f11c-4a25-a82b-e8a8d44a71ff",
@@ -111,23 +111,7 @@
     "en": "Machigai de Kyuukonsareta Onna wa Ichinengo Riensareru"
    },
    "contentRating": "safe",
-   "score": 0.2527201
-  },
-  {
-   "id": "156bc868-3f8b-45ba-945f-5a0c957c2a5c",
-   "title": {
-    "en": "Elysion - Seishou Kairou"
-   },
-   "contentRating": "safe",
-   "score": 0.24682729
-  },
-  {
-   "id": "2177b953-712e-4bfc-8647-6cf86f5f3b4a",
-   "title": {
-    "en": "Memokuramu - Taishou Kinema Rouman"
-   },
-   "contentRating": "safe",
-   "score": 0.2460357
+   "score": 0.25164443
   },
   {
    "id": "81043ed1-c383-4a87-ab12-ebb064db44ba",
@@ -135,7 +119,23 @@
     "en": "Izayoi Kitan - Yoshiwara Oiran no Hatsukoi"
    },
    "contentRating": "safe",
-   "score": 0.24563287
+   "score": 0.24691749
+  },
+  {
+   "id": "156bc868-3f8b-45ba-945f-5a0c957c2a5c",
+   "title": {
+    "en": "Elysion - Seishou Kairou"
+   },
+   "contentRating": "safe",
+   "score": 0.24682978
+  },
+  {
+   "id": "2177b953-712e-4bfc-8647-6cf86f5f3b4a",
+   "title": {
+    "en": "Memokuramu - Taishou Kinema Rouman"
+   },
+   "contentRating": "safe",
+   "score": 0.2460347
   },
   {
    "id": "549fdade-2505-4583-8e80-5bce84830095",
@@ -143,8 +143,8 @@
     "en": "Giacomo Foscali"
    },
    "contentRating": "safe",
-   "score": 0.24108751
+   "score": 0.24108821
   }
  ],
- "updatedAt": "2024-11-13T21:53:51+00:00"
+ "updatedAt": "2024-11-15T21:34:56+00:00"
 }

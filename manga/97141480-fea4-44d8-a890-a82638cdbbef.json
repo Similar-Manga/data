@@ -7,10 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "Amai Karakai "
+    "ja-ro": "Amai Karakai"
    },
    {
-    "en": "甘いからかい"
+    "ja": "甘いからかい"
    }
   ],
   "description": {
@@ -35,12 +35,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "ddefd648-5140-4e5f-ba18-4eca4071d19b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Shota"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-07-14T03:36:13+00:00",
-  "updatedAt": "2021-05-25T15:45:29+00:00"
+  "updatedAt": "2024-11-14T15:42:40+00:00"
  },
  "relationships": [
   {
