@@ -1,0 +1,159 @@
+{
+ "id": "ab580154-5574-40e8-8d16-c25894cc3007",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Heart of Battle"
+  },
+  "description": {
+   "en": "Ryu remembering old times."
+  },
+  "originalLanguage": "en",
+  "lastVolume": "1",
+  "lastChapter": "1",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "1a7d8373-ae67-483a-9561-f0f04033ff05",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Video Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-17T03:56:57+00:00",
+  "updatedAt": "2024-11-17T04:04:38+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7bcc859b-7040-44aa-b3f3-20d2b45f2e32",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-04-11T20:47:16+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ricardo \"Rock\" Alves",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-04-11T20:47:16+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7bcc859b-7040-44aa-b3f3-20d2b45f2e32",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-04-11T20:47:16+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ricardo \"Rock\" Alves",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-04-11T20:47:16+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e2ee00e4-92f4-4d2f-8eef-a02c14637f2a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-17T03:58:01+00:00",
+    "description": "",
+    "fileName": "92cca204-4ae2-45a2-9636-050e23b54650.jpg",
+    "locale": "en",
+    "updatedAt": "2024-11-17T03:58:01+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "92054cfd-5dfd-43cc-a67f-20f74fa50822",
+   "type": "creator"
+  }
+ ]
+}

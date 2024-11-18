@@ -3,18 +3,25 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Syd Craft: Love is a Mystery"
+   "en": "Syd Craft no Saishu Suiri"
   },
   "altTitles": [
    {
-    "ja": "Syd Craft no Saishu Suiri"
+    "ja": "シド・クラフトの最終推理"
    },
    {
-    "ja": "シド・クラフトの最終推理"
+    "en": "Syd Craft: Love is a Mystery"
+   },
+   {
+    "en": "Syd Craft's Final Reasoning"
    }
   ],
   "description": {
-   "en": "Syd Craft is a great detective who yearns for romance, but the only thing he seems to attract are mysterious cases!"
+   "en": "Famous detective Syd Craft. He's solved the toughest cases and he's adored by the public, but even he has a major problem! From the creator of We Never Learn comes a mysterious case of love!\n\n(Source: MANGA Plus)"
+  },
+  "links": {
+   "engtl": "https://mangaplus.shueisha.co.jp/titles/100393",
+   "mu": "epnaka7"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
@@ -45,12 +52,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 7,
   "createdAt": "2024-11-14T23:28:45+00:00",
-  "updatedAt": "2024-11-14T23:28:54+00:00"
+  "updatedAt": "2024-11-17T16:20:45+00:00"
  },
  "relationships": [
   {
@@ -106,14 +125,14 @@
    }
   },
   {
-   "id": "fdd5588f-077b-49a7-85bb-2c345cabf53d",
+   "id": "749f3dcb-e5ce-4a9c-9b9e-8c444f84caaa",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-14T23:28:48+00:00",
+    "createdAt": "2024-11-17T15:01:39+00:00",
     "description": "",
-    "fileName": "b3ca2376-bd56-4f87-b2be-d90ba49ea0a5.jpg",
+    "fileName": "de460ece-57a4-4bca-b1c9-bde22f9b32b6.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-14T23:28:48+00:00",
+    "updatedAt": "2024-11-17T15:01:39+00:00",
     "version": 1,
     "volume": null
    }

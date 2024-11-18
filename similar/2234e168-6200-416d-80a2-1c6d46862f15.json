@@ -6,20 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1437f77a-e54b-411c-aba1-6c9bb9f84ca4",
-   "title": {
-    "en": "Ayashide"
-   },
-   "contentRating": "safe",
-   "score": 0.27704325
-  },
-  {
    "id": "c4f5af3b-7741-4c52-aec5-68080c4a605d",
    "title": {
     "en": "Parasite Doll"
    },
    "contentRating": "safe",
-   "score": 0.2751848
+   "score": 0.2597868
+  },
+  {
+   "id": "1437f77a-e54b-411c-aba1-6c9bb9f84ca4",
+   "title": {
+    "en": "Ayashide"
+   },
+   "contentRating": "safe",
+   "score": 0.25705373
   },
   {
    "id": "6e11edac-eb6c-46d5-9cd4-04e1e817e1ba",
@@ -33,14 +33,6 @@
    ]
   },
   {
-   "id": "94da1904-19fc-46f0-ad94-5b693d62d834",
-   "title": {
-    "en": "Watashi no Kazoku Shiiku Nikki"
-   },
-   "contentRating": "safe",
-   "score": 0.2456287
-  },
-  {
    "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
    "title": {
     "en": "Mashira"
@@ -52,16 +44,12 @@
    ]
   },
   {
-   "id": "d61ff895-dee4-43ea-94a5-318e84385062",
+   "id": "94da1904-19fc-46f0-ad94-5b693d62d834",
    "title": {
-    "en": "The Kurosagi Corpse Delivery Service"
+    "en": "Watashi no Kazoku Shiiku Nikki"
    },
    "contentRating": "safe",
-   "score": 0.24242754,
-   "languages": [
-    "en",
-    "zh"
-   ]
+   "score": 0.2456287
   },
   {
    "id": "ed52ed30-97ae-4901-9b4d-77ab49ee6d84",
@@ -69,19 +57,23 @@
     "en": "Balemount"
    },
    "contentRating": "safe",
-   "score": 0.2365225,
+   "score": 0.23412745,
    "languages": [
     "ru",
     "en"
    ]
   },
   {
-   "id": "9789636c-6eca-4af0-ad2f-a00cfcf961e8",
+   "id": "d61ff895-dee4-43ea-94a5-318e84385062",
    "title": {
-    "en": "Shokuryou Kyoushitsu"
+    "en": "The Kurosagi Corpse Delivery Service"
    },
    "contentRating": "safe",
-   "score": 0.2260426
+   "score": 0.23298024,
+   "languages": [
+    "en",
+    "zh"
+   ]
   },
   {
    "id": "5301ab0a-9621-4f75-9a84-f0e0472f491e",
@@ -92,24 +84,12 @@
    "score": 0.2260426
   },
   {
-   "id": "b7b4147a-b8d4-4009-a9d2-80a067605583",
+   "id": "9789636c-6eca-4af0-ad2f-a00cfcf961e8",
    "title": {
-    "en": "Usagi ga Nihiki"
+    "en": "Shokuryou Kyoushitsu"
    },
    "contentRating": "safe",
-   "score": 0.22405736,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "e318dfb8-d039-41b1-9d82-18fef4714586",
-   "title": {
-    "en": "Ai da toka Fukushuu da toka"
-   },
-   "contentRating": "safe",
-   "score": 0.22320244
+   "score": 0.2260426
   },
   {
    "id": "6093cdf3-678c-412d-82b0-36db8d0a1efa",
@@ -117,7 +97,7 @@
     "en": "Uichi no Shima"
    },
    "contentRating": "safe",
-   "score": 0.2228249,
+   "score": 0.2217447,
    "languages": [
     "en"
    ]
@@ -128,29 +108,10 @@
     "en": "Material Polka"
    },
    "contentRating": "safe",
-   "score": 0.22027808,
+   "score": 0.21914491,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "0ffc066b-f967-40fb-a6dc-d8dfe4160804",
-   "title": {
-    "en": "Second Coming"
-   },
-   "contentRating": "safe",
-   "score": 0.21973766,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "39c6c068-cdfb-42c7-9c1d-4245c283eed7",
-   "title": {
-    "en": "Band o Kubi ni Sareta Boku to Oshi JK no Seishun Rewrite"
-   },
-   "contentRating": "safe",
-   "score": 0.21966287
   },
   {
    "id": "bedd7713-355e-411e-b45a-487635a1443a",
@@ -163,7 +124,51 @@
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "0ffc066b-f967-40fb-a6dc-d8dfe4160804",
+   "title": {
+    "en": "Second Coming"
+   },
+   "contentRating": "safe",
+   "score": 0.21773763,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b7b4147a-b8d4-4009-a9d2-80a067605583",
+   "title": {
+    "en": "Usagi ga Nihiki"
+   },
+   "contentRating": "safe",
+   "score": 0.21613128,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "320da354-11f7-4cff-8aeb-191b39f0bf88",
+   "title": {
+    "en": "Kono Ko Shirimasenka?"
+   },
+   "contentRating": "safe",
+   "score": 0.2048511,
+   "languages": [
+    "en",
+    "vi",
+    "es-la"
+   ]
+  },
+  {
+   "id": "46f7d439-fe8c-4bf8-9bc8-688dfe0460f5",
+   "title": {
+    "en": "Ten X -Tenbatsu-"
+   },
+   "contentRating": "safe",
+   "score": 0.2048511
   }
  ],
- "updatedAt": "2024-11-15T20:25:19+00:00"
+ "updatedAt": "2024-11-17T20:36:56+00:00"
 }

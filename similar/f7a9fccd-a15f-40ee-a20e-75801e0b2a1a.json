@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "ee1fdfe8-65f6-4fa0-929e-45e77adc7962",
+   "title": {
+    "en": "Alice in the Country of Hearts 7th Anniversary Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.25890526,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6541dd65-cd50-4d25-8990-af5d5b3cfc8d",
    "title": {
     "en": "Sonic the Hedgehog"
    },
    "contentRating": "safe",
-   "score": 0.2515357,
+   "score": 0.25153804,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Animal Yokochou"
    },
    "contentRating": "safe",
-   "score": 0.2420504,
+   "score": 0.24205172,
    "languages": [
     "en"
    ]
@@ -33,7 +44,7 @@
     "en": "Ramen Wolf and Curry Tiger"
    },
    "contentRating": "safe",
-   "score": 0.23226336,
+   "score": 0.23226051,
    "languages": [
     "en",
     "id"
@@ -45,7 +56,7 @@
     "en": "Animal Crossing: New Leaf -  Energetic Village Mayor Ippei!"
    },
    "contentRating": "safe",
-   "score": 0.22918908,
+   "score": 0.22918859,
    "languages": [
     "en"
    ]
@@ -56,18 +67,7 @@
     "en": "Pokémon Diamond and Pearl"
    },
    "contentRating": "safe",
-   "score": 0.22757898,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ee1fdfe8-65f6-4fa0-929e-45e77adc7962",
-   "title": {
-    "en": "Alice in the Country of Hearts 7th Anniversary Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.22742096,
+   "score": 0.22758439,
    "languages": [
     "en"
    ]
@@ -78,7 +78,7 @@
     "en": "Heaven's Design Team"
    },
    "contentRating": "safe",
-   "score": 0.22615243,
+   "score": 0.22616112,
    "languages": [
     "pt-br",
     "ru",
@@ -91,7 +91,7 @@
     "en": "Pokémon HeartGold SoulSilver: Go! Go! Pokéathlon"
    },
    "contentRating": "safe",
-   "score": 0.2231785,
+   "score": 0.22318184,
    "languages": [
     "pt-br",
     "en",
@@ -118,8 +118,43 @@
     "en": "Shachiku Neko"
    },
    "contentRating": "safe",
-   "score": 0.21916175,
+   "score": 0.21916184,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6ff29190-cd9c-4557-84d9-d2b49f06fa21",
+   "title": {
+    "en": "MySims"
+   },
+   "contentRating": "safe",
+   "score": 0.21895681,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0957b2d6-4aff-46e4-916a-b10bc8cd12ee",
+   "title": {
+    "en": "Manga! Nyanko Great War"
+   },
+   "contentRating": "safe",
+   "score": 0.21895681,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9bc96d35-29f4-4c91-9f8d-069267fb7aa9",
+   "title": {
+    "en": "11-banme no Neko wa Nene"
+   },
+   "contentRating": "safe",
+   "score": 0.21895681,
+   "languages": [
+    "ko",
+    "pt-br",
     "en"
    ]
   },
@@ -145,44 +180,9 @@
    ]
   },
   {
-   "id": "0957b2d6-4aff-46e4-916a-b10bc8cd12ee",
-   "title": {
-    "en": "Manga! Nyanko Great War"
-   },
-   "contentRating": "safe",
-   "score": 0.21895681,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5a68b16e-bb1c-4a48-a705-2ec7e5652488",
    "title": {
     "en": "The Homeless Saint in the Abandoned Park"
-   },
-   "contentRating": "safe",
-   "score": 0.21895681,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9bc96d35-29f4-4c91-9f8d-069267fb7aa9",
-   "title": {
-    "en": "11-banme no Neko wa Nene"
-   },
-   "contentRating": "safe",
-   "score": 0.21895681,
-   "languages": [
-    "ko",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "6ff29190-cd9c-4557-84d9-d2b49f06fa21",
-   "title": {
-    "en": "MySims"
    },
    "contentRating": "safe",
    "score": 0.21895681,
@@ -196,7 +196,7 @@
     "en": "Koujo Denka no Kateikyoushi"
    },
    "contentRating": "safe",
-   "score": 0.21710439,
+   "score": 0.21710697,
    "languages": [
     "en",
     "vi",
@@ -204,5 +204,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-15T22:04:28+00:00"
+ "updatedAt": "2024-11-17T22:15:59+00:00"
 }

@@ -37,6 +37,18 @@
   "latestUploadedChapter": "14fa1ee0-6592-42a7-990a-caf3b333e801",
   "tags": [
    {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
     "attributes": {
@@ -81,6 +93,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -134,9 +158,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2024-10-24T04:17:30+00:00",
-  "updatedAt": "2024-11-08T14:58:46+00:00"
+  "updatedAt": "2024-11-15T09:57:45+00:00"
  },
  "relationships": [
   {

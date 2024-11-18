@@ -3,27 +3,39 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Boku wa Konyaku Haki Nante Shimasenkara ne"
+   "en": "Boku wa Kon'yaku Haki Nante Shimasen kara ne"
   },
   "altTitles": [
    {
-    "en": "I Won't Be Breaking Off This Engagement. You Know That, Right?"
+    "ja": "僕は婚約破棄なんてしませんからね"
    },
    {
-    "ja": "僕は婚約破棄なんてしませんからね"
+    "ja-ro": "Boku wa Konyaku Haki Nante Shimasenkara ne"
+   },
+   {
+    "ja-ro": "Boku ha Kon'yaku Haki Nante Shimasen kara ne"
+   },
+   {
+    "ja": "I'm not breaking off the engagement"
+   },
+   {
+    "en": "I'm Not Breaking Off The Engagement"
+   },
+   {
+    "en": "I Won't Be Breaking Off This Engagement. You Know That, Right?"
    },
    {
     "ko": "나는 약혼 파기 따위 하지 않을 거예요"
    }
   ],
   "description": {
-   "en": "\"Ah… Ahhhhhhhhhhh!\"  \n  \nThe one who's become the Crown Prince's fiancée is the Duke's daughter Serea, but during their first meeting, she screamed and collapsed! Had she remembered something from her previous life? Are you an evil villainess? Am I going to break you if I fool around too much? A me that's programmed to be like that, is so horrible. Isn't that right~ An \"event\" and those \"program settings\" have no connection to me though. Let's go back to my place and I'll slowly and sweetly make you fall desperately in love with me!  \n  \nThis otome game's villainess is going to follow a harsh path, and will fight to change her fate."
+   "en": "\"Ah… Ahhhhhhhhhhh!\"  \n  \nThe one who's become the Crown Prince's fiancée is the Duke's daughter Serea, but during their first meeting, she screamed and collapsed! Had she remembered something from her previous life? Are you an evil villainess? Am I going to break you if I fool around too much? A me that's programmed to be like that, is so horrible. Isn't that right~ An \"event\" and those \"program settings\" have no connection to me though. Let's go back to my place and I'll slowly and sweetly make you fall desperately in love with me!  \n  \nThis otome game's villainess is going to follow a harsh path, and will fight to change her fate.\n___\n**Character Designer:** [Nardack](https://mangadex.org/author/f27853e1-c9b2-442a-a8f8-ca3962078222)"
   },
   "links": {
    "al": "129000",
    "amz": "https://www.amazon.co.jp/dp/B09MJ8FDYR",
    "ap": "boku-wa-konyaku-haki-nante-shimasenkara-ne",
-   "bw": "series/294555/list",
+   "bw": "series/294555",
    "cdj": "https://www.cdjapan.co.jp/searchuni?term.media_format=\u0026fq.category=UD:14\u0026q=僕は婚約破棄なんてしませんからね",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/630499/",
    "mal": "133653",
@@ -85,18 +97,6 @@
     "attributes": {
      "name": {
       "en": "Video Games"
-     },
-     "description": {},
-     "group": "theme",
-     "version": 1
-    }
-   },
-   {
-    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Magic"
      },
      "description": {},
      "group": "theme",
@@ -177,16 +177,18 @@
    }
   ],
   "state": "published",
-  "version": 14,
+  "version": 16,
   "createdAt": "2021-01-21T04:26:54+00:00",
-  "updatedAt": "2024-11-03T14:09:07+00:00"
+  "updatedAt": "2024-11-17T04:36:36+00:00"
  },
  "relationships": [
   {
    "id": "8ffaed5c-1132-42df-b8d2-eee9e495f4dd",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** ジュピタースタジオ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -201,9 +203,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-17T04:51:15+00:00",
+    "version": 2,
+    "website": "https://mypage.syosetu.com/1051336/",
     "weibo": null,
     "youtube": null
    }
@@ -212,7 +214,9 @@
    "id": "379a880c-6063-460c-ac3a-27b23bb6fbe0",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** オオトリ\n\n**Additional Sites:**\n- [2nd X](https://x.com/cunonn)\n- [Bluesky](https://bsky.app/profile/cunonn.bsky.social)\n- [Lit.Link](https://lit.link/en/oootori)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -223,12 +227,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/1751664",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/oooo_sno",
+    "updatedAt": "2024-11-17T04:48:19+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -11,7 +11,7 @@
     "en": "Bara-mura e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.35509315
+   "score": 0.3551209
   },
   {
    "id": "64adb221-a703-45a7-ba40-6d1b689a19d2",
@@ -19,7 +19,18 @@
     "en": "Toshokan no Aruji"
    },
    "contentRating": "safe",
-   "score": 0.29807082
+   "score": 0.2980688
+  },
+  {
+   "id": "ec9f5e07-2703-417f-b63f-fc392fee132d",
+   "title": {
+    "en": "Otona no Zukan Kaiteiban"
+   },
+   "contentRating": "safe",
+   "score": 0.2955775,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "e695ad4f-7e8a-419d-8575-f0a98ffe4615",
@@ -27,7 +38,7 @@
     "en": "Takaga Tasogare"
    },
    "contentRating": "safe",
-   "score": 0.2954065,
+   "score": 0.29540923,
    "languages": [
     "it",
     "en"
@@ -39,7 +50,7 @@
     "en": "Rikonshimasu Ka, Shimasen Ka?"
    },
    "contentRating": "safe",
-   "score": 0.29462156
+   "score": 0.2946279
   },
   {
    "id": "d202380b-a2f3-4ee6-ad85-e4be634f680b",
@@ -47,7 +58,7 @@
     "en": "Mangata no Tabibitoyo"
    },
    "contentRating": "safe",
-   "score": 0.29418474
+   "score": 0.29415852
   },
   {
    "id": "96362a57-e002-4400-844d-617586f43f79",
@@ -55,18 +66,7 @@
     "en": "Momonoko: The last days of an old man and his beloved dog"
    },
    "contentRating": "safe",
-   "score": 0.29390427
-  },
-  {
-   "id": "ec9f5e07-2703-417f-b63f-fc392fee132d",
-   "title": {
-    "en": "Otona no Zukan Kaiteiban"
-   },
-   "contentRating": "safe",
-   "score": 0.2933689,
-   "languages": [
-    "en"
-   ]
+   "score": 0.29390535
   },
   {
    "id": "c71a8641-2e04-4213-97d8-e8d7f080be23",
@@ -74,7 +74,7 @@
     "en": "Do your Best, Masako-chan"
    },
    "contentRating": "safe",
-   "score": 0.29306027
+   "score": 0.29306456
   },
   {
    "id": "f66cd885-b5f0-4b3e-b157-2e8dd92a6ca1",
@@ -82,52 +82,12 @@
     "en": "Rakuen wo Mezashite"
    },
    "contentRating": "safe",
-   "score": 0.2926312
+   "score": 0.29262644
   },
   {
-   "id": "f000edc7-e31e-4f14-80a2-a0abb5e41a8f",
+   "id": "5e1dff75-ad47-4a05-a0e1-d882340225e0",
    "title": {
-    "en": "En mo Yukari mo"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "aa4e3448-ce7d-4c6b-9fa4-54904890c6b3",
-   "title": {
-    "en": "Bakajo 26-ji"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "945f9411-dc49-4a9a-b40a-6084e94bcab9",
-   "title": {
-    "en": "Akuta no Shinigiwa"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "9fc89616-8e7b-4bc1-aef1-01d2994174ab",
-   "title": {
-    "en": "Rental Nan mo Shinai Hito"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "e84b0837-ab0a-44e2-bc0e-e0dcfba2aef4",
-   "title": {
-    "en": "Kizuato ni Hana"
+    "en": "Mirai Rai Furai"
    },
    "contentRating": "safe",
    "score": 0.28508148
@@ -145,13 +105,52 @@
    ]
   },
   {
-   "id": "76276744-980f-4107-9924-6bdaef7ced0f",
+   "id": "9fc89616-8e7b-4bc1-aef1-01d2994174ab",
    "title": {
-    "en": "Sono Ao wo, Ao to Yobanai"
+    "en": "Rental Nan mo Shinai Hito"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "aa4e3448-ce7d-4c6b-9fa4-54904890c6b3",
+   "title": {
+    "en": "Bakajo 26-ji"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "e84b0837-ab0a-44e2-bc0e-e0dcfba2aef4",
+   "title": {
+    "en": "Kizuato ni Hana"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "39b6cbe5-9706-4feb-a06e-57d905f47f5c",
+   "title": {
+    "en": "Botsuichi"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f000edc7-e31e-4f14-80a2-a0abb5e41a8f",
+   "title": {
+    "en": "En mo Yukari mo"
    },
    "contentRating": "safe",
    "score": 0.28508148
   }
  ],
- "updatedAt": "2024-11-15T22:04:28+00:00"
+ "updatedAt": "2024-11-17T22:15:59+00:00"
 }

@@ -13,6 +13,7 @@
   "description": {},
   "links": {
    "amz": "https://www.amazon.co.jp/dp/481480170X",
+   "bw": "series/198794/list",
    "kt": "56268",
    "mal": "120427",
    "mu": "149881",
@@ -20,6 +21,7 @@
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
+  "lastChapter": "18",
   "status": "completed",
   "year": 2018,
   "contentRating": "suggestive",
@@ -46,6 +48,18 @@
     "attributes": {
      "name": {
       "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "7064a261-a137-4d3a-8848-2d385de3a99c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Superhero"
      },
      "description": {},
      "group": "genre",
@@ -90,9 +104,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2020-03-03T12:57:25+00:00",
-  "updatedAt": "2023-12-18T00:14:48+00:00"
+  "updatedAt": "2024-11-15T17:41:59+00:00"
  },
  "relationships": [
   {
@@ -148,16 +162,16 @@
    }
   },
   {
-   "id": "06396c40-e10a-4f53-bc88-a1a400b6cf40",
+   "id": "fae0a62c-484b-4080-a484-13453086ba5b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:47:17+00:00",
+    "createdAt": "2024-11-15T17:39:17+00:00",
     "description": "",
-    "fileName": "9d538e7f-e3d1-40e1-8653-23e140bbce2d.jpg",
+    "fileName": "bd63ac75-65c0-47e0-96e0-06d6c3e8f5ce.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:47:17+00:00",
+    "updatedAt": "2024-11-15T17:39:17+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

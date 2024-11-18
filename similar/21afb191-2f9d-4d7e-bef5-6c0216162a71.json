@@ -6,6 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9d6fce2b-3a2c-4f8e-853c-a6eadba713cd",
+   "title": {
+    "en": "Your Talent is Mine"
+   },
+   "contentRating": "safe",
+   "score": 0.15191092,
+   "languages": [
+    "pt-br",
+    "it",
+    "pl",
+    "es-la",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "2a5be63f-a85c-4626-bb54-435dab4167f7",
+   "title": {
+    "en": "Endeavor’s Cross"
+   },
+   "contentRating": "safe",
+   "score": 0.15191092,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "17411b15-42af-431f-9201-164361f462f8",
    "title": {
     "en": "Ooh La La"
@@ -37,35 +66,6 @@
    ]
   },
   {
-   "id": "9d6fce2b-3a2c-4f8e-853c-a6eadba713cd",
-   "title": {
-    "en": "Your Talent is Mine"
-   },
-   "contentRating": "safe",
-   "score": 0.15191092,
-   "languages": [
-    "pt-br",
-    "it",
-    "pl",
-    "es-la",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "2a5be63f-a85c-4626-bb54-435dab4167f7",
-   "title": {
-    "en": "Endeavor’s Cross"
-   },
-   "contentRating": "safe",
-   "score": 0.15191092,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "16cca793-cda3-4f9f-a179-12c75b168242",
    "title": {
     "en": "Revenge of Young Master Peng"
@@ -74,20 +74,6 @@
    "score": 0.14833808,
    "languages": [
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e4085dfe-87d0-458f-85d8-1aa3be767c69",
-   "title": {
-    "en": "Xianzun System in the City"
-   },
-   "contentRating": "safe",
-   "score": 0.14064218,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
     "pt-br"
    ]
   },
@@ -103,6 +89,20 @@
     "ru",
     "pt-br",
     "fr"
+   ]
+  },
+  {
+   "id": "e4085dfe-87d0-458f-85d8-1aa3be767c69",
+   "title": {
+    "en": "Xianzun System in the City"
+   },
+   "contentRating": "safe",
+   "score": 0.14064218,
+   "languages": [
+    "fr",
+    "en",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -123,12 +123,27 @@
     "en": "Continue"
    },
    "contentRating": "safe",
-   "score": 0.13642797,
+   "score": 0.13642555,
    "languages": [
     "pt-br",
     "en",
     "pl",
     "bg"
+   ]
+  },
+  {
+   "id": "b8ec5d6e-aeb7-43e1-8745-effc2ff3b270",
+   "title": {
+    "en": "Book Eater"
+   },
+   "contentRating": "safe",
+   "score": 0.13574988,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en",
+    "it",
+    "pl"
    ]
   },
   {
@@ -162,32 +177,6 @@
    ]
   },
   {
-   "id": "ae2b0834-3f9d-439e-8973-855ae0ccefbe",
-   "title": {
-    "en": "Fire Dragon King"
-   },
-   "contentRating": "safe",
-   "score": 0.1315587,
-   "languages": [
-    "id",
-    "en",
-    "pt-br",
-    "ar"
-   ]
-  },
-  {
-   "id": "438f90f2-ddd0-4dc0-8be0-2c7e385ac69a",
-   "title": {
-    "en": "Traces of Memory"
-   },
-   "contentRating": "safe",
-   "score": 0.1315587,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "e5da3a0d-7914-47f5-842c-3a790610d1e8",
    "title": {
     "en": "Manggame Escape!"
@@ -195,18 +184,6 @@
    "contentRating": "safe",
    "score": 0.1315587,
    "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9f0aa0b0-32cd-43a2-a703-abed5b003004",
-   "title": {
-    "en": "Monarch"
-   },
-   "contentRating": "safe",
-   "score": 0.1315587,
-   "languages": [
-    "en",
     "pt-br"
    ]
   },
@@ -221,7 +198,29 @@
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "4aa860f7-0ca9-4b5d-a2cd-d4c51d116921",
+   "title": {
+    "en": "It All Starts With a Group of Primitive People"
+   },
+   "contentRating": "safe",
+   "score": 0.1315587,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "62bd38f6-0b10-4c6f-a1b3-677b7e364348",
+   "title": {
+    "en": "Shaman"
+   },
+   "contentRating": "safe",
+   "score": 0.1315587,
+   "languages": [
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-11-15T20:25:03+00:00"
+ "updatedAt": "2024-11-17T20:36:40+00:00"
 }

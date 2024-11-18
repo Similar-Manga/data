@@ -20,10 +20,11 @@
    "al": "98640",
    "amz": "https://www.amazon.co.jp/gp/product/B074CDWDH3",
    "ap": "yomawari-neko",
+   "bw": "series/74574/list",
    "kt": "45451",
    "mal": "99701",
    "mu": "131314",
-   "raw": "http://www.moae.jp/comic/yomawarineco"
+   "raw": "https://comic-days.com/blog/archive/category/夜廻り猫"
   },
   "originalLanguage": "ja",
   "status": "ongoing",
@@ -67,18 +68,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -92,9 +81,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2019-07-15T18:39:08+00:00",
-  "updatedAt": "2023-12-10T12:23:47+00:00"
+  "updatedAt": "2024-11-15T15:23:23+00:00"
  },
  "relationships": [
   {
@@ -150,16 +139,16 @@
    }
   },
   {
-   "id": "2455bb90-3578-4f3c-84a6-f89a575cd314",
+   "id": "04d21e36-affe-4c0c-8160-64c38a3f85c8",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:19:05+00:00",
+    "createdAt": "2024-11-15T15:21:32+00:00",
     "description": "",
-    "fileName": "bd7d86c0-6f37-4e85-8ed3-b34bc96a1a1c.jpg",
+    "fileName": "1d2022f3-c252-4579-8672-874b88ee40fa.jpg",
     "locale": "ja",
-    "updatedAt": "2023-12-10T12:38:51+00:00",
-    "version": 2,
-    "volume": "1"
+    "updatedAt": "2024-11-15T15:21:32+00:00",
+    "version": 1,
+    "volume": "10"
    }
   }
  ]

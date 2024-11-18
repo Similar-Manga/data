@@ -1,0 +1,136 @@
+{
+ "id": "7b4de9f1-facf-4387-8412-28bc8e60be10",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Zettai Himitsu no Kikai Shoujo"
+  },
+  "altTitles": [
+   {
+    "ja": "絶対秘密の機械少女"
+   }
+  ],
+  "description": {
+   "ja": "主人公・大福豆男の実家は潰れかけの旅館「旅館 大福」。そんな経営を立て直すべく導入されたのは最近、話題の美少女アンドロイド「AN－C」――通称：あんこちゃん！ その豊満なボディと柔らかな肌は機械だとわかっていてもドキドキ…。しかし、あんこちゃんには重大な秘密があって――!?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B07SZ9QX98",
+   "bw": "series/192218",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/523443",
+   "mal": "118093",
+   "mu": "wxw526r"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "33",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2018,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-15T22:46:38+00:00",
+  "updatedAt": "2024-11-15T22:47:18+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a3844f2d-4f6c-4929-a09e-02c5a48b46c0",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nInaba Siro\n稲葉白"
+    },
+    "booth": "https://178tye.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://siro178.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inaba Shiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/2982949",
+    "skeb": "https://skeb.jp/@178tye",
+    "tumblr": null,
+    "twitter": "https://twitter.com/178tye",
+    "updatedAt": "2022-07-29T16:11:25+00:00",
+    "version": 2,
+    "website": "https://inabasiromannga.wixsite.com/mysite",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCs3NXdAUbhc2dGJqY657hZg"
+   }
+  },
+  {
+   "id": "a3844f2d-4f6c-4929-a09e-02c5a48b46c0",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nInaba Siro\n稲葉白"
+    },
+    "booth": "https://178tye.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://siro178.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inaba Shiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/2982949",
+    "skeb": "https://skeb.jp/@178tye",
+    "tumblr": null,
+    "twitter": "https://twitter.com/178tye",
+    "updatedAt": "2022-07-29T16:11:25+00:00",
+    "version": 2,
+    "website": "https://inabasiromannga.wixsite.com/mysite",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCs3NXdAUbhc2dGJqY657hZg"
+   }
+  },
+  {
+   "id": "5f966a98-87e2-4d6c-8cea-5607b1fa08f7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-15T22:46:49+00:00",
+    "description": "",
+    "fileName": "5d032479-6506-40e1-b2e9-847ae96f5034.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-15T22:46:49+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

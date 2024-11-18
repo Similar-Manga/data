@@ -7,10 +7,13 @@
   },
   "altTitles": [
    {
+    "ko": "XS엑세스"
+   },
+   {
     "en": "XS"
    },
    {
-    "ko": "XS엑세스"
+    "ru": "XS Гибрид"
    }
   ],
   "description": {
@@ -28,12 +31,25 @@
   "lastVolume": "5",
   "lastChapter": "35",
   "status": "completed",
+  "year": 2003,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "00c3f348-2d3f-4839-b7e7-97cd6693d3ac",
   "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
@@ -84,9 +100,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2018-03-16T14:00:05+00:00",
-  "updatedAt": "2022-01-27T01:00:12+00:00"
+  "updatedAt": "2024-11-16T17:06:10+00:00"
  },
  "relationships": [
   {

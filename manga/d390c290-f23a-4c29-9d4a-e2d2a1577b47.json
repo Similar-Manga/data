@@ -1,0 +1,170 @@
+{
+ "id": "d390c290-f23a-4c29-9d4a-e2d2a1577b47",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Saintess Became the Northern Grand Duke’s Daughter"
+  },
+  "altTitles": [
+   {
+    "ko": "성녀는 북부 대공의 딸이 되었습니다"
+   }
+  ],
+  "description": {
+   "en": "Born Again to Escape, and to Heal a Broken Heart Liriette, blessed with divine power that could heal others through her blood, had spent her short life as nothing more than a tool for a cruel High Priest. Her end came quietly, used and discarded. But one day, she opened her eyes… and she was 10 years old again. \"This time, I will never let the horrors of my past repeat themselves.\" Determined to escape the clutches of the High Priest, Liriette sought refuge in the farthest corner of the empire, with none other than Duke Windsorice, the ruler of the cold and mysterious North. \"I can heal your eyes. Please, let me stay by your side.\" At first, it was simply a desperate attempt to escape her dreadful fate. Yet, as time passed, her hopes and dreams began to grow beyond mere survival. \"Would you… become my daughter?\" With trembling hands and a soft voice, Liriette asked, \"What would you gain from me as your daughter?\" The Duke's lips curled into the faintest smile. \"A kind and beautiful daughter.\" Follow the heartwarming journey of a lonely girl who finds her home and happiness as the beloved daughter of the empire’s coldest Duke. Watch as the once-unfeeling ruler becomes the ultimate doting father, melting the icy North with his newfound love."
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-17T13:42:52+00:00",
+  "updatedAt": "2024-11-17T13:43:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1e54557d-3088-4169-8d23-3160ed1be188",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-17T13:42:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nagisa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-17T13:42:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5fc3ca76-22c0-4981-9178-f89a2ce799a1",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-17T13:42:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kim Poppy",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-17T13:42:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bd8d2e9f-b17d-4c69-9804-0b140e39f741",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-17T13:43:03+00:00",
+    "description": "",
+    "fileName": "3357da2f-74d7-4874-812d-89d8925dcbf1.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-17T13:43:03+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}

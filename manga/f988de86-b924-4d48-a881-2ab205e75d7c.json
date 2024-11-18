@@ -1,0 +1,117 @@
+{
+ "id": "f988de86-b924-4d48-a881-2ab205e75d7c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "IDOLY PRIDE Beginning of Lodestar"
+  },
+  "description": {
+   "ja": "星見市で暮らす歌が好きな女子高生・長瀬麻奈。ひとつのライブをきっかけに、彼女はトップアイドルを目指し輝きだす――。"
+  },
+  "links": {
+   "al": "128149",
+   "amz": "https://www.amazon.co.jp/dp/B0966764GV",
+   "ap": "idoly-pride-beginning-of-lodestar",
+   "bw": "series/285399",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/621965",
+   "kt": "63121",
+   "mu": "p4b44tb"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "14",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2020,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Music"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-17T15:55:28+00:00",
+  "updatedAt": "2024-11-17T15:55:39+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e7f3a72b-c5eb-4af3-8371-f43b7d1fbb52",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-17T15:53:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Project IDOLY PRIDE",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-17T15:53:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c9fd56b7-a6ca-47c8-8e91-df74079777bd",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asami Yuriko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f036bee1-8a0a-4c4e-80eb-30f692a01c93",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-17T15:55:33+00:00",
+    "description": "",
+    "fileName": "4dd3a9e7-c65c-40b3-9abc-61a37add4c2c.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-17T15:55:33+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

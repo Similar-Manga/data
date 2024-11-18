@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
+   "title": {
+    "en": "Manaka no Mori"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6694dd57-c782-49d6-b33e-1fb6838dd3b4",
    "title": {
     "en": "Alice Everlasting"
@@ -29,25 +40,26 @@
    ]
   },
   {
-   "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
-   "title": {
-    "en": "Manaka no Mori"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6998e79b-844e-4354-8c3d-0cc07d3fae70",
    "title": {
     "en": "Sekai de Ichiban, Ore ga ◯◯"
    },
    "contentRating": "safe",
-   "score": 0.22034924,
+   "score": 0.22031482,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "724c84bd-803d-4999-b05b-8e88ad13a411",
+   "title": {
+    "en": "Kamisama Kazoku"
+   },
+   "contentRating": "safe",
+   "score": 0.21431114,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -56,7 +68,7 @@
     "ja": "Sensei, Kongetsu Dou Desu ka"
    },
    "contentRating": "safe",
-   "score": 0.21367751,
+   "score": 0.21365039,
    "languages": [
     "en",
     "pt-br",
@@ -65,26 +77,19 @@
    ]
   },
   {
-   "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
+   "id": "ef4b0094-cc78-489f-978e-d56e0ff28347",
    "title": {
-    "en": "Kamisama to"
+    "en": "Otome Kaijuu Caramelize"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
+    "ru",
+    "pt-br",
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "de53dc3b-9306-4f37-a5b1-ec9f8726a968",
-   "title": {
-    "ja": "Shinigami no Hatsukoi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
+    "es-la",
+    "id",
+    "fr"
    ]
   },
   {
@@ -99,9 +104,9 @@
    ]
   },
   {
-   "id": "4308cd33-9620-415f-8a2b-ef5f51c775bd",
+   "id": "de53dc3b-9306-4f37-a5b1-ec9f8726a968",
    "title": {
-    "en": "Nanja Monja"
+    "ja": "Shinigami no Hatsukoi"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -110,39 +115,15 @@
    ]
   },
   {
-   "id": "6258fbe3-6732-49eb-84d2-daab7bdd1416",
+   "id": "850a4fac-ea41-4b27-a7ce-ab0fe4cdf259",
    "title": {
-    "en": "Double Marriage"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "724c84bd-803d-4999-b05b-8e88ad13a411",
-   "title": {
-    "en": "Kamisama Kazoku"
+    "en": "Kamisama to"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "371538d9-9012-4c87-81bd-d34cfb9d316f",
-   "title": {
-    "en": "Hoshi ni Negai o Futatabi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "tr",
-    "en"
    ]
   },
   {
@@ -168,19 +149,38 @@
    ]
   },
   {
-   "id": "ef4b0094-cc78-489f-978e-d56e0ff28347",
+   "id": "371538d9-9012-4c87-81bd-d34cfb9d316f",
    "title": {
-    "en": "Otome Kaijuu Caramelize"
+    "en": "Hoshi ni Negai o Futatabi"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "ru",
-    "pt-br",
-    "en",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "6258fbe3-6732-49eb-84d2-daab7bdd1416",
+   "title": {
+    "en": "Double Marriage"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
     "es-la",
-    "id",
-    "fr"
+    "en"
+   ]
+  },
+  {
+   "id": "4308cd33-9620-415f-8a2b-ef5f51c775bd",
+   "title": {
+    "en": "Nanja Monja"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -189,12 +189,12 @@
     "en": "Renri no Eda"
    },
    "contentRating": "safe",
-   "score": 0.18934037,
+   "score": 0.18932387,
    "languages": [
     "en",
     "vi"
    ]
   }
  ],
- "updatedAt": "2024-11-15T21:25:51+00:00"
+ "updatedAt": "2024-11-17T21:42:15+00:00"
 }

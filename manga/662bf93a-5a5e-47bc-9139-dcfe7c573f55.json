@@ -1,0 +1,170 @@
+{
+ "id": "662bf93a-5a5e-47bc-9139-dcfe7c573f55",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Anri the Blood"
+  },
+  "altTitles": [
+   {
+    "ja": "アンリ・ザ・ブラッド"
+   }
+  ],
+  "description": {
+   "en": "Anri and Yuu are twin brothers who go to high school together. They have a secret they cannot tell: Anri is a vampire who feeds on her younger brother Yuu to survive. Meanwhile, a drug called “Red Chia” that causes symptoms resembling those of a vampire is spreading in the streets."
+  },
+  "links": {
+   "ap": "anri-the-blood",
+   "bw": "series/164822",
+   "mu": "7rq4qf9"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "6",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2009,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "d7d1730f-6eb0-4ba6-9437-602cac38664c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Vampires"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-16T15:09:03+00:00",
+  "updatedAt": "2024-11-16T15:09:40+00:00"
+ },
+ "relationships": [
+  {
+   "id": "25fae022-2478-4c14-a429-8202147490dd",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n秋重学"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akishige Manabu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/manabuakishige",
+    "updatedAt": "2023-11-09T21:19:24+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "25fae022-2478-4c14-a429-8202147490dd",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n秋重学"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akishige Manabu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/manabuakishige",
+    "updatedAt": "2023-11-09T21:19:24+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b5a33e83-ebb4-40da-aa8b-0cca1096a0c8",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-16T15:09:04+00:00",
+    "description": "",
+    "fileName": "dabefe5f-525e-45e8-a9be-d456c8b58d67.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-16T15:09:04+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "ddc27fae-f41a-4618-b8dc-6cf98106fd4c",
+   "type": "creator"
+  }
+ ]
+}

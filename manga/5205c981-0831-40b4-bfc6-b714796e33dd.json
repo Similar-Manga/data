@@ -16,16 +16,17 @@
     "en": "海を、歩くヤギ"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "links": {
    "al": "111568",
    "mu": "155166",
    "raw": "https://comic.mag-garden.co.jp/umiyagi/"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "1",
+  "lastChapter": "12",
+  "status": "completed",
+  "year": 2019,
   "contentRating": "safe",
   "tags": [
    {
@@ -63,24 +64,12 @@
      "group": "theme",
      "version": 1
     }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2020-01-21T19:24:54+00:00",
-  "updatedAt": "2020-01-21T19:24:54+00:00"
+  "updatedAt": "2024-11-15T15:47:35+00:00"
  },
  "relationships": [
   {
@@ -140,16 +129,16 @@
    }
   },
   {
-   "id": "5290f1db-3d7d-4fcb-bfa1-75c308c6780e",
+   "id": "5022d571-adb9-41bc-ac20-f2bff8063260",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:42:03+00:00",
+    "createdAt": "2024-11-15T15:47:35+00:00",
     "description": "",
-    "fileName": "8cda7e7c-652e-4b60-82bd-8639aa71678a.jpg",
+    "fileName": "fa1fdac6-b758-4590-a4bc-24428a4ab804.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:42:03+00:00",
+    "updatedAt": "2024-11-15T15:47:35+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

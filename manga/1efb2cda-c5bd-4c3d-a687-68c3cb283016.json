@@ -1,0 +1,156 @@
+{
+ "id": "1efb2cda-c5bd-4c3d-a687-68c3cb283016",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Vermilion Mask Side B"
+  },
+  "altTitles": [
+   {
+    "ja": "朱色の仮面　side.B"
+   },
+   {
+    "ja-ro": "Shuiro no Kamen side.B"
+   }
+  ],
+  "description": {
+   "en": "Moku's childhood revealed."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CMPZ4PSJ",
+   "bw": "def6b2cf99-7b5f-48d7-8fe9-0edd09117449",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2919926",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/804208/",
+   "raw": "https://mangadx-plus.com/comic/CT00000504"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "5",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-16T00:29:44+00:00",
+  "updatedAt": "2024-11-16T01:25:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e750f3ca-a6b5-422d-aefb-1e7bf4c1feeb",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** Dr.Poro\n\n**Also Known As:** C-B° (Ｃボ)"
+    },
+    "booth": "https://enseichan.booth.pm/",
+    "createdAt": "2022-04-17T03:54:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Dr.Poro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/3795485",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/DrPoro",
+    "updatedAt": "2024-11-16T01:28:42+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "990f0415-604b-45a2-8c90-172b32cc5e72",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 那波なばな"
+    },
+    "booth": null,
+    "createdAt": "2022-04-17T03:43:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Naba Nabana",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/naba_787",
+    "updatedAt": "2024-10-07T03:45:06+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3bed491b-b325-4be9-bd48-61427bda0055",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-16T00:29:54+00:00",
+    "description": "",
+    "fileName": "ca922513-8007-4223-8787-042c590d5be7.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-16T00:29:54+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "cf4671b6-1ce0-478d-a9f3-366883bbf373",
+   "type": "manga",
+   "related": "sequel"
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

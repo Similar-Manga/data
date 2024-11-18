@@ -19,7 +19,7 @@
   "links": {
    "al": "119128",
    "amz": "https://www.amazon.co.jp/gp/product/B07MLTQRF7",
-   "bw": "series/109166",
+   "bw": "series/109166/list",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2068990",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/400988/",
    "mu": "140626",
@@ -43,18 +43,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -68,9 +56,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2019-06-05T01:54:40+00:00",
-  "updatedAt": "2024-02-18T18:39:20+00:00"
+  "updatedAt": "2024-11-15T18:31:14+00:00"
  },
  "relationships": [
   {
@@ -126,14 +114,14 @@
    }
   },
   {
-   "id": "aa7cc20a-3328-48b0-81d5-1c5b80aafc97",
+   "id": "86c2e393-d6e6-4d25-bb2f-1f04b821e351",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-02-11T22:55:19+00:00",
+    "createdAt": "2024-11-15T18:34:09+00:00",
     "description": "",
-    "fileName": "406e9531-2f07-470c-a22d-6cc9583e3316.jpg",
+    "fileName": "16452b06-b8c9-4a8a-a8f2-291ee699e865.jpg",
     "locale": "ja",
-    "updatedAt": "2023-02-11T22:55:19+00:00",
+    "updatedAt": "2024-11-15T18:34:09+00:00",
     "version": 1,
     "volume": "3"
    }

@@ -1,0 +1,141 @@
+{
+ "id": "415f6d4a-af8f-444e-b4d1-8f20559ae1bd",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shokuzai no Hanayome wa Itsuwari no Konin ni Oboreru"
+  },
+  "altTitles": [
+   {
+    "ja": "贖罪の花嫁はいつわりの婚姻に溺れる"
+   }
+  ],
+  "description": {
+   "ja": "幼い頃の事件をきっかけに、家族から疎まれてきた令嬢・エステル。ある日、いわれのない罪を着せられた彼女は、強い魔力を持つ魔法使い・アンデリックと結婚し、彼の子どもを産むことを命じられる。かたちだけの婚姻だったが、不器用ながらも自分を気遣ってくれるアンデリックと共に穏やかな日々が続く。けれどエステルの胸に安らぎが訪れるたび、過去の記憶が彼女を苛む。「私がすべきことはアンデリック様の子を孕むことだけ」自分の役割を果たすため、彼女がとった行動は――…？"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DMGLZMCW",
+   "bw": "series/497135",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/860882",
+   "mu": "cqzw9kk"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-15T14:43:31+00:00",
+  "updatedAt": "2024-11-15T14:44:29+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8d2a27cb-cbb1-4bde-b5f0-6c98bd61676e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Machibari",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/matiba_ri",
+    "updatedAt": "2023-04-30T19:40:45+00:00",
+    "version": 2,
+    "website": "https://matibari.wixsite.com/sewingbox",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9c73e527-1cc2-4fec-a470-9dd32c493017",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-15T14:42:38+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hachiya Nanao",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-15T14:42:38+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6448c19d-37f4-4e3d-af20-50b8e55b7641",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-15T14:43:40+00:00",
+    "description": "",
+    "fileName": "3caf94a6-799e-4f4a-8022-8ce0f67046ac.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-15T14:43:40+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

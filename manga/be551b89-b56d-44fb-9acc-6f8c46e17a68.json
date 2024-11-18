@@ -1,0 +1,166 @@
+{
+ "id": "be551b89-b56d-44fb-9acc-6f8c46e17a68",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Salaryman Kintaro - 50 years old"
+  },
+  "altTitles": [
+   {
+    "ja": "サラリーマン金太郎 五十歳"
+   },
+   {
+    "ja-ro": "Salaryman Kintarou - Gojissai"
+   }
+  ],
+  "description": {},
+  "links": {
+   "amz": "https://www.amazon.co.jp/%E3%82%B5%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3%E9%87%91%E5%A4%AA%E9%83%8E-%E4%BA%94%E5%8D%81%E6%AD%B3-%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9C%AC%E5%AE%AE-%E3%81%B2%E3%82%8D%E5%BF%97/dp/4088902270",
+   "mu": "6l5oe76"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "4",
+  "lastChapter": "36",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2015,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-16T17:13:08+00:00",
+  "updatedAt": "2024-11-16T23:27:12+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b19a0d82-afab-4697-bc4c-95f87f6b7461",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motomiya Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b19a0d82-afab-4697-bc4c-95f87f6b7461",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motomiya Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ade42305-f379-4379-83a6-c3d49766e12d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-16T17:13:11+00:00",
+    "description": "",
+    "fileName": "f4042ee9-4914-4b82-a50c-c0d940d2e32b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-16T17:13:11+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "73a9247f-a18b-4b22-8209-36fe8c766ddf",
+   "type": "creator"
+  }
+ ]
+}

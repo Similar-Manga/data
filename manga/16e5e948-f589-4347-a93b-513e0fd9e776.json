@@ -3,11 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kuni wo Owareta Ryuushi-san, Hirowareta Ringoku de Ukkari Musou shite Shimau. ~Jakushou Kokka ga Tairiku Saikyou no Ryuu no Rakuen ni Naru made~"
+   "en": "Kuni o Owareta Ryuushi-san, Hirowareta Ringoku de Ukkari Musou Shite Shimau. ~Jakushou Kokka ga Tairiku Saikyou no Ryuu no Rakuen ni Naru made~"
   },
   "altTitles": [
    {
-    "ja": "国を追われた竜師さん、拾われた隣国でうっかり無双してしまう。～弱小国家が大陸最強の竜の楽園になるまで～"
+    "ja": "国を追われた竜師さん、拾われた隣国でうっかり無双してしまう。〜弱小国家が大陸最強の竜の楽園になるまで〜"
+   },
+   {
+    "ja-ro": "Kuni wo Owareta Ryuushi-san, Hirowareta Ringoku de Ukkari Musou Shite Shimau. ~Jakushou Kokka ga Tairiku Saikyou no Ryuu no Rakuen ni Naru made~"
+   },
+   {
+    "en": "A Dragon Master Who Was Driven Out Of His Country Accidentally Becomes Matchless In The Neighboring Country That Picked Him Up. ~How A Puny State Became A Paradise For The Continent's Strongest Dragons~"
    },
    {
     "en": "The Banished Dragon Master Becomes a Warrior in the Neighboring Country Where He Was Picked up."
@@ -17,21 +23,21 @@
    }
   ],
   "description": {
-   "en": "Breed, an old dragon master, is not only fired from his job but also exiled from his country... but the dragons love him and come with him!?",
+   "en": "Breed, an old dragon master, is not only fired from his job but also exiled from his country… but the dragons love him and follow him!?\n___\n**Alt Official Raw:** [MagaPoke](https://pocket.shonenmagazine.com/episode/2550912964695382195)",
    "ja": "おっさん竜師のブリードは仕事をクビになるばかりか国を追放されてしまう・・が竜たちがブリードを慕って一緒についてきた！？",
-   "vi": "Breed, một ông chú Long sư không chỉ bị sa thải khỏi công việc mà còn bị trục xuất khỏi đất nước... nhưng những con rồng lại yêu quý ông và đi theo ông!?\n\nCâu chuyện về việc dựng nên quốc gia mạnh nhất cùng với một ông chú và 100 con rồng!"
+   "vi": "Breed, một ông chú Long sư không chỉ bị sa thải khỏi công việc mà còn bị trục xuất khỏi đất nước… nhưng những con rồng lại yêu quý ông và đi theo ông!?\n\nCâu chuyện về việc dựng nên quốc gia mạnh nhất cùng với một ông chú và 100 con rồng!"
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/dp/B0DJTXZVC3",
+   "amz": "https://www.amazon.co.jp/dp/B0DMTGJ72K",
    "ap": "kuni-wo-owareta-ryuushi-san-hirowareta-ringoku-de-ukkari-musou-shiteshimau-jakushou-kokka-ga-tairiku-saikyou-no-ryuu-no-rakuen-ni-naru-made",
-   "bw": "series/493553/list",
+   "bw": "series/493553",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/856812/",
    "mal": "170141",
    "mu": "ptd705k",
    "raw": "https://comic-days.com/episode/2550689798457536190"
   },
   "originalLanguage": "ja",
-  "publicationDemographic": "shounen",
+  "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2024,
   "contentRating": "suggestive",
@@ -115,32 +121,34 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 16,
   "createdAt": "2024-07-09T10:44:26+00:00",
-  "updatedAt": "2024-10-29T16:38:14+00:00"
+  "updatedAt": "2024-11-16T03:36:11+00:00"
  },
  "relationships": [
   {
    "id": "35772c2a-279b-4dcb-b206-59d1672c8068",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 謙虚なサークル\n\n**Additional Sites:**\n- [Kakuyomu](https://kakuyomu.jp/users/kenkyo)\n- [Shousetsuka ni Narou](https://mypage.syosetu.com/356203/)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kenkyo Na Circle",
+    "name": "Kenkyo na Circle",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ofkenkyo",
+    "updatedAt": "2024-11-16T03:26:42+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -150,10 +158,12 @@
    "id": "b9870938-8b46-408f-abf5-6cf7d8a2fabb",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 佐藤駿光\n\n**Also Known As:** Funky Satou (ファンキー佐藤)"
+    },
     "booth": null,
     "createdAt": "2023-02-03T08:40:25+00:00",
-    "fanBox": null,
+    "fanBox": "https://funkysatou.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -161,12 +171,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/4654055",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-02-03T08:40:25+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/FunkySatou",
+    "updatedAt": "2024-11-16T02:27:38+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

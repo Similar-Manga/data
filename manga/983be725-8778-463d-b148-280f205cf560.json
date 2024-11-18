@@ -21,7 +21,7 @@
    "al": "160424",
    "amz": "https://www.amazon.co.jp/dp/B0BR869JTP",
    "ap": "otaku-douryou-to-gisou-kekkon-shita-kekka-mainichi-ga-meccha-tanoshii-n-dakedo",
-   "bw": "series/389703",
+   "bw": "series/389703/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/740273/",
    "mu": "195105",
    "raw": "https://comic-walker.com/contents/detail/KDCW_CW01202823010000_68/"
@@ -69,18 +69,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -94,9 +82,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2022-03-05T01:46:23+00:00",
-  "updatedAt": "2023-11-05T16:18:15+00:00"
+  "updatedAt": "2024-11-15T17:57:24+00:00"
  },
  "relationships": [
   {
@@ -152,14 +140,14 @@
    }
   },
   {
-   "id": "a0fc56fa-3f9b-4cf2-96e8-95b78b1a5e94",
+   "id": "37de67c0-006c-49aa-bc95-1a1dbc14a15a",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-11-05T16:18:14+00:00",
+    "createdAt": "2024-11-15T17:59:32+00:00",
     "description": "",
-    "fileName": "ade25595-b875-4897-a9c6-19302a03e0f8.jpg",
+    "fileName": "9469cece-35e2-4e28-aca8-10de3747926e.jpg",
     "locale": "ja",
-    "updatedAt": "2023-11-05T16:18:14+00:00",
+    "updatedAt": "2024-11-15T17:59:32+00:00",
     "version": 1,
     "volume": "2"
    }

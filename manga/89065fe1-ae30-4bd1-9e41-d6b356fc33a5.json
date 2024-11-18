@@ -1,0 +1,129 @@
+{
+ "id": "89065fe1-ae30-4bd1-9e41-d6b356fc33a5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Koi kara wa Nigerarenai"
+  },
+  "altTitles": [
+   {
+    "ja": "恋からは逃げられない"
+   }
+  ],
+  "description": {
+   "ja": "中学時代、短距離（男子100m）で、全国2位となった大塚ヒロ。しかし、彼は、1位になれなかった――。その理由は――おっぱい!!!!!!??そんなヒロの弱点を見抜き、スカウトした黒河高等学園の理事長!! しかし、ヒロの意思を尊重し、ヒロの為に作成された育成方法は、ヒロの陸上人生を大きく左右することに――!!? 行け。疾駆れ。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CXR3Q4PQ",
+   "bw": "series/459008",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/817043",
+   "mu": "rmutujz"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-15T15:33:56+00:00",
+  "updatedAt": "2024-11-15T15:35:19+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a8c98f69-0b69-434b-b29c-2abfa6c63cfe",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-15T15:20:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hasegawa Shinya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-15T15:20:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a8c98f69-0b69-434b-b29c-2abfa6c63cfe",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-15T15:20:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hasegawa Shinya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-15T15:20:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ebbfc61f-d299-4dc3-ab43-4d9d8dae7b62",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-15T15:34:06+00:00",
+    "description": "",
+    "fileName": "d67e51e0-83ec-4ccf-9da6-4115f02f2107.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-15T15:34:06+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

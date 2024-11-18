@@ -11,7 +11,7 @@
     "en": "Bad Boy Who Lies In Love"
    },
    "contentRating": "safe",
-   "score": 0.29324615,
+   "score": 0.29324654,
    "languages": [
     "pt-br",
     "pl",
@@ -25,7 +25,7 @@
     "en": "It's the First Time for Both of Us!"
    },
    "contentRating": "safe",
-   "score": 0.26782286,
+   "score": 0.26782167,
    "languages": [
     "es-la",
     "pt-br"
@@ -38,18 +38,6 @@
    },
    "contentRating": "safe",
    "score": 0.26726124,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "a40be53c-0f0f-4f07-ac88-7702405cb51e",
-   "title": {
-    "en": "I Became a Millionaire's Daughter"
-   },
-   "contentRating": "safe",
-   "score": 0.26452002,
    "languages": [
     "en",
     "es-la"
@@ -71,28 +59,28 @@
    ]
   },
   {
+   "id": "a40be53c-0f0f-4f07-ac88-7702405cb51e",
+   "title": {
+    "en": "I Became a Millionaire's Daughter"
+   },
+   "contentRating": "safe",
+   "score": 0.26452002,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "ba78b8c3-b5cc-4bc7-9acd-c237b9f9b6a7",
    "title": {
     "en": "Sweet Robot"
    },
    "contentRating": "safe",
-   "score": 0.25939602,
+   "score": 0.2593864,
    "languages": [
     "en",
     "vi",
     "es-la"
-   ]
-  },
-  {
-   "id": "c7ec2aa6-a64e-45a9-9052-f03dd2d7aa56",
-   "title": {
-    "en": "Let's Play"
-   },
-   "contentRating": "safe",
-   "score": 0.2564956,
-   "languages": [
-    "es-la",
-    "fr"
    ]
   },
   {
@@ -101,33 +89,7 @@
     "en": "Space Boy"
    },
    "contentRating": "safe",
-   "score": 0.25362802,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "dba664f4-5911-4863-a74c-41dc3ad537b7",
-   "title": {
-    "en": "I Swear We're Just Friends"
-   },
-   "contentRating": "safe",
-   "score": 0.252741,
-   "languages": [
-    "es-la",
-    "en",
-    "tr",
-    "uk",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "a407ab97-d861-40ac-acba-8991edd116ac",
-   "title": {
-    "en": "Pure Cohabitation"
-   },
-   "contentRating": "safe",
-   "score": 0.24950679,
+   "score": 0.25362852,
    "languages": [
     "es-la"
    ]
@@ -138,7 +100,7 @@
     "en": "Butler, please!"
    },
    "contentRating": "safe",
-   "score": 0.24946384,
+   "score": 0.24946475,
    "languages": [
     "es-la",
     "pl",
@@ -151,54 +113,11 @@
     "en": "I Think I Have Transmigrated Somewhere"
    },
    "contentRating": "safe",
-   "score": 0.24656641,
+   "score": 0.24655525,
    "languages": [
     "en",
     "es-la",
     "pl"
-   ]
-  },
-  {
-   "id": "4126e4a5-e57b-4d88-9375-bc2e940192c7",
-   "title": {
-    "en": "Secret Playlist"
-   },
-   "contentRating": "safe",
-   "score": 0.24489798,
-   "languages": [
-    "pt-br",
-    "vi",
-    "en",
-    "es-la",
-    "uk",
-    "my"
-   ]
-  },
-  {
-   "id": "9d77daf1-bc1f-4fd6-85c4-4cef82afb7c7",
-   "title": {
-    "en": "The Mismatched Marriage"
-   },
-   "contentRating": "safe",
-   "score": 0.24489798,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "57fe3f00-8626-462b-8f75-fce0e6faa6be",
-   "title": {
-    "en": "Waka-chan wa Kyou mo Azatoi"
-   },
-   "contentRating": "safe",
-   "score": 0.24489798,
-   "languages": [
-    "id",
-    "en",
-    "es-la",
-    "fr",
-    "pt-br"
    ]
   },
   {
@@ -218,7 +137,89 @@
     "pt-br",
     "fr"
    ]
+  },
+  {
+   "id": "57fe3f00-8626-462b-8f75-fce0e6faa6be",
+   "title": {
+    "en": "Waka-chan wa Kyou mo Azatoi"
+   },
+   "contentRating": "safe",
+   "score": 0.24489798,
+   "languages": [
+    "id",
+    "en",
+    "es-la",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "9d77daf1-bc1f-4fd6-85c4-4cef82afb7c7",
+   "title": {
+    "en": "The Mismatched Marriage"
+   },
+   "contentRating": "safe",
+   "score": 0.24489798,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "4126e4a5-e57b-4d88-9375-bc2e940192c7",
+   "title": {
+    "en": "Secret Playlist"
+   },
+   "contentRating": "safe",
+   "score": 0.24489798,
+   "languages": [
+    "pt-br",
+    "vi",
+    "en",
+    "es-la",
+    "uk",
+    "my"
+   ]
+  },
+  {
+   "id": "ad9ac663-2d34-48cf-a458-a03f5370bf47",
+   "title": {
+    "en": "The Secret of the Partner Next to You"
+   },
+   "contentRating": "safe",
+   "score": 0.24175712,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "915f5cb4-8833-4f2b-bba3-979e814ebdd0",
+   "title": {
+    "en": "Xiaobai's Dream Daddy"
+   },
+   "contentRating": "safe",
+   "score": 0.24147265,
+   "languages": [
+    "en",
+    "es-la",
+    "tr"
+   ]
+  },
+  {
+   "id": "9066dda7-36e9-496a-bdd4-a338d2ea84cf",
+   "title": {
+    "en": "The Sweet Phony"
+   },
+   "contentRating": "safe",
+   "score": 0.24147265,
+   "languages": [
+    "es-la",
+    "es"
+   ]
   }
  ],
- "updatedAt": "2024-11-15T21:46:16+00:00"
+ "updatedAt": "2024-11-17T22:02:17+00:00"
 }

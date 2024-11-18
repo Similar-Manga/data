@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "65fa0f2b-363b-4f05-9598-28494163c022",
+   "title": {
+    "en": "Lady Red"
+   },
+   "contentRating": "safe",
+   "score": 0.29744536
+  },
+  {
    "id": "e38b3c53-468a-4070-873d-5226a3c0cc74",
    "title": {
     "en": "Shirogane no Ryuu to Ame Komori no Otome"
    },
    "contentRating": "safe",
-   "score": 0.2970982
+   "score": 0.2861471
   },
   {
    "id": "9304a548-a2ab-4d2e-93be-928b51ca51ab",
@@ -19,18 +27,18 @@
     "en": "The Vengeance Of Leah 〜 A Girl Who Lost Everything’s Vow To A Reaper"
    },
    "contentRating": "safe",
-   "score": 0.2904356,
+   "score": 0.2804439,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fda004b3-2665-4d96-a3a3-5bcce6e7bc10",
+   "id": "448bb35a-9470-40bc-a0b6-cd63acc427eb",
    "title": {
-    "en": "Lozan"
+    "en": "Ousama no Mimi ~Himitsu no Bar e Youkoso~"
    },
    "contentRating": "safe",
-   "score": 0.2853207
+   "score": 0.27681372
   },
   {
    "id": "88eb030f-b14f-427e-b45c-2d6a31867752",
@@ -38,67 +46,15 @@
     "en": "Itsuka Kamisama Datta Hi. - Ryuujin-sama no Sennen no Dekiai"
    },
    "contentRating": "safe",
-   "score": 0.27601284
+   "score": 0.27305108
   },
   {
-   "id": "4b47b7b4-9784-4762-84d2-6db998d88b22",
+   "id": "fda004b3-2665-4d96-a3a3-5bcce6e7bc10",
    "title": {
-    "en": "Reikoku-Ou wa Hatsukoi ni Kuruu"
+    "en": "Lozan"
    },
    "contentRating": "safe",
-   "score": 0.27429488
-  },
-  {
-   "id": "538e67b3-4967-4cba-83f4-229687ca3d9a",
-   "title": {
-    "en": "Dekiai Kannushi wa Tebanasenai - Kamisama kara no Ryakudatsu Kon"
-   },
-   "contentRating": "safe",
-   "score": 0.27236393
-  },
-  {
-   "id": "00f15555-1407-4942-b5f5-d8e3ab1c8042",
-   "title": {
-    "en": "Kitsune ni Yomeiri"
-   },
-   "contentRating": "safe",
-   "score": 0.2712605
-  },
-  {
-   "id": "28dc15a0-0ca4-4c08-b2c7-ffb31e815b47",
-   "title": {
-    "en": "Your Black Wings"
-   },
-   "contentRating": "safe",
-   "score": 0.27027416
-  },
-  {
-   "id": "e76dbd42-a34c-42e3-bf8c-a3d0512b8131",
-   "title": {
-    "en": "Zannen Nagara, Haha no Musume wa Soko no Bishoujo de Wanaku Watashi desu!!!"
-   },
-   "contentRating": "safe",
-   "score": 0.26733434
-  },
-  {
-   "id": "c4d3a5a7-65b0-4baa-bda4-4985a043e907",
-   "title": {
-    "en": "Akuyaku Onmyouji to Noroware Reijou"
-   },
-   "contentRating": "safe",
-   "score": 0.26508087
-  },
-  {
-   "id": "81450496-80d1-4bc5-ae28-05a7622ecbb4",
-   "title": {
-    "en": "One Day in the Life of a Comic Artist"
-   },
-   "contentRating": "safe",
-   "score": 0.26394597,
-   "languages": [
-    "en",
-    "ja"
-   ]
+   "score": 0.2686747
   },
   {
    "id": "f153682b-4a2c-425a-9f52-741e62c447e8",
@@ -106,7 +62,58 @@
     "en": "Witch Shop"
    },
    "contentRating": "safe",
-   "score": 0.26349202,
+   "score": 0.26711687,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4b47b7b4-9784-4762-84d2-6db998d88b22",
+   "title": {
+    "en": "Reikoku-Ou wa Hatsukoi ni Kuruu"
+   },
+   "contentRating": "safe",
+   "score": 0.26663423
+  },
+  {
+   "id": "00f15555-1407-4942-b5f5-d8e3ab1c8042",
+   "title": {
+    "en": "Kitsune ni Yomeiri"
+   },
+   "contentRating": "safe",
+   "score": 0.26507735
+  },
+  {
+   "id": "538e67b3-4967-4cba-83f4-229687ca3d9a",
+   "title": {
+    "en": "Dekiai Kannushi wa Tebanasenai - Kamisama kara no Ryakudatsu Kon"
+   },
+   "contentRating": "safe",
+   "score": 0.26497078
+  },
+  {
+   "id": "28dc15a0-0ca4-4c08-b2c7-ffb31e815b47",
+   "title": {
+    "en": "Your Black Wings"
+   },
+   "contentRating": "safe",
+   "score": 0.26424196
+  },
+  {
+   "id": "c4d3a5a7-65b0-4baa-bda4-4985a043e907",
+   "title": {
+    "en": "Akuyaku Onmyouji to Noroware Reijou"
+   },
+   "contentRating": "safe",
+   "score": 0.26370007
+  },
+  {
+   "id": "fd379676-def6-4e1c-8062-9959b062e2b8",
+   "title": {
+    "en": "SCARS"
+   },
+   "contentRating": "safe",
+   "score": 0.2615205,
    "languages": [
     "en"
    ]
@@ -117,35 +124,24 @@
     "en": "Your White Wings"
    },
    "contentRating": "safe",
-   "score": 0.26256266
+   "score": 0.2576464
   },
   {
-   "id": "54c4a0f0-8938-4233-8570-2b860e0daf65",
+   "id": "e76dbd42-a34c-42e3-bf8c-a3d0512b8131",
    "title": {
-    "en": "Memoir Girl"
+    "en": "Zannen Nagara, Haha no Musume wa Soko no Bishoujo de Wanaku Watashi desu!!!"
    },
    "contentRating": "safe",
-   "score": 0.26116168
+   "score": 0.25640762
   },
   {
-   "id": "f67aee13-241b-469f-b52a-c2f394def717",
+   "id": "a37820f5-daf6-4ef0-8d1b-19cebbf3cbeb",
    "title": {
-    "en": "Kakuriyo no Wakadanna-sama to Niehime"
+    "en": "Kotonoha Musubi"
    },
    "contentRating": "safe",
-   "score": 0.25963014
-  },
-  {
-   "id": "499c4444-f8cb-42c3-b612-a9a082808b77",
-   "title": {
-    "en": "Truth of a Lily"
-   },
-   "contentRating": "safe",
-   "score": 0.2573767,
-   "languages": [
-    "pt-br"
-   ]
+   "score": 0.25555065
   }
  ],
- "updatedAt": "2024-11-15T21:57:37+00:00"
+ "updatedAt": "2024-11-17T22:10:58+00:00"
 }

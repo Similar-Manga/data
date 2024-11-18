@@ -1,0 +1,151 @@
+{
+ "id": "0858cc26-eece-4a19-a848-b526e433008a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "На грани безумия"
+  },
+  "description": {},
+  "originalLanguage": "ru",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Video Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-15T21:10:23+00:00",
+  "updatedAt": "2024-11-15T21:24:30+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a9c3c554-06b1-49d4-9085-1b320a89f422",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-15T21:09:11+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Vgik",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-15T21:09:11+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a9c3c554-06b1-49d4-9085-1b320a89f422",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-15T21:09:11+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Vgik",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-15T21:09:11+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "981059b5-56bf-4fce-8c27-605d5e040546",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-15T21:10:24+00:00",
+    "description": "",
+    "fileName": "73977394-3ae0-4546-904d-a7cadd83f7b2.jpg",
+    "locale": "ru",
+    "updatedAt": "2024-11-15T21:10:24+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "d49a0422-afff-45a8-9247-26300bbea7fd",
+   "type": "creator"
+  }
+ ]
+}

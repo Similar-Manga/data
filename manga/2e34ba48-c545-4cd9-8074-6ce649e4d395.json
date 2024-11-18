@@ -13,7 +13,9 @@
     "ja-ro": "Asagiri Kanami wa Mieteiru"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "About a transfer student girl with a cursed right hand and the secret ability to see supernatural incidents."
+  },
   "links": {
    "al": "164503",
    "mal": "158597",
@@ -50,6 +52,18 @@
     }
    },
    {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -63,9 +77,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2023-04-29T22:14:21+00:00",
-  "updatedAt": "2023-05-03T17:42:28+00:00"
+  "updatedAt": "2024-11-15T18:47:52+00:00"
  },
  "relationships": [
   {
@@ -125,16 +139,16 @@
    }
   },
   {
-   "id": "65fae1fb-7107-4b05-92b8-95f043c29f03",
+   "id": "fecb86d5-eef5-4fe4-8056-e4141c3f429b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-04-29T22:14:23+00:00",
+    "createdAt": "2024-11-15T18:47:51+00:00",
     "description": "",
-    "fileName": "40a419a6-7f04-4eba-86bb-4ee96af73e75.jpg",
+    "fileName": "c5087404-9df6-40f4-9c15-1ddfb724cc85.jpg",
     "locale": "ja",
-    "updatedAt": "2023-04-29T22:14:23+00:00",
+    "updatedAt": "2024-11-15T18:47:51+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "3"
    }
   },
   {

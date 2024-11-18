@@ -15,11 +15,14 @@
   },
   "links": {
    "ap": "double-decker-doug-and-kirill",
+   "bw": "series/184898/list",
    "mal": "115750",
    "mu": "150680"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "4",
+  "lastChapter": "23",
+  "status": "completed",
   "year": 2018,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -88,18 +91,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -113,9 +104,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2019-11-29T03:20:28+00:00",
-  "updatedAt": "2024-02-28T18:21:07+00:00"
+  "updatedAt": "2024-11-15T18:26:47+00:00"
  },
  "relationships": [
   {
@@ -171,16 +162,16 @@
    }
   },
   {
-   "id": "103dc582-424a-4fae-80d7-f6c9984fdc28",
+   "id": "30a8559e-8ffd-4c2a-9770-240468110fe6",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:35:34+00:00",
+    "createdAt": "2024-11-15T18:29:07+00:00",
     "description": "",
-    "fileName": "1390beee-9f84-4c7d-b8cc-fcbd9e24c43f.png",
+    "fileName": "ed45dddf-e291-46dc-8f18-343e6b2423c0.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:35:34+00:00",
+    "updatedAt": "2024-11-15T18:29:07+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
   },
   {

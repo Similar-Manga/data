@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "bf8de2ce-9cec-469b-b58d-b1e8b3f46fc7",
-   "title": {
-    "en": "Arthur Bright"
-   },
-   "contentRating": "safe",
-   "score": 0.26549926,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "18294a65-d144-4288-a10d-c93e75d48535",
    "title": {
     "en": "Karasu"
    },
    "contentRating": "safe",
-   "score": 0.25609207,
+   "score": 0.2560947,
    "languages": [
     "en"
    ]
@@ -33,7 +22,18 @@
     "en": "Shinsengumi Jingishou Asagi"
    },
    "contentRating": "safe",
-   "score": 0.255056,
+   "score": 0.2550604,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bf8de2ce-9cec-469b-b58d-b1e8b3f46fc7",
+   "title": {
+    "en": "Arthur Bright"
+   },
+   "contentRating": "safe",
+   "score": 0.25456348,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Steel of the Celestial Shadows"
    },
    "contentRating": "safe",
-   "score": 0.20729427,
+   "score": 0.20729825,
    "languages": [
     "en",
     "fr",
@@ -68,7 +68,7 @@
     "en": "The Valiant Must Fall"
    },
    "contentRating": "safe",
-   "score": 0.20570038,
+   "score": 0.2057078,
    "languages": [
     "ru",
     "es-la",
@@ -81,7 +81,7 @@
     "en": "Conde Koma"
    },
    "contentRating": "safe",
-   "score": 0.20305748,
+   "score": 0.20306672,
    "languages": [
     "en"
    ]
@@ -92,7 +92,7 @@
     "en": "Kabuki Hime - Tenkaichi no Onna"
    },
    "contentRating": "safe",
-   "score": 0.20250885,
+   "score": 0.20251341,
    "languages": [
     "en"
    ]
@@ -103,7 +103,7 @@
     "en": "ReMember"
    },
    "contentRating": "safe",
-   "score": 0.20237982,
+   "score": 0.20238939,
    "languages": [
     "en",
     "fr"
@@ -115,7 +115,7 @@
     "en": "Tensei! Takenaka Hanbei: Minor Bushou ni Tensei shita Nakama-tachi to Sengoku Ranse wo Ikinuku"
    },
    "contentRating": "safe",
-   "score": 0.19290164,
+   "score": 0.1929086,
    "languages": [
     "en",
     "ru"
@@ -127,7 +127,7 @@
     "en": "Duelant"
    },
    "contentRating": "safe",
-   "score": 0.1904697,
+   "score": 0.19045658,
    "languages": [
     "en"
    ]
@@ -138,7 +138,7 @@
     "en": "Meteora"
    },
    "contentRating": "safe",
-   "score": 0.1902068,
+   "score": 0.19021714,
    "languages": [
     "en"
    ]
@@ -149,7 +149,7 @@
     "en": "Tokyo Duel"
    },
    "contentRating": "safe",
-   "score": 0.18144175,
+   "score": 0.18144591,
    "languages": [
     "en",
     "vi",
@@ -157,14 +157,19 @@
    ]
   },
   {
-   "id": "9d6bbd43-926b-4999-a281-ac4a389cbadc",
+   "id": "dfd7e5e0-d638-4f1d-9f38-ffc626c4167e",
    "title": {
-    "en": "Sirocco"
+    "en": "Kijin Gentoushou"
    },
    "contentRating": "safe",
-   "score": 0.1787909,
+   "score": 0.17910938,
    "languages": [
-    "en"
+    "fr",
+    "en",
+    "pt-br",
+    "es-la",
+    "fa",
+    "ru"
    ]
   },
   {
@@ -180,9 +185,9 @@
    ]
   },
   {
-   "id": "9002b2bd-feac-44b2-b118-ddac0e7dcaad",
+   "id": "9d6bbd43-926b-4999-a281-ac4a389cbadc",
    "title": {
-    "en": "Cestvs Series II: Legend of Desperate Struggle"
+    "en": "Sirocco"
    },
    "contentRating": "safe",
    "score": 0.1787909,
@@ -191,5 +196,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-15T21:25:07+00:00"
+ "updatedAt": "2024-11-17T21:41:28+00:00"
 }

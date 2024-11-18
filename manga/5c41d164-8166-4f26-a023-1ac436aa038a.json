@@ -3,17 +3,18 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Mizu no Revolver"
+   "en": "The Water Revolver"
   },
   "altTitles": [
    {
     "ja": "水のリボルバー"
    },
    {
-    "en": "The Water Revolver"
+    "ja-ro": "Mizu no Revolver"
    }
   ],
   "description": {
+   "en": "**Alt Official Raw:** [Comic DAYS](https://comic-days.com/episode/316190246926614383)",
    "ja": "かつて“異能の銃”をめぐる戦争があった…。\n\n過去を隠し、酒場で居候中の青年ポンチョが偶然出会ったのは、異能の銃『水のリボルバー』を手にした不思議な少女サファイア。「軍に狙われている」と言うサファイアを助けるべく、再び立ち上がるポンチョ！その過去を明かし、『水のリボルバー』の真の力を開放する時、野盗、腐敗した軍、そして、闇の組織を巻き込む“新たな戦争”への引\nき金となる！！"
   },
   "links": {
@@ -60,19 +61,21 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2023-02-03T08:42:02+00:00",
-  "updatedAt": "2024-10-25T14:55:37+00:00"
+  "updatedAt": "2024-11-16T02:39:21+00:00"
  },
  "relationships": [
   {
    "id": "b9870938-8b46-408f-abf5-6cf7d8a2fabb",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 佐藤駿光\n\n**Also Known As:** Funky Satou (ファンキー佐藤)"
+    },
     "booth": null,
     "createdAt": "2023-02-03T08:40:25+00:00",
-    "fanBox": null,
+    "fanBox": "https://funkysatou.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -80,12 +83,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/4654055",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-02-03T08:40:25+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/FunkySatou",
+    "updatedAt": "2024-11-16T02:27:38+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -95,10 +98,12 @@
    "id": "b9870938-8b46-408f-abf5-6cf7d8a2fabb",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 佐藤駿光\n\n**Also Known As:** Funky Satou (ファンキー佐藤)"
+    },
     "booth": null,
     "createdAt": "2023-02-03T08:40:25+00:00",
-    "fanBox": null,
+    "fanBox": "https://funkysatou.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -106,12 +111,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/4654055",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-02-03T08:40:25+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/FunkySatou",
+    "updatedAt": "2024-11-16T02:27:38+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

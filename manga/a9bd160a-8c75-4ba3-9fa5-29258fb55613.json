@@ -21,7 +21,23 @@
   "status": "completed",
   "year": 2022,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "9e5bc025-22a6-4509-acea-d4c1410a07d2",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
     "type": "tag",
@@ -36,9 +52,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-06-11T16:04:25+00:00",
-  "updatedAt": "2024-06-11T16:12:41+00:00"
+  "updatedAt": "2024-11-16T00:56:09+00:00"
  },
  "relationships": [
   {

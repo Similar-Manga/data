@@ -23,17 +23,21 @@
    "en": "Let the standard adventure story of extremely normal(?) people begin!"
   },
   "links": {
-   "mu": "178416"
+   "ap": "standard-heroes",
+   "mal": "149092",
+   "mu": "178416",
+   "raw": "https://www.lezhin.com/ko/comic/standardheroes"
   },
   "originalLanguage": "ko",
+  "lastChapter": "293",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2015,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "8e888d31-277e-4e27-bb26-65152433e8c6",
+  "latestUploadedChapter": "d15991d9-af09-48fc-8cca-a7eea30d8f37",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -109,16 +113,18 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2021-03-03T09:19:34+00:00",
-  "updatedAt": "2024-10-14T05:48:44+00:00"
+  "updatedAt": "2024-11-16T22:55:22+00:00"
  },
  "relationships": [
   {
    "id": "950a2863-6a3c-48c2-98d5-406d78451844",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "aka 오솟입니다"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -133,9 +139,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-16T22:54:19+00:00",
+    "version": 2,
+    "website": "https://x.com/oh_sot",
     "weibo": null,
     "youtube": null
    }
@@ -144,7 +150,9 @@
    "id": "950a2863-6a3c-48c2-98d5-406d78451844",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "aka 오솟입니다"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -159,24 +167,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-16T22:54:19+00:00",
+    "version": 2,
+    "website": "https://x.com/oh_sot",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "875ee5e0-3cb9-4f42-8a14-0bdfb4e0d82d",
+   "id": "d8680f75-2e47-4fdf-9a1d-a589452664dc",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:33:36+00:00",
+    "createdAt": "2021-05-23T07:56:01+00:00",
     "description": "",
-    "fileName": "115e822a-e209-49cf-8651-2cb2b84bc50d.jpg",
+    "fileName": "544722cc-7626-4eaa-8243-ec06bd93d42d.jpg",
     "locale": "ko",
-    "updatedAt": "2021-05-24T18:33:36+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-16T22:56:11+00:00",
+    "version": 4,
+    "volume": "0"
    }
   }
  ]

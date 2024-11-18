@@ -10,7 +10,9 @@
     "ja": "アドラブルミッション"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "A retired spy takes on a mission to protect his granddaughter, while reminiscing about the years he's spent with her."
+  },
   "links": {
    "mal": "176049"
   },
@@ -37,6 +39,18 @@
     }
    },
    {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
     "attributes": {
@@ -47,12 +61,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-11-08T08:29:29+00:00",
-  "updatedAt": "2024-11-11T15:39:11+00:00"
+  "updatedAt": "2024-11-15T06:51:01+00:00"
  },
  "relationships": [
   {

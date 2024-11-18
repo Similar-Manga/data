@@ -6,9 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "88e3dc96-30c2-40e5-bb59-6b8f003e22b3",
+   "title": {
+    "en": "Glacias"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "fe61444a-4860-440e-950b-552360ca53de",
    "title": {
     "en": "Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bc8eef24-f89f-4ea5-b94a-0d7f03d1cfbf",
+   "title": {
+    "en": "The Great Level Up"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -28,31 +47,12 @@
    ]
   },
   {
-   "id": "bc8eef24-f89f-4ea5-b94a-0d7f03d1cfbf",
-   "title": {
-    "en": "The Great Level Up"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "88e3dc96-30c2-40e5-bb59-6b8f003e22b3",
-   "title": {
-    "en": "Glacias"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "fc738fae-638c-4ca3-98e7-20d948ba3a62",
    "title": {
     "en": "On the way to Living Dead"
    },
    "contentRating": "safe",
-   "score": 0.26540282,
+   "score": 0.26540568,
    "languages": [
     "en"
    ]
@@ -63,7 +63,7 @@
     "en": "Heaven's Souls"
    },
    "contentRating": "safe",
-   "score": 0.262511,
+   "score": 0.2625104,
    "languages": [
     "en",
     "es-la",
@@ -76,7 +76,7 @@
     "en": "A Thousand Miles Across the River"
    },
    "contentRating": "safe",
-   "score": 0.2617081,
+   "score": 0.26171312,
    "languages": [
     "en"
    ]
@@ -87,7 +87,7 @@
     "en": "Born from Death"
    },
    "contentRating": "safe",
-   "score": 0.26030326,
+   "score": 0.26031125,
    "languages": [
     "fr"
    ]
@@ -98,7 +98,7 @@
     "en": "Pyxis"
    },
    "contentRating": "safe",
-   "score": 0.2576073,
+   "score": 0.2576165,
    "languages": [
     "en"
    ]
@@ -109,7 +109,7 @@
     "en": "Killmax 2.0"
    },
    "contentRating": "safe",
-   "score": 0.25391278,
+   "score": 0.25392917,
    "languages": [
     "pt-br",
     "fr"
@@ -121,21 +121,9 @@
     "en": "I Raised My Husband Wrong"
    },
    "contentRating": "safe",
-   "score": 0.25291523,
+   "score": 0.25291976,
    "languages": [
     "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "cface40c-a301-4948-9608-2ce581b154b2",
-   "title": {
-    "en": "The Villain Wants to Live One More Day"
-   },
-   "contentRating": "safe",
-   "score": 0.25130057,
-   "languages": [
-    "id",
     "en"
    ]
   },
@@ -145,10 +133,22 @@
     "en": "Conquering Dungeons With Copy Paste!"
    },
    "contentRating": "safe",
-   "score": 0.25082764,
+   "score": 0.25084314,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "cface40c-a301-4948-9608-2ce581b154b2",
+   "title": {
+    "en": "The Villain Wants to Live One More Day"
+   },
+   "contentRating": "safe",
+   "score": 0.25062555,
+   "languages": [
+    "id",
+    "en"
    ]
   },
   {
@@ -157,7 +157,7 @@
     "en": "The Sleeping Beauty"
    },
    "contentRating": "safe",
-   "score": 0.24975413
+   "score": 0.24975027
   },
   {
    "id": "e7e93812-eb9c-456b-91cc-c355958213ef",
@@ -165,7 +165,7 @@
     "en": "Gods reborn"
    },
    "contentRating": "safe",
-   "score": 0.24808201,
+   "score": 0.24808931,
    "languages": [
     "fr"
    ]
@@ -176,12 +176,12 @@
     "en": "Evil Hunter"
    },
    "contentRating": "safe",
-   "score": 0.24779557,
+   "score": 0.24782094,
    "languages": [
     "en",
     "es-la"
    ]
   }
  ],
- "updatedAt": "2024-11-15T20:56:08+00:00"
+ "updatedAt": "2024-11-17T21:10:45+00:00"
 }

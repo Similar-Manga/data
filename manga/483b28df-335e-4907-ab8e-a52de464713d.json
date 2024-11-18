@@ -17,7 +17,7 @@
   "links": {
    "al": "138476",
    "amz": "https://www.amazon.co.jp/dp/B09ZB87D7N",
-   "bw": "series/347150",
+   "bw": "series/347150/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/689400/",
    "mu": "d1cr5uk",
    "raw": "https://yawaspi.com/osaka/"
@@ -89,18 +89,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -114,9 +102,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2023-09-28T17:07:30+00:00",
-  "updatedAt": "2024-08-16T12:24:41+00:00"
+  "updatedAt": "2024-11-15T17:22:03+00:00"
  },
  "relationships": [
   {
@@ -172,14 +160,14 @@
    }
   },
   {
-   "id": "9bac9225-5ed3-4bb8-a05d-79b79f29ea62",
+   "id": "4d57e9f9-8fb7-4e7f-bd0a-c8ffe14f5ce0",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-08-16T12:22:58+00:00",
+    "createdAt": "2024-11-15T17:26:25+00:00",
     "description": "",
-    "fileName": "a61e88c3-0820-4b7a-919b-69f8d225db91.jpg",
+    "fileName": "4fd5997b-960e-4c28-a228-ebc4d45542fa.jpg",
     "locale": "ja",
-    "updatedAt": "2024-08-16T12:22:58+00:00",
+    "updatedAt": "2024-11-15T17:26:25+00:00",
     "version": 1,
     "volume": "9"
    }

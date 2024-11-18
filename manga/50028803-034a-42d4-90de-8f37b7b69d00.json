@@ -1,0 +1,146 @@
+{
+ "id": "50028803-034a-42d4-90de-8f37b7b69d00",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Touhou - Kyuuketsuki no Natsuyasumi (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "吸血鬼の夏休み (東方)"
+   },
+   {
+    "ja-ro": "Kyuuketsuki no Natsuyasumi (Touhou)"
+   },
+   {
+    "en": "A Vampire's Summer Vacation (Touhou Project)"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "e59acc3d-30da-4d2c-af1d-55bfa51f717f",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-11-16T09:36:35+00:00",
+  "updatedAt": "2024-11-17T02:39:53+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1844d432-a596-46c5-8eab-022482abc94d",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nもや造"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://qjfb3s7h.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Moyazou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": "https://www.nicovideo.jp/user/43280238",
+    "pixiv": "https://www.pixiv.net/users/12363124",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/moyashiseizoujo",
+    "updatedAt": "2023-05-07T04:23:20+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1844d432-a596-46c5-8eab-022482abc94d",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nもや造"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://qjfb3s7h.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Moyazou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": "https://www.nicovideo.jp/user/43280238",
+    "pixiv": "https://www.pixiv.net/users/12363124",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/moyashiseizoujo",
+    "updatedAt": "2023-05-07T04:23:20+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a00426ba-4750-4b03-9851-c163f3853229",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-16T09:36:54+00:00",
+    "description": "",
+    "fileName": "c662f42a-2415-4d70-803e-276706a7fac6.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-16T09:36:54+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c507e724-daaa-4ad4-ae8b-946780289cc6",
+   "type": "creator"
+  }
+ ]
+}

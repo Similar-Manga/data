@@ -1,0 +1,153 @@
+{
+ "id": "d4fe303a-a5f9-43d2-8c4c-6ebbaebe7645",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Girls und Panzer - Senshado no Susume"
+  },
+  "altTitles": [
+   {
+    "ja": "ガールズ＆パンツァー 戦車道ノススメ"
+   }
+  ],
+  "description": {
+   "ja": "わたしたちが乗っている戦車のことをお勉強！あんこうチームはIV号戦車、ウサギさんチームはＭ３リー、カバさんチームはIII号突撃砲……。普段乗ってる戦車のことを知れば、もっと戦車道が楽しくなる！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B077PYHPW9",
+   "ap": "girls-und-panzer-senshado-no-susume",
+   "bw": "series/153532",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/397405",
+   "mu": "d8uvmzs"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "5",
+  "lastChapter": "30",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2017,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-15T20:41:32+00:00",
+  "updatedAt": "2024-11-15T20:41:50+00:00"
+ },
+ "relationships": [
+  {
+   "id": "94cd858f-0dff-4ef7-a4b0-96750bf52f06",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n葉来緑"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hagi Midori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/16104723",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hagimidori",
+    "updatedAt": "2023-07-31T21:49:27+00:00",
+    "version": 2,
+    "website": "http://tomsawyer.main.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "94cd858f-0dff-4ef7-a4b0-96750bf52f06",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n葉来緑"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hagi Midori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/16104723",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hagimidori",
+    "updatedAt": "2023-07-31T21:49:27+00:00",
+    "version": 2,
+    "website": "http://tomsawyer.main.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7806dd3a-5d5a-4141-9b3e-4c5e01fbf528",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-15T20:41:42+00:00",
+    "description": "",
+    "fileName": "df3f3184-a970-4ec0-8f0a-1b8ecc8a9114.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-15T20:41:42+00:00",
+    "version": 1,
+    "volume": "5"
+   }
+  },
+  {
+   "id": "944570ea-1b4e-4f80-ada6-8b30aa5b9a2c",
+   "type": "manga",
+   "related": "adapted_from"
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

@@ -6,12 +6,47 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "222f7c02-5380-4de7-b099-b2beea265e39",
+   "title": {
+    "en": "Owaru Sekai de Kimi ni Koisuru"
+   },
+   "contentRating": "safe",
+   "score": 0.32807255
+  },
+  {
    "id": "e2e4de17-9d39-4694-bc64-57c7ced80775",
    "title": {
     "en": "Anne the Lover"
    },
    "contentRating": "safe",
-   "score": 0.33235765,
+   "score": 0.32535926,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a5dbdc12-9f84-4a4a-96c9-a9633c96d178",
+   "title": {
+    "en": "Oh! My Darling"
+   },
+   "contentRating": "safe",
+   "score": 0.3173069
+  },
+  {
+   "id": "294c0332-1ab8-47d1-8c62-3a8a67a24621",
+   "title": {
+    "en": "Tokyo Baby Game"
+   },
+   "contentRating": "safe",
+   "score": 0.31493938
+  },
+  {
+   "id": "36320572-a99d-4f8f-904e-630312cc963c",
+   "title": {
+    "en": "12 Months"
+   },
+   "contentRating": "safe",
+   "score": 0.30934057,
    "languages": [
     "en"
    ]
@@ -22,18 +57,7 @@
     "en": "Bokura wa Koi ga Heta sugiru"
    },
    "contentRating": "safe",
-   "score": 0.31508246
-  },
-  {
-   "id": "36320572-a99d-4f8f-904e-630312cc963c",
-   "title": {
-    "en": "12 Months"
-   },
-   "contentRating": "safe",
-   "score": 0.31438988,
-   "languages": [
-    "en"
-   ]
+   "score": 0.30876032
   },
   {
    "id": "413ec98b-4388-4c37-8d15-7eb58e44b1d3",
@@ -41,7 +65,7 @@
     "en": "I Love You as You Are, Strong and Ambitious"
    },
    "contentRating": "safe",
-   "score": 0.31228614
+   "score": 0.30829006
   },
   {
    "id": "c12786fc-442b-4149-8d7d-9239eadbc67d",
@@ -49,72 +73,9 @@
     "en": "Kimi o Matsu -\u003e Akaiito"
    },
    "contentRating": "safe",
-   "score": 0.30974331,
+   "score": 0.30613813,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "c28d0766-705d-44cf-be09-37f15daf473d",
-   "title": {
-    "en": "Matching App de Deatta Kare wa ○○ deshita."
-   },
-   "contentRating": "safe",
-   "score": 0.3081844,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "189447eb-6ee5-4f1a-872e-f447995c8d64",
-   "title": {
-    "en": "Pretty"
-   },
-   "contentRating": "safe",
-   "score": 0.30700365,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "de51bff6-7eb3-4986-a48e-867578496988",
-   "title": {
-    "en": "Kimi ga Mie Nakute mo"
-   },
-   "contentRating": "safe",
-   "score": 0.30624208
-  },
-  {
-   "id": "43686548-c742-46bf-9f91-0c088e2254c8",
-   "title": {
-    "en": "Hanasaki Sentimental"
-   },
-   "contentRating": "safe",
-   "score": 0.304919,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "777e566a-6b2e-451a-bc7d-420f633ebddb",
-   "title": {
-    "en": "1/2 Series"
-   },
-   "contentRating": "safe",
-   "score": 0.30477083,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "00171d76-68e9-4135-8c2b-d645deebeb82",
-   "title": {
-    "en": "Tenshi no Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.3020563,
-   "languages": [
-    "pl"
    ]
   },
   {
@@ -123,7 +84,59 @@
     "en": "Oshare Kozou ni Hanamaru"
    },
    "contentRating": "safe",
-   "score": 0.30112427
+   "score": 0.30587855
+  },
+  {
+   "id": "c28d0766-705d-44cf-be09-37f15daf473d",
+   "title": {
+    "en": "Matching App de Deatta Kare wa ○○ deshita."
+   },
+   "contentRating": "safe",
+   "score": 0.30480966,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "de51bff6-7eb3-4986-a48e-867578496988",
+   "title": {
+    "en": "Kimi ga Mie Nakute mo"
+   },
+   "contentRating": "safe",
+   "score": 0.30391166
+  },
+  {
+   "id": "189447eb-6ee5-4f1a-872e-f447995c8d64",
+   "title": {
+    "en": "Pretty"
+   },
+   "contentRating": "safe",
+   "score": 0.3038103,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
+   "id": "43686548-c742-46bf-9f91-0c088e2254c8",
+   "title": {
+    "en": "Hanasaki Sentimental"
+   },
+   "contentRating": "safe",
+   "score": 0.3020343,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
+   "id": "00171d76-68e9-4135-8c2b-d645deebeb82",
+   "title": {
+    "en": "Tenshi no Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.29960027,
+   "languages": [
+    "pl"
+   ]
   },
   {
    "id": "bad0f8a0-ac18-4674-935a-53ce798dbc9c",
@@ -131,7 +144,7 @@
     "en": "Open Marriage"
    },
    "contentRating": "safe",
-   "score": 0.29805824
+   "score": 0.29620016
   },
   {
    "id": "26e9eb17-f52a-47b7-b8c3-0fed97900a7d",
@@ -139,30 +152,8 @@
     "en": "Kono Te o Hanasanai"
    },
    "contentRating": "safe",
-   "score": 0.297676
-  },
-  {
-   "id": "a35f2737-ac1f-4f34-babf-9e11ea7ddbdb",
-   "title": {
-    "en": "Kiseki no Riyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.29756126,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4ee9dfa7-0907-4ea3-a7b3-00228df2a390",
-   "title": {
-    "en": "Junai Rosen"
-   },
-   "contentRating": "safe",
-   "score": 0.29711196,
-   "languages": [
-    "en"
-   ]
+   "score": 0.29587728
   }
  ],
- "updatedAt": "2024-11-15T20:58:43+00:00"
+ "updatedAt": "2024-11-17T21:14:05+00:00"
 }

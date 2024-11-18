@@ -3,11 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Ochazuke Nori on the 13th"
+   "en": "Ochazukenori the 13th"
   },
   "altTitles": [
    {
     "ja": "13日の御茶漬海苔"
+   },
+   {
+    "ja-ro": "13-Nichi no Ochazukenori"
+   },
+   {
+    "en": "Ochazukenori on the 13th"
    }
   ],
   "description": {
@@ -133,9 +139,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2022-07-27T18:58:36+00:00",
-  "updatedAt": "2024-11-09T11:37:19+00:00"
+  "updatedAt": "2024-11-15T20:56:45+00:00"
  },
  "relationships": [
   {

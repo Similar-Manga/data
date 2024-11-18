@@ -3,11 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "A Farm For Milking Loli Calves - And Mating With Them Freely!"
+   "en": "Loli Koushi Bokujou de Sakunyuu Tanetsuke Houdai!"
   },
   "altTitles": [
    {
-    "ja-ro": "Loli Koushi Bokujou de Sakunyuu Tanetsuke Houdai!"
+    "ja": "ロリ仔牛牧場で搾乳・種付け放題!"
+   },
+   {
+    "ja-ro": "Loli Koushi Bokujou de Sakunyuu・Tanetsuke Houdai!"
+   },
+   {
+    "en": "A Farm For Milking Loli Calves - And Mating With Them Freely!"
    }
   ],
   "description": {},
@@ -53,49 +59,53 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2022-01-26T08:32:33+00:00",
-  "updatedAt": "2022-01-26T18:26:17+00:00"
+  "updatedAt": "2024-11-15T10:01:33+00:00"
  },
  "relationships": [
   {
-   "id": "711983a7-55ed-49af-8b67-f698fa09251a",
+   "id": "977e1cf4-41a6-4f62-a994-3dd206d68530",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Commercial H-manga artist. Not to be confused with H-doujin artist and illustrator RAITA ([Honjou Raita](https://mangadex.org/author/711983a7-55ed-49af-8b67-f698fa09251a)) from the circle Zettai Shoujo.\n\n**Native name**: 来太\n\n**Circle/s**:\n[Raitaira](https://mangadex.org/author/f2a24866-516d-474b-9c30-b779f46461aa) (ライタイラ)"
+    },
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2021-10-16T04:09:51+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Raita",
+    "name": "Raita (来太)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/kurufuto",
+    "updatedAt": "2024-11-15T12:39:13+00:00",
+    "version": 8,
+    "website": "https://raitaira.blog.ss-blog.jp/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "711983a7-55ed-49af-8b67-f698fa09251a",
-   "type": "artist",
+   "id": "f2a24866-516d-474b-9c30-b779f46461aa",
+   "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: ライタイラ\n\n**Members**:\n[Raita](https://mangadex.org/author/977e1cf4-41a6-4f62-a994-3dd206d68530) (来太)"
+    },
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2022-06-12T22:21:31+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Raita",
+    "name": "Raitaira (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -103,9 +113,65 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-15T12:24:48+00:00",
+    "version": 3,
+    "website": "https://raitaira.blog.ss-blog.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "977e1cf4-41a6-4f62-a994-3dd206d68530",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Commercial H-manga artist. Not to be confused with H-doujin artist and illustrator RAITA ([Honjou Raita](https://mangadex.org/author/711983a7-55ed-49af-8b67-f698fa09251a)) from the circle Zettai Shoujo.\n\n**Native name**: 来太\n\n**Circle/s**:\n[Raitaira](https://mangadex.org/author/f2a24866-516d-474b-9c30-b779f46461aa) (ライタイラ)"
+    },
+    "booth": null,
+    "createdAt": "2021-10-16T04:09:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Raita (来太)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kurufuto",
+    "updatedAt": "2024-11-15T12:39:13+00:00",
+    "version": 8,
+    "website": "https://raitaira.blog.ss-blog.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f2a24866-516d-474b-9c30-b779f46461aa",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: ライタイラ\n\n**Members**:\n[Raita](https://mangadex.org/author/977e1cf4-41a6-4f62-a994-3dd206d68530) (来太)"
+    },
+    "booth": null,
+    "createdAt": "2022-06-12T22:21:31+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Raitaira (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-15T12:24:48+00:00",
+    "version": 3,
+    "website": "https://raitaira.blog.ss-blog.jp/",
     "weibo": null,
     "youtube": null
    }

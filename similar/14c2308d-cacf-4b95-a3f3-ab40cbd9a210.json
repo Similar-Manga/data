@@ -6,12 +6,16 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1162eb89-edd1-4704-9de4-664ff44dcf01",
+   "id": "d1608159-18d1-44dc-ad35-bc88d3271ab8",
    "title": {
-    "en": "Kimi no Me o Mite Hanasenai"
+    "en": "Legendary Wizard"
    },
    "contentRating": "safe",
-   "score": 0.29947457
+   "score": 0.3177662,
+   "languages": [
+    "es-la",
+    "en"
+   ]
   },
   {
    "id": "70daece1-af3e-4475-b3e7-a3bde8de4606",
@@ -19,20 +23,39 @@
     "en": "Magic Master"
    },
    "contentRating": "safe",
-   "score": 0.29297525
+   "score": 0.30661651
   },
   {
-   "id": "d11b40f8-8d4a-479c-98ce-5b480b600b78",
+   "id": "1162eb89-edd1-4704-9de4-664ff44dcf01",
    "title": {
-    "en": "Suihelibe!"
+    "en": "Kimi no Me o Mite Hanasenai"
    },
    "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.30510136
+  },
+  {
+   "id": "328af8b9-a561-4b12-9962-079fe1b2a21a",
+   "title": {
+    "en": "Hadaka no Taiyou"
+   },
+   "contentRating": "safe",
+   "score": 0.28701758,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "7772d596-24b0-4e2b-afe6-8e5f2a713dc6",
    "title": {
     "en": "High School Cyborg Gen"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "d11b40f8-8d4a-479c-98ce-5b480b600b78",
+   "title": {
+    "en": "Suihelibe!"
    },
    "contentRating": "safe",
    "score": 0.2857143
@@ -46,14 +69,15 @@
    "score": 0.2857143
   },
   {
-   "id": "328af8b9-a561-4b12-9962-079fe1b2a21a",
+   "id": "1c4f1dd6-c7cc-4474-b3de-2cc9adc330c3",
    "title": {
-    "en": "Hadaka no Taiyou"
+    "en": "Sensei! Bokutachi ga Sekai wo Horoboshimasu."
    },
    "contentRating": "safe",
-   "score": 0.28316644,
+   "score": 0.28387272,
    "languages": [
-    "en"
+    "en",
+    "ru"
    ]
   },
   {
@@ -62,7 +86,7 @@
     "en": "Magic Pico Girl"
    },
    "contentRating": "safe",
-   "score": 0.27838287,
+   "score": 0.28167796,
    "languages": [
     "en"
    ]
@@ -73,7 +97,7 @@
     "en": "Kimi no Risou no Maid ni Naru!"
    },
    "contentRating": "safe",
-   "score": 0.27761748,
+   "score": 0.28097567,
    "languages": [
     "vi",
     "es-la",
@@ -83,47 +107,12 @@
    ]
   },
   {
-   "id": "b5ceba59-69c4-4cd7-b866-e26c6f6c512a",
-   "title": {
-    "en": "Aishiteru Game wo Owarasetai - Twitter Extras"
-   },
-   "contentRating": "safe",
-   "score": 0.27758262,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "1c4f1dd6-c7cc-4474-b3de-2cc9adc330c3",
-   "title": {
-    "en": "Sensei! Bokutachi ga Sekai wo Horoboshimasu."
-   },
-   "contentRating": "safe",
-   "score": 0.27715233,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "c76086aa-3a71-4b0c-9148-ebed66ac4b20",
    "title": {
     "en": "Majimekei Kuzu no Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.26983327
-  },
-  {
-   "id": "54366a3a-9b75-446a-8eb2-4b4feb6e11be",
-   "title": {
-    "en": "Hageruya!"
-   },
-   "contentRating": "safe",
-   "score": 0.2685259,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2722559
   },
   {
    "id": "2c9365e9-f5ab-48e9-b655-37df857f132f",
@@ -131,7 +120,7 @@
     "en": "RDG - Red Data Girl"
    },
    "contentRating": "safe",
-   "score": 0.26641765,
+   "score": 0.26784274,
    "languages": [
     "en",
     "fr"
@@ -143,7 +132,7 @@
     "en": "Yuuto no Shinro Kibou"
    },
    "contentRating": "safe",
-   "score": 0.2657084,
+   "score": 0.2668078,
    "languages": [
     "en"
    ]
@@ -154,7 +143,18 @@
     "en": "Koe ga Kikitai Kodaira-kun"
    },
    "contentRating": "safe",
-   "score": 0.26298591
+   "score": 0.26467028
+  },
+  {
+   "id": "54366a3a-9b75-446a-8eb2-4b4feb6e11be",
+   "title": {
+    "en": "Hageruya!"
+   },
+   "contentRating": "safe",
+   "score": 0.26352298,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a",
@@ -162,11 +162,11 @@
     "en": "Sweety"
    },
    "contentRating": "safe",
-   "score": 0.26048383,
+   "score": 0.26189503,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-15T20:19:12+00:00"
+ "updatedAt": "2024-11-17T20:30:09+00:00"
 }

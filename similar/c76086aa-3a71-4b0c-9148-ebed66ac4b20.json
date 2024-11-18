@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "54366a3a-9b75-446a-8eb2-4b4feb6e11be",
-   "title": {
-    "en": "Hageruya!"
-   },
-   "contentRating": "safe",
-   "score": 0.30873662,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "328af8b9-a561-4b12-9962-079fe1b2a21a",
    "title": {
     "en": "Hadaka no Taiyou"
    },
    "contentRating": "safe",
-   "score": 0.30322495,
+   "score": 0.3032277,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "54366a3a-9b75-446a-8eb2-4b4feb6e11be",
+   "title": {
+    "en": "Hageruya!"
+   },
+   "contentRating": "safe",
+   "score": 0.3015637,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Kimi no Me o Mite Hanasenai"
    },
    "contentRating": "safe",
-   "score": 0.29909667
+   "score": 0.29909632
   },
   {
    "id": "12f6ffe4-d3d0-4a1d-94af-10f1883db093",
@@ -41,7 +41,7 @@
     "en": "Kimi no Risou no Maid ni Naru!"
    },
    "contentRating": "safe",
-   "score": 0.29736704,
+   "score": 0.29740074,
    "languages": [
     "vi",
     "es-la",
@@ -56,7 +56,7 @@
     "en": "AniKoi"
    },
    "contentRating": "safe",
-   "score": 0.29502463,
+   "score": 0.29502413,
    "languages": [
     "en"
    ]
@@ -67,7 +67,7 @@
     "en": "Hana to Harinezumi"
    },
    "contentRating": "safe",
-   "score": 0.29436794,
+   "score": 0.29436973,
    "languages": [
     "en"
    ]
@@ -78,19 +78,22 @@
     "en": "The Maiden With Zero Love Experience"
    },
    "contentRating": "safe",
-   "score": 0.29235518,
+   "score": 0.2923563,
    "languages": [
     "ru",
     "en"
    ]
   },
   {
-   "id": "b8c4873d-fe4e-4636-9cdf-638065c98542",
+   "id": "5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a",
    "title": {
-    "en": "Koe ga Kikitai Kodaira-kun"
+    "en": "Sweety"
    },
    "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "d553645b-03a3-4fc8-9a9c-57f91cbbab89",
@@ -110,30 +113,6 @@
    ]
   },
   {
-   "id": "5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a",
-   "title": {
-    "en": "Sweety"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "808dc5fa-0c7f-466e-b9e4-eea271f60a13",
-   "title": {
-    "en": "Ponko Tsundere na Osananajimi"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "es-la",
-    "ko"
-   ]
-  },
-  {
    "id": "955c730a-9304-4f82-ae96-af48ff5eaa0c",
    "title": {
     "en": "Kurai Anoko to Shitai koto"
@@ -146,6 +125,27 @@
     "pt-br",
     "id",
     "th"
+   ]
+  },
+  {
+   "id": "b8c4873d-fe4e-4636-9cdf-638065c98542",
+   "title": {
+    "en": "Koe ga Kikitai Kodaira-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "808dc5fa-0c7f-466e-b9e4-eea271f60a13",
+   "title": {
+    "en": "Ponko Tsundere na Osananajimi"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "es-la",
+    "ko"
    ]
   },
   {
@@ -166,25 +166,10 @@
     "en": "Houkago☆Idol"
    },
    "contentRating": "safe",
-   "score": 0.27906495,
+   "score": 0.27905834,
    "languages": [
     "es-la",
     "en"
-   ]
-  },
-  {
-   "id": "baed25ca-569e-4461-bb31-b64883b39d99",
-   "title": {
-    "en": "Itsuki-kun wa Tadasaretai"
-   },
-   "contentRating": "safe",
-   "score": 0.27470928,
-   "languages": [
-    "fr",
-    "uk",
-    "en",
-    "pt-br",
-    "vi"
    ]
   },
   {
@@ -193,7 +178,7 @@
     "en": "Kusunoki's Flunking Her High School Glow-Up"
    },
    "contentRating": "safe",
-   "score": 0.2719484,
+   "score": 0.2719458,
    "languages": [
     "en",
     "vi",
@@ -201,7 +186,18 @@
     "pt-br",
     "ru"
    ]
+  },
+  {
+   "id": "6d0eda24-34c6-43a3-91ea-d9444c2c44b1",
+   "title": {
+    "en": "Kirisaki Karin wa Korosasenai"
+   },
+   "contentRating": "safe",
+   "score": 0.27019185,
+   "languages": [
+    "zh"
+   ]
   }
  ],
- "updatedAt": "2024-11-15T21:41:30+00:00"
+ "updatedAt": "2024-11-17T21:58:41+00:00"
 }

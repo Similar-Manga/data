@@ -15,6 +15,10 @@
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "050598b6-2561-471e-88c0-7c8e865d7334",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -37,6 +41,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -102,9 +118,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-10-22T16:37:46+00:00",
-  "updatedAt": "2024-10-22T16:37:54+00:00"
+  "updatedAt": "2024-11-17T00:36:49+00:00"
  },
  "relationships": [
   {

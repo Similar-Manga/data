@@ -20,7 +20,7 @@
    "al": "159946",
    "amz": "https://www.amazon.co.jp/dp/B0C1GTS714",
    "ap": "hitojichi-seikatsu-kara-hajimeru-slow-life",
-   "bw": "series/410754",
+   "bw": "series/410754/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/757292/",
    "kt": "hitojichi-seikatsu-kara-hajimeru-slow-life-2022",
    "mal": "154835",
@@ -28,7 +28,9 @@
    "raw": "https://gammaplus.takeshobo.co.jp/manga/hostage/"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "4",
+  "lastChapter": "20",
+  "status": "completed",
   "year": 2022,
   "contentRating": "safe",
   "tags": [
@@ -41,18 +43,6 @@
      },
      "description": {},
      "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
      "version": 1
     }
    },
@@ -82,9 +72,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2023-10-18T04:21:00+00:00",
-  "updatedAt": "2024-04-12T21:49:10+00:00"
+  "updatedAt": "2024-11-15T18:46:56+00:00"
  },
  "relationships": [
   {
@@ -140,16 +130,16 @@
    }
   },
   {
-   "id": "d2a26845-2e73-468f-8157-e2eebdc4f5c2",
+   "id": "41192beb-5761-4a64-8030-519e0b4f2879",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-10-18T04:21:04+00:00",
+    "createdAt": "2024-11-15T18:48:58+00:00",
     "description": "",
-    "fileName": "e7d232fa-f66f-4103-a6fa-dcd0272bf2e2.jpg",
+    "fileName": "42e0ea54-6420-4610-8b91-3ae94c6650aa.jpg",
     "locale": "ja",
-    "updatedAt": "2023-10-18T04:21:04+00:00",
+    "updatedAt": "2024-11-15T18:48:58+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "4"
    }
   },
   {

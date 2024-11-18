@@ -3,16 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Natsu no Hacka Doll Satsueikai!"
+   "en": "Hacka Doll  - Natsu no Hacka Doll Satsueikai! (Doujinshi)"
   },
   "altTitles": [
    {
     "en": "Summer Hacka Doll Filming Shoot!"
+   },
+   {
+    "ja": "のハカドル撮影会! (ハッカドール)"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "originalLanguage": "ja",
   "status": "completed",
   "contentRating": "pornographic",
@@ -83,9 +84,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2020-02-22T20:14:56+00:00",
-  "updatedAt": "2021-05-25T15:41:15+00:00"
+  "updatedAt": "2024-11-15T11:23:39+00:00"
  },
  "relationships": [
   {
@@ -109,6 +110,32 @@
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "481bec3b-6a6b-433b-b9df-649c28f72e46",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuropoplar (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-15T11:24:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -141,6 +168,32 @@
    }
   },
   {
+   "id": "481bec3b-6a6b-433b-b9df-649c28f72e46",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuropoplar (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-15T11:24:01+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "c28cc688-a9e3-4fed-9261-9a8a89358872",
    "type": "cover_art",
    "attributes": {
@@ -148,9 +201,9 @@
     "description": "",
     "fileName": "458497b6-fbd7-44cd-891f-7cb09e0dde49.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:46:07+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-15T11:23:38+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

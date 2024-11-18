@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3c39b045-caf2-4f37-80d7-b2f308304b92",
+   "id": "55c4c609-758b-4530-a313-a88d547611ef",
    "title": {
-    "en": "Tonari no Kuni kara"
+    "en": "Never-Ending Afternoon"
    },
    "contentRating": "safe",
-   "score": 0.21209209,
+   "score": 0.27254048,
+   "languages": [
+    "pl",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "0b3e4da7-6221-4044-9e0a-abe4dfe5a3ef",
+   "title": {
+    "en": "Daikyojin"
+   },
+   "contentRating": "safe",
+   "score": 0.2134563,
    "languages": [
     "en"
    ]
@@ -22,10 +35,21 @@
     "en": "Shuumatsu Touring"
    },
    "contentRating": "safe",
-   "score": 0.21153761,
+   "score": 0.2058782,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "3c39b045-caf2-4f37-80d7-b2f308304b92",
+   "title": {
+    "en": "Tonari no Kuni kara"
+   },
+   "contentRating": "safe",
+   "score": 0.20209171,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -34,30 +58,18 @@
     "en": "Majo no Watashi wo Shinjite"
    },
    "contentRating": "safe",
-   "score": 0.20740688,
+   "score": 0.19865613,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f1f5c63e-668c-4055-9328-f6fe2cc200ee",
+   "id": "986024ea-a4b0-478a-9a37-e6fe86ed0329",
    "title": {
-    "en": "Psycho Party"
+    "en": "Edison Fantasy Science"
    },
    "contentRating": "safe",
-   "score": 0.20137209,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "0ae385ee-4c26-488b-b17b-0f1791ec6293",
-   "title": {
-    "en": "Niki."
-   },
-   "contentRating": "safe",
-   "score": 0.19397517,
+   "score": 0.19474113,
    "languages": [
     "en"
    ]
@@ -74,62 +86,23 @@
    ]
   },
   {
-   "id": "81a9a7a4-8b65-4124-a884-548d64db0d75",
+   "id": "0ae385ee-4c26-488b-b17b-0f1791ec6293",
    "title": {
-    "en": "We Can Fly!"
+    "en": "Niki."
    },
    "contentRating": "safe",
-   "score": 0.18742049,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "it"
-   ]
-  },
-  {
-   "id": "0222fdd4-25f2-4f00-a78c-ae4705309921",
-   "title": {
-    "en": "Tsuki to Laika to Nosferatu"
-   },
-   "contentRating": "safe",
-   "score": 0.18173537,
-   "languages": [
-    "en",
-    "ru",
-    "vi"
-   ]
-  },
-  {
-   "id": "f9af7e9a-1a06-4046-b437-840a749b181d",
-   "title": {
-    "en": "Sekai no Hate ni mo Kaze wa Fuku"
-   },
-   "contentRating": "safe",
-   "score": 0.1788642,
+   "score": 0.18884379,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "fe7f3f02-3758-4380-8411-cbb9cd121ba3",
+   "id": "57b23409-6cff-45a8-969e-9d2715c3bf07",
    "title": {
-    "en": "Kurage no Hoshi"
+    "en": "Tower of Karma"
    },
    "contentRating": "safe",
-   "score": 0.17801394,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "0b3e4da7-6221-4044-9e0a-abe4dfe5a3ef",
-   "title": {
-    "en": "Daikyojin"
-   },
-   "contentRating": "safe",
-   "score": 0.17634669,
+   "score": 0.18406178,
    "languages": [
     "en"
    ]
@@ -147,12 +120,62 @@
    ]
   },
   {
+   "id": "c2ff08bd-88a9-4523-bed3-6e7cdeb8fe9b",
+   "title": {
+    "en": "OREN'S"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "0222fdd4-25f2-4f00-a78c-ae4705309921",
+   "title": {
+    "en": "Tsuki to Laika to Nosferatu"
+   },
+   "contentRating": "safe",
+   "score": 0.17492707,
+   "languages": [
+    "en",
+    "ru",
+    "vi"
+   ]
+  },
+  {
+   "id": "81a9a7a4-8b65-4124-a884-548d64db0d75",
+   "title": {
+    "en": "We Can Fly!"
+   },
+   "contentRating": "safe",
+   "score": 0.17319816,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl",
+    "it"
+   ]
+  },
+  {
+   "id": "f9af7e9a-1a06-4046-b437-840a749b181d",
+   "title": {
+    "en": "Sekai no Hate ni mo Kaze wa Fuku"
+   },
+   "contentRating": "safe",
+   "score": 0.17228727,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e05dd982-6d09-4f3d-8e8e-6c9ae65b5857",
    "title": {
     "en": "The Color of the End: Mission in the Apocalypse"
    },
    "contentRating": "safe",
-   "score": 0.17611852,
+   "score": 0.16651294,
    "languages": [
     "vi",
     "id",
@@ -168,44 +191,17 @@
    ]
   },
   {
-   "id": "c2ff08bd-88a9-4523-bed3-6e7cdeb8fe9b",
+   "id": "fe7f3f02-3758-4380-8411-cbb9cd121ba3",
    "title": {
-    "en": "OREN'S"
+    "en": "Kurage no Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.17496355,
+   "score": 0.16632362,
    "languages": [
-    "it",
+    "es-la",
     "en"
-   ]
-  },
-  {
-   "id": "229eb307-021e-4062-8d39-94422da2671e",
-   "title": {
-    "en": "Tail Star"
-   },
-   "contentRating": "safe",
-   "score": 0.1717423,
-   "languages": [
-    "pl",
-    "en",
-    "es",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "55c4c609-758b-4530-a313-a88d547611ef",
-   "title": {
-    "en": "Never-Ending Afternoon"
-   },
-   "contentRating": "safe",
-   "score": 0.16747816,
-   "languages": [
-    "pl",
-    "en",
-    "it"
    ]
   }
  ],
- "updatedAt": "2024-11-15T20:42:35+00:00"
+ "updatedAt": "2024-11-17T20:56:08+00:00"
 }

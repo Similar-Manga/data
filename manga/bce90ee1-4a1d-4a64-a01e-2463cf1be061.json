@@ -11,6 +11,15 @@
    },
    {
     "ja-ro": "Gakuen Idolm@ster GOLD RUSH"
+   },
+   {
+    "ja-ro": "Gakuen Idolmaster: Gold Rush"
+   },
+   {
+    "ja-ro": "Gakum@s"
+   },
+   {
+    "en": "Academy Idolmaster: Gold Rush"
    }
   ],
   "description": {
@@ -19,6 +28,7 @@
   "links": {
    "al": "177498",
    "mal": "175764",
+   "mu": "ixj2boi",
    "raw": "https://championcross.jp/series/f67370b40ec1a/"
   },
   "originalLanguage": "ja",
@@ -82,9 +92,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 11,
   "createdAt": "2024-09-23T00:21:29+00:00",
-  "updatedAt": "2024-11-06T14:24:24+00:00"
+  "updatedAt": "2024-11-16T04:36:17+00:00"
  },
  "relationships": [
   {
@@ -173,13 +183,18 @@
     "description": "",
     "fileName": "80a940f6-06f1-447d-a0c5-c3b9afa650f1.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-23T00:21:32+00:00",
-    "version": 1,
-    "volume": "0"
+    "updatedAt": "2024-11-16T04:20:10+00:00",
+    "version": 2,
+    "volume": "0.1"
    }
   },
   {
    "id": "0b9159ad-bd7c-4267-8803-91bc33c011f0",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
+   "id": "b97afec7-be43-4f74-8b56-fb2d88829625",
    "type": "manga",
    "related": "doujinshi"
   },

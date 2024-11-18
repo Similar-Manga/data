@@ -25,7 +25,7 @@
    "engtl": "https://x.com/emaqi_official/status/1840751733720662278",
    "mal": "158881",
    "mu": "178483",
-   "raw": "https://www.shonengahosha.co.jp/book_Info.php?id=9153"
+   "raw": "https://mangadx-plus.com/comic/CT00000336"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
@@ -83,17 +83,19 @@
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 15,
   "createdAt": "2022-04-17T03:58:37+00:00",
-  "updatedAt": "2024-10-12T02:40:36+00:00"
+  "updatedAt": "2024-11-16T01:25:08+00:00"
  },
  "relationships": [
   {
    "id": "e750f3ca-a6b5-422d-aefb-1e7bf4c1feeb",
    "type": "author",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Name In Native Language:** Dr.Poro\n\n**Also Known As:** C-B° (Ｃボ)"
+    },
+    "booth": "https://enseichan.booth.pm/",
     "createdAt": "2022-04-17T03:54:19+00:00",
     "fanBox": null,
     "fantia": null,
@@ -103,12 +105,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/3795485",
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/DrPoro",
-    "updatedAt": "2024-10-07T03:46:07+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-16T01:28:42+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -154,6 +156,11 @@
     "version": 1,
     "volume": "6"
    }
+  },
+  {
+   "id": "1efb2cda-c5bd-4c3d-a687-68c3cb283016",
+   "type": "manga",
+   "related": "prequel"
   },
   {
    "id": "d93af974-4326-4c1e-8f14-3e4911fd2215",

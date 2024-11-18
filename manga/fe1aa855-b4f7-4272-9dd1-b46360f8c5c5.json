@@ -17,7 +17,7 @@
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0BWKDGZSN",
    "ap": "izure-saikyou-ni-itaru-tensei-mahoutsukai",
-   "bw": "series/400547",
+   "bw": "series/400547/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/749247/",
    "mu": "4jtb1f4"
   },
@@ -87,18 +87,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -112,9 +100,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-04-02T21:57:48+00:00",
-  "updatedAt": "2024-04-06T09:41:24+00:00"
+  "updatedAt": "2024-11-15T17:17:17+00:00"
  },
  "relationships": [
   {
@@ -172,14 +160,14 @@
    }
   },
   {
-   "id": "91c7c458-019c-43b2-b679-d380c5be15cd",
+   "id": "d3a37c74-53ab-4a2d-a6cd-30b47b5888d5",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-04-02T21:57:59+00:00",
+    "createdAt": "2024-11-15T17:19:14+00:00",
     "description": "",
-    "fileName": "559dfdb1-6d2a-4fb2-b440-9de423554c48.jpg",
+    "fileName": "429a8210-420d-47f3-9d16-1f62388607ff.jpg",
     "locale": "ja",
-    "updatedAt": "2024-04-02T21:57:59+00:00",
+    "updatedAt": "2024-11-15T17:19:14+00:00",
     "version": 1,
     "volume": "3"
    }

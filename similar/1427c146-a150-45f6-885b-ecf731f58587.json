@@ -1,7 +1,7 @@
 {
  "id": "1427c146-a150-45f6-885b-ecf731f58587",
  "title": {
-  "en": "Ochazuke Nori on the 13th"
+  "en": "Ochazukenori the 13th"
  },
  "contentRating": "safe",
  "matches": [
@@ -11,8 +11,9 @@
     "en": "Net Keijiban Hyaku Monogatari Series"
    },
    "contentRating": "safe",
-   "score": 0.24232437,
+   "score": 0.2297417,
    "languages": [
+    "ru",
     "en"
    ]
   },
@@ -22,7 +23,7 @@
     "en": "DOOOOM!"
    },
    "contentRating": "safe",
-   "score": 0.23917887,
+   "score": 0.2263299,
    "languages": [
     "pt-br",
     "en",
@@ -31,12 +32,20 @@
    ]
   },
   {
+   "id": "2032669d-8b02-47a5-8385-13f03b1a6225",
+   "title": {
+    "en": "Scary School Rumors"
+   },
+   "contentRating": "safe",
+   "score": 0.22252361
+  },
+  {
    "id": "a7797d1f-9861-49a9-bb4e-00ac22a94060",
    "title": {
     "en": "Ai no Sendou"
    },
    "contentRating": "safe",
-   "score": 0.23401055,
+   "score": 0.21345887,
    "languages": [
     "en"
    ]
@@ -47,72 +56,7 @@
     "en": "Seeds of Anxiety*"
    },
    "contentRating": "safe",
-   "score": 0.22230104,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cc271ca7-3c81-4d1c-994f-004a9c07169d",
-   "title": {
-    "en": "From a Twisted Mind"
-   },
-   "contentRating": "safe",
-   "score": 0.21558933,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2032669d-8b02-47a5-8385-13f03b1a6225",
-   "title": {
-    "en": "Scary School Rumors"
-   },
-   "contentRating": "safe",
-   "score": 0.21308957
-  },
-  {
-   "id": "b1015a1e-eb48-4ef3-8025-822aed0e0a73",
-   "title": {
-    "en": "Lightning Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.2127682
-  },
-  {
-   "id": "41b0daf3-9871-4269-9404-e5f8d5ec5c0a",
-   "title": {
-    "en": "Middle School Girl, Quitting the Serial Killer Life"
-   },
-   "contentRating": "safe",
-   "score": 0.21207827
-  },
-  {
-   "id": "73be335c-bcdf-4668-b757-3730010932e2",
-   "title": {
-    "en": "Oninbo and the Bugs from Hell"
-   },
-   "contentRating": "safe",
-   "score": 0.21133193,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cc204bf4-3b1e-4015-a4d5-99db77342893",
-   "title": {
-    "en": "Cursed Wig"
-   },
-   "contentRating": "safe",
-   "score": 0.21109611
-  },
-  {
-   "id": "635cc5a0-7451-4cbd-9546-0988887cf26f",
-   "title": {
-    "en": "Kowai Hon: Scary Book"
-   },
-   "contentRating": "safe",
-   "score": 0.20944901,
+   "score": 0.21197039,
    "languages": [
     "en"
    ]
@@ -134,12 +78,15 @@
    "score": 0.20428924
   },
   {
-   "id": "c4671771-8499-4e37-9036-9120b5350c20",
+   "id": "cc271ca7-3c81-4d1c-994f-004a9c07169d",
    "title": {
-    "en": "A Scream from the Dead ~ Shinichi Koga Fearful Best Works"
+    "en": "From a Twisted Mind"
    },
    "contentRating": "safe",
-   "score": 0.20322382
+   "score": 0.203537,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "21e80bd8-cabf-4c49-86da-72f92255f248",
@@ -155,13 +102,73 @@
    ]
   },
   {
+   "id": "b1015a1e-eb48-4ef3-8025-822aed0e0a73",
+   "title": {
+    "en": "Lightning Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.20211141
+  },
+  {
    "id": "3cfe69c2-3dc0-4f28-b0fe-44b24a15cc2d",
    "title": {
     "en": "Mystery Masterpiece Selection"
    },
    "contentRating": "safe",
    "score": 0.20203052
+  },
+  {
+   "id": "cc204bf4-3b1e-4015-a4d5-99db77342893",
+   "title": {
+    "en": "Cursed Wig"
+   },
+   "contentRating": "safe",
+   "score": 0.2008035
+  },
+  {
+   "id": "41b0daf3-9871-4269-9404-e5f8d5ec5c0a",
+   "title": {
+    "en": "Middle School Girl, Quitting the Serial Killer Life"
+   },
+   "contentRating": "safe",
+   "score": 0.19907534
+  },
+  {
+   "id": "c4671771-8499-4e37-9036-9120b5350c20",
+   "title": {
+    "en": "A Scream from the Dead ~ Shinichi Koga Fearful Best Works"
+   },
+   "contentRating": "safe",
+   "score": 0.1948743
+  },
+  {
+   "id": "89ad8e16-ceff-47c4-adce-cc00baa65392",
+   "title": {
+    "en": "#DRCL midnight children"
+   },
+   "contentRating": "safe",
+   "score": 0.1926076,
+   "languages": [
+    "ru",
+    "ar",
+    "es-la",
+    "en",
+    "fr",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "635cc5a0-7451-4cbd-9546-0988887cf26f",
+   "title": {
+    "en": "Kowai Hon: Scary Book"
+   },
+   "contentRating": "safe",
+   "score": 0.19216561,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-15T20:18:55+00:00"
+ "updatedAt": "2024-11-17T20:29:48+00:00"
 }

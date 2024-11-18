@@ -1,0 +1,114 @@
+{
+ "id": "0043d5cd-68fc-4ce8-9090-f18d6a8ff03b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sơn, Goal!"
+  },
+  "altTitles": [
+   {
+    "en": "Son, Goal!"
+   }
+  ],
+  "description": {
+   "en": "Son, a boy with a Vietnamese mother, born and raised in the \"football kingdom\" of Brazil, has just returned to his hometown of Da Nang, Vietnam. The story revolves around the theme of \"the king of sports\" in Vietnam, following Son and his teammates on their journey to conquer the heights of football. As a teenager who has lived far from his homeland since childhood, can Son overcome the language barrier to connect with his teammates?",
+   "vi": "Sơn, cậu bé có mẹ là người Việt, sinh ra và lớn lên tại “vương quốc bóng đá” Brazil, vừa trở về thành phố Đà Nẵng quê hương. Truyện lấy đề tài về môn “thể thao Vua” tại Việt Nam, xoay quanh hành trình chinh phục đỉnh cao bóng đá của Sơn và đồng đội. Là một thiếu niên sống xa quê hương từ nhỏ, liệu Sơn có thể vượt qua rào cản về ngôn ngữ để kết nối với đồng đội?"
+  },
+  "links": {
+   "raw": "https://nxbkimdong.com.vn/products/son-goal-tap-1-tang-kem-obi-bia-bonus-postcard-doc-quyen"
+  },
+  "originalLanguage": "vi",
+  "status": "ongoing",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-16T05:32:32+00:00",
+  "updatedAt": "2024-11-16T05:32:40+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7f221be0-5993-4e6a-bfbd-fac83dcf1c56",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-05-02T14:08:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamio Baba ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-05-02T14:08:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7f221be0-5993-4e6a-bfbd-fac83dcf1c56",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-05-02T14:08:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamio Baba ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-05-02T14:08:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c9a47fb7-43cd-470c-a1e8-0a00c088e5d5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-16T05:32:35+00:00",
+    "description": "",
+    "fileName": "bf74fe60-e30e-4eb3-bb39-ff242eec1cac.jpg",
+    "locale": "vi",
+    "updatedAt": "2024-11-16T05:32:35+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "1eba4b92-61ad-46b6-807b-ef494ffe5c19",
+   "type": "creator"
+  }
+ ]
+}

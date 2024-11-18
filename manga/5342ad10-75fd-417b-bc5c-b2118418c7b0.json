@@ -1,0 +1,162 @@
+{
+ "id": "5342ad10-75fd-417b-bc5c-b2118418c7b0",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Salaryman Kintarou - Money Wars"
+  },
+  "altTitles": [
+   {
+    "ja": "サラリーマン金太郎 マネーウォーズ編"
+   }
+  ],
+  "description": {},
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/gp/product/B009SJQGYI?ref_=dbs_p_pwh_rwt_cpsb_cl_4\u0026storeType=ebooks",
+   "mu": "27m2xso"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "5",
+  "lastChapter": "19",
+  "status": "completed",
+  "year": 2005,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-16T17:26:19+00:00",
+  "updatedAt": "2024-11-16T23:27:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b19a0d82-afab-4697-bc4c-95f87f6b7461",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motomiya Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b19a0d82-afab-4697-bc4c-95f87f6b7461",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motomiya Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f06c3400-3882-49ba-884d-54d11da5d2bb",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-16T17:26:22+00:00",
+    "description": "",
+    "fileName": "f00d74b6-0e32-404c-af75-f35c9d4bf37a.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-16T17:26:22+00:00",
+    "version": 1,
+    "volume": "5"
+   }
+  },
+  {
+   "id": "73a9247f-a18b-4b22-8209-36fe8c766ddf",
+   "type": "creator"
+  }
+ ]
+}

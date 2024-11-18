@@ -3,24 +3,25 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I Became a Terminally-Ill Knight"
+   "en": "A Knight With a Time Limit"
   },
   "altTitles": [
    {
     "ko": "시한부 기사가 되었다"
    },
    {
-    "en": "A Knight With a Time Limit"
+    "en": "I Became a Terminally-Ill Knight"
    },
    {
     "en": "I Have Become A Time Limited Knight"
    }
   ],
   "description": {
-   "en": "Levis Cloyd, a man who transmigrated from Earth to another world, is bound to live a time-limited life. To survive, he must kill living beings.\n\nLiving with the motto of \"if you are going through hell, keep going, \" he meets another opportunity.orth another's demise?"
+   "en": "Leaving behind his miserable life and untimely death, Luis Cloyde is reborn into a new world filled with fantastical beasts and adventure. The catch? He must continue killing other living beings to extend his own life. But given a second chance at life, Luis Cloyde is willing to do just about anything to survive."
   },
   "links": {
    "al": "178776",
+   "engtl": "https://www.webtoons.com/en/fantasy/a-knight-with-a-time-limit/list?title_no=6989",
    "mal": "168978",
    "mu": "p9xob4p",
    "raw": "https://comic.naver.com/webtoon/list?titleId=814371"
@@ -216,9 +217,9 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 15,
   "createdAt": "2023-08-18T17:00:59+00:00",
-  "updatedAt": "2024-11-12T21:49:11+00:00"
+  "updatedAt": "2024-11-16T10:19:35+00:00"
  },
  "relationships": [
   {
@@ -253,14 +254,16 @@
    "id": "d7251309-af4f-47bf-b165-80a3fd662dfc",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Associated Names:**\n- Kim Durumi\n\n---\n**Name (in native language):**\n김두루미"
+    },
     "booth": null,
     "createdAt": "2022-06-19T15:33:38+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kim Durumi (김두루미)",
+    "name": "KDRM (김두루미)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -268,8 +271,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2022-06-19T22:39:05+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-16T10:14:44+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -279,14 +282,16 @@
    "id": "21f3649d-21e0-4a7e-a703-c4b134834aa4",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Hello, I am Yunyeol Choi, a Korean cartoonist who loves the game \"Virtual Fighter\" and the movie \"Star Wars.\" It was really fun creating this series with great people. Hope you enjoy.\n\n---\n**Name (in native language):**\n최윤열"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yunyeol Choi",
+    "name": "Yunyeol Choi (최윤열)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -294,9 +299,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-16T10:18:59+00:00",
+    "version": 2,
+    "website": "https://www.facebook.com/jayabox/",
     "weibo": null,
     "youtube": null
    }

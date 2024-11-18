@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "4633adfc-aabd-4712-809e-3cc4ca3965b1",
+   "title": {
+    "en": "The 108 of Them"
+   },
+   "contentRating": "safe",
+   "score": 0.40975323,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a57309df-6c70-4a5b-9418-42d1ab466cec",
    "title": {
     "en": "Gwichonri"
    },
    "contentRating": "safe",
-   "score": 0.32187474,
+   "score": 0.30896854,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Lucifugus"
    },
    "contentRating": "safe",
-   "score": 0.3066157,
+   "score": 0.29307997,
    "languages": [
     "id",
     "en"
@@ -34,7 +45,7 @@
     "en": "12-ji no Kane ga Naru"
    },
    "contentRating": "safe",
-   "score": 0.30072314,
+   "score": 0.28648362,
    "languages": [
     "pl",
     "en",
@@ -52,21 +63,9 @@
     "en": "Ningyou Pass"
    },
    "contentRating": "safe",
-   "score": 0.29134154,
+   "score": 0.28011915,
    "languages": [
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "bf33da0b-ff39-40c4-835e-ce4b3dbc0fa9",
-   "title": {
-    "en": "Bell Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.28354105,
-   "languages": [
-    "fr",
     "en"
    ]
   },
@@ -76,8 +75,20 @@
     "en": "Black Collection"
    },
    "contentRating": "safe",
-   "score": 0.2689097,
+   "score": 0.26587623,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bf33da0b-ff39-40c4-835e-ce4b3dbc0fa9",
+   "title": {
+    "en": "Bell Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.2600393,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -87,7 +98,18 @@
     "en": "Shinohara Chie Kessakushuu"
    },
    "contentRating": "safe",
-   "score": 0.2579194,
+   "score": 0.25566947,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "81d1957d-ea20-4f0b-a826-251d4028af8b",
+   "title": {
+    "en": "Strange Tales of Xiao Zhi"
+   },
+   "contentRating": "safe",
+   "score": 0.24522442,
    "languages": [
     "en"
    ]
@@ -98,70 +120,9 @@
     "en": "Sunflowers on the Lakebed"
    },
    "contentRating": "safe",
-   "score": 0.2563194,
+   "score": 0.2420556,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "84241883-b687-4930-9bc5-219758a62cc5",
-   "title": {
-    "en": "Returning Home"
-   },
-   "contentRating": "safe",
-   "score": 0.25624207,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "846bd240-ba67-4064-8ae8-f6f858be213f",
-   "title": {
-    "en": "Sock Goblin"
-   },
-   "contentRating": "safe",
-   "score": 0.24895215,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "81d1957d-ea20-4f0b-a826-251d4028af8b",
-   "title": {
-    "en": "Strange Tales of Xiao Zhi"
-   },
-   "contentRating": "safe",
-   "score": 0.24628301,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d5aca45d-fc61-41ea-a758-0f9d80da0116",
-   "title": {
-    "en": "Shirasunamura"
-   },
-   "contentRating": "safe",
-   "score": 0.24404307,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "924bdfaf-6740-4f2f-941d-4ed0cddf23a9",
-   "title": {
-    "en": "Monkey Mountain"
-   },
-   "contentRating": "safe",
-   "score": 0.24323612,
-   "languages": [
-    "en",
-    "pt-br",
-    "it",
-    "ru",
-    "ca"
    ]
   },
   {
@@ -170,7 +131,7 @@
     "en": "Darkness and Death"
    },
    "contentRating": "safe",
-   "score": 0.24180882,
+   "score": 0.23973025,
    "languages": [
     "en"
    ]
@@ -189,16 +150,54 @@
    ]
   },
   {
+   "id": "84241883-b687-4930-9bc5-219758a62cc5",
+   "title": {
+    "en": "Returning Home"
+   },
+   "contentRating": "safe",
+   "score": 0.23802802,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "846bd240-ba67-4064-8ae8-f6f858be213f",
+   "title": {
+    "en": "Sock Goblin"
+   },
+   "contentRating": "safe",
+   "score": 0.23699114,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "924bdfaf-6740-4f2f-941d-4ed0cddf23a9",
+   "title": {
+    "en": "Monkey Mountain"
+   },
+   "contentRating": "safe",
+   "score": 0.23674585,
+   "languages": [
+    "en",
+    "pt-br",
+    "it",
+    "ru",
+    "ca"
+   ]
+  },
+  {
    "id": "3fcda2bf-d322-4e2e-a50e-66de955949be",
    "title": {
     "en": "Puppet"
    },
    "contentRating": "safe",
-   "score": 0.23631889,
+   "score": 0.2319399,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-15T21:27:09+00:00"
+ "updatedAt": "2024-11-17T21:43:33+00:00"
 }

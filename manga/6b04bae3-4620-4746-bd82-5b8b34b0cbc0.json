@@ -1,0 +1,170 @@
+{
+ "id": "6b04bae3-4620-4746-bd82-5b8b34b0cbc0",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Semi wa Taiji ni Kisei Suru"
+  },
+  "altTitles": [
+   {
+    "ja": "蝉は胎児に寄生する"
+   },
+   {
+    "ja-ro": "Semi ha Taiji ni Kisei Suru"
+   },
+   {
+    "en": "Cicadas Parasitize Fetuses"
+   }
+  ],
+  "description": {
+   "en": "Yuri Tachibana, doctor by profession. She came to a small, isolated island separated by the sea to research a certain insect. There is only one way to escape these insects which parasitize people and invariably take their lives after a few years…"
+  },
+  "links": {
+   "al": "139424",
+   "amz": "https://www.amazon.co.jp/dp/B0CMPZ7JVP",
+   "ap": "semi-wa-taiji-ni-kisei-suru",
+   "bw": "de92a8fe33-9f8b-4852-afef-151371c6dc49",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2919927",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/804209/",
+   "mal": "142690",
+   "mu": "99evtzi",
+   "raw": "https://mangadx-plus.com/comic/CT00000523"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "12",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-11-16T01:24:32+00:00",
+  "updatedAt": "2024-11-17T06:22:24+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e750f3ca-a6b5-422d-aefb-1e7bf4c1feeb",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** Dr.Poro\n\n**Also Known As:** C-B° (Ｃボ)"
+    },
+    "booth": "https://enseichan.booth.pm/",
+    "createdAt": "2022-04-17T03:54:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Dr.Poro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/3795485",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/DrPoro",
+    "updatedAt": "2024-11-16T01:28:42+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e750f3ca-a6b5-422d-aefb-1e7bf4c1feeb",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** Dr.Poro\n\n**Also Known As:** C-B° (Ｃボ)"
+    },
+    "booth": "https://enseichan.booth.pm/",
+    "createdAt": "2022-04-17T03:54:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Dr.Poro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/3795485",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/DrPoro",
+    "updatedAt": "2024-11-16T01:28:42+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ed3014e0-c9aa-45b5-97ab-2bbc3898be16",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-16T01:24:46+00:00",
+    "description": "",
+    "fileName": "9e9e65ea-3daa-480e-9c23-f541a2b9df84.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-16T01:24:46+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

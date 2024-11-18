@@ -6,12 +6,30 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "2442e655-dcfe-4ed2-99de-d5b212836b64",
+   "title": {
+    "en": "K-ON! Shuffle"
+   },
+   "contentRating": "safe",
+   "score": 0.30122828,
+   "languages": [
+    "ru",
+    "es-la",
+    "pt-br",
+    "en",
+    "vi",
+    "id",
+    "fr",
+    "es"
+   ]
+  },
+  {
    "id": "53a84ca6-a6ef-4273-92f4-8f894d86fafe",
    "title": {
     "en": "Gu-Pan!"
    },
    "contentRating": "safe",
-   "score": 0.29220226,
+   "score": 0.29085845,
    "languages": [
     "en",
     "ru"
@@ -28,6 +46,19 @@
     "en",
     "es",
     "id"
+   ]
+  },
+  {
+   "id": "91c39787-11a8-47ea-a81d-77b1f8f0650e",
+   "title": {
+    "en": "Hyper Ultra Girlish"
+   },
+   "contentRating": "safe",
+   "score": 0.2824238,
+   "languages": [
+    "ru",
+    "en",
+    "fr"
    ]
   },
   {
@@ -53,19 +84,6 @@
    ]
   },
   {
-   "id": "91c39787-11a8-47ea-a81d-77b1f8f0650e",
-   "title": {
-    "en": "Hyper Ultra Girlish"
-   },
-   "contentRating": "safe",
-   "score": 0.2824238,
-   "languages": [
-    "ru",
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "06338c21-dfd9-4ab0-a0c6-1d973821b992",
    "title": {
     "en": "Bad Girl"
@@ -80,38 +98,21 @@
    ]
   },
   {
-   "id": "2442e655-dcfe-4ed2-99de-d5b212836b64",
+   "id": "cc077710-3f9a-4acb-8319-a80f80ca4c45",
    "title": {
-    "en": "K-ON! Shuffle"
+    "en": "Poyopoyo Kansatsu Nikki"
    },
    "contentRating": "safe",
-   "score": 0.2699722,
+   "score": 0.25477728,
    "languages": [
-    "ru",
-    "es-la",
-    "pt-br",
     "en",
-    "vi",
-    "id",
-    "fr",
-    "es"
+    "pl"
    ]
   },
   {
-   "id": "1f005653-3b2b-4f8b-bb89-746bd8f16b01",
+   "id": "c79bdd6c-3af0-4338-91c6-daa2697f34af",
    "title": {
-    "en": "Oshigoto Biyori!"
-   },
-   "contentRating": "safe",
-   "score": 0.262443,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "676dd3ab-98a5-4fd4-8a26-bd78a604d329",
-   "title": {
-    "en": "Yurumates"
+    "en": "Jansou no Saeko-san"
    },
    "contentRating": "safe",
    "score": 0.25477728,
@@ -120,14 +121,13 @@
    ]
   },
   {
-   "id": "cf01b43c-8749-40a6-a055-8dd05a3ca08e",
+   "id": "a258b1f0-663a-43cf-832b-0352397a9982",
    "title": {
-    "en": "Ochikobore Fruit Tart"
+    "en": "Hetare Ane"
    },
    "contentRating": "safe",
    "score": 0.25477728,
    "languages": [
-    "ko",
     "en"
    ]
   },
@@ -144,43 +144,21 @@
    ]
   },
   {
-   "id": "c79bdd6c-3af0-4338-91c6-daa2697f34af",
+   "id": "cf01b43c-8749-40a6-a055-8dd05a3ca08e",
    "title": {
-    "en": "Jansou no Saeko-san"
+    "en": "Ochikobore Fruit Tart"
    },
    "contentRating": "safe",
    "score": 0.25477728,
    "languages": [
+    "ko",
     "en"
    ]
   },
   {
-   "id": "cc077710-3f9a-4acb-8319-a80f80ca4c45",
+   "id": "676dd3ab-98a5-4fd4-8a26-bd78a604d329",
    "title": {
-    "en": "Poyopoyo Kansatsu Nikki"
-   },
-   "contentRating": "safe",
-   "score": 0.25477728,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "a258b1f0-663a-43cf-832b-0352397a9982",
-   "title": {
-    "en": "Hetare Ane"
-   },
-   "contentRating": "safe",
-   "score": 0.25477728,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d017bdb3-7009-4060-99a2-94985e915e27",
-   "title": {
-    "en": "Nomi Joshi"
+    "en": "Yurumates"
    },
    "contentRating": "safe",
    "score": 0.25477728,
@@ -199,7 +177,29 @@
     "zh",
     "en"
    ]
+  },
+  {
+   "id": "1f005653-3b2b-4f8b-bb89-746bd8f16b01",
+   "title": {
+    "en": "Oshigoto Biyori!"
+   },
+   "contentRating": "safe",
+   "score": 0.25477728,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d017bdb3-7009-4060-99a2-94985e915e27",
+   "title": {
+    "en": "Nomi Joshi"
+   },
+   "contentRating": "safe",
+   "score": 0.25477728,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-15T20:42:18+00:00"
+ "updatedAt": "2024-11-17T20:55:51+00:00"
 }

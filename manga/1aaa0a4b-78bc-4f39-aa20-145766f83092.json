@@ -28,16 +28,19 @@
     "fr": "Bienvenue au Japon, Mademoiselle l'Elfe!"
    },
    {
-    "ru": "Добро пожаловать в Японию, Эльф-сан!"
+    "pt-br": "Bem-vinda ao Japão, Elf-san!"
    },
    {
-    "pt-br": "Bem-vinda ao Japão, Elf-san!"
+    "ru": "Добро пожаловать в Японию, Эльф-сан!"
    },
    {
     "zh-hk": "歡迎來到日本，妖精小姐"
    },
    {
     "zh": "精灵来日"
+   },
+   {
+    "th": "ขอต้อนรับสู่ญี่ปุ่นนะ คุณเอลฟ์"
    }
   ],
   "description": {
@@ -110,6 +113,18 @@
     }
    },
    {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "ace04997-f6bd-436e-b261-779182193d3d",
     "type": "tag",
     "attributes": {
@@ -159,9 +174,9 @@
    }
   ],
   "state": "published",
-  "version": 35,
+  "version": 36,
   "createdAt": "2019-09-22T03:44:45+00:00",
-  "updatedAt": "2024-10-11T19:43:38+00:00"
+  "updatedAt": "2024-11-16T11:22:39+00:00"
  },
  "relationships": [
   {

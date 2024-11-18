@@ -11,7 +11,7 @@
     "en": "Saint Haipaa Keibitai"
    },
    "contentRating": "safe",
-   "score": 0.36405808
+   "score": 0.37210774
   },
   {
    "id": "55966f96-38c6-41d6-8077-a6f07582dd28",
@@ -19,7 +19,7 @@
     "en": "M no Yoromeki"
    },
    "contentRating": "safe",
-   "score": 0.3472811
+   "score": 0.3535903
   },
   {
    "id": "7e447dc7-1b37-4088-bc6f-23c889d44c6f",
@@ -27,7 +27,28 @@
     "en": "Elite Jack!!"
    },
    "contentRating": "safe",
-   "score": 0.3461471
+   "score": 0.352362
+  },
+  {
+   "id": "96bfca48-69a8-47dd-a976-98667d3d42cb",
+   "title": {
+    "en": "Kashikoi Otoko wa Koishika Shinai"
+   },
+   "contentRating": "safe",
+   "score": 0.3332014
+  },
+  {
+   "id": "6ec039db-f52f-4fc8-9a37-df914351e341",
+   "title": {
+    "en": "Love Never Fails"
+   },
+   "contentRating": "safe",
+   "score": 0.33233213,
+   "languages": [
+    "es-la",
+    "en",
+    "es"
+   ]
   },
   {
    "id": "f21c4ff3-e5bd-46a0-a188-ab809f64be76",
@@ -35,7 +56,7 @@
     "en": "Like to Be Ordinary!"
    },
    "contentRating": "safe",
-   "score": 0.32757992,
+   "score": 0.33188146,
    "languages": [
     "en"
    ]
@@ -46,28 +67,7 @@
     "en": "Real Heroine"
    },
    "contentRating": "safe",
-   "score": 0.32644767
-  },
-  {
-   "id": "96bfca48-69a8-47dd-a976-98667d3d42cb",
-   "title": {
-    "en": "Kashikoi Otoko wa Koishika Shinai"
-   },
-   "contentRating": "safe",
-   "score": 0.3252272
-  },
-  {
-   "id": "6ec039db-f52f-4fc8-9a37-df914351e341",
-   "title": {
-    "en": "Love Never Fails"
-   },
-   "contentRating": "safe",
-   "score": 0.32444125,
-   "languages": [
-    "es-la",
-    "en",
-    "es"
-   ]
+   "score": 0.3306284
   },
   {
    "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
@@ -75,7 +75,7 @@
     "en": "Hana ni Kedamono"
    },
    "contentRating": "safe",
-   "score": 0.32344198,
+   "score": 0.32732153,
    "languages": [
     "en",
     "pl"
@@ -87,7 +87,7 @@
     "en": "Short Sunzen!"
    },
    "contentRating": "safe",
-   "score": 0.32135049,
+   "score": 0.32501096,
    "languages": [
     "en"
    ]
@@ -98,50 +98,7 @@
     "en": "Ore-sama Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.3200697
-  },
-  {
-   "id": "6e09297a-2b91-44f2-ab96-7b751f9171ad",
-   "title": {
-    "en": "Funky Cosmos"
-   },
-   "contentRating": "safe",
-   "score": 0.31852078
-  },
-  {
-   "id": "5c16931f-d320-4fb0-9c2b-ca3641cf7202",
-   "title": {
-    "en": "The Friendly and Vague Harmony"
-   },
-   "contentRating": "safe",
-   "score": 0.31799322
-  },
-  {
-   "id": "96e41f8a-c7f8-4fd2-9c99-abefa811bd4e",
-   "title": {
-    "en": "Promise"
-   },
-   "contentRating": "safe",
-   "score": 0.3178446
-  },
-  {
-   "id": "fe1c850c-183c-43f5-addd-f6e88221b8d0",
-   "title": {
-    "en": "Gachikoi Mistake"
-   },
-   "contentRating": "safe",
-   "score": 0.31757638
-  },
-  {
-   "id": "1a3e1ef3-6f44-437c-867c-11b900f6b2a5",
-   "title": {
-    "en": "Shitsuren no Susume"
-   },
-   "contentRating": "safe",
-   "score": 0.31327403,
-   "languages": [
-    "it"
-   ]
+   "score": 0.32359743
   },
   {
    "id": "c5e55d8c-f8df-42e8-8bcc-8ad336a09904",
@@ -149,11 +106,51 @@
     "en": "Idol Clubs"
    },
    "contentRating": "safe",
-   "score": 0.31216583,
+   "score": 0.32190558,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "6e09297a-2b91-44f2-ab96-7b751f9171ad",
+   "title": {
+    "en": "Funky Cosmos"
+   },
+   "contentRating": "safe",
+   "score": 0.32189485
+  },
+  {
+   "id": "5c16931f-d320-4fb0-9c2b-ca3641cf7202",
+   "title": {
+    "en": "The Friendly and Vague Harmony"
+   },
+   "contentRating": "safe",
+   "score": 0.32130682
+  },
+  {
+   "id": "96e41f8a-c7f8-4fd2-9c99-abefa811bd4e",
+   "title": {
+    "en": "Promise"
+   },
+   "contentRating": "safe",
+   "score": 0.3211313
+  },
+  {
+   "id": "fe1c850c-183c-43f5-addd-f6e88221b8d0",
+   "title": {
+    "en": "Gachikoi Mistake"
+   },
+   "contentRating": "safe",
+   "score": 0.32084513
+  },
+  {
+   "id": "4f5daaf1-5b2e-4d3b-85d7-268442666b64",
+   "title": {
+    "en": "My Brother, Boyfriend, and He"
+   },
+   "contentRating": "safe",
+   "score": 0.31856972
   }
  ],
- "updatedAt": "2024-11-15T21:31:10+00:00"
+ "updatedAt": "2024-11-17T21:48:27+00:00"
 }

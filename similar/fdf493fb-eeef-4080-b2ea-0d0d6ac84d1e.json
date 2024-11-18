@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "eb6306cb-a681-4c23-9f3f-31e3e3e4bfb2",
-   "title": {
-    "en": "Tactics"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "ru",
-    "ko"
-   ]
-  },
-  {
    "id": "4c53c85c-0303-4cf0-887b-15092774c6a1",
    "title": {
     "en": "Shugo Chara! Jewel Joker"
@@ -30,6 +17,19 @@
     "pt-br",
     "es-la",
     "en"
+   ]
+  },
+  {
+   "id": "eb6306cb-a681-4c23-9f3f-31e3e3e4bfb2",
+   "title": {
+    "en": "Tactics"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "ru",
+    "ko"
    ]
   },
   {
@@ -66,6 +66,17 @@
    ]
   },
   {
+   "id": "cbf544de-2df4-4f5d-ae82-61c18d298c66",
+   "title": {
+    "en": "Dokebi Bride"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
    "id": "60de2707-2a4a-4fa6-92fa-0b534898cd4d",
    "title": {
     "en": "Majo-senpai Nippou"
@@ -95,20 +106,6 @@
    ]
   },
   {
-   "id": "3637ca06-20de-4796-93db-e06721ec5a6d",
-   "title": {
-    "en": "Matsurika Kanriden ~Koukyuu Jokan, Kimagure Koutei ni Misomerare~"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "id",
-    "ru",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "eacb6eea-737f-4ae8-88cf-7cd0645ba339",
    "title": {
     "en": "God and Girl"
@@ -123,14 +120,17 @@
    ]
   },
   {
-   "id": "cbf544de-2df4-4f5d-ae82-61c18d298c66",
+   "id": "3637ca06-20de-4796-93db-e06721ec5a6d",
    "title": {
-    "en": "Dokebi Bride"
+    "en": "Matsurika Kanriden ~Koukyuu Jokan, Kimagure Koutei ni Misomerare~"
    },
    "contentRating": "safe",
    "score": 0.17496355,
    "languages": [
-    "ru"
+    "id",
+    "ru",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -139,34 +139,11 @@
     "en": "Holy Alice Returns"
    },
    "contentRating": "safe",
-   "score": 0.16644633,
+   "score": 0.16644084,
    "languages": [
     "tr",
     "ru",
     "en"
-   ]
-  },
-  {
-   "id": "e81db69f-dd8c-4c0e-8897-f32ccdebd0e3",
-   "title": {
-    "en": "Ougon no Koku"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "a3cc5804-12ed-4394-b0df-57245147c3c4",
-   "title": {
-    "en": "Kamigami no Hohoemi"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "ru"
    ]
   },
   {
@@ -183,6 +160,18 @@
    ]
   },
   {
+   "id": "e81db69f-dd8c-4c0e-8897-f32ccdebd0e3",
+   "title": {
+    "en": "Ougon no Koku"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "e0c14a13-190e-47ba-96f0-9d2c8c6ce515",
    "title": {
     "en": "In the Rose Garden"
@@ -195,6 +184,17 @@
     "pt-br",
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "a3cc5804-12ed-4394-b0df-57245147c3c4",
+   "title": {
+    "en": "Kamigami no Hohoemi"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "ru"
    ]
   },
   {
@@ -218,7 +218,7 @@
     "en": "Ryuukishi no Okiniiri"
    },
    "contentRating": "safe",
-   "score": 0.15471394,
+   "score": 0.15470988,
    "languages": [
     "ru",
     "en",
@@ -226,5 +226,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-15T22:07:49+00:00"
+ "updatedAt": "2024-11-17T22:18:21+00:00"
 }

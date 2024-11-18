@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a1de21f0-3007-4cde-b45a-d71462b70e8e",
+   "title": {
+    "en": "Napoleon - Age of the Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.24365796,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c2758fe6-4a7b-4b7e-9531-4b6ff2d82df2",
    "title": {
     "en": "Kami no CAVEIRA"
@@ -18,23 +29,12 @@
    ]
   },
   {
-   "id": "a1de21f0-3007-4cde-b45a-d71462b70e8e",
-   "title": {
-    "en": "Napoleon - Age of the Lion"
-   },
-   "contentRating": "safe",
-   "score": 0.24365796,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "398a26c5-04fa-4076-b921-0b0fb44edb10",
    "title": {
     "en": "Gunka no Baltzar"
    },
    "contentRating": "safe",
-   "score": 0.23927529,
+   "score": 0.23928012,
    "languages": [
     "en",
     "pt-br",
@@ -47,7 +47,7 @@
     "en": "Oni Goroshi"
    },
    "contentRating": "safe",
-   "score": 0.223518,
+   "score": 0.22352679,
    "languages": [
     "vi"
    ]
@@ -66,7 +66,21 @@
     "en": "Nobunaga o Koroshita Otoko - Nichirin no Demarcación"
    },
    "contentRating": "safe",
-   "score": 0.20987712
+   "score": 0.20988043
+  },
+  {
+   "id": "9e76dadd-e0c6-452a-9f7d-b9f2ae85bc35",
+   "title": {
+    "en": "Koroshiya no Oshi"
+   },
+   "contentRating": "safe",
+   "score": 0.20780016,
+   "languages": [
+    "vi",
+    "en",
+    "pt-br",
+    "th"
+   ]
   },
   {
    "id": "2a074c23-5162-4bdc-8632-c3b190160e1c",
@@ -74,7 +88,7 @@
     "en": "Puppet War Chronicles"
    },
    "contentRating": "safe",
-   "score": 0.20695175
+   "score": 0.20695204
   },
   {
    "id": "68054bff-ab52-4ea9-bdd5-9eb9b4abde54",
@@ -82,18 +96,10 @@
     "en": "Koukou Jihen"
    },
    "contentRating": "safe",
-   "score": 0.20299803,
+   "score": 0.2030059,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "e56b4a26-f3e4-41bf-a714-91673efb34dc",
-   "title": {
-    "en": "Reset Point"
-   },
-   "contentRating": "safe",
-   "score": 0.20100756
   },
   {
    "id": "56e60e21-1824-4401-9df2-a690bb95ccfc",
@@ -104,44 +110,20 @@
    "score": 0.20100756
   },
   {
+   "id": "e56b4a26-f3e4-41bf-a714-91673efb34dc",
+   "title": {
+    "en": "Reset Point"
+   },
+   "contentRating": "safe",
+   "score": 0.20100756
+  },
+  {
    "id": "bd9144b1-8602-4efb-bdb3-3dd08dbab521",
    "title": {
     "en": "Amateur Vigilante"
    },
    "contentRating": "safe",
-   "score": 0.20004295
-  },
-  {
-   "id": "a1dc8c93-f83d-4410-a3e3-4051a007d83f",
-   "title": {
-    "en": "Lili-Men"
-   },
-   "contentRating": "safe",
-   "score": 0.19929099,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "id",
-    "en",
-    "fa",
-    "pl",
-    "es",
-    "ar"
-   ]
-  },
-  {
-   "id": "9e76dadd-e0c6-452a-9f7d-b9f2ae85bc35",
-   "title": {
-    "en": "Koroshiya no Oshi"
-   },
-   "contentRating": "safe",
-   "score": 0.19929099,
-   "languages": [
-    "vi",
-    "en",
-    "pt-br",
-    "th"
-   ]
+   "score": 0.20005101
   },
   {
    "id": "5fb002de-95d1-4acb-a1ba-aabcfec814c3",
@@ -153,6 +135,22 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "c60e9b26-1abf-4b9c-a51b-bb5874445c87",
+   "title": {
+    "en": "Armageddon \"Aum Plan\" Successful!"
+   },
+   "contentRating": "safe",
+   "score": 0.19929099
+  },
+  {
+   "id": "9316429b-e2c0-4314-bb7d-be5b0633fc0a",
+   "title": {
+    "en": "LaLaLa… ~Kanojo no Suki na Kanojo~"
+   },
+   "contentRating": "safe",
+   "score": 0.19929099
   },
   {
    "id": "bb1f528f-de51-4b58-9878-c7ab55dd73c0",
@@ -168,15 +166,7 @@
     "id",
     "es-la"
    ]
-  },
-  {
-   "id": "c60e9b26-1abf-4b9c-a51b-bb5874445c87",
-   "title": {
-    "en": "Armageddon \"Aum Plan\" Successful!"
-   },
-   "contentRating": "safe",
-   "score": 0.19929099
   }
  ],
- "updatedAt": "2024-11-15T20:43:32+00:00"
+ "updatedAt": "2024-11-17T20:57:13+00:00"
 }

@@ -3,14 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hagushite! Kaeru-san"
+   "en": "Hug Shite! Kaeru-san"
   },
   "altTitles": [
    {
     "ja": "ハグして！カエルさん"
    },
    {
+    "ja-ro": "Hagushite! Kaeru-san"
+   },
+   {
     "en": "Give Me a Hug! Mr. Frog"
+   },
+   {
+    "en": "Hug Me! Frog-san"
    }
   ],
   "description": {
@@ -96,9 +102,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2024-11-15T13:04:23+00:00",
-  "updatedAt": "2024-11-15T13:39:14+00:00"
+  "updatedAt": "2024-11-16T03:24:17+00:00"
  },
  "relationships": [
   {

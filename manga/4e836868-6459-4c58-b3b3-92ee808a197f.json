@@ -19,9 +19,10 @@
   "status": "ongoing",
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "en"
+   "en",
+   "id"
   ],
-  "latestUploadedChapter": "19d2fa1a-3e8a-4ad5-b0c9-3594f951f271",
+  "latestUploadedChapter": "e3774d20-4e94-4a6d-a138-60d67c970402",
   "tags": [
    {
     "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
@@ -58,12 +59,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-11-12T21:38:43+00:00",
-  "updatedAt": "2024-11-13T03:15:09+00:00"
+  "updatedAt": "2024-11-16T14:39:48+00:00"
  },
  "relationships": [
   {

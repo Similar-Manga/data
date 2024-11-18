@@ -16,7 +16,7 @@
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0CDP1N3YY",
    "ap": "shi-ni-modori-reijou-no-kari-hajime-kekkon-nidome-no-jinsei-wa-kimajime-shougun-to-hoshijuu-mofumofu",
-   "bw": "series/383952",
+   "bw": "series/383952/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/739032/",
    "mu": "5721n3g",
    "raw": "https://www.cmoa.jp/title/253418/"
@@ -40,18 +40,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -65,9 +53,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2023-07-28T01:21:32+00:00",
-  "updatedAt": "2024-08-28T13:06:13+00:00"
+  "updatedAt": "2024-11-15T16:05:51+00:00"
  },
  "relationships": [
   {
@@ -125,14 +113,14 @@
    }
   },
   {
-   "id": "b47835f1-6632-4481-a39d-646bc6bd8e3d",
+   "id": "e49129dd-fc95-4be7-a37f-81f50293e287",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-08-28T13:06:12+00:00",
+    "createdAt": "2024-11-15T16:08:21+00:00",
     "description": "",
-    "fileName": "85dc73b6-798b-4d1c-b0c7-ffde5479084d.jpg",
+    "fileName": "9b64880b-6d0f-400e-974a-bcc3ba932938.jpg",
     "locale": "ja",
-    "updatedAt": "2024-08-28T13:06:12+00:00",
+    "updatedAt": "2024-11-15T16:08:21+00:00",
     "version": 1,
     "volume": "3"
    }

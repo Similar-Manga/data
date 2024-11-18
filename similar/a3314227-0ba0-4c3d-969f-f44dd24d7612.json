@@ -20,29 +20,6 @@
    ]
   },
   {
-   "id": "194afbc6-e1d3-44f8-977c-ea3b7e3e5432",
-   "title": {
-    "en": "Mahou no Toufuya-san"
-   },
-   "contentRating": "safe",
-   "score": 0.24696942,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7c08f074-2951-4ad0-b3a1-fbb5a3c6efd3",
-   "title": {
-    "en": "Momomoke Restaurant"
-   },
-   "contentRating": "safe",
-   "score": 0.24696942,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "94d60d12-452d-49f0-8d0f-5af785e561a8",
    "title": {
     "en": "Red Cat Ramen"
@@ -58,9 +35,32 @@
    ]
   },
   {
+   "id": "7c08f074-2951-4ad0-b3a1-fbb5a3c6efd3",
+   "title": {
+    "en": "Momomoke Restaurant"
+   },
+   "contentRating": "safe",
+   "score": 0.24696942,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "47d1c9ff-f946-435d-a085-5bade1dade99",
    "title": {
     "en": "Papa's Cooking"
+   },
+   "contentRating": "safe",
+   "score": 0.24696942,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "194afbc6-e1d3-44f8-977c-ea3b7e3e5432",
+   "title": {
+    "en": "Mahou no Toufuya-san"
    },
    "contentRating": "safe",
    "score": 0.24696942,
@@ -100,22 +100,21 @@
     "en": "Kanakana"
    },
    "contentRating": "safe",
-   "score": 0.23847559,
+   "score": 0.23847818,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a43509ba-f5a9-4a41-b693-0674e7709dc6",
+   "id": "3dda9dc7-be06-4f27-af07-670786ceee4e",
    "title": {
-    "en": "Non-Special Day"
+    "en": "Shibuya Near Family"
    },
    "contentRating": "safe",
    "score": 0.22778316,
    "languages": [
-    "tr",
     "en",
-    "ru"
+    "pt-br"
    ]
   },
   {
@@ -133,18 +132,6 @@
    ]
   },
   {
-   "id": "3dda9dc7-be06-4f27-af07-670786ceee4e",
-   "title": {
-    "en": "Shibuya Near Family"
-   },
-   "contentRating": "safe",
-   "score": 0.22778316,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "e242133d-3fef-4d68-a3cc-fbb198170863",
    "title": {
     "en": "Aka Pro!!! - Akarui Sanshimai Project"
@@ -157,14 +144,16 @@
    ]
   },
   {
-   "id": "3b7ab0cf-0735-497e-abb9-34c2a64c6d9b",
+   "id": "980e8042-e420-476d-afa7-f7f5d3c512ea",
    "title": {
-    "en": "Anata wo Otona ni Suru ○ tsu no Koto"
+    "en": "Miyakawa-ke no Kuufuku"
    },
    "contentRating": "safe",
    "score": 0.22778316,
    "languages": [
-    "en"
+    "en",
+    "it",
+    "pt-br"
    ]
   },
   {
@@ -183,16 +172,27 @@
    ]
   },
   {
-   "id": "980e8042-e420-476d-afa7-f7f5d3c512ea",
+   "id": "3b7ab0cf-0735-497e-abb9-34c2a64c6d9b",
    "title": {
-    "en": "Miyakawa-ke no Kuufuku"
+    "en": "Anata wo Otona ni Suru ○ tsu no Koto"
    },
    "contentRating": "safe",
    "score": 0.22778316,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a43509ba-f5a9-4a41-b693-0674e7709dc6",
+   "title": {
+    "en": "Non-Special Day"
+   },
+   "contentRating": "safe",
+   "score": 0.22778316,
+   "languages": [
+    "tr",
     "en",
-    "it",
-    "pt-br"
+    "ru"
    ]
   },
   {
@@ -208,5 +208,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-15T21:25:05+00:00"
+ "updatedAt": "2024-11-17T21:41:26+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shite Mita"
    },
    "contentRating": "safe",
-   "score": 0.391331,
+   "score": 0.3912365,
    "languages": [
     "pt-br",
     "es-la",
@@ -27,7 +27,7 @@
     "en": "Summoning The Demon Lord"
    },
    "contentRating": "safe",
-   "score": 0.36766386,
+   "score": 0.36753067,
    "languages": [
     "en"
    ]
@@ -38,8 +38,23 @@
     "ja": "Hayaku Yuusha ni Taiji Saretai Maou-sama"
    },
    "contentRating": "safe",
-   "score": 0.3312147,
+   "score": 0.33110774,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "be25beb6-d11e-45bb-8795-85eb96032f5a",
+   "title": {
+    "en": "Watashi no Maou-sama"
+   },
+   "contentRating": "safe",
+   "score": 0.3219151,
+   "languages": [
+    "ru",
+    "es-la",
+    "tr",
+    "ar",
     "en"
    ]
   },
@@ -49,7 +64,7 @@
     "en": "Jinrou e no Tensei, Maou no Fukukan: Shidou-hen"
    },
    "contentRating": "safe",
-   "score": 0.31368965,
+   "score": 0.31355277,
    "languages": [
     "ru",
     "en",
@@ -64,7 +79,7 @@
     "en": "How to Properly Care for Your Pet Wife"
    },
    "contentRating": "safe",
-   "score": 0.31222782,
+   "score": 0.3123248,
    "languages": [
     "en",
     "ru"
@@ -76,7 +91,7 @@
     "en": "When I Went to Another World, My Little Sister Was Already Reigning as the Demon Lord"
    },
    "contentRating": "safe",
-   "score": 0.28808892,
+   "score": 0.2879889,
    "languages": [
     "en"
    ]
@@ -87,7 +102,7 @@
     "en": "Maou Reijou no Shikousha"
    },
    "contentRating": "safe",
-   "score": 0.2848324,
+   "score": 0.2847899,
    "languages": [
     "en",
     "id"
@@ -99,23 +114,8 @@
     "en": "Demon Lord of the Northern Night"
    },
    "contentRating": "safe",
-   "score": 0.28144142,
+   "score": 0.28131884,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "be25beb6-d11e-45bb-8795-85eb96032f5a",
-   "title": {
-    "en": "Watashi no Maou-sama"
-   },
-   "contentRating": "safe",
-   "score": 0.2751695,
-   "languages": [
-    "ru",
-    "es-la",
-    "tr",
-    "ar",
     "en"
    ]
   },
@@ -125,7 +125,7 @@
     "en": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru"
    },
    "contentRating": "safe",
-   "score": 0.27130336,
+   "score": 0.2711985,
    "languages": [
     "fr",
     "es-la",
@@ -137,39 +137,12 @@
    ]
   },
   {
-   "id": "1edd5f9e-a278-4b60-a267-395d7aa33e32",
-   "title": {
-    "en": "Kibatsu Senki"
-   },
-   "contentRating": "safe",
-   "score": 0.25633183,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7af7cbd5-6c77-4c9e-9163-7f01dd6e1cc6",
-   "title": {
-    "en": "Maou Gun Saikyou no Majutsushi wa Ningen datta"
-   },
-   "contentRating": "safe",
-   "score": 0.25096932,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en",
-    "fr",
-    "ru",
-    "tr"
-   ]
-  },
-  {
    "id": "261ff484-8ab5-45ba-8bcb-02517d1d1cc3",
    "title": {
     "en": "'Tis Time for \"Torture,\" Princess"
    },
    "contentRating": "safe",
-   "score": 0.24775352,
+   "score": 0.2570271,
    "languages": [
     "de",
     "es",
@@ -183,12 +156,50 @@
    ]
   },
   {
+   "id": "1edd5f9e-a278-4b60-a267-395d7aa33e32",
+   "title": {
+    "en": "Kibatsu Senki"
+   },
+   "contentRating": "safe",
+   "score": 0.25634181,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7af7cbd5-6c77-4c9e-9163-7f01dd6e1cc6",
+   "title": {
+    "en": "Maou Gun Saikyou no Majutsushi wa Ningen datta"
+   },
+   "contentRating": "safe",
+   "score": 0.25079682,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en",
+    "fr",
+    "ru",
+    "tr"
+   ]
+  },
+  {
    "id": "0bd4cb3d-a316-46a8-8baf-5875f84924b5",
    "title": {
     "en": "ILYA"
    },
    "contentRating": "safe",
-   "score": 0.24465953,
+   "score": 0.24466743,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d31ea090-516f-4227-aa77-71e9933074bc",
+   "title": {
+    "en": "Tensei Shita Daimaou, Chikyuu ni Shutsugen Shita Dungeon o Tsukuridasu: Maou Jidai no Chishiki to Keiken de Matataku Ma ni Sekai Saikyou ni Natte Musou Shimasu!"
+   },
+   "contentRating": "safe",
+   "score": 0.22948931,
    "languages": [
     "en"
    ]
@@ -199,7 +210,7 @@
     "en": "Mairimashita! Iruma-kun"
    },
    "contentRating": "safe",
-   "score": 0.22867857,
+   "score": 0.22868864,
    "languages": [
     "es",
     "id",
@@ -217,19 +228,7 @@
     "de",
     "pl"
    ]
-  },
-  {
-   "id": "9937f7da-7913-49cb-a354-2e4ecd9cbd52",
-   "title": {
-    "en": "Full Clearing Another World under a Goddess with Zero Believers"
-   },
-   "contentRating": "safe",
-   "score": 0.22229446,
-   "languages": [
-    "en",
-    "ru"
-   ]
   }
  ],
- "updatedAt": "2024-11-15T21:51:46+00:00"
+ "updatedAt": "2024-11-17T22:06:50+00:00"
 }

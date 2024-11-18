@@ -11,7 +11,7 @@
     "en": "A Story About A Human And One Who Lives Forever"
    },
    "contentRating": "safe",
-   "score": 0.33222264,
+   "score": 0.33220598,
    "languages": [
     "vi",
     "id",
@@ -24,7 +24,7 @@
     "en": "The Piano Tuner"
    },
    "contentRating": "safe",
-   "score": 0.28232232,
+   "score": 0.28244016,
    "languages": [
     "fr",
     "en",
@@ -33,12 +33,12 @@
    ]
   },
   {
-   "id": "4b5823ba-1cfe-4536-99ac-4f216cf3d52b",
+   "id": "ccfca769-a571-40ee-96c4-d9b372cad135",
    "title": {
-    "en": "Together During Summer, Too"
+    "en": "Natsu no Mayu"
    },
    "contentRating": "safe",
-   "score": 0.25515094,
+   "score": 0.27098742,
    "languages": [
     "en"
    ]
@@ -49,10 +49,33 @@
     "en": "Eikyuu Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.25056115,
+   "score": 0.2574613,
    "languages": [
     "en",
     "pt-br",
+    "pl"
+   ]
+  },
+  {
+   "id": "4b5823ba-1cfe-4536-99ac-4f216cf3d52b",
+   "title": {
+    "en": "Together During Summer, Too"
+   },
+   "contentRating": "safe",
+   "score": 0.25511962,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bd3b1e84-dccf-4175-9bc2-c2ae2b9b6e10",
+   "title": {
+    "en": "Eternal Moment"
+   },
+   "contentRating": "safe",
+   "score": 0.24815136,
+   "languages": [
+    "en",
     "pl"
    ]
   },
@@ -67,20 +90,6 @@
     "es-la",
     "en",
     "tr"
-   ]
-  },
-  {
-   "id": "5ebd04d6-4060-41d4-b706-831be826ef6d",
-   "title": {
-    "en": "Malignant and Straight-forward"
-   },
-   "contentRating": "safe",
-   "score": 0.24536917,
-   "languages": [
-    "en",
-    "pt-br",
-    "th",
-    "es-la"
    ]
   },
   {
@@ -110,64 +119,17 @@
    ]
   },
   {
-   "id": "9faba8cf-60df-4894-9370-22571592c8d3",
+   "id": "5ebd04d6-4060-41d4-b706-831be826ef6d",
    "title": {
-    "en": "Ano Koro no Aoi Hoshi"
+    "en": "Malignant and Straight-forward"
    },
    "contentRating": "safe",
-   "score": 0.24413669,
+   "score": 0.24536917,
    "languages": [
+    "en",
     "pt-br",
-    "vi",
-    "en",
-    "id",
-    "th"
-   ]
-  },
-  {
-   "id": "9a360b5f-06b5-44c5-894f-60ac99214a1d",
-   "title": {
-    "en": "To Where the Rail Goes"
-   },
-   "contentRating": "safe",
-   "score": 0.24413669,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dee0ff73-eff4-45ec-8453-4a2a0d5777f1",
-   "title": {
-    "en": "Wishing on the Moon"
-   },
-   "contentRating": "safe",
-   "score": 0.24413669,
-   "languages": [
-    "en",
-    "tr",
-    "es"
-   ]
-  },
-  {
-   "id": "f98795f8-882f-404a-8482-13921f5d765a",
-   "title": {
-    "en": "Cute and Cruel"
-   },
-   "contentRating": "safe",
-   "score": 0.24413669,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2c4be8c8-d2aa-478b-b2de-f42517492388",
-   "title": {
-    "en": "It's You!"
-   },
-   "contentRating": "safe",
-   "score": 0.24413669,
-   "languages": [
-    "en"
+    "th",
+    "es-la"
    ]
   },
   {
@@ -184,9 +146,48 @@
    ]
   },
   {
-   "id": "1ca4a952-d888-407a-8ba7-fef5a5d17e25",
+   "id": "9faba8cf-60df-4894-9370-22571592c8d3",
    "title": {
-    "en": "Yuri Game"
+    "en": "Ano Koro no Aoi Hoshi"
+   },
+   "contentRating": "safe",
+   "score": 0.24413669,
+   "languages": [
+    "pt-br",
+    "vi",
+    "en",
+    "id",
+    "th"
+   ]
+  },
+  {
+   "id": "dee0ff73-eff4-45ec-8453-4a2a0d5777f1",
+   "title": {
+    "en": "Wishing on the Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.24413669,
+   "languages": [
+    "en",
+    "tr",
+    "es"
+   ]
+  },
+  {
+   "id": "2c4be8c8-d2aa-478b-b2de-f42517492388",
+   "title": {
+    "en": "It's You!"
+   },
+   "contentRating": "safe",
+   "score": 0.24413669,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fca41209-7807-446e-909a-40ba8dbe0818",
+   "title": {
+    "en": "Heartsick"
    },
    "contentRating": "safe",
    "score": 0.24413669,
@@ -208,5 +209,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-15T20:55:12+00:00"
+ "updatedAt": "2024-11-17T21:09:45+00:00"
 }

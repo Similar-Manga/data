@@ -11,7 +11,7 @@
     "en": "Hotel Lilac"
    },
    "contentRating": "safe",
-   "score": 0.38876513
+   "score": 0.38878864
   },
   {
    "id": "e5da8cc4-d06e-446b-a14e-96bb855f21d5",
@@ -19,7 +19,7 @@
     "en": "Ohitori-sama Hotel"
    },
    "contentRating": "safe",
-   "score": 0.3853935
+   "score": 0.38541475
   },
   {
    "id": "ddeea1f1-9edf-4b81-8369-8b4411a37968",
@@ -27,10 +27,18 @@
     "en": "Hotel Metsäpeura e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.29726198,
+   "score": 0.29728276,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "613b119a-1e77-4d01-a507-1d60474c2fd1",
+   "title": {
+    "en": "All Aboard"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
   },
   {
    "id": "e60993f7-b586-479c-a5b5-86b0e55ce195",
@@ -49,14 +57,6 @@
    "score": 0.28508148
   },
   {
-   "id": "613b119a-1e77-4d01-a507-1d60474c2fd1",
-   "title": {
-    "en": "All Aboard"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
    "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
    "title": {
     "en": "Manaka no Mori"
@@ -68,23 +68,20 @@
    ]
   },
   {
+   "id": "e17300e4-e2d7-42f5-acef-010e672b006b",
+   "title": {
+    "en": "Chie no Ichinichi"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806
+  },
+  {
    "id": "20b68c5d-92bc-42b3-b353-888b7c572221",
    "title": {
     "en": "Sake x Koe Fleur - Hanameku Shinmai Seiyuu-chan wa Nihonshu Megami to Yume wo Miru"
    },
    "contentRating": "safe",
    "score": 0.23276806
-  },
-  {
-   "id": "87fb264d-027d-4418-91fa-473561b1bbd5",
-   "title": {
-    "en": "The Message in the Rain Shower"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
   },
   {
    "id": "ab029f57-691d-45e3-b6e7-704e598d4d55",
@@ -95,27 +92,23 @@
    "score": 0.23276806
   },
   {
+   "id": "a86d596f-93cf-470a-b18f-06f29665c292",
+   "title": {
+    "en": "Kilroy Was Here"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b1d100f3-5692-47a1-a31c-b7c706fe3078",
    "title": {
     "en": "Kishaku Ou"
    },
    "contentRating": "safe",
    "score": 0.23276806
-  },
-  {
-   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
-   "title": {
-    "en": "Swell"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "bg",
-    "en",
-    "pl",
-    "de",
-    "pt-br"
-   ]
   },
   {
    "id": "61d97b29-2681-4ab4-84cd-e2513dbde814",
@@ -144,24 +137,31 @@
    ]
   },
   {
-   "id": "a86d596f-93cf-470a-b18f-06f29665c292",
+   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
    "title": {
-    "en": "Kilroy Was Here"
+    "en": "Swell"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "bg",
+    "en",
+    "pl",
+    "de",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "87fb264d-027d-4418-91fa-473561b1bbd5",
+   "title": {
+    "en": "The Message in the Rain Shower"
    },
    "contentRating": "safe",
    "score": 0.23276806,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "e17300e4-e2d7-42f5-acef-010e672b006b",
-   "title": {
-    "en": "Chie no Ichinichi"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806
   }
  ],
- "updatedAt": "2024-11-15T20:20:30+00:00"
+ "updatedAt": "2024-11-17T20:31:39+00:00"
 }
