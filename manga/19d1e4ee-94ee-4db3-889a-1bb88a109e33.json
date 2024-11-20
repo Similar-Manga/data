@@ -39,6 +39,18 @@
   "latestUploadedChapter": "d513cf0c-ac9e-4330-8762-b5a2bca07c9c",
   "tags": [
    {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
     "type": "tag",
     "attributes": {
@@ -87,6 +99,18 @@
     }
    },
    {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -100,9 +124,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2019-03-10T03:27:11+00:00",
-  "updatedAt": "2022-10-20T17:21:04+00:00"
+  "updatedAt": "2024-11-18T14:36:27+00:00"
  },
  "relationships": [
   {

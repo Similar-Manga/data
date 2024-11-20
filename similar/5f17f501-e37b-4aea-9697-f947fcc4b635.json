@@ -11,7 +11,7 @@
     "en": "Mamotte! Lollipop"
    },
    "contentRating": "safe",
-   "score": 0.35157454,
+   "score": 0.35157996,
    "languages": [
     "pl"
    ]
@@ -22,11 +22,19 @@
     "en": "Hana ni Kedamono"
    },
    "contentRating": "safe",
-   "score": 0.29545885,
+   "score": 0.29546586,
    "languages": [
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "7e6ac3bc-0226-4fd4-9045-64815e725479",
+   "title": {
+    "en": "Sagesumareta Reijou wa, Daini no Jinsei de Akogare no Renkinjutsushi no Michi wo Erabu ~Yume wo Kanaeta Minarai Renkinjutsushi no Daiippo~"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
   },
   {
    "id": "6d06d6a7-243e-45a9-b3d4-4e09e6ff3274",
@@ -39,22 +47,6 @@
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "ab4df592-6f4c-443f-9bdf-7caaac5ed497",
-   "title": {
-    "en": "Terepari Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "7e6ac3bc-0226-4fd4-9045-64815e725479",
-   "title": {
-    "en": "Sagesumareta Reijou wa, Daini no Jinsei de Akogare no Renkinjutsushi no Michi wo Erabu ~Yume wo Kanaeta Minarai Renkinjutsushi no Daiippo~"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
   },
   {
    "id": "2eb7ab3e-45b0-4e31-be65-2b74777629f3",
@@ -76,12 +68,20 @@
    ]
   },
   {
+   "id": "ab4df592-6f4c-443f-9bdf-7caaac5ed497",
+   "title": {
+    "en": "Terepari Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "96e41f8a-c7f8-4fd2-9c99-abefa811bd4e",
    "title": {
     "en": "Promise"
    },
    "contentRating": "safe",
-   "score": 0.28091812
+   "score": 0.28091893
   },
   {
    "id": "dbecff9d-1870-4532-9961-7ff885aeeea9",
@@ -89,43 +89,11 @@
     "en": "Uchi no Kuro Madoushi ga Kawaisugiru!"
    },
    "contentRating": "safe",
-   "score": 0.27574456,
+   "score": 0.27574995,
    "languages": [
     "en",
     "vi"
    ]
-  },
-  {
-   "id": "1b0e8e08-c65d-4e4d-b024-43e6549394f6",
-   "title": {
-    "en": "Confiture Monologue"
-   },
-   "contentRating": "safe",
-   "score": 0.2751915
-  },
-  {
-   "id": "5c16931f-d320-4fb0-9c2b-ca3641cf7202",
-   "title": {
-    "en": "The Friendly and Vague Harmony"
-   },
-   "contentRating": "safe",
-   "score": 0.27515137
-  },
-  {
-   "id": "d33b16ed-4e92-4df5-b820-2ad69b736d4d",
-   "title": {
-    "en": "Kisse~s"
-   },
-   "contentRating": "safe",
-   "score": 0.27479848
-  },
-  {
-   "id": "b6998730-02bb-4251-b396-c425253cac1b",
-   "title": {
-    "en": "Nakimushi Gakuran Musume"
-   },
-   "contentRating": "safe",
-   "score": 0.27429566
   },
   {
    "id": "ffd80bf7-a4d2-4ac0-9e47-b55652e9a548",
@@ -133,7 +101,39 @@
     "en": "Haru wo Irodoru High Tone"
    },
    "contentRating": "safe",
-   "score": 0.27411747
+   "score": 0.27566826
+  },
+  {
+   "id": "1b0e8e08-c65d-4e4d-b024-43e6549394f6",
+   "title": {
+    "en": "Confiture Monologue"
+   },
+   "contentRating": "safe",
+   "score": 0.27519232
+  },
+  {
+   "id": "5c16931f-d320-4fb0-9c2b-ca3641cf7202",
+   "title": {
+    "en": "The Friendly and Vague Harmony"
+   },
+   "contentRating": "safe",
+   "score": 0.27515
+  },
+  {
+   "id": "d33b16ed-4e92-4df5-b820-2ad69b736d4d",
+   "title": {
+    "en": "Kisse~s"
+   },
+   "contentRating": "safe",
+   "score": 0.27480116
+  },
+  {
+   "id": "b6998730-02bb-4251-b396-c425253cac1b",
+   "title": {
+    "en": "Nakimushi Gakuran Musume"
+   },
+   "contentRating": "safe",
+   "score": 0.27429458
   },
   {
    "id": "e8389656-9267-4f3b-8495-c0324b3debbb",
@@ -141,7 +141,7 @@
     "ja": "Houkago, Kare to Kekkon Shimasu."
    },
    "contentRating": "safe",
-   "score": 0.27293378,
+   "score": 0.2729336,
    "languages": [
     "en"
    ]
@@ -152,11 +152,11 @@
     "en": "Hana wa Docchida"
    },
    "contentRating": "safe",
-   "score": 0.2728171,
+   "score": 0.2728173,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-17T21:07:11+00:00"
+ "updatedAt": "2024-11-19T20:16:30+00:00"
 }

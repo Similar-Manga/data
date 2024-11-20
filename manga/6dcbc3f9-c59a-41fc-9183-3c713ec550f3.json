@@ -1,0 +1,150 @@
+{
+ "id": "6dcbc3f9-c59a-41fc-9183-3c713ec550f3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sora to Houki to Tomato Sauce"
+  },
+  "altTitles": [
+   {
+    "ja": "そらと箒とトマトソース"
+   }
+  ],
+  "description": {
+   "ja": "隕石が降ってきた日少女はそらに浮かぶようになった――。\n\n自転車部で頑張る女子高生・大希そらは秩父での合宿中に、隕石の落下に巻き込まれた!! ケガは大したことはなかったものの勢いをつけると宙に浮くという難儀な体質を得てしまった。自転車競技ができなくなり、ヤケっぱちだった彼女のところに、なぜか空を飛んでピザが届けられ――それは、愉快すぎる魔女たちの欲望まみれの日々の始まりだった!"
+  },
+  "links": {
+   "al": "121496",
+   "amz": "https://www.amazon.co.jp/dp/B07Q4G52V3",
+   "ap": "sora-to-houki-to-tomato-sauce",
+   "bw": "series/198228",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/532205",
+   "mal": "119191",
+   "mu": "cpt15a9"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "4",
+  "lastChapter": "22",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2017,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-18T15:34:53+00:00",
+  "updatedAt": "2024-11-18T15:35:25+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5b3b3243-ad3c-49fa-bca2-667d249c56b5",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 目黒三吉"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Meguro Sankichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/10061655",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/megurosankichi",
+    "updatedAt": "2024-08-29T04:13:39+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5b3b3243-ad3c-49fa-bca2-667d249c56b5",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 目黒三吉"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Meguro Sankichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/10061655",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/megurosankichi",
+    "updatedAt": "2024-08-29T04:13:39+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3d84b60e-1a69-4830-afa8-68534bd17d22",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-18T15:34:59+00:00",
+    "description": "Volume 4 Cover from BookLive",
+    "fileName": "b3592d36-5cf7-4e98-b59d-2365ee96c937.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-18T15:34:59+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

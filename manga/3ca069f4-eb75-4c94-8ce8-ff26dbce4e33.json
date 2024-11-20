@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "In the Pocket"
+   "en": "In Za Poketto"
   },
   "altTitles": [
    {
-    "en": "In Za Poketto"
+    "ja": "イン・ザ・ポケット"
    },
    {
-    "en": "イン・ザ・ポケット"
+    "en": "In the Pocket"
    }
   ],
   "description": {
@@ -22,6 +22,7 @@
   "originalLanguage": "ja",
   "publicationDemographic": "josei",
   "status": "completed",
+  "year": 2020,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "ar",
@@ -38,6 +39,18 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -67,9 +80,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2020-08-26T17:16:46+00:00",
-  "updatedAt": "2021-05-25T15:41:30+00:00"
+  "updatedAt": "2024-11-19T01:02:33+00:00"
  },
  "relationships": [
   {

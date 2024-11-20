@@ -6,12 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c7ec2aa6-a64e-45a9-9052-f03dd2d7aa56",
+   "title": {
+    "en": "Let's Play"
+   },
+   "contentRating": "safe",
+   "score": 0.36030143,
+   "languages": [
+    "es-la",
+    "fr"
+   ]
+  },
+  {
+   "id": "76ea3bf1-e58b-49ea-8052-f0714e23e76d",
+   "title": {
+    "en": "My Cat Is a Bit Different"
+   },
+   "contentRating": "safe",
+   "score": 0.29945666,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "120c6996-9802-4f88-bfb3-14b10661dc07",
    "title": {
     "en": "Extreme Dog Owner"
    },
    "contentRating": "safe",
-   "score": 0.31036004,
+   "score": 0.29566643,
    "languages": [
     "en"
    ]
@@ -22,98 +45,19 @@
     "en": "Jyordy 24 Hours"
    },
    "contentRating": "safe",
-   "score": 0.3099217,
+   "score": 0.29536232,
    "languages": [
     "en",
     "tr"
    ]
   },
   {
-   "id": "76ea3bf1-e58b-49ea-8052-f0714e23e76d",
+   "id": "d4c265e1-7b60-4cb8-b6b4-fa1ca82a8384",
    "title": {
-    "en": "My Cat Is a Bit Different"
+    "en": "Lanlan the Chipmunk"
    },
    "contentRating": "safe",
-   "score": 0.3055617,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b2b13e03-f598-4503-9f26-9016cc187e28",
-   "title": {
-    "en": "Life with a Grandpa Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.30294743,
-   "languages": [
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "d112b658-ea11-4137-a112-5fd41a62cf92",
-   "title": {
-    "en": "All Day Jo Ayoung"
-   },
-   "contentRating": "safe",
-   "score": 0.30284256,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "fb3397f1-c7d3-43ce-9cb3-80facfad3c65",
-   "title": {
-    "en": "A New Life"
-   },
-   "contentRating": "safe",
-   "score": 0.29198042,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5ca95d5b-4aa0-4d22-96e1-6844ea7ed106",
-   "title": {
-    "en": "Secret Love"
-   },
-   "contentRating": "safe",
-   "score": 0.28951576,
-   "languages": [
-    "pt-br",
-    "uk",
-    "en",
-    "pl",
-    "tr",
-    "fr",
-    "kk",
-    "it"
-   ]
-  },
-  {
-   "id": "b100cd89-688d-4ed2-821a-ba8a7947e1ff",
-   "title": {
-    "en": "Secret Love (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.28947675,
-   "languages": [
-    "en",
-    "fr",
-    "it",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "2b4d30da-29b2-47a3-a3e4-b0fd4fdc7e1c",
-   "title": {
-    "en": "Osa and the Five Wastes"
-   },
-   "contentRating": "safe",
-   "score": 0.28596324,
+   "score": 0.28532875,
    "languages": [
     "en"
    ]
@@ -122,28 +66,6 @@
    "id": "901dc55b-8c9d-4b9a-9dd0-f8379560927f",
    "title": {
     "en": "Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.28532875,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2c694b76-5924-4b91-ba1a-4e1319ec9aeb",
-   "title": {
-    "en": "Birth of a Dog"
-   },
-   "contentRating": "safe",
-   "score": 0.28532875,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6f2a2474-6b38-4e85-9efe-4a4a8ac50103",
-   "title": {
-    "en": "Ramboo and Panboo"
    },
    "contentRating": "safe",
    "score": 0.28532875,
@@ -164,17 +86,6 @@
    ]
   },
   {
-   "id": "d4c265e1-7b60-4cb8-b6b4-fa1ca82a8384",
-   "title": {
-    "en": "Lanlan the Chipmunk"
-   },
-   "contentRating": "safe",
-   "score": 0.28532875,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "686c7f46-fea8-4192-90a0-b5de0ea3ae6f",
    "title": {
     "en": "Have a Little Cuteness"
@@ -186,16 +97,96 @@
    ]
   },
   {
+   "id": "6f2a2474-6b38-4e85-9efe-4a4a8ac50103",
+   "title": {
+    "en": "Ramboo and Panboo"
+   },
+   "contentRating": "safe",
+   "score": 0.28532875,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2c694b76-5924-4b91-ba1a-4e1319ec9aeb",
+   "title": {
+    "en": "Birth of a Dog"
+   },
+   "contentRating": "safe",
+   "score": 0.28532875,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d112b658-ea11-4137-a112-5fd41a62cf92",
+   "title": {
+    "en": "All Day Jo Ayoung"
+   },
+   "contentRating": "safe",
+   "score": 0.2835334,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "fb3397f1-c7d3-43ce-9cb3-80facfad3c65",
+   "title": {
+    "en": "A New Life"
+   },
+   "contentRating": "safe",
+   "score": 0.28283688,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b2b13e03-f598-4503-9f26-9016cc187e28",
+   "title": {
+    "en": "Life with a Grandpa Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.28265443,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "a5b1601f-e762-478f-946d-4a96cbd91304",
    "title": {
     "en": "Independent Diary"
    },
    "contentRating": "safe",
-   "score": 0.2820348,
+   "score": 0.2758891,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "13d9c0fd-46fd-432b-9418-4fa657258f42",
+   "title": {
+    "en": "poodle\u0026me"
+   },
+   "contentRating": "safe",
+   "score": 0.2747812,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4c1d8732-cbc8-495c-b67b-58b699265e0a",
+   "title": {
+    "en": "Sanwen and Xiaobai"
+   },
+   "contentRating": "safe",
+   "score": 0.27325934,
+   "languages": [
+    "ru",
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-17T21:58:14+00:00"
+ "updatedAt": "2024-11-19T20:51:47+00:00"
 }

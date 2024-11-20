@@ -22,7 +22,7 @@
    "al": "137266",
    "amz": "https://www.amazon.co.jp/dp/B09DK4736G",
    "ap": "kami-no-manima-ni",
-   "bw": "series/317159/list",
+   "bw": "series/317159",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/658637",
    "mal": "139762",
    "mu": "5ddk5rd",
@@ -68,16 +68,18 @@
    }
   ],
   "state": "published",
-  "version": 19,
+  "version": 20,
   "createdAt": "2021-10-12T21:40:00+00:00",
-  "updatedAt": "2024-04-13T17:19:08+00:00"
+  "updatedAt": "2024-11-18T05:31:39+00:00"
  },
  "relationships": [
   {
    "id": "ed461a79-c89c-4a5d-a053-7537aff41f69",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 猗笠怜司"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -92,8 +94,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/reijiagasa",
-    "updatedAt": "2024-02-05T00:06:59+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-18T05:17:29+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -103,7 +105,9 @@
    "id": "ed461a79-c89c-4a5d-a053-7537aff41f69",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 猗笠怜司"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -118,8 +122,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/reijiagasa",
-    "updatedAt": "2024-02-05T00:06:59+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-18T05:17:29+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

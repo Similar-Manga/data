@@ -1,0 +1,156 @@
+{
+ "id": "e177819d-08b4-46ce-abe7-ad7a470b7cf3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mijissou no Last Boss-tachi ga Nakama ni narimashita."
+  },
+  "altTitles": [
+   {
+    "ja": "未実装のラスボス達が仲間になりました。"
+   }
+  ],
+  "description": {
+   "ja": "新型VRMMO《eternity》の無料枠に選ばれた主人公・修太郎は、ランダムスキルで得た《ダンジョン生成》をさっそく発動――しかし時を同じくして「mother AI」の暴走によりプレイヤーたちはゲーム内に閉じ込められ、ゲームの死=現実の死となるデスゲーム世界になってしまった…。スキルの効果で気がつくと修太郎は謎のエリア《ロス・マオラ城》へと転移していた。そこは恐るべき力を持つ６人の魔王たちの居城で、修太朗は命の危機を感じるのだった……。しかしそんな彼の心配をよそに、魔王の１人が口を開く――「修太朗様……我が王よ、我らがあなた様の盾となり矛となりましょう」"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0BN6NST61",
+   "ap": "the-unimplemented-overlords-have-joined-the-party",
+   "bw": "series/356767",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/701435",
+   "mal": "162191",
+   "mu": "pkyl9ah",
+   "raw": "https://comic-walker.com/detail/KC_002562_S"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "8c86611e-fab7-4986-9dec-d1a2f44acdd5",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Virtual Reality"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-18T22:51:24+00:00",
+  "updatedAt": "2024-11-18T22:52:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "9771b2dc-6a7a-4443-ba06-89b8b8c4c538",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-18T22:48:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nagawasabi64",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-18T22:48:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4fa2df41-2a02-40ea-b127-a776a409caf3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hirokawa Tomo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a19551e4-8257-420b-9784-08f8ec7f76f0",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-18T22:51:35+00:00",
+    "description": "Volume 5 Cover from BookLive",
+    "fileName": "88924688-b1a6-4a5f-ac6f-7eadbe5d5067.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-18T22:51:35+00:00",
+    "version": 1,
+    "volume": "5"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

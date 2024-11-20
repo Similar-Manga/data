@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3c0ea6e5-2202-4e18-82d8-2a078e0ac336",
+   "title": {
+    "en": "SA07"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1ace7ef5-adfc-460e-af93-876f3ab6fc45",
    "title": {
     "en": "Cherry"
@@ -28,14 +39,18 @@
    ]
   },
   {
-   "id": "3c0ea6e5-2202-4e18-82d8-2a078e0ac336",
+   "id": "54e9d914-3c14-4a75-9650-e305291830c7",
    "title": {
-    "en": "SA07"
+    "en": "Waves, Listen to me!"
    },
    "contentRating": "safe",
-   "score": 0.2569291,
+   "score": 0.24110086,
    "languages": [
-    "en"
+    "zh",
+    "en",
+    "pt-br",
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -54,27 +69,12 @@
    ]
   },
   {
-   "id": "54e9d914-3c14-4a75-9650-e305291830c7",
-   "title": {
-    "en": "Waves, Listen to me!"
-   },
-   "contentRating": "safe",
-   "score": 0.24110086,
-   "languages": [
-    "zh",
-    "en",
-    "pt-br",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
    "id": "cf381a3d-ece9-4ae7-a693-96a49a69908a",
    "title": {
     "en": "Tamariba"
    },
    "contentRating": "safe",
-   "score": 0.23401867,
+   "score": 0.23401934,
    "languages": [
     "en"
    ]
@@ -85,7 +85,7 @@
     "en": "Mozuku, Walking!"
    },
    "contentRating": "safe",
-   "score": 0.23324837,
+   "score": 0.23325063,
    "languages": [
     "en"
    ]
@@ -119,6 +119,18 @@
    ]
   },
   {
+   "id": "db6ba094-2332-4945-b92f-ce6791e6161b",
+   "title": {
+    "en": "The Legend of the Strongest Man Nakane"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
    "id": "c8648727-a577-48c6-a5e1-4162772afeb8",
    "title": {
     "en": "Deep3"
@@ -146,18 +158,6 @@
    ]
   },
   {
-   "id": "db6ba094-2332-4945-b92f-ce6791e6161b",
-   "title": {
-    "en": "The Legend of the Strongest Man Nakane"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
    "id": "931e0c3f-6a5c-4a3f-924f-c5bb29cf2d31",
    "title": {
     "en": "Kono nakani Sekuyuou ga Imasu"
@@ -180,26 +180,23 @@
    ]
   },
   {
-   "id": "fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8",
+   "id": "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba",
    "title": {
-    "en": "Kyou mo Veranda de"
+    "en": "Madoromi Barmaid"
    },
    "contentRating": "safe",
    "score": 0.22506468,
    "languages": [
-    "vi",
+    "pt-br",
     "en",
-    "ru",
-    "uk",
-    "fr",
     "es-la",
-    "pt-br"
+    "ru"
    ]
   },
   {
-   "id": "ddf50c41-6670-4cd1-b9bb-fe4a903caaa7",
+   "id": "b12f3c1d-9c12-432a-a9b5-3ec75aa614bd",
    "title": {
-    "en": "Channel wa Sonomama!"
+    "en": "Imadoki no Wakai Mon wa"
    },
    "contentRating": "safe",
    "score": 0.22506468,
@@ -208,5 +205,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-17T22:06:08+00:00"
+ "updatedAt": "2024-11-19T20:59:14+00:00"
 }

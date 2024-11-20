@@ -15,6 +15,10 @@
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "109007fe-2bcd-43c7-b70e-a65d7786a617",
   "tags": [
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
@@ -37,6 +41,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -102,9 +118,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-10-04T14:37:54+00:00",
-  "updatedAt": "2024-10-04T14:38:00+00:00"
+  "updatedAt": "2024-11-18T15:40:10+00:00"
  },
  "relationships": [
   {
@@ -119,15 +135,15 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "keitalia",
-    "namicomi": null,
+    "namicomi": "https://namicomi.com/en/org/keitalia",
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-04T14:36:21+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-18T15:40:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -145,15 +161,15 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "keitalia",
-    "namicomi": null,
+    "namicomi": "https://namicomi.com/en/org/keitalia",
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-04T14:36:21+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-18T15:40:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

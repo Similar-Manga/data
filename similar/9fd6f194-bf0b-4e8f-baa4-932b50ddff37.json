@@ -6,25 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "dcc48d4e-add2-486c-b009-fa258789e5e5",
-   "title": {
-    "en": "Fragile"
-   },
-   "contentRating": "safe",
-   "score": 0.22986947,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5901c2ae-810c-4fac-ac02-92cbe55b5168",
    "title": {
     "ja": "Raid on Tokyo"
    },
    "contentRating": "safe",
-   "score": 0.22201794,
+   "score": 0.22202756,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "dcc48d4e-add2-486c-b009-fa258789e5e5",
+   "title": {
+    "en": "Fragile"
+   },
+   "contentRating": "safe",
+   "score": 0.21948735,
+   "languages": [
     "en"
    ]
   },
@@ -34,7 +34,7 @@
     "en": "Iwamoto-senpai no Suisen"
    },
    "contentRating": "safe",
-   "score": 0.20275348,
+   "score": 0.20275082,
    "languages": [
     "en",
     "fr"
@@ -46,22 +46,9 @@
     "en": "Prince Takaoka's Voyage"
    },
    "contentRating": "safe",
-   "score": 0.19659694,
+   "score": 0.19660552,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
-   "title": {
-    "en": "Legend of the Galactic Heroes (FUJISAKI Ryu)"
-   },
-   "contentRating": "safe",
-   "score": 0.18866244,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br"
    ]
   },
   {
@@ -70,9 +57,22 @@
     "en": "Arthur Bright"
    },
    "contentRating": "safe",
-   "score": 0.18685862,
+   "score": 0.19440313,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a29bd145-116e-49c8-bc2f-b15857299304",
+   "title": {
+    "en": "Legend of the Galactic Heroes"
+   },
+   "contentRating": "safe",
+   "score": 0.18866505,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br"
    ]
   },
   {
@@ -81,18 +81,7 @@
     "en": "Aoki Ao no Atopos"
    },
    "contentRating": "safe",
-   "score": 0.18641743,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
-   "title": {
-    "en": "Hyakki Tsurezure Bukuro"
-   },
-   "contentRating": "safe",
-   "score": 0.18435472,
+   "score": 0.18641068,
    "languages": [
     "en"
    ]
@@ -109,12 +98,23 @@
    ]
   },
   {
+   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
+   "title": {
+    "en": "Hyakki Tsurezure Bukuro"
+   },
+   "contentRating": "safe",
+   "score": 0.18435472,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "268fceff-240a-479c-a956-73f396401bc9",
    "title": {
     "en": "Raja"
    },
    "contentRating": "safe",
-   "score": 0.18164094,
+   "score": 0.18164068,
    "languages": [
     "en"
    ]
@@ -125,15 +125,15 @@
     "en": "Mugen no Gunkan Yamato"
    },
    "contentRating": "safe",
-   "score": 0.17913702,
+   "score": 0.17914075,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
+   "id": "b557ec15-0e84-4ea5-ad93-12d492f5093a",
    "title": {
-    "en": "AGAPE"
+    "en": "Yugo (2004)"
    },
    "contentRating": "safe",
    "score": 0.17799766,
@@ -155,9 +155,9 @@
    ]
   },
   {
-   "id": "b557ec15-0e84-4ea5-ad93-12d492f5093a",
+   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
    "title": {
-    "en": "Yugo (2004)"
+    "en": "AGAPE"
    },
    "contentRating": "safe",
    "score": 0.17799766,
@@ -171,7 +171,7 @@
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.17679243,
+   "score": 0.17681259,
    "languages": [
     "pt-br",
     "es-la",
@@ -189,7 +189,7 @@
     "en": "Tsugumi Project"
    },
    "contentRating": "safe",
-   "score": 0.17532046,
+   "score": 0.17532738,
    "languages": [
     "pt-br",
     "en",
@@ -200,5 +200,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-17T21:39:44+00:00"
+ "updatedAt": "2024-11-19T20:38:51+00:00"
 }

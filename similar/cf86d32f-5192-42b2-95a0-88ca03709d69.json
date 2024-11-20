@@ -6,20 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "0689ef65-6170-4353-991d-fa815618445d",
-   "title": {
-    "en": "Aikatsu! Go! Go! Go!"
-   },
-   "contentRating": "safe",
-   "score": 0.6116639
-  },
-  {
    "id": "0d7c3646-3aed-4ab5-90c4-0d7c5aeae39a",
    "title": {
     "en": "To My Star"
    },
    "contentRating": "safe",
-   "score": 0.32225502,
+   "score": 0.34919462,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "525c4335-0913-4d3b-8d67-eda2a1e3010e",
+   "title": {
+    "en": "Kirara no Hoshi"
+   },
+   "contentRating": "safe",
+   "score": 0.29567048,
    "languages": [
     "en"
    ]
@@ -30,7 +33,7 @@
     "en": "Tokyo Doukyo Kyokakyoku"
    },
    "contentRating": "safe",
-   "score": 0.27746993
+   "score": 0.2895318
   },
   {
    "id": "c8f1a132-b84d-46a0-95e2-ef27dc160854",
@@ -38,7 +41,7 @@
     "en": "Charm Angel -Star Angel-"
    },
    "contentRating": "safe",
-   "score": 0.26135832
+   "score": 0.27859783
   },
   {
    "id": "43a28c25-2d0d-4431-bd5a-5ca1d5456bbf",
@@ -46,7 +49,7 @@
     "en": "Magic Star Academy"
    },
    "contentRating": "safe",
-   "score": 0.26093727
+   "score": 0.27475518
   },
   {
    "id": "f262be92-095a-4ad6-932e-e88f6d694001",
@@ -57,74 +60,12 @@
    "score": 0.2569291
   },
   {
-   "id": "f9d5f882-8b00-4c14-8ff7-9925237d7606",
-   "title": {
-    "en": "Aikatsu! Manga \u0026 12 Constellation Fortunes"
-   },
-   "contentRating": "safe",
-   "score": 0.25388938,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dbc77c7e-48a3-428e-a680-d2cb439173a6",
-   "title": {
-    "en": "Shounen Maid Gaiden: Uchouten Boys"
-   },
-   "contentRating": "safe",
-   "score": 0.25141507
-  },
-  {
-   "id": "bcf9f938-4d78-446c-8915-3561057f5497",
-   "title": {
-    "en": "Kirarin Revolution"
-   },
-   "contentRating": "safe",
-   "score": 0.25133893,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b3f9bd06-2e3b-471d-ba5b-466e0e0426bb",
-   "title": {
-    "en": "Tonari no Danshi ga Oshida Nante Kiitemasen!"
-   },
-   "contentRating": "safe",
-   "score": 0.24956721
-  },
-  {
-   "id": "8308bb9b-cb3c-444f-953d-c3880be180a7",
-   "title": {
-    "en": "Love Me Pom Poko"
-   },
-   "contentRating": "safe",
-   "score": 0.24864644
-  },
-  {
-   "id": "75e89b98-77ba-433d-b4f4-1b200480b790",
-   "title": {
-    "en": "Marionette ja Koi dekinai!"
-   },
-   "contentRating": "safe",
-   "score": 0.24846642
-  },
-  {
-   "id": "1aaae336-df1d-4372-884f-3fdfaed5dff3",
-   "title": {
-    "en": "Kagayake! Miracle Boys - Hajimari no Kiseki"
-   },
-   "contentRating": "safe",
-   "score": 0.24795954
-  },
-  {
    "id": "089c7fb5-aa32-4f5d-89eb-69d90ea0188d",
    "title": {
     "en": "Animal Yokochou"
    },
    "contentRating": "safe",
-   "score": 0.24692173,
+   "score": 0.25452262,
    "languages": [
     "en"
    ]
@@ -135,7 +76,42 @@
     "en": "Hapi Nabi!"
    },
    "contentRating": "safe",
-   "score": 0.24312596,
+   "score": 0.2530257,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8308bb9b-cb3c-444f-953d-c3880be180a7",
+   "title": {
+    "en": "Love Me Pom Poko"
+   },
+   "contentRating": "safe",
+   "score": 0.25140688
+  },
+  {
+   "id": "1aaae336-df1d-4372-884f-3fdfaed5dff3",
+   "title": {
+    "en": "Kagayake! Miracle Boys - Hajimari no Kiseki"
+   },
+   "contentRating": "safe",
+   "score": 0.25130776
+  },
+  {
+   "id": "75e89b98-77ba-433d-b4f4-1b200480b790",
+   "title": {
+    "en": "Marionette ja Koi dekinai!"
+   },
+   "contentRating": "safe",
+   "score": 0.2511879
+  },
+  {
+   "id": "4217262b-e4b7-49c5-9671-7f7114f278e0",
+   "title": {
+    "en": "Assemble! Animal Crossing"
+   },
+   "contentRating": "safe",
+   "score": 0.25064117,
    "languages": [
     "en"
    ]
@@ -146,11 +122,42 @@
     "en": "Chibi Maruko-chan"
    },
    "contentRating": "safe",
-   "score": 0.24294484,
+   "score": 0.24555251,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "ec5bbd40-bf28-45fb-94fb-f004acb197d1",
+   "title": {
+    "en": "Yowai 200-nen no Norowareta Seirei wa Koi no Mannouyaku wo Hossuru"
+   },
+   "contentRating": "safe",
+   "score": 0.24224192
+  },
+  {
+   "id": "8c953456-55a6-4294-913c-3f5f640711b1",
+   "title": {
+    "en": "Hoteri Hotette First Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.24197443,
+   "languages": [
+    "en",
+    "ru",
+    "fr",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "ccaf59cf-79ce-467b-ab82-eb4dfdd8ae26",
+   "title": {
+    "en": "Kyou wa Nai suru?"
+   },
+   "contentRating": "safe",
+   "score": 0.24100547
   }
  ],
- "updatedAt": "2024-11-17T22:01:37+00:00"
+ "updatedAt": "2024-11-19T20:55:00+00:00"
 }

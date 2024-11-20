@@ -6,25 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "530309ba-26b4-4290-a15d-ced331a83ea9",
-   "title": {
-    "en": "Galaxy Gangs"
-   },
-   "contentRating": "safe",
-   "score": 0.2853471,
-   "languages": [
-    "de",
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "8412400c-c524-4261-b6d6-7cb10abd68b3",
    "title": {
     "en": "Chrono Mansion"
    },
    "contentRating": "safe",
-   "score": 0.28092977,
+   "score": 0.2809716,
    "languages": [
     "en",
     "fr"
@@ -36,7 +23,7 @@
     "en": "Golden Sun - Dark Dawn"
    },
    "contentRating": "safe",
-   "score": 0.2634961,
+   "score": 0.26349053,
    "languages": [
     "en"
    ]
@@ -48,6 +35,17 @@
    },
    "contentRating": "safe",
    "score": 0.25555065,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3384d199-0774-4a7a-a81f-12458d931096",
+   "title": {
+    "en": "Tokiya"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
    "languages": [
     "en"
    ]
@@ -76,42 +74,27 @@
    ]
   },
   {
+   "id": "530309ba-26b4-4290-a15d-ced331a83ea9",
+   "title": {
+    "en": "Galaxy Gangs"
+   },
+   "contentRating": "safe",
+   "score": 0.24188171,
+   "languages": [
+    "de",
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "8a6bd8df-82a0-4b37-abba-0c97e6959b11",
    "title": {
     "en": "Haco"
    },
    "contentRating": "safe",
-   "score": 0.2289004,
+   "score": 0.22890198,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "9865c978-3393-42a6-9b0c-947814ac8a24",
-   "title": {
-    "en": "Count Over"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "pt-br",
-    "id",
-    "zh-hk",
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "eb76755d-be29-4c9e-84b5-a9120cb402d4",
-   "title": {
-    "en": "Ruler of the Dark Region"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "tr",
-    "fr",
     "en"
    ]
   },
@@ -119,39 +102,6 @@
    "id": "6448e5d7-9919-4280-a71a-f7516999ed5f",
    "title": {
     "en": "Dr. Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dc5e9694-09fe-4986-8af4-95ddd241b82a",
-   "title": {
-    "en": "S-Rank Party wo Munou da to Tsuihousareta kedo, \"Kantei\" to \"Chiyu Mahou\" de Nariagari Musou"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "08cf89a5-83de-46b7-8cd8-f0b96f404e88",
-   "title": {
-    "en": "Nejimaki Shoukougun"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b4275939-e5bd-49d5-84c8-bf6d1cbc8b66",
-   "title": {
-    "en": "Rabbit Foot"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -172,27 +122,77 @@
    ]
   },
   {
-   "id": "2ef41a96-324e-46af-a8ab-a3626dbc62a2",
+   "id": "eb76755d-be29-4c9e-84b5-a9120cb402d4",
    "title": {
-    "en": "Majin Mura no Bubul"
+    "en": "Ruler of the Dark Region"
    },
    "contentRating": "safe",
-   "score": 0.21000256,
+   "score": 0.21428573,
+   "languages": [
+    "tr",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "dc5e9694-09fe-4986-8af4-95ddd241b82a",
+   "title": {
+    "en": "S-Rank Party wo Munou da to Tsuihousareta kedo, \"Kantei\" to \"Chiyu Mahou\" de Nariagari Musou"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "4846e4da-8fe7-4fe4-8ecd-2ec3f182d5ee",
+   "id": "9865c978-3393-42a6-9b0c-947814ac8a24",
    "title": {
-    "en": "Terranigma"
+    "en": "Count Over"
    },
    "contentRating": "safe",
-   "score": 0.20957686,
+   "score": 0.21428573,
+   "languages": [
+    "pt-br",
+    "id",
+    "zh-hk",
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "b4275939-e5bd-49d5-84c8-bf6d1cbc8b66",
+   "title": {
+    "en": "Rabbit Foot"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "08cf89a5-83de-46b7-8cd8-f0b96f404e88",
+   "title": {
+    "en": "Nejimaki Shoukougun"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2ef41a96-324e-46af-a8ab-a3626dbc62a2",
+   "title": {
+    "en": "Majin Mura no Bubul"
+   },
+   "contentRating": "safe",
+   "score": 0.21003187,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-17T20:45:30+00:00"
+ "updatedAt": "2024-11-19T20:01:20+00:00"
 }

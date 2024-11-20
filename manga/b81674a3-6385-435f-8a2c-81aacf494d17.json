@@ -34,8 +34,32 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "9dc255cd-d46e-4d5e-b7fc-4cbf1ca63cd7",
+  "latestUploadedChapter": "52769e98-63dc-4732-a95f-8bbeeffb0f9d",
   "tags": [
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
     "type": "tag",
@@ -50,9 +74,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 11,
   "createdAt": "2024-09-02T04:21:33+00:00",
-  "updatedAt": "2024-11-02T18:03:42+00:00"
+  "updatedAt": "2024-11-17T16:10:55+00:00"
  },
  "relationships": [
   {

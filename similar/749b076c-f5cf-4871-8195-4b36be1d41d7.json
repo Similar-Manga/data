@@ -11,7 +11,7 @@
     "en": "Kamisama, Kisama wo Koroshitai."
    },
    "contentRating": "safe",
-   "score": 0.2445735,
+   "score": 0.23962636,
    "languages": [
     "en"
    ]
@@ -33,20 +33,9 @@
     "en": "Boku wa Aku de Ii, Omae wo Koroseru nara."
    },
    "contentRating": "safe",
-   "score": 0.20768464,
+   "score": 0.19918099,
    "languages": [
     "es"
-   ]
-  },
-  {
-   "id": "68054bff-ab52-4ea9-bdd5-9eb9b4abde54",
-   "title": {
-    "en": "Koukou Jihen"
-   },
-   "contentRating": "safe",
-   "score": 0.19786514,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -55,20 +44,29 @@
     "en": "Mashira"
    },
    "contentRating": "safe",
-   "score": 0.19391365,
+   "score": 0.1919015,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "624e2b30-55c1-4de9-8dc9-991abf0241ea",
+   "id": "2234e168-6200-416d-80a2-1c6d46862f15",
    "title": {
-    "en": "Tonari no Jii-san"
+    "en": "Fukushuu no Ouji-sama"
    },
    "contentRating": "safe",
-   "score": 0.18767859,
+   "score": 0.19015573
+  },
+  {
+   "id": "bedd7713-355e-411e-b45a-487635a1443a",
+   "title": {
+    "en": "Shiyakusho"
+   },
+   "contentRating": "safe",
+   "score": 0.18405536,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -86,15 +84,26 @@
    ]
   },
   {
-   "id": "bedd7713-355e-411e-b45a-487635a1443a",
+   "id": "68054bff-ab52-4ea9-bdd5-9eb9b4abde54",
    "title": {
-    "en": "Shiyakusho"
+    "en": "Koukou Jihen"
    },
    "contentRating": "safe",
-   "score": 0.18405536,
+   "score": 0.18308316,
    "languages": [
-    "en",
-    "pt-br"
+    "en"
+   ]
+  },
+  {
+   "id": "ed52ed30-97ae-4901-9b4d-77ab49ee6d84",
+   "title": {
+    "en": "Balemount"
+   },
+   "contentRating": "safe",
+   "score": 0.18226294,
+   "languages": [
+    "ru",
+    "en"
    ]
   },
   {
@@ -106,20 +115,12 @@
    "score": 0.17971316
   },
   {
-   "id": "2234e168-6200-416d-80a2-1c6d46862f15",
-   "title": {
-    "en": "Fukushuu no Ouji-sama"
-   },
-   "contentRating": "safe",
-   "score": 0.17971316
-  },
-  {
    "id": "e710f350-93a6-47fc-af29-7c5e0fcdc1f0",
    "title": {
     "en": "Taiga of Genesis"
    },
    "contentRating": "safe",
-   "score": 0.17781764,
+   "score": 0.17599146,
    "languages": [
     "fr",
     "en",
@@ -135,42 +136,21 @@
     "en": "The Bethlem of Magicians"
    },
    "contentRating": "safe",
-   "score": 0.17244917,
+   "score": 0.17258717,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a7ac0261-5322-4afd-9240-f54316765cd1",
+   "id": "624e2b30-55c1-4de9-8dc9-991abf0241ea",
    "title": {
-    "en": "Groundless"
+    "en": "Tonari no Jii-san"
    },
    "contentRating": "safe",
-   "score": 0.17228107,
+   "score": 0.16795795,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "7138083b-4fbf-4cc3-8695-ce175034e45a",
-   "title": {
-    "en": "Yuki to Sumi"
-   },
-   "contentRating": "safe",
-   "score": 0.17227201,
-   "languages": [
-    "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
-   "id": "e94fafaf-2390-4162-8c41-6dd7c4eef978",
-   "title": {
-    "en": "Mushihime 2 Ebisu"
-   },
-   "contentRating": "safe",
-   "score": 0.17061143
   },
   {
    "id": "54059360-008c-49fe-a511-c5e23bc49242",
@@ -178,8 +158,39 @@
     "en": "Sumi Nigori"
    },
    "contentRating": "safe",
-   "score": 0.17020921
+   "score": 0.16737904
+  },
+  {
+   "id": "e94fafaf-2390-4162-8c41-6dd7c4eef978",
+   "title": {
+    "en": "Mushihime 2 Ebisu"
+   },
+   "contentRating": "safe",
+   "score": 0.16675001
+  },
+  {
+   "id": "d1a9fdeb-f713-407f-960c-8326b586e6fd",
+   "title": {
+    "en": "Vagabond"
+   },
+   "contentRating": "safe",
+   "score": 0.16490968,
+   "languages": [
+    "it",
+    "pt-br",
+    "es-la",
+    "en",
+    "pl",
+    "hu",
+    "el",
+    "ka",
+    "uk",
+    "id",
+    "ar",
+    "tr",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2024-11-17T21:18:02+00:00"
+ "updatedAt": "2024-11-19T20:23:48+00:00"
 }

@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The S-Class Baby Princess Is So Strong"
+   "en": "The S-Class Baby Princess Is Too Powerful"
   },
   "altTitles": [
    {
@@ -14,12 +14,16 @@
    },
    {
     "es-la": "La Princesa Bebé Clase S Es Muy Fuerte"
+   },
+   {
+    "en": "The S-Class Baby Princess Is So Strong"
    }
   ],
   "description": {
-   "en": "I was an S-class hunter, but I reincarnated as a princess?\n***\n‘I did it, I killed the demon!’\nHowever, the world was not saved. It was still in chaos, and I was already on the verge of dying.\n‘Am I going to die like this…?’\nMy eyes were getting blurry.\nBut then,\n‘A reward at this time? You damn system!’\n[The reward is…]\n‘What?’\nWhat came out of my mouth when I tried to scream was a babble instead.\n“Eubu.”\n[Consciousness has successfully been loaded!] [You have been reincarnated! Congratulations!]\n“Agatata!” (Reincarnation, great!)\nHowever, I wasn’t alone this time, because I had a family now.\n‘My father and brothers, why are they so strange?’\n“I have separation anxiety.”\n“I don’t need anything but Risha!”\nAlso, the enemy of my past life suddenly appeared.\n“My savior and benefactor, Princess Anatrisha.”\nI only saved him. Why was he like this?\n‘Will I be able to be happy this time?’"
+   "en": "Princess Anatrisha is only a year old, but her life is already far too complicated. Her father, the emperor, is cold and distant, and her mother is nowhere to be seen. Her older brother, meanwhile, is bullied by other nobles. Luckily, Anatrisha was an S-class hunter in her past life and is set on using her skills and magic to protect her loved ones. Can this little princess defend her right to the throne and bring her family closer together? Or will it be game over for this S-class baby?"
   },
   "links": {
+   "engtl": "https://tapas.io/series/the-s-class-baby-princess-is-too-powerful/info",
    "mu": "31ng0c5",
    "raw": "https://ridibooks.com/books/1515033205?from=viewer\u0026series_id=1515033205\u0026parent_category=1600"
   },
@@ -57,6 +61,18 @@
     }
    },
    {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -82,37 +98,11 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2024-02-15T08:01:10+00:00",
-  "updatedAt": "2024-07-20T18:59:24+00:00"
+  "updatedAt": "2024-11-18T04:10:02+00:00"
  },
  "relationships": [
-  {
-   "id": "2c808537-3122-438a-9615-72c5a134f249",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2024-02-15T07:54:40+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Lim Seorim",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-02-15T07:54:40+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
   {
    "id": "3ca93d53-ef2b-4d43-9475-924ba2182fac",
    "type": "author",
@@ -202,7 +192,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Jjokko Jelly",
+    "name": "Jjokko Jelly (쪼꼬젤리)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -210,8 +200,36 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-02-15T07:55:11+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-18T04:11:30+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b63633f8-d1ec-42f2-b046-3300edfdddb2",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "A novelist.\n\n---\n**Associated Names:**\n- IM Seo-rim\n- IM Seorim\n- LIM Seorim\n- Viscacha\n- 비스카차\n\n---\n**Name (in native language):**\n임서림"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Lim Seo-Rim (임서림)",
+    "namicomi": null,
+    "naver": "https://blog.naver.com/reflexa19",
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-18T04:08:19+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -225,9 +243,9 @@
     "description": "",
     "fileName": "319044a0-3b03-408e-b3cb-01d64dabee12.jpg",
     "locale": "ko",
-    "updatedAt": "2024-02-15T08:01:12+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-11-18T04:00:52+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

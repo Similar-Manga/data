@@ -1,0 +1,125 @@
+{
+ "id": "2622eb1b-9f43-4672-951f-d5c723a27f4a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Happy Doll Days"
+  },
+  "description": {},
+  "links": {
+   "raw": "https://web-ace.jp/youngaceup/contents/1000292/"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "ko"
+  ],
+  "latestUploadedChapter": "94c98fe9-8071-45cb-ab46-67ced64beb65",
+  "tags": [
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-19T06:56:23+00:00",
+  "updatedAt": "2024-11-19T06:56:30+00:00"
+ },
+ "relationships": [
+  {
+   "id": "11722664-61e2-4f9b-b36a-68bb8287c008",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Tracking\n[MyAnimeList](https://myanimelist.net/people/45440/Ume_Umehara) \n[AniList](https://anilist.co/staff/131425/Ume-Umehara) \n[Anime-Planet](https://www.anime-planet.com/people/ume-umehara) "
+    },
+    "booth": "https://aprico.booth.pm/",
+    "createdAt": "2021-10-10T01:45:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Umehara Ume",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=1291097",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/apricoume",
+    "updatedAt": "2024-05-15T07:44:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "11722664-61e2-4f9b-b36a-68bb8287c008",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Tracking\n[MyAnimeList](https://myanimelist.net/people/45440/Ume_Umehara) \n[AniList](https://anilist.co/staff/131425/Ume-Umehara) \n[Anime-Planet](https://www.anime-planet.com/people/ume-umehara) "
+    },
+    "booth": "https://aprico.booth.pm/",
+    "createdAt": "2021-10-10T01:45:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Umehara Ume",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=1291097",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/apricoume",
+    "updatedAt": "2024-05-15T07:44:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e5511769-9b46-4813-a84c-55723c859d29",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-19T06:56:25+00:00",
+    "description": "",
+    "fileName": "4abd6047-9885-4a82-829c-aebba3095bb0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-19T06:56:25+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "6d27972a-5468-4980-9681-18fa1c33dced",
+   "type": "creator"
+  }
+ ]
+}

@@ -26,6 +26,9 @@
    },
    {
     "ru": "Сатана на подработке!"
+   },
+   {
+    "vi": "Ma Vương Đi Làm"
    }
   ],
   "description": {
@@ -53,6 +56,7 @@
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "pt-br",
+   "vi",
    "es-la",
    "id",
    "en",
@@ -60,7 +64,7 @@
    "pl",
    ""
   ],
-  "latestUploadedChapter": "f78f011e-e7b1-40c6-9d06-b4a03630cc4b",
+  "latestUploadedChapter": "fcbe3432-b1b7-42f9-a69e-f32cea9f3cad",
   "tags": [
    {
     "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
@@ -184,9 +188,9 @@
    }
   ],
   "state": "published",
-  "version": 30,
+  "version": 31,
   "createdAt": "2018-05-26T02:16:49+00:00",
-  "updatedAt": "2024-10-29T23:03:51+00:00"
+  "updatedAt": "2024-11-18T17:18:17+00:00"
  },
  "relationships": [
   {
@@ -219,7 +223,9 @@
    "id": "baad89c4-5ba7-46cc-9165-645d0b4c52b8",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name in native language:** 柊 暁生\n\n[foorio](https://www.foriio.com/hiiragiakio)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -234,8 +240,8 @@
     "skeb": "https://skeb.jp/@102_55",
     "tumblr": null,
     "twitter": "https://twitter.com/102_55",
-    "updatedAt": "2022-06-19T02:04:03+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-17T23:09:50+00:00",
+    "version": 3,
     "website": "http://christmas.holy.jp/",
     "weibo": null,
     "youtube": null

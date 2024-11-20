@@ -1,0 +1,112 @@
+{
+ "id": "b57bc974-783f-4d65-a58b-8f09d22f7579",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ane wo Daku"
+  },
+  "altTitles": [
+   {
+    "ja": "姉を抱く"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "189d8f93-2e46-4af6-95df-57995f82f8dc",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-19T15:41:28+00:00",
+  "updatedAt": "2024-11-19T15:41:44+00:00"
+ },
+ "relationships": [
+  {
+   "id": "9a55b365-8335-40f7-ac0d-113f7382d40e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-19T15:40:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Leo Tarou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-19T15:40:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9a55b365-8335-40f7-ac0d-113f7382d40e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-19T15:40:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Leo Tarou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-19T15:40:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a0582937-3296-449a-a2fb-811167141ea1",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-19T15:41:29+00:00",
+    "description": "",
+    "fileName": "346bf9fe-ff9e-46d7-8521-7749f45df880.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-19T15:41:29+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "cf7ae8e5-21ac-4718-9756-17b9253ed88c",
+   "type": "creator"
+  }
+ ]
+}

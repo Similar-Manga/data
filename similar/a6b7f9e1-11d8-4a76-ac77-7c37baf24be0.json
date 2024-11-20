@@ -22,7 +22,7 @@
     "en": "No no Kagi"
    },
    "contentRating": "safe",
-   "score": 0.24496435,
+   "score": 0.24496098,
    "languages": [
     "pl",
     "en"
@@ -34,7 +34,7 @@
     "en": "Uchi no Kaisha no Chiisai Senpai no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.21531351,
+   "score": 0.21531864,
    "languages": [
     "en",
     "pt-br",
@@ -49,7 +49,7 @@
     "en": "Sewayaki Kitsune no Senko-san"
    },
    "contentRating": "safe",
-   "score": 0.21333246,
+   "score": 0.2133289,
    "languages": [
     "ru",
     "vi",
@@ -58,9 +58,9 @@
     "es-la",
     "fr",
     "pl",
+    "pt-br",
     "cs",
-    "id",
-    "pt-br"
+    "id"
    ]
   },
   {
@@ -69,23 +69,12 @@
     "en": "Bocchi no Boku ni Kyousei Kanojo ga Yattekita"
    },
    "contentRating": "safe",
-   "score": 0.21043766,
+   "score": 0.21043871,
    "languages": [
     "pt-br",
     "en",
     "es-la",
     "ru"
-   ]
-  },
-  {
-   "id": "8a66908a-40aa-4e57-adcb-885c54d90029",
-   "title": {
-    "en": "Nanatsuiro Drops"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -100,12 +89,23 @@
    ]
   },
   {
+   "id": "8a66908a-40aa-4e57-adcb-885c54d90029",
+   "title": {
+    "en": "Nanatsuiro Drops"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "84b8110c-b14f-42fe-bd95-72d821ac489d",
    "title": {
     "ja": "Sensei, Kongetsu Dou Desu ka"
    },
    "contentRating": "safe",
-   "score": 0.2061356,
+   "score": 0.2061349,
    "languages": [
     "en",
     "pt-br",
@@ -119,7 +119,7 @@
     "en": "Kamisama Kazoku"
    },
    "contentRating": "safe",
-   "score": 0.20524079,
+   "score": 0.205239,
    "languages": [
     "en",
     "pt-br"
@@ -131,7 +131,7 @@
     "en": "Drama na Koi wa Kihon kara"
    },
    "contentRating": "safe",
-   "score": 0.20474741,
+   "score": 0.20474692,
    "languages": [
     "en",
     "pt-br"
@@ -143,7 +143,7 @@
     "en": "Yoka-san ga Nameru"
    },
    "contentRating": "safe",
-   "score": 0.20176445,
+   "score": 0.20175745,
    "languages": [
     "en"
    ]
@@ -154,7 +154,7 @@
     "en": "Ottori Sousa"
    },
    "contentRating": "safe",
-   "score": 0.19598444,
+   "score": 0.19598249,
    "languages": [
     "en"
    ]
@@ -165,29 +165,7 @@
     "en": "Nobo-san to Kanojo?"
    },
    "contentRating": "safe",
-   "score": 0.19520643,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "faea5347-806f-404b-a5c1-ea92e3e8d5b7",
-   "title": {
-    "en": "Shinigami Minarai! Otsukare-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "68998ce5-f3e0-497d-8681-18fb9d89ab51",
-   "title": {
-    "en": "Kono Koi wa Harassment Desu ka?"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
+   "score": 0.1952979,
    "languages": [
     "en"
    ]
@@ -207,7 +185,29 @@
     "ca",
     "es"
    ]
+  },
+  {
+   "id": "68998ce5-f3e0-497d-8681-18fb9d89ab51",
+   "title": {
+    "en": "Kono Koi wa Harassment Desu ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "faea5347-806f-404b-a5c1-ea92e3e8d5b7",
+   "title": {
+    "en": "Shinigami Minarai! Otsukare-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-17T21:43:05+00:00"
+ "updatedAt": "2024-11-19T20:41:08+00:00"
 }

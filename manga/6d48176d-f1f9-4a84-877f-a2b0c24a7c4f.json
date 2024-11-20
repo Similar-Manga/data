@@ -11,7 +11,7 @@
    }
   ],
   "description": {
-   "en": "A high school girl in dire need, with no money to eat and no place to stay.\n\nKanda Issei, who works for a game application company, reaches out to this girl, Miu, out of pure kindness and the slightest ulterior motive, He reaches out to Miu out of pure kindness and a small ulterior motive. A \"girl who can't be left alone,\" who exudes a dangerous charm that is at once childlike and adult-like. After meeting her, the life of a mediocre man.",
+   "en": "**“Will you keep my as your pet?”**\n**My pet is a · high · school · girl!?**\n**A man's life is shaken! A series of uneasy stories!**\n\nWith no money for food and no place to stay, a high school girl is in dire straits.\nKanda Issei, who works at a game app company, reaches a hand out to the girl, Miu, out of genuine kindness and the slightest ulterior motive…!?\nA “girl you can't leave alone” who exudes a dangerous charm that is child-like and adult-like.\nAfter meeting her, the man's life that was mediocre…!?",
    "ja": "食べるお金も、泊まる場所もなく、ほとほと困っている女子高生。アプリ開発の会社に勤務する神田一正は、純粋な親切心と、ほんのささやかな下心からその少女に手を差し伸べたことで…！？子供のような、大人のような、危うい魅力を放つ「ほっとけない少女」。彼女と出会ったことで、凡庸だった男の人生は…！？"
   },
   "links": {
@@ -30,6 +30,18 @@
   "year": 2024,
   "contentRating": "suggestive",
   "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
@@ -53,38 +65,28 @@
      "group": "theme",
      "version": 1
     }
-   },
-   {
-    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Slice of Life"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 10,
   "createdAt": "2024-03-11T10:20:19+00:00",
-  "updatedAt": "2024-11-07T21:40:00+00:00"
+  "updatedAt": "2024-11-18T05:00:09+00:00"
  },
  "relationships": [
   {
    "id": "53900d03-8ae4-4b43-92d7-d6a714e1928d",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 九駄礁太"
+    },
     "booth": null,
     "createdAt": "2022-09-10T01:40:11+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kuda Shota",
+    "name": "Kuda Shouta",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -92,8 +94,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/9da_sho",
-    "updatedAt": "2023-11-05T12:51:19+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-18T04:37:34+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -103,14 +105,16 @@
    "id": "53900d03-8ae4-4b43-92d7-d6a714e1928d",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 九駄礁太"
+    },
     "booth": null,
     "createdAt": "2022-09-10T01:40:11+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kuda Shota",
+    "name": "Kuda Shouta",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -118,8 +122,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/9da_sho",
-    "updatedAt": "2023-11-05T12:51:19+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-18T04:37:34+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

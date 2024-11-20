@@ -1,0 +1,129 @@
+{
+ "id": "308c48dc-2a3d-437e-91ad-8cd21f60843c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mugi no Nichijou"
+  },
+  "altTitles": [
+   {
+    "ja": "むぎの日常"
+   },
+   {
+    "en": "Tsumugi's Daily Life"
+   }
+  ],
+  "description": {
+   "ja": "幼い頃から仲良しな中学一年生、つむぎと杏のほのぼの日常漫画。仲良しのはじまりのエピソードや、小学生男子と仲良くなったお話や、幼い頃とはすこし変わってきた杏の心模様が描かれています。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DFVYH5SW",
+   "bw": "series/483635",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/845773"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-19T16:21:00+00:00",
+  "updatedAt": "2024-11-19T16:21:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "eb0dc013-716e-41b7-9ea5-8b8d948d9b18",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-19T16:16:37+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "若（わか）",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-19T16:16:37+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "eb0dc013-716e-41b7-9ea5-8b8d948d9b18",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-19T16:16:37+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "若（わか）",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-19T16:16:37+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "06063d71-03bf-4540-a150-95ec34ffb890",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-19T16:21:09+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "46f94c95-de65-4c3e-b9bf-60fcf5a2a05b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-19T16:21:09+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

@@ -11,7 +11,7 @@
     "en": "Rhapsody in Red"
    },
    "contentRating": "safe",
-   "score": 0.38347355,
+   "score": 0.38345098,
    "languages": [
     "en",
     "ru"
@@ -23,7 +23,7 @@
     "en": "Saihate no Serenade"
    },
    "contentRating": "safe",
-   "score": 0.31973687,
+   "score": 0.31973553,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Juukinzoku Kanojo"
    },
    "contentRating": "safe",
-   "score": 0.29597712,
+   "score": 0.29597718,
    "languages": [
     "en"
    ]
@@ -56,7 +56,7 @@
     "en": "Unsung Hero"
    },
    "contentRating": "safe",
-   "score": 0.25018972,
+   "score": 0.25018758,
    "languages": [
     "en",
     "fr"
@@ -68,7 +68,7 @@
     "en": "Straight no Chaser"
    },
    "contentRating": "safe",
-   "score": 0.23943767,
+   "score": 0.24997582,
    "languages": [
     "en",
     "pt-br"
@@ -80,7 +80,7 @@
     "en": "Shiori Experience: My Plain Self and an Odd Old Man"
    },
    "contentRating": "safe",
-   "score": 0.23394834,
+   "score": 0.2339157,
    "languages": [
     "en",
     "fr",
@@ -89,6 +89,20 @@
     "es-la",
     "uk",
     "de"
+   ]
+  },
+  {
+   "id": "a86a2dae-e38a-4603-a518-503db8d5e369",
+   "title": {
+    "en": "Dance Dance Danseur"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en",
+    "pt-br",
+    "de",
+    "ru"
    ]
   },
   {
@@ -105,17 +119,29 @@
    ]
   },
   {
-   "id": "a86a2dae-e38a-4603-a518-503db8d5e369",
+   "id": "39a92825-1e91-40f1-9716-82fab8b888e1",
    "title": {
-    "en": "Dance Dance Danseur"
+    "en": "Aono-kun ni Sawaritai kara Shinitai"
    },
    "contentRating": "safe",
-   "score": 0.22980437,
+   "score": 0.22506468,
+   "languages": [
+    "zh",
+    "vi",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "279d7e00-1178-4d58-86c7-2ac0c099353f",
+   "title": {
+    "en": "Hitohira"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
    "languages": [
     "en",
-    "pt-br",
-    "de",
-    "ru"
+    "fr"
    ]
   },
   {
@@ -134,6 +160,17 @@
    ]
   },
   {
+   "id": "49cf00aa-6088-446e-9ec7-13fb126fe891",
+   "title": {
+    "en": "Oui Oui Days"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "78a664a7-2f4e-464b-b925-92984012f00c",
    "title": {
     "en": "Anata ga Shite Kurenakute mo"
@@ -147,31 +184,6 @@
    ]
   },
   {
-   "id": "49cf00aa-6088-446e-9ec7-13fb126fe891",
-   "title": {
-    "en": "Oui Oui Days"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "39a92825-1e91-40f1-9716-82fab8b888e1",
-   "title": {
-    "en": "Aono-kun ni Sawaritai kara Shinitai"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "zh",
-    "vi",
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
    "title": {
     "en": "Sunny"
@@ -180,18 +192,6 @@
    "score": 0.22506468,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "279d7e00-1178-4d58-86c7-2ac0c099353f",
-   "title": {
-    "en": "Hitohira"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en",
-    "fr"
    ]
   },
   {
@@ -207,5 +207,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-17T20:31:43+00:00"
+ "updatedAt": "2024-11-19T19:52:04+00:00"
 }

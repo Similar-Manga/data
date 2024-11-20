@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kuro Tsubasa no Koutei wa Tou no Ue no Imi Seijo wo Dekiai suru"
+   "en": "Kuro Tsubasa no Koutei wa Tou no Ue no Imi Seijo o Dekiai Suru"
   },
   "altTitles": [
    {
@@ -11,13 +11,20 @@
    },
    {
     "ja-ro": "Kuro Tsubasa no Koutei wa Tou no Ue no Imi Seijo wo Dekiai suru"
+   },
+   {
+    "en": "The Black Wing Emperor Dotes on the Taboo Saintess Living at the Top of the Tower"
    }
   ],
   "description": {
-   "en": "Because of her hair color and eyes that resemble those of a “cursed witch” who existed in the past, Rishana, the first princess of the Dronard Kingdom, has been treated as an abomination and raised in a high tower, cut off from the world below. One night, her sister Milina and Aron, whom she has been in love with since childhood, conspire to falsely accuse her of the crime and decide to execute her. The entire tower is burned to the ground, and she is ready to die. The one who comes from the sky to save them is Dicel, the emperor of the Diallo Empire, who is rumored to be ruthless and merciless."
+   "en": "Because of her hair color and eyes that resemble those of a “cursed witch” who existed in the past, Rishana, the first princess of the Dronard Kingdom, has been treated as an abomination and raised in a high tower, cut off from the world below. One night, her sister Milina and Aron, whom she has been in love with since childhood, conspire to falsely accuse her of the crime and decide to execute her. The entire tower is burned to the ground, and she is ready to die. The one who comes from the sky to save them is Dicel, the emperor of the Diallo Empire, who is rumored to be ruthless and merciless.",
+   "ja": "過去に存在した『呪いの魔女』と同じ見た目のせいで、忌み子として扱われ、高い塔の上に幽閉されてきたドロナード王国の第一王女・リーシャナ。とある晩、妹・ミリーナと幼い頃から恋い焦がれていたアロンが共謀し、偽りの罪を着せられ処刑が決まる。塔ごと燃やされ、死を覚悟したその時。助けに現れたのは、冷酷無慈悲と噂されるディアロ帝国の皇帝・ディセルだった——。待望のロマンスファンタジー、ついにコミカライズ化！！"
   },
   "links": {
-   "mu": "xzscwyn"
+   "bw": "series/492064/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/858306/",
+   "mu": "xzscwyn",
+   "raw": "https://peep.jp/stories/sX7eEqszBq1hsszz"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shoujo",
@@ -60,12 +67,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 8,
   "createdAt": "2024-10-18T11:14:57+00:00",
-  "updatedAt": "2024-10-18T11:16:36+00:00"
+  "updatedAt": "2024-11-18T07:10:24+00:00"
  },
  "relationships": [
   {
@@ -79,7 +98,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "UZUKI Oboe",
+    "name": "Uzuki Oboe",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -87,8 +106,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-18T11:07:42+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-18T06:55:50+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -105,7 +124,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "HENNO Hada",
+    "name": "Henno Hada",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -113,34 +132,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-18T11:07:16+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "4f245418-9a24-408b-a17e-b0fa97865406",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2024-10-05T13:11:33+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "peep",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-05T13:11:33+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-18T06:55:31+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -165,9 +158,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2023-07-09T22:08:02+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-18T07:32:46+00:00",
+    "version": 2,
+    "website": "https://taskey.co.jp/taskey_studio",
     "weibo": null,
     "youtube": null
    }
@@ -199,16 +192,16 @@
    }
   },
   {
-   "id": "fbefa7cf-dd81-482a-b259-ca3b36cace86",
+   "id": "07429a1d-6705-4f97-963b-c92675463f63",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-18T11:14:58+00:00",
-    "description": "",
-    "fileName": "587d4c06-8e5c-492d-a784-09a3ada44795.jpg",
+    "createdAt": "2024-11-18T06:58:52+00:00",
+    "description": "Cover from BookLive",
+    "fileName": "b2f5fd98-ae14-4ab8-b213-8c832e78067e.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-18T11:14:58+00:00",
+    "updatedAt": "2024-11-18T06:58:52+00:00",
     "version": 1,
-    "volume": "0"
+    "volume": "1"
    }
   },
   {

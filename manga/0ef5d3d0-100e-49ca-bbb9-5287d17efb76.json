@@ -1,0 +1,140 @@
+{
+ "id": "0ef5d3d0-100e-49ca-bbb9-5287d17efb76",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Wasn't this supposed to be a strategy game?"
+  },
+  "altTitles": [
+   {
+    "ko": "이거 전략게임 아니었나요"
+   }
+  ],
+  "description": {
+   "en": "I’ve possessed a hidden character in a notorious strategy game with a 0% clear rate.\nTo escape this game, I must bring peace to the empire…\n“So, from now on, I’ll trust only you, Priest.”\n“You’d better give up on that plan.”\n“Priest, did you really use me?”\n“For some reason, I feel something special from you, Priest.”\n“You promised you’d come back.”\n…Why is my favorability rising, and why does it feel like this is turning into a reverse harem?\nExcuse me, wasn’t this supposed to be a strategy game?"
+  },
+  "links": {
+   "mu": "cz5m5ih"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "d09c769d-a201-4945-9574-777a6e8f2570",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-18T06:25:49+00:00",
+  "updatedAt": "2024-11-18T06:26:04+00:00"
+ },
+ "relationships": [
+  {
+   "id": "793825d9-6327-4b4c-af5d-ec828d77a58b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-12-25T06:31:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoon Jeom-Rye",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-12-25T06:31:34+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "00ede234-eb26-4ad8-9ff3-1cb503b314d5",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-18T06:24:04+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Masam",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-18T06:24:04+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1418a9f3-7de5-4883-a65c-b0464dcd535d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-18T06:25:53+00:00",
+    "description": "",
+    "fileName": "dc43dd7d-78d2-45a8-a638-fd86a40ae952.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-18T06:25:53+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f3432e7e-8661-414e-bba8-5ed92b6b80dd",
+   "type": "creator"
+  }
+ ]
+}

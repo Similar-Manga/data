@@ -11,7 +11,7 @@
     "en": "Dansei Kyoufushou datta Watashi ga AV Jouyu ni Naru made no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.34562865,
+   "score": 0.34565362,
    "languages": [
     "es-la",
     "pt-br",
@@ -38,7 +38,7 @@
     "en": "Hanashi ga Chigau Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.24281396,
+   "score": 0.2428477,
    "languages": [
     "id",
     "en",
@@ -51,7 +51,7 @@
     "en": "This boy from Gaza makes manga"
    },
    "contentRating": "safe",
-   "score": 0.23906885,
+   "score": 0.23908101,
    "languages": [
     "en"
    ]
@@ -62,20 +62,26 @@
     "en": "System of Romance"
    },
    "contentRating": "safe",
-   "score": 0.23469487,
+   "score": 0.234696,
    "languages": [
     "it",
     "en"
    ]
   },
   {
-   "id": "02be54ac-b1bc-496c-a496-bcea5356bcb5",
+   "id": "37c12beb-378b-44b2-bfe8-4d1d5ca5937b",
    "title": {
-    "en": "Do You Know the Real Dangers of Those So-Called Legal Drugs that are Being Sold?"
+    "en": "I Have a Happy Dream"
    },
    "contentRating": "safe",
    "score": 0.21535276,
    "languages": [
+    "tl",
+    "fr",
+    "id",
+    "it",
+    "vi",
+    "es-la",
     "en"
    ]
   },
@@ -93,81 +99,6 @@
     "ru",
     "fr",
     "it"
-   ]
-  },
-  {
-   "id": "d8c9c264-df00-4b53-bd34-02f12d947cdb",
-   "title": {
-    "en": "The Deep Sea of Words"
-   },
-   "contentRating": "safe",
-   "score": 0.21535276,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "95f3db2e-44a0-4b35-aed6-a37fbf67b601",
-   "title": {
-    "en": "My Father 68y/o, My Mother 64y/o, Me 24y/o"
-   },
-   "contentRating": "safe",
-   "score": 0.21535276,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "848cceb3-98bd-4a4e-8ab4-cd5c789dd074",
-   "title": {
-    "en": "Words Left by My Best Friend to My Dead Body"
-   },
-   "contentRating": "safe",
-   "score": 0.21535276,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "19e320b7-716a-453f-b084-15bb9cd4f368",
-   "title": {
-    "en": "A Silent Country"
-   },
-   "contentRating": "safe",
-   "score": 0.21535276,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "77cd186d-0a3f-4f24-9cdd-505c1fa9d245",
-   "title": {
-    "en": "Your Girlfriend Is About to Do Something Super Amazing"
-   },
-   "contentRating": "safe",
-   "score": 0.21535276,
-   "languages": [
-    "en",
-    "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "8d052607-3f52-41ed-a6b7-c7c5c9bfbf72",
-   "title": {
-    "en": "Ikite Kurete Arigatou"
-   },
-   "contentRating": "safe",
-   "score": 0.21535276,
-   "languages": [
-    "fr",
-    "hi",
-    "ar",
-    "es-la",
-    "en"
    ]
   },
   {
@@ -190,23 +121,6 @@
    ]
   },
   {
-   "id": "37c12beb-378b-44b2-bfe8-4d1d5ca5937b",
-   "title": {
-    "en": "I Have a Happy Dream"
-   },
-   "contentRating": "safe",
-   "score": 0.21535276,
-   "languages": [
-    "tl",
-    "fr",
-    "id",
-    "it",
-    "vi",
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "1a8033f8-dce8-4bf4-82b0-3ab9ff714007",
    "title": {
     "en": "Yokan"
@@ -219,7 +133,95 @@
     "id",
     "es-la"
    ]
+  },
+  {
+   "id": "19e320b7-716a-453f-b084-15bb9cd4f368",
+   "title": {
+    "en": "A Silent Country"
+   },
+   "contentRating": "safe",
+   "score": 0.21535276,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "848cceb3-98bd-4a4e-8ab4-cd5c789dd074",
+   "title": {
+    "en": "Words Left by My Best Friend to My Dead Body"
+   },
+   "contentRating": "safe",
+   "score": 0.21535276,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77cd186d-0a3f-4f24-9cdd-505c1fa9d245",
+   "title": {
+    "en": "Your Girlfriend Is About to Do Something Super Amazing"
+   },
+   "contentRating": "safe",
+   "score": 0.21535276,
+   "languages": [
+    "en",
+    "es-la",
+    "id"
+   ]
+  },
+  {
+   "id": "02be54ac-b1bc-496c-a496-bcea5356bcb5",
+   "title": {
+    "en": "Do You Know the Real Dangers of Those So-Called Legal Drugs that are Being Sold?"
+   },
+   "contentRating": "safe",
+   "score": 0.21535276,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "95f3db2e-44a0-4b35-aed6-a37fbf67b601",
+   "title": {
+    "en": "My Father 68y/o, My Mother 64y/o, Me 24y/o"
+   },
+   "contentRating": "safe",
+   "score": 0.21535276,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "8d052607-3f52-41ed-a6b7-c7c5c9bfbf72",
+   "title": {
+    "en": "Ikite Kurete Arigatou"
+   },
+   "contentRating": "safe",
+   "score": 0.21535276,
+   "languages": [
+    "fr",
+    "hi",
+    "ar",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "240fa383-e585-4d6c-a1ff-2fa49c2de768",
+   "title": {
+    "en": "A manga about making a miserable girl happy."
+   },
+   "contentRating": "safe",
+   "score": 0.21325494,
+   "languages": [
+    "es-la",
+    "id",
+    "en",
+    "it"
+   ]
   }
  ],
- "updatedAt": "2024-11-17T21:33:23+00:00"
+ "updatedAt": "2024-11-19T20:34:27+00:00"
 }

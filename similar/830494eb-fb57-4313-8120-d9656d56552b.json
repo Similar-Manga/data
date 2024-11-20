@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "59c29efa-7bf1-44b6-90f3-1b392de26317",
+   "title": {
+    "en": "Saware Ai"
+   },
+   "contentRating": "safe",
+   "score": 0.3075921
+  },
+  {
    "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
    "title": {
     "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
-   "score": 0.29981366,
+   "score": 0.2998131,
    "languages": [
     "es-la",
     "vi",
@@ -27,7 +35,7 @@
     "en": "Nemuro-kun wa Kao ga Ii!"
    },
    "contentRating": "safe",
-   "score": 0.297073,
+   "score": 0.2970729,
    "languages": [
     "en",
     "es-la",
@@ -40,7 +48,7 @@
     "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
    },
    "contentRating": "safe",
-   "score": 0.29562753,
+   "score": 0.29562756,
    "languages": [
     "id",
     "pt-br",
@@ -53,7 +61,7 @@
     "en": "Mental Gekikyou Hokeni no Chikarawaza Counseling"
    },
    "contentRating": "safe",
-   "score": 0.29118696
+   "score": 0.29118508
   },
   {
    "id": "9a4faccd-d62c-47f1-9eb0-49f472b391f0",
@@ -61,59 +69,21 @@
     "en": "Itagaru Kimi ga Tamaranai"
    },
    "contentRating": "safe",
-   "score": 0.2860531
+   "score": 0.28605378
   },
   {
-   "id": "de97e4ea-3f52-4d7f-a850-c826f6fe747c",
+   "id": "d16f92a6-6f5f-442c-b011-b68abc986209",
    "title": {
-    "en": "Tonari ni Koakuma-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605
-  },
-  {
-   "id": "860abf94-5bd3-48a1-a234-7e6821775663",
-   "title": {
-    "en": "Yamato Nadeshiko wa Kujikenai."
-   },
-   "contentRating": "safe",
-   "score": 0.28520605
-  },
-  {
-   "id": "39a038c6-9699-44fb-9e8a-5cb12fb4a748",
-   "title": {
-    "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
-   "title": {
-    "en": "Tokiwa-san to Inoue-kun no Boushin"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
-   "title": {
-    "en": "Chigau Miyahara Omae janai!"
+    "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
     "vi",
-    "pt-br",
-    "es-la",
-    "en"
+    "en",
+    "ru",
+    "id",
+    "pt-br"
    ]
   },
   {
@@ -134,18 +104,78 @@
    ]
   },
   {
-   "id": "d16f92a6-6f5f-442c-b011-b68abc986209",
+   "id": "de97e4ea-3f52-4d7f-a850-c826f6fe747c",
    "title": {
-    "en": "Houkago no Idol ni wa Himitsu ga aru"
+    "en": "Tonari ni Koakuma-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605
+  },
+  {
+   "id": "ead3f958-0d01-4c1f-b605-620eacb8ead0",
+   "title": {
+    "en": "Boku no Ikezu na Konyakusha"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "id",
+    "pl",
+    "es-la"
+   ]
+  },
+  {
+   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "title": {
+    "en": "Tokiwa-san to Inoue-kun no Boushin"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1bad66ee-4857-433e-a075-704d93672341",
+   "title": {
+    "en": "Boku Dake ga Shitterun Daze"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605
+  },
+  {
+   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
+   "title": {
+    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "th",
+    "ru",
+    "vi",
+    "en",
+    "pt-br",
+    "es-la",
+    "de",
+    "pl"
+   ]
+  },
+  {
+   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
+   "title": {
+    "en": "Chigau Miyahara Omae janai!"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
     "vi",
-    "en",
-    "ru",
-    "id",
-    "pt-br"
+    "pt-br",
+    "es-la",
+    "en"
    ]
   },
   {
@@ -177,32 +207,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "ee845b1a-b1cd-4fb3-ade2-0030890f7c2a",
-   "title": {
-    "en": "Mizuki-senpai's Love Fortune-Telling"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "id",
-    "es-la",
-    "en",
-    "pt-br",
-    "it",
-    "vi",
-    "ru"
-   ]
-  },
-  {
-   "id": "47e29ecf-b00b-483d-b922-5059f993dc90",
-   "title": {
-    "en": "Hana Nusubito wa Shounen no Uchi"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605
   }
  ],
- "updatedAt": "2024-11-17T21:25:20+00:00"
+ "updatedAt": "2024-11-19T20:28:47+00:00"
 }

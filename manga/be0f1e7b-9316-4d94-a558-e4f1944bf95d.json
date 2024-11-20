@@ -15,6 +15,10 @@
   "status": "ongoing",
   "year": 2019,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "3b4dfe38-fa58-4dcf-abaf-574985f0ae37",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -25,6 +29,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -78,9 +94,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-10-22T16:58:09+00:00",
-  "updatedAt": "2024-10-22T16:58:15+00:00"
+  "updatedAt": "2024-11-17T17:02:46+00:00"
  },
  "relationships": [
   {
@@ -95,15 +111,15 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Derppycat Amaya",
-    "namicomi": null,
+    "namicomi": "https://namicomi.com/en/org/derppycat-amaya",
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-22T16:56:27+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-18T15:44:28+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -121,15 +137,15 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Derppycat Amaya",
-    "namicomi": null,
+    "namicomi": "https://namicomi.com/en/org/derppycat-amaya",
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-22T16:56:27+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-18T15:44:28+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

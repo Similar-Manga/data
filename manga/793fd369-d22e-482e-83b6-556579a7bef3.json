@@ -3,22 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Second Life: Animator"
+   "en": "Nidome no Jinsei - Animator"
   },
   "altTitles": [
    {
-    "ja-ro": "Nidome no Jinsei - Animator"
+    "ja": "二度目の人生 アニメーター"
    },
    {
-    "ja": "二度目の人生 アニメーター"
+    "en": "Second Life: Animator"
    }
   ],
   "description": {
-   "en": "58-year-old Ayumu Tada, whose beloved daughter's wedding is coming up soon, is an ordinary office worker who has no interest in anime. While holding the distance between his anime-loving daughter and son-in-law, he suddenly slips back in time to his third year of high school 40 years ago. In the past you should have known, there was a figure of a classmate who later became a famous animator!? Showa anime youth story!"
+   "en": "58-year-old Ayumu Tada, whose beloved daughter's wedding is coming up soon, is an ordinary office worker who has no interest in anime. While holding the distance between his anime-loving daughter and son-in-law, he suddenly slips back in time to his third year of high school 40 years ago. In the past you should have known, there was a figure of a classmate who later became a famous animator!? Showa anime youth story!",
+   "ja": "愛娘の結婚式を間近に控えた多田アユム58歳は、アニメに興味がない平凡なサラリーマン。アニメ好きな娘と娘婿との距離を抱えたまま、突然40年前の高校3年の自分にタイムスリップする。見知ったはずの過去の中には、後に有名なアニメーターとなった同級の姿があった!?"
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/-/en/dp/B07PHNZKRW?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tukn",
-   "bw": "series/177190/list",
+   "amz": "https://www.amazon.co.jp/dp/B07PHNZKRW",
+   "ap": "nidome-no-jinsei-animator",
+   "bw": "series/177190",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/484924",
+   "mal": "118284",
    "mu": "6vdy6ty"
   },
   "originalLanguage": "ja",
@@ -55,9 +59,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2023-06-22T07:23:25+00:00",
-  "updatedAt": "2023-06-22T07:23:55+00:00"
+  "updatedAt": "2024-11-17T21:03:40+00:00"
  },
  "relationships": [
   {
@@ -113,14 +117,14 @@
    }
   },
   {
-   "id": "6c5a76f4-dbf7-4eb7-a7cd-a54282cf9847",
+   "id": "408e8559-36d6-41d8-a932-77e72ca8188c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-06-22T07:23:39+00:00",
+    "createdAt": "2024-11-17T21:03:39+00:00",
     "description": "",
-    "fileName": "1199ee09-c770-447d-bdda-93dfb276d95b.png",
+    "fileName": "426e0c02-3203-4db5-8ab3-ec1aa9ce308c.jpg",
     "locale": "ja",
-    "updatedAt": "2023-06-22T07:23:39+00:00",
+    "updatedAt": "2024-11-17T21:03:39+00:00",
     "version": 1,
     "volume": "8"
    }

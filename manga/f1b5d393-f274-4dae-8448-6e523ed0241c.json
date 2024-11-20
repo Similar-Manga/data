@@ -3,30 +3,35 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Arrogant Pure Love"
+   "en": "Wagamama na Junai"
   },
   "altTitles": [
    {
-    "ja-ro": "Wagamama na Junai"
+    "ja": "ワガママな純愛"
+   },
+   {
+    "en": "Arrogant Pure Love"
    },
    {
     "en": "Selfish Passion"
-   },
-   {
-    "ja": "ワガママな純愛"
    }
   ],
   "description": {
-   "en": "Miyo has just gathered up all her courage and is about to confess her love to her long-time crush Honda-kun. However, things don’t go quite like how Miyo planned. In a strange mishap, Miyo ends up confessing her love, but not to Honda (who has boarded the train and is now behind doors that are sliding shut)! Instead, when she opens her eyes to peek at her love interest to see what his reaction to her declaration is, she is shocked to see another guy standing in front of her. A very… large… guy. A very… intimidating and mean looking guy…"
+   "en": "Miyo has just gathered up all her courage and is about to confess her love to her long-time crush Honda-kun. However, things don't go quite like how Miyo planned. In a strange mishap, Miyo ends up confessing her love, but not to Honda (who has boarded the train and is now behind doors that are sliding shut)! Instead, when she opens her eyes to peek at her love interest to see what his reaction to her declaration is, she is shocked to see another guy standing in front of her. A very... large... guy. A very... intimidating and mean looking guy...",
+   "ja": "勇気を出して告白したつもりが……ひとちがい!? しかもその相手は、気に入らないことがあればすぐにキレて、女にも平気で手をあげるとウワサの乱暴者！ひょんなことからはじまった誤解だらけのお付き合いは、まるで主人とパシリだけど……!? ポーッとした天然少女・みよ、学校一の乱暴者・蔵太郎(くらたろう)。こんな２人が恋人同士になっちゃった!? この恋は、周りを巻きこんで大パニック！"
   },
   "links": {
    "al": "41890",
+   "amz": "https://www.amazon.co.jp/dp/B07LBJXXVB",
    "ap": "wagamama-na-junai",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/116926",
    "kt": "22043",
    "mal": "11890",
    "mu": "16554"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "4",
   "publicationDemographic": "shoujo",
   "status": "completed",
   "year": 2003,
@@ -74,9 +79,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2018-05-07T01:50:05+00:00",
-  "updatedAt": "2023-12-06T02:01:27+00:00"
+  "updatedAt": "2024-11-19T00:45:45+00:00"
  },
  "relationships": [
   {
@@ -132,16 +137,16 @@
    }
   },
   {
-   "id": "7270a426-b396-4fe3-a52a-8f9a7b7c7ab3",
+   "id": "1470bf23-0416-4cfb-94f3-b2899e86e9c2",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:12:06+00:00",
-    "description": "",
-    "fileName": "9c7b1f6b-17c3-40e6-8dd7-fbaac3f6e81e.jpg",
+    "createdAt": "2024-11-19T00:45:44+00:00",
+    "description": "Volume 1 Cover from Amazon",
+    "fileName": "d10095eb-cbe2-4521-bb12-58e79b9a6207.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:12:06+00:00",
+    "updatedAt": "2024-11-19T00:45:44+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

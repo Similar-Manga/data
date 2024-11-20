@@ -1,0 +1,136 @@
+{
+ "id": "d93085ee-2b65-4c82-a011-cca3e06e3fb7",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Bird - Saikyou Janshi VS Tensai Majutsushi"
+  },
+  "altTitles": [
+   {
+    "ja": "バード　最凶雀士ＶＳ天才魔術師"
+   }
+  ],
+  "description": {
+   "ja": "麻雀革命！天才魔術師（マジシャン）の発想が麻雀の常識を変える！！究極のトリック麻雀マンガ！一撃必殺！「全自動卓天和」炸裂ッ…！！蛇vs鳥（バード）宿命の対決、開局ッ！！！百戦錬磨の悪魔の指か！？奇跡を起こす神の指か！！？"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0756XWLS8",
+   "bw": "series/8357",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/128594",
+   "mu": "219xg51"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "16",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2011,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-19T17:00:47+00:00",
+  "updatedAt": "2024-11-19T17:01:31+00:00"
+ },
+ "relationships": [
+  {
+   "id": "77ae9170-98d5-4c04-87ec-15fcf7e0df5a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aoyama Hiromi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "554fad4b-da31-4306-ba51-fcac2ea3acb3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamane Kazutoshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fb4f0fde-beb8-4b14-9500-6791e128ef0f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-19T17:00:53+00:00",
+    "description": "Volume 2 Cover from Amazon",
+    "fileName": "46cf33f8-0c9a-4e72-94a1-c84a9a2ac2b0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-19T17:00:53+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "e150afe5-2675-4642-8ba8-4aedceb21dc1",
+   "type": "manga",
+   "related": "sequel"
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

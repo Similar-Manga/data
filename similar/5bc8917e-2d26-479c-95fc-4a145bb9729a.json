@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "7d48dc46-c77b-4da3-b029-b0ec94153f00",
-   "title": {
-    "en": "Black Coffee"
-   },
-   "contentRating": "safe",
-   "score": 0.28869224,
-   "languages": [
-    "bg",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "43480b8a-4f4b-474d-9dc2-82f289434d2d",
    "title": {
     "en": "Kyou mo Ashita mo."
@@ -28,18 +15,6 @@
    "languages": [
     "en",
     "pt-br"
-   ]
-  },
-  {
-   "id": "34959025-bc94-4600-9810-de9ccb2c211c",
-   "title": {
-    "en": "I Will Be Cinderella"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "fr"
    ]
   },
   {
@@ -59,15 +34,15 @@
    ]
   },
   {
-   "id": "9ce3fb74-cff0-477e-89d7-20c94d439142",
+   "id": "4dc16407-9fc9-49f7-8a44-aada787df91c",
    "title": {
-    "en": "Binetsu Shoujo"
+    "en": "The Guy Who Will Give a Kiss for ₩ 5000"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "pt-br",
-    "en"
+    "en",
+    "fr"
    ]
   },
   {
@@ -85,6 +60,18 @@
    ]
   },
   {
+   "id": "9ce3fb74-cff0-477e-89d7-20c94d439142",
+   "title": {
+    "en": "Binetsu Shoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "39477e91-7cb3-4755-840e-aa871b58ccbe",
    "title": {
     "en": "Furareta Sono hi ni Kyoudai ni Narimashita"
@@ -97,24 +84,12 @@
    ]
   },
   {
-   "id": "4dc16407-9fc9-49f7-8a44-aada787df91c",
-   "title": {
-    "en": "The Guy Who Will Give a Kiss for ₩ 5000"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "4c53c85c-0303-4cf0-887b-15092774c6a1",
    "title": {
     "en": "Shugo Chara! Jewel Joker"
    },
    "contentRating": "safe",
-   "score": 0.23808934,
+   "score": 0.23809905,
    "languages": [
     "ru",
     "pt-br",
@@ -128,7 +103,7 @@
     "en": "Honey Lemon Soda"
    },
    "contentRating": "safe",
-   "score": 0.23485297,
+   "score": 0.23485802,
    "languages": [
     "pt-br",
     "en",
@@ -136,41 +111,16 @@
    ]
   },
   {
-   "id": "a2d16852-2aa2-42aa-903c-e5ce5b990d65",
+   "id": "37e8bcef-918f-4220-ac81-53f3a5919304",
    "title": {
-    "en": "Inazuma to Romance"
+    "en": "Noraneko to Ookami"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "pt-br",
     "en",
-    "vi",
-    "hu",
-    "it",
-    "es-la"
-   ]
-  },
-  {
-   "id": "43686548-c742-46bf-9f91-0c088e2254c8",
-   "title": {
-    "en": "Hanasaki Sentimental"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "189447eb-6ee5-4f1a-872e-f447995c8d64",
-   "title": {
-    "en": "Pretty"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "fr"
+    "tl",
+    "pt-br"
    ]
   },
   {
@@ -202,18 +152,67 @@
    ]
   },
   {
-   "id": "37e8bcef-918f-4220-ac81-53f3a5919304",
+   "id": "189447eb-6ee5-4f1a-872e-f447995c8d64",
    "title": {
-    "en": "Noraneko to Ookami"
+    "en": "Pretty"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
+   "id": "a2d16852-2aa2-42aa-903c-e5ce5b990d65",
+   "title": {
+    "en": "Inazuma to Romance"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "hu",
+    "it",
+    "es-la"
+   ]
+  },
+  {
+   "id": "43686548-c742-46bf-9f91-0c088e2254c8",
+   "title": {
+    "en": "Hanasaki Sentimental"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "fr"
+   ]
+  },
+  {
+   "id": "951e6728-5468-4f14-95bd-f90ec6470cce",
+   "title": {
+    "en": "Daifuku-chan to Ouji-sama"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
     "en",
-    "tl",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b56660f6-5c05-4142-bc33-eca7b8a37ea0",
+   "title": {
+    "en": "Koi*Oto"
+   },
+   "contentRating": "safe",
+   "score": 0.23108873,
+   "languages": [
+    "en",
     "pt-br"
    ]
   }
  ],
- "updatedAt": "2024-11-17T21:05:26+00:00"
+ "updatedAt": "2024-11-19T20:15:19+00:00"
 }

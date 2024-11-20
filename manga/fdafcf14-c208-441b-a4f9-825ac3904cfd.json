@@ -7,31 +7,33 @@
   },
   "altTitles": [
    {
-    "fr": "Centaures"
+    "ja": "人馬"
    },
    {
     "ja-ro": "Jinba"
    },
    {
-    "ja": "じんば"
-   },
-   {
-    "ja": "人馬"
+    "fr": "Centaures"
    }
   ],
   "description": {
-   "en": "A centaur race, known as Jimba, have lived in Japan since ancient times. However, humans regard them as tools of war and snatch away their dignity.   \n  \nDuring the Sengoku period, a samurai Jimba named Matsukaze, known as the redheaded rock tiger, is caught while protecting his son. He is traded to a feudal lord, and taken to a feudal lord. There he meets another centaur, named Kohibari, whose village was burnt down as a child. He is a tame centaur, and had his arms amputated when he was captured. With his help, Matsukaze escapes with Kohibari."
+   "en": "A centaur race, known as Jimba, have lived in Japan since ancient times. However, humans regard them as tools of war and snatch away their dignity.   \n  \nDuring the Sengoku period, a samurai Jimba named Matsukaze, known as the redheaded rock tiger, is caught while protecting his son. He is traded to a feudal lord, and taken to a feudal lord. There he meets another centaur, named Kohibari, whose village was burnt down as a child. He is a tame centaur, and had his arms amputated when he was captured. With his help, Matsukaze escapes with Kohibari.\n___\n**Alt Official English:** [ABLAZE](https://www.ablaze.net/products?c=83)"
   },
   "links": {
    "al": "100460",
+   "amz": "https://www.amazon.co.jp/dp/B075PD9LDS",
    "ap": "jimba",
-   "engtl": "https://www.ablaze.net/products?c=83",
+   "bw": "series/104648",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/396550/",
+   "engtl": "https://www.azuki.co/series/centaurs",
    "kt": "47579",
    "mal": "104326",
-   "mu": "139206"
+   "mu": "139206",
+   "raw": "https://matogrosso.jp/serial/jimba_01-31/"
   },
   "originalLanguage": "ja",
   "lastVolume": "6",
+  "lastChapter": "11",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2016,
@@ -54,6 +56,30 @@
     }
    },
    {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -67,74 +93,78 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 7,
   "createdAt": "2019-10-29T14:23:23+00:00",
-  "updatedAt": "2024-01-21T16:46:28+00:00"
+  "updatedAt": "2024-11-18T03:03:25+00:00"
  },
  "relationships": [
   {
    "id": "42a2c67c-121a-4a99-85a3-76d89d72a88c",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 墨佳遼\n\n**Additional Sites:**\n- [Misskey](https://misskey.design/@smys)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://a21e57v8.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Sumiyoshi Ryo",
+    "name": "Sumiyoshi Ryou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/26720820",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/ryo_sumiyo6492",
+    "updatedAt": "2024-11-18T02:29:33+00:00",
+    "version": 2,
+    "website": "https://kaikigadou.kilo.jp/",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@%E5%A2%A8%E4%BD%B3%E9%81%BC"
    }
   },
   {
    "id": "42a2c67c-121a-4a99-85a3-76d89d72a88c",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 墨佳遼\n\n**Additional Sites:**\n- [Misskey](https://misskey.design/@smys)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://a21e57v8.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Sumiyoshi Ryo",
+    "name": "Sumiyoshi Ryou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/26720820",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/ryo_sumiyo6492",
+    "updatedAt": "2024-11-18T02:29:33+00:00",
+    "version": 2,
+    "website": "https://kaikigadou.kilo.jp/",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@%E5%A2%A8%E4%BD%B3%E9%81%BC"
    }
   },
   {
-   "id": "6904cab6-18be-4af7-a869-74a9968c0b74",
+   "id": "b8486b29-d0cd-4c53-98f5-53a801914da9",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-08-09T09:03:07+00:00",
+    "createdAt": "2024-11-18T02:50:43+00:00",
     "description": "",
-    "fileName": "ff34ec73-4f2f-4a34-a3aa-ddb73ae8f9b5.jpg",
+    "fileName": "c8792d82-c63a-4851-9fcc-d92179612fd3.jpg",
     "locale": "ja",
-    "updatedAt": "2023-08-09T09:03:07+00:00",
+    "updatedAt": "2024-11-18T02:50:43+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "6"
    }
   }
  ]

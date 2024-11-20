@@ -1,0 +1,167 @@
+{
+ "id": "be150dbb-a402-467b-aaa8-1bee107bbfe5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mamono wo Karu na to Iwareta Saikyou Hunter, Ryouri Guild ni Tenshoku suru ~Kou Taiguu na Ue ni Oishii mono made Taberete Shiawase desu~"
+  },
+  "altTitles": [
+   {
+    "ja": "魔物を狩るなと言われた最強ハンター、料理ギルドに転職する～好待遇な上においしいものまで食べれて幸せです～"
+   }
+  ],
+  "description": {
+   "ja": "「魔物がかわいそう」という声に嫌気がさして、魔物を討伐するハンターを辞めたゼレット。そんな彼は、スカイサーモンを討伐したことで、魔物を食材とする「魔物食」を知り、その類まれなるハンターの実力を活かし、食材調達屋として料理ギルドへ転職する！"
+  },
+  "links": {
+   "al": "181052",
+   "amz": "https://www.amazon.co.jp/dp/B0BBVW1S81",
+   "ap": "mamono-wo-karuna-to-iwareta-saikyou-hunter-ryouri-guild-ni-tenshoku-suru-kou-taiguu-na-ue-ni-oishii-mono-made-taberete-shiawase-desu",
+   "bw": "series/337715",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/677272",
+   "mu": "246t1fy"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-18T23:52:01+00:00",
+  "updatedAt": "2024-11-18T23:52:30+00:00"
+ },
+ "relationships": [
+  {
+   "id": "904c4991-ad2c-4f7c-884c-91a361bc15e4",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-26T16:08:05+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nobeno Masayuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-08-28T02:41:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "35da0257-d338-4aa8-bada-a2d97b0f4247",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-18T23:38:04+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Okumura Asagi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-18T23:38:04+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1bdbbd46-c71c-44f0-bbe6-9af083f70656",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-18T23:52:06+00:00",
+    "description": "Volume 5 Cover from BookLive",
+    "fileName": "bf7f76f3-30a1-41eb-b7c9-e8be09c7f123.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-18T23:52:06+00:00",
+    "version": 1,
+    "volume": "5"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

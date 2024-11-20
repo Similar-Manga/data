@@ -3,18 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Boku wa Haru wo Hisagu - Onna-fuu Therapist no Nichijou"
+   "en": "Boku wa Haru wo Hisagu ~Onna-fuu Therapist no Nichijou~"
   },
   "altTitles": [
-   {
-    "ja-ro": "Boku wa Haru wo Hisagu - Onna-fuu Therapist no Nichijou"
-   },
    {
     "ja": "僕は春をひさぐ～女風セラピストの日常～"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "「恋人のような一時を買いませんか？」\n\n女性用風俗……略して「女風」。ここ数年で増加の一途をたどる女性用風俗業界で働くセラピスト・悠。彼のところには性欲だけではなく、さまざまな目的で女性がやってくる。高齢処女であることを気にしているアラサー女子、シチュエーションプレイにハマる管理職の女性、出産後セックスレスになった共働きの妻。２時間２万５千円ものお金を払って、彼女たちは何を求めているのか？"
+  },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CDBT7K3F",
+   "bw": "series/425261",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/773599",
    "mu": "0u1cpwy"
   },
   "originalLanguage": "ja",
@@ -37,9 +39,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2023-05-10T22:23:42+00:00",
-  "updatedAt": "2023-05-10T22:28:37+00:00"
+  "updatedAt": "2024-11-18T14:38:58+00:00"
  },
  "relationships": [
   {
@@ -95,16 +97,16 @@
    }
   },
   {
-   "id": "0900edea-9d03-4fda-b13d-a9c1221ed914",
+   "id": "17be3f44-6494-4f1c-9c0c-18c6f4c79d03",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-04-20T11:58:47+00:00",
-    "description": "",
-    "fileName": "db8354d9-880a-4d58-b31f-042239abe16f.jpg",
+    "createdAt": "2024-11-18T14:38:58+00:00",
+    "description": "Volume 3 Cover from BookLive",
+    "fileName": "c2f38789-e2e4-4c36-91c2-5197d0c5060d.jpg",
     "locale": "ja",
-    "updatedAt": "2024-04-20T11:58:47+00:00",
+    "updatedAt": "2024-11-18T14:38:58+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "3"
    }
   },
   {

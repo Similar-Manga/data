@@ -30,6 +30,7 @@
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "completed",
+  "year": 2020,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "fr",
@@ -78,6 +79,18 @@
     }
    },
    {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -103,16 +116,18 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2020-05-22T21:06:36+00:00",
-  "updatedAt": "2024-04-07T12:29:33+00:00"
+  "updatedAt": "2024-11-18T05:26:03+00:00"
  },
  "relationships": [
   {
    "id": "ed461a79-c89c-4a5d-a053-7537aff41f69",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 猗笠怜司"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -127,8 +142,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/reijiagasa",
-    "updatedAt": "2024-02-05T00:06:59+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-18T05:17:29+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -138,7 +153,9 @@
    "id": "ed461a79-c89c-4a5d-a053-7537aff41f69",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 猗笠怜司"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -153,8 +170,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/reijiagasa",
-    "updatedAt": "2024-02-05T00:06:59+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-18T05:17:29+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -6,25 +6,25 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "050ed1ea-bf98-4612-804a-1e045b90b0f0",
-   "title": {
-    "en": "The Time Leaper Yuki"
-   },
-   "contentRating": "suggestive",
-   "score": 0.26013017,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "73a46c78-f4f7-452e-b4ed-e3a5c8da1032",
    "title": {
     "en": "POLE STAR"
    },
    "contentRating": "suggestive",
-   "score": 0.25699207,
+   "score": 0.25461575,
    "languages": [
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "050ed1ea-bf98-4612-804a-1e045b90b0f0",
+   "title": {
+    "en": "The Time Leaper Yuki"
+   },
+   "contentRating": "suggestive",
+   "score": 0.25150082,
+   "languages": [
     "en"
    ]
   },
@@ -34,7 +34,7 @@
     "en": "Kannou Sensei"
    },
    "contentRating": "suggestive",
-   "score": 0.24946566,
+   "score": 0.24791984,
    "languages": [
     "es-la",
     "pt-br",
@@ -53,12 +53,25 @@
    ]
   },
   {
+   "id": "6a8e6a8f-b7bc-486e-8291-befd39c0eb60",
+   "title": {
+    "en": "“Bijin de Okane Mochi no Kanojo ga Hoshī” to Ittara, Wake Ari Joshi ga Yattekita Ken."
+   },
+   "contentRating": "suggestive",
+   "score": 0.21992286,
+   "languages": [
+    "es-la",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "a799cead-c82b-458c-8f1c-6bc19577bda6",
    "title": {
     "en": "Osananajimi no Koukousei no Aida ni Nikutai Kankei wa Seiritsu suru ka."
    },
    "contentRating": "suggestive",
-   "score": 0.23160237,
+   "score": 0.21797751,
    "languages": [
     "es-la",
     "pt-br",
@@ -67,40 +80,16 @@
    ]
   },
   {
-   "id": "6a8e6a8f-b7bc-486e-8291-befd39c0eb60",
-   "title": {
-    "en": "“Bijin de Okane Mochi no Kanojo ga Hoshī” to Ittara, Wake Ari Joshi ga Yattekita Ken."
-   },
-   "contentRating": "suggestive",
-   "score": 0.22179651,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "d75025c5-f6a9-436e-ad09-8aeb4fdaa13d",
    "title": {
     "en": "Kine-san no 1-ri de Cinema"
    },
    "contentRating": "suggestive",
-   "score": 0.2096091,
+   "score": 0.20886683,
    "languages": [
     "en",
     "ru",
     "fr"
-   ]
-  },
-  {
-   "id": "94f5cf68-7f42-4ad2-842f-15d5e787c9bb",
-   "title": {
-    "en": "Seishun Bakusou!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.20936175,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -109,7 +98,7 @@
     "en": "Koibito Ijou no Koto wo, Kanojo Janai Kimi to"
    },
    "contentRating": "suggestive",
-   "score": 0.20238551,
+   "score": 0.20034167,
    "languages": [
     "es-la",
     "en",
@@ -118,24 +107,12 @@
    ]
   },
   {
-   "id": "fe17c1f0-798d-48b2-bb8f-70f475cda79d",
+   "id": "94f5cf68-7f42-4ad2-842f-15d5e787c9bb",
    "title": {
-    "en": "Sora wo Matotte"
+    "en": "Seishun Bakusou!"
    },
    "contentRating": "suggestive",
-   "score": 0.19789413,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "e32c93e7-6f25-496a-9005-362928534ad3",
-   "title": {
-    "en": "Love Angel and the Corporate Slave"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19735916,
+   "score": 0.19907989,
    "languages": [
     "en"
    ]
@@ -146,10 +123,33 @@
     "en": "Zutto Seishun Poi desu yo"
    },
    "contentRating": "suggestive",
-   "score": 0.19564816,
+   "score": 0.19098856,
    "languages": [
     "en",
     "id"
+   ]
+  },
+  {
+   "id": "e32c93e7-6f25-496a-9005-362928534ad3",
+   "title": {
+    "en": "Love Angel and the Corporate Slave"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18897557,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fe17c1f0-798d-48b2-bb8f-70f475cda79d",
+   "title": {
+    "en": "Sora wo Matotte"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18892819,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -158,7 +158,7 @@
     "en": "Kotowarenai Kaichou wa Tomoe-kun ni Dake shite Agetai"
    },
    "contentRating": "suggestive",
-   "score": 0.18968885,
+   "score": 0.18881865,
    "languages": [
     "en"
    ]
@@ -169,24 +169,27 @@
     "en": "Anaesthesiologist Hana"
    },
    "contentRating": "suggestive",
-   "score": 0.18884282,
+   "score": 0.18805295,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "b29da26e-39f2-4e64-b96f-62818b209d73",
+   "id": "356de811-ae92-48f1-b93b-cfdf0f8d02e4",
    "title": {
-    "en": "Maigo no Onnanoko o Ie Made Todoketara, Genkan kara Detekita no wa Gakunen Ichi no Bishoujo deshita"
+    "en": "Now That We Draw"
    },
    "contentRating": "suggestive",
-   "score": 0.18780473,
+   "score": 0.18051678,
    "languages": [
+    "es-la",
+    "id",
+    "en",
     "pt-br",
     "vi",
-    "en",
-    "id"
+    "fr",
+    "th"
    ]
   },
   {
@@ -195,7 +198,7 @@
     "en": "Fuufu Ijou, Koibito Miman."
    },
    "contentRating": "suggestive",
-   "score": 0.18725732,
+   "score": 0.1803766,
    "languages": [
     "es-la",
     "vi",
@@ -208,5 +211,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-17T22:10:49+00:00"
+ "updatedAt": "2024-11-19T21:03:48+00:00"
 }

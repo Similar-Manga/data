@@ -3,33 +3,25 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Aoba Bicycle Shop on Namikibashi Street"
+   "en": "Namikibashi Doori - Aoba Jitenshaten"
   },
   "altTitles": [
    {
-    "ja-ro": "Namikibashi Doori - Aoba Jitenshaten"
-   },
-   {
-    "ja-ro": "Namiki Bashidoori: Aoba Jitenshaten"
-   },
-   {
-    "ja-ro": "Namikibashi Doori Aoba Jitenshaten"
-   },
-   {
-    "ja-ro": "Namikibashi Doori: Aoba Jitenshaten"
-   },
-   {
     "ja": "並木橋通りアオバ自転車店"
+   },
+   {
+    "en": "Aoba Bicycle Shop on Namikibashi Street"
    }
   ],
   "description": {
-   "en": "A simple slice-of-life manga about a young girl and her father who runs a small bicycle shop.\n\n\n---\nOfficial Release:\n- Indonesian release by Elex Media as **Aoba Bicycle Shop** (2012)"
+   "en": "A simple slice-of-life manga about a young girl and her father who runs a small bicycle shop.\n___\nOfficial Release:\n- Indonesian release by Elex Media as **Aoba Bicycle Shop** (2012)",
+   "ja": "心癒される街の「アオバ自転車店」に行けば、カラカラと回る自転車のタイヤとスポークが、まさに風車のように優しい風を送ってくれる事でしょう。"
   },
   "links": {
    "al": "57715",
    "amz": "https://www.amazon.co.jp/dp/B074CF6RKV",
    "ap": "namikibashi-doori-aoba-jitenshaten",
-   "bw": "series/156400/list",
+   "bw": "series/156400",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/154822/",
    "kt": "21327",
    "mal": "27715",
@@ -37,6 +29,7 @@
   },
   "originalLanguage": "ja",
   "lastVolume": "20",
+  "lastChapter": "164",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 1999,
@@ -60,9 +53,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2018-01-29T04:03:46+00:00",
-  "updatedAt": "2023-06-22T07:24:51+00:00"
+  "updatedAt": "2024-11-17T21:17:16+00:00"
  },
  "relationships": [
   {
@@ -118,16 +111,16 @@
    }
   },
   {
-   "id": "302c7081-372e-40fa-91cc-75699ecd96e0",
+   "id": "35c47b53-aac7-4618-97c9-116cb7b0d36f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-03-09T02:40:35+00:00",
-    "description": "",
-    "fileName": "7168f32c-2be1-47d5-82fd-d7daba02a548.jpg",
+    "createdAt": "2024-11-17T21:17:12+00:00",
+    "description": "Volume 20 Cover from BookLive",
+    "fileName": "2a2ecc02-de69-460c-81b5-6f628cd30b76.jpg",
     "locale": "ja",
-    "updatedAt": "2023-03-09T02:40:35+00:00",
+    "updatedAt": "2024-11-17T21:17:12+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "20"
    }
   }
  ]

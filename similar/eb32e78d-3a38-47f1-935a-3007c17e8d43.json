@@ -6,6 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c0defdaa-e9eb-4c7d-ae27-db989fcf0105",
+   "title": {
+    "en": "Shiba Inu Rooms"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cd5a3817-092b-40ee-81d3-abc394044c80",
+   "title": {
+    "en": "Shin Kankaku Iyashikei Mahou Shoujo Behoimi-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "13f5054b-045d-48fe-bc5b-fe146c4c9733",
    "title": {
     "en": "Yuurei Ryokou Dairiten - Soul Mate Tourist"
@@ -28,34 +50,12 @@
    ]
   },
   {
-   "id": "cd5a3817-092b-40ee-81d3-abc394044c80",
-   "title": {
-    "en": "Shin Kankaku Iyashikei Mahou Shoujo Behoimi-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c0defdaa-e9eb-4c7d-ae27-db989fcf0105",
-   "title": {
-    "en": "Shiba Inu Rooms"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "84a2945e-0018-4301-9a54-f305971477a9",
    "title": {
     "en": "Birthday"
    },
    "contentRating": "safe",
-   "score": 0.27733597,
+   "score": 0.27732125,
    "languages": [
     "fr",
     "en"
@@ -67,7 +67,7 @@
     "en": "Youkai Apartment no Yuuga na Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.2542538,
+   "score": 0.25425097,
    "languages": [
     "en",
     "pl",
@@ -80,7 +80,7 @@
     "en": "Ultimate Special High School"
    },
    "contentRating": "safe",
-   "score": 0.24472584,
+   "score": 0.24472648,
    "languages": [
     "en"
    ]
@@ -91,7 +91,7 @@
     "en": "Tsukumono"
    },
    "contentRating": "safe",
-   "score": 0.24427493,
+   "score": 0.24427436,
    "languages": [
     "en",
     "pl",
@@ -104,56 +104,21 @@
     "en": "Omae no Gohoushi wa Sono Teido ka?"
    },
    "contentRating": "safe",
-   "score": 0.23954324,
+   "score": 0.23955251,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "b415f32c-1ad6-4e44-a258-5780dacb2453",
+   "id": "6eb3d1b8-5ba1-420e-bb06-1f84990b139d",
    "title": {
-    "en": "Smile Death Match"
+    "en": "Shinitaku naru Shoumonai Hibi ga Shinitaku naru kurai Shoumonakute Shinu hodo Shinitakunai Hibi"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "7511b858-06e5-414d-b343-467ea468efdf",
-   "title": {
-    "en": "Black Warriors"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
-   "title": {
-    "en": "Death of a Highschool"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "tr",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "d91f8813-bd02-4bb7-8c95-3228a56b5875",
-   "title": {
-    "en": "Noritama"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
+    "zh",
+    "ru",
     "en"
    ]
   },
@@ -183,16 +148,54 @@
    ]
   },
   {
-   "id": "20418bf4-4724-449a-aa74-aee73ccc44d2",
+   "id": "7511b858-06e5-414d-b343-467ea468efdf",
    "title": {
-    "en": "Tozasareta Nergal"
+    "en": "Black Warriors"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b415f32c-1ad6-4e44-a258-5780dacb2453",
+   "title": {
+    "en": "Smile Death Match"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "6f78deb1-1452-4f6b-8dad-bad53073710b",
+   "title": {
+    "en": "Death of a Highschool"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "tr",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "02e472cb-e833-4031-b158-a5e645e6a56b",
+   "title": {
+    "en": "Peach Pluck"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-17T22:11:24+00:00"
+ "updatedAt": "2024-11-19T21:04:25+00:00"
 }

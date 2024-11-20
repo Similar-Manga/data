@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d51c3736-a50f-4335-b330-5ae77d5244b0",
-   "title": {
-    "en": "Yugo Final"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971
-  },
-  {
    "id": "b557ec15-0e84-4ea5-ad93-12d492f5093a",
    "title": {
     "en": "Yugo (2004)"
@@ -25,12 +17,20 @@
    ]
   },
   {
+   "id": "d51c3736-a50f-4335-b330-5ae77d5244b0",
+   "title": {
+    "en": "Yugo Final"
+   },
+   "contentRating": "safe",
+   "score": 0.21597971
+  },
+  {
    "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
    "title": {
     "en": "JUMBO MAX"
    },
    "contentRating": "safe",
-   "score": 0.2044631,
+   "score": 0.20445465,
    "languages": [
     "en",
     "zh-hk"
@@ -42,7 +42,7 @@
     "en": "Goodbye Mr. Bunny"
    },
    "contentRating": "safe",
-   "score": 0.19930436,
+   "score": 0.1993062,
    "languages": [
     "pl",
     "pt-br",
@@ -66,7 +66,7 @@
     "en": "The Skull Man"
    },
    "contentRating": "safe",
-   "score": 0.19068702
+   "score": 0.19068974
   },
   {
    "id": "505f63ff-7582-40f4-bec8-2ec7fb8869da",
@@ -74,7 +74,7 @@
     "en": "Rescue Wings"
    },
    "contentRating": "safe",
-   "score": 0.18920852
+   "score": 0.18919498
   },
   {
    "id": "e804f310-709f-4f22-8daa-3a3895b4cce0",
@@ -83,6 +83,17 @@
    },
    "contentRating": "safe",
    "score": 0.1870439
+  },
+  {
+   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
+   "title": {
+    "en": "REVOLT"
+   },
+   "contentRating": "safe",
+   "score": 0.1870439,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "9fe30e22-1d84-44f3-af2f-00cd67410911",
@@ -112,17 +123,6 @@
    "score": 0.1870439
   },
   {
-   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
-   "title": {
-    "en": "REVOLT"
-   },
-   "contentRating": "safe",
-   "score": 0.1870439,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "40c4d38c-cae3-45e3-b984-a7a4569dd4ed",
    "title": {
     "en": "Teppen Gurarin - Nippon Mukashi Banashi Hanzai Sousa"
@@ -134,21 +134,22 @@
    ]
   },
   {
-   "id": "15192c18-06a5-4f13-a694-5acf6536a54d",
+   "id": "8a67b54d-3719-4af4-8873-9d2eba794ece",
    "title": {
-    "ja": "EVOL"
+    "en": "Tokyo Ghoul (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.17711769,
+   "score": 0.17720932,
    "languages": [
-    "es",
-    "en"
+    "pt-br",
+    "en",
+    "it"
    ]
   },
   {
-   "id": "a210edbb-5d72-4778-a3ff-acd3f10192f7",
+   "id": "b1ab1881-ffa6-40bd-8645-d1b38e03ff33",
    "title": {
-    "en": "Ore dake Tsukaeru Kodai Mahou ~Kisosura Tsukaenai to Tsuihousareta Ore no Mahou wa, Jitsu wa 1 Mannen Mae ni Ushinawareta Densetsu Mahou deshita~"
+    "en": "Spy Classroom Part 3: Bouga"
    },
    "contentRating": "safe",
    "score": 0.17634669
@@ -166,5 +167,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-17T21:45:52+00:00"
+ "updatedAt": "2024-11-19T20:43:01+00:00"
 }

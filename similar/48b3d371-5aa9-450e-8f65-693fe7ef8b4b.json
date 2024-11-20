@@ -11,7 +11,7 @@
     "en": "Dramatic Love Album"
    },
    "contentRating": "safe",
-   "score": 0.3022545,
+   "score": 0.30225495,
    "languages": [
     "pl",
     "es-la",
@@ -25,9 +25,21 @@
     "en": "Bikou Root"
    },
    "contentRating": "safe",
-   "score": 0.2996885,
+   "score": 0.29968333,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3dbdcc95-4c4b-42e8-9037-a13930c884b8",
+   "title": {
+    "en": "Hatsukoi Rhapsody"
+   },
+   "contentRating": "safe",
+   "score": 0.29561925,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -36,7 +48,7 @@
     "en": "By Hero"
    },
    "contentRating": "safe",
-   "score": 0.29299074,
+   "score": 0.29298925,
    "languages": [
     "vi",
     "ro",
@@ -47,91 +59,9 @@
    ]
   },
   {
-   "id": "9dee4d4b-b21e-4fc7-832b-954cbd06103f",
-   "title": {
-    "en": "Ikiteru Kimi ni Hanataba wo"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "e7e159d9-dffb-4aa6-8cba-cd9507ba5f45",
-   "title": {
-    "en": "99% Love"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "bg",
-    "pl",
-    "ro"
-   ]
-  },
-  {
-   "id": "3dbdcc95-4c4b-42e8-9037-a13930c884b8",
-   "title": {
-    "en": "Hatsukoi Rhapsody"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "bab615ed-469a-4ab5-b3b0-f948387e4290",
-   "title": {
-    "en": "Datte, Douse, Demo, Kitto"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "770d20eb-a4df-4d5c-91af-9918593aa050",
    "title": {
     "en": "Gokuaku Drop"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e9910ced-1503-401c-b1b0-23145dcc3c92",
-   "title": {
-    "en": "Nice to Meet You! The Pure-Hearted Fellow"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2f5a0f7f-d120-482a-9322-9463a73cedcd",
-   "title": {
-    "en": "Spring Has Come"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8af6bd72-70f9-4ce6-9dcc-5efa5e26fe5f",
-   "title": {
-    "en": "Kimi wa Tomodachi"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -152,27 +82,35 @@
    ]
   },
   {
-   "id": "7d48dc46-c77b-4da3-b029-b0ec94153f00",
+   "id": "bab615ed-469a-4ab5-b3b0-f948387e4290",
    "title": {
-    "en": "Black Coffee"
+    "en": "Datte, Douse, Demo, Kitto"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "bg",
-    "pt-br",
     "en"
    ]
   },
   {
-   "id": "e6ba9077-8623-4c8f-a880-3718357c1dc3",
+   "id": "8af6bd72-70f9-4ce6-9dcc-5efa5e26fe5f",
    "title": {
-    "en": "Koi ni Utsutsu wo Nukasu Bekarazu!!"
+    "en": "Kimi wa Tomodachi"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "2f5a0f7f-d120-482a-9322-9463a73cedcd",
+   "title": {
+    "en": "Spring Has Come"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
     "en"
    ]
   },
@@ -189,6 +127,52 @@
    ]
   },
   {
+   "id": "9dee4d4b-b21e-4fc7-832b-954cbd06103f",
+   "title": {
+    "en": "Ikiteru Kimi ni Hanataba wo"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "e6ba9077-8623-4c8f-a880-3718357c1dc3",
+   "title": {
+    "en": "Koi ni Utsutsu wo Nukasu Bekarazu!!"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "e9910ced-1503-401c-b1b0-23145dcc3c92",
+   "title": {
+    "en": "Nice to Meet You! The Pure-Hearted Fellow"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f0b83c62-e85f-4e9f-a769-a1dfd0a5a552",
+   "title": {
+    "en": "Tenpuri"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f3c07bff-ca07-4ee5-9d3c-a2232b42ff5c",
    "title": {
     "en": "After Friend"
@@ -199,7 +183,21 @@
     "pl",
     "en"
    ]
+  },
+  {
+   "id": "e7e159d9-dffb-4aa6-8cba-cd9507ba5f45",
+   "title": {
+    "en": "99% Love"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "bg",
+    "pl",
+    "ro"
+   ]
   }
  ],
- "updatedAt": "2024-11-17T20:56:01+00:00"
+ "updatedAt": "2024-11-19T20:08:42+00:00"
 }

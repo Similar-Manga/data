@@ -1,0 +1,142 @@
+{
+ "id": "572dc2a3-77b2-4acd-9e86-66eda58c0862",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Semi Houshi - An Unusual Journey of Matchmaking by Three Unconventional Monks"
+  },
+  "altTitles": [
+   {
+    "ja": "蝉法師　訳アリ坊主三人衆、嫁探しの珍道中"
+   },
+   {
+    "ja-ro": "Semi Houshi - Wakeari Bouzu Sanninshuu, Yome-sagashi no Chindouchuu"
+   },
+   {
+    "en": "Cicada Bonzes: An Unusual Journey Of Bride-Hunting By Three Unconventional Monks"
+   }
+  ],
+  "description": {
+   "en": "A unique interpretation of the life of a cicada."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/4781623204",
+   "bw": "de44a5a14b-f5bd-4b7f-950b-2147c33f76b0",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/833405/",
+   "mu": "x7iax5u",
+   "raw": "https://www.eastpress.co.jp/goods/detail/9784781623207"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "7",
+  "publicationDemographic": "josei",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-18T04:19:47+00:00",
+  "updatedAt": "2024-11-18T04:22:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "42a2c67c-121a-4a99-85a3-76d89d72a88c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 墨佳遼\n\n**Additional Sites:**\n- [Misskey](https://misskey.design/@smys)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://a21e57v8.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sumiyoshi Ryou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/26720820",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ryo_sumiyo6492",
+    "updatedAt": "2024-11-18T02:29:33+00:00",
+    "version": 2,
+    "website": "https://kaikigadou.kilo.jp/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/@%E5%A2%A8%E4%BD%B3%E9%81%BC"
+   }
+  },
+  {
+   "id": "42a2c67c-121a-4a99-85a3-76d89d72a88c",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 墨佳遼\n\n**Additional Sites:**\n- [Misskey](https://misskey.design/@smys)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://a21e57v8.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sumiyoshi Ryou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/26720820",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ryo_sumiyo6492",
+    "updatedAt": "2024-11-18T02:29:33+00:00",
+    "version": 2,
+    "website": "https://kaikigadou.kilo.jp/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/@%E5%A2%A8%E4%BD%B3%E9%81%BC"
+   }
+  },
+  {
+   "id": "3860071a-3ffc-42d7-a667-057306d1cce9",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-18T04:20:11+00:00",
+    "description": "",
+    "fileName": "c1950d8c-3561-4f6f-af88-b21830e26145.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-18T04:20:11+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

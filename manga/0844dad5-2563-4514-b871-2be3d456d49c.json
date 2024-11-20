@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Fukushuu Doumei - Sare Tsuma to Aijin wa Kuzu Danna wo Seisai Suru"
+   "en": "Fukushuu Doumei - Sare Tsuma to Aijin wa Kuzu Danna o Seisai Suru"
   },
   "altTitles": [
    {
@@ -11,13 +11,17 @@
    },
    {
     "ja-ro": "Fukushuu Doumei - Sare Tsuma to Aijin wa Kuzu Danna wo Seisai Suru"
+   },
+   {
+    "en": "Revenge Alliance - The Wives and Mistresses Who Have Been Cheated On Will Punish the Scumbag Husbands"
    }
   ],
   "description": {
    "en": "Mamiko Uemura is a career woman working for a major manufacturer. She is married to Kazuki, a classmate from her company, and seems to be leading a smooth sailing and happy life....however, after two years of marriage, while she was alone and struggling with infertility, she discovered that Kazuki was cheating on her. At first, she thought she could get away with it peacefully, but the facts she learned at the.....scene of the affair left Asamiko absolutely mortified, and she decided to take revenge on her husband."
   },
   "links": {
-   "mu": "c02ydrm"
+   "mu": "c02ydrm",
+   "raw": "https://peep.jp/stories/3BaI4Mzr7Iy5zewp"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "josei",
@@ -60,40 +64,26 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 6,
   "createdAt": "2024-10-10T13:47:31+00:00",
-  "updatedAt": "2024-10-10T14:09:45+00:00"
+  "updatedAt": "2024-11-18T07:30:40+00:00"
  },
  "relationships": [
-  {
-   "id": "4f245418-9a24-408b-a17e-b0fa97865406",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2024-10-05T13:11:33+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "peep",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-05T13:11:33+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
   {
    "id": "58ea1f89-58ed-487f-b152-86ba17c480c6",
    "type": "author",
@@ -173,17 +163,17 @@
    }
   },
   {
-   "id": "6d1f376a-1100-4740-ae8f-beed203677ee",
+   "id": "b8a6353f-0f8c-47d5-96d4-0a8e801f332f",
    "type": "artist",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2024-10-05T13:12:08+00:00",
+    "createdAt": "2023-07-09T22:08:02+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "taskeySTUDIO",
+    "name": "taskey STUDIO",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -191,9 +181,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-10-05T13:12:08+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-18T07:32:46+00:00",
+    "version": 2,
+    "website": "https://taskey.co.jp/taskey_studio",
     "weibo": null,
     "youtube": null
    }

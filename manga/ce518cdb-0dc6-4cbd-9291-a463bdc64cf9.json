@@ -3,23 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Sheep in the Online"
+   "en": "Online no Hitsuji-tachi"
   },
   "altTitles": [
    {
     "ja": "オンラインの羊たち"
    },
    {
-    "ja-ro": "Online no Hitsuji-tachi"
+    "en": "Sheep in the Online"
    }
   ],
   "description": {
-   "en": "In 1999, a rural area. Three middle school boys and girls got a new tool.\nIt is the \"Internet\" that allows you to connect with faceless people regardless of time or distance.\nA new nostalgic story depicting the dawn of the Internet in Heisei."
+   "en": "In 1999, a rural area. Three middle school boys and girls got a new tool. It is the \"Internet\" that allows you to connect with faceless people regardless of time or distance.",
+   "ja": "1999年、とある片田舎。3人の中学生男女は、新たなツールを手に入れた。それは時間も距離も関係なく、顔の見えない相手とも繋がることができる「インターネット」ーー。"
   },
   "links": {
+   "al": "105235",
+   "amz": "https://www.amazon.co.jp/dp/B087RNH6CB",
    "ap": "online-no-hitsuji-tachi",
-   "bw": "dea7f594f5-2285-451a-b4b1-d752be47dcd9",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/580171/",
+   "bw": "series/239948",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/580171",
    "mal": "118643",
    "mu": "npbjfge",
    "raw": "https://manga-zero.com/product/1352"
@@ -58,9 +61,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2023-03-14T12:45:04+00:00",
-  "updatedAt": "2023-03-15T08:44:00+00:00"
+  "updatedAt": "2024-11-17T17:42:25+00:00"
  },
  "relationships": [
   {
@@ -116,16 +119,16 @@
    }
   },
   {
-   "id": "3aabe2df-1187-4dac-a4be-7bbd44e1968f",
+   "id": "660f675c-5c42-49b5-9a4d-58b2da58ac13",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-03-14T12:45:06+00:00",
+    "createdAt": "2024-11-17T17:42:24+00:00",
     "description": "",
-    "fileName": "7b252d3b-b460-4216-9553-823337809ccc.jpg",
+    "fileName": "719edf95-1a11-4922-8527-4e6851fcbc24.jpg",
     "locale": "ja",
-    "updatedAt": "2023-03-14T12:45:06+00:00",
+    "updatedAt": "2024-11-17T17:42:24+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "4"
    }
   },
   {

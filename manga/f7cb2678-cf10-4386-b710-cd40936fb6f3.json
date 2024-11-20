@@ -3,18 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Majo no Watashi wo Shinjite"
+   "en": "Majo no Watashi o Shinjite"
   },
   "altTitles": [
    {
     "ja": "魔女の私を信じて"
    },
    {
-    "en": "Believe in Me, the Witch."
+    "ja-ro": "Majo no Watashi wo Shinjite"
+   },
+   {
+    "ja": "I am a witch, but believe me, I am not."
+   },
+   {
+    "en": "Believe in Me, the Witch"
    }
   ],
   "description": {
-   "en": "Humans and witches are in conflict.\n\nAt first glance, witches look like humans, but they have a completely different biological structure, with physical abilities that allow them to fly outside the atmosphere in an instant, and the power to freely create matter out of nothing and destroy everything. People fear witches because of this, and witches also hate people because they were once deprived of their own people. Vanessa, known as the \"Worst Witch\", taught her daughter Ayla that humans were hateful and left this world. However, wanting to befriend humans, Ayla decides to break the cycle of hatred that has continued from her ancestors.",
+   "en": "Humans and witches are in conflict.\n\nAt first glance, witches look like humans, but they have a completely different biological structure, with physical abilities that allow them to fly outside the atmosphere in an instant, and the power to freely create matter out of nothing and destroy everything. People fear witches because of this, and witches also hate people because they were once deprived of their own people. Vanessa, known as the \"Worst Witch\", taught her daughter Ayla that humans were hateful and left this world. However, wanting to befriend humans, Ayla decides to break the cycle of hatred that has continued from her ancestors.\n___\n**Additional Buy Links:**\nPhysical Volume 1: [Amazon](https://www.amazon.co.jp/dp/4575440647)",
    "ja": "一人の魔女、ヴァネッサが死んだ。ちなみに一人と言っても魔女は人間ではない。魔女は一瞬で大気圏外まで飛行し、無から物質を自由に創造し、あらゆるものを破壊する生物、もしくはそれに類する何かである。ヴァネッサにはアイラという娘がいた。アイラは世界で唯一の魔女になった。人類はアイラを恐れた。数千万人を戯れで殺した母同様、アイラも人類を脅かす存在に違いないと思ったのだ。だが、アイラは人類と仲良くなりたかった。彼女は自らを「贖罪の魔女」と呼んだ。"
   },
   "links": {
@@ -85,16 +91,18 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2024-06-14T10:40:53+00:00",
-  "updatedAt": "2024-09-21T20:18:59+00:00"
+  "updatedAt": "2024-11-18T05:58:41+00:00"
  },
  "relationships": [
   {
    "id": "3ff7674f-75a1-4285-a2aa-7298f2632fda",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** おしんこ"
+    },
     "booth": null,
     "createdAt": "2024-06-14T10:36:36+00:00",
     "fanBox": null,
@@ -108,9 +116,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-06-14T10:36:36+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/oshinkorakugaki",
+    "updatedAt": "2024-11-18T06:09:36+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -121,7 +129,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\nヒビキ"
+     "en": "**Name In Native Language:** ヒビキ"
     },
     "booth": null,
     "createdAt": "2024-06-14T10:38:49+00:00",
@@ -136,25 +144,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-06-21T23:12:02+00:00",
-    "version": 2,
-    "website": "https://x.com/ameameB13",
+    "twitter": "https://twitter.com/ameameB13",
+    "updatedAt": "2024-11-18T06:05:24+00:00",
+    "version": 3,
+    "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "d23ee58d-485e-48dd-85d0-7286aadfc9e9",
+   "id": "42202cfb-2f09-43a1-96e1-d3907def6721",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-10T23:07:47+00:00",
-    "description": "",
-    "fileName": "2dbc9911-e84b-4c21-9b2a-ba2f527f5ef9.jpg",
+    "createdAt": "2024-11-18T05:58:40+00:00",
+    "description": "Physical Volume 1 cover",
+    "fileName": "9011a0f8-112d-4f5c-b287-c0b532b71bb5.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-10T23:07:47+00:00",
+    "updatedAt": "2024-11-18T05:58:40+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "1.1"
    }
   },
   {

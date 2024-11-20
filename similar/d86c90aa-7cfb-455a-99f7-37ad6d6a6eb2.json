@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "f6a129fd-bd48-43f3-9e48-2e6c9ca8ab4c",
-   "title": {
-    "en": "Digimon Story: Cyber Sleuth - Hacker's Memory"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "pt-br",
-    "zh-hk"
-   ]
-  },
-  {
    "id": "64ad9366-67e4-4bd0-a4cc-c1e9cdb057cd",
    "title": {
     "en": "Digimon Story: Cyber Sleuth"
@@ -27,6 +15,18 @@
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "f6a129fd-bd48-43f3-9e48-2e6c9ca8ab4c",
+   "title": {
+    "en": "Digimon Story: Cyber Sleuth - Hacker's Memory"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "pt-br",
+    "zh-hk"
    ]
   },
   {
@@ -48,7 +48,7 @@
     "en": "Leftover Prince"
    },
    "contentRating": "safe",
-   "score": 0.21926984,
+   "score": 0.2192648,
    "languages": [
     "pt-br",
     "en"
@@ -60,7 +60,7 @@
     "en": "レンタルキラー"
    },
    "contentRating": "safe",
-   "score": 0.20409878,
+   "score": 0.20410044,
    "languages": [
     "pt-br"
    ]
@@ -71,13 +71,28 @@
     "en": "I Spy"
    },
    "contentRating": "safe",
-   "score": 0.20049734,
+   "score": 0.20049615,
    "languages": [
     "pt-br",
     "ru",
     "id",
     "en",
     "th"
+   ]
+  },
+  {
+   "id": "9865c978-3393-42a6-9b0c-947814ac8a24",
+   "title": {
+    "en": "Count Over"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "pt-br",
+    "id",
+    "zh-hk",
+    "en",
+    "tr"
    ]
   },
   {
@@ -120,57 +135,16 @@
    ]
   },
   {
-   "id": "9865c978-3393-42a6-9b0c-947814ac8a24",
-   "title": {
-    "en": "Count Over"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "pt-br",
-    "id",
-    "zh-hk",
-    "en",
-    "tr"
-   ]
-  },
-  {
    "id": "7ecbd849-e295-4e9d-8e0a-a36ecd0117cf",
    "title": {
     "en": "Satsuki's Sky"
    },
    "contentRating": "safe",
-   "score": 0.1807111,
+   "score": 0.18071175,
    "languages": [
     "pt-br",
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
-   "title": {
-    "en": "Little War"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "ce398cd4-33cf-4717-9e2c-ef98c7a5c578",
-   "title": {
-    "en": "Hero Organization"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "pt-br",
-    "en",
-    "id"
    ]
   },
   {
@@ -201,12 +175,38 @@
    ]
   },
   {
+   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
+   "title": {
+    "en": "Little War"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "ce398cd4-33cf-4717-9e2c-ef98c7a5c578",
+   "title": {
+    "en": "Hero Organization"
+   },
+   "contentRating": "safe",
+   "score": 0.18070157,
+   "languages": [
+    "pt-br",
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "48221bce-0fd2-4519-b5f3-4fdc1921007b",
    "title": {
     "en": "Kouchuugun Shikan Boukensha ni Naru"
    },
    "contentRating": "safe",
-   "score": 0.17478432,
+   "score": 0.1747887,
    "languages": [
     "en",
     "fr",
@@ -216,5 +216,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-17T22:04:56+00:00"
+ "updatedAt": "2024-11-19T20:58:05+00:00"
 }

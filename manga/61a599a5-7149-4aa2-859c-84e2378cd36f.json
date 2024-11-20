@@ -3,29 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Devil Hunter Youko"
+   "en": "Mamono Hunter Youko"
   },
   "altTitles": [
    {
-    "en": "Devil Hunter Yohko"
-   },
-   {
-    "ja-ro": "Mamono Hunter Yohko"
-   },
-   {
-    "ja-ro": "Mamono Hunter Youko"
-   },
-   {
     "ja": "魔物ハンター妖子"
+   },
+   {
+    "en": "Devil Hunter Youko"
    }
   ],
   "description": {
-   "en": "Yohko finds a dog that is tied to a girl from the past. She is given her powers from an Ibinx. Yohko's parents passed away in a car accident. The dog becomes her constant companion. But why was she given these powers? And what do Haruka and Shouma have to do with things? A heart touching, yet tragic story."
+   "en": "Youko finds a dog that is tied to a girl from the past. She is given her powers from an Ibinx. Youko's parents passed away in a car accident. The dog becomes her constant companion. But why was she given these powers? And what do Haruka and Shouma have to do with things?",
+   "ja": "幽霊みたいなバケモノに襲われているノラ犬を間一髪で助けた孤独な女子高生・妖子。動物病院へ行くとノラ犬は助からないと言われ、学校を休んでつきっきりの看病をしたのだが…。"
   },
   "links": {
    "al": "48385",
-   "amz": "https://www.amazon.co.jp/%E9%AD%94%E7%89%A9%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E5%A6%96%E5%AD%90-%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%AE%AE%E5%B0%BE%E5%B2%B3-ebook/dp/B016B6CJH8/ref=sr_1_1?s=digital-text\u0026ie=UTF8\u0026qid=1542279719\u0026sr=1-1\u0026keywords=%E9%AD%94%E7%89%A9%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E5%A6%96%E5%AD%90",
+   "amz": "https://www.amazon.co.jp/dp/B016B6CJH8",
    "ap": "mamono-hunter-youko",
+   "bw": "series/56830",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/330004",
    "kt": "6201",
    "mal": "18385",
    "mu": "15486"
@@ -33,6 +30,7 @@
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "6",
+  "publicationDemographic": "seinen",
   "status": "completed",
   "year": 1996,
   "contentRating": "safe",
@@ -91,9 +89,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-08-15T02:51:16+00:00",
-  "updatedAt": "2022-12-07T02:35:55+00:00"
+  "updatedAt": "2024-11-17T21:22:01+00:00"
  },
  "relationships": [
   {
@@ -149,16 +147,16 @@
    }
   },
   {
-   "id": "6f612932-9d0c-4f0e-8dd6-5d10e301ed2a",
+   "id": "697a7749-e367-441d-8559-a8980f6044fc",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:22:52+00:00",
-    "description": "",
-    "fileName": "2bb4e5d2-3ff7-490b-a351-18b3e978cc41.jpg",
+    "createdAt": "2024-11-17T21:22:00+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "55e370cf-61eb-41ac-b68c-655aaa906a13.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:22:52+00:00",
+    "updatedAt": "2024-11-17T21:22:00+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

@@ -69,6 +69,18 @@
     }
    },
    {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
     "type": "tag",
     "attributes": {
@@ -105,6 +117,18 @@
     }
    },
    {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "d14322ac-4d6f-4e9b-afd9-629d5f4d8a41",
     "type": "tag",
     "attributes": {
@@ -118,9 +142,9 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 14,
   "createdAt": "2024-08-04T15:21:46+00:00",
-  "updatedAt": "2024-11-03T15:06:59+00:00"
+  "updatedAt": "2024-11-18T03:47:03+00:00"
  },
  "relationships": [
   {

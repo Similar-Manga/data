@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "40c12af5-2a68-4006-9c3f-f2be53e7773e",
-   "title": {
-    "en": "Kaihen no Mahoutsukai"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "58e2a0a4-1296-4cdd-9552-84bd0349bd0e",
    "title": {
     "en": "Saint Seiya - Another Story of Hades: Dark Wing"
@@ -26,12 +18,20 @@
    ]
   },
   {
+   "id": "40c12af5-2a68-4006-9c3f-f2be53e7773e",
+   "title": {
+    "en": "Kaihen no Mahoutsukai"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "0d83a749-5c02-4e01-91b2-c0c214280495",
    "title": {
     "en": "Monsters"
    },
    "contentRating": "safe",
-   "score": 0.28197876,
+   "score": 0.28197062,
    "languages": [
     "pt-br",
     "en"
@@ -43,7 +43,7 @@
     "en": "Saint Seiya - Episode G Requiem"
    },
    "contentRating": "safe",
-   "score": 0.27815005,
+   "score": 0.27815333,
    "languages": [
     "en",
     "pt-br"
@@ -55,7 +55,7 @@
     "en": "Death God 4"
    },
    "contentRating": "safe",
-   "score": 0.27373475
+   "score": 0.27373087
   },
   {
    "id": "f9a7035e-917b-4fcd-9d01-ad6b14423f85",
@@ -63,7 +63,7 @@
     "en": "The Hero Girl and the Green Magician"
    },
    "contentRating": "safe",
-   "score": 0.26437622,
+   "score": 0.26437452,
    "languages": [
     "en"
    ]
@@ -74,7 +74,7 @@
     "en": "Beet the Vandel Buster"
    },
    "contentRating": "safe",
-   "score": 0.26058516,
+   "score": 0.26058474,
    "languages": [
     "en"
    ]
@@ -85,23 +85,9 @@
     "en": "Sol Trigger"
    },
    "contentRating": "safe",
-   "score": 0.2583567,
+   "score": 0.25836018,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "4b41b78f-d59d-4a56-ab0e-c58fc864ef22",
-   "title": {
-    "en": "Junk the Black Shadow"
-   },
-   "contentRating": "safe",
-   "score": 0.25762698,
-   "languages": [
-    "en",
-    "id",
-    "pt-br",
-    "it"
    ]
   },
   {
@@ -110,7 +96,7 @@
     "en": "Chiteikai Kidan"
    },
    "contentRating": "safe",
-   "score": 0.25692344
+   "score": 0.25692022
   },
   {
    "id": "c32ee876-c544-4a8c-9268-0aa4472db290",
@@ -118,29 +104,10 @@
     "en": "GOD EATER - the spiral fate"
    },
    "contentRating": "safe",
-   "score": 0.25674948,
+   "score": 0.25675198,
    "languages": [
     "en",
     "tr"
-   ]
-  },
-  {
-   "id": "29f170ec-2f01-445f-9436-81b586cc3daf",
-   "title": {
-    "en": "Mask!!"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065
-  },
-  {
-   "id": "ac06e902-a7ef-460f-9c34-17feed352683",
-   "title": {
-    "en": "Wild Wight West"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "ru"
    ]
   },
   {
@@ -155,12 +122,29 @@
    ]
   },
   {
-   "id": "e16a1444-e7d3-4242-8971-3f1d18c82349",
+   "id": "ac06e902-a7ef-460f-9c34-17feed352683",
    "title": {
-    "en": "Shihyakushiki"
+    "en": "Wild Wight West"
    },
    "contentRating": "safe",
-   "score": 0.25555065
+   "score": 0.25555065,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
+   "id": "0ce0590f-a7da-47b0-8fce-9aeb9052309b",
+   "title": {
+    "en": "Noragami - Clash, O Ye Gods of Calamity"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "ar",
+    "pt-br",
+    "it",
+    "en"
+   ]
   },
   {
    "id": "1b03c975-1ad9-44ec-a407-9386ebf26edf",
@@ -172,7 +156,23 @@
    "languages": [
     "bg"
    ]
+  },
+  {
+   "id": "29f170ec-2f01-445f-9436-81b586cc3daf",
+   "title": {
+    "en": "Mask!!"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
+  },
+  {
+   "id": "e16a1444-e7d3-4242-8971-3f1d18c82349",
+   "title": {
+    "en": "Shihyakushiki"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
   }
  ],
- "updatedAt": "2024-11-17T20:34:12+00:00"
+ "updatedAt": "2024-11-19T19:53:43+00:00"
 }

@@ -1,0 +1,165 @@
+{
+ "id": "e30a22f9-352c-4e23-a6e9-95807620baaf",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Why You Shouldn't Enter a Haunted House"
+  },
+  "altTitles": [
+   {
+    "ko": "흉가에 들어가면 안되는 이유"
+   }
+  ],
+  "description": {
+   "en": "What does a bright world look like?\nLee Hyun's world is filled with dark lumps left behind by grotesque ghosts and souls.\nAs Hyun struggles to ignore these horrors in an attempt to live an ordinary life, a strange guy who seeks out haunted houses suddenly appears before him.\nIn such perilous places, can they make it out unscathed?"
+  },
+  "links": {
+   "mu": "2evfmyv"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "3a9f1635-6f28-483a-9bc7-55de43c346ef",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-17T18:37:42+00:00",
+  "updatedAt": "2024-11-17T22:23:32+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ecbd9e9a-0939-433a-af99-b58619ca36e0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-17T18:27:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Byeokdol",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-17T18:27:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ecbd9e9a-0939-433a-af99-b58619ca36e0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-17T18:27:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Byeokdol",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-17T18:27:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2c49fa44-5be0-4008-8078-62c87cb32bd4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-17T18:37:44+00:00",
+    "description": "",
+    "fileName": "97de3107-87cf-46b9-a493-47c1ee40589c.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-17T18:37:44+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9cdba5af-b71d-49b6-b627-0faa5aeb84cf",
+   "type": "creator"
+  }
+ ]
+}

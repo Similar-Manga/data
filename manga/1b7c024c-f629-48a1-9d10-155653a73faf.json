@@ -3,14 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Update Kareshi"
+   "en": "The Upgraded Boyfriend"
   },
   "altTitles": [
    {
-    "en": "The Upgraded Boyfriend"
+    "ja": "アップデート彼氏"
    },
    {
-    "ja": "アップデート彼氏"
+    "ja-ro": "Update Kareshi"
+   },
+   {
+    "en": "Update Boyfriend"
    }
   ],
   "description": {
@@ -45,19 +48,57 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-09-16T15:49:54+00:00",
-  "updatedAt": "2024-09-17T03:59:05+00:00"
+  "updatedAt": "2024-11-18T05:24:14+00:00"
  },
  "relationships": [
   {
    "id": "ed461a79-c89c-4a5d-a053-7537aff41f69",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 猗笠怜司"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -72,8 +113,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/reijiagasa",
-    "updatedAt": "2024-02-05T00:06:59+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-18T05:17:29+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -83,7 +124,9 @@
    "id": "ed461a79-c89c-4a5d-a053-7537aff41f69",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 猗笠怜司"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -98,8 +141,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/reijiagasa",
-    "updatedAt": "2024-02-05T00:06:59+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-18T05:17:29+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -110,12 +153,12 @@
    "type": "cover_art",
    "attributes": {
     "createdAt": "2024-09-16T15:49:55+00:00",
-    "description": "",
+    "description": "MANGA Plus thumbnail",
     "fileName": "60553248-cfa1-4722-b680-7ebb2a05550c.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-16T15:49:55+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-11-18T05:16:42+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

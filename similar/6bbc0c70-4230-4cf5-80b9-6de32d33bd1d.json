@@ -6,6 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8929d268-3520-4106-ac91-b2c8700a4a2a",
+   "title": {
+    "en": "Fukushuu wa Gohouteki ni"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "ad1cafb3-a7b3-421c-9e70-44a8b04b88ba",
    "title": {
     "en": "Medium: Reibai Tantei Jouzuka Hisui"
@@ -22,20 +30,12 @@
    "score": 0.2857143
   },
   {
-   "id": "8929d268-3520-4106-ac91-b2c8700a4a2a",
-   "title": {
-    "en": "Fukushuu wa Gohouteki ni"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "c0bceade-287c-4f81-b157-825cf836c6fb",
    "title": {
     "en": "Housekishou Richard-shi no Nazo Kantei"
    },
    "contentRating": "safe",
-   "score": 0.2574238,
+   "score": 0.25743094,
    "languages": [
     "en"
    ]
@@ -46,7 +46,7 @@
     "en": "Shichiya Karasu no Wakeari Choubo"
    },
    "contentRating": "safe",
-   "score": 0.2573142
+   "score": 0.25731927
   },
   {
    "id": "3f9ee176-b8a6-432a-9089-099d5a911c5f",
@@ -54,42 +54,7 @@
     "en": "Biblia Koshodou no Jiken Techou - Tobirako to Utsuro na Yume"
    },
    "contentRating": "safe",
-   "score": 0.24918576
-  },
-  {
-   "id": "dad4e005-2271-4af3-9db4-2ba3fba3dcbf",
-   "title": {
-    "en": "PROJECT:;COLD case.614 Strawberry and Secrets"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
-   "id": "4f013af9-6b35-4b01-a8f7-48473d3b7cde",
-   "title": {
-    "en": "Houritsu wa Uso to Okane no Mikata desu. - Kyoto Gosho Minami, Azuma Houritsu Jimusho no Houtei Nisshi"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
-   "id": "f9439bf1-427d-4ee2-a217-a4474c98eff5",
-   "title": {
-    "en": "Tantei wa Sauna de Nazo wo Totonoeru"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
-   "id": "2280ebf9-b00e-4e01-8b46-f9319ebde3f4",
-   "title": {
-    "en": "Princess Principal"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "ru"
-   ]
+   "score": 0.24918877
   },
   {
    "id": "74609d2a-d379-4744-b559-86d123456721",
@@ -100,9 +65,17 @@
    "score": 0.24743582
   },
   {
-   "id": "1e6fa5bb-644b-4236-93dc-ce56cbc9933e",
+   "id": "a4f336f1-856b-4ae2-aab4-5e84b998a3e3",
    "title": {
-    "en": "Kaigai Funin-chuu no Otto ga Juukon shite Ita Hanashi"
+    "en": "Blackout (Beonam)"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
+  },
+  {
+   "id": "dad4e005-2271-4af3-9db4-2ba3fba3dcbf",
+   "title": {
+    "en": "PROJECT:;COLD case.614 Strawberry and Secrets"
    },
    "contentRating": "safe",
    "score": 0.24743582
@@ -116,9 +89,9 @@
    "score": 0.24743582
   },
   {
-   "id": "a4f336f1-856b-4ae2-aab4-5e84b998a3e3",
+   "id": "f9439bf1-427d-4ee2-a217-a4474c98eff5",
    "title": {
-    "en": "Blackout (Beonam)"
+    "en": "Tantei wa Sauna de Nazo wo Totonoeru"
    },
    "contentRating": "safe",
    "score": 0.24743582
@@ -135,12 +108,39 @@
    ]
   },
   {
+   "id": "1e6fa5bb-644b-4236-93dc-ce56cbc9933e",
+   "title": {
+    "en": "Kaigai Funin-chuu no Otto ga Juukon shite Ita Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
+  },
+  {
+   "id": "4f013af9-6b35-4b01-a8f7-48473d3b7cde",
+   "title": {
+    "en": "Houritsu wa Uso to Okane no Mikata desu. - Kyoto Gosho Minami, Azuma Houritsu Jimusho no Houtei Nisshi"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
+  },
+  {
+   "id": "2280ebf9-b00e-4e01-8b46-f9319ebde3f4",
+   "title": {
+    "en": "Princess Principal"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "ru"
+   ]
+  },
+  {
    "id": "e6e2fc57-8103-478d-9196-3cb2c4fe939e",
    "title": {
     "en": "Chiisana Kimi to, Koe wo Tooku ni"
    },
    "contentRating": "safe",
-   "score": 0.2433289,
+   "score": 0.24333581,
    "languages": [
     "en",
     "th",
@@ -148,5 +148,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-17T21:13:24+00:00"
+ "updatedAt": "2024-11-19T20:20:43+00:00"
 }

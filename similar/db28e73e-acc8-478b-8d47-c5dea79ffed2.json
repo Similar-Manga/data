@@ -11,7 +11,7 @@
     "en": "Are You A Cat?"
    },
    "contentRating": "safe",
-   "score": 0.2512977,
+   "score": 0.2512983,
    "languages": [
     "en"
    ]
@@ -22,10 +22,44 @@
     "en": "Fuku wo Kiru nara Konna Fuu ni"
    },
    "contentRating": "safe",
-   "score": 0.24693543,
+   "score": 0.24693747,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "94c7c216-8925-4625-9f04-447cb434ac42",
+   "title": {
+    "en": "Ikioku - The Cooler Half"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0515c867-3cb8-43a9-bdb1-eeec4037e974",
+   "title": {
+    "en": "Chi's Sweet Adventures"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "c4c156fd-2478-462f-bd33-756521cdc5e5",
+   "title": {
+    "en": "Flat \u0026 Flow"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -45,77 +79,9 @@
    ]
   },
   {
-   "id": "0515c867-3cb8-43a9-bdb1-eeec4037e974",
-   "title": {
-    "en": "Chi's Sweet Adventures"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "4ffebdc2-51d3-445c-af11-ab49e01c3f48",
-   "title": {
-    "en": "Kachou Baka Ichidachi"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "fea614e7-a24d-4352-a755-905fa2c63dbe",
    "title": {
     "en": "Comic Master J"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ce2fe5b4-8b18-426b-9dbf-c2f216c8a82e",
-   "title": {
-    "en": "Club 9"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c4c156fd-2478-462f-bd33-756521cdc5e5",
-   "title": {
-    "en": "Flat \u0026 Flow"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6c1cbf4e-1793-4d67-876e-486a6d0af195",
-   "title": {
-    "en": "Sore Hodo Hima De Wa Arimasen."
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "b1a6ffb2-7dab-40ab-bc0f-908cecdc42b4",
-   "title": {
-    "en": "Nico Nicholson no Manga Doujouyaburi"
    },
    "contentRating": "safe",
    "score": 0.23809525,
@@ -136,25 +102,15 @@
    ]
   },
   {
-   "id": "94c7c216-8925-4625-9f04-447cb434ac42",
+   "id": "6c1cbf4e-1793-4d67-876e-486a6d0af195",
    "title": {
-    "en": "Ikioku - The Cooler Half"
+    "en": "Sore Hodo Hima De Wa Arimasen."
    },
    "contentRating": "safe",
    "score": 0.23809525,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e2435e7e-3be4-4de8-9292-59753b597c31",
-   "title": {
-    "en": "Hokuriku Triangle"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
@@ -170,12 +126,56 @@
    ]
   },
   {
+   "id": "e2435e7e-3be4-4de8-9292-59753b597c31",
+   "title": {
+    "en": "Hokuriku Triangle"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ce2fe5b4-8b18-426b-9dbf-c2f216c8a82e",
+   "title": {
+    "en": "Club 9"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4ffebdc2-51d3-445c-af11-ab49e01c3f48",
+   "title": {
+    "en": "Kachou Baka Ichidachi"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b1a6ffb2-7dab-40ab-bc0f-908cecdc42b4",
+   "title": {
+    "en": "Nico Nicholson no Manga Doujouyaburi"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
    "title": {
     "en": "Witch Hat Atelier"
    },
    "contentRating": "safe",
-   "score": 0.22695804,
+   "score": 0.22691469,
    "languages": [
     "my",
     "es-la",
@@ -193,12 +193,12 @@
     "en": "The Witch's Closet"
    },
    "contentRating": "safe",
-   "score": 0.22181858,
+   "score": 0.22177835,
    "languages": [
     "en",
     "ar"
    ]
   }
  ],
- "updatedAt": "2024-11-17T22:05:53+00:00"
+ "updatedAt": "2024-11-19T20:58:59+00:00"
 }

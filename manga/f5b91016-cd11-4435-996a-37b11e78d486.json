@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Of All Things, I Became a Crow"
+   "en": "The Crow's Prince"
   },
   "altTitles": [
    {
@@ -58,7 +58,7 @@
     "fa": "از این همه چیز، من تبدیل به یک کلاغ شدم"
    },
    {
-    "ur": "کَوِّی کا شَہزادَہ"
+    "ur": "از کوی کا شہزادہ"
    },
    {
     "id": "Aku Berubah Menjadi Gagak"
@@ -108,9 +108,10 @@
   "availableTranslatedLanguages": [
    "es-la",
    "pt-br",
-   "en"
+   "en",
+   "ur"
   ],
-  "latestUploadedChapter": "d575c9f4-2ffd-4c3e-9240-1bb5c624c5d1",
+  "latestUploadedChapter": "fbbc6cb0-7d3f-4d7a-af6d-8fb6980f8fe5",
   "tags": [
    {
     "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
@@ -222,9 +223,9 @@
    }
   ],
   "state": "published",
-  "version": 20,
+  "version": 23,
   "createdAt": "2022-02-19T09:40:18+00:00",
-  "updatedAt": "2024-11-16T18:05:19+00:00"
+  "updatedAt": "2024-11-18T12:37:17+00:00"
  },
  "relationships": [
   {
@@ -280,16 +281,16 @@
    }
   },
   {
-   "id": "01773227-b816-437d-8c32-00c896e1ee54",
+   "id": "a8ad8a42-bd73-424e-9d02-eb8ae28a6446",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-01-06T00:50:28+00:00",
+    "createdAt": "2024-11-18T12:31:41+00:00",
     "description": "",
-    "fileName": "ab3bb96d-837f-49c6-84bc-ef9e52deaa5a.jpg",
+    "fileName": "093c7605-9c38-47e3-9535-e7f27eb42991.jpg",
     "locale": "ko",
-    "updatedAt": "2023-01-06T00:50:28+00:00",
+    "updatedAt": "2024-11-18T12:31:41+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "4"
    }
   },
   {

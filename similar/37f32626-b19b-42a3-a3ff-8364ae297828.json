@@ -6,25 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "639ce9e8-4bf4-48d2-bdd6-ec6395ee77e0",
-   "title": {
-    "en": "Toudoku ni Ita"
-   },
-   "contentRating": "safe",
-   "score": 0.16582613,
-   "languages": [
-    "en",
-    "es",
-    "de"
-   ]
-  },
-  {
    "id": "c1fa97be-0f1f-4686-84bc-806881c97d53",
    "title": {
     "en": "Otome Youkai Zakuro"
    },
    "contentRating": "safe",
-   "score": 0.15788768,
+   "score": 0.15788594,
    "languages": [
     "es-la",
     "en",
@@ -57,7 +44,7 @@
     "en": "Ani no Yome to Kurashite Imasu."
    },
    "contentRating": "safe",
-   "score": 0.091878,
+   "score": 0.09187716,
    "languages": [
     "ru",
     "id",
@@ -66,21 +53,6 @@
     "es",
     "pt-br",
     "de"
-   ]
-  },
-  {
-   "id": "5763292a-3bb7-43e8-a0fc-53f2140253a2",
-   "title": {
-    "en": "Bungo"
-   },
-   "contentRating": "safe",
-   "score": 0.090721846,
-   "languages": [
-    "en",
-    "pt-br",
-    "es",
-    "fr",
-    "ru"
    ]
   },
   {
@@ -124,15 +96,31 @@
    ]
   },
   {
-   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
+   "id": "5763292a-3bb7-43e8-a0fc-53f2140253a2",
    "title": {
-    "en": "Revenge Doll"
+    "en": "Bungo"
    },
    "contentRating": "safe",
-   "score": 0.07856742,
+   "score": 0.090721846,
    "languages": [
     "en",
-    "es"
+    "pt-br",
+    "es",
+    "fr",
+    "ru"
+   ]
+  },
+  {
+   "id": "639ce9e8-4bf4-48d2-bdd6-ec6395ee77e0",
+   "title": {
+    "en": "Toudoku ni Ita"
+   },
+   "contentRating": "safe",
+   "score": 0.08552445,
+   "languages": [
+    "en",
+    "es",
+    "de"
    ]
   },
   {
@@ -150,12 +138,24 @@
    ]
   },
   {
+   "id": "c94dd806-b6db-4549-b989-dd589d89bee7",
+   "title": {
+    "en": "Revenge Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.07856742,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "229eb307-021e-4062-8d39-94422da2671e",
    "title": {
     "en": "Tail Star"
    },
    "contentRating": "safe",
-   "score": 0.078313306,
+   "score": 0.07831387,
    "languages": [
     "pl",
     "en",
@@ -205,7 +205,7 @@
     "en": "Asahinagu"
    },
    "contentRating": "safe",
-   "score": 0.06993992,
+   "score": 0.069941424,
    "languages": [
     "ru",
     "en",
@@ -223,7 +223,8 @@
     "es-la",
     "es",
     "pt-br",
-    "en"
+    "en",
+    "it"
    ]
   },
   {
@@ -244,5 +245,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-17T20:47:47+00:00"
+ "updatedAt": "2024-11-19T20:02:54+00:00"
 }

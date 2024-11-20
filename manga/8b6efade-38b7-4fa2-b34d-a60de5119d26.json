@@ -17,7 +17,7 @@
    }
   ],
   "description": {
-   "en": "Featuring eerie urban legends that stir nostalgia, including \"Saru Yume\" (Monkey Dream), \"Kyotou O\" (The Big Head O), \"Kinkou\" (Forbidden Empress), \"Jashi\" (Evil Eye), and \"Rinfon\" (Reawakening). This anthology includes five well-known urban legends that became popular on the internet, faithfully adapted into comics by skilled authors. A true horror anthology for urban legends!"
+   "en": "Featuring eerie urban legends that became popular on the internet, faithfully adapted into comics by skilled authors. A true horror anthology for urban legends!"
   },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0CXWSS91N",
@@ -27,15 +27,27 @@
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
-  "status": "completed",
+  "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "ru",
    "en"
   ],
-  "latestUploadedChapter": "9eaa08de-b343-45ab-a238-e947d23b84c3",
+  "latestUploadedChapter": "84465b5a-38d6-4c6a-819c-5fc6a27e0c7a",
   "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
     "type": "tag",
@@ -122,9 +134,9 @@
    }
   ],
   "state": "published",
-  "version": 23,
+  "version": 29,
   "createdAt": "2024-11-10T07:19:28+00:00",
-  "updatedAt": "2024-11-16T04:47:38+00:00"
+  "updatedAt": "2024-11-19T04:50:58+00:00"
  },
  "relationships": [
   {
@@ -154,6 +166,32 @@
    }
   },
   {
+   "id": "1f5596b2-5ca2-4eb6-9830-4923980e6004",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-02-11T20:18:52+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tomo Kitaoka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-02-11T20:18:52+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "3e89e8ee-e33f-4fae-85e3-0975d7d9aad3",
    "type": "author",
    "attributes": {
@@ -176,32 +214,6 @@
     "twitter": "https://twitter.com/t8ttttt",
     "updatedAt": "2024-04-08T15:04:14+00:00",
     "version": 5,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "a9d6c733-ecf7-48ae-aab5-db8d9f89165a",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2024-11-10T07:03:43+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Kitaoka Tomo",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-10T07:03:43+00:00",
-    "version": 1,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -286,6 +298,32 @@
    }
   },
   {
+   "id": "1f5596b2-5ca2-4eb6-9830-4923980e6004",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-02-11T20:18:52+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tomo Kitaoka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-02-11T20:18:52+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "3e89e8ee-e33f-4fae-85e3-0975d7d9aad3",
    "type": "artist",
    "attributes": {
@@ -308,32 +346,6 @@
     "twitter": "https://twitter.com/t8ttttt",
     "updatedAt": "2024-04-08T15:04:14+00:00",
     "version": 5,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "a9d6c733-ecf7-48ae-aab5-db8d9f89165a",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2024-11-10T07:03:43+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Kitaoka Tomo",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-10T07:03:43+00:00",
-    "version": 1,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -392,16 +404,16 @@
    }
   },
   {
-   "id": "3c27008c-60ae-4f2b-85d5-ddd3ffef228d",
+   "id": "7f149e9d-63a1-483d-9316-db5a968e71eb",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-10T09:25:51+00:00",
+    "createdAt": "2024-11-10T09:25:50+00:00",
     "description": "Cover from BookLive to replace the previous 1344x1925 cover",
-    "fileName": "0bde614b-526c-4a81-8b3f-f8cae9c69189.jpg",
+    "fileName": "91fea861-226a-4002-b0c6-ba2de15b1f4b.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-10T09:25:51+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-11-18T16:59:12+00:00",
+    "version": 3,
+    "volume": "2"
    }
   },
   {

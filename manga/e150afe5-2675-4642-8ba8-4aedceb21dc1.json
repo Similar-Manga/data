@@ -1,0 +1,141 @@
+{
+ "id": "e150afe5-2675-4642-8ba8-4aedceb21dc1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Bird - Jankai Tenshi VS Tensai Majutsushi"
+  },
+  "altTitles": [
+   {
+    "ja": "バード　雀界天使ＶＳ天才魔術師"
+   }
+  ],
+  "description": {
+   "ja": "新たな闘いの幕開けッ！！全戦無敗の不敗神話！超能力者かペテン師か！？麻雀界に現れた奇跡の天使！！そのトリックにバードが挑む――！！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B075T85G2S",
+   "bw": "series/49365",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/147393",
+   "mu": "rufysxx"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "27",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2012,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-19T16:55:59+00:00",
+  "updatedAt": "2024-11-19T16:56:13+00:00"
+ },
+ "relationships": [
+  {
+   "id": "77ae9170-98d5-4c04-87ec-15fcf7e0df5a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aoyama Hiromi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "554fad4b-da31-4306-ba51-fcac2ea3acb3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamane Kazutoshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c317692c-c5da-400a-a502-d1ea90cd825a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-19T16:56:08+00:00",
+    "description": "Volume 3 Cover from BookLive",
+    "fileName": "9ce09dd9-4d82-4628-ae0d-0854a7440090.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-19T16:56:08+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "5ab7d21e-d1da-4741-8862-49e0f64bf9ce",
+   "type": "manga",
+   "related": "sequel"
+  },
+  {
+   "id": "d93085ee-2b65-4c82-a011-cca3e06e3fb7",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,28 +3,36 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Gordian Knot"
+   "en": "Gordias"
   },
   "altTitles": [
    {
-    "en": "Cutting the Gordian Knot"
+    "ja": "ゴルディアス"
    },
    {
-    "en": "Gordian Knot"
-   },
-   {
-    "en": "Gordius"
-   },
-   {
-    "en": "ゴルディアス"
+    "en": "The Gordian Knot"
    }
   ],
   "description": {
-   "en": "To win or to lose,  \nto deceive or to be deceived  \n  \nBy changing your way of thinking  \nyou can solve many difficult problems,  \nthis is the so called \"Cutting the Gordian Knot\"!!  \n  \nTo conquer the collectors who are only willing to give out their collections by gambling with them. And here comes the super child prodigy in solving problems 祐樹!! Using tricks to deceive many swindlers. A bright story about gambling.  \n  \n  \n\u003chttps://myanimelist.net/manga/13699/Gordias\u003e"
+   "en": "To win or to lose, to deceive or to be deceived. By changing your way of thinking you can solve many difficult problems, this is the so called \"Cutting the Gordian Knot\"!! To conquer the collectors who are only willing to give out their collections by gambling with them. And here comes the super child prodigy in solving problems Yuki!! Using tricks to deceive many swindlers.",
+   "ja": "あたし、彩木あや。中学一年生！ひょんなことから不思議な力を持つ美少年「鍵師」を封印から解き放って、彼のご主人様「キーマスター」なんてものになっちゃった！以来、怪物と戦ったり学園に潜む謎な敵が現れたり、刺激的すぎるスクールライフが始まったってワケ（泣）。"
+  },
+  "links": {
+   "al": "43699",
+   "amz": "https://www.amazon.co.jp/dp/B074CMD7X7",
+   "ap": "gordias",
+   "bw": "series/106588",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/397643",
+   "kt": "24400",
+   "mal": "13699",
+   "mu": "t7wb2pt"
   },
   "originalLanguage": "ja",
-  "publicationDemographic": "shounen",
+  "lastVolume": "3",
+  "lastChapter": "20",
+  "publicationDemographic": "seinen",
   "status": "completed",
+  "year": 2000,
   "contentRating": "safe",
   "tags": [
    {
@@ -77,9 +85,9 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2021-01-17T22:52:44+00:00",
-  "updatedAt": "2021-01-17T22:52:44+00:00"
+  "updatedAt": "2024-11-19T00:17:56+00:00"
  },
  "relationships": [
   {
@@ -109,16 +117,42 @@
    }
   },
   {
-   "id": "c1754505-e2a0-4f25-97de-662950faaa9e",
+   "id": "afe5fc8e-2bd6-4834-9840-3b863ffa14d6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ida Tatsuhiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8e42fb8a-e427-49bd-8f1b-293ce96cb11b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:27:38+00:00",
-    "description": "",
-    "fileName": "29efa26d-570a-42a3-808a-b84747093a39.jpg",
+    "createdAt": "2024-11-19T00:17:55+00:00",
+    "description": "Volume 3 Cover from BookLive",
+    "fileName": "95771160-46d6-43e2-ae4f-dce14377c412.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:27:38+00:00",
+    "updatedAt": "2024-11-19T00:17:55+00:00",
     "version": 1,
-    "volume": null
+    "volume": "3"
    }
   }
  ]

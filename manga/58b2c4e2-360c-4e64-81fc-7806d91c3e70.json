@@ -1,0 +1,131 @@
+{
+ "id": "58b2c4e2-360c-4e64-81fc-7806d91c3e70",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Bouncers"
+  },
+  "altTitles": [
+   {
+    "ja": "ばうんさーず"
+   }
+  ],
+  "description": {
+   "ja": "浪人生のカイくんは大湊（おおみなと）家に居候中。でもそこには保護者（用心棒）気どりの三姉妹がいて…。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B07C64P9LH",
+   "bw": "series/87000",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/381538",
+   "mu": "tzro8xs"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "25",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2013,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-19T16:27:29+00:00",
+  "updatedAt": "2024-11-19T16:28:32+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f9e1e5fc-6cd0-4f56-8987-d99a3f49ea67",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inugami Sukune",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f9e1e5fc-6cd0-4f56-8987-d99a3f49ea67",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inugami Sukune",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "be9bba15-adaa-4efa-922f-9482245e4a77",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-19T16:27:40+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "48995972-f860-45a4-bdf5-95becf16b583.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-19T16:27:40+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}
