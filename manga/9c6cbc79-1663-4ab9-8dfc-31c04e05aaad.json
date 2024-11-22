@@ -1,0 +1,141 @@
+{
+ "id": "9c6cbc79-1663-4ab9-8dfc-31c04e05aaad",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tada no Uwasa desu"
+  },
+  "altTitles": [
+   {
+    "ja": "ただのうわさです"
+   }
+  ],
+  "description": {
+   "ja": "採用面接28連敗中の限界就活浪人生・雨森は、雑学系ネットニュースサイトのライター（雑用）のバイトを始めることに。SNSやオカルト掲示板など、インターネット上で話題になっているスポットの取材に出向く雨森だが、ゆく先々で起こるのは信じがたいような怪異現象の数々だった――…。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0D9K4MBWM",
+   "bw": "series/480391",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/841600",
+   "mu": "0llitaq"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-21T14:59:54+00:00",
+  "updatedAt": "2024-11-21T15:00:07+00:00"
+ },
+ "relationships": [
+  {
+   "id": "24b72650-3ee8-4460-86c6-4136fd3440e3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-21T14:58:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Iikura Yoshiyuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-21T14:58:15+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "503f1e54-3031-4863-a959-516ff08b993b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-21T14:58:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Minowa Bunko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-21T14:58:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "52d10201-8a14-4164-b112-83bc6ba38a26",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T14:59:57+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "938ed6b8-1410-4007-90a1-82321b8e5ddd.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-21T14:59:57+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

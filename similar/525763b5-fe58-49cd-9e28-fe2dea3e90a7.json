@@ -17,6 +17,14 @@
    ]
   },
   {
+   "id": "93f7b86f-d777-4429-961d-68b59703e5a6",
+   "title": {
+    "en": "Aria no Shinryouroku"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291
+  },
+  {
    "id": "81d1957d-ea20-4f0b-a826-251d4028af8b",
    "title": {
     "en": "Strange Tales of Xiao Zhi"
@@ -28,12 +36,15 @@
    ]
   },
   {
-   "id": "93f7b86f-d777-4429-961d-68b59703e5a6",
+   "id": "823287eb-d3ff-41fd-afd7-311034ad2f71",
    "title": {
-    "en": "Aria no Shinryouroku"
+    "en": "Out Code - Choujou Hanzai Tokumu Sousakan"
    },
    "contentRating": "safe",
-   "score": 0.2569291
+   "score": 0.25186753,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "fc738fae-638c-4ca3-98e7-20d948ba3a62",
@@ -41,37 +52,7 @@
     "en": "On the way to Living Dead"
    },
    "contentRating": "safe",
-   "score": 0.25401345,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7c4f238f-0b39-40a9-97fc-cf15ef331c20",
-   "title": {
-    "en": "Open Your Eyes To Darkness"
-   },
-   "contentRating": "safe",
-   "score": 0.24740033,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7289a93a-f2a1-47ac-8e34-e97baf12c9ff",
-   "title": {
-    "en": "Psycho"
-   },
-   "contentRating": "safe",
-   "score": 0.24324094
-  },
-  {
-   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
-   "title": {
-    "en": "Watashi wa Kagome"
-   },
-   "contentRating": "safe",
-   "score": 0.24222553,
+   "score": 0.24342267,
    "languages": [
     "en"
    ]
@@ -88,12 +69,31 @@
    ]
   },
   {
+   "id": "a676b1b3-b149-48f8-bf57-fba572468a0f",
+   "title": {
+    "en": "Tonari no Hyakkai Kenbunroku"
+   },
+   "contentRating": "safe",
+   "score": 0.23991741
+  },
+  {
+   "id": "0107ccdf-3b90-454d-9773-f0ebbada147a",
+   "title": {
+    "en": "Watashi wa Kagome"
+   },
+   "contentRating": "safe",
+   "score": 0.23768033,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3400cbdb-a821-44c0-8793-b36d9c2664d6",
    "title": {
     "en": "Monochrome Tokyo Kitan"
    },
    "contentRating": "safe",
-   "score": 0.2404864
+   "score": 0.23484343
   },
   {
    "id": "8eff593c-e769-4005-8382-0951aa4443e7",
@@ -101,62 +101,18 @@
     "en": "Shinda Hito"
    },
    "contentRating": "safe",
-   "score": 0.2397554
+   "score": 0.23437965
   },
   {
-   "id": "3b08711f-b3b7-4d68-adf7-48c85cd9c1fd",
+   "id": "53b8595f-50ff-4926-a91a-37a7d6f1e10c",
    "title": {
-    "en": "Winter Hearts"
+    "en": "Diary Mystery"
    },
    "contentRating": "safe",
-   "score": 0.23829405,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "8d7757e0-c72f-415d-88b6-5843f599bd63",
-   "title": {
-    "en": "I Refuse This Possession"
-   },
-   "contentRating": "safe",
-   "score": 0.23403354,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "f44c1ae4-75d6-4ff6-9e5c-7330773e2dbd",
-   "title": {
-    "en": "Darkness and Death"
-   },
-   "contentRating": "safe",
-   "score": 0.23358509,
+   "score": 0.22980437,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "565fdb56-2072-4c32-86a5-4d208774c2d2",
-   "title": {
-    "en": "Flower Petal"
-   },
-   "contentRating": "safe",
-   "score": 0.23129304,
-   "languages": [
-    "en",
-    "hu"
-   ]
-  },
-  {
-   "id": "a7a0ab84-5e94-4021-b2d5-434c30d6e1bf",
-   "title": {
-    "en": "Reikan Koumuten Repair"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437
   },
   {
    "id": "45544205-6dbd-4a81-8cc3-82ffd46c73e6",
@@ -168,7 +124,43 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a7a0ab84-5e94-4021-b2d5-434c30d6e1bf",
+   "title": {
+    "en": "Reikan Koumuten Repair"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437
+  },
+  {
+   "id": "3b08711f-b3b7-4d68-adf7-48c85cd9c1fd",
+   "title": {
+    "en": "Winter Hearts"
+   },
+   "contentRating": "safe",
+   "score": 0.22970696,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "815cd8aa-80ff-40a5-9d6d-8ce288b0eb45",
+   "title": {
+    "en": "Locust"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468
+  },
+  {
+   "id": "4a6f11d0-625b-471a-a8ce-ab44fa8c23d5",
+   "title": {
+    "en": "Kodoku no Satsujin"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468
   }
  ],
- "updatedAt": "2024-11-19T20:12:01+00:00"
+ "updatedAt": "2024-11-21T20:15:57+00:00"
 }

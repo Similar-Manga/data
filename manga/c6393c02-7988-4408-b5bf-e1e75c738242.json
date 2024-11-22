@@ -15,8 +15,9 @@
   },
   "links": {
    "al": "51809",
+   "amz": "https://www.amazon.co.jp/dp/B074CGJCKY",
    "ap": "minimum",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/21691/",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/21691",
    "kt": "11949",
    "mal": "21809",
    "mu": "51757"
@@ -29,9 +30,10 @@
   "year": 2010,
   "contentRating": "erotica",
   "availableTranslatedLanguages": [
-   "en"
+   "en",
+   "es-la"
   ],
-  "latestUploadedChapter": "8679fa90-7920-42ce-b217-33841e06fa6c",
+  "latestUploadedChapter": "989da3b5-7986-4297-a06b-bd9156505d70",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -95,9 +97,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2018-03-30T14:08:07+00:00",
-  "updatedAt": "2023-12-29T18:35:07+00:00"
+  "updatedAt": "2024-11-19T20:46:23+00:00"
  },
  "relationships": [
   {
@@ -153,16 +155,16 @@
    }
   },
   {
-   "id": "cd2e95fe-59a3-4fea-94e8-bab539ba1a01",
+   "id": "81d5cbdf-5273-46ed-8e76-7f3112289a07",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:31:44+00:00",
-    "description": "",
-    "fileName": "14df894c-8bed-448f-b363-40c6a7447008.jpg",
+    "createdAt": "2024-11-19T20:46:19+00:00",
+    "description": "Volume 7 Cover from Amazon",
+    "fileName": "ed52cf3f-f19a-43bc-8a14-c2f93fdb5a03.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:31:44+00:00",
+    "updatedAt": "2024-11-19T20:46:19+00:00",
     "version": 1,
-    "volume": null
+    "volume": "7"
    }
   }
  ]

@@ -6,24 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "4fb83ee0-e9c5-483b-882b-099389f648ba",
-   "title": {
-    "en": "The Cat Witch"
-   },
-   "contentRating": "safe",
-   "score": 0.3377861,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "42f11502-9df7-4125-a956-60ffc8fa84f4",
    "title": {
     "en": "I Want to Speak With You"
    },
    "contentRating": "safe",
-   "score": 0.3301372,
+   "score": 0.34042764,
    "languages": [
     "en"
    ]
@@ -34,7 +22,7 @@
     "en": "Honjitsu no Neko Jijou"
    },
    "contentRating": "safe",
-   "score": 0.31614643,
+   "score": 0.32554108,
    "languages": [
     "pl",
     "en"
@@ -46,33 +34,21 @@
     "en": "Ojisan to Neko to Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.28994796,
+   "score": 0.30013397,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "2f82155c-85ef-4598-bcbb-d48a3e33818d",
+   "id": "4fb83ee0-e9c5-483b-882b-099389f648ba",
    "title": {
-    "en": "Mugi no Mahoutsukai"
+    "en": "The Cat Witch"
    },
    "contentRating": "safe",
-   "score": 0.23762895,
+   "score": 0.26540455,
    "languages": [
+    "es-la",
     "en"
-   ]
-  },
-  {
-   "id": "771ff508-3fd5-4de8-aca1-0b7e64c33c07",
-   "title": {
-    "en": "A Witch's Hopeless Wish"
-   },
-   "contentRating": "safe",
-   "score": 0.23663051,
-   "languages": [
-    "id",
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -81,7 +57,7 @@
     "en": "Yasashii Kazoku to, Takusan no Mofumofu ni Kakomarete"
    },
    "contentRating": "safe",
-   "score": 0.22824104,
+   "score": 0.22906227,
    "languages": [
     "en"
    ]
@@ -92,7 +68,7 @@
     "en": "Tomtom and Popo"
    },
    "contentRating": "safe",
-   "score": 0.22595893,
+   "score": 0.22658134,
    "languages": [
     "en"
    ]
@@ -103,7 +79,7 @@
     "en": "Ikinokori Renkinjutsushi wa Machi de Shizuka ni Kurashitai ~Rinkan no Mahou-yaku~"
    },
    "contentRating": "safe",
-   "score": 0.21146707,
+   "score": 0.21263042,
    "languages": [
     "en"
    ]
@@ -114,7 +90,7 @@
     "en": "Pikupiku Sentarou Selection"
    },
    "contentRating": "safe",
-   "score": 0.20749061,
+   "score": 0.20986755,
    "languages": [
     "en"
    ]
@@ -125,32 +101,7 @@
     "en": "Neko Mix Genkitan Toraji"
    },
    "contentRating": "safe",
-   "score": 0.20024575,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a5fe1bd9-3e02-40f9-be4f-8852b69cabf7",
-   "title": {
-    "en": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.19704404,
-   "languages": [
-    "pt-br",
-    "en",
-    "th",
-    "fr"
-   ]
-  },
-  {
-   "id": "be638794-0dfb-4d1b-af54-df5ca0cf8334",
-   "title": {
-    "en": "Tensei Shitara Suterareta ga, Hirowarete Tanoshiku Ikiteimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.19626309,
+   "score": 0.20521203,
    "languages": [
     "en"
    ]
@@ -161,7 +112,7 @@
     "en": "Black Cat Tunnel"
    },
    "contentRating": "safe",
-   "score": 0.19395135,
+   "score": 0.20136982,
    "languages": [
     "ca",
     "pt-br",
@@ -171,12 +122,48 @@
    ]
   },
   {
+   "id": "be638794-0dfb-4d1b-af54-df5ca0cf8334",
+   "title": {
+    "en": "Tensei Shitara Suterareta ga, Hirowarete Tanoshiku Ikiteimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.19905634,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a5fe1bd9-3e02-40f9-be4f-8852b69cabf7",
+   "title": {
+    "en": "Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.19812286,
+   "languages": [
+    "pt-br",
+    "en",
+    "th",
+    "fr"
+   ]
+  },
+  {
    "id": "b8941787-6a96-4b7b-95cf-a6b9903678d5",
    "title": {
     "en": "Tabineko"
    },
    "contentRating": "safe",
-   "score": 0.18520334,
+   "score": 0.18996,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ec0a46db-56de-4fdc-be70-2d7c6f432760",
+   "title": {
+    "en": "Poop Manager: Praise the Cat Lord"
+   },
+   "contentRating": "safe",
+   "score": 0.18512848,
    "languages": [
     "en"
    ]
@@ -187,12 +174,23 @@
     "en": "Fuku-Fuku Funya~n"
    },
    "contentRating": "safe",
-   "score": 0.1802723,
+   "score": 0.182383,
    "languages": [
     "en",
     "fr"
    ]
+  },
+  {
+   "id": "1c21b0bb-644f-4c13-94db-7149b5f7b17d",
+   "title": {
+    "en": "Ryuujin-sama to Kurashitara"
+   },
+   "contentRating": "safe",
+   "score": 0.17034185,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-19T20:34:16+00:00"
+ "updatedAt": "2024-11-21T20:37:59+00:00"
 }

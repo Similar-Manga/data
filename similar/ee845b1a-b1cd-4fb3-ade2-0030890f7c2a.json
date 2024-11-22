@@ -6,28 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "ead3f958-0d01-4c1f-b605-620eacb8ead0",
-   "title": {
-    "en": "Boku no Ikezu na Konyakusha"
-   },
-   "contentRating": "safe",
-   "score": 0.29021123,
-   "languages": [
-    "pt-br",
-    "en",
-    "vi",
-    "id",
-    "pl",
-    "es-la"
-   ]
-  },
-  {
    "id": "d16f92a6-6f5f-442c-b011-b68abc986209",
    "title": {
     "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.2786561,
+   "score": 0.27865714,
    "languages": [
     "vi",
     "en",
@@ -42,11 +26,27 @@
     "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
    },
    "contentRating": "safe",
-   "score": 0.27479696,
+   "score": 0.27479848,
    "languages": [
     "id",
     "pt-br",
     "en"
+   ]
+  },
+  {
+   "id": "ead3f958-0d01-4c1f-b605-620eacb8ead0",
+   "title": {
+    "en": "Boku no Ikezu na Konyakusha"
+   },
+   "contentRating": "safe",
+   "score": 0.26889434,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "id",
+    "pl",
+    "es-la"
    ]
   },
   {
@@ -55,7 +55,7 @@
     "en": "Hitomi-chan Is Shy With Strangers"
    },
    "contentRating": "safe",
-   "score": 0.26524848,
+   "score": 0.26524928,
    "languages": [
     "en",
     "pt-br",
@@ -74,7 +74,7 @@
     "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
    },
    "contentRating": "safe",
-   "score": 0.2651628,
+   "score": 0.2651668,
    "languages": [
     "en",
     "pt-br"
@@ -86,7 +86,7 @@
     "en": "Tenshi-chan to Akuma-kun"
    },
    "contentRating": "safe",
-   "score": 0.26461172,
+   "score": 0.26461145,
    "languages": [
     "en"
    ]
@@ -97,7 +97,7 @@
     "en": "Kamisama Kazoku"
    },
    "contentRating": "safe",
-   "score": 0.26156926,
+   "score": 0.2615722,
    "languages": [
     "en",
     "pt-br"
@@ -113,50 +113,6 @@
    "languages": [
     "vi",
     "en"
-   ]
-  },
-  {
-   "id": "84b8110c-b14f-42fe-bd95-72d821ac489d",
-   "title": {
-    "ja": "Sensei, Kongetsu Dou Desu ka"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi",
-    "es-la"
-   ]
-  },
-  {
-   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
-   "title": {
-    "en": "Chigau Miyahara Omae janai!"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "vi",
-    "pt-br",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
-   "title": {
-    "ja-ro": "Houkago Kitaku Biyori"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "es-la",
-    "vi",
-    "en",
-    "ru",
-    "id",
-    "pt-br"
    ]
   },
   {
@@ -178,27 +134,17 @@
    ]
   },
   {
-   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "id": "84b8110c-b14f-42fe-bd95-72d821ac489d",
    "title": {
-    "en": "Tokiwa-san to Inoue-kun no Boushin"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a2f14ca0-1fad-4198-95cf-d5bfa053238b",
-   "title": {
-    "en": "Nemuro-kun wa Kao ga Ii!"
+    "ja": "Sensei, Kongetsu Dou Desu ka"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
     "en",
-    "es-la",
-    "id"
+    "pt-br",
+    "vi",
+    "es-la"
    ]
   },
   {
@@ -219,6 +165,60 @@
    ]
   },
   {
+   "id": "a2f14ca0-1fad-4198-95cf-d5bfa053238b",
+   "title": {
+    "en": "Nemuro-kun wa Kao ga Ii!"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "es-la",
+    "id"
+   ]
+  },
+  {
+   "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
+   "title": {
+    "ja-ro": "Houkago Kitaku Biyori"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "es-la",
+    "vi",
+    "en",
+    "ru",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
+   "title": {
+    "en": "Chigau Miyahara Omae janai!"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "vi",
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "title": {
+    "en": "Tokiwa-san to Inoue-kun no Boushin"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "c379ed57-5b8a-4096-9287-9b8ed07785ad",
    "title": {
     "en": "Yoka-san ga Nameru"
@@ -230,5 +230,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-19T21:05:31+00:00"
+ "updatedAt": "2024-11-21T21:08:44+00:00"
 }

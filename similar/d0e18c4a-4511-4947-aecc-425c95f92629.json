@@ -11,15 +11,15 @@
     "en": "Guren no Arma"
    },
    "contentRating": "safe",
-   "score": 0.31412622,
+   "score": 0.3141304,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "bfc02c83-1f75-4f18-b58b-415cd5732a36",
+   "id": "3ba8fde2-acf7-4216-838c-51ae7d6d6eec",
    "title": {
-    "en": "Teito Ayakashi Daihitsu Tan"
+    "en": "Mahou no Tsukaikata"
    },
    "contentRating": "safe",
    "score": 0.2857143
@@ -44,20 +44,12 @@
    "score": 0.2857143
   },
   {
-   "id": "3ba8fde2-acf7-4216-838c-51ae7d6d6eec",
+   "id": "bfc02c83-1f75-4f18-b58b-415cd5732a36",
    "title": {
-    "en": "Mahou no Tsukaikata"
+    "en": "Teito Ayakashi Daihitsu Tan"
    },
    "contentRating": "safe",
    "score": 0.2857143
-  },
-  {
-   "id": "62dfccdc-c0ab-43e6-ac9f-781a532d6a33",
-   "title": {
-    "en": "9th Sleep"
-   },
-   "contentRating": "safe",
-   "score": 0.2774458
   },
   {
    "id": "28f938ac-a69c-49d9-a981-cc5f49545d6b",
@@ -65,7 +57,18 @@
     "en": "Atarayakou"
    },
    "contentRating": "safe",
-   "score": 0.27377138
+   "score": 0.27377483
+  },
+  {
+   "id": "af0fbcbb-5930-4b98-a0ca-4bf84cedbc0d",
+   "title": {
+    "en": "Art Rumor"
+   },
+   "contentRating": "safe",
+   "score": 0.2674563,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "c9dea214-bdcf-48a3-8010-f814b01cb35c",
@@ -73,7 +76,7 @@
     "en": "Yume Yashiki e Youkoso"
    },
    "contentRating": "safe",
-   "score": 0.26441967
+   "score": 0.26441884
   },
   {
    "id": "bad7a782-df19-4447-b591-9e0d84f685ec",
@@ -81,10 +84,18 @@
     "en": "Princess Ai Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.2576768,
+   "score": 0.25769052,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "62dfccdc-c0ab-43e6-ac9f-781a532d6a33",
+   "title": {
+    "en": "9th Sleep"
+   },
+   "contentRating": "safe",
+   "score": 0.25703138
   },
   {
    "id": "317e9733-2561-4cfb-87ec-8fba0860ff3a",
@@ -92,53 +103,7 @@
     "en": "Seikon Sacrifice"
    },
    "contentRating": "safe",
-   "score": 0.25201505,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c78b5154-58fa-442e-b229-024ad262bfa5",
-   "title": {
-    "en": "Yuureisen Chronicle"
-   },
-   "contentRating": "safe",
-   "score": 0.24848774
-  },
-  {
-   "id": "fc986fa7-c27f-4478-b0d9-0ea16c3116bd",
-   "title": {
-    "en": "Legend of Izaron"
-   },
-   "contentRating": "safe",
-   "score": 0.24719228
-  },
-  {
-   "id": "1eb6d594-ad42-4586-8b96-fc3c0e6ddbca",
-   "title": {
-    "en": "Michibata no Tenshi"
-   },
-   "contentRating": "safe",
-   "score": 0.24487187,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c4eea31c-ed8c-4b2d-841b-8abf420b7579",
-   "title": {
-    "en": "Dolls Music Staff"
-   },
-   "contentRating": "safe",
-   "score": 0.24450451
-  },
-  {
-   "id": "14ccc74b-43d1-4d9f-84cc-de38eef8c40d",
-   "title": {
-    "en": "Gate"
-   },
-   "contentRating": "safe",
-   "score": 0.24366595,
+   "score": 0.25202042,
    "languages": [
     "en"
    ]
@@ -149,8 +114,43 @@
     "en": "Ifi no Shokubutsu Zukan"
    },
    "contentRating": "safe",
-   "score": 0.24319151
+   "score": 0.25176105
+  },
+  {
+   "id": "c78b5154-58fa-442e-b229-024ad262bfa5",
+   "title": {
+    "en": "Yuureisen Chronicle"
+   },
+   "contentRating": "safe",
+   "score": 0.24848615
+  },
+  {
+   "id": "fc986fa7-c27f-4478-b0d9-0ea16c3116bd",
+   "title": {
+    "en": "Legend of Izaron"
+   },
+   "contentRating": "safe",
+   "score": 0.24719305
+  },
+  {
+   "id": "1eb6d594-ad42-4586-8b96-fc3c0e6ddbca",
+   "title": {
+    "en": "Michibata no Tenshi"
+   },
+   "contentRating": "safe",
+   "score": 0.24487366,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c4eea31c-ed8c-4b2d-841b-8abf420b7579",
+   "title": {
+    "en": "Dolls Music Staff"
+   },
+   "contentRating": "safe",
+   "score": 0.24450608
   }
  ],
- "updatedAt": "2024-11-19T20:55:29+00:00"
+ "updatedAt": "2024-11-21T20:58:52+00:00"
 }

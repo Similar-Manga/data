@@ -1,0 +1,134 @@
+{
+ "id": "7f4b3c76-f4ae-415e-8451-c5189858ac64",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Glasses"
+  },
+  "description": {},
+  "links": {
+   "raw": "https://x.com/tentenchan2525/status/1859050025541923158"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "b8336497-66c0-4243-8446-b780c121611d",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-20T08:46:04+00:00",
+  "updatedAt": "2024-11-20T11:33:27+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1719d41b-d96c-430d-9f57-f87da9f385de",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-09-23T14:54:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "tenten",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/61499635",
+    "skeb": "https://skeb.jp/@tentenchan2525",
+    "tumblr": null,
+    "twitter": "https://twitter.com/tentenchan2525",
+    "updatedAt": "2024-11-20T11:37:18+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": "https://www.youtube.com/@tentenchan2525"
+   }
+  },
+  {
+   "id": "1719d41b-d96c-430d-9f57-f87da9f385de",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-09-23T14:54:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "tenten",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/61499635",
+    "skeb": "https://skeb.jp/@tentenchan2525",
+    "tumblr": null,
+    "twitter": "https://twitter.com/tentenchan2525",
+    "updatedAt": "2024-11-20T11:37:18+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": "https://www.youtube.com/@tentenchan2525"
+   }
+  },
+  {
+   "id": "08c44636-b481-47ff-aba3-4ab96a7589f9",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-20T08:46:12+00:00",
+    "description": "",
+    "fileName": "509d7f91-eaa3-4460-9b1b-3117c32fbb0a.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-20T08:46:12+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "284db3c8-8c62-42f3-9b64-4ef507ae8c48",
+   "type": "creator"
+  }
+ ]
+}

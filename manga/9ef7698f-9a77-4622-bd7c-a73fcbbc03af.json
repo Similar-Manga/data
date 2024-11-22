@@ -3,17 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Strange Adventure of a Broke Mercenary"
+   "en": "Kuitsume Youhei no Gensou Kitan"
   },
   "altTitles": [
    {
     "ja": "食い詰め傭兵の幻想奇譚"
    },
    {
-    "ja-ro": "Kuitsume Youhei no Gensou Kitan"
-   },
-   {
-    "ja": "Fantasie Geshichte von soldner in groBer Armut"
+    "de": "Fantasie Geshichte von soldner in groBer Armut"
    },
    {
     "de": "Fantasie Geschichte eines Söldners in Armut"
@@ -31,7 +28,7 @@
     "th": "เรื่องราวการผจญภัยสุดประหลาดของนายทหารถังแตก"
    },
    {
-    "en": "The Strange Fantasy Story Of A Broke Mercenary"
+    "en": "The Strange Adventure Of A Broke Mercenary"
    }
   ],
   "description": {
@@ -62,7 +59,7 @@
    "pt-br",
    "id"
   ],
-  "latestUploadedChapter": "42668d19-90fa-4c58-811e-66628d856014",
+  "latestUploadedChapter": "66523da1-0a6d-47c1-a556-f76fd2fbbb8c",
   "tags": [
    {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
@@ -109,6 +106,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "631ef465-9aba-4afb-b0fc-ea10efe274a8",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Zombies"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -186,9 +195,9 @@
    }
   ],
   "state": "published",
-  "version": 20,
+  "version": 23,
   "createdAt": "2019-04-10T06:07:28+00:00",
-  "updatedAt": "2024-10-30T19:20:17+00:00"
+  "updatedAt": "2024-11-21T07:28:30+00:00"
  },
  "relationships": [
   {

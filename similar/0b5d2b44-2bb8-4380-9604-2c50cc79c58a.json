@@ -6,12 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3dc22eea-a495-4d24-a0d0-259dd4f8a3de",
+   "title": {
+    "en": "Service Area"
+   },
+   "contentRating": "safe",
+   "score": 0.30787858,
+   "languages": [
+    "pt-br",
+    "ru",
+    "it",
+    "zh",
+    "en"
+   ]
+  },
+  {
    "id": "2b6f56bb-c1ef-4322-a7e1-58e9d1859baf",
    "title": {
     "en": "Alice no Gomi Yashiki"
    },
    "contentRating": "safe",
-   "score": 0.28533313,
+   "score": 0.28532818,
    "languages": [
     "fr"
    ]
@@ -22,7 +37,7 @@
     "en": "Kilroy Was Here"
    },
    "contentRating": "safe",
-   "score": 0.27284372,
+   "score": 0.2728323,
    "languages": [
     "en"
    ]
@@ -33,7 +48,7 @@
     "en": "Forbidden Games"
    },
    "contentRating": "safe",
-   "score": 0.26326185,
+   "score": 0.26325008,
    "languages": [
     "it",
     "en"
@@ -45,7 +60,7 @@
     "en": "Ikiru"
    },
    "contentRating": "safe",
-   "score": 0.26142842,
+   "score": 0.261427,
    "languages": [
     "en"
    ]
@@ -56,7 +71,7 @@
     "en": "Komaoto"
    },
    "contentRating": "safe",
-   "score": 0.26029134,
+   "score": 0.26028824,
    "languages": [
     "ru",
     "tr",
@@ -72,7 +87,7 @@
     "en": "Kono Yo wa Tatakau Kachi ga Aru"
    },
    "contentRating": "safe",
-   "score": 0.25990722,
+   "score": 0.25990528,
    "languages": [
     "en",
     "vi"
@@ -84,7 +99,7 @@
     "en": "The Traveler"
    },
    "contentRating": "safe",
-   "score": 0.25853136,
+   "score": 0.25855267,
    "languages": [
     "it",
     "de",
@@ -94,38 +109,12 @@
    ]
   },
   {
-   "id": "add83ef9-f371-46a1-8db6-7874206a4a28",
-   "title": {
-    "en": "Swell"
-   },
-   "contentRating": "safe",
-   "score": 0.25848842,
-   "languages": [
-    "bg",
-    "en",
-    "pl",
-    "de",
-    "pt-br"
-   ]
-  },
-  {
    "id": "4310ed20-58bb-4a5f-8fec-ed873b7bbee7",
    "title": {
     "en": "Sumika's Home"
    },
    "contentRating": "safe",
-   "score": 0.25812647,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9c110cd1-e3b1-4f23-b677-b0cf630a7b35",
-   "title": {
-    "en": "Street Pianoman"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
+   "score": 0.25812563,
    "languages": [
     "en"
    ]
@@ -142,20 +131,31 @@
    ]
   },
   {
+   "id": "9c110cd1-e3b1-4f23-b677-b0cf630a7b35",
+   "title": {
+    "en": "Street Pianoman"
+   },
+   "contentRating": "safe",
+   "score": 0.25509605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "20f9b0c2-f5fe-4691-b627-52737ad91d67",
    "title": {
     "en": "Nouzen Kazura no Ie"
    },
    "contentRating": "safe",
-   "score": 0.25025412,
+   "score": 0.250262,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "87fb264d-027d-4418-91fa-473561b1bbd5",
+   "id": "e5b55f67-feae-4024-8012-666fb429dfea",
    "title": {
-    "en": "The Message in the Rain Shower"
+    "en": "F.P. Ageha"
    },
    "contentRating": "safe",
    "score": 0.24983473,
@@ -164,32 +164,28 @@
    ]
   },
   {
-   "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
+   "id": "dfbb9ca8-a168-46e3-9dfd-ddef0f19ffad",
    "title": {
-    "en": "Olga A Yiri"
+    "en": "Sayonara Bye-Bye"
    },
    "contentRating": "safe",
    "score": 0.24983473,
    "languages": [
-    "pt-br",
-    "en",
-    "ar"
-   ]
-  },
-  {
-   "id": "6188bc67-804c-4a85-99b8-4cc7a872a388",
-   "title": {
-    "en": "Kanai-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "pl",
     "ru",
-    "ar",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "31e9cc87-205c-4617-9108-8a253a68badf",
+   "title": {
+    "en": "Dodoitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
     "en",
-    "pt-br",
-    "tr"
+    "ru"
    ]
   },
   {
@@ -208,5 +204,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-19T19:47:51+00:00"
+ "updatedAt": "2024-11-21T19:51:56+00:00"
 }

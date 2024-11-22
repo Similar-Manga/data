@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Dragon Ball - Dogs and Monkeys Actually Get Along Well (Doujinshii)"
+   "en": "Dragon Ball - Dogs and Monkeys Actually Get Along Well (Doujinshi)"
   },
   "altTitles": [
    {
@@ -11,7 +11,10 @@
    }
   ],
   "description": {
-   "en": "Comedic Dragon Ball doujinshii focused on Vegeta and Jheese."
+   "en": "Comedic Dragon Ball doujinshi focused on Vegeta and Jheese."
+  },
+  "links": {
+   "mu": "ucs8b41"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -22,6 +25,18 @@
   ],
   "latestUploadedChapter": "cb58d78c-6c2e-4fe1-984e-62f8378a5097",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
@@ -48,9 +63,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 8,
   "createdAt": "2022-09-22T21:47:17+00:00",
-  "updatedAt": "2024-06-08T03:18:01+00:00"
+  "updatedAt": "2024-11-20T05:20:49+00:00"
  },
  "relationships": [
   {
@@ -64,7 +79,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Ababa Farm",
+    "name": "Ababa Farm (Aoi Megumi)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -72,8 +87,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2022-09-22T21:45:46+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-20T05:02:29+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -90,7 +105,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Ababa Farm",
+    "name": "Ababa Farm (Aoi Megumi)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -98,8 +113,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2022-09-22T21:45:46+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-20T05:02:29+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -117,11 +132,6 @@
     "version": 1,
     "volume": "1"
    }
-  },
-  {
-   "id": "40bc649f-7b49-4645-859e-6cd94136e722",
-   "type": "manga",
-   "related": "adapted_from"
   },
   {
    "id": "40bc649f-7b49-4645-859e-6cd94136e722",

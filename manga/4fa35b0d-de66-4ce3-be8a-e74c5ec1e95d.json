@@ -3,16 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kantai Collection -KanColle- - METALSLAG2 (Doujinshi)"
+   "en": "Kantai Collection - METALSLAG2 (Doujinshi)"
   },
   "altTitles": [
    {
-    "en": "(C91) METALSLAG2 (艦隊これくしょん -艦これ-)"
+    "ja": "(C91) METALSLAG2 (艦隊これくしょん -艦これ-)"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "originalLanguage": "ja",
   "status": "completed",
   "contentRating": "pornographic",
@@ -83,9 +81,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-04-18T23:36:52+00:00",
-  "updatedAt": "2021-05-25T15:42:16+00:00"
+  "updatedAt": "2024-11-20T14:57:06+00:00"
  },
  "relationships": [
   {
@@ -99,7 +97,33 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Mario Almanac",
+    "name": "Mario Almanac (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-20T14:56:04+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e3352ae7-7c4a-41ba-a1af-94318159bcda",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mario",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -109,6 +133,32 @@
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a12c11ec-29b5-4d7f-8d0d-8c969f32989d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mario Almanac (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-20T14:56:04+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

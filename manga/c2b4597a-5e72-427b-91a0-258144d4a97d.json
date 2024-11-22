@@ -1,0 +1,144 @@
+{
+ "id": "c2b4597a-5e72-427b-91a0-258144d4a97d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Dragon Ball - Wolf Storm (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "狼嵐 - WOLF STORM"
+   },
+   {
+    "ja": "Ookami Arashi"
+   }
+  ],
+  "description": {
+   "en": "Dragon Ball doujinshi focusing on Yamcha's thoughts on Goku after his death in the Cell arc, as well as his relationship with Bulma."
+  },
+  "links": {
+   "mu": "0fsaa56"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 1993,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "661109cb-6b2c-4d09-b7b9-317b9378b49e",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-20T01:13:37+00:00",
+  "updatedAt": "2024-11-20T04:42:06+00:00"
+ },
+ "relationships": [
+  {
+   "id": "84916855-f4b6-451c-ad91-69c2bda450fc",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-20T01:01:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Studio Taiyo (Waya)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-20T04:58:28+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "84916855-f4b6-451c-ad91-69c2bda450fc",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-20T01:01:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Studio Taiyo (Waya)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-20T04:58:28+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2e91906d-224b-475e-ae04-c6dc2c25d6a5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-20T01:13:45+00:00",
+    "description": "",
+    "fileName": "44d252d0-3a03-4e63-b240-5e3251462d0e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-20T01:13:45+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "aa614b54-f2a4-44ea-aca9-435791dd6606",
+   "type": "creator"
+  }
+ ]
+}

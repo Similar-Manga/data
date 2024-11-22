@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tantei wa Sauna de Nazo wo Totonoeru"
+   "en": "Tantei wa Sauna de Nazo o Totonoeru"
   },
   "altTitles": [
    {
@@ -17,11 +17,17 @@
    "en": "Detective Ryuji Mizuta's father-in-law, Ryutaro Oguro, wants to become a detective. Ryuji tells him about a case he has already solved as a trial, but his guesses are always off the mark. But when Ryutaro took him to a sauna in a hot spring resort, he said, \"I have solved all the mysteries.\""
   },
   "links": {
-   "mu": "agwd1wo"
+   "amz": "https://www.amazon.co.jp/dp/B0BG583Y7H",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2766708",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/719922/",
+   "mu": "agwd1wo",
+   "raw": "https://www.cmoa.jp/title/251380/"
   },
   "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "9",
   "publicationDemographic": "shoujo",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2022,
   "contentRating": "safe",
   "tags": [
@@ -75,16 +81,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2022-12-09T13:11:09+00:00",
-  "updatedAt": "2023-10-24T13:39:38+00:00"
+  "updatedAt": "2024-11-19T16:04:37+00:00"
  },
  "relationships": [
   {
    "id": "63bb3e1a-75b8-4c48-8182-e96d3f3a4cd1",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nたうみまゆ"
+    },
     "booth": null,
     "createdAt": "2022-12-09T13:09:50+00:00",
     "fanBox": null,
@@ -99,9 +107,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2022-12-09T13:09:50+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-19T15:57:54+00:00",
+    "version": 2,
+    "website": "http://lita.stripper.jp/top.html",
     "weibo": null,
     "youtube": null
    }
@@ -136,7 +144,9 @@
    "id": "63bb3e1a-75b8-4c48-8182-e96d3f3a4cd1",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nたうみまゆ"
+    },
     "booth": null,
     "createdAt": "2022-12-09T13:09:50+00:00",
     "fanBox": null,
@@ -151,9 +161,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2022-12-09T13:09:50+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-11-19T15:57:54+00:00",
+    "version": 2,
+    "website": "http://lita.stripper.jp/top.html",
     "weibo": null,
     "youtube": null
    }

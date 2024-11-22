@@ -6,45 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "eafd02d5-e6a0-477c-bed5-2e98115b4469",
-   "title": {
-    "en": "The Queen's Dogs"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5b38a1ae-c340-4bbf-b9f5-a3573abedbee",
    "title": {
     "en": "inGrid"
    },
    "contentRating": "safe",
-   "score": 0.27509686,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "152cfd18-e543-4386-9357-2e3773d66044",
-   "title": {
-    "en": "Muku Na Princess"
-   },
-   "contentRating": "safe",
-   "score": 0.25971645,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b94788db-d6e4-46bb-9eac-df5bfa11c702",
-   "title": {
-    "en": "Konaide Kounotori"
-   },
-   "contentRating": "safe",
-   "score": 0.25927532,
+   "score": 0.2760085,
    "languages": [
     "en"
    ]
@@ -55,19 +22,19 @@
     "en": "Fuyu no Ou to Haru no Hime"
    },
    "contentRating": "safe",
-   "score": 0.25728193,
+   "score": 0.25760597,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "6260015c-005f-4106-9528-f9ddb666309f",
+   "id": "76cf2fd0-bc5a-4f8b-872b-cb54c55c4294",
    "title": {
-    "en": "Ikenie Akujo no Shiroi Kekkon"
+    "en": "A Night of Sinful Love"
    },
    "contentRating": "safe",
-   "score": 0.24743582,
+   "score": 0.24752751,
    "languages": [
     "en"
    ]
@@ -84,12 +51,23 @@
    ]
   },
   {
-   "id": "76cf2fd0-bc5a-4f8b-872b-cb54c55c4294",
+   "id": "6260015c-005f-4106-9528-f9ddb666309f",
    "title": {
-    "en": "A Night of Sinful Love"
+    "en": "Ikenie Akujo no Shiroi Kekkon"
    },
    "contentRating": "safe",
-   "score": 0.24571072,
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b94788db-d6e4-46bb-9eac-df5bfa11c702",
+   "title": {
+    "en": "Konaide Kounotori"
+   },
+   "contentRating": "safe",
+   "score": 0.24720795,
    "languages": [
     "en"
    ]
@@ -100,48 +78,15 @@
     "en": "A Cursed Girl's Bible"
    },
    "contentRating": "safe",
-   "score": 0.24086365,
+   "score": 0.2411128,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "a3b6405b-8bf7-4f56-b554-58b5a61ecb7a",
+   "id": "152cfd18-e543-4386-9357-2e3773d66044",
    "title": {
-    "en": "Leave"
-   },
-   "contentRating": "safe",
-   "score": 0.23658052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "75bab431-398c-46f4-9a37-7670997cb5a9",
-   "title": {
-    "en": "Atsui Fukushuu"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "91bff606-7f63-4443-a459-556e41df835d",
-   "title": {
-    "en": "Amalfi no Hanayome"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b17df2d5-6e2f-4a14-a7de-dd11d015e453",
-   "title": {
-    "en": "Ubawareta Hanayome"
+    "en": "Muku Na Princess"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -172,6 +117,28 @@
    ]
   },
   {
+   "id": "75bab431-398c-46f4-9a37-7670997cb5a9",
+   "title": {
+    "en": "Atsui Fukushuu"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b17df2d5-6e2f-4a14-a7de-dd11d015e453",
+   "title": {
+    "en": "Ubawareta Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "cf090b27-6d7e-4557-9a2b-55dd22027a67",
    "title": {
     "en": "Alice in the Country of Diamonds ~Wonderful Wonder World~ Koushiki Visual Fanbook"
@@ -181,7 +148,40 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "91bff606-7f63-4443-a459-556e41df835d",
+   "title": {
+    "en": "Amalfi no Hanayome"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a3b6405b-8bf7-4f56-b554-58b5a61ecb7a",
+   "title": {
+    "en": "Leave"
+   },
+   "contentRating": "safe",
+   "score": 0.22337738,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e0b7a1cc-0cec-4c1b-85b0-0e804b054abb",
+   "title": {
+    "en": "Uchi no Neko Shirimasenka?"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-19T20:49:48+00:00"
+ "updatedAt": "2024-11-21T20:53:14+00:00"
 }

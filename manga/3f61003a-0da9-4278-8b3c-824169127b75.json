@@ -3,23 +3,71 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Doshaburi daydream a wet daydream"
+   "en": "Doshaburi daydream"
   },
+  "altTitles": [
+   {
+    "en": "a wet daydream"
+   },
+   {
+    "ja": "どしゃぶりディドリーム"
+   }
+  ],
   "description": {
-   "en": ""
+   "en": "| Namespace | Tags |\n| :--- | :--- |\n| artist | arima zin |\n| female | ahegao, schoolgirl uniform, x-ray |"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "status": "completed",
   "contentRating": "pornographic",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 1,
+  "version": 3,
   "createdAt": "2020-02-21T21:33:30+00:00",
-  "updatedAt": "2020-02-21T21:33:30+00:00"
+  "updatedAt": "2024-11-19T10:07:27+00:00"
  },
  "relationships": [
   {
    "id": "966dc681-511f-47a9-9f8f-eae24b9ce33a",
    "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Arima Zin",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "966dc681-511f-47a9-9f8f-eae24b9ce33a",
+   "type": "artist",
    "attributes": {
     "biography": {},
     "booth": null,

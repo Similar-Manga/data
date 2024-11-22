@@ -3,14 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Gugure! Shigaraki-san"
+   "en": "Gugure! Shigaraki-san ―Kukure! Kokkuri-san Shigaraki Oji-san Spin-off―"
   },
-  "description": {
-   "en": ""
-  },
+  "altTitles": [
+   {
+    "ja": "愚愚れ！信楽さん ―繰繰れ! コックリさん 信楽おじさんスピンオフ―"
+   }
+  ],
+  "description": {},
   "originalLanguage": "ja",
+  "lastVolume": "4",
+  "lastChapter": "14",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2014,
   "contentRating": "safe",
   "tags": [
    {
@@ -39,9 +45,9 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2018-10-07T00:23:47+00:00",
-  "updatedAt": "2018-10-07T00:23:47+00:00"
+  "updatedAt": "2024-11-19T14:35:25+00:00"
  },
  "relationships": [
   {
@@ -56,6 +62,32 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Midori Endou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "dbfee8a6-42a9-4ecc-937e-9b57adab047d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Souichirou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -97,17 +129,22 @@
    }
   },
   {
-   "id": "b7b875a3-be60-4f41-b138-538a82e60183",
+   "id": "ff8baa72-4ab8-4255-8235-ddb293624b02",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:47:15+00:00",
+    "createdAt": "2024-11-19T14:35:25+00:00",
     "description": "",
-    "fileName": "0c148bfb-d72a-410a-a73c-a56c1cd0c844.jpg",
+    "fileName": "56557317-d309-47bc-b269-8f1c0c3375ef.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:47:15+00:00",
+    "updatedAt": "2024-11-19T14:35:25+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
+  },
+  {
+   "id": "7af709d9-a49e-48c2-b181-15d5a12638a1",
+   "type": "manga",
+   "related": "adapted_from"
   }
  ]
 }

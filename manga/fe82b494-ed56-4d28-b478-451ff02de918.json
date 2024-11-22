@@ -7,10 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "Ningyo no Koe"
+    "ja-ro": "Ningyo no Koe"
    },
    {
-    "en": "人魚の声"
+    "ja": "人魚の声"
    }
   ],
   "description": {
@@ -79,6 +79,18 @@
     }
    },
    {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
     "type": "tag",
     "attributes": {
@@ -89,12 +101,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2020-09-10T18:44:32+00:00",
-  "updatedAt": "2022-01-24T23:24:20+00:00"
+  "updatedAt": "2024-11-20T18:00:09+00:00"
  },
  "relationships": [
   {

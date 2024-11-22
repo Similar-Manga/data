@@ -1,0 +1,162 @@
+{
+ "id": "635ca50e-3ae8-4439-a1ad-9a739f6ded83",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "That Marriage, I’ll Do it in this Life"
+  },
+  "altTitles": [
+   {
+    "ko": "그 결혼, 이번 생엔 제가 할게요"
+   }
+  ],
+  "description": {
+   "en": "After a hazy one-night encounter, Sayna found herself married to George. The end of that hellish marriage? Death. But then, she woke up—summoned back by her twin brother Yuri. Now, she’s returned to her youthful days at nineteen, before everything fell apart! Determined to live differently this time, she swore off marriage entirely. That is… until: \"I want to be that man for you.\" Duke Constantine proposes to her?!"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "42f3db88-1697-4d45-b96a-f852d89dfc38",
+  "tags": [
+   {
+    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Official Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-20T16:42:08+00:00",
+  "updatedAt": "2024-11-20T16:42:12+00:00"
+ },
+ "relationships": [
+  {
+   "id": "bd22712c-541d-44ce-a27a-1a014168761e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-20T16:41:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Parappara",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-20T16:41:42+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1ee8ceb7-999b-4837-99d3-ef6aa1984913",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-12-21T14:45:05+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "More (모레)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-01-13T08:00:53+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "10a7f2d2-b980-4bcf-9b94-8e5566a9d15a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-20T16:42:09+00:00",
+    "description": "",
+    "fileName": "2399be6a-0981-4428-9c45-c299d463ae8c.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-20T16:42:09+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}

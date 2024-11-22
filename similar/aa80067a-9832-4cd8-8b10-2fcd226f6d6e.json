@@ -6,26 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "92b1f007-fe77-4fd5-8802-915e05b8d62b",
-   "title": {
-    "en": "Levius/est"
-   },
-   "contentRating": "safe",
-   "score": 0.29606742,
-   "languages": [
-    "pt-br",
-    "ru"
-   ]
-  },
-  {
-   "id": "5ee080e0-feb5-4de8-9cb1-98a70f9ad4e4",
-   "title": {
-    "en": "Heavy Metal L-Gaim - Under the Sunz"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744
-  },
-  {
    "id": "e1dbc317-0c7d-47b8-b09e-dcafb0d84ff4",
    "title": {
     "en": "Gundam Crossover Notebook"
@@ -39,7 +19,7 @@
     "en": "Edison Fantasy Science"
    },
    "contentRating": "safe",
-   "score": 0.26719195,
+   "score": 0.26719135,
    "languages": [
     "en"
    ]
@@ -50,7 +30,7 @@
     "en": "Shuumatsu no Majo to Ningyou"
    },
    "contentRating": "safe",
-   "score": 0.26670006,
+   "score": 0.26670024,
    "languages": [
     "en"
    ]
@@ -61,15 +41,7 @@
     "en": "Get truth Fang of the Sun Dougram"
    },
    "contentRating": "safe",
-   "score": 0.26626667
-  },
-  {
-   "id": "309366b9-6420-42f5-b413-f647e839b2d7",
-   "title": {
-    "en": "Yakouun no Sarissa"
-   },
-   "contentRating": "safe",
-   "score": 0.2604187
+   "score": 0.2662697
   },
   {
    "id": "ba752895-ca3f-406e-a07b-82dfb030eede",
@@ -80,17 +52,17 @@
    "score": 0.2604187
   },
   {
-   "id": "219fee10-cc76-4efe-b961-3b52b7c298a7",
+   "id": "3f90af26-bd23-4fd1-bf4e-35eaab047777",
    "title": {
-    "en": "Ancient Warrior Haniwatt"
+    "en": "Tetsuzin"
    },
    "contentRating": "safe",
    "score": 0.2569291
   },
   {
-   "id": "3f90af26-bd23-4fd1-bf4e-35eaab047777",
+   "id": "219fee10-cc76-4efe-b961-3b52b7c298a7",
    "title": {
-    "en": "Tetsuzin"
+    "en": "Ancient Warrior Haniwatt"
    },
    "contentRating": "safe",
    "score": 0.2569291
@@ -109,7 +81,27 @@
     "en": "Great Trailers"
    },
    "contentRating": "safe",
-   "score": 0.24003625
+   "score": 0.24003738
+  },
+  {
+   "id": "92b1f007-fe77-4fd5-8802-915e05b8d62b",
+   "title": {
+    "en": "Levius/est"
+   },
+   "contentRating": "safe",
+   "score": 0.23405533,
+   "languages": [
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "5ee080e0-feb5-4de8-9cb1-98a70f9ad4e4",
+   "title": {
+    "en": "Heavy Metal L-Gaim - Under the Sunz"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437
   },
   {
    "id": "87e55d7a-226f-45b0-8666-dfd881ebf124",
@@ -118,6 +110,14 @@
    },
    "contentRating": "safe",
    "score": 0.22980437
+  },
+  {
+   "id": "c937be5c-43ba-477d-9b64-56e2f2125eef",
+   "title": {
+    "en": "Over Gloss"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468
   },
   {
    "id": "1b33e573-9a40-4f51-b542-8696c5c484ac",
@@ -131,12 +131,18 @@
    ]
   },
   {
-   "id": "c937be5c-43ba-477d-9b64-56e2f2125eef",
+   "id": "233f8e31-ef4f-48d8-8fa5-7338ea96ae86",
    "title": {
-    "en": "Over Gloss"
+    "en": "A-DO"
    },
    "contentRating": "safe",
-   "score": 0.22506468
+   "score": 0.22188008,
+   "languages": [
+    "ru",
+    "en",
+    "zh-hk",
+    "pt-br"
+   ]
   },
   {
    "id": "14abf5df-69a5-4ed8-bcfb-5ba5f1786830",
@@ -147,5 +153,5 @@
    "score": 0.22188008
   }
  ],
- "updatedAt": "2024-11-19T20:42:24+00:00"
+ "updatedAt": "2024-11-21T20:45:57+00:00"
 }

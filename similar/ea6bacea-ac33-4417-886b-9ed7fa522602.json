@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "e804f310-709f-4f22-8daa-3a3895b4cce0",
-   "title": {
-    "en": "Tobakuni"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
    "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
    "title": {
     "en": "JUMBO MAX"
@@ -24,6 +16,14 @@
     "en",
     "zh-hk"
    ]
+  },
+  {
+   "id": "e804f310-709f-4f22-8daa-3a3895b4cce0",
+   "title": {
+    "en": "Tobakuni"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
   },
   {
    "id": "278e5d70-00b9-42ea-9cf4-fdcd24615772",
@@ -39,10 +39,18 @@
     "en": "Gekkou -the lunatic-"
    },
    "contentRating": "safe",
-   "score": 0.22268023,
+   "score": 0.22268066,
    "languages": [
     "zh"
    ]
+  },
+  {
+   "id": "dd3b05e2-b664-4cc2-8c0e-1cc03b4cfa73",
+   "title": {
+    "en": "Himuro Renji"
+   },
+   "contentRating": "safe",
+   "score": 0.21690908
   },
   {
    "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
@@ -60,17 +68,9 @@
    ]
   },
   {
-   "id": "dd3b05e2-b664-4cc2-8c0e-1cc03b4cfa73",
+   "id": "b9d97e0e-a1f2-4949-9b48-21b1de7b4505",
    "title": {
-    "en": "Himuro Renji"
-   },
-   "contentRating": "safe",
-   "score": 0.21436577
-  },
-  {
-   "id": "b94122f9-a161-45e2-a0d0-440798cab85f",
-   "title": {
-    "en": "All Last - Willow on the Back Road -"
+    "en": "Jirai Glico"
    },
    "contentRating": "safe",
    "score": 0.21428573
@@ -84,9 +84,9 @@
    "score": 0.21428573
   },
   {
-   "id": "b9d97e0e-a1f2-4949-9b48-21b1de7b4505",
+   "id": "b94122f9-a161-45e2-a0d0-440798cab85f",
    "title": {
-    "en": "Jirai Glico"
+    "en": "All Last - Willow on the Back Road -"
    },
    "contentRating": "safe",
    "score": 0.21428573
@@ -100,20 +100,9 @@
    "score": 0.21428573
   },
   {
-   "id": "3b5ce4ef-ed76-4b70-97c7-52ae2231d6f9",
+   "id": "2474957d-bdb5-4fb5-8f1e-6ff9ea58b960",
    "title": {
-    "en": "Hanzai Koushounin Minegishi Eitarou"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "12411f05-15a4-46c1-ba38-f26cc0ce6778",
-   "title": {
-    "en": "Tower Of Campanella"
+    "en": "Kubukumono"
    },
    "contentRating": "safe",
    "score": 0.20203052
@@ -122,14 +111,6 @@
    "id": "d51474d0-5443-4bb0-8fde-d048d3d4f4f7",
    "title": {
     "en": "Fukushuu Shinjuu"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "2474957d-bdb5-4fb5-8f1e-6ff9ea58b960",
-   "title": {
-    "en": "Kubukumono"
    },
    "contentRating": "safe",
    "score": 0.20203052
@@ -146,13 +127,37 @@
    ]
   },
   {
-   "id": "33c046b5-3d65-472b-8437-083eba0226b6",
+   "id": "3b5ce4ef-ed76-4b70-97c7-52ae2231d6f9",
    "title": {
-    "en": "Oshikatsu Deadline"
+    "en": "Hanzai Koushounin Minegishi Eitarou"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "446a8cf1-067b-436f-b375-61d97ec6895a",
+   "title": {
+    "en": "Senma"
    },
    "contentRating": "safe",
    "score": 0.20203052
+  },
+  {
+   "id": "609ccb17-fd83-4126-876a-5bf8c037b065",
+   "title": {
+    "en": "Sonna Kazoku nara Sutechaeba?"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "es-la",
+    "vi",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-19T21:04:09+00:00"
+ "updatedAt": "2024-11-21T21:07:24+00:00"
 }

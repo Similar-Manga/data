@@ -119,9 +119,9 @@
    }
   ],
   "state": "published",
-  "version": 17,
+  "version": 18,
   "createdAt": "2023-09-08T20:50:15+00:00",
-  "updatedAt": "2024-11-05T16:51:40+00:00"
+  "updatedAt": "2024-11-21T02:24:25+00:00"
  },
  "relationships": [
   {
@@ -153,27 +153,29 @@
    }
   },
   {
-   "id": "afa32db1-3c92-45e8-ade5-b7b4f53fe6e3",
+   "id": "849c8832-23f7-4e5b-8e1b-afc4e59b0994",
    "type": "artist",
    "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2023-09-08T20:30:42+00:00",
+    "biography": {
+     "en": "**Name In Native Language:** 東皓司 (Azuma Kouji)"
+    },
+    "booth": "https://kokokokoma.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Azuma Kouji",
+    "name": "Azuma Kohji",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/230408",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-09-08T20:30:42+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/azumakohji",
+    "updatedAt": "2024-11-21T02:25:51+00:00",
+    "version": 2,
+    "website": "https://zettaireido.gozaru.jp/",
     "weibo": null,
     "youtube": null
    }

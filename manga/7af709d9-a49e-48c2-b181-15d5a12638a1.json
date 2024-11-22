@@ -22,7 +22,7 @@
    "ap": "gugure-kokkuri-san",
    "bw": "series/3332/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/154790/",
-   "engtl": "http://www.crunchyroll.com/comics/manga/gugure-kokkuri-san/volumes",
+   "engtl": "https://global.manga-up.com/manga/487",
    "kt": "21805",
    "mal": "28172",
    "mu": "66776"
@@ -126,9 +126,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2018-09-28T20:37:34+00:00",
-  "updatedAt": "2024-06-11T17:45:20+00:00"
+  "updatedAt": "2024-11-19T14:19:28+00:00"
  },
  "relationships": [
   {
@@ -195,6 +195,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "b15a026c-36a1-42ae-91c1-e4ff953048a5",
+   "type": "manga",
+   "related": "spin_off"
   }
  ]
 }

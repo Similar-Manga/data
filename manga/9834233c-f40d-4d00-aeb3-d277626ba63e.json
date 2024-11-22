@@ -1,0 +1,129 @@
+{
+ "id": "9834233c-f40d-4d00-aeb3-d277626ba63e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shuai Confiture"
+  },
+  "altTitles": [
+   {
+    "ja": "執愛コンフィチュール"
+   }
+  ],
+  "description": {
+   "ja": "「俺はね、ずっと…貴緒さんのこと大好きだったんだ」仕事一筋、男性経験なしの枯れOL・花田貴緒の前に突然現れたのは、学生時代に告白してきた後輩の諫早薫だった。当時は訳あって断った貴緒だが、離れているうちに超エリートになって帰ってきた彼の求愛に困惑する日々。「成長したご褒美に、貴緒さんを俺にちょうだい」７年間拗らせ続けた諫早の恋の暴走が止まりません…!?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CBV9XF3C",
+   "bw": "series/421435",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/768574",
+   "mu": "cwy9wnc"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-21T14:21:54+00:00",
+  "updatedAt": "2024-11-21T14:22:01+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1f004c59-3cae-4b4a-a992-bc8a6b9423e7",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kayano Subaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kayano_subaru",
+    "updatedAt": "2023-02-25T05:12:22+00:00",
+    "version": 2,
+    "website": "https://note.com/kayano_subaru",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c1051dd1-aefd-478f-bc9c-67bbc4990d6c",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-21T14:21:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Wakamoto Yukimi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-21T14:21:03+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5a1081c0-b343-4bee-80ce-58ac979a4a2d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T14:21:57+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "b5fd4f0b-c9cf-492f-8e42-3e8e4af0775c.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-21T14:21:57+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "fc37e718-7f97-40ba-bf27-78dbac642970",
-   "title": {
-    "en": "LIFESTEAL"
-   },
-   "contentRating": "safe",
-   "score": 0.22563615,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "fb407ebc-6830-44bf-b1ed-9ea1720b98ca",
    "title": {
     "en": "Zanzai Shounen"
@@ -30,12 +19,12 @@
    ]
   },
   {
-   "id": "d1aefdeb-09d1-4e70-8edc-9ae611ce0da5",
+   "id": "fc37e718-7f97-40ba-bf27-78dbac642970",
    "title": {
-    "en": "N"
+    "en": "LIFESTEAL"
    },
    "contentRating": "safe",
-   "score": 0.2182788,
+   "score": 0.22161666,
    "languages": [
     "en"
    ]
@@ -49,6 +38,17 @@
    "score": 0.21735023,
    "languages": [
     "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "d1aefdeb-09d1-4e70-8edc-9ae611ce0da5",
+   "title": {
+    "en": "N"
+   },
+   "contentRating": "safe",
+   "score": 0.21684654,
+   "languages": [
     "en"
    ]
   },
@@ -67,17 +67,6 @@
    ]
   },
   {
-   "id": "d885957b-617d-4609-a892-4ad4b2e256d6",
-   "title": {
-    "en": "77 Billion Disasters"
-   },
-   "contentRating": "safe",
-   "score": 0.20376794,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "14d7b27d-44ef-4b74-9f4e-d85123bcdd25",
    "title": {
     "en": "Ijou Shitai Kaibou File"
@@ -89,12 +78,12 @@
    ]
   },
   {
-   "id": "7ddd43c2-917e-4aad-8703-8ed584eb1815",
+   "id": "d885957b-617d-4609-a892-4ad4b2e256d6",
    "title": {
-    "en": "Noroi Factory"
+    "en": "77 Billion Disasters"
    },
    "contentRating": "safe",
-   "score": 0.19166298,
+   "score": 0.19641617,
    "languages": [
     "en"
    ]
@@ -111,50 +100,14 @@
    ]
   },
   {
-   "id": "a289003f-5462-46ad-8d34-ae278aba8e35",
+   "id": "7ddd43c2-917e-4aad-8703-8ed584eb1815",
    "title": {
-    "en": "Dorohedoro All Star Directory Complete Edition"
+    "en": "Noroi Factory"
    },
    "contentRating": "safe",
-   "score": 0.19164282,
-   "languages": [
-    "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "ed779991-82e0-412e-81a3-5c817319cc30",
-   "title": {
-    "en": "Diary About the Loving Care of High School Boys"
-   },
-   "contentRating": "safe",
-   "score": 0.18823081,
+   "score": 0.19166298,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "06ad1c64-072d-4d2c-a60f-c40f2543420e",
-   "title": {
-    "en": "Zange"
-   },
-   "contentRating": "safe",
-   "score": 0.18823081,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "21e80bd8-cabf-4c49-86da-72f92255f248",
-   "title": {
-    "en": "Shin Tokyo"
-   },
-   "contentRating": "safe",
-   "score": 0.18823081,
-   "languages": [
-    "fr",
-    "en",
-    "it"
    ]
   },
   {
@@ -169,16 +122,13 @@
    ]
   },
   {
-   "id": "d5166c97-9cf1-4a0a-b8ec-c9577752687e",
+   "id": "06ad1c64-072d-4d2c-a60f-c40f2543420e",
    "title": {
-    "en": "Jinjori Barai"
+    "en": "Zange"
    },
    "contentRating": "safe",
    "score": 0.18823081,
    "languages": [
-    "id",
-    "it",
-    "pt-br",
     "en"
    ]
   },
@@ -197,7 +147,57 @@
     "it",
     "tr"
    ]
+  },
+  {
+   "id": "ed779991-82e0-412e-81a3-5c817319cc30",
+   "title": {
+    "en": "Diary About the Loving Care of High School Boys"
+   },
+   "contentRating": "safe",
+   "score": 0.18823081,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d5166c97-9cf1-4a0a-b8ec-c9577752687e",
+   "title": {
+    "en": "Jinjori Barai"
+   },
+   "contentRating": "safe",
+   "score": 0.18823081,
+   "languages": [
+    "id",
+    "it",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "21e80bd8-cabf-4c49-86da-72f92255f248",
+   "title": {
+    "en": "Shin Tokyo"
+   },
+   "contentRating": "safe",
+   "score": 0.18823081,
+   "languages": [
+    "fr",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "a289003f-5462-46ad-8d34-ae278aba8e35",
+   "title": {
+    "en": "Dorohedoro All Star Directory Complete Edition"
+   },
+   "contentRating": "safe",
+   "score": 0.18213008,
+   "languages": [
+    "zh",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-19T20:54:20+00:00"
+ "updatedAt": "2024-11-21T20:57:44+00:00"
 }

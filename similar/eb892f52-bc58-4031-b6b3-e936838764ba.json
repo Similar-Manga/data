@@ -11,7 +11,18 @@
     "en": "Victim"
    },
    "contentRating": "safe",
-   "score": 0.30521926,
+   "score": 0.3052267,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "107dfe51-caf8-4deb-9c60-a73c6fe2d9b6",
+   "title": {
+    "en": "Maya - Midnight Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.26579183,
    "languages": [
     "en"
    ]
@@ -22,7 +33,7 @@
     "en": "Mukuchi na Bakemono wa Yoru ni Naku"
    },
    "contentRating": "safe",
-   "score": 0.2517887,
+   "score": 0.2517965,
    "languages": [
     "en"
    ]
@@ -33,7 +44,7 @@
     "en": "Battle in 5 Seconds After Meeting"
    },
    "contentRating": "safe",
-   "score": 0.24769306,
+   "score": 0.24768017,
    "languages": [
     "en",
     "vi",
@@ -50,7 +61,7 @@
     "en": "School Back"
    },
    "contentRating": "safe",
-   "score": 0.23101464,
+   "score": 0.2310122,
    "languages": [
     "vi",
     "es-la",
@@ -65,7 +76,7 @@
     "en": "Gakusen Toshi Asterisk Gaiden - Queenveil no Tsubasa"
    },
    "contentRating": "safe",
-   "score": 0.21339521,
+   "score": 0.2133954,
    "languages": [
     "en"
    ]
@@ -76,7 +87,7 @@
     "en": "Kunigei - Okuni University Art Department Film Program"
    },
    "contentRating": "safe",
-   "score": 0.21247137,
+   "score": 0.21247298,
    "languages": [
     "en"
    ]
@@ -87,7 +98,7 @@
     "en": "777"
    },
    "contentRating": "safe",
-   "score": 0.20820145,
+   "score": 0.20821068,
    "languages": [
     "en",
     "ru"
@@ -99,7 +110,7 @@
     "en": "Hajime no Ippo - The First Step"
    },
    "contentRating": "safe",
-   "score": 0.20772348,
+   "score": 0.20772481,
    "languages": [
     "en",
     "ar",
@@ -114,23 +125,12 @@
    ]
   },
   {
-   "id": "107dfe51-caf8-4deb-9c60-a73c6fe2d9b6",
-   "title": {
-    "en": "Maya - Midnight Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.20746231,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9259da7a-d9e1-4dfb-bb93-a2c0c0ce83c3",
    "title": {
     "en": "Twisted Positions Do Not Intersect"
    },
    "contentRating": "safe",
-   "score": 0.20695904,
+   "score": 0.20696163,
    "languages": [
     "en"
    ]
@@ -141,57 +141,12 @@
     "en": "Ana no Mujina"
    },
    "contentRating": "safe",
-   "score": 0.20215936,
+   "score": 0.20216613,
    "languages": [
     "en",
     "it",
     "es-la",
     "es"
-   ]
-  },
-  {
-   "id": "6cd8ae64-94bc-4833-b596-fe1f881e8bd6",
-   "title": {
-    "en": "Crows Respect"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "21666dcf-1257-497d-9647-e4bb63411137",
-   "title": {
-    "en": "Atrail - Nisekawiteki Nichijou to Senmitsu Element"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e7562ba1-5ad1-4f5a-a903-ef56efad0c1a",
-   "title": {
-    "en": "Fireman Daigo - Rescuer in Orange"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "c72e1bda-5b36-4169-b260-e87ae846c37e",
-   "title": {
-    "en": "Drop OG"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -215,9 +170,55 @@
     "fr",
     "cs",
     "hu",
+    "es",
     "de"
+   ]
+  },
+  {
+   "id": "c72e1bda-5b36-4169-b260-e87ae846c37e",
+   "title": {
+    "en": "Drop OG"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "6cd8ae64-94bc-4833-b596-fe1f881e8bd6",
+   "title": {
+    "en": "Crows Respect"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "e7562ba1-5ad1-4f5a-a903-ef56efad0c1a",
+   "title": {
+    "en": "Fireman Daigo - Rescuer in Orange"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "21666dcf-1257-497d-9647-e4bb63411137",
+   "title": {
+    "en": "Atrail - Nisekawiteki Nichijou to Senmitsu Element"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2024-11-19T21:04:31+00:00"
+ "updatedAt": "2024-11-21T21:07:45+00:00"
 }

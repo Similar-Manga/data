@@ -11,7 +11,7 @@
     "en": "Hisureba, Hana"
    },
    "contentRating": "safe",
-   "score": 0.2423162
+   "score": 0.2422206
   },
   {
    "id": "b57f4896-3378-4fb8-917b-c53d05ec254b",
@@ -19,7 +19,7 @@
     "en": "Sakura no Mori no Oni Kurashi"
    },
    "contentRating": "safe",
-   "score": 0.24010457
+   "score": 0.24001725
   },
   {
    "id": "07715f33-446d-42ca-9f8e-53d78595457c",
@@ -27,7 +27,7 @@
     "en": "Silhouette of Darkness"
    },
    "contentRating": "safe",
-   "score": 0.22538179
+   "score": 0.22523278
   },
   {
    "id": "58cc0abd-8639-4b75-83a0-436aea7893ad",
@@ -49,12 +49,35 @@
    "score": 0.22131334
   },
   {
+   "id": "c786cf97-ed81-4257-818a-e836eb4e2c3e",
+   "title": {
+    "en": "The Animal Sacrifice"
+   },
+   "contentRating": "safe",
+   "score": 0.21729074,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "6f35b5b8-abb5-4715-bbe7-05d5d9e74ee0",
+   "title": {
+    "en": "Dark Hunter - Houkago no Futari"
+   },
+   "contentRating": "safe",
+   "score": 0.21636614,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "cbdb1f8c-c6d9-4b4f-9724-45ca15e3464f",
    "title": {
     "en": "Barista Seimei - Shinrei Soudan wo Ukeshimasu"
    },
    "contentRating": "safe",
-   "score": 0.21175496
+   "score": 0.21166204
   },
   {
    "id": "b713d3bf-27ae-4a96-a52a-ee80e22c667c",
@@ -68,72 +91,12 @@
    ]
   },
   {
-   "id": "6f35b5b8-abb5-4715-bbe7-05d5d9e74ee0",
-   "title": {
-    "en": "Dark Hunter - Houkago no Futari"
-   },
-   "contentRating": "safe",
-   "score": 0.20806932,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f8345025-5d44-4f0a-86e3-862fd0de1c5d",
-   "title": {
-    "en": "Sayonara Limit"
-   },
-   "contentRating": "safe",
-   "score": 0.20346893,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "8e49e874-ac77-4e30-ae44-60ec7a1ac05a",
    "title": {
     "en": "Tsukimono Bukken Arimasu"
    },
    "contentRating": "safe",
-   "score": 0.20252728
-  },
-  {
-   "id": "a298810b-4dd2-405c-bd6c-c70b923f31ba",
-   "title": {
-    "en": "Kuro no Taiyou Gin no Tsuki"
-   },
-   "contentRating": "safe",
-   "score": 0.20195715
-  },
-  {
-   "id": "1dbbb0c2-2fa7-4140-828e-2f8ffcd3326d",
-   "title": {
-    "en": "The Psychic Business Corporation"
-   },
-   "contentRating": "safe",
-   "score": 0.20132972,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fa9c9b46-08d6-4482-b266-342a83c9f3cc",
-   "title": {
-    "en": "Gifted"
-   },
-   "contentRating": "safe",
-   "score": 0.19506991,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "81523d00-7732-4b99-bdd3-7a0d1dbe5441",
-   "title": {
-    "en": "The Devil Never Sleeps"
-   },
-   "contentRating": "safe",
-   "score": 0.1940126
+   "score": 0.20546083
   },
   {
    "id": "c6076754-a638-4ab1-ad39-92e870a6499b",
@@ -141,16 +104,57 @@
     "en": "Ganbare! Goshujinsama"
    },
    "contentRating": "safe",
-   "score": 0.19334175
+   "score": 0.204667
   },
   {
-   "id": "b0293929-086d-478e-866e-d700bcee09c3",
+   "id": "f8345025-5d44-4f0a-86e3-862fd0de1c5d",
    "title": {
-    "en": "Spider Woman"
+    "en": "Sayonara Limit"
    },
    "contentRating": "safe",
-   "score": 0.19305769
+   "score": 0.20341635,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a298810b-4dd2-405c-bd6c-c70b923f31ba",
+   "title": {
+    "en": "Kuro no Taiyou Gin no Tsuki"
+   },
+   "contentRating": "safe",
+   "score": 0.20191023
+  },
+  {
+   "id": "1dbbb0c2-2fa7-4140-828e-2f8ffcd3326d",
+   "title": {
+    "en": "The Psychic Business Corporation"
+   },
+   "contentRating": "safe",
+   "score": 0.20111217,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b95240b4-f7c9-4ffd-b424-a3b8a55ee28b",
+   "title": {
+    "en": "My Lovely Two-Two"
+   },
+   "contentRating": "safe",
+   "score": 0.19822694
+  },
+  {
+   "id": "fa9c9b46-08d6-4482-b266-342a83c9f3cc",
+   "title": {
+    "en": "Gifted"
+   },
+   "contentRating": "safe",
+   "score": 0.19495958,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-19T20:51:25+00:00"
+ "updatedAt": "2024-11-21T20:54:50+00:00"
 }

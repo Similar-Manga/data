@@ -24,8 +24,9 @@
   },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0C2V8WCV4",
-   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1392862?s_ssid=e36a7f5f851632cf26",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/172680/A000149885/"
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1392862",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/172680/A000149885/",
+   "raw": "https://www.shogakukan.co.jp/books/volume/30026"
   },
   "originalLanguage": "ja",
   "lastVolume": "13",
@@ -103,9 +104,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 9,
   "createdAt": "2020-08-21T18:33:03+00:00",
-  "updatedAt": "2024-07-09T02:27:18+00:00"
+  "updatedAt": "2024-11-19T20:34:16+00:00"
  },
  "relationships": [
   {
@@ -161,16 +162,16 @@
    }
   },
   {
-   "id": "9753f620-0294-4f8b-bb0d-6fad23ae3b3c",
+   "id": "b1372f2a-da4a-4d78-ab89-2905e3d61229",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:07:26+00:00",
+    "createdAt": "2023-08-08T15:40:34+00:00",
     "description": "",
-    "fileName": "ef96002a-12aa-45cd-b5d5-34f7aca3eaf9.jpg",
+    "fileName": "f501259c-7aae-4c5c-895b-664931da5585.png",
     "locale": "ja",
-    "updatedAt": "2022-02-19T04:10:49+00:00",
-    "version": 2,
-    "volume": "1"
+    "updatedAt": "2023-08-08T15:40:34+00:00",
+    "version": 1,
+    "volume": "13"
    }
   },
   {

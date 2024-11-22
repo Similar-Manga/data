@@ -23,7 +23,7 @@
     "en": "Lunchtime Accomplice"
    },
    "contentRating": "safe",
-   "score": 0.2588749,
+   "score": 0.25887218,
    "languages": [
     "vi",
     "en"
@@ -35,7 +35,7 @@
     "en": "A Story About Spending a Little More Time With an Eccentric Girl"
    },
    "contentRating": "safe",
-   "score": 0.25826517,
+   "score": 0.25826806,
    "languages": [
     "fr",
     "id",
@@ -54,13 +54,27 @@
     "en": "Saguri-san Tankentai"
    },
    "contentRating": "safe",
-   "score": 0.25451773,
+   "score": 0.25453627,
    "languages": [
     "fr",
     "ru",
     "en",
     "pt-br",
     "id"
+   ]
+  },
+  {
+   "id": "70cbe9e0-b1d2-4b29-8dfa-205123ae758a",
+   "title": {
+    "en": "Ponytail ni Yureru"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "en",
+    "vi"
    ]
   },
   {
@@ -72,43 +86,6 @@
    "score": 0.24692619,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "e3e9cba6-81ed-4ac9-ad39-e19d508e9659",
-   "title": {
-    "en": "Koto no Ha"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "1be5941a-4a4a-4f89-b48d-2f32624cd7d8",
-   "title": {
-    "en": "Sukini Nattara, Owari"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "ko",
-    "",
-    "en"
-   ]
-  },
-  {
-   "id": "f730a35b-61f9-475f-b48d-7225cad36dd3",
-   "title": {
-    "en": "Tonari no Koitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "vi"
    ]
   },
   {
@@ -130,17 +107,6 @@
    ]
   },
   {
-   "id": "09bde10b-2bdb-46bd-9ea2-00861eea7365",
-   "title": {
-    "en": "One Bowl of Soupy Cheese Gyudon"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "36b0543a-a3bf-4e9a-a772-cc9c2324e10e",
    "title": {
     "en": "Toufuu (Fu)kenbunroku"
@@ -152,16 +118,30 @@
    ]
   },
   {
-   "id": "8378c61b-0317-4b84-a9fd-eb090f2cac54",
+   "id": "09bde10b-2bdb-46bd-9ea2-00861eea7365",
    "title": {
-    "en": "Welcome Home, Kazu-kun"
+    "en": "One Bowl of Soupy Cheese Gyudon"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bbd33493-bbaa-48bd-9a0e-1118c4133e68",
+   "title": {
+    "en": "Doku Doku"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "ar",
     "pt-br",
+    "es-la",
     "en",
-    "id"
+    "fr",
+    "ca"
    ]
   },
   {
@@ -179,29 +159,16 @@
    ]
   },
   {
-   "id": "70cbe9e0-b1d2-4b29-8dfa-205123ae758a",
+   "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
    "title": {
-    "en": "Ponytail ni Yureru"
+    "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "es-la",
+    "es",
+    "th",
     "pt-br",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "f4a3f498-4751-4821-8560-df0dbcacb194",
-   "title": {
-    "en": "Ore no Imouto wa Shinonome-san"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "zh-hk",
-    "de",
     "vi",
     "en"
    ]
@@ -219,7 +186,44 @@
     "vi",
     "id"
    ]
+  },
+  {
+   "id": "f730a35b-61f9-475f-b48d-7225cad36dd3",
+   "title": {
+    "en": "Tonari no Koitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "1be5941a-4a4a-4f89-b48d-2f32624cd7d8",
+   "title": {
+    "en": "Sukini Nattara, Owari"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "ko",
+    "",
+    "en"
+   ]
+  },
+  {
+   "id": "e3e9cba6-81ed-4ac9-ad39-e19d508e9659",
+   "title": {
+    "en": "Koto no Ha"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "vi",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-19T20:16:59+00:00"
+ "updatedAt": "2024-11-21T20:20:52+00:00"
 }

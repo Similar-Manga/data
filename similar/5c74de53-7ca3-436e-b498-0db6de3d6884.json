@@ -6,12 +6,39 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "db882a6e-6716-47bc-b031-c420f42d08d5",
+   "title": {
+    "en": "Whimsy Whimsy Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.33880186,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "a1bd0965-7ea2-40e0-b686-5dcddacdd0c6",
+   "title": {
+    "en": "Mermaid Boys"
+   },
+   "contentRating": "safe",
+   "score": 0.32427973,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "56e4066a-1616-4ab5-9033-071e8aeec5c2",
    "title": {
     "en": "My Little Tyrant"
    },
    "contentRating": "safe",
-   "score": 0.2793367,
+   "score": 0.27933997,
    "languages": [
     "es-la"
    ]
@@ -22,7 +49,7 @@
     "en": "Shuuen no Majo to Sekai no Tabi"
    },
    "contentRating": "safe",
-   "score": 0.26843688,
+   "score": 0.2684668,
    "languages": [
     "es-la"
    ]
@@ -33,7 +60,7 @@
     "en": "A Smartphone in Love (Preserialization)"
    },
    "contentRating": "safe",
-   "score": 0.26290295,
+   "score": 0.26709926,
    "languages": [
     "id",
     "en",
@@ -46,7 +73,7 @@
     "en": "Kawaii Koi wa Kikazaranai"
    },
    "contentRating": "safe",
-   "score": 0.26049036,
+   "score": 0.2604961,
    "languages": [
     "es-la",
     "en",
@@ -64,22 +91,35 @@
     "en": "Adults Who Don't Understand Love (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.2550888,
+   "score": 0.25508946,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "91ec66fd-1bfe-4a2f-a734-44922e0f012e",
+   "id": "06c1b6d6-4134-464b-b64b-cad2c1b80386",
    "title": {
-    "en": "Otousan's Short Story: Little Witch Tries to Fly With a Broom"
+    "en": "Youbi Goto ni Jinkaku ga Irekawaru Kanojo no Manga"
    },
    "contentRating": "safe",
-   "score": 0.2507168,
+   "score": 0.24743582,
    "languages": [
-    "fr",
     "en",
+    "es-la",
+    "ru",
+    "tr",
+    "id"
+   ]
+  },
+  {
+   "id": "6d37361a-43c0-4ab6-9be0-38d3c3660c58",
+   "title": {
+    "en": "Cheat de Katei Saien: Tabun Watashi ga Seirei Hime Dakedo, Hoka ni Nanorideta Mono ga Iru no de, Katei Saien Shichaimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
     "es-la"
    ]
   },
@@ -94,28 +134,6 @@
     "en",
     "es-la",
     "pt-br"
-   ]
-  },
-  {
-   "id": "b0385f4a-587d-4b64-82f7-44e6314c888c",
-   "title": {
-    "en": "How I Failed To Save The World"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
-   "id": "6d37361a-43c0-4ab6-9be0-38d3c3660c58",
-   "title": {
-    "en": "Cheat de Katei Saien: Tabun Watashi ga Seirei Hime Dakedo, Hoka ni Nanorideta Mono ga Iru no de, Katei Saien Shichaimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "es-la"
    ]
   },
   {
@@ -140,18 +158,27 @@
    ]
   },
   {
-   "id": "06c1b6d6-4134-464b-b64b-cad2c1b80386",
+   "id": "b0385f4a-587d-4b64-82f7-44e6314c888c",
    "title": {
-    "en": "Youbi Goto ni Jinkaku ga Irekawaru Kanojo no Manga"
+    "en": "How I Failed To Save The World"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "9245cbc9-d95b-4c1a-9607-e771d6d4230f",
+   "title": {
+    "en": "A Story About Making a Blood Pact with My Childhood Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "vi",
     "en",
-    "es-la",
-    "ru",
-    "tr",
-    "id"
+    "es-la"
    ]
   },
   {
@@ -168,16 +195,16 @@
    ]
   },
   {
-   "id": "a1bd0965-7ea2-40e0-b686-5dcddacdd0c6",
+   "id": "91ec66fd-1bfe-4a2f-a734-44922e0f012e",
    "title": {
-    "en": "Mermaid Boys"
+    "en": "Otousan's Short Story: Little Witch Tries to Fly With a Broom"
    },
    "contentRating": "safe",
-   "score": 0.24208926,
+   "score": 0.24736385,
    "languages": [
-    "pt-br",
-    "es-la",
-    "en"
+    "fr",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -186,49 +213,11 @@
     "en": "Charlotte's Wheel"
    },
    "contentRating": "safe",
-   "score": 0.24033368,
+   "score": 0.24034537,
    "languages": [
     "es-la"
-   ]
-  },
-  {
-   "id": "4ea25c92-c07f-43ff-a05a-3def92d15810",
-   "title": {
-    "en": "The Witch and Me"
-   },
-   "contentRating": "safe",
-   "score": 0.234793,
-   "languages": [
-    "fr",
-    "tr",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "30f3ac69-21b6-45ad-a110-d011b7aaadaa",
-   "title": {
-    "en": "Tonikaku Kawaii"
-   },
-   "contentRating": "safe",
-   "score": 0.23479089,
-   "languages": [
-    "en",
-    "vi",
-    "tr",
-    "pt-br",
-    "es-la",
-    "it",
-    "id",
-    "ru",
-    "pl",
-    "fr",
-    "uk",
-    "ar",
-    "de",
-    "es"
    ]
   }
  ],
- "updatedAt": "2024-11-19T20:15:34+00:00"
+ "updatedAt": "2024-11-21T20:19:28+00:00"
 }

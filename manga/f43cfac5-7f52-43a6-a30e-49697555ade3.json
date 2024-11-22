@@ -82,9 +82,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2018-08-30T16:23:28+00:00",
-  "updatedAt": "2024-01-20T14:00:18+00:00"
+  "updatedAt": "2024-11-21T04:07:28+00:00"
  },
  "relationships": [
   {
@@ -142,27 +142,29 @@
    }
   },
   {
-   "id": "e97a0fae-061a-46b2-99bf-a2256597e29c",
+   "id": "cc3a6e45-26d4-4674-bc41-5729d37d2cf6",
    "type": "author",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Name In Native Language:** ねこみんと (Nekominto)\n\n**Other Romanizations:**\nneco mint\nNeko Mint"
+    },
+    "booth": "https://necominto.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Nekominto",
+    "name": "Nekomint",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/1698462",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/nek0m1nt",
+    "updatedAt": "2024-11-21T04:06:10+00:00",
+    "version": 2,
+    "website": "http://nekomint22310.blog119.fc2.com/",
     "weibo": null,
     "youtube": null
    }
@@ -278,27 +280,29 @@
    }
   },
   {
-   "id": "e97a0fae-061a-46b2-99bf-a2256597e29c",
+   "id": "cc3a6e45-26d4-4674-bc41-5729d37d2cf6",
    "type": "artist",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Name In Native Language:** ねこみんと (Nekominto)\n\n**Other Romanizations:**\nneco mint\nNeko Mint"
+    },
+    "booth": "https://necominto.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Nekominto",
+    "name": "Nekomint",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/1698462",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/nek0m1nt",
+    "updatedAt": "2024-11-21T04:06:10+00:00",
+    "version": 2,
+    "website": "http://nekomint22310.blog119.fc2.com/",
     "weibo": null,
     "youtube": null
    }

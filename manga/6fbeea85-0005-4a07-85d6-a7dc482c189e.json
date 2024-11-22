@@ -26,6 +26,9 @@
    },
    {
     "ko": "안녕, 나의 폐하"
+   },
+   {
+    "ja": "さよならまたね、僕の王1"
    }
   ],
   "description": {
@@ -160,9 +163,9 @@
    }
   ],
   "state": "published",
-  "version": 18,
+  "version": 19,
   "createdAt": "2022-08-23T05:59:06+00:00",
-  "updatedAt": "2024-10-14T13:47:45+00:00"
+  "updatedAt": "2024-11-20T16:24:07+00:00"
  },
  "relationships": [
   {
@@ -170,7 +173,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "Chinese comic artist.\n\nAlternate Names:\nW.Y\n温远\n"
+     "en": "Chinese comic artist. Alternate Names: W.Y, 温远, ウェン・ユアン"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -186,10 +189,10 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2023-10-16T19:27:28+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-20T16:25:28+00:00",
+    "version": 7,
     "website": null,
-    "weibo": null,
+    "weibo": "https://weibo.com/u/5713367645",
     "youtube": null
    }
   },
@@ -198,7 +201,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "Chinese comic artist.\n\nAlternate Names:\nW.Y\n温远\n"
+     "en": "Chinese comic artist. Alternate Names: W.Y, 温远, ウェン・ユアン"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -214,10 +217,10 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2023-10-16T19:27:28+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-20T16:25:28+00:00",
+    "version": 7,
     "website": null,
-    "weibo": null,
+    "weibo": "https://weibo.com/u/5713367645",
     "youtube": null
    }
   },

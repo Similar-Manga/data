@@ -6,25 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c39495e5-86db-4605-bf3b-939527ffec4f",
-   "title": {
-    "en": "Bitter \u0026 Sugar Life"
-   },
-   "contentRating": "safe",
-   "score": 0.22489855
-  },
-  {
-   "id": "3855cf91-0a14-4f42-a598-349da1d0d12e",
-   "title": {
-    "en": "Hana wa Docchida"
-   },
-   "contentRating": "safe",
-   "score": 0.22298329,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "938e12d2-6be0-4f7c-8f6b-8e87fa946132",
    "title": {
     "en": "PriPara"
@@ -33,12 +14,15 @@
    "score": 0.22131334
   },
   {
-   "id": "c8f1a132-b84d-46a0-95e2-ef27dc160854",
+   "id": "3855cf91-0a14-4f42-a598-349da1d0d12e",
    "title": {
-    "en": "Charm Angel -Star Angel-"
+    "en": "Hana wa Docchida"
    },
    "contentRating": "safe",
-   "score": 0.21998806
+   "score": 0.21921957,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "6d8fa202-711e-4f82-816d-1f347f0c5e47",
@@ -46,7 +30,7 @@
     "en": "Sensei no Susume"
    },
    "contentRating": "safe",
-   "score": 0.21795273,
+   "score": 0.21181047,
    "languages": [
     "en"
    ]
@@ -57,19 +41,7 @@
     "en": "Koufuku Daibu"
    },
    "contentRating": "safe",
-   "score": 0.21405536
-  },
-  {
-   "id": "c1483276-d3cc-43ad-861c-69574c0234f9",
-   "title": {
-    "en": "Mysterious Alice"
-   },
-   "contentRating": "safe",
-   "score": 0.21222174,
-   "languages": [
-    "fr",
-    "en"
-   ]
+   "score": 0.21132271
   },
   {
    "id": "7cb2abf3-f1d6-403e-b3a7-21d38cbf0b05",
@@ -77,15 +49,27 @@
     "en": "Michika to Hoshi no Uta"
    },
    "contentRating": "safe",
-   "score": 0.21183014
+   "score": 0.20935714
   },
   {
-   "id": "073c143d-987f-4fbc-8eb9-eec1e0fb5bd7",
+   "id": "c1483276-d3cc-43ad-861c-69574c0234f9",
    "title": {
-    "en": "Agent Angel"
+    "en": "Mysterious Alice"
    },
    "contentRating": "safe",
-   "score": 0.21073742
+   "score": 0.20674075,
+   "languages": [
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "c8f1a132-b84d-46a0-95e2-ef27dc160854",
+   "title": {
+    "en": "Charm Angel -Star Angel-"
+   },
+   "contentRating": "safe",
+   "score": 0.20552853
   },
   {
    "id": "8c5910a5-a256-4a7e-ad72-aade1d309e2c",
@@ -93,30 +77,7 @@
     "en": "Angel Oil"
    },
    "contentRating": "safe",
-   "score": 0.21035233,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1ea8345f-9173-474f-ae4f-a4bd2dab8075",
-   "title": {
-    "en": "Loser Fox"
-   },
-   "contentRating": "safe",
-   "score": 0.20853335,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "aae1d0b5-1d98-4d7d-acc7-76a638af59bc",
-   "title": {
-    "en": "Nurse Angel Ririka SOS"
-   },
-   "contentRating": "safe",
-   "score": 0.20542438,
+   "score": 0.20509122,
    "languages": [
     "en"
    ]
@@ -127,15 +88,26 @@
     "en": "Fairytale Little Princess"
    },
    "contentRating": "safe",
-   "score": 0.20358476
+   "score": 0.20206596
   },
   {
-   "id": "b2da4149-ca6c-43cc-80a1-a15d9f6d7263",
+   "id": "aae1d0b5-1d98-4d7d-acc7-76a638af59bc",
    "title": {
-    "en": "Prism Paradise"
+    "en": "Nurse Angel Ririka SOS"
    },
    "contentRating": "safe",
-   "score": 0.20203052
+   "score": 0.20073295,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "073c143d-987f-4fbc-8eb9-eec1e0fb5bd7",
+   "title": {
+    "en": "Agent Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.19982734
   },
   {
    "id": "5124c185-31a8-488c-9dc4-e4be9614520c",
@@ -143,20 +115,47 @@
     "en": "Katatsumuri Zensen"
    },
    "contentRating": "safe",
-   "score": 0.20071688
+   "score": 0.19952981
   },
   {
-   "id": "cdd0b6a3-73ae-4ff5-8a44-eba244aee1bc",
+   "id": "c39495e5-86db-4605-bf3b-939527ffec4f",
    "title": {
-    "en": "Charm Angel"
+    "en": "Bitter \u0026 Sugar Life"
    },
    "contentRating": "safe",
-   "score": 0.19597732,
+   "score": 0.19887699
+  },
+  {
+   "id": "1ea8345f-9173-474f-ae4f-a4bd2dab8075",
+   "title": {
+    "en": "Loser Fox"
+   },
+   "contentRating": "safe",
+   "score": 0.19049092,
    "languages": [
-    "pl",
+    "ru",
     "en"
    ]
+  },
+  {
+   "id": "39479a44-35ff-46d1-9ecd-bd82fba8cfb0",
+   "title": {
+    "en": "Hime-chan no Ribbon Colorful"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7971d4e6-4824-48a5-b3da-c31cd4d45427",
+   "title": {
+    "en": "D'Princess"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621
   }
  ],
- "updatedAt": "2024-11-19T20:42:19+00:00"
+ "updatedAt": "2024-11-21T20:45:52+00:00"
 }

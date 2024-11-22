@@ -1,0 +1,134 @@
+{
+ "id": "bc141315-814e-4cda-a822-486185fc171b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "TimeTuber Yukari"
+  },
+  "altTitles": [
+   {
+    "ja": "TimeTuberゆかり"
+   }
+  ],
+  "description": {
+   "en": "High school girl Yukari travels back in time to the Shouwa Era with the power of the mysterious clock Deus Ex Machina. Then, she comes into contact with the culture of arcade games and G.I. Joe."
+  },
+  "links": {
+   "al": "168229",
+   "amz": "https://www.amazon.co.jp/dp/B0DJB5DK6P",
+   "bw": "series/491471",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/863589/",
+   "mu": "5zdquee"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-21T00:00:25+00:00",
+  "updatedAt": "2024-11-21T00:02:02+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1cd79d33-68b3-4879-b67a-834055ef99eb",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 秋本治"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akimoto Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-20T23:40:04+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1cd79d33-68b3-4879-b67a-834055ef99eb",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 秋本治"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akimoto Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-20T23:40:04+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e4833f52-1351-4aa6-8aa2-2136507e7b87",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T00:00:33+00:00",
+    "description": "",
+    "fileName": "46d9a0d3-40bd-4693-8fe5-8b32999cd09e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-21T00:00:33+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

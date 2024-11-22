@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
+   "title": {
+    "en": "Sunny"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "78a664a7-2f4e-464b-b925-92984012f00c",
    "title": {
     "en": "Anata ga Shite Kurenakute mo"
@@ -19,23 +30,12 @@
    ]
   },
   {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
-   "title": {
-    "en": "Sunny"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "685d41b3-6619-422b-85cf-0b9112d4727f",
    "title": {
     "en": "Sight of 133 Centimeters Tall"
    },
    "contentRating": "safe",
-   "score": 0.23993585,
+   "score": 0.2399421,
    "languages": [
     "en"
    ]
@@ -58,7 +58,7 @@
     "en": "Kemutai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.22098224,
+   "score": 0.22098108,
    "languages": [
     "en",
     "zh-hk"
@@ -70,9 +70,23 @@
     "en": "Otona no Zukan Kaiteiban"
    },
    "contentRating": "safe",
-   "score": 0.2199171,
+   "score": 0.21990757,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
+   "title": {
+    "en": "Arte"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi",
+    "es-la"
    ]
   },
   {
@@ -99,17 +113,6 @@
    ]
   },
   {
-   "id": "d1346aa4-3193-4a9b-8ada-ebdf957e8919",
-   "title": {
-    "en": "Ai to Ao no Kyoukai"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "3c0ea6e5-2202-4e18-82d8-2a078e0ac336",
    "title": {
     "en": "SA07"
@@ -121,17 +124,14 @@
    ]
   },
   {
-   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
+   "id": "d1346aa4-3193-4a9b-8ada-ebdf957e8919",
    "title": {
-    "en": "Arte"
+    "en": "Ai to Ao no Kyoukai"
    },
    "contentRating": "safe",
    "score": 0.2163632,
    "languages": [
-    "en",
-    "pt-br",
-    "vi",
-    "es-la"
+    "en"
    ]
   },
   {
@@ -151,21 +151,34 @@
     "en": "Good Weather"
    },
    "contentRating": "safe",
-   "score": 0.21102096,
+   "score": 0.21116023,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "aa4e3448-ce7d-4c6b-9fa4-54904890c6b3",
+   "id": "945f9411-dc49-4a9a-b40a-6084e94bcab9",
    "title": {
-    "en": "Bakajo 26-ji"
+    "en": "Akuta no Shinigiwa"
    },
    "contentRating": "safe",
    "score": 0.2086253,
    "languages": [
-    "vi",
-    "en"
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "c8b5a61e-81d0-4a8d-a2d3-22ba8c409106",
+   "title": {
+    "en": "siSTAR regiSTAR"
+   },
+   "contentRating": "safe",
+   "score": 0.2086253,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -178,18 +191,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "39b6cbe5-9706-4feb-a06e-57d905f47f5c",
-   "title": {
-    "en": "Botsuichi"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-11-19T19:54:38+00:00"
+ "updatedAt": "2024-11-21T19:58:43+00:00"
 }

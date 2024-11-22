@@ -1,0 +1,130 @@
+{
+ "id": "7f7678c7-0d32-4d36-a99a-1bfe32483584",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Great Villainous Boy"
+  },
+  "altTitles": [
+   {
+    "ja": "大悪党少年"
+   },
+   {
+    "ja-ro": "Daiakutō Shōnen"
+   }
+  ],
+  "description": {
+   "en": "The manga's story teases of a boy who thinks everything in the world is worthless: the heroes who pretend to fight with grace, his classmates who only know how to flock together, and his own weak, miserable self. That is why the boy aspires to be the lonely, solitary, and ultimate villain, to change himself and the world."
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-21T04:32:44+00:00",
+  "updatedAt": "2024-11-21T04:33:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c2d6fe7c-59e6-416f-b58a-fecb55a77b01",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n藤近小梅"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fujichika Koume",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/31573825",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hujiume",
+    "updatedAt": "2023-07-05T23:38:33+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c2d6fe7c-59e6-416f-b58a-fecb55a77b01",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n藤近小梅"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fujichika Koume",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/31573825",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hujiume",
+    "updatedAt": "2023-07-05T23:38:33+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "413cfbca-e8c2-4a12-83f8-23b6c657d8c9",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T04:32:50+00:00",
+    "description": "",
+    "fileName": "82cd604b-3eee-45d9-93e7-e3da3c0b5dab.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-21T04:32:50+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "d502c90c-d700-4523-94c2-82177d3ec08f",
+   "type": "creator"
+  }
+ ]
+}

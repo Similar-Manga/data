@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "c36e8268-7a3c-487c-9586-77956adb0816",
+   "title": {
+    "en": "Yurayura, Yureru"
+   },
+   "contentRating": "safe",
+   "score": 0.29921934,
+   "languages": [
+    "en",
+    "hu"
+   ]
+  },
+  {
    "id": "30a2e745-e9b9-421d-a622-41e60494b5e9",
    "title": {
     "en": "Himegimi no Aikon"
    },
    "contentRating": "safe",
-   "score": 0.29584548,
+   "score": 0.2974694,
    "languages": [
     "en"
    ]
@@ -22,20 +34,9 @@
     "en": "Ice no Oto"
    },
    "contentRating": "safe",
-   "score": 0.29521692,
+   "score": 0.29723004,
    "languages": [
     "it",
-    "en"
-   ]
-  },
-  {
-   "id": "76eddfc1-2e9d-4861-868e-27aedbe8378c",
-   "title": {
-    "en": "Hitomi no Naka no Oukoku"
-   },
-   "contentRating": "safe",
-   "score": 0.28357264,
-   "languages": [
     "en"
    ]
   },
@@ -68,7 +69,7 @@
     "en": "1000% For That Girl"
    },
    "contentRating": "safe",
-   "score": 0.25799695,
+   "score": 0.261493,
    "languages": [
     "en"
    ]
@@ -79,55 +80,8 @@
     "en": "The MVP Won't Hand it Over!"
    },
    "contentRating": "safe",
-   "score": 0.25757116,
+   "score": 0.26101416,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "74e44c42-2a0d-4654-a149-312d8af244e1",
-   "title": {
-    "en": "Hatsukoi Dance!"
-   },
-   "contentRating": "safe",
-   "score": 0.25387532,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "ecff5dfd-349a-4deb-b22e-5ff35f7beae2",
-   "title": {
-    "en": "Tennen Bitter Chocolate"
-   },
-   "contentRating": "safe",
-   "score": 0.2507875,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c36e8268-7a3c-487c-9586-77956adb0816",
-   "title": {
-    "en": "Yurayura, Yureru"
-   },
-   "contentRating": "safe",
-   "score": 0.2471666,
-   "languages": [
-    "en",
-    "hu"
-   ]
-  },
-  {
-   "id": "7573c560-ae94-46d7-aa83-eb2cd75071ad",
-   "title": {
-    "en": "Fly High!"
-   },
-   "contentRating": "safe",
-   "score": 0.2451389,
-   "languages": [
-    "tr",
     "en"
    ]
   },
@@ -137,40 +91,18 @@
     "en": "Princess Army"
    },
    "contentRating": "safe",
-   "score": 0.24491854,
+   "score": 0.2466834,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "768c1cab-fe43-4997-9b3c-544c760608dd",
+   "id": "ecff5dfd-349a-4deb-b22e-5ff35f7beae2",
    "title": {
-    "en": "Tumbling"
+    "en": "Tennen Bitter Chocolate"
    },
    "contentRating": "safe",
-   "score": 0.24298035,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8ea7875c-8a88-4f6d-8f1a-340bd8b10897",
-   "title": {
-    "en": "Toe Shoes"
-   },
-   "contentRating": "safe",
-   "score": 0.24265298,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ed1b299a-9b9d-437e-9570-eec56d5220a0",
-   "title": {
-    "en": "Datte Aishiteru"
-   },
-   "contentRating": "safe",
-   "score": 0.2400221,
+   "score": 0.24359532,
    "languages": [
     "en"
    ]
@@ -181,12 +113,81 @@
     "en": "Flying Bunny"
    },
    "contentRating": "safe",
-   "score": 0.23528372,
+   "score": 0.24265732,
    "languages": [
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "ed1b299a-9b9d-437e-9570-eec56d5220a0",
+   "title": {
+    "en": "Datte Aishiteru"
+   },
+   "contentRating": "safe",
+   "score": 0.24114932,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "768c1cab-fe43-4997-9b3c-544c760608dd",
+   "title": {
+    "en": "Tumbling"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c960f305-6ee9-45c0-8b9d-626322d6df08",
+   "title": {
+    "en": "Yosomi Nanka Yurusanai"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "it",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "8ea7875c-8a88-4f6d-8f1a-340bd8b10897",
+   "title": {
+    "en": "Toe Shoes"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "74e44c42-2a0d-4654-a149-312d8af244e1",
+   "title": {
+    "en": "Hatsukoi Dance!"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "38ed695c-dd88-42c7-a24e-8d99ade2c83c",
+   "title": {
+    "en": "Say Hello to Iruka-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-19T20:36:10+00:00"
+ "updatedAt": "2024-11-21T20:39:52+00:00"
 }

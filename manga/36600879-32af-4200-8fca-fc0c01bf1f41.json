@@ -1,0 +1,165 @@
+{
+ "id": "36600879-32af-4200-8fca-fc0c01bf1f41",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Dragon Ball - Amnesia (Doujinshi)"
+  },
+  "description": {
+   "en": "A Dragon Ball Goku/Vegeta yaoi doujinshi."
+  },
+  "links": {
+   "mu": "czzqlp9"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 1992,
+  "contentRating": "suggestive",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "99583f24-1ea7-499a-820a-2ecbcc45cf58",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Boys' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-20T01:35:52+00:00",
+  "updatedAt": "2024-11-20T04:39:57+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3828dc66-6645-40ec-b9bb-17705f484584",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-20T01:34:55+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Vamp",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-20T01:34:55+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3828dc66-6645-40ec-b9bb-17705f484584",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-20T01:34:55+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Vamp",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-20T01:34:55+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "68fd8c70-c90f-4dfd-aa87-7397b77f7327",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-20T01:35:53+00:00",
+    "description": "",
+    "fileName": "3d1ce0b9-258a-49b5-9c06-0a1f322af7df.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-20T01:35:53+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "40bc649f-7b49-4645-859e-6cd94136e722",
+   "type": "manga",
+   "related": "based_on"
+  },
+  {
+   "id": "aa614b54-f2a4-44ea-aca9-435791dd6606",
+   "type": "creator"
+  }
+ ]
+}

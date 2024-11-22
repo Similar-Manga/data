@@ -11,7 +11,7 @@
     "en": "Blue Box"
    },
    "contentRating": "safe",
-   "score": 0.28424424,
+   "score": 0.3016549,
    "languages": [
     "vi",
     "es-la",
@@ -33,15 +33,16 @@
    ]
   },
   {
-   "id": "8e793b67-8e2e-4901-a0bf-27fa9ff769c7",
+   "id": "436730b8-282a-4f1f-b02c-b9c534b2ee66",
    "title": {
-    "en": "Fairway no Koe wo Kikasete"
+    "en": "Irregulars"
    },
    "contentRating": "safe",
-   "score": 0.27583203,
+   "score": 0.27874833,
    "languages": [
-    "zh-hk",
-    "en"
+    "vi",
+    "en",
+    "ru"
    ]
   },
   {
@@ -50,7 +51,7 @@
     "en": "Kaoru Hana wa Rin to Saku"
    },
    "contentRating": "safe",
-   "score": 0.27442586,
+   "score": 0.27669522,
    "languages": [
     "pt-br",
     "ru",
@@ -70,7 +71,7 @@
     "en": "Welcome to the Ballroom"
    },
    "contentRating": "safe",
-   "score": 0.27127576,
+   "score": 0.27202255,
    "languages": [
     "en",
     "pt-br",
@@ -88,12 +89,31 @@
     "en": "Mix"
    },
    "contentRating": "safe",
-   "score": 0.268354,
+   "score": 0.2703466,
    "languages": [
     "ru",
     "en",
     "es",
     "pt-br"
+   ]
+  },
+  {
+   "id": "df9be021-ff37-419e-ba6e-dda3e28eb763",
+   "title": {
+    "en": "Kono Oto Tomare!"
+   },
+   "contentRating": "safe",
+   "score": 0.26475668,
+   "languages": [
+    "fr",
+    "vi",
+    "pt-br",
+    "en",
+    "id",
+    "es-la",
+    "ar",
+    "it",
+    "hu"
    ]
   },
   {
@@ -116,34 +136,10 @@
     "en": "Show-ha Shou-ten!"
    },
    "contentRating": "safe",
-   "score": 0.26173887,
+   "score": 0.2628719,
    "languages": [
     "en",
     "zh-hk"
-   ]
-  },
-  {
-   "id": "436730b8-282a-4f1f-b02c-b9c534b2ee66",
-   "title": {
-    "en": "Irregulars"
-   },
-   "contentRating": "safe",
-   "score": 0.2611477,
-   "languages": [
-    "vi",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "f731427c-4101-4763-8ef4-dfc82212182e",
-   "title": {
-    "en": "Kodomo Gakkyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.25700566,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -152,7 +148,7 @@
     "en": "Ahiru no Sora"
    },
    "contentRating": "safe",
-   "score": 0.25683615,
+   "score": 0.25834283,
    "languages": [
     "en",
     "tl",
@@ -161,31 +157,23 @@
    ]
   },
   {
-   "id": "df9be021-ff37-419e-ba6e-dda3e28eb763",
-   "title": {
-    "en": "Kono Oto Tomare!"
-   },
-   "contentRating": "safe",
-   "score": 0.2556183,
-   "languages": [
-    "fr",
-    "vi",
-    "pt-br",
-    "en",
-    "id",
-    "es-la",
-    "ar",
-    "it",
-    "hu"
-   ]
-  },
-  {
    "id": "25657e34-f4dd-40e8-a505-8c369ef0095d",
    "title": {
     "en": "Dorahachi"
    },
    "contentRating": "safe",
-   "score": 0.255548,
+   "score": 0.2569454,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f731427c-4101-4763-8ef4-dfc82212182e",
+   "title": {
+    "en": "Kodomo Gakkyuu"
+   },
+   "contentRating": "safe",
+   "score": 0.25566533,
    "languages": [
     "en"
    ]
@@ -196,42 +184,12 @@
     "en": "Kusunoki's Flunking Her High School Glow-Up"
    },
    "contentRating": "safe",
-   "score": 0.25304475,
+   "score": 0.255618,
    "languages": [
     "en",
     "vi",
     "es-la",
     "pt-br",
-    "ru"
-   ]
-  },
-  {
-   "id": "67047cf9-9624-4b9d-903e-c82f4f58f973",
-   "title": {
-    "en": "Haikyuu-bu!!"
-   },
-   "contentRating": "safe",
-   "score": 0.24811366,
-   "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "vi"
-   ]
-  },
-  {
-   "id": "ec0c3cbf-dc3d-4df2-b2c6-2af7ad41541e",
-   "title": {
-    "en": "Mane Mane Nichi Nichi"
-   },
-   "contentRating": "safe",
-   "score": 0.2474601,
-   "languages": [
-    "en",
-    "fr",
-    "vi",
-    "pt-br",
-    "uk",
     "ru"
    ]
   },
@@ -241,11 +199,54 @@
     "en": "The Kabocha Wine"
    },
    "contentRating": "safe",
-   "score": 0.24479844,
+   "score": 0.25395003,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "e9dc373b-314c-44ff-9428-ae63319ae86b",
+   "title": {
+    "en": "Toradora!"
+   },
+   "contentRating": "safe",
+   "score": 0.25050518,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr",
+    "es",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "67047cf9-9624-4b9d-903e-c82f4f58f973",
+   "title": {
+    "en": "Haikyuu-bu!!"
+   },
+   "contentRating": "safe",
+   "score": 0.24885792,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "c1cf1700-3f87-4b29-89f2-d89d58307830",
+   "title": {
+    "en": "Idol A"
+   },
+   "contentRating": "safe",
+   "score": 0.24815786,
+   "languages": [
+    "pt-br",
+    "en",
+    "pl"
+   ]
   }
  ],
- "updatedAt": "2024-11-19T19:53:09+00:00"
+ "updatedAt": "2024-11-21T19:57:16+00:00"
 }

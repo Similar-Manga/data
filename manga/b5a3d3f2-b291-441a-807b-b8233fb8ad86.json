@@ -1,0 +1,133 @@
+{
+ "id": "b5a3d3f2-b291-441a-807b-b8233fb8ad86",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kochira←DIY Circle"
+  },
+  "altTitles": [
+   {
+    "ja": "こちら←DIYサークル"
+   },
+   {
+    "ja-ro": "Kochira \u003c- DIY Circle"
+   },
+   {
+    "en": "DIY Club"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/user/1434742/series/193033"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "suggestive",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "cf1faa13-e6e5-44af-a5b3-f197f39862ad",
+  "tags": [
+   {
+    "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crossdressing"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-19T20:16:40+00:00",
+  "updatedAt": "2024-11-20T18:08:47+00:00"
+ },
+ "relationships": [
+  {
+   "id": "998da92e-261c-4e9e-bcc2-7073731426f1",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-19T20:14:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "himawari2430",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-19T20:14:53+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "998da92e-261c-4e9e-bcc2-7073731426f1",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-19T20:14:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "himawari2430",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-19T20:14:53+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "40c3ed36-4e86-4efe-97be-6a73ccffa1e2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-19T20:17:05+00:00",
+    "description": "",
+    "fileName": "ab4cdd55-1e75-4cc6-b84a-d162901d5d66.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-19T20:17:05+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "b58899b5-f2b9-45b9-8048-16395cc30b08",
+   "type": "creator"
+  }
+ ]
+}

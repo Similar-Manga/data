@@ -3,23 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "High School Inari Tamamo-chan!"
+   "en": "O-Inari JK Tamamo-chan!"
   },
   "altTitles": [
-   {
-    "en": "High School Holy Fox Tamamo-chan!"
-   },
-   {
-    "ja-ro": "Oinari JK Tamamo-chan!"
-   },
    {
     "en": "Tamamo-chan’s a Fox!"
    },
    {
-    "ja": "お稲荷JKたまもちゃん!"
+    "en": "High School Inari Tamamo-chan!"
    },
    {
-    "ja-ro": "O-Inari JK Tamamo-chan!"
+    "en": "High School Holy Fox Tamamo-chan!"
+   },
+   {
+    "ja": "お稲荷JKたまもちゃん!"
    },
    {
     "zh": "稻荷JK玉藻美眉!"
@@ -41,10 +38,12 @@
    "engtl": "https://sevenseasentertainment.com/series/tamamo-chans-a-fox/",
    "kt": "40470",
    "mal": "111292",
-   "mu": "146329"
+   "mu": "146329",
+   "raw": "http://seiga.nicovideo.jp/comic/21105"
   },
   "originalLanguage": "ja",
   "lastVolume": "6",
+  "lastChapter": "96",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2016,
@@ -128,9 +127,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 10,
   "createdAt": "2019-03-09T10:34:02+00:00",
-  "updatedAt": "2022-09-14T14:13:03+00:00"
+  "updatedAt": "2024-11-20T21:12:18+00:00"
  },
  "relationships": [
   {
@@ -190,16 +189,16 @@
    }
   },
   {
-   "id": "bc70f551-4af8-4b99-b149-c9e781a9f26d",
+   "id": "0d8734eb-8311-482e-a75a-5fbc102ae26f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-09-14T14:13:02+00:00",
-    "description": "",
-    "fileName": "e01debbf-d5cf-4aa6-b23b-f97b85da6fd6.jpg",
+    "createdAt": "2024-11-20T21:09:31+00:00",
+    "description": "Special Edition Volume with Alternate Cover",
+    "fileName": "85cce44c-35f1-47c7-8856-e1157a73fbea.jpg",
     "locale": "ja",
-    "updatedAt": "2022-09-14T14:13:02+00:00",
+    "updatedAt": "2024-11-20T21:09:31+00:00",
     "version": 1,
-    "volume": "6"
+    "volume": "6.5"
    }
   }
  ]

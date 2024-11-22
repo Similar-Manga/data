@@ -1,0 +1,158 @@
+{
+ "id": "b3c6fffd-69ed-4ad7-9649-fefc2eb1d08d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Come On Now, Even If I’m Not A Villain"
+  },
+  "altTitles": [
+   {
+    "ko": "이제 와 악녀가 아니라 해도"
+   }
+  ],
+  "description": {
+   "en": "After being killed by her own father, I woke up... 500 years later?! To make things worse, I’ve been reborn into the body of a so-called villainess—a woman hated by her family and fiancé for her fragile health and sharp temper. All I wanted was to live quietly and figure out why I was reincarnated. But now, my once-cold family and fiancé are suddenly desperate for my attention, and my slave boy from 500 years ago has returned... perfectly alive. As if that wasn’t enough, immortal weapons from ancient times are starting to gather around me. \"You shouldn’t have fed the stray dog.\" I never gave anyone a single bite, so why is this happening?!"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Official Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-21T14:13:42+00:00",
+  "updatedAt": "2024-11-21T14:18:43+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a3acf17b-3088-46a8-8cd0-2c664daa8b9e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-21T14:13:01+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Daran 9",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-21T14:13:01+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "541209c6-ef85-4c46-9948-582884a5b95c",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-21T14:13:17+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jeong I Jang",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-21T14:13:17+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "44f20caf-d0ec-4f70-a92b-6e850cc1dee4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T14:13:53+00:00",
+    "description": "",
+    "fileName": "e2abfa45-8c78-4980-ba85-45001a5d4982.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-21T14:13:53+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}

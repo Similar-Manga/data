@@ -93,7 +93,7 @@
     "en": "My Sp/lit Little Sister"
    },
    "contentRating": "safe",
-   "score": 0.16643862,
+   "score": 0.16644064,
    "languages": [
     "en",
     "it",
@@ -107,7 +107,7 @@
     "en": "Client"
    },
    "contentRating": "safe",
-   "score": 0.16390045,
+   "score": 0.16389006,
    "languages": [
     "en",
     "uk",
@@ -120,13 +120,30 @@
     "en": "Spirited Away by the Rain Woman Youkai"
    },
    "contentRating": "safe",
-   "score": 0.15891077,
+   "score": 0.15891437,
    "languages": [
     "vi",
     "en",
     "pt-br",
     "ru",
     "es"
+   ]
+  },
+  {
+   "id": "1555ebef-189e-4d12-b2fe-17d68195e01d",
+   "title": {
+    "en": "Propose"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
+    "fr",
+    "vi",
+    "id",
+    "tr",
+    "en",
+    "it",
+    "ru"
    ]
   },
   {
@@ -144,9 +161,28 @@
    ]
   },
   {
-   "id": "d78a60ef-b21a-4006-bfd4-026c1b5c5603",
+   "id": "9e27b55a-8227-42b0-ad92-7a0f661038a6",
    "title": {
-    "en": "10 Minutes"
+    "en": "Anata no Kage wo Ou"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
+    "it",
+    "ru",
+    "hi",
+    "vi",
+    "pl",
+    "pt-br",
+    "fr",
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "6ebb9695-a705-4175-a76f-1dea10ea264d",
+   "title": {
+    "en": "Nichijoubi no Zashiki-warashi"
    },
    "contentRating": "safe",
    "score": 0.15713485,
@@ -171,51 +207,15 @@
    ]
   },
   {
-   "id": "6ebb9695-a705-4175-a76f-1dea10ea264d",
+   "id": "d78a60ef-b21a-4006-bfd4-026c1b5c5603",
    "title": {
-    "en": "Nichijoubi no Zashiki-warashi"
+    "en": "10 Minutes"
    },
    "contentRating": "safe",
    "score": 0.15713485,
    "languages": [
     "ru",
     "en"
-   ]
-  },
-  {
-   "id": "9e27b55a-8227-42b0-ad92-7a0f661038a6",
-   "title": {
-    "en": "Anata no Kage wo Ou"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "it",
-    "ru",
-    "hi",
-    "vi",
-    "pl",
-    "pt-br",
-    "fr",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "1555ebef-189e-4d12-b2fe-17d68195e01d",
-   "title": {
-    "en": "Propose"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "fr",
-    "vi",
-    "id",
-    "tr",
-    "en",
-    "it",
-    "ru"
    ]
   },
   {
@@ -231,5 +231,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-19T19:58:55+00:00"
+ "updatedAt": "2024-11-21T20:03:00+00:00"
 }

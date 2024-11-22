@@ -11,7 +11,7 @@
    }
   ],
   "description": {
-   "en": "Publsihed in Summer of Comiket 2013 (C84)"
+   "en": "Publsihed in Summer of Comiket 2013 (C84)\n\n| Namespace | Tags |\n| :--- | :--- |\n| parody | shingeki no kyojin |\n| character | eren jaeger, krista lenz, mikasa ackerman |\n| group | yuusha-sama go-ikkou |\n| artist | nemigi tsukasa |\n| male | sole male |\n| female | defloration, muscle |"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -48,9 +48,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-12-20T08:01:38+00:00",
-  "updatedAt": "2024-10-27T14:35:20+00:00"
+  "updatedAt": "2024-11-20T15:04:28+00:00"
  },
  "relationships": [
   {
@@ -117,6 +117,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "304ceac3-8cdb-4fe7-acf7-2b6ff7a60613",
+   "type": "manga",
+   "related": "based_on"
   }
  ]
 }

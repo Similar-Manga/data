@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Meikko no Oshiri wo Training Suru Hon"
+   "en": "Meikko no Oshiri o Training Suru Hon"
   },
   "altTitles": [
    {
@@ -63,13 +63,13 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-08-14T21:34:39+00:00",
-  "updatedAt": "2023-04-05T15:34:31+00:00"
+  "updatedAt": "2024-11-20T16:12:21+00:00"
  },
  "relationships": [
   {
-   "id": "44286764-a351-4d9b-b0a7-9c6bac81b351",
+   "id": "560c91ce-301b-4069-afc9-cada1555a50c",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -79,7 +79,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Bizensiki Roroppu",
+    "name": "Bizen",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -88,6 +88,32 @@
     "tumblr": null,
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c095d2f2-741e-461a-be0d-80f1e86efae9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-01-10T05:20:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bizensiki Roroppu (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-01-10T05:20:59+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -114,6 +140,32 @@
     "tumblr": null,
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c095d2f2-741e-461a-be0d-80f1e86efae9",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-01-10T05:20:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bizensiki Roroppu (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-01-10T05:20:59+00:00",
     "version": 1,
     "website": null,
     "weibo": null,

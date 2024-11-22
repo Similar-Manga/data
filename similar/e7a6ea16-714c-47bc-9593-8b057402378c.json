@@ -22,7 +22,7 @@
     "en": "Kono Ko ja Nai!"
    },
    "contentRating": "safe",
-   "score": 0.23911709,
+   "score": 0.23746367,
    "languages": [
     "en",
     "fr",
@@ -31,6 +31,14 @@
     "it",
     "tr"
    ]
+  },
+  {
+   "id": "50d72fbd-4313-48c7-aca9-ab30ed1305b7",
+   "title": {
+    "en": "Planaria Ningen"
+   },
+   "contentRating": "safe",
+   "score": 0.2318579
   },
   {
    "id": "ed52ed30-97ae-4901-9b4d-77ab49ee6d84",
@@ -53,20 +61,12 @@
    "score": 0.2318579
   },
   {
-   "id": "50d72fbd-4313-48c7-aca9-ab30ed1305b7",
-   "title": {
-    "en": "Planaria Ningen"
-   },
-   "contentRating": "safe",
-   "score": 0.2318579
-  },
-  {
    "id": "67eb814e-d0e3-45b9-b5e8-d9a057832728",
    "title": {
     "en": "Thousand Nine Children's Case"
    },
    "contentRating": "safe",
-   "score": 0.21718805
+   "score": 0.22725615
   },
   {
    "id": "89ad8e16-ceff-47c4-adce-cc00baa65392",
@@ -74,7 +74,7 @@
     "en": "#DRCL midnight children"
    },
    "contentRating": "safe",
-   "score": 0.21659076,
+   "score": 0.2165683,
    "languages": [
     "ru",
     "ar",
@@ -91,7 +91,7 @@
     "en": "Co-Doku Game"
    },
    "contentRating": "safe",
-   "score": 0.21159564
+   "score": 0.21159281
   },
   {
    "id": "20d1c2a1-5c7f-4fee-bdaf-192756ca83e2",
@@ -100,33 +100,6 @@
    },
    "contentRating": "safe",
    "score": 0.20079483
-  },
-  {
-   "id": "0432f4e7-5e12-45fb-b8c7-c847c51e27d8",
-   "title": {
-    "en": "Goddarian"
-   },
-   "contentRating": "safe",
-   "score": 0.20079483
-  },
-  {
-   "id": "9789636c-6eca-4af0-ad2f-a00cfcf961e8",
-   "title": {
-    "en": "Shokuryou Kyoushitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.20079483
-  },
-  {
-   "id": "06ad1c64-072d-4d2c-a60f-c40f2543420e",
-   "title": {
-    "en": "Zange"
-   },
-   "contentRating": "safe",
-   "score": 0.20079483,
-   "languages": [
-    "en"
-   ]
   },
   {
    "id": "5d06fbcc-db60-463b-ae90-62be0a0fb6f8",
@@ -141,14 +114,6 @@
     "ru",
     "pt-br"
    ]
-  },
-  {
-   "id": "5d2f50a2-563c-4cfe-8c01-2d839a7aba7c",
-   "title": {
-    "en": "Higumaguma"
-   },
-   "contentRating": "safe",
-   "score": 0.20079483
   },
   {
    "id": "d5166c97-9cf1-4a0a-b8ec-c9577752687e",
@@ -171,7 +136,42 @@
    },
    "contentRating": "safe",
    "score": 0.20079483
+  },
+  {
+   "id": "0432f4e7-5e12-45fb-b8c7-c847c51e27d8",
+   "title": {
+    "en": "Goddarian"
+   },
+   "contentRating": "safe",
+   "score": 0.20079483
+  },
+  {
+   "id": "06ad1c64-072d-4d2c-a60f-c40f2543420e",
+   "title": {
+    "en": "Zange"
+   },
+   "contentRating": "safe",
+   "score": 0.20079483,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5d2f50a2-563c-4cfe-8c01-2d839a7aba7c",
+   "title": {
+    "en": "Higumaguma"
+   },
+   "contentRating": "safe",
+   "score": 0.20079483
+  },
+  {
+   "id": "9789636c-6eca-4af0-ad2f-a00cfcf961e8",
+   "title": {
+    "en": "Shokuryou Kyoushitsu"
+   },
+   "contentRating": "safe",
+   "score": 0.20079483
   }
  ],
- "updatedAt": "2024-11-19T21:03:07+00:00"
+ "updatedAt": "2024-11-21T21:06:25+00:00"
 }

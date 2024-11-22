@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Strongest Swordsman Has Zero Equipment Slots, but He Can Equip up to 9999 Items if It’s (Cute) Cursed Equipment"
+   "en": "Sobiwaku Zero no Saikyou Kenshi Demo, Noroi no Soubi (kawaii) Nara 9999-ko Tsuke-hodai"
   },
   "altTitles": [
    {
@@ -13,13 +13,13 @@
     "ko": "장비 슬롯 제로의 최강검사라도, 저주받은 장비(귀여움)라면 9999개까지 마음껏 장착 가능"
    },
    {
-    "en": "Even the strongest swordsman with zero equipment slots can equip 9999 cursed equipment"
+    "en": "The Strongest Swordsman Has Zero Equipment Slots, but He Can Equip up to 9999 Items if It’s (Cute) Cursed Equipment"
    },
    {
     "zh": "装备栏为零的最强剑士 但是(可爱的)诅咒装备甚至可以装9999件"
    },
    {
-    "ja-ro": "Sobiwaku Zero no Saikyou Kenshi Demo, Noroi no Soubi (kawaii) Nara 9999-ko Tsuke-hodai"
+    "en": "Even the strongest swordsman with zero equipment slots can equip 9999 cursed equipment"
    }
   ],
   "description": {
@@ -48,6 +48,18 @@
   ],
   "latestUploadedChapter": "3ea7243b-d9d0-4723-b225-aab1fce9e3e6",
   "tags": [
+   {
+    "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Loli"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
     "type": "tag",
@@ -97,6 +109,30 @@
     }
    },
    {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -121,6 +157,18 @@
     }
    },
    {
+    "id": "ddefd648-5140-4e5f-ba18-4eca4071d19b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Shota"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -129,6 +177,18 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -146,9 +206,9 @@
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 17,
   "createdAt": "2020-01-08T07:25:03+00:00",
-  "updatedAt": "2024-01-22T11:04:50+00:00"
+  "updatedAt": "2024-11-21T05:37:29+00:00"
  },
  "relationships": [
   {

@@ -1,0 +1,141 @@
+{
+ "id": "cfd9dd17-632a-45fd-b172-07dc4cb43bd6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Fubar"
+  },
+  "description": {
+   "en": "A totally normal countryside story involving minor"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 9,
+  "createdAt": "2024-11-20T16:22:35+00:00",
+  "updatedAt": "2024-11-21T00:15:59+00:00"
+ },
+ "relationships": [
+  {
+   "id": "9d243d94-f923-4606-a954-0ed2e2514dfc",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-17T13:36:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bojery Lofy",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-17T13:36:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9d243d94-f923-4606-a954-0ed2e2514dfc",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-17T13:36:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bojery Lofy",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-17T13:36:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3f8b8246-0299-48e9-81c7-207a382b0290",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T00:07:00+00:00",
+    "description": "",
+    "fileName": "19a75814-8843-48c4-b69a-93160aa9e2d2.png",
+    "locale": "en",
+    "updatedAt": "2024-11-21T00:07:00+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "18da885c-2a22-4a4b-86c5-091346ec99dd",
+   "type": "creator"
+  }
+ ]
+}

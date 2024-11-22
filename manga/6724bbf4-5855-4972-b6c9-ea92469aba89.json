@@ -27,7 +27,7 @@
   ],
   "description": {
    "en": "Park Yun-yeong has a mysterious power which allows her to see ghastly creatures that seem to inhabit our world but not interact with it - unless they notice you acknowledge their existence. That’s when they stop being harmless.",
-   "pt-br": "Park Yun-yeong tem um poder misterioso que permite que ela veja criaturas horríveis que parecem habitar nosso mundo, mas não interagem com ela, a menos que percebam que você reconhece sua existência. É quando eles param de ser inofensivos."
+   "pt-br": "Park Yun-yeong tem um poder misterioso que permite que ela veja criaturas horríveis que parecem habitar nosso mundo, mas sem interagir com ele, a menos que percebam que você sabe que eles existem. É nesse momento que eles deixam de ser inofensivos."
   },
   "links": {
    "al": "109454",
@@ -93,6 +93,18 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -170,9 +182,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2019-11-28T21:00:32+00:00",
-  "updatedAt": "2024-03-02T22:05:59+00:00"
+  "updatedAt": "2024-11-19T21:42:14+00:00"
  },
  "relationships": [
   {

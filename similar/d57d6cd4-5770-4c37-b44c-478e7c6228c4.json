@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "081da1be-74ab-4c9f-a11d-df891715825a",
-   "title": {
-    "en": "The Beauty and the Beast"
-   },
-   "contentRating": "safe",
-   "score": 0.22755206
-  },
-  {
    "id": "0378c741-c389-4e49-ab66-f276ba83b118",
    "title": {
     "en": "Shoujo Kesshou Kokoro Jikaru"
@@ -22,12 +14,12 @@
    "score": 0.22755206
   },
   {
-   "id": "b247bdf0-4801-4458-abaa-85593b26c9ff",
+   "id": "644e8164-f76f-49cf-a598-80ecfd2d9fa1",
    "title": {
-    "en": "Kara no Teikoku"
+    "en": "Kinkanjuu to Noroi no Kishi"
    },
    "contentRating": "safe",
-   "score": 0.22120412
+   "score": 0.22566609
   },
   {
    "id": "69337aff-1505-4457-810e-7f085a2a4adc",
@@ -35,10 +27,18 @@
     "en": "Black Feather Love Song"
    },
    "contentRating": "safe",
-   "score": 0.21689475,
+   "score": 0.22335862,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b247bdf0-4801-4458-abaa-85593b26c9ff",
+   "title": {
+    "en": "Kara no Teikoku"
+   },
+   "contentRating": "safe",
+   "score": 0.2214613
   },
   {
    "id": "1f272f8d-8073-4204-99c6-db1d12bff538",
@@ -46,7 +46,7 @@
     "en": "Spam Mail Hunter"
    },
    "contentRating": "safe",
-   "score": 0.21552452,
+   "score": 0.21996492,
    "languages": [
     "en"
    ]
@@ -57,7 +57,19 @@
     "en": "Nazo no Byakko ni Natsukaremashita"
    },
    "contentRating": "safe",
-   "score": 0.21550949
+   "score": 0.21568577
+  },
+  {
+   "id": "b4aa185d-cc69-4c93-a25b-b1be78f5ac7b",
+   "title": {
+    "en": "Hatsukoi Succubus"
+   },
+   "contentRating": "safe",
+   "score": 0.21482843,
+   "languages": [
+    "en",
+    "fr"
+   ]
   },
   {
    "id": "2c9fda2e-478e-4b2d-97ff-1a3b15041381",
@@ -65,15 +77,20 @@
     "en": "Watchdog Honey♥"
    },
    "contentRating": "safe",
-   "score": 0.21389394
+   "score": 0.21413647
   },
   {
-   "id": "644e8164-f76f-49cf-a598-80ecfd2d9fa1",
+   "id": "a1bd0965-7ea2-40e0-b686-5dcddacdd0c6",
    "title": {
-    "en": "Kinkanjuu to Noroi no Kishi"
+    "en": "Mermaid Boys"
    },
    "contentRating": "safe",
-   "score": 0.21333496
+   "score": 0.21373044,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
+   ]
   },
   {
    "id": "bdc8973a-d8bb-4de7-9191-4f31a2e7be62",
@@ -81,28 +98,9 @@
     "en": "P Angel"
    },
    "contentRating": "safe",
-   "score": 0.2126463,
+   "score": 0.21340428,
    "languages": [
     "bg",
-    "en"
-   ]
-  },
-  {
-   "id": "3522ca25-2bbb-4839-a3f5-3b51909bc1bc",
-   "title": {
-    "en": "Aobara-sama ni wa Himitsu ga aru"
-   },
-   "contentRating": "safe",
-   "score": 0.2116333
-  },
-  {
-   "id": "6ad2cfeb-9242-4d06-8685-fd78fa0cb9cb",
-   "title": {
-    "en": "Princess Prince"
-   },
-   "contentRating": "safe",
-   "score": 0.20813972,
-   "languages": [
     "en"
    ]
   },
@@ -112,7 +110,45 @@
     "en": "Kuroi Tulip"
    },
    "contentRating": "safe",
-   "score": 0.20677923
+   "score": 0.21319288
+  },
+  {
+   "id": "3522ca25-2bbb-4839-a3f5-3b51909bc1bc",
+   "title": {
+    "en": "Aobara-sama ni wa Himitsu ga aru"
+   },
+   "contentRating": "safe",
+   "score": 0.21183942
+  },
+  {
+   "id": "d37258b7-d381-4697-9640-4e737e62304a",
+   "title": {
+    "en": "Tenryuu"
+   },
+   "contentRating": "safe",
+   "score": 0.21080895
+  },
+  {
+   "id": "6ad2cfeb-9242-4d06-8685-fd78fa0cb9cb",
+   "title": {
+    "en": "Princess Prince"
+   },
+   "contentRating": "safe",
+   "score": 0.20829646,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "37cf7f92-ba0f-4111-9bd2-e8dc6e4d1e6d",
+   "title": {
+    "en": "Kiri - The Route of Infection Kanaria"
+   },
+   "contentRating": "safe",
+   "score": 0.20810227,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "f7345f39-2d0b-4385-bd43-59a0502583e0",
@@ -120,39 +156,8 @@
     "en": "Shichioukoku no Bara"
    },
    "contentRating": "safe",
-   "score": 0.20651305
-  },
-  {
-   "id": "b4aa185d-cc69-4c93-a25b-b1be78f5ac7b",
-   "title": {
-    "en": "Hatsukoi Succubus"
-   },
-   "contentRating": "safe",
-   "score": 0.20618178,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "0f4c32dc-7128-4bd0-ad8a-1a3bc3534d9b",
-   "title": {
-    "en": "Funny Money Rich Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.2037098,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cf30b09a-5c58-4011-93fb-07a28c989343",
-   "title": {
-    "en": "Super Pig"
-   },
-   "contentRating": "safe",
-   "score": 0.20352875
+   "score": 0.20665288
   }
  ],
- "updatedAt": "2024-11-19T20:57:02+00:00"
+ "updatedAt": "2024-11-21T21:00:24+00:00"
 }

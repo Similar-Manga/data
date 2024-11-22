@@ -6,25 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3e636c96-b98a-410a-a00d-2f2f530d0309",
-   "title": {
-    "en": "Magic Domain Mercenary"
-   },
-   "contentRating": "safe",
-   "score": 0.2111696,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
    "title": {
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.21092822,
+   "score": 0.21093048,
    "languages": [
     "vi",
     "id",
@@ -45,12 +32,25 @@
    ]
   },
   {
+   "id": "3e636c96-b98a-410a-a00d-2f2f530d0309",
+   "title": {
+    "en": "Magic Domain Mercenary"
+   },
+   "contentRating": "safe",
+   "score": 0.20083532,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
    "id": "6f084aaa-ab29-40f8-82a9-b7586b260182",
    "title": {
     "en": "Battle in 5 Seconds After Meeting"
    },
    "contentRating": "safe",
-   "score": 0.19941464,
+   "score": 0.19941553,
    "languages": [
     "en",
     "vi",
@@ -67,7 +67,7 @@
     "en": "Pumpkin Scissors"
    },
    "contentRating": "safe",
-   "score": 0.18831082,
+   "score": 0.18832843,
    "languages": [
     "en",
     "pl"
@@ -79,7 +79,7 @@
     "en": "Mobile Suit Gundam MSV-R Legend of the Universal Century Heroes: The Fabulous Shin Matsunaga"
    },
    "contentRating": "safe",
-   "score": 0.18498665,
+   "score": 0.1849972,
    "languages": [
     "en"
    ]
@@ -90,7 +90,7 @@
     "en": "Mahou Tsukai no Deshi ga Warau Toki."
    },
    "contentRating": "safe",
-   "score": 0.1843118,
+   "score": 0.18431813,
    "languages": [
     "es-la",
     "en"
@@ -115,7 +115,7 @@
     "en": "The Thief of Shanghai"
    },
    "contentRating": "safe",
-   "score": 0.17899905,
+   "score": 0.17894208,
    "languages": [
     "en"
    ]
@@ -126,8 +126,20 @@
     "en": "The Story of Ai and Makoto: Love and Sincerity"
    },
    "contentRating": "safe",
-   "score": 0.17801626,
+   "score": 0.17801645,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0cea244e-518a-4081-9be5-36b66eeda0dc",
+   "title": {
+    "en": "BEASTARS (Fan-Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.17659803,
+   "languages": [
+    "fr",
     "en"
    ]
   },
@@ -137,48 +149,13 @@
     "en": "The Bugle Call: Song of War"
    },
    "contentRating": "safe",
-   "score": 0.17662062,
+   "score": 0.17657305,
    "languages": [
     "ru",
     "vi",
     "en",
     "pt-br",
     "fr"
-   ]
-  },
-  {
-   "id": "0cea244e-518a-4081-9be5-36b66eeda0dc",
-   "title": {
-    "en": "BEASTARS (Fan-Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.17659275,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "4e9ac5e9-7eaa-4bc6-be4a-98e849dcd60c",
-   "title": {
-    "en": "Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.17634669,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "2f250080-875e-42cd-bd7b-d67ca8bd1f51",
-   "title": {
-    "en": "Albaroze no Neko"
-   },
-   "contentRating": "safe",
-   "score": 0.17634669,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -195,9 +172,32 @@
    ]
   },
   {
+   "id": "4e9ac5e9-7eaa-4bc6-be4a-98e849dcd60c",
+   "title": {
+    "en": "Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.17634669,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "8c04f762-b579-4d7b-8cb8-798191f264f7",
    "title": {
     "en": "Mobile Suit Gundam Wearwolf"
+   },
+   "contentRating": "safe",
+   "score": 0.17634669,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2f250080-875e-42cd-bd7b-d67ca8bd1f51",
+   "title": {
+    "en": "Albaroze no Neko"
    },
    "contentRating": "safe",
    "score": 0.17634669,
@@ -219,5 +219,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-19T20:28:51+00:00"
+ "updatedAt": "2024-11-21T20:32:39+00:00"
 }

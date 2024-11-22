@@ -6,31 +6,9 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
-   "title": {
-    "en": "Suzuro's Logfile"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "b964c8aa-662b-4d3e-a130-215a0144bf44",
    "title": {
     "en": "Frame Saber"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a2e59283-eee1-4fb3-8ee3-fffa701d31d0",
-   "title": {
-    "en": "Yoake Mae ni Shinu"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -50,12 +28,23 @@
    ]
   },
   {
-   "id": "b400bc2a-7a98-423d-9655-d6f5ef60e5ec",
+   "id": "bf2724c3-7874-4e11-8214-8c7192f9bc49",
    "title": {
-    "en": "Drag-On Dragoon - Judgement"
+    "en": "Suzuro's Logfile"
    },
    "contentRating": "safe",
-   "score": 0.22137849,
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a2e59283-eee1-4fb3-8ee3-fffa701d31d0",
+   "title": {
+    "en": "Yoake Mae ni Shinu"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
    "languages": [
     "en"
    ]
@@ -66,7 +55,7 @@
     "en": "Grandeek ReeL"
    },
    "contentRating": "safe",
-   "score": 0.20426103,
+   "score": 0.20426266,
    "languages": [
     "en"
    ]
@@ -77,7 +66,7 @@
     "en": "DRAGON CIRCUS"
    },
    "contentRating": "safe",
-   "score": 0.20399322,
+   "score": 0.20399246,
    "languages": [
     "ru",
     "en",
@@ -90,7 +79,7 @@
     "en": "Ghost in the Shell: Global Neural Network"
    },
    "contentRating": "safe",
-   "score": 0.20218094,
+   "score": 0.20217839,
    "languages": [
     "en"
    ]
@@ -103,7 +92,8 @@
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -112,51 +102,7 @@
     "en": "Jalapeño"
    },
    "contentRating": "safe",
-   "score": 0.1981143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "368516b3-4226-45cb-bdf2-312ddcfec518",
-   "title": {
-    "en": "Moon Edge"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "89500eab-0c26-4ae0-be9a-afcc54f9f911",
-   "title": {
-    "en": "Oninagi"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7f7a9625-2a5a-42a9-b3d0-a3bd625cecaa",
-   "title": {
-    "en": "Joukamachi no Dandelion"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8557fdea-762d-4746-a725-d3699a4413e8",
-   "title": {
-    "en": "Byakumonogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
+   "score": 0.19811599,
    "languages": [
     "en"
    ]
@@ -174,6 +120,17 @@
    ]
   },
   {
+   "id": "8d2a7bad-f34f-4e9b-9159-e08c8f996c29",
+   "title": {
+    "en": "Astronauts"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7ee73e91-8067-43c8-bf95-a404bbfa401c",
    "title": {
     "en": "Chaos Rings"
@@ -183,7 +140,51 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "1b33e573-9a40-4f51-b542-8696c5c484ac",
+   "title": {
+    "en": "Guilty Crown: Dancing Endlaves"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "368516b3-4226-45cb-bdf2-312ddcfec518",
+   "title": {
+    "en": "Moon Edge"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b400bc2a-7a98-423d-9655-d6f5ef60e5ec",
+   "title": {
+    "en": "Drag-On Dragoon - Judgement"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7f7a9625-2a5a-42a9-b3d0-a3bd625cecaa",
+   "title": {
+    "en": "Joukamachi no Dandelion"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-19T20:49:40+00:00"
+ "updatedAt": "2024-11-21T20:53:07+00:00"
 }

@@ -11,7 +11,7 @@
     "en": "Wizards Nation"
    },
    "contentRating": "safe",
-   "score": 0.25519723,
+   "score": 0.25827742,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Chingochou Futsuryoukyoku Ukeika"
    },
    "contentRating": "safe",
-   "score": 0.22928688,
+   "score": 0.22837026,
    "languages": [
     "en"
    ]
@@ -33,7 +33,18 @@
     "en": "Mushishi Short Story - The Shadow That Soars Over The Land"
    },
    "contentRating": "safe",
-   "score": 0.22309676,
+   "score": 0.22110224,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f9af7e9a-1a06-4046-b437-840a749b181d",
+   "title": {
+    "en": "Sekai no Hate ni mo Kaze wa Fuku"
+   },
+   "contentRating": "safe",
+   "score": 0.21384116,
    "languages": [
     "en"
    ]
@@ -55,7 +66,7 @@
     "en": "Witch Hat Atelier"
    },
    "contentRating": "safe",
-   "score": 0.2062505,
+   "score": 0.20643431,
    "languages": [
     "my",
     "es-la",
@@ -68,13 +79,18 @@
    ]
   },
   {
-   "id": "f9af7e9a-1a06-4046-b437-840a749b181d",
+   "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
    "title": {
-    "en": "Sekai no Hate ni mo Kaze wa Fuku"
+    "en": "Mayonaka Sanpo"
    },
    "contentRating": "safe",
-   "score": 0.19471695,
+   "score": 0.20448907,
    "languages": [
+    "fa",
+    "ar",
+    "fr",
+    "hu",
+    "pl",
     "en"
    ]
   },
@@ -84,7 +100,7 @@
     "en": "Dungeon Elf - Dungeon ni Takarabako ga Aru no wa Atarimae desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.19471695,
+   "score": 0.20369858,
    "languages": [
     "vi",
     "es-la",
@@ -92,56 +108,31 @@
    ]
   },
   {
-   "id": "61d97b29-2681-4ab4-84cd-e2513dbde814",
+   "id": "70e55f28-fcba-4f4c-9984-42b4cce4079a",
    "title": {
-    "en": "Ryu to Hidari Te"
+    "en": "Dorara"
    },
    "contentRating": "safe",
-   "score": 0.19454032,
+   "score": 0.19990845,
    "languages": [
-    "fr",
     "en",
     "es-la",
-    "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "8a575dfe-8021-4dc2-9fa6-c17a91d24d81",
-   "title": {
-    "en": "Heaven's Design Team"
-   },
-   "contentRating": "safe",
-   "score": 0.19352116,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "70ba8db6-8a91-4f87-9e6f-63e8eeff13ce",
-   "title": {
-    "en": "Furuki Okite no Mahou Kishi"
-   },
-   "contentRating": "safe",
-   "score": 0.19352116,
-   "languages": [
-    "en",
     "pt-br"
    ]
   },
   {
-   "id": "79bed786-0d5e-445d-a811-318f6be67472",
+   "id": "da25c95f-e062-48ea-b5a0-9b51aeeddc05",
    "title": {
-    "en": "Pulp Girl"
+    "en": "Zeikin de Katta Hon"
    },
    "contentRating": "safe",
-   "score": 0.19352116,
+   "score": 0.19862309,
    "languages": [
     "en",
     "pt-br",
-    "fr"
+    "es-la",
+    "fr",
+    "id"
    ]
   },
   {
@@ -160,6 +151,44 @@
    ]
   },
   {
+   "id": "70ba8db6-8a91-4f87-9e6f-63e8eeff13ce",
+   "title": {
+    "en": "Furuki Okite no Mahou Kishi"
+   },
+   "contentRating": "safe",
+   "score": 0.19352116,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "8a575dfe-8021-4dc2-9fa6-c17a91d24d81",
+   "title": {
+    "en": "Heaven's Design Team"
+   },
+   "contentRating": "safe",
+   "score": 0.19352116,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "79bed786-0d5e-445d-a811-318f6be67472",
+   "title": {
+    "en": "Pulp Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.19352116,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr"
+   ]
+  },
+  {
    "id": "e9e7af1c-6b46-43f1-957a-890040d207c9",
    "title": {
     "en": "Shadows House × Kuro"
@@ -174,43 +203,20 @@
    ]
   },
   {
-   "id": "f94a680e-9630-45eb-b4a5-f3391e8ba132",
+   "id": "61d97b29-2681-4ab4-84cd-e2513dbde814",
    "title": {
-    "en": "Manaka no Mori"
+    "en": "Ryu to Hidari Te"
    },
    "contentRating": "safe",
-   "score": 0.18830436,
+   "score": 0.19290973,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a5d7f06b-740e-4901-a3a5-700104c7972f",
-   "title": {
-    "en": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi"
-   },
-   "contentRating": "safe",
-   "score": 0.18749578,
-   "languages": [
-    "en",
-    "ru",
-    "id",
-    "pt-br",
     "fr",
-    "it"
-   ]
-  },
-  {
-   "id": "d76e1ab1-1b80-413e-82c1-c2b0c19d1531",
-   "title": {
-    "en": "Prince Takaoka's Voyage"
-   },
-   "contentRating": "safe",
-   "score": 0.18672365,
-   "languages": [
-    "en"
+    "en",
+    "es-la",
+    "it",
+    "pl"
    ]
   }
  ],
- "updatedAt": "2024-11-19T20:58:41+00:00"
+ "updatedAt": "2024-11-21T21:02:01+00:00"
 }

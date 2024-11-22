@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "dd56399e-6594-4466-ac34-64908b360b98",
+   "title": {
+    "en": "The Tale of That Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b1fe996c-6ed6-4dc4-b655-8d2525b51846",
    "title": {
     "en": "Crescent Moon"
@@ -18,23 +29,12 @@
    ]
   },
   {
-   "id": "dd56399e-6594-4466-ac34-64908b360b98",
-   "title": {
-    "en": "The Tale of That Forest"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "db4cb0fc-05ca-4d66-b6b3-3755041aa65d",
    "title": {
     "en": "Three Stars Magic Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.26863655,
+   "score": 0.26864922,
    "languages": [
     "en"
    ]
@@ -63,20 +63,6 @@
    ]
   },
   {
-   "id": "0045474a-dd44-4307-982f-c4cd085153d6",
-   "title": {
-    "en": "Suwaru Onna"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "id",
-    "pl",
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "41ceb1c6-9836-43bc-a9c8-eed46f0f2a8f",
    "title": {
     "en": "Aoi no Yukiusagi"
@@ -85,19 +71,6 @@
    "score": 0.23809525,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "570b5b99-02a2-4f0f-84d6-1251aa5ad12f",
-   "title": {
-    "en": "The Mysterious Tale of Yumi-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
    ]
   },
   {
@@ -115,6 +88,33 @@
    ]
   },
   {
+   "id": "0045474a-dd44-4307-982f-c4cd085153d6",
+   "title": {
+    "en": "Suwaru Onna"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "id",
+    "pl",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "570b5b99-02a2-4f0f-84d6-1251aa5ad12f",
+   "title": {
+    "en": "The Mysterious Tale of Yumi-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "1a58c498-a6fd-411a-bbda-67c611298c3c",
    "title": {
     "en": "I am here for you"
@@ -123,28 +123,6 @@
    "score": 0.22222224,
    "languages": [
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "e993775d-c4dc-4186-a5e9-0e1100a04427",
-   "title": {
-    "en": "Ghost Heights Management Association"
-   },
-   "contentRating": "safe",
-   "score": 0.2208575,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "10fc6d27-79b2-45de-ac5c-142bdb8fe74b",
-   "title": {
-    "en": "Sake to Sakana"
-   },
-   "contentRating": "safe",
-   "score": 0.2208575,
-   "languages": [
     "en"
    ]
   },
@@ -161,28 +139,38 @@
    ]
   },
   {
+   "id": "10fc6d27-79b2-45de-ac5c-142bdb8fe74b",
+   "title": {
+    "en": "Sake to Sakana"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e993775d-c4dc-4186-a5e9-0e1100a04427",
+   "title": {
+    "en": "Ghost Heights Management Association"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "79950e7f-d2e1-4cea-abec-85a2d57d27a3",
    "title": {
     "en": "Ryuukei no Sora"
    },
    "contentRating": "safe",
-   "score": 0.20726147,
+   "score": 0.20726416,
    "languages": [
     "fr",
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "0f5b5af4-15e7-41bd-9e33-d0e8e0934599",
-   "title": {
-    "en": "Noroi no Video no Tadashii Kanshou Style"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438,
-   "languages": [
-    "en",
-    "vi"
    ]
   },
   {
@@ -199,7 +187,19 @@
     "pt-br",
     "ca"
    ]
+  },
+  {
+   "id": "0f5b5af4-15e7-41bd-9e33-d0e8e0934599",
+   "title": {
+    "en": "Noroi no Video no Tadashii Kanshou Style"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438,
+   "languages": [
+    "en",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2024-11-19T20:56:35+00:00"
+ "updatedAt": "2024-11-21T20:59:57+00:00"
 }

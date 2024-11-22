@@ -21,6 +21,9 @@
   },
   "links": {
    "al": "136127",
+   "amz": "https://www.amazon.co.jp/dp/B09S6F979Q",
+   "bw": "series/282522",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/618390/",
    "mu": "163152",
    "raw": "https://morning.kodansha.co.jp/c/blackbounds/"
   },
@@ -37,6 +40,42 @@
   "latestUploadedChapter": "f8f38260-7120-4084-9fb5-2827adc4f1ca",
   "tags": [
    {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -50,16 +89,18 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2020-08-22T07:12:55+00:00",
-  "updatedAt": "2023-07-14T19:59:32+00:00"
+  "updatedAt": "2024-11-21T00:11:41+00:00"
  },
  "relationships": [
   {
    "id": "9e976650-56ac-4ff0-8d49-0004c748b230",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 堀出井靖水 (Horidei Yasumi)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -70,12 +111,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/16688381",
+    "pixiv": "https://www.pixiv.net/users/16688381",
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/horideiyasumi",
-    "updatedAt": "2023-03-29T09:29:38+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-19T18:59:17+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -85,7 +126,9 @@
    "id": "9e976650-56ac-4ff0-8d49-0004c748b230",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 堀出井靖水 (Horidei Yasumi)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -96,28 +139,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/16688381",
+    "pixiv": "https://www.pixiv.net/users/16688381",
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/horideiyasumi",
-    "updatedAt": "2023-03-29T09:29:38+00:00",
-    "version": 3,
+    "updatedAt": "2024-11-19T18:59:17+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "f973b9a1-b778-4f8d-a5b1-f667592c98cd",
+   "id": "18632d08-5edd-4019-a2e3-dd760508ccea",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-23T07:39:21+00:00",
+    "createdAt": "2024-11-21T00:07:25+00:00",
     "description": "",
-    "fileName": "88f48406-f638-49b9-9907-54561c02eaee.jpg",
+    "fileName": "76686fea-773a-4365-8e81-16d05ffbc916.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-23T07:39:21+00:00",
-    "version": 2,
-    "volume": "1"
+    "updatedAt": "2024-11-21T00:07:25+00:00",
+    "version": 1,
+    "volume": "2"
    }
   }
  ]

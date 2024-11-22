@@ -11,7 +11,7 @@
     "en": "Boku no Ushiro ni Majo ga Iru"
    },
    "contentRating": "safe",
-   "score": 0.30234402,
+   "score": 0.28099376,
    "languages": [
     "es",
     "en",
@@ -28,7 +28,7 @@
     "en": "Koiseyo Mayakashi Tenshi-domo"
    },
    "contentRating": "safe",
-   "score": 0.27715218,
+   "score": 0.27720124,
    "languages": [
     "ru",
     "es",
@@ -46,7 +46,7 @@
     "en": "Onee-chan no Midori-kun"
    },
    "contentRating": "safe",
-   "score": 0.26647422,
+   "score": 0.266518,
    "languages": [
     "en",
     "es"
@@ -58,7 +58,7 @@
     "en": "Copernicus tenkitenkai no Seishun-teki ôyô"
    },
    "contentRating": "safe",
-   "score": 0.26629773,
+   "score": 0.26634926,
    "languages": [
     "es"
    ]
@@ -69,7 +69,7 @@
     "en": "You and I are Polar Opposites"
    },
    "contentRating": "safe",
-   "score": 0.26469064,
+   "score": 0.26475465,
    "languages": [
     "pt-br",
     "en",
@@ -84,7 +84,7 @@
     "en": "Kocchi no Mizu wa Amai no da"
    },
    "contentRating": "safe",
-   "score": 0.2590146,
+   "score": 0.2590737,
    "languages": [
     "es"
    ]
@@ -95,7 +95,7 @@
     "en": "Love Never Fails"
    },
    "contentRating": "safe",
-   "score": 0.2552507,
+   "score": 0.25526658,
    "languages": [
     "es-la",
     "en",
@@ -108,7 +108,7 @@
     "en": "Ekikoi: The Young Miss Falls for the Station Attendant"
    },
    "contentRating": "safe",
-   "score": 0.25477502,
+   "score": 0.25479114,
    "languages": [
     "en",
     "es"
@@ -120,10 +120,25 @@
     "en": "1-ko Shita kara, Kiss Sasete."
    },
    "contentRating": "safe",
-   "score": 0.24762325,
+   "score": 0.2476498,
    "languages": [
     "vi",
     "en",
+    "es"
+   ]
+  },
+  {
+   "id": "3acfb83e-afbc-46a5-98ac-6846f18855a7",
+   "title": {
+    "en": "Kimi to Barairo no Hibi"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "es-la",
+    "en",
+    "fr",
+    "vi",
     "es"
    ]
   },
@@ -144,37 +159,6 @@
    ]
   },
   {
-   "id": "3acfb83e-afbc-46a5-98ac-6846f18855a7",
-   "title": {
-    "en": "Kimi to Barairo no Hibi"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "es-la",
-    "en",
-    "fr",
-    "vi",
-    "es"
-   ]
-  },
-  {
-   "id": "e9dc373b-314c-44ff-9428-ae63319ae86b",
-   "title": {
-    "en": "Toradora!"
-   },
-   "contentRating": "safe",
-   "score": 0.23571673,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr",
-    "es",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
    "id": "9fe53dd0-ce6d-4cb3-9cd8-acfcba8aea7f",
    "title": {
     "en": "Cafe dé Hanadan"
@@ -186,26 +170,12 @@
    ]
   },
   {
-   "id": "39084c4c-85a1-4ca0-ac8a-c420987a00f7",
-   "title": {
-    "en": "Territory M no Juunin"
-   },
-   "contentRating": "safe",
-   "score": 0.23289643,
-   "languages": [
-    "es-la",
-    "en",
-    "es",
-    "fr"
-   ]
-  },
-  {
    "id": "8ef11280-30bc-434b-bf61-c61e092905ac",
    "title": {
     "en": "Class de 2 Banme ni Kawaii Onna no Ko to Tomodachi ni Natta"
    },
    "contentRating": "safe",
-   "score": 0.2326076,
+   "score": 0.23263223,
    "languages": [
     "id",
     "pt-br",
@@ -218,17 +188,50 @@
    ]
   },
   {
-   "id": "41e0a561-e9c6-4c1a-8552-e399b5eba20c",
+   "id": "e9dc373b-314c-44ff-9428-ae63319ae86b",
    "title": {
-    "en": "Lever Gacha Archive"
+    "en": "Toradora!"
    },
    "contentRating": "safe",
-   "score": 0.2305583,
+   "score": 0.23034021,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr",
+    "es",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "d5e71314-00df-4a6c-9fd9-9f72fc3201d8",
+   "title": {
+    "en": "Tama no Gohoubi"
+   },
+   "contentRating": "safe",
+   "score": 0.22462147,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la",
+    "es",
+    "it"
+   ]
+  },
+  {
+   "id": "39084c4c-85a1-4ca0-ac8a-c420987a00f7",
+   "title": {
+    "en": "Territory M no Juunin"
+   },
+   "contentRating": "safe",
+   "score": 0.22387713,
    "languages": [
     "es-la",
-    "es"
+    "en",
+    "es",
+    "fr"
    ]
   }
  ],
- "updatedAt": "2024-11-19T21:05:58+00:00"
+ "updatedAt": "2024-11-21T21:09:11+00:00"
 }

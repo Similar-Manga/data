@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "fe1394fe-3d67-48fb-b452-06580d2dd9d7",
+   "title": {
+    "en": "Wakaba-sanchi no Aoi Koi"
+   },
+   "contentRating": "safe",
+   "score": 0.31377158,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
    "title": {
     "en": "Kusunoki's Flunking Her High School Glow-Up"
    },
    "contentRating": "safe",
-   "score": 0.31346008,
+   "score": 0.31346455,
    "languages": [
     "en",
     "vi",
@@ -26,7 +38,7 @@
     "en": "Code Geass: Lelouch The Private Home Tutor"
    },
    "contentRating": "safe",
-   "score": 0.31113145,
+   "score": 0.31113932,
    "languages": [
     "pt-br",
     "en"
@@ -38,13 +50,14 @@
     "en": "Kesa Mo Yuraretemasu"
    },
    "contentRating": "safe",
-   "score": 0.29760367,
+   "score": 0.29759923,
    "languages": [
     "vi",
     "pt-br",
     "en",
     "zh",
     "fr",
+    "uk",
     "id"
    ]
   },
@@ -54,7 +67,7 @@
     "en": "My Clueless First Friend"
    },
    "contentRating": "safe",
-   "score": 0.2975934,
+   "score": 0.2975953,
    "languages": [
     "en",
     "uk",
@@ -72,7 +85,7 @@
     "en": "One Piece in Love"
    },
    "contentRating": "safe",
-   "score": 0.2943027,
+   "score": 0.29430383,
    "languages": [
     "en"
    ]
@@ -83,7 +96,7 @@
     "en": "Don't Touch Kando-chan!"
    },
    "contentRating": "safe",
-   "score": 0.28670514,
+   "score": 0.28671062,
    "languages": [
     "en",
     "es-la",
@@ -91,30 +104,30 @@
    ]
   },
   {
-   "id": "baed25ca-569e-4461-bb31-b64883b39d99",
+   "id": "c0e068aa-e7a5-41fc-b72f-39b613613a61",
    "title": {
-    "en": "Itsuki-kun wa Tadasaretai"
+    "en": "Amagami LS ~Haruka Another~"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
-    "fr",
-    "uk",
-    "en",
-    "pt-br",
-    "vi"
+    "en"
    ]
   },
   {
-   "id": "57e0dd82-503b-4ba1-81a3-f3323f8f6456",
+   "id": "b5351a0c-96af-49f7-898e-17914a082561",
    "title": {
-    "en": "Urasaki-san wants to tell Omoteno-kun."
+    "en": "Boku no Kanojo wa Dekkawaii"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
     "vi",
-    "en"
+    "pl",
+    "en",
+    "pt-br",
+    "id",
+    "fr"
    ]
   },
   {
@@ -143,45 +156,15 @@
    ]
   },
   {
-   "id": "b5351a0c-96af-49f7-898e-17914a082561",
+   "id": "57e0dd82-503b-4ba1-81a3-f3323f8f6456",
    "title": {
-    "en": "Boku no Kanojo wa Dekkawaii"
+    "en": "Urasaki-san wants to tell Omoteno-kun."
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
     "vi",
-    "pl",
-    "en",
-    "pt-br",
-    "id",
-    "fr"
-   ]
-  },
-  {
-   "id": "7c2ab8e0-58e6-4315-93a1-c787ef765751",
-   "title": {
-    "en": "Aisupe @"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "9ba43723-337b-4123-912c-03e9dfa5e632",
-   "title": {
-    "en": "Takamori-kun o Damarasetai!!"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "vi",
-    "en",
-    "pt-br",
-    "id",
-    "es-la"
    ]
   },
   {
@@ -204,9 +187,39 @@
    ]
   },
   {
-   "id": "c0e068aa-e7a5-41fc-b72f-39b613613a61",
+   "id": "9ba43723-337b-4123-912c-03e9dfa5e632",
    "title": {
-    "en": "Amagami LS ~Haruka Another~"
+    "en": "Takamori-kun o Damarasetai!!"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "vi",
+    "en",
+    "pt-br",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "baed25ca-569e-4461-bb31-b64883b39d99",
+   "title": {
+    "en": "Itsuki-kun wa Tadasaretai"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "fr",
+    "uk",
+    "en",
+    "pt-br",
+    "vi"
+   ]
+  },
+  {
+   "id": "7c2ab8e0-58e6-4315-93a1-c787ef765751",
+   "title": {
+    "en": "Aisupe @"
    },
    "contentRating": "safe",
    "score": 0.28520605,
@@ -220,7 +233,7 @@
     "en": "Kaoru Hana wa Rin to Saku"
    },
    "contentRating": "safe",
-   "score": 0.27680948,
+   "score": 0.2768126,
    "languages": [
     "pt-br",
     "ru",
@@ -233,21 +246,7 @@
     "ar",
     "tr"
    ]
-  },
-  {
-   "id": "ffa0d510-e605-4bbe-8017-4295837718aa",
-   "title": {
-    "en": "Houkago, Family Restaurant de, Class no Ano Ko to"
-   },
-   "contentRating": "safe",
-   "score": 0.274804,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi",
-    "id"
-   ]
   }
  ],
- "updatedAt": "2024-11-19T20:40:22+00:00"
+ "updatedAt": "2024-11-21T20:43:57+00:00"
 }

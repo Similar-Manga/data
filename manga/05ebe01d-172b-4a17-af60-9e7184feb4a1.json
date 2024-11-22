@@ -93,9 +93,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2018-11-18T20:19:21+00:00",
-  "updatedAt": "2023-04-28T04:10:33+00:00"
+  "updatedAt": "2024-11-21T04:07:56+00:00"
  },
  "relationships": [
   {
@@ -205,37 +205,11 @@
    }
   },
   {
-   "id": "3664ebf9-0d47-4b1e-9e6e-58121724fd88",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Nekomint",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
    "id": "464ed8a1-f58c-4bb4-bf22-ce534feac801",
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\nChacha\n茶々"
+     "en": "**Name In Native Language:** 茶々 (Chacha)\n\n**Other Romanization:** Chacha"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -251,8 +225,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/tyatya1112",
-    "updatedAt": "2023-04-28T04:14:19+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-21T03:41:33+00:00",
+    "version": 3,
     "website": "http://tyatya1112.blog91.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -416,6 +390,34 @@
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
     "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cc3a6e45-26d4-4674-bc41-5729d37d2cf6",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** ねこみんと (Nekominto)\n\n**Other Romanizations:**\nneco mint\nNeko Mint"
+    },
+    "booth": "https://necominto.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nekomint",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/1698462",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/nek0m1nt",
+    "updatedAt": "2024-11-21T04:06:10+00:00",
+    "version": 2,
+    "website": "http://nekomint22310.blog119.fc2.com/",
     "weibo": null,
     "youtube": null
    }
@@ -609,37 +611,11 @@
    }
   },
   {
-   "id": "3664ebf9-0d47-4b1e-9e6e-58121724fd88",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Nekomint",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
    "id": "464ed8a1-f58c-4bb4-bf22-ce534feac801",
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\nChacha\n茶々"
+     "en": "**Name In Native Language:** 茶々 (Chacha)\n\n**Other Romanization:** Chacha"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -655,8 +631,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/tyatya1112",
-    "updatedAt": "2023-04-28T04:14:19+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-21T03:41:33+00:00",
+    "version": 3,
     "website": "http://tyatya1112.blog91.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -820,6 +796,34 @@
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
     "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cc3a6e45-26d4-4674-bc41-5729d37d2cf6",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** ねこみんと (Nekominto)\n\n**Other Romanizations:**\nneco mint\nNeko Mint"
+    },
+    "booth": "https://necominto.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nekomint",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/1698462",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/nek0m1nt",
+    "updatedAt": "2024-11-21T04:06:10+00:00",
+    "version": 2,
+    "website": "http://nekomint22310.blog119.fc2.com/",
     "weibo": null,
     "youtube": null
    }

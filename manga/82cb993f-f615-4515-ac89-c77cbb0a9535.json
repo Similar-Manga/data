@@ -10,14 +10,14 @@
     "en": "House of Adultery"
    },
    {
-    "en": "Otetsudai"
+    "ja-ro": "Otetsudai"
    },
    {
-    "en": "姦淫の家"
+    "ja": "姦淫の家"
    }
   ],
   "description": {
-   "en": "Anthology of stories written by different artists.  \n  \nVol 2  \n- Stories included:  \n- Otetsudai by KIRA Hiroyoshi"
+   "en": "Anthology of stories written by different artists.  \n  \nVol 2  \nStories included:  \n\n11. Inheritance. / Isan. (遺産) by Sada Ko-ji (さだこーじ)\n12. Otetsudai by KIRA Hiroyoshi"
   },
   "links": {
    "mu": "161142"
@@ -29,14 +29,14 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "f131f281-9063-4c1c-b231-b4c53d808691",
+  "latestUploadedChapter": "563b61fe-6a8f-412e-b1eb-b035db96bc60",
   "tags": [
    {
-    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Oneshot"
+      "en": "Anthology"
      },
      "description": {},
      "group": "format",
@@ -69,9 +69,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 8,
   "createdAt": "2020-04-28T06:06:19+00:00",
-  "updatedAt": "2023-06-23T05:32:44+00:00"
+  "updatedAt": "2024-11-20T13:53:52+00:00"
  },
  "relationships": [
   {
@@ -101,6 +101,32 @@
    }
   },
   {
+   "id": "b1c776ce-72d4-42d4-9165-b22d6407e89e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-19T10:23:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sada Ko-ji (さだこーじ)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-19T10:23:23+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "9dd2c0eb-2c06-44da-9802-d389942a9bd6",
    "type": "artist",
    "attributes": {
@@ -120,6 +146,32 @@
     "tumblr": null,
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b1c776ce-72d4-42d4-9165-b22d6407e89e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-19T10:23:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sada Ko-ji (さだこーじ)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-19T10:23:23+00:00",
     "version": 1,
     "website": null,
     "weibo": null,

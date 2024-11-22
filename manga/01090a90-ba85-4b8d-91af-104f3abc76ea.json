@@ -1,0 +1,158 @@
+{
+ "id": "01090a90-ba85-4b8d-91af-104f3abc76ea",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sakebi"
+  },
+  "altTitles": [
+   {
+    "ja": "大人の問題提起シリーズ さけび"
+   },
+   {
+    "fr": "Moi aussi"
+   },
+   {
+    "ja-ro": "Otona no Mondai Teiki Series: Sakebi"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mu": "ifstmug"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "completed",
+  "year": 2018,
+  "contentRating": "suggestive",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "bd753396-46bb-4de8-bb8a-627187a14808",
+  "tags": [
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-20T15:29:47+00:00",
+  "updatedAt": "2024-11-20T15:30:47+00:00"
+ },
+ "relationships": [
+  {
+   "id": "da3ebcf9-68b8-47aa-93e3-2d8b860ced26",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Momochi Reiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "da3ebcf9-68b8-47aa-93e3-2d8b860ced26",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Momochi Reiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0dc9ff7f-dfa7-47a4-9ab9-16e699d6734e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-20T15:29:51+00:00",
+    "description": "",
+    "fileName": "d429d456-7d93-4870-9c64-75fe9bd5ee50.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-20T15:29:51+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "526198f9-cc1b-4f8d-9ee3-b5c5918a86a2",
+   "type": "creator"
+  }
+ ]
+}

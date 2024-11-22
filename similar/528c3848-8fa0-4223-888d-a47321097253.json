@@ -19,12 +19,28 @@
     "en": "Our Namco 80's Tribute Comics"
    },
    "contentRating": "safe",
-   "score": 0.2251143
+   "score": 0.22512405
   },
   {
    "id": "fc91df19-601c-40cb-aa4b-4da9dae5bda9",
    "title": {
     "en": "Janisaris"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622
+  },
+  {
+   "id": "b6a8560d-e9de-451d-a1eb-a5fb87a7286f",
+   "title": {
+    "en": "Kalawira"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622
+  },
+  {
+   "id": "a0a3b2de-ffe1-46a1-a2ec-fbbd5250f0a0",
+   "title": {
+    "en": "Rojo Densetsu"
    },
    "contentRating": "safe",
    "score": 0.20865622
@@ -39,22 +55,6 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "a0a3b2de-ffe1-46a1-a2ec-fbbd5250f0a0",
-   "title": {
-    "en": "Rojo Densetsu"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622
-  },
-  {
-   "id": "b6a8560d-e9de-451d-a1eb-a5fb87a7286f",
-   "title": {
-    "en": "Kalawira"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622
   },
   {
    "id": "f75715d2-084e-454a-81a0-269abe875cbe",
@@ -73,9 +73,44 @@
    "score": 0.20203052
   },
   {
-   "id": "f6ab2cf5-c4a4-49fa-8c1d-aabf73d7d68d",
+   "id": "8750501b-22d7-4bde-b23b-cb90a962da68",
    "title": {
-    "en": "XOGENASYS"
+    "en": "Crunch"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "188e78da-cabd-4041-87bb-0063aef7e458",
+   "title": {
+    "en": "Gunfire"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ac72aa72-f617-4f63-94bf-6dad044f3707",
+   "title": {
+    "en": "Next Dimension FULL COLOR"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "60b93dc8-5981-43d6-a8df-e900ac77036e",
+   "title": {
+    "en": "Record of Copoka: The Nine Dragons"
    },
    "contentRating": "safe",
    "score": 0.20203052
@@ -87,18 +122,6 @@
    },
    "contentRating": "safe",
    "score": 0.20203052
-  },
-  {
-   "id": "8750501b-22d7-4bde-b23b-cb90a962da68",
-   "title": {
-    "en": "Crunch"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
   },
   {
    "id": "2063ced4-bf94-4471-8772-75f6720be008",
@@ -118,35 +141,12 @@
    ]
   },
   {
-   "id": "60b93dc8-5981-43d6-a8df-e900ac77036e",
+   "id": "f6ab2cf5-c4a4-49fa-8c1d-aabf73d7d68d",
    "title": {
-    "en": "Record of Copoka: The Nine Dragons"
+    "en": "XOGENASYS"
    },
    "contentRating": "safe",
    "score": 0.20203052
-  },
-  {
-   "id": "ac72aa72-f617-4f63-94bf-6dad044f3707",
-   "title": {
-    "en": "Next Dimension FULL COLOR"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "188e78da-cabd-4041-87bb-0063aef7e458",
-   "title": {
-    "en": "Gunfire"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
   },
   {
    "id": "5cc5292f-51f5-4c6d-80df-6db3a291357c",
@@ -157,5 +157,5 @@
    "score": 0.19440396
   }
  ],
- "updatedAt": "2024-11-19T20:12:05+00:00"
+ "updatedAt": "2024-11-21T20:16:01+00:00"
 }

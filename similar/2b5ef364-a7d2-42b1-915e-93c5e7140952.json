@@ -11,7 +11,7 @@
     "en": "Tsuzuki wa Mata Ashita"
    },
    "contentRating": "safe",
-   "score": 0.23860063,
+   "score": 0.23859367,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Uchi no Hide"
    },
    "contentRating": "safe",
-   "score": 0.22595051,
+   "score": 0.22594129,
    "languages": [
     "pl",
     "en",
@@ -30,9 +30,22 @@
    ]
   },
   {
-   "id": "beb25ef5-a947-423c-948c-2a43c038f3b4",
+   "id": "f093dcb2-848d-4540-b114-b800256f87ed",
    "title": {
-    "en": "Seaside Return"
+    "en": "By the Tama River"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "ee12e48c-662b-4e08-bb70-b782de017fde",
+   "title": {
+    "en": "Colors"
    },
    "contentRating": "safe",
    "score": 0.22506468,
@@ -64,9 +77,9 @@
    ]
   },
   {
-   "id": "ee12e48c-662b-4e08-bb70-b782de017fde",
+   "id": "beb25ef5-a947-423c-948c-2a43c038f3b4",
    "title": {
-    "en": "Colors"
+    "en": "Seaside Return"
    },
    "contentRating": "safe",
    "score": 0.22506468,
@@ -75,25 +88,12 @@
    ]
   },
   {
-   "id": "f093dcb2-848d-4540-b114-b800256f87ed",
-   "title": {
-    "en": "By the Tama River"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en",
-    "pt-br",
-    "ru"
-   ]
-  },
-  {
    "id": "301e6eaa-6bbe-4661-9ec6-25069aa4f4c4",
    "title": {
     "en": "Waltz"
    },
    "contentRating": "safe",
-   "score": 0.21777447,
+   "score": 0.21777181,
    "languages": [
     "it",
     "pt-br",
@@ -108,7 +108,18 @@
     "en": "03"
    },
    "contentRating": "safe",
-   "score": 0.20754738,
+   "score": 0.20754957,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dd27c4db-67e3-4786-97de-ca934eb529e1",
+   "title": {
+    "en": "I Can't Throw Away Books"
+   },
+   "contentRating": "safe",
+   "score": 0.20349565,
    "languages": [
     "en"
    ]
@@ -119,7 +130,7 @@
     "en": "Watashitachi, Rikon Shimasu"
    },
    "contentRating": "safe",
-   "score": 0.20092694,
+   "score": 0.20092471,
    "languages": [
     "pt-br",
     "en",
@@ -129,54 +140,6 @@
     "ca",
     "vi",
     "id"
-   ]
-  },
-  {
-   "id": "f4550fe1-96f9-4634-896e-526a80b2093d",
-   "title": {
-    "en": "Boku no Giovanni"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en",
-    "vi",
-    "hu"
-   ]
-  },
-  {
-   "id": "5d4c731f-0886-4d32-820c-3a59e042e82c",
-   "title": {
-    "en": "Good Morning, Rakuen-kun (Tentatively Named)"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "65be0a5f-2425-42bd-a388-2f0f5f573e3a",
-   "title": {
-    "en": "The Net Generation Teacher"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "22a86d7c-6827-402c-80af-dbdee3c6c6aa",
-   "title": {
-    "en": "Ihou no Oswald"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "zh-hk",
-    "en"
    ]
   },
   {
@@ -194,16 +157,53 @@
    ]
   },
   {
-   "id": "fa283a9b-5f72-4fa3-8448-afb8dda4032a",
+   "id": "5d4c731f-0886-4d32-820c-3a59e042e82c",
    "title": {
-    "en": "Primal"
+    "en": "Good Morning, Rakuen-kun (Tentatively Named)"
    },
    "contentRating": "safe",
-   "score": 0.19429792,
+   "score": 0.19491173,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "f4550fe1-96f9-4634-896e-526a80b2093d",
+   "title": {
+    "en": "Boku no Giovanni"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "en",
+    "vi",
+    "hu"
+   ]
+  },
+  {
+   "id": "22a86d7c-6827-402c-80af-dbdee3c6c6aa",
+   "title": {
+    "en": "Ihou no Oswald"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
+  },
+  {
+   "id": "65be0a5f-2425-42bd-a388-2f0f5f573e3a",
+   "title": {
+    "en": "The Net Generation Teacher"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-11-19T19:58:38+00:00"
+ "updatedAt": "2024-11-21T20:02:43+00:00"
 }
