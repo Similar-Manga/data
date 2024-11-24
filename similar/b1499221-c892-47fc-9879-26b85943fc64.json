@@ -6,15 +6,35 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "7c8f676f-e193-4e64-a0b7-31c57f26c762",
+   "id": "f6aebf39-07b8-4959-ba73-fa852b96913b",
    "title": {
-    "en": "Pink to Habanero"
+    "en": "Koiseyo Mayakashi Tenshi-domo"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "ru",
+    "es",
+    "uk",
+    "en",
+    "fr",
+    "vi",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "3aa6cd45-a36e-4abd-ab1c-f60f1db0014a",
+   "title": {
+    "en": "Natsume \u0026 Natsume"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
     "en",
-    "vi"
+    "pt-br",
+    "vi",
+    "tr"
    ]
   },
   {
@@ -33,34 +53,6 @@
    ]
   },
   {
-   "id": "3aa6cd45-a36e-4abd-ab1c-f60f1db0014a",
-   "title": {
-    "en": "Natsume \u0026 Natsume"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi",
-    "tr"
-   ]
-  },
-  {
-   "id": "47561747-8564-41a1-9cf9-17a0b94fb12c",
-   "title": {
-    "en": "Kuzuna Kimi Shika Aisenai"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "es-la",
-    "vi",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "7880fb0e-f22a-40f6-b97c-013997df357f",
    "title": {
     "en": "Otonashi-sou na Danshi no Tondemonai Himitsu wo Shite Shimatta"
@@ -75,20 +67,28 @@
    ]
   },
   {
-   "id": "f6aebf39-07b8-4959-ba73-fa852b96913b",
+   "id": "7c8f676f-e193-4e64-a0b7-31c57f26c762",
    "title": {
-    "en": "Koiseyo Mayakashi Tenshi-domo"
+    "en": "Pink to Habanero"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
-    "ru",
-    "es",
-    "uk",
     "en",
-    "fr",
-    "vi",
+    "vi"
+   ]
+  },
+  {
+   "id": "47561747-8564-41a1-9cf9-17a0b94fb12c",
+   "title": {
+    "en": "Kuzuna Kimi Shika Aisenai"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
     "es-la",
+    "vi",
+    "en",
     "pt-br"
    ]
   },
@@ -109,7 +109,7 @@
     "en": "Kanojo to Kare no Kankei ~Heibon na Hayakawa-san to Heibon na Miura-kun no Hibon na Kankei~"
    },
    "contentRating": "safe",
-   "score": 0.27699035,
+   "score": 0.2773049,
    "languages": [
     "vi",
     "en",
@@ -122,7 +122,7 @@
     "en": "Together Forever"
    },
    "contentRating": "safe",
-   "score": 0.26117054,
+   "score": 0.26116976,
    "languages": [
     "en",
     "vi",
@@ -130,18 +130,6 @@
     "fr",
     "pt-br",
     "ar"
-   ]
-  },
-  {
-   "id": "707ba148-dfa0-42b4-b075-d37743ec3f39",
-   "title": {
-    "en": "Himitsu no Otsukiai wo Shiteimasu. (Webcomic)"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "vi",
-    "en"
    ]
   },
   {
@@ -154,6 +142,19 @@
    "languages": [
     "vi",
     "en"
+   ]
+  },
+  {
+   "id": "b308f15d-6efb-4ce4-ae25-026a3fa1796d",
+   "title": {
+    "en": "Kaishin no Ichigeki!"
+   },
+   "contentRating": "safe",
+   "score": 0.25509605,
+   "languages": [
+    "es-la",
+    "en",
+    "vi"
    ]
   },
   {
@@ -171,15 +172,39 @@
    ]
   },
   {
-   "id": "b308f15d-6efb-4ce4-ae25-026a3fa1796d",
+   "id": "707ba148-dfa0-42b4-b075-d37743ec3f39",
    "title": {
-    "en": "Kaishin no Ichigeki!"
+    "en": "Himitsu no Otsukiai wo Shiteimasu. (Webcomic)"
    },
    "contentRating": "safe",
    "score": 0.25509605,
    "languages": [
-    "es-la",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "1b076bfe-b05d-44df-86eb-a9d2dd50ce90",
+   "title": {
+    "en": "We Have Gathered Happy Love Stories."
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
     "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "6ec2bb05-5ad8-4e86-8143-6370879f7114",
+   "title": {
+    "en": "Koi wa Isogaba Maware Migi: Anzai Karin Tanpenshuu"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en",
+    "pt-br",
     "vi"
    ]
   },
@@ -197,31 +222,7 @@
     "vi",
     "pt-br"
    ]
-  },
-  {
-   "id": "724998ca-77ab-41ed-a855-fe6a19e562af",
-   "title": {
-    "en": "Kazuki-san no Koi suru Jikan"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "vi"
-   ]
-  },
-  {
-   "id": "28074f2b-f393-474a-8b13-ec196c4be75e",
-   "title": {
-    "en": "Haru no Arashi to Monster"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "ar",
-    "vi",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-11-21T20:48:18+00:00"
+ "updatedAt": "2024-11-23T21:01:13+00:00"
 }

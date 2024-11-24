@@ -7,13 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "(C89) [夕凪の戦力外部隊 (凪市)] あいつの虜になった僕。冬"
+    "ja": "(C89) あいつの虜になった僕。冬"
    },
    {
-    "en": "あいつの虜になった僕。冬"
-   },
-   {
-    "en": "그 녀석의 포로가 된 나"
+    "ko": "그 녀석의 포로가 된 나"
    }
   ],
   "description": {
@@ -53,12 +50,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-04-20T15:43:06+00:00",
-  "updatedAt": "2021-05-25T15:42:17+00:00"
+  "updatedAt": "2024-11-21T06:48:08+00:00"
  },
  "relationships": [
   {

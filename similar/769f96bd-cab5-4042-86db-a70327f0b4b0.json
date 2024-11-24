@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "0d498521-3264-4b49-bc77-a04af3c2b9b2",
-   "title": {
-    "en": "Hajimete no Hito"
-   },
-   "contentRating": "safe",
-   "score": 0.28056976,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
    "id": "67997071-83d8-4ffa-8126-ae7e8b9f3933",
    "title": {
     "en": "Hatsukoi no Sekai"
    },
    "contentRating": "safe",
-   "score": 0.24278004,
+   "score": 0.24276648,
    "languages": [
     "es-la"
    ]
@@ -33,7 +22,7 @@
     "en": "Baby Love"
    },
    "contentRating": "safe",
-   "score": 0.23957874,
+   "score": 0.23955195,
    "languages": [
     "es-la"
    ]
@@ -44,7 +33,18 @@
     "en": "My Adorable Marshal"
    },
    "contentRating": "safe",
-   "score": 0.22332597,
+   "score": 0.22331321,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "0d498521-3264-4b49-bc77-a04af3c2b9b2",
+   "title": {
+    "en": "Hajimete no Hito"
+   },
+   "contentRating": "safe",
+   "score": 0.20200573,
    "languages": [
     "es-la"
    ]
@@ -62,18 +62,6 @@
    ]
   },
   {
-   "id": "b9871c27-7dfe-409a-93cf-084d8669e59e",
-   "title": {
-    "en": "Suki Desu, Tonari no Onii-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.18144369,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "8b8d20cf-c58a-4da4-a9ad-6017b9092c08",
    "title": {
     "en": "Sono Rokudenashi ni You ga Aru"
@@ -82,6 +70,18 @@
    "score": 0.18144369,
    "languages": [
     "fr",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "b9871c27-7dfe-409a-93cf-084d8669e59e",
+   "title": {
+    "en": "Suki Desu, Tonari no Onii-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.18144369,
+   "languages": [
     "en",
     "es-la"
    ]
@@ -107,9 +107,21 @@
     "en": "Sensei to Iwareru hodo Baka de Nashi"
    },
    "contentRating": "safe",
-   "score": 0.16435093,
+   "score": 0.16435115,
    "languages": [
     "es-la"
+   ]
+  },
+  {
+   "id": "8298a00f-4634-4ff8-baf9-794addbbe7a7",
+   "title": {
+    "en": "Shiba to Ran"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -127,15 +139,17 @@
    ]
   },
   {
-   "id": "3d2420d7-7a5a-4318-935f-1d3fb35a55db",
+   "id": "61d53bb7-b868-4ab2-ac1f-d309581e275e",
    "title": {
-    "en": "Sweet Spot"
+    "en": "Seihantai na Watashitachi"
    },
    "contentRating": "safe",
    "score": 0.15713485,
    "languages": [
     "en",
-    "es-la"
+    "es-la",
+    "vi",
+    "pt-br"
    ]
   },
   {
@@ -152,35 +166,21 @@
    ]
   },
   {
-   "id": "61d53bb7-b868-4ab2-ac1f-d309581e275e",
+   "id": "3d2420d7-7a5a-4318-935f-1d3fb35a55db",
    "title": {
-    "en": "Seihantai na Watashitachi"
+    "en": "Sweet Spot"
    },
    "contentRating": "safe",
    "score": 0.15713485,
    "languages": [
     "en",
-    "es-la",
-    "vi",
-    "pt-br"
+    "es-la"
    ]
   },
   {
    "id": "2f441874-10b8-42fc-a41c-b6545441c22f",
    "title": {
     "en": "Café Velomano"
-   },
-   "contentRating": "safe",
-   "score": 0.15713485,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "8298a00f-4634-4ff8-baf9-794addbbe7a7",
-   "title": {
-    "en": "Shiba to Ran"
    },
    "contentRating": "safe",
    "score": 0.15713485,
@@ -202,5 +202,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-21T20:28:18+00:00"
+ "updatedAt": "2024-11-23T20:41:07+00:00"
 }

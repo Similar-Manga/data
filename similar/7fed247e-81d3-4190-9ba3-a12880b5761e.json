@@ -6,48 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "eca1a3a8-881d-4b0c-bbc7-c74169bb1d2d",
+   "title": {
+    "en": "Butler, please!"
+   },
+   "contentRating": "safe",
+   "score": 0.31336895,
+   "languages": [
+    "es-la",
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "189447eb-6ee5-4f1a-872e-f447995c8d64",
    "title": {
     "en": "Pretty"
    },
    "contentRating": "safe",
-   "score": 0.3364436,
+   "score": 0.3020698,
    "languages": [
     "fr"
-   ]
-  },
-  {
-   "id": "9bc3c048-e91b-47f8-9312-c50c2734be6a",
-   "title": {
-    "en": "Spirit Food King"
-   },
-   "contentRating": "safe",
-   "score": 0.3172086,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "5bb8e0e5-4632-4687-8f97-c64660779d34",
-   "title": {
-    "en": "God Slayer"
-   },
-   "contentRating": "safe",
-   "score": 0.31363347,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "9305c532-9881-4da9-9cd4-fe950122d902",
-   "title": {
-    "en": "Wei Ming Shen Dou"
-   },
-   "contentRating": "safe",
-   "score": 0.3093,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -56,7 +35,7 @@
     "en": "The End of Unrequited Love"
    },
    "contentRating": "safe",
-   "score": 0.30569208,
+   "score": 0.30169073,
    "languages": [
     "en"
    ]
@@ -67,25 +46,10 @@
     "en": "Peach Branch Bubbles"
    },
    "contentRating": "safe",
-   "score": 0.30429274,
+   "score": 0.30056742,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "ea889b36-7159-44d0-9eef-1dda6125828e",
-   "title": {
-    "en": "Yeonwoo's Innocence"
-   },
-   "contentRating": "safe",
-   "score": 0.30309534,
-   "languages": [
-    "pt-br",
-    "en",
-    "it",
-    "es-la",
-    "ar"
    ]
   },
   {
@@ -94,29 +58,9 @@
     "en": "Me and My Professor"
    },
    "contentRating": "safe",
-   "score": 0.301427,
+   "score": 0.29827985,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "58aa3f08-1780-4079-bb07-01b524cc07b5",
-   "title": {
-    "en": "Dedicated to Someone Special"
-   },
-   "contentRating": "safe",
-   "score": 0.30065796
-  },
-  {
-   "id": "61566310-b625-49cd-bdc9-b52b737125e1",
-   "title": {
-    "en": "An Exorbitant Wife"
-   },
-   "contentRating": "safe",
-   "score": 0.30055782,
-   "languages": [
-    "en",
-    "fr"
    ]
   },
   {
@@ -125,7 +69,7 @@
     "en": "Do You Want Me to Lend You a Lighter?"
    },
    "contentRating": "safe",
-   "score": 0.2956304,
+   "score": 0.29364508,
    "languages": [
     "en"
    ]
@@ -136,20 +80,29 @@
     "en": "Between Two Question Marks"
    },
    "contentRating": "safe",
-   "score": 0.29506302,
+   "score": 0.29319042,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "21f00527-e6b4-426e-80d4-98e82a970bd1",
+   "id": "58aa3f08-1780-4079-bb07-01b524cc07b5",
    "title": {
-    "en": "Today I Meet a Dragon"
+    "en": "Dedicated to Someone Special"
    },
    "contentRating": "safe",
-   "score": 0.29459292,
+   "score": 0.29260343
+  },
+  {
+   "id": "9bc3c048-e91b-47f8-9312-c50c2734be6a",
+   "title": {
+    "en": "Spirit Food King"
+   },
+   "contentRating": "safe",
+   "score": 0.28861055,
    "languages": [
-    "en"
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -158,11 +111,31 @@
     "en": "At That Time When We Were Like"
    },
    "contentRating": "safe",
-   "score": 0.29400608,
+   "score": 0.28810364,
    "languages": [
     "pt-br",
     "id"
    ]
+  },
+  {
+   "id": "61566310-b625-49cd-bdc9-b52b737125e1",
+   "title": {
+    "en": "An Exorbitant Wife"
+   },
+   "contentRating": "safe",
+   "score": 0.2880408,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "169cccac-6507-40b2-8a08-e17146c86a83",
+   "title": {
+    "en": "A Fabricated Love Affair"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
   },
   {
    "id": "047d624d-d80c-4b56-939f-3c720bc78ebb",
@@ -170,19 +143,43 @@
     "en": "When There's Light in Your Eyes"
    },
    "contentRating": "safe",
-   "score": 0.29379708
+   "score": 0.2857143
   },
   {
-   "id": "1c3d683a-1d2b-421e-a515-6136deaba691",
+   "id": "c7798ead-25e7-4ab1-8ed0-40b3b1ba7c98",
    "title": {
-    "en": "Fox Love Story"
+    "en": "Weak Prince Chases Love"
    },
    "contentRating": "safe",
-   "score": 0.28990576,
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e2148c01-73f1-4726-abaa-500dabd228b3",
+   "title": {
+    "en": "Love Under the Sunset"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "fr",
+    "vi"
+   ]
+  },
+  {
+   "id": "e8b8ffb6-cafc-4ff6-8f32-70197ffa4527",
+   "title": {
+    "en": "My oc is Fine"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-21T20:31:31+00:00"
+ "updatedAt": "2024-11-23T20:44:20+00:00"
 }

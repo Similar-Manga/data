@@ -11,7 +11,7 @@
     "en": "Yoshida Lemon Drops"
    },
    "contentRating": "suggestive",
-   "score": 0.30255955,
+   "score": 0.30256367,
    "languages": [
     "es-la",
     "en"
@@ -23,7 +23,7 @@
     "en": "R15+ Ja Dame Desuka?"
    },
    "contentRating": "suggestive",
-   "score": 0.29478052,
+   "score": 0.29477817,
    "languages": [
     "en",
     "pt-br",
@@ -38,7 +38,7 @@
     "en": "The Shiunji Family Children"
    },
    "contentRating": "suggestive",
-   "score": 0.2926991,
+   "score": 0.29272327,
    "languages": [
     "pt-br",
     "fr",
@@ -51,13 +51,28 @@
    ]
   },
   {
-   "id": "77e86805-3b9e-4518-b873-f07dcb05fe65",
+   "id": "388f639e-7cd1-4493-8242-ae480647479a",
    "title": {
-    "en": "The Fan \u0026 M Museum"
+    "en": "SM Kanojo"
    },
    "contentRating": "suggestive",
-   "score": 0.2896554,
+   "score": 0.28520605,
    "languages": [
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "8165b30e-a608-4a58-ae66-d97f27b67479",
+   "title": {
+    "en": "Futago Saien"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28520605,
+   "languages": [
+    "vi",
+    "es-la",
     "en"
    ]
   },
@@ -76,41 +91,17 @@
    ]
   },
   {
-   "id": "8165b30e-a608-4a58-ae66-d97f27b67479",
+   "id": "b41581bd-ea92-44ef-8eb9-cd62df5c35b0",
    "title": {
-    "en": "Futago Saien"
+    "en": "Kuse Tsuyo Kanojo wa Toko ni Izanau"
    },
    "contentRating": "suggestive",
    "score": 0.28520605,
    "languages": [
-    "vi",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "d60427f3-243e-43d6-8072-c37d7a6fcc3e",
-   "title": {
-    "en": "My Japanese Sisters"
-   },
-   "contentRating": "suggestive",
-   "score": 0.28520605,
-   "languages": [
-    "pt-br",
-    "ru"
-   ]
-  },
-  {
-   "id": "388f639e-7cd1-4493-8242-ae480647479a",
-   "title": {
-    "en": "SM Kanojo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.28520605,
-   "languages": [
-    "pt-br",
     "en",
-    "es-la"
+    "vi",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -142,65 +133,6 @@
    ]
   },
   {
-   "id": "5a90308a-8b12-4a4d-9c6d-2487028fe319",
-   "title": {
-    "en": "Uzaki-chan wa Asobitai!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.28520605,
-   "languages": [
-    "es-la",
-    "it",
-    "en",
-    "vi",
-    "pt-br",
-    "pl",
-    "fr"
-   ]
-  },
-  {
-   "id": "5ae6ba69-9680-456a-8b84-47c68a6bac00",
-   "title": {
-    "en": "Risou no Kanojo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.28520605,
-   "languages": [
-    "en",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "eb48c615-1c00-4726-b839-850d01d774b0",
-   "title": {
-    "en": "Omae Imouto ja Nakute Iinazuke datta no kayo!?"
-   },
-   "contentRating": "suggestive",
-   "score": 0.28520605,
-   "languages": [
-    "es-la",
-    "en",
-    "id",
-    "vi",
-    "ru"
-   ]
-  },
-  {
-   "id": "b41581bd-ea92-44ef-8eb9-cd62df5c35b0",
-   "title": {
-    "en": "Kuse Tsuyo Kanojo wa Toko ni Izanau"
-   },
-   "contentRating": "suggestive",
-   "score": 0.28520605,
-   "languages": [
-    "en",
-    "vi",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
    "id": "ec387b13-b35c-4abe-a089-5b69ff429118",
    "title": {
     "en": "Ouji-sama no Tomodachi"
@@ -225,7 +157,81 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "d60427f3-243e-43d6-8072-c37d7a6fcc3e",
+   "title": {
+    "en": "My Japanese Sisters"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28520605,
+   "languages": [
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "5ae6ba69-9680-456a-8b84-47c68a6bac00",
+   "title": {
+    "en": "Risou no Kanojo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
+   "id": "5a90308a-8b12-4a4d-9c6d-2487028fe319",
+   "title": {
+    "en": "Uzaki-chan wa Asobitai!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28520605,
+   "languages": [
+    "es-la",
+    "it",
+    "en",
+    "vi",
+    "pt-br",
+    "pl",
+    "fr"
+   ]
+  },
+  {
+   "id": "fffbfac3-b7ad-41ee-9581-b4d90ecec941",
+   "title": {
+    "en": "Grand Blue Dreaming"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28520605,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "ro",
+    "ru",
+    "fa",
+    "it",
+    "es",
+    "es-la",
+    "id",
+    "fr"
+   ]
+  },
+  {
+   "id": "cde5de58-4287-4de8-90fc-1e252ee302da",
+   "title": {
+    "en": "Koi to Senkyo to Chocolate"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2807494,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-21T20:49:07+00:00"
+ "updatedAt": "2024-11-23T21:02:03+00:00"
 }

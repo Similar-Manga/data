@@ -1,0 +1,144 @@
+{
+ "id": "0b3256ad-5137-4d5c-a95e-5e5fc7b485fd",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Megami no Ko"
+  },
+  "altTitles": [
+   {
+    "ja": "女神の子"
+   }
+  ],
+  "description": {
+   "ja": "最も美しい女神は誰か―美貌を巡る神々の諍いは、いつしか人間界に大戦争を引き起こした。何不自由なく育てられたちょっとわがままな細腕の王太子・イタカもまた、女神たちの争いや他国の思惑に巻き込まれていく。"
+  },
+  "links": {
+   "al": "180642",
+   "amz": "https://www.amazon.co.jp/dp/B0DH8NZT9S",
+   "ap": "megami-no-ko",
+   "bw": "series/487497",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/850164",
+   "mal": "166240",
+   "mu": "wdn54ut"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-21T20:15:50+00:00",
+  "updatedAt": "2024-11-21T20:16:02+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d8349319-94dc-4d07-8a9f-666523269abb",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tanaka Hosana",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d8349319-94dc-4d07-8a9f-666523269abb",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tanaka Hosana",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c9af1f9f-83fb-496c-b10c-70bf0749f976",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T20:15:55+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "9d6c9bec-18e1-440b-aacb-a94d5d67a0f2.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-21T20:15:55+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

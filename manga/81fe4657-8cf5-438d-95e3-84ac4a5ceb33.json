@@ -3,17 +3,22 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Nendou"
+   "en": "Psychokinesis"
   },
   "altTitles": [
    {
     "ja": "ネンドウ"
    },
    {
-    "en": "Psychokinesis"
+    "ja-ro": "Nendou"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Published in *Go! Go! Jump 2006*. [[1](https://x.com/izumi000/status/1045589380717371392)][[2](https://x.com/izumi000/status/1368611067933331464)][[3](https://jump1968.com/gogo%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E8%A1%A8%E7%B4%99%E4%B8%80%E8%A6%A7/)]"
+  },
+  "links": {
+   "mu": "gh2e3nl"
+  },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "completed",
@@ -26,18 +31,6 @@
     "attributes": {
      "name": {
       "en": "Oneshot"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
-    "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Award Winning"
      },
      "description": {},
      "group": "format",
@@ -58,9 +51,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-01-14T18:32:21+00:00",
-  "updatedAt": "2024-01-14T18:40:01+00:00"
+  "updatedAt": "2024-11-21T22:16:54+00:00"
  },
  "relationships": [
   {
@@ -68,7 +61,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 泉朝樹\n\nHe met his wife, [Izumi Emo](https://mangadex.org/author/c1c63cf4-f44c-429c-986a-c052d89df536), in high school. They have 3 children together.\n\nFormer assistant of [Masuda Tsuyoshi](https://mangadex.org/author/605a4425-881b-4fd0-97f3-1e85636fae15/masuda-tsuyoshi).\n\nFriends with [Katayama Yousuke](https://mangadex.org/author/5882f4df-26a0-4cd5-90f5-b01f7007246c/katayama-yousuke) and [Oshikiri Rensuke](https://mangadex.org/author/9fbe9050-d5c2-48fe-8154-6ebe032de6c4/oshikiri-rensuke).\n\nOften streams his drawing on YouTube."
+     "en": "**Name In Native Language:** 泉朝樹\n\nHe met his wife, [Izumi Emo](https://mangadex.org/author/c1c63cf4-f44c-429c-986a-c052d89df536), in high school. They have 3 children together.\n\nAt 18 years old, in January 2004, he was a finalist and won an honorable mention from the 10th Jump Twelve Newcomer Comic Awards with “CLEANER”. He then debuted in December 2006 with “Psychokinesis” in *Go! Go! Jump*.\n\nFormer assistant of [Masuda Tsuyoshi](https://mangadex.org/author/605a4425-881b-4fd0-97f3-1e85636fae15/masuda-tsuyoshi). Friends with [Katayama Yousuke](https://mangadex.org/author/5882f4df-26a0-4cd5-90f5-b01f7007246c/katayama-yousuke) and [Oshikiri Rensuke](https://mangadex.org/author/9fbe9050-d5c2-48fe-8154-6ebe032de6c4/oshikiri-rensuke).\n\nOften streams his drawing on YouTube."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -84,8 +77,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/izumi000",
-    "updatedAt": "2024-09-22T05:10:42+00:00",
-    "version": 12,
+    "updatedAt": "2024-11-21T23:26:03+00:00",
+    "version": 14,
     "website": null,
     "weibo": null,
     "youtube": "https://www.youtube.com/channel/UCYw9ZyeBH1V0ti3aFl21TyQ"
@@ -96,7 +89,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 泉朝樹\n\nHe met his wife, [Izumi Emo](https://mangadex.org/author/c1c63cf4-f44c-429c-986a-c052d89df536), in high school. They have 3 children together.\n\nFormer assistant of [Masuda Tsuyoshi](https://mangadex.org/author/605a4425-881b-4fd0-97f3-1e85636fae15/masuda-tsuyoshi).\n\nFriends with [Katayama Yousuke](https://mangadex.org/author/5882f4df-26a0-4cd5-90f5-b01f7007246c/katayama-yousuke) and [Oshikiri Rensuke](https://mangadex.org/author/9fbe9050-d5c2-48fe-8154-6ebe032de6c4/oshikiri-rensuke).\n\nOften streams his drawing on YouTube."
+     "en": "**Name In Native Language:** 泉朝樹\n\nHe met his wife, [Izumi Emo](https://mangadex.org/author/c1c63cf4-f44c-429c-986a-c052d89df536), in high school. They have 3 children together.\n\nAt 18 years old, in January 2004, he was a finalist and won an honorable mention from the 10th Jump Twelve Newcomer Comic Awards with “CLEANER”. He then debuted in December 2006 with “Psychokinesis” in *Go! Go! Jump*.\n\nFormer assistant of [Masuda Tsuyoshi](https://mangadex.org/author/605a4425-881b-4fd0-97f3-1e85636fae15/masuda-tsuyoshi). Friends with [Katayama Yousuke](https://mangadex.org/author/5882f4df-26a0-4cd5-90f5-b01f7007246c/katayama-yousuke) and [Oshikiri Rensuke](https://mangadex.org/author/9fbe9050-d5c2-48fe-8154-6ebe032de6c4/oshikiri-rensuke).\n\nOften streams his drawing on YouTube."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -112,8 +105,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/izumi000",
-    "updatedAt": "2024-09-22T05:10:42+00:00",
-    "version": 12,
+    "updatedAt": "2024-11-21T23:26:03+00:00",
+    "version": 14,
     "website": null,
     "weibo": null,
     "youtube": "https://www.youtube.com/channel/UCYw9ZyeBH1V0ti3aFl21TyQ"

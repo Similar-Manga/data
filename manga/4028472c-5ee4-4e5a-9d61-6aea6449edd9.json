@@ -33,11 +33,11 @@
    "en",
    "id",
    "ru",
+   "pt-br",
    "vi",
-   "pl",
-   "pt-br"
+   "pl"
   ],
-  "latestUploadedChapter": "bc0e258d-83d8-43b5-998e-a584e4f4fd67",
+  "latestUploadedChapter": "920a190f-984d-4159-89ab-df206f97ef79",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -64,6 +64,18 @@
     }
    },
    {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -77,9 +89,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2024-11-01T02:53:31+00:00",
-  "updatedAt": "2024-11-17T01:22:52+00:00"
+  "updatedAt": "2024-11-22T15:03:37+00:00"
  },
  "relationships": [
   {

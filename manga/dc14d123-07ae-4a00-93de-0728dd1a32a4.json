@@ -3,17 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "A Gal Who Will Become a Yandere in 10 Days"
+   "en": "Toukago Yandere ni Naru Gyaru"
   },
   "altTitles": [
    {
-    "es-la": "La Gal Que Se Volvera Yandere en 10 dias"
+    "ja": "10日後ヤンデレになるギャル"
+   },
+   {
+    "ja-ro": "Toukago Yandere ni Naru Gal"
    },
    {
     "ja-ro": "10-Nichi-go yandere ni naru gyaru"
    },
    {
-    "ja": "10日後ヤンデレになるギャル"
+    "en": "A Gal Who Will Become a Yandere in 10 Days"
+   },
+   {
+    "es-la": "La Gal Que Se Volvera Yandere en 10 dias"
    }
   ],
   "description": {
@@ -43,18 +49,6 @@
      },
      "description": {},
      "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "320831a8-4026-470b-94f6-8353740e6f04",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Official Colored"
-     },
-     "description": {},
-     "group": "format",
      "version": 1
     }
    },
@@ -119,6 +113,18 @@
     }
    },
    {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "fad12b5e-68ba-460e-b933-9ae8318f5b65",
     "type": "tag",
     "attributes": {
@@ -132,9 +138,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2024-11-14T18:59:55+00:00",
-  "updatedAt": "2024-11-15T20:55:15+00:00"
+  "updatedAt": "2024-11-22T18:12:04+00:00"
  },
  "relationships": [
   {
@@ -208,6 +214,11 @@
   },
   {
    "id": "657d1aa8-b443-4645-bd44-59836ea59937",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
+   "id": "b65a171c-f7de-462f-b899-54c2cd57736b",
    "type": "manga",
    "related": "shared_universe"
   },

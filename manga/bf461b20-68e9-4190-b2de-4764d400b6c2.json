@@ -1,0 +1,158 @@
+{
+ "id": "bf461b20-68e9-4190-b2de-4764d400b6c2",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Hinatsugimura"
+  },
+  "altTitles": [
+   {
+    "ja": "雛接村"
+   }
+  ],
+  "description": {
+   "en": "The fate of anyone who wanders into that mountain village is one of two: either they become a resident of the village, or they live on as part of the village itself. In any case, they can never return to the outside world.\n\nA tale of passion and sensuality in a supernatural horror by Aki Shimizu, now finally compiled into a long-awaited book!"
+  },
+  "links": {
+   "al": "113185",
+   "amz": "https://www.amazon.co.jp/gp/product/B07PQKZRL5/ref=ppx_yo_dt_b_d_asin_title_351_o00?ie=UTF8\u0026psc=1",
+   "mal": "119042",
+   "mu": "ai3tb4t"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "7",
+  "publicationDemographic": "josei",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "94d54b82-06dc-498c-aace-4a268466268b",
+  "tags": [
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-21T19:43:45+00:00",
+  "updatedAt": "2024-11-22T03:16:21+00:00"
+ },
+ "relationships": [
+  {
+   "id": "180f3235-2cae-4435-8e72-120f917bdbad",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shimizu Aki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "180f3235-2cae-4435-8e72-120f917bdbad",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shimizu Aki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "797cf087-f110-4df1-9dac-212939eeecb3",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T19:43:48+00:00",
+    "description": "",
+    "fileName": "9acb61bf-d823-4cf6-8f8b-2daf34d3d23f.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-21T19:43:48+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c3e1dad3-a057-4afc-be35-d701f642567a",
+   "type": "creator"
+  }
+ ]
+}

@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "50165dc6-d7d8-4d66-811f-bb079641d772",
-   "title": {
-    "en": "Kiitarou Shounen no Youkai Enikki"
-   },
-   "contentRating": "safe",
-   "score": 0.3030499,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "74dc13ca-e270-4339-a156-8842f9721894",
    "title": {
     "en": "School Youkai Traveler's Guide"
    },
    "contentRating": "safe",
-   "score": 0.29260954,
+   "score": 0.292609,
    "languages": [
     "en"
    ]
@@ -33,7 +22,7 @@
     "en": "Yoru to Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.28069502,
+   "score": 0.28070477,
    "languages": [
     "en"
    ]
@@ -44,7 +33,7 @@
     "en": "Ge Ge Ge no Kitaro"
    },
    "contentRating": "safe",
-   "score": 0.27525052,
+   "score": 0.2752605,
    "languages": [
     "en",
     "pt-br"
@@ -63,12 +52,23 @@
    ]
   },
   {
+   "id": "50165dc6-d7d8-4d66-811f-bb079641d772",
+   "title": {
+    "en": "Kiitarou Shounen no Youkai Enikki"
+   },
+   "contentRating": "safe",
+   "score": 0.24473612,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7c08f074-2951-4ad0-b3a1-fbb5a3c6efd3",
    "title": {
     "en": "Momomoke Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.24175836,
+   "score": 0.24175666,
    "languages": [
     "en",
     "pt-br"
@@ -80,83 +80,29 @@
     "en": "Gwisin Byeolgok"
    },
    "contentRating": "safe",
-   "score": 0.2415409,
+   "score": 0.24153197,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "91e2e469-8d67-49d6-b810-c9a465431eba",
+   "id": "b700777b-b007-436a-8830-951cd5e1df97",
    "title": {
-    "en": "B Group no Shounen"
+    "en": "Phantom Busters"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.23556311,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e665944e-31b0-4b72-b6d7-3c0f9a2d4cd0",
-   "title": {
-    "en": "Gakuen Psycho-Pass"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
+    "vi",
+    "pt-br",
+    "en",
+    "id"
    ]
   },
   {
    "id": "6f563f31-5336-422d-ade8-5bb458b454e5",
    "title": {
     "en": "Nina Jalhae!"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2f9634a5-00d9-44bd-9514-a3c2a0ca2dd2",
-   "title": {
-    "en": "Byakuda no Hanamuko"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "es-la",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "ab5a8b56-af2e-458a-822a-4722c1d0b123",
-   "title": {
-    "en": "Kuzumoto-san Chi no Yonkyoudai"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5cc4187d-b48c-4390-a57c-85d93644500f",
-   "title": {
-    "en": "13 Game"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "169f663a-7a1b-42c2-881e-e3e687fee266",
-   "title": {
-    "en": "Parabellum"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -182,6 +128,30 @@
    ]
   },
   {
+   "id": "5cc4187d-b48c-4390-a57c-85d93644500f",
+   "title": {
+    "en": "13 Game"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2f9634a5-00d9-44bd-9514-a3c2a0ca2dd2",
+   "title": {
+    "en": "Byakuda no Hanamuko"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "es-la",
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "e17291c8-0356-4438-97e7-1346da5faa11",
    "title": {
     "en": "Rebirth Knight"
@@ -192,7 +162,40 @@
     "en",
     "fr"
    ]
+  },
+  {
+   "id": "ab5a8b56-af2e-458a-822a-4722c1d0b123",
+   "title": {
+    "en": "Kuzumoto-san Chi no Yonkyoudai"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e665944e-31b0-4b72-b6d7-3c0f9a2d4cd0",
+   "title": {
+    "en": "Gakuen Psycho-Pass"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "91e2e469-8d67-49d6-b810-c9a465431eba",
+   "title": {
+    "en": "B Group no Shounen"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-21T20:59:27+00:00"
+ "updatedAt": "2024-11-23T21:12:40+00:00"
 }

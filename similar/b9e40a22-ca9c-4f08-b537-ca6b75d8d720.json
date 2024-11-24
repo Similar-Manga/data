@@ -23,7 +23,7 @@
     "en": "Tokyo Ghoul (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.2192537,
+   "score": 0.21925665,
    "languages": [
     "pt-br",
     "en",
@@ -36,7 +36,7 @@
     "en": "Bungou Stray Dogs"
    },
    "contentRating": "safe",
-   "score": 0.20506445,
+   "score": 0.20506501,
    "languages": [
     "tr",
     "pt-br",
@@ -55,17 +55,6 @@
    ]
   },
   {
-   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
-   "title": {
-    "en": "B"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
    "title": {
     "en": "JUMBO MAX"
@@ -75,6 +64,17 @@
    "languages": [
     "en",
     "zh-hk"
+   ]
+  },
+  {
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
+   "title": {
+    "en": "B"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -94,7 +94,7 @@
     "en": "Ultra Heaven"
    },
    "contentRating": "safe",
-   "score": 0.18684855,
+   "score": 0.18684952,
    "languages": [
     "en",
     "vi",
@@ -107,7 +107,7 @@
     "en": "Cloud"
    },
    "contentRating": "safe",
-   "score": 0.1858469,
+   "score": 0.18584484,
    "languages": [
     "en"
    ]
@@ -128,20 +128,22 @@
    ]
   },
   {
-   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
    "title": {
-    "en": "AGAPE"
+    "en": "Steins;Gate 0"
    },
    "contentRating": "safe",
    "score": 0.17496355,
    "languages": [
-    "en"
+    "es-la",
+    "en",
+    "pt-br"
    ]
   },
   {
-   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
+   "id": "a382a204-2287-45f4-ab08-f57feb4997f3",
    "title": {
-    "en": "Kokushi no Shima"
+    "en": "AGAPE"
    },
    "contentRating": "safe",
    "score": 0.17496355,
@@ -161,22 +163,9 @@
    ]
   },
   {
-   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
+   "id": "efef77d1-36f6-4a61-b026-980c5d28e4f5",
    "title": {
-    "en": "Steins;Gate 0"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
-   "title": {
-    "en": "Hyakki Tsurezure Bukuro"
+    "en": "Taisho Detective"
    },
    "contentRating": "safe",
    "score": 0.17496355,
@@ -185,9 +174,20 @@
    ]
   },
   {
-   "id": "efef77d1-36f6-4a61-b026-980c5d28e4f5",
+   "id": "a3ec539f-d2b5-4889-a50b-de6142b45b6d",
    "title": {
-    "en": "Taisho Detective"
+    "en": "Kokushi no Shima"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3bef76bc-7f91-4479-be60-3a19e1ba65f4",
+   "title": {
+    "en": "Hyakki Tsurezure Bukuro"
    },
    "contentRating": "safe",
    "score": 0.17496355,
@@ -207,5 +207,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-21T20:51:11+00:00"
+ "updatedAt": "2024-11-23T21:04:10+00:00"
 }

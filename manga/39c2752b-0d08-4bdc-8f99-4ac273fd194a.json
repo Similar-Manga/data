@@ -17,6 +17,9 @@
    },
    {
     "ja-ro": "Pocket Monsters: Liko no Takaramono"
+   },
+   {
+    "en": "Pokémon Horizons"
    }
   ],
   "description": {
@@ -154,9 +157,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2023-05-02T21:56:47+00:00",
-  "updatedAt": "2024-08-10T23:14:41+00:00"
+  "updatedAt": "2024-11-22T15:14:55+00:00"
  },
  "relationships": [
   {
@@ -251,9 +254,24 @@
    }
   },
   {
+   "id": "6e408e64-2f63-4a7a-a7e3-204b6319c8ff",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
    "id": "a6443a84-843e-4396-85b6-fbdf20ea8930",
    "type": "manga",
    "related": "alternate_version"
+  },
+  {
+   "id": "e3bf5004-bf4f-443a-adb7-7f89ba99ef56",
+   "type": "manga",
+   "related": "alternate_version"
+  },
+  {
+   "id": "f527436c-0234-4b20-b040-788fd5325654",
+   "type": "manga",
+   "related": "doujinshi"
   },
   {
    "id": "82a071db-b142-410f-91ef-c8ada18c847b",

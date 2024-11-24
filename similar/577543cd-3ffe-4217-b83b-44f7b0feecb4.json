@@ -11,7 +11,7 @@
     "en": "Black Warriors"
    },
    "contentRating": "safe",
-   "score": 0.26527998,
+   "score": 0.26527992,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Dragon and Chameleon"
    },
    "contentRating": "safe",
-   "score": 0.26019186,
+   "score": 0.26020032,
    "languages": [
     "fr",
     "en",
@@ -33,14 +33,13 @@
    ]
   },
   {
-   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
+   "id": "b5c35cb9-e7f0-42c4-acd5-2ea5e6e4fabf",
    "title": {
-    "en": "Tiger \u0026 Bunny"
+    "en": "Tasogare Schrödinger"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
-    "ru",
     "en"
    ]
   },
@@ -59,13 +58,14 @@
    ]
   },
   {
-   "id": "b5c35cb9-e7f0-42c4-acd5-2ea5e6e4fabf",
+   "id": "ae039b61-72e2-4513-b091-bd7426d2ee44",
    "title": {
-    "en": "Tasogare Schrödinger"
+    "en": "Tiger \u0026 Bunny"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
+    "ru",
     "en"
    ]
   },
@@ -75,7 +75,7 @@
     "en": "Da Yuan Shen"
    },
    "contentRating": "safe",
-   "score": 0.2530845,
+   "score": 0.25304753,
    "languages": [
     "en"
    ]
@@ -86,7 +86,7 @@
     "en": "Doonggule Tea!"
    },
    "contentRating": "safe",
-   "score": 0.2485777,
+   "score": 0.24857992,
    "languages": [
     "en"
    ]
@@ -97,7 +97,7 @@
     "en": "King of the East"
    },
    "contentRating": "safe",
-   "score": 0.24641196,
+   "score": 0.24641742,
    "languages": [
     "en"
    ]
@@ -108,11 +108,22 @@
     "en": "Wonted"
    },
    "contentRating": "safe",
-   "score": 0.24239294,
+   "score": 0.24239334,
    "languages": [
     "en",
     "pl",
     "pt-br"
+   ]
+  },
+  {
+   "id": "82a49c7e-2c95-40e9-bcfe-d58e8ec5dcb6",
+   "title": {
+    "en": "Cardfight!! Vanguard: Turnabout"
+   },
+   "contentRating": "safe",
+   "score": 0.24173178,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -121,7 +132,7 @@
     "en": "Tokyo Hell Heavens"
    },
    "contentRating": "safe",
-   "score": 0.24086216,
+   "score": 0.24087538,
    "languages": [
     "ru",
     "vi"
@@ -133,35 +144,9 @@
     "en": "Majikaru Musou Tenshi Tsuki Irase!! Ryofuko-chan"
    },
    "contentRating": "safe",
-   "score": 0.23677194,
+   "score": 0.23677696,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "15a1a7e1-8b39-4b76-b4d2-3006f3413dfd",
-   "title": {
-    "en": "Dead Account"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "fr",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "e9d5052d-6fc2-4a14-b08e-1ed36e3c647a",
-   "title": {
-    "en": "The Day Naruto Became Hokage"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "es"
    ]
   },
   {
@@ -190,17 +175,31 @@
    ]
   },
   {
-   "id": "94e9f195-d485-4245-9553-37f0f1e7772c",
+   "id": "e9d5052d-6fc2-4a14-b08e-1ed36e3c647a",
    "title": {
-    "en": "Mu Wu's Forest"
+    "en": "The Day Naruto Became Hokage"
    },
    "contentRating": "safe",
-   "score": 0.22995214,
+   "score": 0.23328476,
    "languages": [
-    "ru",
-    "en"
+    "en",
+    "es"
+   ]
+  },
+  {
+   "id": "15a1a7e1-8b39-4b76-b4d2-3006f3413dfd",
+   "title": {
+    "en": "Dead Account"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en",
+    "id"
    ]
   }
  ],
- "updatedAt": "2024-11-21T20:17:41+00:00"
+ "updatedAt": "2024-11-23T20:30:36+00:00"
 }

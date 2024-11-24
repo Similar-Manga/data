@@ -1,0 +1,140 @@
+{
+ "id": "c5d293ff-df31-411c-8dfd-00b12463d3b3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Fukuwajutsu"
+  },
+  "altTitles": [
+   {
+    "ja": "腹話術"
+   }
+  ],
+  "description": {
+   "en": "1. Kitsune ga Hara (キツネが原)\n2. Unmei no Hana (運命の花)\n3. Chameleon (カメレオン)\n4. Fuhatsudan (不発弾)\n5. Tsuisekikou (追跡行)\n6. Fukuwajustu (腹話術)\n7. Tamago (卵)\n8. Shininmachi Kitan (死人街奇譚)\n9. Yuusuke no Kimyou na Sekai (遊介の奇妙な世界)\n10. Kyaku (客)\n11. Hakahori Sam (墓掘りサム)\n12. Milk ga Neji wo Mawasu Toki (ミルクがねじを回す時)\n13. Fue (笛)"
+  },
+  "links": {
+   "al": "184557"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "13",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1979,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-22T15:06:29+00:00",
+  "updatedAt": "2024-11-22T15:06:57+00:00"
+ },
+ "relationships": [
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e1f9634e-b121-44d9-982f-29b8159342d5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-22T15:06:30+00:00",
+    "description": "",
+    "fileName": "37b22e03-42a1-4e93-a8cc-575b74284781.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-22T15:06:30+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

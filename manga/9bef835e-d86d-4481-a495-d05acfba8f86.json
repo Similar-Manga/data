@@ -3,14 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I'm Amanojaku!"
+   "en": "Ware wa Amanojaku zo"
   },
   "altTitles": [
    {
     "ja": "我は天邪鬼ぞ"
    },
    {
-    "ja-ro": "Ware wa Amanojaku zo"
+    "ja-ro": "Ware ha Amanojaku zo"
+   },
+   {
+    "en": "I'm Amanojaku!"
+   },
+   {
+    "en": "We're Opposites!"
    }
   ],
   "description": {},
@@ -21,6 +27,10 @@
   "status": "completed",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "7a63bf00-381d-4b82-b8d1-6f6193d081d5",
   "tags": [
    {
     "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
@@ -96,9 +106,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-11-21T09:53:24+00:00",
-  "updatedAt": "2024-11-21T17:42:11+00:00"
+  "updatedAt": "2024-11-22T05:47:27+00:00"
  },
  "relationships": [
   {

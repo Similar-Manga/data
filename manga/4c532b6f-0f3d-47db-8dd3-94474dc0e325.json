@@ -1,0 +1,194 @@
+{
+ "id": "4c532b6f-0f3d-47db-8dd3-94474dc0e325",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Perhaps Invincible"
+  },
+  "altTitles": [
+   {
+    "ko": "아마도 무적불패"
+   }
+  ],
+  "description": {
+   "en": "Yu Hyeol, a third-rate warrior infamously nicknamed *“The Star of the Dark Arts”* due to his menacing appearance, lived a life plagued by false rumors and endless misunderstandings. One day, Seolhwa—the woman he once vowed his future to—reappears before him, no longer the gentle figure he remembered but a formidable master of martial arts.  \n\nFrom that moment, his name becomes entangled with the lives of countless warriors, spiraling his already infamous reputation. As his so-called “notoriety” spreads, the Murim Alliance, the Demon Cult, and even the royal court take notice of him.  \n\n*\"No, really… it’s all just a big misunderstanding!\"*  \n\nBut can he convince the world otherwise? Or will he unintentionally become the legend he never aimed to be?"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Official Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-23T14:55:15+00:00",
+  "updatedAt": "2024-11-23T14:55:21+00:00"
+ },
+ "relationships": [
+  {
+   "id": "76393955-b16a-4639-963d-2c070a6c6a9f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-23T14:54:44+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "2Poet",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-23T14:54:44+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "76393955-b16a-4639-963d-2c070a6c6a9f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-23T14:54:44+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "2Poet",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-23T14:54:44+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b224547b-585f-4e52-b552-740346ff11ec",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-23T14:55:16+00:00",
+    "description": "",
+    "fileName": "428da4af-03c3-4443-a447-1e730fb908fb.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-23T14:55:16+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}

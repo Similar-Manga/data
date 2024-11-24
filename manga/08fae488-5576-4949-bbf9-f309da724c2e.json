@@ -1,0 +1,126 @@
+{
+ "id": "08fae488-5576-4949-bbf9-f309da724c2e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Child Who Draws Dragons"
+  },
+  "altTitles": [
+   {
+    "ko": "용을 그리는 아이"
+   }
+  ],
+  "description": {
+   "en": "The only choice: to save you.  \n\nYoo Seoha, the 'Child of the Dragon,' possesses a mystical ability to foresee the destiny of those destined to rule.  \n\n['The Child of the Dragon envisions a *righteous king* and pleads to abandon the *warlord*.']  \n\nTo protect the one she loves, Seoha makes an irreversible decision.  \nAs a result, Wu is branded a traitor and forced to flee, while Myung ascends to the throne and claims Seoha as his own.  \n\nTen years later, Wu resurfaces to reclaim what was taken from him, while Myung is determined not to let anything slip through his grasp again...",
+   "ko": "선택은 오직 하나, 그대를 살리는 것.\n임금이 될 자의 앞날을 보는\n신묘한 능력을 지닌 '용의 아이' 유서하.\n\n['용의 아이'는 '의왕'을 그리고 있으니\n'무신'을 사하길 바라옵니다.]\n\n서하는 사랑하는 이를 지키고자, 돌이킬 수 없는 선택을 한다.\n그로 인해 대역죄인의 누명을 쓰고 도망자가 된 우와\n왕의 자리에 올라 서하를 차지한 명.\n\n10년 후,\n자신의 것을 되찾고자 우가 세상에 모습을 드러내고\n명은 다시 나타난 우에게 무엇도 빼앗기지 않으려 하는데…"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "12d63d10-0ca3-4738-8ad1-ed602fd5bdd2",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-22T20:29:08+00:00",
+  "updatedAt": "2024-11-22T20:36:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7d1d5c1e-c778-413b-8a71-3b737d37290a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jieun",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7d1d5c1e-c778-413b-8a71-3b737d37290a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jieun",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d71ad6cf-6e23-42bb-9d5e-a908c7c0f53b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-22T20:29:35+00:00",
+    "description": "",
+    "fileName": "12e7cab2-72d1-436a-b40b-96f26c9a2897.png",
+    "locale": "ko",
+    "updatedAt": "2024-11-22T20:29:35+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9c284b24-757e-4a70-837e-2835cb5c9fd4",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "id": "b98a5eb5-4178-4434-bbf1-bc34e5acebac",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Noroma Mahou to Yobareta Mahoutsukai wa Juuryoku Mahou de Musou suru ~Mada Juuryoku no Gainen no nai Sekai nite, Shounen wa Banyuuinryoku no Ou to naru~"
+  },
+  "altTitles": [
+   {
+    "ja": "ノロマ魔法と呼ばれた魔法使いは重力魔法で無双する ～まだ重力の概念のない世界にて、少年は万有引力の王となる～"
+   },
+   {
+    "en": "The Man Given \"Slow Magic\" will become Unparalleled with the Gravity Magic"
+   }
+  ],
+  "description": {
+   "ja": "スラム街出身、酒浸りな父親のもと育ったウェイドがまともに生きていく唯一の方法、それは魔法を手に入れ、冒険者になること。しかし厳しい訓練にも耐えて手に入ったのは、自分を重くするだけのハズレ魔法・ジュウリョク魔法だった。これまでの努力が魔法一つで水の泡。魔法ガチャ、グロすぎ――……あれ、ガチャってなんだ？あまりのショックにウェイドは前世の社畜リーマンだった記憶を思い出し、重力魔法の価値に気づく。そう！この異世界は未発達で、まだ重力の概念がほとんど知れ渡っていなかったのだ！ウェイドはノロマ魔法を侮る訓練生、強力なモンスタ―に重力魔法で立ち向かっていく――！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CW19SK3M",
+   "bw": "series/468804/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/827962",
+   "mu": "nb0o0lf"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-21T22:14:07+00:00",
+  "updatedAt": "2024-11-21T22:15:57+00:00"
+ },
+ "relationships": [
+  {
+   "id": "70c106c2-5626-43bd-ab22-f69796c8693b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-21T22:12:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ichimori Kazuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-21T22:12:27+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5033a827-f6f4-4ad9-9c6d-8831d52a15f0",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n神原絵理華"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanbara Erika",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/12019174",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/KErica039kaki",
+    "updatedAt": "2023-05-01T23:03:43+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "debca7c6-8115-4b4c-96e2-550f4e52a26b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T22:14:11+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "824aab8d-0a93-4e46-bb8e-bec0c491b897.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-21T22:14:11+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

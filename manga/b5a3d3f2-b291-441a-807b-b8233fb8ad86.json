@@ -3,17 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kochira←DIY Circle"
+   "en": "Kochira←DIY Circle!"
   },
   "altTitles": [
    {
-    "ja": "こちら←DIYサークル"
+    "ja": "こちら←DIYサークル！"
    },
    {
-    "ja-ro": "Kochira \u003c- DIY Circle"
+    "ja-ro": "Kochira \u003c- DIY Circle!"
    },
    {
     "en": "DIY Club"
+   },
+   {
+    "en": "Over Here←DIY Club!"
    }
   ],
   "description": {},
@@ -55,32 +58,34 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2024-11-19T20:16:40+00:00",
-  "updatedAt": "2024-11-20T18:08:47+00:00"
+  "updatedAt": "2024-11-21T09:18:18+00:00"
  },
  "relationships": [
   {
    "id": "998da92e-261c-4e9e-bcc2-7073731426f1",
    "type": "author",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "Web Comic Artist.\n\nNot to be confused with [Himawari (向日葵)](https://mangadex.org/author/9f00030b-f031-4e3b-a92b-eb47da940c48), a writer with the same romaji name.\n\n**Native name**: 暇ワリ\n\n**Alt. names**:\nhimawari2430\nhimawari-summer\nsunflower-summer"
+    },
+    "booth": "https://himawari-summer.booth.pm/",
     "createdAt": "2024-11-19T20:14:53+00:00",
-    "fanBox": null,
+    "fanBox": "https://sunflower-summer.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "himawari2430",
+    "name": "Himawari (暇ワリ)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/1434742",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-19T20:14:53+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/himawari2430",
+    "updatedAt": "2024-11-21T09:18:06+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -90,23 +95,25 @@
    "id": "998da92e-261c-4e9e-bcc2-7073731426f1",
    "type": "artist",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "Web Comic Artist.\n\nNot to be confused with [Himawari (向日葵)](https://mangadex.org/author/9f00030b-f031-4e3b-a92b-eb47da940c48), a writer with the same romaji name.\n\n**Native name**: 暇ワリ\n\n**Alt. names**:\nhimawari2430\nhimawari-summer\nsunflower-summer"
+    },
+    "booth": "https://himawari-summer.booth.pm/",
     "createdAt": "2024-11-19T20:14:53+00:00",
-    "fanBox": null,
+    "fanBox": "https://sunflower-summer.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "himawari2430",
+    "name": "Himawari (暇ワリ)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/1434742",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-19T20:14:53+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/himawari2430",
+    "updatedAt": "2024-11-21T09:18:06+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

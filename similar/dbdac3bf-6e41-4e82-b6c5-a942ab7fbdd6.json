@@ -6,25 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "8a575dfe-8021-4dc2-9fa6-c17a91d24d81",
-   "title": {
-    "en": "Heaven's Design Team"
-   },
-   "contentRating": "safe",
-   "score": 0.27399442,
-   "languages": [
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
    "id": "829d950a-dd64-4b25-9e3e-6a56e095b065",
    "title": {
     "en": "Mofutto Camp"
    },
    "contentRating": "safe",
-   "score": 0.27253664
+   "score": 0.27710035
   },
   {
    "id": "6a9936ae-7609-4ab9-963d-6dae73b3a0b0",
@@ -32,7 +19,7 @@
     "en": "Atagoul"
    },
    "contentRating": "safe",
-   "score": 0.26688814
+   "score": 0.26784644
   },
   {
    "id": "30e127da-1fb7-4a76-8a62-a36b2f0da631",
@@ -40,7 +27,20 @@
     "en": "Atagoul Cat Forest"
    },
    "contentRating": "safe",
-   "score": 0.266246
+   "score": 0.2671521
+  },
+  {
+   "id": "8a575dfe-8021-4dc2-9fa6-c17a91d24d81",
+   "title": {
+    "en": "Heaven's Design Team"
+   },
+   "contentRating": "safe",
+   "score": 0.26595643,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en"
+   ]
   },
   {
    "id": "99836e26-5eff-4320-8f64-11c5333fab49",
@@ -48,15 +48,18 @@
     "en": "Kobito no Shiita to Karigurashi no Mori"
    },
    "contentRating": "safe",
-   "score": 0.26149294
+   "score": 0.26244444
   },
   {
-   "id": "1f835cae-a73b-4882-93cb-65c02d774906",
+   "id": "07e7f841-eea2-4eb4-9b92-8eaa4cfdd19c",
    "title": {
-    "en": "Chimera Project: Zero"
+    "en": "Tales of the Prehistoric Animal Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.24983473
+   "score": 0.25046328,
+   "languages": [
+    "es-la"
+   ]
   },
   {
    "id": "35884a8e-c3fb-4496-82a4-1e5a0e238a69",
@@ -67,15 +70,12 @@
    "score": 0.24983473
   },
   {
-   "id": "07e7f841-eea2-4eb4-9b92-8eaa4cfdd19c",
+   "id": "1f835cae-a73b-4882-93cb-65c02d774906",
    "title": {
-    "en": "Tales of the Prehistoric Animal Kingdom"
+    "en": "Chimera Project: Zero"
    },
    "contentRating": "safe",
-   "score": 0.24441399,
-   "languages": [
-    "es-la"
-   ]
+   "score": 0.24983473
   },
   {
    "id": "f0bb15c7-0c76-4311-a8a9-3d626d05456f",
@@ -83,7 +83,7 @@
     "en": "Sekisei Kitan"
    },
    "contentRating": "safe",
-   "score": 0.23855312
+   "score": 0.2409981
   },
   {
    "id": "1acceea4-9aef-494c-8093-66d2fc0486c7",
@@ -91,9 +91,25 @@
     "en": "Tengu no Daidokoro"
    },
    "contentRating": "safe",
-   "score": 0.23423953,
+   "score": 0.23568481,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "a71e9594-6269-447f-99fa-3d4c8e1fff6f",
+   "title": {
+    "en": "Hakumei \u0026 Mikochi: Tiny Little Life in the Woods"
+   },
+   "contentRating": "safe",
+   "score": 0.23303472,
+   "languages": [
+    "en",
+    "es-la",
+    "vi",
+    "ru",
+    "zh",
+    "pt-br"
    ]
   },
   {
@@ -105,48 +121,12 @@
    "score": 0.23286977
   },
   {
-   "id": "ce0dbd39-1dda-4f64-aa8f-e1b4306c4ee6",
-   "title": {
-    "en": "Vouivre Yousai-ten ~Kinuyo to Harietto~"
-   },
-   "contentRating": "safe",
-   "score": 0.23286977
-  },
-  {
-   "id": "a71e9594-6269-447f-99fa-3d4c8e1fff6f",
-   "title": {
-    "en": "Hakumei \u0026 Mikochi: Tiny Little Life in the Woods"
-   },
-   "contentRating": "safe",
-   "score": 0.2317223,
-   "languages": [
-    "en",
-    "es-la",
-    "vi",
-    "ru",
-    "zh",
-    "pt-br"
-   ]
-  },
-  {
    "id": "5d627106-0af9-48c0-a5d0-4de8e88e2f0b",
    "title": {
     "en": "Hi no Ryuu no Kuni"
    },
    "contentRating": "safe",
-   "score": 0.23047651
-  },
-  {
-   "id": "32690043-fc16-4031-be61-b26a0b688b90",
-   "title": {
-    "en": "Kegawa to Nakami"
-   },
-   "contentRating": "safe",
-   "score": 0.22924207,
-   "languages": [
-    "en",
-    "vi"
-   ]
+   "score": 0.23162131
   },
   {
    "id": "8b189d49-999d-41d9-bc70-328c990026f9",
@@ -154,8 +134,28 @@
     "en": "Alice in Osamuland"
    },
    "contentRating": "safe",
-   "score": 0.22827545
+   "score": 0.23004064
+  },
+  {
+   "id": "32690043-fc16-4031-be61-b26a0b688b90",
+   "title": {
+    "en": "Kegawa to Nakami"
+   },
+   "contentRating": "safe",
+   "score": 0.22903505,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "001eef12-c170-45e1-94ff-ffddb48c0bea",
+   "title": {
+    "en": "Toshokan no Minarai Shisho"
+   },
+   "contentRating": "safe",
+   "score": 0.22712131
   }
  ],
- "updatedAt": "2024-11-21T21:02:33+00:00"
+ "updatedAt": "2024-11-23T21:15:51+00:00"
 }

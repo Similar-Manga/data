@@ -11,33 +11,10 @@
     "en": "Winter Flowers"
    },
    "contentRating": "safe",
-   "score": 0.34175432,
+   "score": 0.3417666,
    "languages": [
     "pl",
     "en"
-   ]
-  },
-  {
-   "id": "7a28b87b-1cc7-469c-94dc-5809c5f7be69",
-   "title": {
-    "en": "Beautiful"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "77b863d6-d7c1-46f9-a009-8e914da89f14",
-   "title": {
-    "en": "Bitter Sweet Cake"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -75,12 +52,35 @@
    ]
   },
   {
+   "id": "7a28b87b-1cc7-469c-94dc-5809c5f7be69",
+   "title": {
+    "en": "Beautiful"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "77b863d6-d7c1-46f9-a009-8e914da89f14",
+   "title": {
+    "en": "Bitter Sweet Cake"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "d0266508-6cbe-40af-8d8b-d04985a2d081",
    "title": {
     "en": "Sentimental Shounen A"
    },
    "contentRating": "safe",
-   "score": 0.2803082,
+   "score": 0.28033042,
    "languages": [
     "pt-br",
     "en",
@@ -93,7 +93,7 @@
     "en": "Promise"
    },
    "contentRating": "safe",
-   "score": 0.27909207
+   "score": 0.27910557
   },
   {
    "id": "56d82cc5-3669-4e3b-872c-d23a14f233ec",
@@ -101,7 +101,7 @@
     "en": "Arina no Tane"
    },
    "contentRating": "safe",
-   "score": 0.2666102,
+   "score": 0.26661503,
    "languages": [
     "en"
    ]
@@ -112,9 +112,47 @@
     "en": "Usurai ni Saku"
    },
    "contentRating": "safe",
-   "score": 0.2639503,
+   "score": 0.26394892,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
+   "title": {
+    "en": "Tsuki no Kanon"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "fr",
+    "en",
+    "ru",
+    "de"
+   ]
+  },
+  {
+   "id": "0f5161c2-817b-4fe0-bd79-428bc86f5f79",
+   "title": {
+    "en": "Hatsu koi, Yoru ni Tokeru"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "62488791-6f5a-4f5d-8921-583857be6f74",
+   "title": {
+    "en": "Akatsuki no Miko"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "hu"
    ]
   },
   {
@@ -142,44 +180,6 @@
    ]
   },
   {
-   "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
-   "title": {
-    "en": "Tsuki no Kanon"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
-    "de"
-   ]
-  },
-  {
-   "id": "62488791-6f5a-4f5d-8921-583857be6f74",
-   "title": {
-    "en": "Akatsuki no Miko"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "hu"
-   ]
-  },
-  {
-   "id": "0f5161c2-817b-4fe0-bd79-428bc86f5f79",
-   "title": {
-    "en": "Hatsu koi, Yoru ni Tokeru"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "91705092-a3c2-4e22-a8bb-1e77cf9b18d9",
    "title": {
     "en": "Boku no Mei"
@@ -192,5 +192,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-21T20:47:36+00:00"
+ "updatedAt": "2024-11-23T21:00:31+00:00"
 }

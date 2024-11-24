@@ -1,0 +1,412 @@
+{
+ "id": "a169538e-8933-4f87-b86d-aea351dd3c90",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kanojo, Okarishimasu Mythology"
+  },
+  "altTitles": [
+   {
+    "ja": "彼女、お借りしますマイソロジー"
+   },
+   {
+    "ja-ro": "Kanojo, Okarishimasu Mythology"
+   },
+   {
+    "ja-ro": "KanoKari Mythology"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "status": "completed",
+  "year": 2019,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-11-21T09:31:46+00:00",
+  "updatedAt": "2024-11-21T09:41:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "08ebed9d-57dd-40ac-990f-9fb77c7ac256",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Reiji Miyajima (Japanese: 宮島 礼吏, Romaji: Miyajima Reiji) is a Japanese manga artist. He is known for his series AKB49: [Ren'ai Kinshi Jōrei](https://mangadex.org/title/4807a7aa-efeb-447e-9a94-068054fd7b7d/akb49-renai-kinshi-jourei) and [Rent-A-Girlfriend](https://mangadex.org/title/32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4/rent-a-girlfriend).\n\n[Wikipedia Page](https://en.m.wikipedia.org/wiki/Reiji_Miyajima) "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://miyajimareiji.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Miyajima Reiji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/31359033",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/Miyajimareiji",
+    "updatedAt": "2024-10-04T07:22:57+00:00",
+    "version": 6,
+    "website": "https://lit.link/miyajimareiji",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UC5E8GlJuBscxbeqcdQZprhA"
+   }
+  },
+  {
+   "id": "222977ad-3c02-4f44-b936-236040a1630d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-23T15:54:31+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yunkeru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-08-23T00:58:03+00:00",
+    "version": 2,
+    "website": "https://x.com/kotuponn55",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "338d0164-d256-419e-961e-45fee7b3a123",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language**: 三倉ゆめ\n\nAssistant of [Reiji Miyajima](https://mangadex.org/author/08ebed9d-57dd-40ac-990f-9fb77c7ac256/miyajima-reiji)."
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sakura Yume",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/31358533",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sakurayume88",
+    "updatedAt": "2024-04-10T13:21:17+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "53d8ca66-06f2-43a8-8420-1b16e1cd2422",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-21T09:38:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Po-Po-A",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-21T09:38:56+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5b5faa6a-9c42-43c6-be5a-50929ad0406b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-21T09:38:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "港ハナイチ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-21T09:38:15+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ecad61ac-c45c-464e-b0e0-9289ff4dacef",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Irooki Shinobu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "08ebed9d-57dd-40ac-990f-9fb77c7ac256",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Reiji Miyajima (Japanese: 宮島 礼吏, Romaji: Miyajima Reiji) is a Japanese manga artist. He is known for his series AKB49: [Ren'ai Kinshi Jōrei](https://mangadex.org/title/4807a7aa-efeb-447e-9a94-068054fd7b7d/akb49-renai-kinshi-jourei) and [Rent-A-Girlfriend](https://mangadex.org/title/32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4/rent-a-girlfriend).\n\n[Wikipedia Page](https://en.m.wikipedia.org/wiki/Reiji_Miyajima) "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://miyajimareiji.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Miyajima Reiji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/31359033",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/Miyajimareiji",
+    "updatedAt": "2024-10-04T07:22:57+00:00",
+    "version": 6,
+    "website": "https://lit.link/miyajimareiji",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UC5E8GlJuBscxbeqcdQZprhA"
+   }
+  },
+  {
+   "id": "222977ad-3c02-4f44-b936-236040a1630d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-23T15:54:31+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yunkeru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-08-23T00:58:03+00:00",
+    "version": 2,
+    "website": "https://x.com/kotuponn55",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "338d0164-d256-419e-961e-45fee7b3a123",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language**: 三倉ゆめ\n\nAssistant of [Reiji Miyajima](https://mangadex.org/author/08ebed9d-57dd-40ac-990f-9fb77c7ac256/miyajima-reiji)."
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sakura Yume",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/31358533",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sakurayume88",
+    "updatedAt": "2024-04-10T13:21:17+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "53d8ca66-06f2-43a8-8420-1b16e1cd2422",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-21T09:38:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Po-Po-A",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-21T09:38:56+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5b5faa6a-9c42-43c6-be5a-50929ad0406b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-21T09:38:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "港ハナイチ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-21T09:38:15+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ecad61ac-c45c-464e-b0e0-9289ff4dacef",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Irooki Shinobu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c7a00c7d-4179-4d1f-b755-99093c81ce8b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T09:34:36+00:00",
+    "description": "",
+    "fileName": "9031430d-eea9-4ae9-8675-aa9cf3cd6ada.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-21T09:34:36+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4",
+   "type": "manga",
+   "related": "based_on"
+  },
+  {
+   "id": "f319d314-4310-4610-bcea-98c0128def1d",
+   "type": "creator"
+  }
+ ]
+}

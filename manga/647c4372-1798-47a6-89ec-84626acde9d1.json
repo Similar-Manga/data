@@ -7,11 +7,11 @@
   },
   "altTitles": [
    {
-    "en": "ちんばら (GMF)"
+    "ja": "ちんばら (GMF)"
    }
   ],
   "description": {
-   "en": "A fight between two men."
+   "en": "A fight between two men.\n\na part of the doujinshi anthology GMF by various artist"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -44,12 +44,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-08-08T07:16:22+00:00",
-  "updatedAt": "2021-05-25T15:43:11+00:00"
+  "updatedAt": "2024-11-21T06:58:08+00:00"
  },
  "relationships": [
   {

@@ -11,7 +11,7 @@
     "en": "Luo Fu"
    },
    "contentRating": "safe",
-   "score": 0.29979825
+   "score": 0.29978943
   },
   {
    "id": "4d60009e-3748-451c-a6ac-ade15a99f085",
@@ -19,7 +19,15 @@
     "en": "Liberté"
    },
    "contentRating": "safe",
-   "score": 0.26305267
+   "score": 0.263054
+  },
+  {
+   "id": "ca831d4b-ab8c-48ba-ad19-852840fbce69",
+   "title": {
+    "en": "Nonai"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027
   },
   {
    "id": "87e4d7e4-5ed8-4c21-91f3-d732f34abe6b",
@@ -33,20 +41,23 @@
    ]
   },
   {
-   "id": "ca831d4b-ab8c-48ba-ad19-852840fbce69",
-   "title": {
-    "en": "Nonai"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027
-  },
-  {
    "id": "f8781b2c-7677-44d1-a0b4-b2a3c4752601",
    "title": {
     "en": "Naruto Gaiden: Michita Tsuki ga Terasu Michi"
    },
    "contentRating": "safe",
    "score": 0.26082027,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0ccf0843-5174-45c4-9487-b99995ebc217",
+   "title": {
+    "en": "Tramp."
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
    "languages": [
     "en"
    ]
@@ -65,13 +76,23 @@
    ]
   },
   {
-   "id": "0ccf0843-5174-45c4-9487-b99995ebc217",
+   "id": "a5050d3a-50d4-4aa1-8b96-168756d383e8",
    "title": {
-    "en": "Tramp."
+    "en": "Kutabire Chuunen to Hoshiyomi no Shoujo"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
+  },
+  {
+   "id": "aebe45b0-4cb2-4811-8711-44742f02896c",
+   "title": {
+    "en": "Saint Seiya - Rerise of Poseidon"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
+    "es-la",
+    "pt-br",
     "en"
    ]
   },
@@ -87,33 +108,12 @@
    ]
   },
   {
-   "id": "aebe45b0-4cb2-4811-8711-44742f02896c",
-   "title": {
-    "en": "Saint Seiya - Rerise of Poseidon"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "a5050d3a-50d4-4aa1-8b96-168756d383e8",
-   "title": {
-    "en": "Kutabire Chuunen to Hoshiyomi no Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065
-  },
-  {
    "id": "cf6920fd-53ca-426a-bd75-af113e73a4b7",
    "title": {
     "en": "Gaintoria no Hangeki"
    },
    "contentRating": "safe",
-   "score": 0.2498145
+   "score": 0.24981268
   },
   {
    "id": "f55d2517-e0f8-4035-91a3-55ff23518842",
@@ -121,7 +121,7 @@
     "en": "King of the East"
    },
    "contentRating": "safe",
-   "score": 0.24935491,
+   "score": 0.24935623,
    "languages": [
     "en"
    ]
@@ -132,7 +132,7 @@
     "en": "Kamudo"
    },
    "contentRating": "safe",
-   "score": 0.24426985
+   "score": 0.24426548
   },
   {
    "id": "43d8b6c2-4ed5-4728-a196-8214fca115c7",
@@ -140,9 +140,23 @@
     "en": "Bootsleg"
    },
    "contentRating": "safe",
-   "score": 0.24184155,
+   "score": 0.24183789,
    "languages": [
     "vi",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "48910afe-3676-4a64-93c1-066b2cce4aa2",
+   "title": {
+    "en": "BLEACH the unforgivens"
+   },
+   "contentRating": "safe",
+   "score": 0.24147265,
+   "languages": [
+    "tr",
+    "it",
+    "en",
     "pt-br"
    ]
   },
@@ -156,15 +170,7 @@
    "languages": [
     "fr"
    ]
-  },
-  {
-   "id": "04107609-23b6-4b18-a46e-4df5b1d8b9b6",
-   "title": {
-    "en": "A.-D.O.G.S."
-   },
-   "contentRating": "safe",
-   "score": 0.24002965
   }
  ],
- "updatedAt": "2024-11-21T20:53:01+00:00"
+ "updatedAt": "2024-11-23T21:06:01+00:00"
 }

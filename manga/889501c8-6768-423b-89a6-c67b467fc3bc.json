@@ -1,0 +1,127 @@
+{
+ "id": "889501c8-6768-423b-89a6-c67b467fc3bc",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Moto Ojousama no Shomin Ochi"
+  },
+  "altTitles": [
+   {
+    "ja": "元お嬢様の庶民堕ち"
+   },
+   {
+    "ko": "전 아가씨의 서민 추락"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "ko"
+  ],
+  "latestUploadedChapter": "ded5122c-3c87-4165-b63b-e33e215e4641",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-22T17:19:25+00:00",
+  "updatedAt": "2024-11-22T17:19:41+00:00"
+ },
+ "relationships": [
+  {
+   "id": "03dec4f6-85cf-4bf0-84c1-1f5e5e848875",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-01-08T11:52:02+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "miyashiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-01-08T11:52:02+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "03dec4f6-85cf-4bf0-84c1-1f5e5e848875",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-01-08T11:52:02+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "miyashiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-01-08T11:52:02+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ce38237a-a5bd-4cba-8738-d86d279ba058",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-22T17:19:37+00:00",
+    "description": "",
+    "fileName": "dbf3d4fa-4e95-4a7d-a0fb-71c10a37be5a.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-22T17:19:37+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "dc5b24b1-a65d-41cf-9ea0-a74a9ac0b330",
+   "type": "creator"
+  }
+ ]
+}

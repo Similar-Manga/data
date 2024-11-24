@@ -3,17 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Jikaku Syojyo"
+   "en": "Jikaku Shoujou"
   },
   "altTitles": [
    {
-    "ja-ro": "Jikaku Shojo"
-   },
-   {
-    "ja-ro": "Jikaku Shoujou"
-   },
-   {
     "ja": "自覚症状"
+   },
+   {
+    "ja-ro": "Jikaku Syojyo"
    },
    {
     "en": "Subjective Symptoms"
@@ -127,9 +124,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-11-21T12:55:53+00:00",
-  "updatedAt": "2024-11-21T13:04:44+00:00"
+  "updatedAt": "2024-11-22T05:48:25+00:00"
  },
  "relationships": [
   {

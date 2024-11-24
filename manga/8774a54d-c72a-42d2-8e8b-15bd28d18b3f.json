@@ -7,10 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "ImouTrouble"
+    "ja-ro": "ImouTrouble"
    },
    {
-    "en": "いもうとらぶる"
+    "ja": "いもうとらぶる"
    }
   ],
   "description": {
@@ -84,58 +84,62 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2018-06-29T11:02:55+00:00",
-  "updatedAt": "2021-05-25T15:44:41+00:00"
+  "updatedAt": "2024-11-23T04:39:04+00:00"
  },
  "relationships": [
   {
-   "id": "9b68a966-ff8e-4a1b-9030-8e3a0c20150a",
+   "id": "73f4ab73-e4cf-42b4-a92f-00e0d2c68fae",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 有香子\n\n**Also Known As:**\nNekomura Yukako (猫村有香子)\nMizusawa Yukako (水沢有香子)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Nekomura Yukako",
+    "name": "Yukako",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ukanin",
+    "updatedAt": "2024-11-23T04:38:36+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "9b68a966-ff8e-4a1b-9030-8e3a0c20150a",
+   "id": "73f4ab73-e4cf-42b4-a92f-00e0d2c68fae",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 有香子\n\n**Also Known As:**\nNekomura Yukako (猫村有香子)\nMizusawa Yukako (水沢有香子)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Nekomura Yukako",
+    "name": "Yukako",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ukanin",
+    "updatedAt": "2024-11-23T04:38:36+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

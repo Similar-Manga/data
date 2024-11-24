@@ -47,6 +47,18 @@
   "latestUploadedChapter": "0a56be8a-9d87-4003-8636-f6c21a7f7c81",
   "tags": [
    {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
     "type": "tag",
     "attributes": {
@@ -64,6 +76,18 @@
     "attributes": {
      "name": {
       "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
      },
      "description": {},
      "group": "genre",
@@ -132,9 +156,9 @@
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 13,
   "createdAt": "2023-02-19T23:32:52+00:00",
-  "updatedAt": "2024-10-23T16:25:51+00:00"
+  "updatedAt": "2024-11-21T11:37:06+00:00"
  },
  "relationships": [
   {

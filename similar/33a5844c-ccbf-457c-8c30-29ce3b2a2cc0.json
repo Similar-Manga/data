@@ -11,7 +11,7 @@
     "en": "Gishinanki o Shozu"
    },
    "contentRating": "safe",
-   "score": 0.26380908,
+   "score": 0.2638204,
    "languages": [
     "en",
     "pl"
@@ -23,7 +23,7 @@
     "en": "House of the Yamauba"
    },
    "contentRating": "safe",
-   "score": 0.26172307,
+   "score": 0.261735,
    "languages": [
     "en"
    ]
@@ -34,9 +34,46 @@
     "en": "20-byou Date"
    },
    "contentRating": "safe",
-   "score": 0.25740784,
+   "score": 0.25723067,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "96045bc1-004e-42df-8d4f-f4ffd7ec317a",
+   "title": {
+    "en": "The Dream I Had When I Died"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "e993775d-c4dc-4186-a5e9-0e1100a04427",
+   "title": {
+    "en": "Ghost Heights Management Association"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7223f1e3-570d-45e9-9081-ba8de820393a",
+   "title": {
+    "en": "The Apartment Where Strange Wails Echo"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "vi",
+    "ru",
+    "it",
     "en"
    ]
   },
@@ -59,43 +96,6 @@
    ]
   },
   {
-   "id": "96045bc1-004e-42df-8d4f-f4ffd7ec317a",
-   "title": {
-    "en": "The Dream I Had When I Died"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "7223f1e3-570d-45e9-9081-ba8de820393a",
-   "title": {
-    "en": "The Apartment Where Strange Wails Echo"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "vi",
-    "ru",
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "e993775d-c4dc-4186-a5e9-0e1100a04427",
-   "title": {
-    "en": "Ghost Heights Management Association"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "1345f419-ef3c-4c8f-8854-6915f62f9060",
    "title": {
     "en": "12-ji no Kane ga Naru"
@@ -114,14 +114,15 @@
    ]
   },
   {
-   "id": "7f4b3c76-f4ae-415e-8451-c5189858ac64",
+   "id": "b3c3d089-3cf0-48f3-93a8-5dba09d521da",
    "title": {
-    "en": "Glasses"
+    "en": "Oni Yashiki"
    },
    "contentRating": "safe",
    "score": 0.22506468,
    "languages": [
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -148,18 +149,6 @@
    ]
   },
   {
-   "id": "b3c3d089-3cf0-48f3-93a8-5dba09d521da",
-   "title": {
-    "en": "Oni Yashiki"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "152342c2-abeb-4a4a-bbbb-6ba8e9b625ae",
    "title": {
     "en": "Jiko Bukken"
@@ -171,16 +160,14 @@
    ]
   },
   {
-   "id": "7088bb9b-926f-40d8-9049-e9a27218a2a3",
+   "id": "7f4b3c76-f4ae-415e-8451-c5189858ac64",
    "title": {
-    "en": "Client"
+    "en": "Glasses"
    },
    "contentRating": "safe",
-   "score": 0.20978172,
+   "score": 0.22506468,
    "languages": [
-    "en",
-    "uk",
-    "ru"
+    "en"
    ]
   },
   {
@@ -208,7 +195,20 @@
     "pt-br",
     "id"
    ]
+  },
+  {
+   "id": "7088bb9b-926f-40d8-9049-e9a27218a2a3",
+   "title": {
+    "en": "Client"
+   },
+   "contentRating": "safe",
+   "score": 0.20978172,
+   "languages": [
+    "en",
+    "uk",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2024-11-21T20:05:27+00:00"
+ "updatedAt": "2024-11-23T20:18:10+00:00"
 }

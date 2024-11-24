@@ -1,0 +1,158 @@
+{
+ "id": "0702ca2b-7a72-4973-ba6f-e40cb3cd2f62",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Foreign Object was Me"
+  },
+  "altTitles": [
+   {
+    "ko": "이물질은 나였다"
+   }
+  ],
+  "description": {
+   "en": "I was once a candidate to become a saint, but I fell victim to a wicked scheme. Falsely accused of bringing down the duke's family, my only ally, and attempting to poison my rival, Diana, I met a miserable end. *\"What is this? Am I some throwaway character in a third-rate novel?\"* To my shock, I realized I had actually reincarnated as a minor character in a novel!  \n\nWhen I woke up again, I miraculously found myself back in my childhood. This time, I vowed to live a righteous life. By mending my ways, I unexpectedly won the duke’s favor, befriended his eldest son—who had once met an untimely death because of me—and even healed the terminally ill younger son.  \n\n*\"Great! Now all I need is to avoid any death flags!\"* But as I tried to steer away from the original plot, I kept getting entangled with potential male leads... And Diana, once known as the kind-hearted heroine, started acting strangely hostile.  \n\n*\"I can’t feel a pulse,\"* they said. To make matters worse, my heart went missing! Can I ever find peace in this life?"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Official Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-23T14:58:44+00:00",
+  "updatedAt": "2024-11-23T14:59:00+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2500cf3a-7a41-415d-b848-fc82985472f0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-05-20T19:28:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Iwagkki Molang Rabbit",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-05-20T19:28:23+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "481f5d5f-7d43-48b5-9240-9863e8aee1c7",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-23T14:58:22+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yangyong",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-23T14:58:22+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "db62cab2-7498-4983-94b5-c88574baafea",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-23T14:58:57+00:00",
+    "description": "",
+    "fileName": "f5c64bcf-cdb7-4534-9e2c-32569f28121e.png",
+    "locale": "ko",
+    "updatedAt": "2024-11-23T14:58:57+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}

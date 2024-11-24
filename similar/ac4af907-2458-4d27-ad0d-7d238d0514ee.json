@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1db2dbca-46b3-48c2-ae61-86986a56a6f1",
+   "title": {
+    "en": "Komorebi Neko"
+   },
+   "contentRating": "safe",
+   "score": 0.29900143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4f088331-c386-44d9-9c14-ae7889edbc41",
    "title": {
     "en": "2001 Seconds Time Trap"
    },
    "contentRating": "safe",
-   "score": 0.2966214,
+   "score": 0.29662293,
    "languages": [
     "ro",
     "pl",
@@ -24,7 +35,7 @@
     "en": "HELP!!"
    },
    "contentRating": "safe",
-   "score": 0.29571757,
+   "score": 0.29572126,
    "languages": [
     "bg",
     "en",
@@ -37,7 +48,7 @@
     "en": "Gecko to Gekkou to Kekkon"
    },
    "contentRating": "safe",
-   "score": 0.2931743,
+   "score": 0.2931734,
    "languages": [
     "en"
    ]
@@ -48,41 +59,75 @@
     "en": "Tsuki e no Hashigo"
    },
    "contentRating": "safe",
-   "score": 0.2928866,
+   "score": 0.2928879,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "f5e27bea-548a-4fa0-8abf-01234ba0096a",
+   "id": "f588a877-6a89-4d7e-9c0e-b1ffb5203d11",
    "title": {
-    "en": "Neko-san no Kimagure Mahou"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "hu",
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "ae447c62-4aaf-4a5b-851c-f93ec6a2a62d",
-   "title": {
-    "en": "Kaze no Kaeru Basho"
+    "en": "Akazukin to, Koisuru Ookami"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "en",
-    "bg",
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
+   "id": "d0752cb8-62fa-4f0d-9f42-e55d58d2da68",
+   "title": {
+    "en": "The Fairy and the Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pl",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "20054acb-037a-4a78-8caa-3a41127dbf4b",
+   "title": {
+    "en": "Prickly Day"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "a9e2231d-857f-4adb-a302-a904a4bf5a0a",
+   "title": {
+    "en": "Baku to Nemurihime"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
    ]
   },
   {
    "id": "4c2d0f59-1cdf-4633-93bb-04ce6752193e",
    "title": {
     "en": "Hana to Himegimi to Akuma no Vivian"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "da9b1b0c-c797-44f8-9ae2-f354d995218e",
+   "title": {
+    "en": "Sokubaku Master"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -104,19 +149,6 @@
    ]
   },
   {
-   "id": "d0752cb8-62fa-4f0d-9f42-e55d58d2da68",
-   "title": {
-    "en": "The Fairy and the Hunter"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pl",
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "0fcabed7-7e5a-403e-a4d8-270efc133ad8",
    "title": {
     "en": "Hitomi kara Destiny"
@@ -127,40 +159,6 @@
     "en",
     "vi",
     "ro"
-   ]
-  },
-  {
-   "id": "da9b1b0c-c797-44f8-9ae2-f354d995218e",
-   "title": {
-    "en": "Sokubaku Master"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a9e2231d-857f-4adb-a302-a904a4bf5a0a",
-   "title": {
-    "en": "Baku to Nemurihime"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "20054acb-037a-4a78-8caa-3a41127dbf4b",
-   "title": {
-    "en": "Prickly Day"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -176,6 +174,19 @@
    ]
   },
   {
+   "id": "ae447c62-4aaf-4a5b-851c-f93ec6a2a62d",
+   "title": {
+    "en": "Kaze no Kaeru Basho"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "bg",
+    "pt-br"
+   ]
+  },
+  {
    "id": "d29eae50-8d3f-40ce-9b19-2711f7fe3015",
    "title": {
     "en": "Kaze no Yubiwa to Hikari no Udewa"
@@ -185,18 +196,7 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "caf6c980-09e2-4cc2-8728-6c86fa83e662",
-   "title": {
-    "en": "The Locked-up Maiden"
-   },
-   "contentRating": "safe",
-   "score": 0.2649549,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-11-21T20:46:33+00:00"
+ "updatedAt": "2024-11-23T20:59:26+00:00"
 }

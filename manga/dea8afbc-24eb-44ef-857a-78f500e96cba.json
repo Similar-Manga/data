@@ -1,0 +1,165 @@
+{
+ "id": "dea8afbc-24eb-44ef-857a-78f500e96cba",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sabaku Darake no Sekai de, Ossan ga Denshi Money de Musou Suru"
+  },
+  "altTitles": [
+   {
+    "ja": "砂漠だらけの世界で、おっさんが電子マネーで無双する"
+   }
+  ],
+  "description": {
+   "ja": "砂漠に化け物…。なんて場所だ。\n\nサラリーマンとして生活していた加藤太郎はある日砂漠に覆われた『グレートデザート』という異世界に召喚されてしまう。しかも、太郎をハズレと蔑む国王によって化け物が蔓延る砂漠へと置いてかれてしまい!?そんな彼を救ったのは――…?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DLNQQYWG",
+   "bw": "series/497816",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/861161",
+   "raw": "https://www.comic-valkyrie.com/sabaku/"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-21T22:49:59+00:00",
+  "updatedAt": "2024-11-21T22:50:52+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d526303a-84e2-456e-a9fd-4354272ff0d1",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Y.A",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6487c9f2-3842-404c-a9f7-72780d2730c2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-21T22:43:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "ダイエクスト",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-21T22:43:56+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6e64b7af-0331-459f-9e85-a1d0d1e08d05",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T22:50:02+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "714252e8-6cfa-4596-9bf3-b9662215caa4.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-21T22:50:02+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

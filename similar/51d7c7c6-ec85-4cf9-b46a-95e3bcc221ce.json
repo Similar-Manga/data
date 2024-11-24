@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "8e9732e7-0d69-43a6-9379-b4693c0c539f",
-   "title": {
-    "en": "Gekibuno."
-   },
-   "contentRating": "safe",
-   "score": 0.25190344,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "a57b2144-ed01-44d0-9b83-dd7000125c7e",
    "title": {
     "en": "Gattai Idol! Snow-chan"
@@ -39,12 +28,23 @@
    ]
   },
   {
+   "id": "8e9732e7-0d69-43a6-9379-b4693c0c539f",
+   "title": {
+    "en": "Gekibuno."
+   },
+   "contentRating": "safe",
+   "score": 0.25190344,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f750b290-ca6b-4fc2-85ed-05592cf09919",
    "title": {
     "en": "SK8 the Infinity: Chill Out!"
    },
    "contentRating": "safe",
-   "score": 0.23357505,
+   "score": 0.23357153,
    "languages": [
     "hu",
     "en",
@@ -58,7 +58,7 @@
     "en": "Chrome Shelled Regios Felli's Poem: a four frame comic strip"
    },
    "contentRating": "safe",
-   "score": 0.22831562,
+   "score": 0.22831045,
    "languages": [
     "en"
    ]
@@ -69,7 +69,7 @@
     "en": "Lucky☆Star"
    },
    "contentRating": "safe",
-   "score": 0.2264893,
+   "score": 0.22649065,
    "languages": [
     "it",
     "pl",
@@ -80,17 +80,15 @@
    ]
   },
   {
-   "id": "57c2c292-d09b-4075-af15-63d84f7f61e7",
+   "id": "392afdba-74dc-4518-90ed-2ac286f40950",
    "title": {
-    "en": "Sketchbook"
+    "en": "J-Ota Danshi Asahina-kun"
    },
    "contentRating": "safe",
    "score": 0.21815477,
    "languages": [
     "en",
-    "pl",
-    "pt-br",
-    "it"
+    "vi"
    ]
   },
   {
@@ -118,15 +116,17 @@
    ]
   },
   {
-   "id": "392afdba-74dc-4518-90ed-2ac286f40950",
+   "id": "57c2c292-d09b-4075-af15-63d84f7f61e7",
    "title": {
-    "en": "J-Ota Danshi Asahina-kun"
+    "en": "Sketchbook"
    },
    "contentRating": "safe",
    "score": 0.21815477,
    "languages": [
     "en",
-    "vi"
+    "pl",
+    "pt-br",
+    "it"
    ]
   },
   {
@@ -135,50 +135,16 @@
     "en": "Aru Hi, Totsuzen Gal no Iinazuke ga Dekita"
    },
    "contentRating": "safe",
-   "score": 0.20053293,
+   "score": 0.2005363,
    "languages": [
     "es-la",
     "en"
    ]
   },
   {
-   "id": "f2185ece-0ee5-4816-9815-69faee850fdb",
+   "id": "585840f3-d0db-4c98-b235-4cc19aef1872",
    "title": {
-    "en": "Ore no Kanojo ni Nanika Youkai"
-   },
-   "contentRating": "safe",
-   "score": 0.19512355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bdc9c0f8-468f-4f89-87bc-eceadd21551d",
-   "title": {
-    "en": "The Melancholy of a Trap"
-   },
-   "contentRating": "safe",
-   "score": 0.19512355,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "8902e74b-a0a9-4f43-be24-5a6fa41fc2db",
-   "title": {
-    "en": "Money, Maidens, Love, and Innocence"
-   },
-   "contentRating": "safe",
-   "score": 0.19512355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "880dc0df-36d7-49f8-b87f-cd0a442aaa2a",
-   "title": {
-    "en": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru 4-Koma"
+    "en": "Shuchiin Academy’s Graduation Party ~Kaguya-sama Wants to be Celebrated~: Last Official Fanbook"
    },
    "contentRating": "safe",
    "score": 0.19512355,
@@ -197,7 +163,41 @@
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "27e62003-e44a-4271-93da-c808e497791e",
+   "title": {
+    "en": "The Prince of the Afterschool"
+   },
+   "contentRating": "safe",
+   "score": 0.19512355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8902e74b-a0a9-4f43-be24-5a6fa41fc2db",
+   "title": {
+    "en": "Money, Maidens, Love, and Innocence"
+   },
+   "contentRating": "safe",
+   "score": 0.19512355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bdc9c0f8-468f-4f89-87bc-eceadd21551d",
+   "title": {
+    "en": "The Melancholy of a Trap"
+   },
+   "contentRating": "safe",
+   "score": 0.19512355,
+   "languages": [
+    "id",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-21T20:15:45+00:00"
+ "updatedAt": "2024-11-23T20:28:40+00:00"
 }

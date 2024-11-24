@@ -35,7 +35,7 @@
     "en": "Totally Captivated"
    },
    "contentRating": "safe",
-   "score": 0.1828083,
+   "score": 0.18280962,
    "languages": [
     "tr"
    ]
@@ -60,7 +60,7 @@
     "en": "To Earn Your Trust"
    },
    "contentRating": "safe",
-   "score": 0.18161018,
+   "score": 0.18161228,
    "languages": [
     "es-la",
     "en",
@@ -68,16 +68,15 @@
    ]
   },
   {
-   "id": "fc255b3a-a9fa-4d64-b11b-1c5e60597b36",
+   "id": "b15d0683-85bc-4ac3-8e9f-286708ac0d3f",
    "title": {
-    "en": "Sunken Fish"
+    "en": "A Matter of Life and Death"
    },
    "contentRating": "safe",
    "score": 0.17657731,
    "languages": [
-    "tr",
-    "es-la",
-    "en"
+    "pt-br",
+    "tr"
    ]
   },
   {
@@ -95,15 +94,35 @@
    ]
   },
   {
-   "id": "b15d0683-85bc-4ac3-8e9f-286708ac0d3f",
+   "id": "fc255b3a-a9fa-4d64-b11b-1c5e60597b36",
    "title": {
-    "en": "A Matter of Life and Death"
+    "en": "Sunken Fish"
    },
    "contentRating": "safe",
    "score": 0.17657731,
    "languages": [
+    "tr",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "ae8c6312-6121-4469-846f-637f40afbd3b",
+   "title": {
+    "en": "Winter Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.17625149,
+   "languages": [
+    "pl",
+    "tr",
+    "en",
+    "fr",
+    "it",
+    "id",
+    "th",
     "pt-br",
-    "tr"
+    "ro"
    ]
   },
   {
@@ -133,29 +152,10 @@
     "en": "Hitodenashi to Koi"
    },
    "contentRating": "safe",
-   "score": 0.17019866,
+   "score": 0.17019562,
    "languages": [
     "en",
     "tr"
-   ]
-  },
-  {
-   "id": "ae8c6312-6121-4469-846f-637f40afbd3b",
-   "title": {
-    "en": "Winter Moon"
-   },
-   "contentRating": "safe",
-   "score": 0.16770247,
-   "languages": [
-    "pl",
-    "tr",
-    "en",
-    "fr",
-    "it",
-    "id",
-    "th",
-    "pt-br",
-    "ro"
    ]
   },
   {
@@ -164,20 +164,8 @@
     "en": "Hanazakari no Niwa"
    },
    "contentRating": "safe",
-   "score": 0.16275169,
+   "score": 0.16275261,
    "languages": [
-    "tr"
-   ]
-  },
-  {
-   "id": "ef50d975-7c11-40c1-93c1-9c5b6593049b",
-   "title": {
-    "en": "Levelling Up In An Exclusive Dungeon"
-   },
-   "contentRating": "safe",
-   "score": 0.16122277,
-   "languages": [
-    "en",
     "tr"
    ]
   },
@@ -209,6 +197,18 @@
    ]
   },
   {
+   "id": "ef50d975-7c11-40c1-93c1-9c5b6593049b",
+   "title": {
+    "en": "Levelling Up In An Exclusive Dungeon"
+   },
+   "contentRating": "safe",
+   "score": 0.16122277,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "7b9656e8-14e8-4c18-987f-da44e0e2d8eb",
    "title": {
     "en": "Dog Style"
@@ -222,5 +222,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-21T20:45:11+00:00"
+ "updatedAt": "2024-11-23T20:58:02+00:00"
 }

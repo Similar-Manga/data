@@ -1,0 +1,166 @@
+{
+ "id": "1520529e-fb73-4fa1-8190-6843f9aab2b6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mahou Shoujo Fuusen o Ane kara Moratte Nani ka ni Mezameru Shounen"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "Mahou Shoujo Fuusen o Ane kara Moratte Nani ka ni Mezameru Shounen"
+   },
+   {
+    "ja": "魔法少女風船を姉から貰って何かに目覚める少年"
+   },
+   {
+    "en": "A Boy Awakens to Something After Receiving an Inflatable Magical Girl from His Older Sister"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/en/artworks/104313671"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "2",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "2bd2e8d0-f146-434a-9b51-fc9ff2c5fe6a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Genderswap"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "81c836c9-914a-4eca-981a-560dad663e73",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magical Girls"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crossdressing"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-23T08:09:54+00:00",
+  "updatedAt": "2024-11-23T12:40:32+00:00"
+ },
+ "relationships": [
+  {
+   "id": "40551b90-c808-4edf-a502-193cf379b6c0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-08-16T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Snow",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-08-16T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "40551b90-c808-4edf-a502-193cf379b6c0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-08-16T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Snow",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-08-16T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8b460492-c40e-406b-b4a1-ba3061265b8f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-23T08:10:01+00:00",
+    "description": "",
+    "fileName": "2ec7c344-26c7-4154-bbce-bcb60194f2c0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-23T08:10:01+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "d7539782-19b0-4482-9f11-a70280c1d632",
+   "type": "creator"
+  }
+ ]
+}

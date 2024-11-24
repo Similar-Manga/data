@@ -1,0 +1,165 @@
+{
+ "id": "3f177c52-77b4-4d91-afd6-02314556727b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tokyo Ijin Keisatsu"
+  },
+  "altTitles": [
+   {
+    "ja": "東京異人警察"
+   }
+  ],
+  "description": {
+   "ja": "異人と呼ばれる人外種が“流入”した日本。異人警官第1号であるケンタウロスの少女・ニナが出会ったのは、“第0号“だった元警官・ユーリという男で……。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DK7R9C9W",
+   "bw": "series/491684",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/860986",
+   "mu": "mse1x0o"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Police"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-23T19:23:33+00:00",
+  "updatedAt": "2024-11-23T19:23:42+00:00"
+ },
+ "relationships": [
+  {
+   "id": "fb837d9d-e6e3-4165-be44-5fbc1006adc3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-03-12T06:04:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ikeda 73-gou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-03-12T06:04:15+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fb837d9d-e6e3-4165-be44-5fbc1006adc3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-03-12T06:04:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ikeda 73-gou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-03-12T06:04:15+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c56278c9-3347-4959-b5a8-8fa0e29b6ce7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-23T19:23:36+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "a2470bda-7e22-45b1-99da-d83ab73b5cec.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-23T19:23:36+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

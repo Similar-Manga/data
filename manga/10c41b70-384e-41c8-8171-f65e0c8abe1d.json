@@ -3,11 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Let's consider the impact of cross-dressing on adolescence"
+   "en": "Josou ga Shishunki ni Ataeru Eikyou o Kangaeyou"
   },
   "altTitles": [
    {
     "ja": "女装が思春期に与える影響を考えよう"
+   },
+   {
+    "ja-ro": "Josou ga Shishunki ni Ataeru Eikyou wo Kangaeyou"
+   },
+   {
+    "en": "Let's Consider the Impact of Cross-Dressing on Adolescence"
    }
   ],
   "description": {},
@@ -21,8 +27,20 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "4d19fac1-f8eb-45a8-97ab-456c24dc6d27",
+  "latestUploadedChapter": "16a3741b-b900-4713-8ca4-ec585a17c47d",
   "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
     "type": "tag",
@@ -49,32 +67,34 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2024-11-18T13:16:53+00:00",
-  "updatedAt": "2024-11-18T13:19:24+00:00"
+  "updatedAt": "2024-11-21T10:50:09+00:00"
  },
  "relationships": [
   {
    "id": "be635e3e-3d05-4c4e-8c5d-ff362342d29a",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 底野 御前\n \n**Alt. names**:\nsokono_omaee"
+    },
     "booth": null,
     "createdAt": "2024-11-18T13:14:26+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "sokono omaee",
+    "name": "Sokono Omae",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/4578186",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-18T13:14:26+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/sokono_omaee",
+    "updatedAt": "2024-11-21T10:47:34+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -84,23 +104,25 @@
    "id": "be635e3e-3d05-4c4e-8c5d-ff362342d29a",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 底野 御前\n \n**Alt. names**:\nsokono_omaee"
+    },
     "booth": null,
     "createdAt": "2024-11-18T13:14:26+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "sokono omaee",
+    "name": "Sokono Omae",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/4578186",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-18T13:14:26+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/sokono_omaee",
+    "updatedAt": "2024-11-21T10:47:34+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

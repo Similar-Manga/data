@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "8984e9b3-32eb-4fcc-89f5-c42e8dcec5b2",
+   "title": {
+    "en": "Anata no Shimobe"
+   },
+   "contentRating": "safe",
+   "score": 0.22796033,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "666c67d3-a88f-4050-99c6-d03970cb8127",
    "title": {
     "en": "Kuchizuke wa Uso no Aji"
@@ -18,23 +29,12 @@
    ]
   },
   {
-   "id": "8984e9b3-32eb-4fcc-89f5-c42e8dcec5b2",
-   "title": {
-    "en": "Anata no Shimobe"
-   },
-   "contentRating": "safe",
-   "score": 0.22796033,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "af1a94c9-7a96-47b4-9639-f41bc216b33c",
    "title": {
     "en": "Amai Hari"
    },
    "contentRating": "safe",
-   "score": 0.20644738,
+   "score": 0.20644471,
    "languages": [
     "en"
    ]
@@ -45,9 +45,22 @@
     "en": "Déjà-vu"
    },
    "contentRating": "safe",
-   "score": 0.20595153,
+   "score": 0.20595455,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e1e7cedc-0175-4902-927d-3e7ebd0cd64c",
+   "title": {
+    "en": "Last Client"
+   },
+   "contentRating": "safe",
+   "score": 0.19741945,
+   "languages": [
+    "tr",
+    "en",
+    "it"
    ]
   },
   {
@@ -73,25 +86,23 @@
    ]
   },
   {
-   "id": "e1e7cedc-0175-4902-927d-3e7ebd0cd64c",
-   "title": {
-    "en": "Last Client"
-   },
-   "contentRating": "safe",
-   "score": 0.19741945,
-   "languages": [
-    "tr",
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "da176ff4-c7cd-402f-af40-65e665f250fe",
    "title": {
     "en": "Dragon x Boy"
    },
    "contentRating": "safe",
-   "score": 0.194489,
+   "score": 0.19449785,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1ca12c64-c2aa-40b2-9635-811c64863d83",
+   "title": {
+    "en": "The Assassin Dislikes Fish"
+   },
+   "contentRating": "safe",
+   "score": 0.19422139,
    "languages": [
     "en"
    ]
@@ -120,42 +131,9 @@
    ]
   },
   {
-   "id": "1ca12c64-c2aa-40b2-9635-811c64863d83",
-   "title": {
-    "en": "The Assassin Dislikes Fish"
-   },
-   "contentRating": "safe",
-   "score": 0.19422139,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e32a6616-f3d6-4c4a-88b1-879a9d7396cf",
-   "title": {
-    "en": "Koisuru Intelligence"
-   },
-   "contentRating": "safe",
-   "score": 0.19422139,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c056190c-ba36-4039-bd40-6fd6cb55fd2f",
    "title": {
     "en": "Abareru Inu"
-   },
-   "contentRating": "safe",
-   "score": 0.19422139,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c619fde7-c5db-40f6-ac1f-e68c6d81f68f",
-   "title": {
-    "en": "Saijoukyuu FORTUNE"
    },
    "contentRating": "safe",
    "score": 0.19422139,
@@ -175,6 +153,28 @@
    ]
   },
   {
+   "id": "c619fde7-c5db-40f6-ac1f-e68c6d81f68f",
+   "title": {
+    "en": "Saijoukyuu FORTUNE"
+   },
+   "contentRating": "safe",
+   "score": 0.19422139,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e32a6616-f3d6-4c4a-88b1-879a9d7396cf",
+   "title": {
+    "en": "Koisuru Intelligence"
+   },
+   "contentRating": "safe",
+   "score": 0.19422139,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "534e868e-97ea-426f-b760-58bc3baeb0bb",
    "title": {
     "en": "Tasogare, Kimi ni Ai ni Iku"
@@ -186,5 +186,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-21T19:48:13+00:00"
+ "updatedAt": "2024-11-23T19:59:29+00:00"
 }

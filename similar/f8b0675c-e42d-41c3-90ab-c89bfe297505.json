@@ -6,21 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "a9630bbe-6b68-437f-8624-bdb89fd61aa7",
-   "title": {
-    "en": "Helmut"
-   },
-   "contentRating": "safe",
-   "score": 0.15272072,
-   "languages": [
-    "en",
-    "es-la",
-    "fr",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
    "id": "1b45ddae-88e8-4b78-9a51-684e2f10616d",
    "title": {
     "en": "How to Be God"
@@ -35,6 +20,21 @@
     "tr",
     "fr",
     "es-la"
+   ]
+  },
+  {
+   "id": "a9630bbe-6b68-437f-8624-bdb89fd61aa7",
+   "title": {
+    "en": "Helmut: The Forsaken Child"
+   },
+   "contentRating": "safe",
+   "score": 0.15272072,
+   "languages": [
+    "en",
+    "es-la",
+    "fr",
+    "pt-br",
+    "pl"
    ]
   },
   {
@@ -66,19 +66,6 @@
    ]
   },
   {
-   "id": "fb983259-a877-440e-a468-58446cf6a2cf",
-   "title": {
-    "en": "100,000 Levels of Body Refining : All the dogs I raise are the Emperor"
-   },
-   "contentRating": "safe",
-   "score": 0.13226001,
-   "languages": [
-    "en",
-    "es-la",
-    "pl"
-   ]
-  },
-  {
    "id": "275e0ab8-d7e4-44f6-aa8a-0ef8fe98999f",
    "title": {
     "en": "Highschool Lunch Dad"
@@ -95,6 +82,19 @@
     "fr",
     "ar",
     "id"
+   ]
+  },
+  {
+   "id": "fb983259-a877-440e-a468-58446cf6a2cf",
+   "title": {
+    "en": "100,000 Levels of Body Refining : All the dogs I raise are the Emperor"
+   },
+   "contentRating": "safe",
+   "score": 0.13226001,
+   "languages": [
+    "en",
+    "es-la",
+    "pl"
    ]
   },
   {
@@ -121,21 +121,6 @@
     "mn",
     "bg",
     "uk"
-   ]
-  },
-  {
-   "id": "773c2211-750b-4fff-bd64-c914986e4637",
-   "title": {
-    "en": "Doom Breaker"
-   },
-   "contentRating": "safe",
-   "score": 0.12469594,
-   "languages": [
-    "es-la",
-    "fr",
-    "pl",
-    "en",
-    "fa"
    ]
   },
   {
@@ -167,16 +152,19 @@
    ]
   },
   {
-   "id": "9b404699-0aa7-4910-b455-c6a91dda8ae6",
+   "id": "773c2211-750b-4fff-bd64-c914986e4637",
    "title": {
-    "en": "Gendai no Saikyou Heishi, Isekai Dungeon o Kouryaku Suru"
+    "en": "Doom Breaker"
    },
    "contentRating": "safe",
-   "score": 0.12244899,
+   "score": 0.12469594,
    "languages": [
+    "es-la",
+    "fr",
     "pl",
-    "pt-br",
-    "en"
+    "en",
+    "fa",
+    "pt-br"
    ]
   },
   {
@@ -198,12 +186,25 @@
    ]
   },
   {
+   "id": "9b404699-0aa7-4910-b455-c6a91dda8ae6",
+   "title": {
+    "en": "Gendai no Saikyou Heishi, Isekai Dungeon o Kouryaku Suru"
+   },
+   "contentRating": "safe",
+   "score": 0.12244899,
+   "languages": [
+    "pl",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "18868868-ef41-45c6-b811-9ca8a17c9041",
    "title": {
     "en": "Spray King"
    },
    "contentRating": "safe",
-   "score": 0.11806458,
+   "score": 0.118059196,
    "languages": [
     "pl",
     "en"
@@ -215,27 +216,12 @@
     "en": "Light vs Shadow"
    },
    "contentRating": "safe",
-   "score": 0.10938272,
+   "score": 0.10938378,
    "languages": [
     "fr",
     "pt-br",
     "pl",
     "ru"
-   ]
-  },
-  {
-   "id": "ff5bbffe-abd3-44b2-b3aa-8c9c4c56ba94",
-   "title": {
-    "en": "Digimon Adventure V-Tamer 01 ~A New Courage~"
-   },
-   "contentRating": "safe",
-   "score": 0.107989855,
-   "languages": [
-    "zh-hk",
-    "es-la",
-    "fr",
-    "pl",
-    "en"
    ]
   },
   {
@@ -252,7 +238,22 @@
     "id",
     "pl"
    ]
+  },
+  {
+   "id": "ff5bbffe-abd3-44b2-b3aa-8c9c4c56ba94",
+   "title": {
+    "en": "Digimon Adventure V-Tamer 01 ~A New Courage~"
+   },
+   "contentRating": "safe",
+   "score": 0.107989855,
+   "languages": [
+    "zh-hk",
+    "es-la",
+    "fr",
+    "pl",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-21T21:12:07+00:00"
+ "updatedAt": "2024-11-23T21:25:40+00:00"
 }

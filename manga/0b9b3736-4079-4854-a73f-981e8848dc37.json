@@ -7,13 +7,13 @@
   },
   "altTitles": [
    {
-    "en": "Seimaden (The Tall Tale of the Demon Prince)"
+    "ja-ro": "Seimaden"
    },
    {
     "en": "The Tall Tale of the Demon Prince"
    },
    {
-    "en": "聖魔伝"
+    "ja": "聖魔伝"
    }
   ],
   "description": {
@@ -21,16 +21,21 @@
   },
   "links": {
    "al": "31413",
+   "amz": "https://www.amazon.co.jp/dp/B074CHD4QZ",
    "ap": "seimaden",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=聖魔伝+氷栗優",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/736650/",
    "kt": "3030",
    "mal": "1413",
-   "mu": "488"
+   "mu": "488",
+   "raw": "https://www.cmoa.jp/title/114892/"
   },
   "originalLanguage": "ja",
   "lastVolume": "10",
   "lastChapter": "52",
   "publicationDemographic": "shoujo",
   "status": "completed",
+  "year": 1994,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en",
@@ -112,16 +117,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2018-05-09T15:02:45+00:00",
-  "updatedAt": "2022-06-27T14:15:44+00:00"
+  "updatedAt": "2024-11-22T12:07:35+00:00"
  },
  "relationships": [
   {
    "id": "790c5072-7227-49ca-b5c4-1a7ba2c04f4b",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n氷栗優"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -136,8 +143,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "http://twitter.com/wimaro2",
-    "updatedAt": "2022-06-04T18:52:40+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-22T12:18:38+00:00",
+    "version": 3,
     "website": "http://www.jttk.zaq.ne.jp/higuri/",
     "weibo": null,
     "youtube": null
@@ -147,7 +154,9 @@
    "id": "790c5072-7227-49ca-b5c4-1a7ba2c04f4b",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n氷栗優"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -162,24 +171,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "http://twitter.com/wimaro2",
-    "updatedAt": "2022-06-04T18:52:40+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-22T12:18:38+00:00",
+    "version": 3,
     "website": "http://www.jttk.zaq.ne.jp/higuri/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "7959585a-a268-4fa3-9ff5-b8a7cf2b88c7",
+   "id": "3a42cd4d-5235-4197-9eb8-0095d5601a37",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-28T23:14:32+00:00",
+    "createdAt": "2024-11-22T12:07:35+00:00",
     "description": "",
-    "fileName": "06023741-f430-4bde-ab41-1b1824f38e06.jpg",
+    "fileName": "b8c5433b-fac1-48e5-a0d8-a3b9b1b71dc5.png",
     "locale": "ja",
-    "updatedAt": "2021-05-28T23:14:32+00:00",
+    "updatedAt": "2024-11-22T12:07:35+00:00",
     "version": 1,
-    "volume": null
+    "volume": "10"
    }
   }
  ]

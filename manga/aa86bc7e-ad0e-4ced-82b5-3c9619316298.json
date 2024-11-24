@@ -1,0 +1,147 @@
+{
+ "id": "aa86bc7e-ad0e-4ced-82b5-3c9619316298",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Taisango no Maid-san"
+  },
+  "altTitles": [
+   {
+    "en": "Maid after work"
+   },
+   {
+    "ja-ro": "退勤後のメイドさん"
+   }
+  ],
+  "description": {
+   "en": "My maid, Hayaoka-san, She is serious, good at her job and perfect. But it seems like I'm a little relaxed after work... The gap between on and off keeps me excited! ♡"
+  },
+  "links": {
+   "ap": "taisango-no-maid-san"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "53b9bc72-f736-4044-8f84-c76a1a6364a9",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-22T14:45:19+00:00",
+  "updatedAt": "2024-11-22T17:55:00+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e4d3d3bb-153d-419e-9f40-7630c0c926c8",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nGokugetsu Momo (ごくげつ桃)\nごくげつ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Gokugetsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/190440",
+    "skeb": "https://skeb.jp/@momo_cafe0703",
+    "tumblr": null,
+    "twitter": "https://twitter.com/momo_cafe0703",
+    "updatedAt": "2023-04-20T22:46:08+00:00",
+    "version": 3,
+    "website": "http://honeylip0611.blog.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e4d3d3bb-153d-419e-9f40-7630c0c926c8",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nGokugetsu Momo (ごくげつ桃)\nごくげつ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Gokugetsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/190440",
+    "skeb": "https://skeb.jp/@momo_cafe0703",
+    "tumblr": null,
+    "twitter": "https://twitter.com/momo_cafe0703",
+    "updatedAt": "2023-04-20T22:46:08+00:00",
+    "version": 3,
+    "website": "http://honeylip0611.blog.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a3f7933d-f2aa-4213-b114-be55fdbeccc9",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-22T14:45:28+00:00",
+    "description": "",
+    "fileName": "41316ad5-f213-40cb-968b-2c8fc38b0e97.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-22T14:45:28+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "68d62155-85fa-4851-94af-37402bf16252",
+   "type": "creator"
+  }
+ ]
+}

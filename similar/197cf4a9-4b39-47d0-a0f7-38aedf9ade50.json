@@ -6,6 +6,22 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "186be625-ca4f-42a2-bcff-5b70241e0858",
+   "title": {
+    "en": "Suzume no Uta"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797
+  },
+  {
+   "id": "b71b928f-6e7f-40c6-97aa-c093b3bf6866",
+   "title": {
+    "en": "Minami Suita University Baseball Club"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797
+  },
+  {
    "id": "9704318c-7a2c-4e29-baa9-6206fcef7dd9",
    "title": {
     "en": "Stopper Busujima"
@@ -15,14 +31,6 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "186be625-ca4f-42a2-bcff-5b70241e0858",
-   "title": {
-    "en": "Suzume no Uta"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797
   },
   {
    "id": "4686a84b-e5cf-45ec-b0ee-7aa3e1706686",
@@ -41,20 +49,12 @@
    "score": 0.28350797
   },
   {
-   "id": "b71b928f-6e7f-40c6-97aa-c093b3bf6866",
-   "title": {
-    "en": "Minami Suita University Baseball Club"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797
-  },
-  {
    "id": "80e429f9-c6ff-49a8-985f-188caa54268e",
    "title": {
     "en": "Gekitou"
    },
    "contentRating": "safe",
-   "score": 0.2400551
+   "score": 0.24005759
   },
   {
    "id": "60ec021b-e37b-44ed-8368-208bf1cdaeac",
@@ -62,7 +62,7 @@
     "en": "Katsugiya Doomo"
    },
    "contentRating": "safe",
-   "score": 0.23455717
+   "score": 0.23454735
   },
   {
    "id": "06b501b5-d4b6-40ee-ac73-106a4b65b17b",
@@ -70,7 +70,7 @@
     "en": "Wild Leaguer"
    },
    "contentRating": "safe",
-   "score": 0.2337052
+   "score": 0.23370692
   },
   {
    "id": "f312a2f4-b562-497e-950f-9d5d015470e1",
@@ -78,38 +78,7 @@
     "en": "Gotama"
    },
    "contentRating": "safe",
-   "score": 0.23288074
-  },
-  {
-   "id": "943fad77-2f37-4b5d-a306-fbd0bae00f61",
-   "title": {
-    "en": "Tokuni Maketemo Kamawanai"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "7054e48f-fa07-442f-8d58-9f3addb71b16",
-   "title": {
-    "en": "Dark Horse Café"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328
-  },
-  {
-   "id": "8ceedb6c-ea45-4ec5-b99d-2870965eb683",
-   "title": {
-    "en": "Halftime"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328,
-   "languages": [
-    "en"
-   ]
+   "score": 0.23287669
   },
   {
    "id": "24788734-e05b-4cb0-b82d-f9d6e4ac50e1",
@@ -128,12 +97,16 @@
    "score": 0.23148328
   },
   {
-   "id": "ddab3920-3961-466a-8798-cf5436aba395",
+   "id": "943fad77-2f37-4b5d-a306-fbd0bae00f61",
    "title": {
-    "en": "Decathlon"
+    "en": "Tokuni Maketemo Kamawanai"
    },
    "contentRating": "safe",
-   "score": 0.23148328
+   "score": 0.23148328,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
   },
   {
    "id": "2acf9b3d-f82c-4b4a-93f0-d99777380fd2",
@@ -142,7 +115,39 @@
    },
    "contentRating": "safe",
    "score": 0.23148328
+  },
+  {
+   "id": "ddab3920-3961-466a-8798-cf5436aba395",
+   "title": {
+    "en": "Decathlon"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328
+  },
+  {
+   "id": "8ceedb6c-ea45-4ec5-b99d-2870965eb683",
+   "title": {
+    "en": "Halftime"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ac99bb12-c788-4f7d-95c1-1264d0d943b4",
+   "title": {
+    "en": "Maid Skater"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2024-11-21T19:56:43+00:00"
+ "updatedAt": "2024-11-23T20:08:05+00:00"
 }

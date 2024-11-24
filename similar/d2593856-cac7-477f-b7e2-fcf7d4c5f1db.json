@@ -6,49 +6,9 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "9bba2d1e-0f5a-49e5-af09-6d8afea37fc2",
-   "title": {
-    "en": "The Comrades in Arms"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "5fba9ca1-bd91-4094-9f12-5c45438c1473",
-   "title": {
-    "en": "Typhoon Chase"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "3bd5df19-f317-4cb4-b5b7-c1041595dc44",
-   "title": {
-    "en": "Mr. Daisuke"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "a20248b4-d946-4ce4-902d-a16708391e74",
-   "title": {
-    "en": "Angel no Tsubasa"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "0e4b831d-ef85-40a3-bdda-cf11183d53f0",
    "title": {
     "en": "The Laws Under Fire"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "64621c2e-54cf-49e6-a0fd-59a5aa35ddaf",
-   "title": {
-    "en": "Child Soldier Zaza"
    },
    "contentRating": "safe",
    "score": 0.2857143
@@ -62,15 +22,55 @@
    "score": 0.2857143
   },
   {
+   "id": "3bd5df19-f317-4cb4-b5b7-c1041595dc44",
+   "title": {
+    "en": "Mr. Daisuke"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "9bba2d1e-0f5a-49e5-af09-6d8afea37fc2",
+   "title": {
+    "en": "The Comrades in Arms"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "64621c2e-54cf-49e6-a0fd-59a5aa35ddaf",
+   "title": {
+    "en": "Child Soldier Zaza"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "5fba9ca1-bd91-4094-9f12-5c45438c1473",
+   "title": {
+    "en": "Typhoon Chase"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "52267aef-37aa-482e-beea-44637aacee35",
    "title": {
     "en": "Rising Sun R"
    },
    "contentRating": "safe",
-   "score": 0.24958871,
+   "score": 0.24958186,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "1c91c0ba-4501-484f-bd13-901e8a51d0c1",
+   "title": {
+    "en": "Kenka Hagakure"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
   },
   {
    "id": "697aa0b8-fd5c-4f1c-9118-dda271faaaa9",
@@ -89,28 +89,12 @@
    "score": 0.23328476
   },
   {
-   "id": "1c91c0ba-4501-484f-bd13-901e8a51d0c1",
-   "title": {
-    "en": "Kenka Hagakure"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "d3fc5b0c-4350-4388-85f1-8d2fc3bf6bb5",
-   "title": {
-    "en": "Collection of Works \"Apollo After 100 Years\""
-   },
-   "contentRating": "safe",
-   "score": 0.2282194
-  },
-  {
    "id": "c49feee4-126f-48d0-9a6c-418d7da05265",
    "title": {
     "en": "Kuutei Dragons"
    },
    "contentRating": "safe",
-   "score": 0.22502746,
+   "score": 0.22501373,
    "languages": [
     "pt-br",
     "es-la",
@@ -119,12 +103,20 @@
    ]
   },
   {
+   "id": "d3fc5b0c-4350-4388-85f1-8d2fc3bf6bb5",
+   "title": {
+    "en": "Collection of Works \"Apollo After 100 Years\""
+   },
+   "contentRating": "safe",
+   "score": 0.21759994
+  },
+  {
    "id": "835dd39f-97c3-4206-87cb-3ca9cc22399b",
    "title": {
     "en": "Steins;Gate - Eigou Kaiki no Pandora"
    },
    "contentRating": "safe",
-   "score": 0.21111208,
+   "score": 0.21112014,
    "languages": [
     "en"
    ]
@@ -135,7 +127,7 @@
     "en": "Shojo Manga"
    },
    "contentRating": "safe",
-   "score": 0.210741,
+   "score": 0.21069793,
    "languages": [
     "it",
     "tr",
@@ -145,13 +137,24 @@
    ]
   },
   {
-   "id": "ff9beedc-440a-4f89-9849-ea3541a45eb1",
+   "id": "039b4d5c-7e27-4ac5-bf24-e159139a81b5",
    "title": {
-    "en": "Re:make"
+    "en": "Lunacy"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
+   "id": "c0b830bb-21f6-4156-91d6-5329136a3c00",
+   "title": {
+    "en": "Semi no Naku Koro"
    },
    "contentRating": "safe",
    "score": 0.20203052
   }
  ],
- "updatedAt": "2024-11-21T20:59:20+00:00"
+ "updatedAt": "2024-11-23T21:12:33+00:00"
 }

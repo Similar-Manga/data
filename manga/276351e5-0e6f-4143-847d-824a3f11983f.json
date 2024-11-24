@@ -13,17 +13,20 @@
     "ja": "異世界でもふもふなでなでするためにがんばってます。"
    },
    {
-    "zh": "为了在异世界也能抚摸毛茸茸"
+    "ja-ro": "Isekai de Mofu Mofu Nade Nade Suru Tame ni Ganbattemasu."
    },
    {
     "en": "I'm Working Hard to do *pat-pat* *the pluffy* in Another World."
    },
    {
     "en": "I'm Doing My Best to Make Myself at Home in Another World"
+   },
+   {
+    "zh": "为了在异世界也能抚摸毛茸茸"
    }
   ],
   "description": {
-   "en": "After various things happened, I got an ability from God and reincarnated to another world! While being watched over by my high-spec family, the superordinary me fully enjoyed other world life. Using the ability I received from God, I had a daily life of just fluffing and petting fantasy animals. There are some shady movements too, but while being led by the nose by God, I’ll do my best at various things with my cheat-like comrades!  \n\n\n---\n\nTwitter: [Author](https://twitter.com/mohunade), [Artist](https://twitter.com/y_chs), [Char. Designer](https://twitter.com/kirouran)"
+   "en": "After various things happened, I got an ability from God and reincarnated to another world! While being watched over by my high-spec family, the superordinary me fully enjoyed other world life. Using the ability I received from God, I had a daily life of just fluffing and petting fantasy animals. There are some shady movements too, but while being led by the nose by God, I’ll do my best at various things with my cheat-like comrades!"
   },
   "links": {
    "al": "109202",
@@ -147,33 +150,35 @@
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 16,
   "createdAt": "2019-11-23T10:08:37+00:00",
-  "updatedAt": "2024-10-30T12:55:03+00:00"
+  "updatedAt": "2024-11-21T09:23:07+00:00"
  },
  "relationships": [
   {
    "id": "9f00030b-f031-4e3b-a92b-eb47da940c48",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Writer.\n\nNot to be confused with [Himawari (暇ワリ)](https://mangadex.org/author/998da92e-261c-4e9e-bcc2-7073731426f1), a web comic artist with the same romaji name.\n\n**Native name**: 向日葵"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Himawari",
+    "name": "Himawari (向日葵)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/mohunade",
+    "updatedAt": "2024-11-21T09:17:02+00:00",
+    "version": 2,
+    "website": "https://mypage.syosetu.com/285149/",
     "weibo": null,
     "youtube": null
    }
@@ -182,7 +187,9 @@
    "id": "3b716d59-cf37-49b0-a507-52d9f17453a3",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 高上優里子"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -196,10 +203,10 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/y_chs",
+    "updatedAt": "2024-11-21T09:13:45+00:00",
+    "version": 2,
+    "website": "https://chsyuri.jugem.jp/",
     "weibo": null,
     "youtube": null
    }

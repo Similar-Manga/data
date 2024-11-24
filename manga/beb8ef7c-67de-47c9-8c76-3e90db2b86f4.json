@@ -7,7 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "Oops, Professor!"
+    "ja": "残念博士"
+   },
+   {
+    "en": "Too Bad, Professor"
    },
    {
     "en": "Professor Unfortuately"
@@ -16,21 +19,24 @@
     "en": "Sorry, Professor!"
    },
    {
-    "en": "Too Bad, Professor"
-   },
-   {
-    "en": "残念博士"
+    "en": "Oops, Professor!"
    }
   ],
   "description": {
-   "en": "A manga about a scientist, and her experiments. Hijinks ensue. Also has a rival scientist."
+   "en": "Hijinks ensue because of a scientist and her experiments. She even has a rival…‽"
   },
   "links": {
+   "al": "132541",
+   "amz": "https://www.amazon.co.jp/dp/B074CKHJ6B",
+   "bw": "series/6870",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/172855/",
    "mu": "62892"
   },
   "originalLanguage": "ja",
+  "lastVolume": "3",
   "publicationDemographic": "shounen",
   "status": "completed",
+  "year": 2011,
   "contentRating": "safe",
   "tags": [
    {
@@ -59,74 +65,78 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 3,
   "createdAt": "2020-11-10T08:30:31+00:00",
-  "updatedAt": "2020-11-10T08:30:31+00:00"
+  "updatedAt": "2024-11-23T03:49:17+00:00"
  },
  "relationships": [
   {
-   "id": "dcda7a6d-abfa-41c4-93ba-7adda772bd51",
+   "id": "b33dd7d1-a761-491d-b01f-9ed82dc3601d",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 瀬野反人 (Seno Soruto)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Seno Soruto",
+    "name": "Seno Salt",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/rainbowonigiri",
+    "updatedAt": "2024-11-23T03:48:55+00:00",
+    "version": 4,
+    "website": "https://www.senosalt.com/",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/channel/UCaRd2PcyJB85jbIRVDi2YOA"
    }
   },
   {
-   "id": "dcda7a6d-abfa-41c4-93ba-7adda772bd51",
+   "id": "b33dd7d1-a761-491d-b01f-9ed82dc3601d",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 瀬野反人 (Seno Soruto)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Seno Soruto",
+    "name": "Seno Salt",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/rainbowonigiri",
+    "updatedAt": "2024-11-23T03:48:55+00:00",
+    "version": 4,
+    "website": "https://www.senosalt.com/",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/channel/UCaRd2PcyJB85jbIRVDi2YOA"
    }
   },
   {
-   "id": "e57b4d65-fa4d-4f3a-85c9-a4efe7d211ef",
+   "id": "dc2a51c8-64bc-4b14-9413-13e919216521",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:18:14+00:00",
-    "description": "",
-    "fileName": "74242c03-37e1-49a8-8757-e4fde114489e.jpg",
+    "createdAt": "2024-11-23T03:43:12+00:00",
+    "description": "digital",
+    "fileName": "69d6ff1e-5e23-45ef-8f72-42a375666e43.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:18:14+00:00",
+    "updatedAt": "2024-11-23T03:43:12+00:00",
     "version": 1,
-    "volume": null
+    "volume": "3"
    }
   }
  ]

@@ -1,0 +1,160 @@
+{
+ "id": "90b677df-cf77-4fd9-8d8b-f029dd16fee3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "BB Deformer"
+  },
+  "altTitles": [
+   {
+    "ja": "BBデフォルメ"
+   }
+  ],
+  "description": {
+   "en": "Characters from the three popular Bamboo Blade series are all here! The daily lives of their kendo clubs in 4-koma style."
+  },
+  "links": {
+   "al": "184589",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B074CLZL8X?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1732285775\u0026sr=1-1",
+   "bw": "series/19697/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/258611/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "65",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2013,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-22T14:31:10+00:00",
+  "updatedAt": "2024-11-22T15:06:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "537732c6-a8ae-47c0-9a38-e25209616e4e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Totsuka Masahiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b7fcfa72-36c3-4d0f-b0b8-a2baf2e1bbf9",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azumi Saki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "59b5f43d-ad8b-4b02-bb9b-c2899f17cba7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-22T14:31:12+00:00",
+    "description": "",
+    "fileName": "3a10312c-2e18-465e-910a-7d62a6282fe7.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-22T14:31:12+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "fa6c64e2-cfb5-45d8-98ac-47ec34d33005",
+   "type": "manga",
+   "related": "adapted_from"
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

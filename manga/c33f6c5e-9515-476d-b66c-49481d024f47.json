@@ -1,0 +1,188 @@
+{
+ "id": "c33f6c5e-9515-476d-b66c-49481d024f47",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "VOCALOID - The Story of Miku \u0026 Her Master (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "「初音ミクとマスターの話」リメイク版"
+   },
+   {
+    "ja-ro": "\"Hatsune Miku to Master no Hanashi\" Remake Ban (VOCALOID)"
+   },
+   {
+    "en": "The Story of Hatsune Miku \u0026 Her Master: Remake Ver. (VOCALOID)"
+   },
+   {
+    "vi": "Câu chuyện vể Miku \u0026 chủ nhân của cô ấy Bản Remake (VOCALOID)"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/dezidezi_ro/status/1854468928279556118"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi"
+  ],
+  "latestUploadedChapter": "ac265e8f-7139-49d4-9965-45ad38b3f606",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-11-22T14:36:44+00:00",
+  "updatedAt": "2024-11-23T02:15:25+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a3561c42-0037-48d3-a961-f47f5906a26e",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: でじろう\n\n**Alt. names**:\ndezidezi_ro"
+    },
+    "booth": null,
+    "createdAt": "2024-11-21T18:14:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Dejirou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/dezidezi_ro",
+    "updatedAt": "2024-11-22T17:48:30+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a3561c42-0037-48d3-a961-f47f5906a26e",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: でじろう\n\n**Alt. names**:\ndezidezi_ro"
+    },
+    "booth": null,
+    "createdAt": "2024-11-21T18:14:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Dejirou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/dezidezi_ro",
+    "updatedAt": "2024-11-22T17:48:30+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f77e1216-19df-44be-ab09-d0f024d20101",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-22T14:36:47+00:00",
+    "description": "",
+    "fileName": "13cfcacf-f85e-43f8-b843-18438b6b92c2.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-22T14:36:47+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "bf715c86-f0ea-463b-9a72-7a481dd781d5",
+   "type": "creator"
+  }
+ ]
+}

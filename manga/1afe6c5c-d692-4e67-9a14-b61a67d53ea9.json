@@ -1,0 +1,158 @@
+{
+ "id": "1afe6c5c-d692-4e67-9a14-b61a67d53ea9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Momentary Lily: Sotsugyou Made ni Shitai 100 no Koto"
+  },
+  "altTitles": [
+   {
+    "ja": "もめんたりー・リリィ～卒業までにしたい100のこと～"
+   },
+   {
+    "ja-ro": "Momelily"
+   },
+   {
+    "ja": "もめリリ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.manga-up.com/titles/1322"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-22T15:36:21+00:00",
+  "updatedAt": "2024-11-22T15:37:13+00:00"
+ },
+ "relationships": [
+  {
+   "id": "eefe0939-6600-4817-872d-cea05ac67bbe",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nNeiri\n怜悧"
+    },
+    "booth": null,
+    "createdAt": "2023-11-19T21:50:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Reiri",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/reiri_013",
+    "updatedAt": "2023-11-29T18:23:01+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "eefe0939-6600-4817-872d-cea05ac67bbe",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nNeiri\n怜悧"
+    },
+    "booth": null,
+    "createdAt": "2023-11-19T21:50:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Reiri",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/reiri_013",
+    "updatedAt": "2023-11-29T18:23:01+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "326cff05-f728-41ff-910d-fa0564bdb3c0",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-22T15:36:33+00:00",
+    "description": "",
+    "fileName": "19ce9b09-ae80-4e2e-b8ee-7ba1de16d89e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-22T15:36:33+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "7ac55554-6ba0-4f3e-95db-2f5abc28e910",
+   "type": "creator"
+  }
+ ]
+}

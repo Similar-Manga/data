@@ -3,21 +3,33 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kanojo no Tomodachi Uwaki Selection Full Color"
+   "en": "Kanojo no Tomodachi Uwaki Selection (Official Colored)"
   },
   "altTitles": [
    {
-    "vi": "Bạn Của Bạn Gái Tôi - Tuyển tập các phân cảnh ngoại tình được lên màu"
+    "ja": "彼女の友達　うわきセレクション　フルカラー版"
    },
    {
-    "ja": "彼女の友達　うわきセレクション　フルカラ"
+    "ja-ro": "Kanojo no Tomodachi Uwaki Selection Full Color Ban"
+   },
+   {
+    "en": "My Girlfriend's Friend: Cheating Selection (Official Colored)"
+   },
+   {
+    "en": "My Girlfriend's Friend (Official Colored)"
+   },
+   {
+    "vi": "Bạn Của Bạn Gái Tôi - Tuyển tập các phân cảnh ngoại tình được lên màu"
    }
   ],
   "description": {
+   "en": "\"Even in Full Color... Let's Cheat? Cheat. C-h-e-a-t.\"\n\nThe long-awaited definitive full-color edition of the adult romance manga \"My Girlfriend's Friend\" that has exceeded a total of over 800,000 copies sold is finally here! The unforgettable \"cheating scenes\" with Yoshioka, burned into the minds of readers, are now being offered in gorgeous full color!\n\nEnjoy the immoral stimulation once again in vivid colors!\n\n(Source: BookLive)",
+   "ja": "「カラーでも…\n浮気しよ？ ウワキ う・わ・き」\n\n累計８０万部突破の大人気恋愛漫画・『彼女の友達』が\n待望の”よりぬき”フルカラー化して登場―――！\n彼女の友達・吉岡さんとの、脳裏に焼き付いて離れない\n「あの浮気シーン」を、豪華彩色でお届けします。\n\n色鮮やかな背徳の刺激を、またアナタに―――。",
    "vi": "Tuyển tập các phân cảnh ngoại tình được lên màu trong phần chính truyện."
   },
   "links": {
-   "raw": "https://bookwalker.jp/de35c11940-a4b4-4ee5-bc6e-82538cfe53fd/"
+   "bw": "de35c11940-a4b4-4ee5-bc6e-82538cfe53fd",
+   "raw": "https://booklive.jp/product/index/title_id/1718257/vol_no/001"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
@@ -29,6 +41,18 @@
   ],
   "latestUploadedChapter": "531f0b46-6c39-4385-bcce-1fa4728fd8d8",
   "tags": [
+   {
+    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Official Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -64,24 +88,12 @@
      "group": "theme",
      "version": 1
     }
-   },
-   {
-    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Full Color"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 6,
   "createdAt": "2024-11-20T16:12:50+00:00",
-  "updatedAt": "2024-11-20T16:12:59+00:00"
+  "updatedAt": "2024-11-21T10:38:25+00:00"
  },
  "relationships": [
   {
@@ -141,16 +153,16 @@
    }
   },
   {
-   "id": "331f9c0e-2aba-47c0-a821-ef64aba3b607",
+   "id": "e0052670-237d-49fc-b1a4-00f71119ee72",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-20T16:12:54+00:00",
-    "description": "",
-    "fileName": "c9159239-7a57-4cd4-8699-e98beee0602e.jpg",
+    "createdAt": "2024-11-21T09:48:03+00:00",
+    "description": "Cover from BookLive replacing the previous 1125x1600 cover",
+    "fileName": "b012a155-c41a-4e31-a932-96285c4f9c00.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-20T16:12:54+00:00",
+    "updatedAt": "2024-11-21T09:48:03+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "0.1"
    }
   },
   {

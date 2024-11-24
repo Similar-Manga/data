@@ -7,11 +7,11 @@
   },
   "altTitles": [
    {
-    "en": "この麗しい女騎士におしおきを!"
+    "ja": "この麗しい女騎士におしおきを!"
    }
   ],
   "description": {
-   "en": ""
+   "en": "| Namespace | Tags |\n| :--- | :--- |\n| parody | kono subarashii sekai ni syukufuku o |\n| character | darkness |\n| group | kukuya |\n| artist | ckj |\n| male | metal armor |\n| female | nakadashi, sole female, thigh high boots |"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -44,12 +44,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-09-21T07:09:58+00:00",
-  "updatedAt": "2021-05-25T15:42:33+00:00"
+  "updatedAt": "2024-11-21T07:06:04+00:00"
  },
  "relationships": [
   {

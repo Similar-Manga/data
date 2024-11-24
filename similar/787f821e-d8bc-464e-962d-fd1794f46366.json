@@ -6,24 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "f43571d0-0e03-434e-aa1a-d8bf37556bae",
-   "title": {
-    "en": "Meganebashi Hanako no Mitate"
-   },
-   "contentRating": "safe",
-   "score": 0.22279188,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
    "id": "a887db23-0b0d-47b4-9cd5-74e15348ae6b",
    "title": {
     "en": "Gallery Fake"
    },
    "contentRating": "safe",
-   "score": 0.21851817,
+   "score": 0.2185444,
    "languages": [
     "en"
    ]
@@ -34,7 +22,7 @@
     "en": "Atarashii Joushi wa Dotennen"
    },
    "contentRating": "safe",
-   "score": 0.21225642,
+   "score": 0.212257,
    "languages": [
     "en",
     "vi"
@@ -46,8 +34,20 @@
     "en": "Mori no Asagao - Shinjin Keimukan to Aru Shikeishuu no Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.20798746,
+   "score": 0.20799209,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f43571d0-0e03-434e-aa1a-d8bf37556bae",
+   "title": {
+    "en": "Meganebashi Hanako no Mitate"
+   },
+   "contentRating": "safe",
+   "score": 0.20363148,
+   "languages": [
+    "zh-hk",
     "en"
    ]
   },
@@ -60,17 +60,6 @@
    "score": 0.19491173,
    "languages": [
     "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
-   "title": {
-    "en": "Sunny Sunny Ann!"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
     "en"
    ]
   },
@@ -100,74 +89,38 @@
    ]
   },
   {
+   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
+   "title": {
+    "en": "Sunny Sunny Ann!"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "e1d6dd1c-5ceb-44f7-bfe6-f74199288b07",
    "title": {
     "en": "Saint☆Young Men"
    },
    "contentRating": "safe",
-   "score": 0.1899676,
+   "score": 0.1899809,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "aa4e3448-ce7d-4c6b-9fa4-54904890c6b3",
+   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
    "title": {
-    "en": "Bakajo 26-ji"
-   },
-   "contentRating": "safe",
-   "score": 0.187941,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "ec9f5e07-2703-417f-b63f-fc392fee132d",
-   "title": {
-    "en": "Otona no Zukan Kaiteiban"
-   },
-   "contentRating": "safe",
-   "score": 0.187941,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e695ad4f-7e8a-419d-8575-f0a98ffe4615",
-   "title": {
-    "en": "Takaga Tasogare"
-   },
-   "contentRating": "safe",
-   "score": 0.187941,
-   "languages": [
-    "it",
-    "en"
-   ]
-  },
-  {
-   "id": "39b6cbe5-9706-4feb-a06e-57d905f47f5c",
-   "title": {
-    "en": "Botsuichi"
-   },
-   "contentRating": "safe",
-   "score": 0.187941,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c8b5a61e-81d0-4a8d-a2d3-22ba8c409106",
-   "title": {
-    "en": "siSTAR regiSTAR"
+    "en": "Kemutai Hanashi"
    },
    "contentRating": "safe",
    "score": 0.187941,
    "languages": [
     "en",
-    "es-la",
-    "pt-br"
+    "zh-hk"
    ]
   },
   {
@@ -183,17 +136,63 @@
    ]
   },
   {
-   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
+   "id": "39426737-0b65-4d7e-810d-9cf84caf0666",
    "title": {
-    "en": "Kemutai Hanashi"
+    "en": "Kaji Ryuusuke's Agenda"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ec9f5e07-2703-417f-b63f-fc392fee132d",
+   "title": {
+    "en": "Otona no Zukan Kaiteiban"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "39b6cbe5-9706-4feb-a06e-57d905f47f5c",
+   "title": {
+    "en": "Botsuichi"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "aa4e3448-ce7d-4c6b-9fa4-54904890c6b3",
+   "title": {
+    "en": "Bakajo 26-ji"
+   },
+   "contentRating": "safe",
+   "score": 0.187941,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "c8b5a61e-81d0-4a8d-a2d3-22ba8c409106",
+   "title": {
+    "en": "siSTAR regiSTAR"
    },
    "contentRating": "safe",
    "score": 0.187941,
    "languages": [
     "en",
-    "zh-hk"
+    "es-la",
+    "pt-br"
    ]
   }
  ],
- "updatedAt": "2024-11-21T20:28:58+00:00"
+ "updatedAt": "2024-11-23T20:41:48+00:00"
 }

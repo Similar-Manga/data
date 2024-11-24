@@ -6,31 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "6da0b34b-db19-491a-b85c-6e31e0986f15",
-   "title": {
-    "en": "Black Lagoon"
-   },
-   "contentRating": "suggestive",
-   "score": 0.25060028,
-   "languages": [
-    "it",
-    "ru",
-    "pt-br",
-    "vi",
-    "uk",
-    "en",
-    "es",
-    "fr",
-    "tr"
-   ]
-  },
-  {
    "id": "889bd43f-9dd3-4ec9-aa20-2a09b0aa6d12",
    "title": {
     "en": "Wild 7 R"
    },
    "contentRating": "suggestive",
-   "score": 0.2484389
+   "score": 0.24844192
   },
   {
    "id": "4e6c7ed7-2111-4a3b-b34c-fbf07b1884c4",
@@ -56,7 +37,26 @@
     "en": "The Small Tatami of the Great Plain"
    },
    "contentRating": "suggestive",
-   "score": 0.22220765
+   "score": 0.22220902
+  },
+  {
+   "id": "6da0b34b-db19-491a-b85c-6e31e0986f15",
+   "title": {
+    "en": "Black Lagoon"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21586362,
+   "languages": [
+    "it",
+    "ru",
+    "pt-br",
+    "vi",
+    "uk",
+    "en",
+    "es",
+    "fr",
+    "tr"
+   ]
   },
   {
    "id": "b3683a72-dedf-4981-ad2f-d8d1e597718d",
@@ -90,10 +90,23 @@
     "en": "Tokyo Murder School"
    },
    "contentRating": "suggestive",
-   "score": 0.19826844,
+   "score": 0.19827141,
    "languages": [
     "en",
     "fr"
+   ]
+  },
+  {
+   "id": "c978f893-c764-42f4-9b04-fbf162e4d67a",
+   "title": {
+    "en": "Mobile Suit Gundam Thunderbolt"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19775732,
+   "languages": [
+    "en",
+    "pt-br",
+    "fa"
    ]
   },
   {
@@ -102,7 +115,7 @@
     "en": "Showa Phantoms - Those Unforgettable Guys"
    },
    "contentRating": "suggestive",
-   "score": 0.19577016
+   "score": 0.19577163
   },
   {
    "id": "f8eb5546-e170-453f-ad24-4e0f3ead918f",
@@ -141,29 +154,24 @@
    ]
   },
   {
+   "id": "403ec511-ea2b-4794-8ef3-786b36073697",
+   "title": {
+    "en": "Smooth-Talking Joe"
+   },
+   "contentRating": "suggestive",
+   "score": 0.18904904
+  },
+  {
    "id": "4294a016-684b-4a86-8c6f-cc0e8bb2a669",
    "title": {
     "en": "Baki Gaiden: Hana no Chiharu"
    },
    "contentRating": "suggestive",
-   "score": 0.18572654,
+   "score": 0.18572792,
    "languages": [
     "en",
     "pt-br",
     "ar"
-   ]
-  },
-  {
-   "id": "c978f893-c764-42f4-9b04-fbf162e4d67a",
-   "title": {
-    "en": "Mobile Suit Gundam Thunderbolt"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17977937,
-   "languages": [
-    "en",
-    "pt-br",
-    "fa"
    ]
   },
   {
@@ -183,14 +191,6 @@
    ]
   },
   {
-   "id": "403ec511-ea2b-4794-8ef3-786b36073697",
-   "title": {
-    "en": "Smooth-Talking Joe"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17667055
-  },
-  {
    "id": "49c3a2e1-588a-4267-b4fc-4e57a81c8342",
    "title": {
     "en": "Dog Soldier"
@@ -202,5 +202,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-21T21:03:26+00:00"
+ "updatedAt": "2024-11-23T21:16:44+00:00"
 }

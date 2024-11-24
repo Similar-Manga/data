@@ -3,14 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Otomege Sekai wa Mob ni Kibishii Sekai desu - A manga that wants the two of them to be friends forever (Doujinshi)"
+   "en": "Otomege Sekai wa Mob ni Kibishii Sekai desu - Futari ni wa Zutto Nakayoshi de Ite Hoshii to Iu Manga (Doujinshi)"
   },
   "altTitles": [
    {
-    "ja": "2人にはずっと仲良しでいて欲しいという漫画"
+    "ja": "2人にはずっと仲良しでいて欲しいという漫画 (乙女ゲー世界はモブに厳しい世界です)"
    },
    {
-    "ja-ro": "2 nin ni wa zutto nakayoshi de ite hoshī toiu manga"
+    "ja-ro": "2-ri ni wa Zutto Nakayoshi de Ite Hoshī to iu Manga (Otomege Sekai wa Mob ni Kibishii Sekai desu)"
+   },
+   {
+    "en": "A Manga That Wants the Two of Them to Be Friends Forever (Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs)"
    }
   ],
   "description": {},
@@ -60,23 +63,25 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2023-06-13T08:55:53+00:00",
-  "updatedAt": "2023-06-13T09:02:46+00:00"
+  "updatedAt": "2024-11-21T16:48:48+00:00"
  },
  "relationships": [
   {
    "id": "9c61d576-5c45-4ff3-b07f-ec9dfffcb7bb",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: りさはなむら\n\n**Alt. names**:\n0zAfw\nKuutansan (くーたんさん)\nY5tHk\n\n**Additional Links**:\n[Alt. Twitter](https://twitter.com/0zAfw) (Drawing account, as Kuutansan/0zAfw)"
+    },
     "booth": null,
     "createdAt": "2023-06-13T09:02:29+00:00",
-    "fanBox": null,
+    "fanBox": "https://rukahi.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "りさはなむら",
+    "name": "Risa Hanamura (りさはなむら)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -84,25 +89,27 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/Y5tHk",
-    "updatedAt": "2023-06-13T09:03:34+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-21T16:10:39+00:00",
+    "version": 6,
     "website": null,
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@%E3%82%8A%E3%81%95%E3%81%AF%E3%81%AA%E3%82%80%E3%82%89"
    }
   },
   {
    "id": "9c61d576-5c45-4ff3-b07f-ec9dfffcb7bb",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: りさはなむら\n\n**Alt. names**:\n0zAfw\nKuutansan (くーたんさん)\nY5tHk\n\n**Additional Links**:\n[Alt. Twitter](https://twitter.com/0zAfw) (Drawing account, as Kuutansan/0zAfw)"
+    },
     "booth": null,
     "createdAt": "2023-06-13T09:02:29+00:00",
-    "fanBox": null,
+    "fanBox": "https://rukahi.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "りさはなむら",
+    "name": "Risa Hanamura (りさはなむら)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -110,11 +117,11 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/Y5tHk",
-    "updatedAt": "2023-06-13T09:03:34+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-21T16:10:39+00:00",
+    "version": 6,
     "website": null,
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@%E3%82%8A%E3%81%95%E3%81%AF%E3%81%AA%E3%82%80%E3%82%89"
    }
   },
   {

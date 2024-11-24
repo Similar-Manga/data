@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "10-kago ni Menhera ni Naru Gyaru"
+   "en": "Toukago ni Menhera ni Naru Gyaru"
   },
   "altTitles": [
    {
     "ja": "10日後にメンヘラになるギャル"
    },
    {
-    "ja-ro": "Toukago ni Menhera ni Naru Gyaru"
+    "ja-ro": "10-kago ni Menhera ni Naru Gyaru"
    },
    {
     "en": "Gyaru Who Becomes Menhera (Emotionally Clingy) After 10 Days"
@@ -102,9 +102,9 @@
    }
   ],
   "state": "published",
-  "version": 20,
+  "version": 21,
   "createdAt": "2023-04-04T17:43:34+00:00",
-  "updatedAt": "2024-01-07T06:12:35+00:00"
+  "updatedAt": "2024-11-22T18:12:55+00:00"
  },
  "relationships": [
   {
@@ -218,6 +218,11 @@
   },
   {
    "id": "dc0de40c-413e-46a1-b567-1b96317c1f55",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
+   "id": "dc14d123-07ae-4a00-93de-0728dd1a32a4",
    "type": "manga",
    "related": "shared_universe"
   },

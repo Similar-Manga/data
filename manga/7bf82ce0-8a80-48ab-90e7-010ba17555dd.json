@@ -1,0 +1,164 @@
+{
+ "id": "7bf82ce0-8a80-48ab-90e7-010ba17555dd",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sutegoichi"
+  },
+  "altTitles": [
+   {
+    "ja": "捨て駒いち"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "184523",
+   "bw": "series/219803/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/558926/",
+   "mu": "yfr976v"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "8",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1983,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Police"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-22T14:27:35+00:00",
+  "updatedAt": "2024-11-22T15:06:45+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ac196d7f-cec2-46de-816f-3bfae8275111",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-06-14T17:20:33+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ken Kitashiba",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-06-14T17:20:33+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e0d173df-9b05-4692-baae-2e598eef3036",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-05-03T04:52:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Masaoka Toshiya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-05-03T04:52:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bde9afe9-302d-46ab-b014-d2365907c3e7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-22T14:27:36+00:00",
+    "description": "",
+    "fileName": "5374191e-2c4e-427d-8a41-ebd69f704e24.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-22T14:27:36+00:00",
+    "version": 1,
+    "volume": "8"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

@@ -6,23 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "79aab3fa-67c1-4da6-87de-7d9d604c2546",
-   "title": {
-    "en": "Nuiguru Mix"
-   },
-   "contentRating": "suggestive",
-   "score": 0.3113424,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9adaaa1a-0c5f-48fc-89e8-5ff22d38d44e",
    "title": {
     "en": "Brand New School Day"
    },
    "contentRating": "suggestive",
-   "score": 0.3051075,
+   "score": 0.30511063,
    "languages": [
     "fr",
     "ru",
@@ -38,25 +27,9 @@
     "en": "Princess School"
    },
    "contentRating": "suggestive",
-   "score": 0.30451167,
+   "score": 0.30451262,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "72cb65db-2d4a-4302-b5fa-6469aa852dde",
-   "title": {
-    "en": "Gachipin."
-   },
-   "contentRating": "suggestive",
-   "score": 0.3026583,
-   "languages": [
-    "ru",
-    "fr",
-    "en",
-    "es-la",
-    "pt-br",
-    "pl"
    ]
   },
   {
@@ -65,7 +38,7 @@
     "en": "Boku no Idol"
    },
    "contentRating": "suggestive",
-   "score": 0.2974136,
+   "score": 0.29741,
    "languages": [
     "pl",
     "en",
@@ -78,7 +51,7 @@
     "en": "A Boy Who Was Just a Friend for Ten Years Confessed Love to Me"
    },
    "contentRating": "suggestive",
-   "score": 0.2971177,
+   "score": 0.29712108,
    "languages": [
     "en"
    ]
@@ -89,7 +62,7 @@
     "en": "Nagisa-chan no Oukina Oukina Kakushigoto"
    },
    "contentRating": "suggestive",
-   "score": 0.29642692,
+   "score": 0.29642498,
    "languages": [
     "vi",
     "en",
@@ -102,7 +75,7 @@
     "en": "Koi no Dracula"
    },
    "contentRating": "suggestive",
-   "score": 0.29522452,
+   "score": 0.29522532,
    "languages": [
     "it",
     "en"
@@ -114,7 +87,18 @@
     "en": "Hakui no Kanojo (Pre-Serialization)"
    },
    "contentRating": "suggestive",
-   "score": 0.2937662,
+   "score": 0.29376698,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e113ab5a-ae4b-47d7-9016-d8f1f5b0e654",
+   "title": {
+    "en": "Onaidoshi no Onee-san"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
    "languages": [
     "en"
    ]
@@ -129,55 +113,6 @@
    "languages": [
     "es-la",
     "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "d80e18e0-4d5a-48a7-a4b7-1c218db42b1a",
-   "title": {
-    "en": "Takidani High Comic Club"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "fr",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "0232d382-b5e7-4b27-8877-27a25ccb8e80",
-   "title": {
-    "en": "Kusugutteetee!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "es-la",
-    "id",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "6e3c0208-946a-49ef-930e-ed5d2e603ff9",
-   "title": {
-    "en": "Tackle Shoujo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e113ab5a-ae4b-47d7-9016-d8f1f5b0e654",
-   "title": {
-    "en": "Onaidoshi no Onee-san"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2857143,
-   "languages": [
     "en"
    ]
   },
@@ -203,7 +138,73 @@
     "vi",
     "en"
    ]
+  },
+  {
+   "id": "6e3c0208-946a-49ef-930e-ed5d2e603ff9",
+   "title": {
+    "en": "Tackle Shoujo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d80e18e0-4d5a-48a7-a4b7-1c218db42b1a",
+   "title": {
+    "en": "Takidani High Comic Club"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
+   "languages": [
+    "fr",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "72cb65db-2d4a-4302-b5fa-6469aa852dde",
+   "title": {
+    "en": "Gachipin."
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
+   "languages": [
+    "ru",
+    "fr",
+    "en",
+    "es-la",
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
+   "id": "0232d382-b5e7-4b27-8877-27a25ccb8e80",
+   "title": {
+    "en": "Kusugutteetee!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2857143,
+   "languages": [
+    "es-la",
+    "id",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "71843fb5-cce4-41b7-809e-06bea0eccd5b",
+   "title": {
+    "en": "Oh,  Is That What Happened?"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28031147,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-21T21:00:54+00:00"
+ "updatedAt": "2024-11-23T21:14:09+00:00"
 }

@@ -6,31 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "0d7c3646-3aed-4ab5-90c4-0d7c5aeae39a",
-   "title": {
-    "en": "To My Star"
-   },
-   "contentRating": "safe",
-   "score": 0.32587892,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6b3b36a2-821d-499b-ba76-13bcb98e0da2",
    "title": {
     "en": "Since That Day"
    },
    "contentRating": "safe",
-   "score": 0.3116296
-  },
-  {
-   "id": "a81acdb2-ebb8-49e4-9deb-a354e7a93311",
-   "title": {
-    "en": "Divine Delivery"
-   },
-   "contentRating": "safe",
-   "score": 0.30518746
+   "score": 0.3089219
   },
   {
    "id": "4d057621-236d-4f3a-a707-4213b14404c0",
@@ -38,20 +19,29 @@
     "en": "Two Ways for Lovers"
    },
    "contentRating": "safe",
-   "score": 0.29982787,
+   "score": 0.2978135,
    "languages": [
     "fr",
     "tr"
    ]
   },
   {
-   "id": "2d0a472e-94fb-4bab-8dd7-81a875fd6839",
+   "id": "a81acdb2-ebb8-49e4-9deb-a354e7a93311",
    "title": {
-    "en": "Perfect Relationship"
+    "en": "Divine Delivery"
    },
    "contentRating": "safe",
-   "score": 0.29599935,
+   "score": 0.29749534
+  },
+  {
+   "id": "f5a59867-bf43-4475-a149-4f2112fa3e0b",
+   "title": {
+    "en": "A Fake Affair"
+   },
+   "contentRating": "safe",
+   "score": 0.2935664,
    "languages": [
+    "ru",
     "en"
    ]
   },
@@ -61,98 +51,23 @@
     "en": "Nth Romance"
    },
    "contentRating": "safe",
-   "score": 0.29453757
+   "score": 0.29282412
   },
   {
-   "id": "f5a59867-bf43-4475-a149-4f2112fa3e0b",
+   "id": "2d0a472e-94fb-4bab-8dd7-81a875fd6839",
    "title": {
-    "en": "A Fake Affair"
+    "en": "Perfect Relationship"
    },
    "contentRating": "safe",
-   "score": 0.29407224,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "b54babca-7410-494b-952d-6636795177e3",
-   "title": {
-    "en": "Obscene Devil But It's Fine"
-   },
-   "contentRating": "safe",
-   "score": 0.29142952,
+   "score": 0.2913316,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "8c81e365-3393-4be4-96e9-c5937d903a66",
-   "title": {
-    "en": "Her Weird Hobby"
-   },
-   "contentRating": "safe",
-   "score": 0.28809273,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5ca26e13-c7d4-46de-a035-90c9bc52e06d",
-   "title": {
-    "en": "Star Ginseng Store"
-   },
-   "contentRating": "safe",
-   "score": 0.28637555,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "09b80517-f0d6-44bd-94a6-0794da2e18d8",
-   "title": {
-    "en": "Impossible Things"
-   },
-   "contentRating": "safe",
-   "score": 0.28586146,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e90f0484-f65c-4892-903a-42a180692392",
-   "title": {
-    "en": "My Sister’s Private Life"
-   },
-   "contentRating": "safe",
-   "score": 0.28537205,
-   "languages": [
-    "uk"
    ]
   },
   {
    "id": "0ec48f07-9789-4ad9-a491-ce9e857e339e",
    "title": {
     "en": "En Route to Your Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.28537205
-  },
-  {
-   "id": "c360adb7-c934-47ce-a8bd-03ebaeeac35a",
-   "title": {
-    "en": "Do You Still Remember Me?"
-   },
-   "contentRating": "safe",
-   "score": 0.28537205,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2bbdee20-2a4c-4f80-9704-7d55b4160012",
-   "title": {
-    "en": "Abduct A Mommy And Bring Her Home"
    },
    "contentRating": "safe",
    "score": 0.28537205
@@ -168,7 +83,86 @@
     "id",
     "pt-br"
    ]
+  },
+  {
+   "id": "2bbdee20-2a4c-4f80-9704-7d55b4160012",
+   "title": {
+    "en": "Abduct A Mommy And Bring Her Home"
+   },
+   "contentRating": "safe",
+   "score": 0.28537205
+  },
+  {
+   "id": "e90f0484-f65c-4892-903a-42a180692392",
+   "title": {
+    "en": "My Sister’s Private Life"
+   },
+   "contentRating": "safe",
+   "score": 0.28537205,
+   "languages": [
+    "uk"
+   ]
+  },
+  {
+   "id": "c360adb7-c934-47ce-a8bd-03ebaeeac35a",
+   "title": {
+    "en": "Do You Still Remember Me?"
+   },
+   "contentRating": "safe",
+   "score": 0.28537205,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bb76db3a-d9bf-4b68-84c9-ab87976c823b",
+   "title": {
+    "en": "Couple Relationship"
+   },
+   "contentRating": "safe",
+   "score": 0.28164503,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "93001e6f-31ca-4e82-a05f-51362054adc2",
+   "title": {
+    "en": "Billionaires Are Only for You"
+   },
+   "contentRating": "safe",
+   "score": 0.28124747,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7bdff8c0-b678-4945-978e-265d2c572afa",
+   "title": {
+    "en": "Tadaima Koi wo Haisou-chuu!"
+   },
+   "contentRating": "safe",
+   "score": 0.27872455
+  },
+  {
+   "id": "d5850b83-4c65-49b4-8bab-d8fabd59287b",
+   "title": {
+    "en": "Koifure ~Koibito Miman ga Choudo ii~"
+   },
+   "contentRating": "safe",
+   "score": 0.2782559
+  },
+  {
+   "id": "affd6eb4-4306-4b6f-806f-b6f2c16a132f",
+   "title": {
+    "en": "J'adore"
+   },
+   "contentRating": "safe",
+   "score": 0.2736362,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-21T20:15:30+00:00"
+ "updatedAt": "2024-11-23T20:28:25+00:00"
 }

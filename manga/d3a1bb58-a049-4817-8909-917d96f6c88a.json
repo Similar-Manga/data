@@ -3,11 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Otomege Sekai wa Mob ni Kibishii Sekai desu - Mylene-sama is Cute... (Doujinshi)"
+   "en": "Otomege Sekai wa Mob ni Kibishii Sekai desu - Mylene-sama Kawaii... (Doujinshi)"
   },
   "altTitles": [
    {
     "ja": "ミレーヌ様かわいい…"
+   },
+   {
+    "ja-ro": "Mireenu-sama Kawaii..."
+   },
+   {
+    "en": "Mylene-sama is Cute..."
    }
   ],
   "description": {},
@@ -57,61 +63,65 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2023-06-13T18:58:21+00:00",
-  "updatedAt": "2023-12-25T13:23:22+00:00"
+  "updatedAt": "2024-11-21T16:20:51+00:00"
  },
  "relationships": [
   {
-   "id": "cdd126d1-f44a-401a-8131-69187f9b36e3",
+   "id": "9c61d576-5c45-4ff3-b07f-ec9dfffcb7bb",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: りさはなむら\n\n**Alt. names**:\n0zAfw\nKuutansan (くーたんさん)\nY5tHk\n\n**Additional Links**:\n[Alt. Twitter](https://twitter.com/0zAfw) (Drawing account, as Kuutansan/0zAfw)"
+    },
     "booth": null,
-    "createdAt": "2023-06-13T18:51:05+00:00",
-    "fanBox": null,
+    "createdAt": "2023-06-13T09:02:29+00:00",
+    "fanBox": "https://rukahi.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "くーたんさん",
+    "name": "Risa Hanamura (りさはなむら)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/35023549",
     "skeb": null,
     "tumblr": null,
-    "twitter": "https://twitter.com/0zAfw",
-    "updatedAt": "2023-06-13T18:54:19+00:00",
-    "version": 2,
+    "twitter": "https://twitter.com/Y5tHk",
+    "updatedAt": "2024-11-21T16:10:39+00:00",
+    "version": 6,
     "website": null,
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@%E3%82%8A%E3%81%95%E3%81%AF%E3%81%AA%E3%82%80%E3%82%89"
    }
   },
   {
-   "id": "cdd126d1-f44a-401a-8131-69187f9b36e3",
+   "id": "9c61d576-5c45-4ff3-b07f-ec9dfffcb7bb",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: りさはなむら\n\n**Alt. names**:\n0zAfw\nKuutansan (くーたんさん)\nY5tHk\n\n**Additional Links**:\n[Alt. Twitter](https://twitter.com/0zAfw) (Drawing account, as Kuutansan/0zAfw)"
+    },
     "booth": null,
-    "createdAt": "2023-06-13T18:51:05+00:00",
-    "fanBox": null,
+    "createdAt": "2023-06-13T09:02:29+00:00",
+    "fanBox": "https://rukahi.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "くーたんさん",
+    "name": "Risa Hanamura (りさはなむら)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/35023549",
     "skeb": null,
     "tumblr": null,
-    "twitter": "https://twitter.com/0zAfw",
-    "updatedAt": "2023-06-13T18:54:19+00:00",
-    "version": 2,
+    "twitter": "https://twitter.com/Y5tHk",
+    "updatedAt": "2024-11-21T16:10:39+00:00",
+    "version": 6,
     "website": null,
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@%E3%82%8A%E3%81%95%E3%81%AF%E3%81%AA%E3%82%80%E3%82%89"
    }
   },
   {

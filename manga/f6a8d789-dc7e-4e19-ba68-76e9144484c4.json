@@ -1,0 +1,120 @@
+{
+ "id": "f6a8d789-dc7e-4e19-ba68-76e9144484c4",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Second Home"
+  },
+  "altTitles": [
+   {
+    "ja": "セカンドホーム"
+   }
+  ],
+  "description": {
+   "en": "Sadie, a young witch, has lost her memories.\nSince losing them, she's been exploited by the yakuza for her magical abilities.\nDetermined to uncover her past, she sneaks out of their hideout right under the boss's nose, but...\n\nSource: MangaPlus"
+  },
+  "links": {
+   "engtl": "https://mangaplus.shueisha.co.jp/titles/100396",
+   "mal": "176482",
+   "raw": "https://shonenjumpplus.com/episode/17106567260965581916"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "301ef088-4c68-4906-8299-38aaa9672c38",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-22T19:16:26+00:00",
+  "updatedAt": "2024-11-23T15:46:59+00:00"
+ },
+ "relationships": [
+  {
+   "id": "78778a8c-c133-40c3-85e1-394f7d7d83be",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-22T19:15:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "bieber",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-22T19:15:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "78778a8c-c133-40c3-85e1-394f7d7d83be",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-22T19:15:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "bieber",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-22T19:15:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5ad64af2-c60b-4f6e-9d00-9d1373c335b7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-22T19:16:29+00:00",
+    "description": "",
+    "fileName": "bb509127-79a4-4ba7-b4e0-b4804ac6ec8b.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-22T19:16:29+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f56aa6ad-6e44-4018-8a3d-43aaa00bc383",
+   "type": "creator"
+  }
+ ]
+}

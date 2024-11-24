@@ -1,0 +1,176 @@
+{
+ "id": "60136c3f-cfce-42e4-b4b5-932077ca88b7",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Muscle Returns"
+  },
+  "altTitles": [
+   {
+    "ja": "マッスル・リターンズ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "184786"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "4",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1997,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-22T14:37:09+00:00",
+  "updatedAt": "2024-11-22T15:06:48+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4e62170a-0726-431d-aa35-3310cb081c25",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Yudetamago (lit. \"boiled egg\" in Japanese) is the pen name of a mangaka duo consisting of author **Takashi Shimada** and artist **Yoshinori Nakai**. After becoming close friends in elementary school, the two started to get into the world of manga, starting with their most popular work Kinnikuman."
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yudetamago",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/yude_shimada",
+    "updatedAt": "2024-03-17T20:58:20+00:00",
+    "version": 2,
+    "website": "https://yudetamago.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4e62170a-0726-431d-aa35-3310cb081c25",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Yudetamago (lit. \"boiled egg\" in Japanese) is the pen name of a mangaka duo consisting of author **Takashi Shimada** and artist **Yoshinori Nakai**. After becoming close friends in elementary school, the two started to get into the world of manga, starting with their most popular work Kinnikuman."
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yudetamago",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/yude_shimada",
+    "updatedAt": "2024-03-17T20:58:20+00:00",
+    "version": 2,
+    "website": "https://yudetamago.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "adca8b83-506e-43b7-a767-1eb50d070d6b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-22T14:37:10+00:00",
+    "description": "",
+    "fileName": "8ca3664f-a808-45c7-aae1-1096a7deec2f.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-22T14:37:10+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "476474de-b227-4c32-91d3-02c330bdb15e",
+   "type": "manga",
+   "related": "alternate_version"
+  },
+  {
+   "id": "7b9d73ff-a19e-4817-9eb7-657471f4d8d5",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

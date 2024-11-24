@@ -11,7 +11,7 @@
     "en": "Majimekei Kuzu no Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.30522463
+   "score": 0.30523187
   },
   {
    "id": "54366a3a-9b75-446a-8eb2-4b4feb6e11be",
@@ -19,7 +19,7 @@
     "en": "Hageruya!"
    },
    "contentRating": "safe",
-   "score": 0.3023019,
+   "score": 0.30230865,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Jirai Nandesuka? Chihara-san"
    },
    "contentRating": "safe",
-   "score": 0.2973555,
+   "score": 0.29735643,
    "languages": [
     "pt-br",
     "en",
@@ -47,7 +47,7 @@
     "en": "Hadaka no Taiyou"
    },
    "contentRating": "safe",
-   "score": 0.29587942,
+   "score": 0.29587847,
    "languages": [
     "en"
    ]
@@ -58,7 +58,7 @@
     "en": "AniKoi"
    },
    "contentRating": "safe",
-   "score": 0.2957913,
+   "score": 0.29579264,
    "languages": [
     "en"
    ]
@@ -69,7 +69,18 @@
     "en": "Ultimate Special High School"
    },
    "contentRating": "safe",
-   "score": 0.29526117,
+   "score": 0.29526165,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a",
+   "title": {
+    "en": "Sweety"
+   },
+   "contentRating": "safe",
+   "score": 0.29458693,
    "languages": [
     "en"
    ]
@@ -80,18 +91,7 @@
     "en": "Koe ga Kikitai Kodaira-kun"
    },
    "contentRating": "safe",
-   "score": 0.29339266
-  },
-  {
-   "id": "5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a",
-   "title": {
-    "en": "Sweety"
-   },
-   "contentRating": "safe",
-   "score": 0.29296148,
-   "languages": [
-    "en"
-   ]
+   "score": 0.29339305
   },
   {
    "id": "50ce9bd6-f6df-498a-bc22-570d5ae5f2ea",
@@ -99,33 +99,15 @@
     "en": "5Toubun no Hanayome: Character Books"
    },
    "contentRating": "safe",
-   "score": 0.28774408
+   "score": 0.28774396
   },
   {
-   "id": "12f6ffe4-d3d0-4a1d-94af-10f1883db093",
+   "id": "1162eb89-edd1-4704-9de4-664ff44dcf01",
    "title": {
-    "en": "Kimi no Risou no Maid ni Naru!"
+    "en": "Kimi no Me o Mite Hanasenai"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "vi",
-    "es-la",
-    "en",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9e7c3c25-ddb8-4b88-9090-38787cfd87af",
-   "title": {
-    "en": "Hana to Harinezumi"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2857143
   },
   {
    "id": "808dc5fa-0c7f-466e-b9e4-eea271f60a13",
@@ -139,26 +121,6 @@
     "es-la",
     "ko"
    ]
-  },
-  {
-   "id": "b5ceba59-69c4-4cd7-b866-e26c6f6c512a",
-   "title": {
-    "en": "Aishiteru Game wo Owarasetai - Twitter Extras"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "1162eb89-edd1-4704-9de4-664ff44dcf01",
-   "title": {
-    "en": "Kimi no Me o Mite Hanasenai"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
   },
   {
    "id": "955c730a-9304-4f82-ae96-af48ff5eaa0c",
@@ -176,12 +138,50 @@
    ]
   },
   {
+   "id": "12f6ffe4-d3d0-4a1d-94af-10f1883db093",
+   "title": {
+    "en": "Kimi no Risou no Maid ni Naru!"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "vi",
+    "es-la",
+    "en",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "b5ceba59-69c4-4cd7-b866-e26c6f6c512a",
+   "title": {
+    "en": "Aishiteru Game wo Owarasetai - Twitter Extras"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "9e7c3c25-ddb8-4b88-9090-38787cfd87af",
+   "title": {
+    "en": "Hana to Harinezumi"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "7bee0d50-f466-4fa1-8338-7c804be45187",
    "title": {
     "en": "‘Masamune-kun no Revenge’ Tokubetsu-hen - Rental Kareshi Masamune-kun"
    },
    "contentRating": "safe",
-   "score": 0.2843267,
+   "score": 0.28432012,
    "languages": [
     "it",
     "th",
@@ -190,5 +190,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-21T20:47:46+00:00"
+ "updatedAt": "2024-11-23T21:00:41+00:00"
 }

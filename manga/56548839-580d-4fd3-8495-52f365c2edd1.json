@@ -10,7 +10,7 @@
     "en": "Love Experiment"
    },
    {
-    "en": "愛の実験"
+    "ja": "愛の実験"
    }
   ],
   "description": {
@@ -18,12 +18,13 @@
   },
   "links": {
    "al": "104606",
-   "amz": "https://www.amazon.co.jp/%E6%84%9B%E3%81%AE%E5%AE%9F%E9%A8%93-%E3%83%93%E3%83%BC%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%87%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9-kanipan/dp/4799725505",
-   "ap": "ai-no-jikken ",
+   "amz": "https://www.amazon.co.jp/dp/4799725505",
+   "ap": "ai-no-jikken",
    "cdj": "http://www.cdjapan.co.jp/product/NEOBK-1797937",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/328799/",
    "mal": "116170",
-   "mu": "121620"
+   "mu": "121620",
+   "raw": "https://www.cmoa.jp/title/102223/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -74,9 +75,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-08-17T00:14:06+00:00",
-  "updatedAt": "2021-05-25T15:42:33+00:00"
+  "updatedAt": "2024-11-22T13:18:39+00:00"
  },
  "relationships": [
   {
@@ -90,16 +91,16 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kanipan",
+    "name": "kanipan",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/kani_and_pan",
+    "updatedAt": "2024-11-22T12:51:05+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -116,32 +117,32 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kanipan",
+    "name": "kanipan",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/kani_and_pan",
+    "updatedAt": "2024-11-22T12:51:05+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "9e937a0d-7daf-4f58-9a33-bb68eb6dc769",
+   "id": "867c98b1-b3db-4f0e-a660-688a58b220d4",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:23:05+00:00",
+    "createdAt": "2021-05-23T06:51:11+00:00",
     "description": "",
-    "fileName": "e90ce3ec-69ac-4905-9d70-e9e5429f6cad.jpg",
+    "fileName": "974f89e2-560c-49fb-8395-6d6a446518fe.png",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:23:05+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:51:11+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

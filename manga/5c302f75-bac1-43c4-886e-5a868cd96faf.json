@@ -1,0 +1,120 @@
+{
+ "id": "5c302f75-bac1-43c4-886e-5a868cd96faf",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Lyre Kyouju no Gogo"
+  },
+  "altTitles": [
+   {
+    "ja": "ライヤー教授の午後"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "184778",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/100654/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "8",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1980,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-22T14:54:36+00:00",
+  "updatedAt": "2024-11-22T15:06:50+00:00"
+ },
+ "relationships": [
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2f2db088-278b-40fd-806c-5f8da09118c9",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-22T14:54:37+00:00",
+    "description": "",
+    "fileName": "da55ed0c-77c2-417d-b27b-194030f7da1b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-22T14:54:37+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0e52b5fc-3e76-43cb-94fd-cd4232da8cf3",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

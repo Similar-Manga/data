@@ -1,0 +1,131 @@
+{
+ "id": "cabb5a7a-6c7e-478a-8474-6716e1ee02ce",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Watashi no Kotori-sensei"
+  },
+  "altTitles": [
+   {
+    "ja": "わたしの小鳥先生"
+   }
+  ],
+  "description": {
+   "ja": "背が低いのを気にしてる小鳥くんと6歳年下で天真爛漫なほたるは、幼なじみでイトコな間柄。そんな2人が4月から、同じ高校の先生と生徒になりました――。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0753GR2XY",
+   "bw": "series/46021",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/314272",
+   "mu": "0yak9lc"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "19",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2014,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-23T01:02:16+00:00",
+  "updatedAt": "2024-11-23T01:02:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c2b33c4b-58d9-4252-a7db-a2b32c886ea0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizuki Toko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c2b33c4b-58d9-4252-a7db-a2b32c886ea0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizuki Toko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ae44e652-9a26-46f1-af68-e9f66d943b4a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-23T01:02:28+00:00",
+    "description": "Volume 3 Cover from BookLive",
+    "fileName": "ba6696c4-2ea3-4c2c-ba6b-4f55cfb802c6.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-23T01:02:28+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

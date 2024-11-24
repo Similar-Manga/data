@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "6712e0d9-5d5e-468b-afec-745650acc86a",
+   "id": "2917010b-61f5-4dd0-b861-a10362d8ab9b",
    "title": {
-    "en": "Chouchou Nannan"
+    "en": "My Blue Garnet"
    },
    "contentRating": "safe",
-   "score": 0.25791046,
+   "score": 0.26506191,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "1de44b9c-29b2-4c21-b4f7-baaa36cebef9",
+   "title": {
+    "en": "Dear My Teacher"
+   },
+   "contentRating": "safe",
+   "score": 0.25126094,
    "languages": [
     "en"
    ]
@@ -22,7 +34,7 @@
     "en": "Kono Koi wo Hoshi ni wa Negawanai"
    },
    "contentRating": "safe",
-   "score": 0.25113004,
+   "score": 0.25113493,
    "languages": [
     "fr",
     "en",
@@ -31,23 +43,12 @@
    ]
   },
   {
-   "id": "1de44b9c-29b2-4c21-b4f7-baaa36cebef9",
-   "title": {
-    "en": "Dear My Teacher"
-   },
-   "contentRating": "safe",
-   "score": 0.25053123,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "75b49f78-bb1e-481a-93ec-7f8a8331e8f2",
    "title": {
     "en": "Yume no Naka de Kimi wo Sagashite"
    },
    "contentRating": "safe",
-   "score": 0.24948414,
+   "score": 0.2494871,
    "languages": [
     "en"
    ]
@@ -58,7 +59,7 @@
     "en": "The Moon on a Rainy Night"
    },
    "contentRating": "safe",
-   "score": 0.24823049,
+   "score": 0.24823043,
    "languages": [
     "vi",
     "en",
@@ -67,23 +68,12 @@
    ]
   },
   {
-   "id": "f044f1f2-b96b-4c33-afd9-bed667a02141",
-   "title": {
-    "en": "Lens no Mukou"
-   },
-   "contentRating": "safe",
-   "score": 0.24000147,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5a3d1fa1-14f0-40c5-82e8-f4eac67ae4aa",
    "title": {
     "en": "Sayuri Hime"
    },
    "contentRating": "safe",
-   "score": 0.23999903,
+   "score": 0.24000041,
    "languages": [
     "it",
     "tr",
@@ -93,12 +83,23 @@
    ]
   },
   {
+   "id": "f044f1f2-b96b-4c33-afd9-bed667a02141",
+   "title": {
+    "en": "Lens no Mukou"
+   },
+   "contentRating": "safe",
+   "score": 0.239996,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3db2505a-8f33-4c38-8e11-6b235f661f5c",
    "title": {
     "en": "Pai o Agemasho, Anata ni Pai o ne"
    },
    "contentRating": "safe",
-   "score": 0.23880108,
+   "score": 0.23880306,
    "languages": [
     "en"
    ]
@@ -109,15 +110,38 @@
     "en": "Heartsick"
    },
    "contentRating": "safe",
-   "score": 0.23469953,
+   "score": 0.23469065,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ad4b18dc-6388-4987-ad63-abfdde811fdc",
+   "id": "e1e76d49-0dc4-4236-bd3e-af4c22ced804",
    "title": {
-    "en": "Sour Grapes"
+    "en": "Kimi ga mata Watashi ni Koi shite kureru made"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "ko"
+   ]
+  },
+  {
+   "id": "914668a2-e42d-46ad-96f3-870d681e6fe8",
+   "title": {
+    "en": "Secret Summer Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "id",
+    "ko"
+   ]
+  },
+  {
+   "id": "bb8079ac-627f-4c0d-bbca-3cb32f49114a",
+   "title": {
+    "en": "Recipe for Arcadia"
    },
    "contentRating": "safe",
    "score": 0.23148328,
@@ -126,72 +150,52 @@
    ]
   },
   {
-   "id": "3748236f-0f7a-427d-8dd5-07076fcae27a",
+   "id": "c4c7e711-08e9-4c6b-a7f1-be7c77521082",
    "title": {
-    "en": "Angel Drop"
+    "en": "12 days"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d14d2596-50b5-4f33-bd98-517d1e70a7ba",
+   "title": {
+    "en": "Anata no Kokoro no Mie nai Tokoro"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "ko"
+   ]
+  },
+  {
+   "id": "633bfe48-a65d-431d-a50a-2bec729500bc",
+   "title": {
+    "en": "It's Your/The Yolk's Fault"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "3329e169-ce23-447d-9e24-194b5afdd1ef",
+   "title": {
+    "en": "Chocolate-Covered Almonds"
    },
    "contentRating": "safe",
    "score": 0.23148328,
    "languages": [
     "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "e8c257b6-92ec-4e17-872f-26f4214f9360",
-   "title": {
-    "en": "Dear My Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0877c381-9233-4610-8864-957225d08094",
-   "title": {
-    "en": "Drifting Body"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d2f5615f-76af-4835-a2b7-4df87d3f7876",
-   "title": {
-    "en": "First Love Mint Blue"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3f7fb508-be22-453a-ba33-2631345b529f",
-   "title": {
-    "en": "Alter Ego"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "88baef8d-c420-4a25-9557-ade2a0abb3fa",
-   "title": {
-    "en": "Ovum"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328,
-   "languages": [
+    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-21T21:11:53+00:00"
+ "updatedAt": "2024-11-23T21:25:23+00:00"
 }

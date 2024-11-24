@@ -1,0 +1,157 @@
+{
+ "id": "dbe437c1-505c-4e83-9e70-210bc25822cb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ouji no Torimaki A wa Akuyaku Reijou no Mikata desu"
+  },
+  "altTitles": [
+   {
+    "ja": "王子の取巻きAは悪役令嬢の味方です"
+   }
+  ],
+  "description": {
+   "ja": "第一王子は可憐な男爵令嬢に首ったけ。ヨイショが得意な『王子の取巻きA』ことロランはある日気づく、王子を含めた取巻き全員が1人の令嬢に夢中になっている異常事態に。理不尽な婚約破棄を告げられそうになっている、王子の婚約者である悪役令嬢を救うため、裏でこっそり奔走する。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DK2BVYMD",
+   "ap": "ouji-no-torimaki-a-wa-akuyaku-reijou-no-mikata-desu",
+   "bw": "series/491685/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/860983",
+   "mu": "dkqe6b6",
+   "raw": "https://comic-growl.com/episode/2550689798294528329"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-21T22:41:12+00:00",
+  "updatedAt": "2024-11-21T22:41:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "70be5845-d7a0-48b9-95f2-43d57ab23744",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-07-15T18:08:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sasaki Ichiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ichiro_sasaki00",
+    "updatedAt": "2023-08-24T01:54:27+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e80c631d-a867-4711-8f21-1667a3d30818",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\n岸本さとる"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kishimoto Satoru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/satoru9014k",
+    "updatedAt": "2023-08-05T00:30:51+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9dd801c0-eef4-490b-ba98-ec8685fbe417",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-21T22:41:15+00:00",
+    "description": "",
+    "fileName": "164c09f4-8074-4fe3-8719-a8d58fd54370.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-21T22:41:15+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}
