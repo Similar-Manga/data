@@ -11,7 +11,7 @@
     "en": "The Boy in the All-Girls School"
    },
    "contentRating": "suggestive",
-   "score": 0.28530508,
+   "score": 0.28530058,
    "languages": [
     "pt-br",
     "ru",
@@ -23,39 +23,18 @@
    ]
   },
   {
-   "id": "87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
+   "id": "ddb80900-12c2-4b9e-bfb7-cb8abc082f9a",
    "title": {
-    "en": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai"
+    "en": "The Lady's Servant"
    },
    "contentRating": "suggestive",
    "score": 0.28509024,
    "languages": [
-    "fr",
-    "ru",
     "en",
     "pt-br",
-    "es-la",
-    "vi",
-    "ar"
-   ]
-  },
-  {
-   "id": "4e7a4a0f-8391-4069-839b-de2352297dab",
-   "title": {
-    "en": "Kakkou no Iinazuke"
-   },
-   "contentRating": "suggestive",
-   "score": 0.28509024,
-   "languages": [
     "fr",
     "es-la",
-    "it",
-    "es",
-    "pt-br",
-    "en",
-    "ru",
-    "tr",
-    "ar"
+    "ru"
    ]
   },
   {
@@ -78,6 +57,23 @@
    ]
   },
   {
+   "id": "87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
+   "title": {
+    "en": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai"
+   },
+   "contentRating": "suggestive",
+   "score": 0.28509024,
+   "languages": [
+    "fr",
+    "ru",
+    "en",
+    "pt-br",
+    "es-la",
+    "vi",
+    "ar"
+   ]
+  },
+  {
    "id": "cddddb40-9285-4d83-b2ff-045ee0229b9a",
    "title": {
     "en": "Seitokai no Nichijou"
@@ -89,18 +85,22 @@
    ]
   },
   {
-   "id": "ddb80900-12c2-4b9e-bfb7-cb8abc082f9a",
+   "id": "4e7a4a0f-8391-4069-839b-de2352297dab",
    "title": {
-    "en": "The Lady's Servant"
+    "en": "Kakkou no Iinazuke"
    },
    "contentRating": "suggestive",
    "score": 0.28509024,
    "languages": [
-    "en",
-    "pt-br",
     "fr",
     "es-la",
-    "ru"
+    "it",
+    "es",
+    "pt-br",
+    "en",
+    "ru",
+    "tr",
+    "ar"
    ]
   },
   {
@@ -109,7 +109,7 @@
     "en": "Kimi ni Koisuru Sanshimai"
    },
    "contentRating": "suggestive",
-   "score": 0.27924702,
+   "score": 0.27925006,
    "languages": [
     "es",
     "en"
@@ -121,7 +121,7 @@
     "en": "One Room, Hiatari Futsuu, Tenshi-tsuki"
    },
    "contentRating": "suggestive",
-   "score": 0.2775332,
+   "score": 0.27753526,
    "languages": [
     "en",
     "es-la",
@@ -131,16 +131,18 @@
    ]
   },
   {
-   "id": "8165b30e-a608-4a58-ae66-d97f27b67479",
+   "id": "eb48c615-1c00-4726-b839-850d01d774b0",
    "title": {
-    "en": "Futago Saien"
+    "en": "Omae Imouto ja Nakute Iinazuke datta no kayo!?"
    },
    "contentRating": "suggestive",
-   "score": 0.26515543,
+   "score": 0.27579743,
    "languages": [
-    "vi",
     "es-la",
-    "en"
+    "en",
+    "id",
+    "vi",
+    "ru"
    ]
   },
   {
@@ -149,12 +151,25 @@
     "en": "Kuse Tsuyo Kanojo wa Toko ni Izanau"
    },
    "contentRating": "suggestive",
-   "score": 0.2641222,
+   "score": 0.26412132,
    "languages": [
     "en",
     "vi",
     "pt-br",
     "id"
+   ]
+  },
+  {
+   "id": "8165b30e-a608-4a58-ae66-d97f27b67479",
+   "title": {
+    "en": "Futago Saien"
+   },
+   "contentRating": "suggestive",
+   "score": 0.26236984,
+   "languages": [
+    "vi",
+    "es-la",
+    "en"
    ]
   },
   {
@@ -196,34 +211,6 @@
    ]
   },
   {
-   "id": "bb2b9152-b780-42eb-92d1-e93ff4ef427f",
-   "title": {
-    "en": "Nogizaka Asuka no Himitsu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2602506,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "63fb6354-0ace-4f74-b8b8-af1be314f245",
-   "title": {
-    "en": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2602506,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi",
-    "es-la",
-    "fr",
-    "id"
-   ]
-  },
-  {
    "id": "32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4",
    "title": {
     "en": "Rent-A-Girlfriend"
@@ -247,23 +234,33 @@
    ]
   },
   {
-   "id": "0f6003ca-e7f3-43ce-bfd2-0694146994be",
+   "id": "63fb6354-0ace-4f74-b8b8-af1be314f245",
    "title": {
-    "en": "Amagami-san Chi no Enmusubi"
+    "en": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta"
    },
    "contentRating": "suggestive",
-   "score": 0.2538593,
+   "score": 0.2602506,
    "languages": [
-    "pt-br",
-    "fr",
-    "es-la",
-    "id",
-    "ar",
     "en",
-    "ru",
-    "vi"
+    "pt-br",
+    "vi",
+    "es-la",
+    "fr",
+    "id"
+   ]
+  },
+  {
+   "id": "bb2b9152-b780-42eb-92d1-e93ff4ef427f",
+   "title": {
+    "en": "Nogizaka Asuka no Himitsu"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2602506,
+   "languages": [
+    "en",
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:39:44+00:00"
+ "updatedAt": "2024-11-25T21:18:57+00:00"
 }

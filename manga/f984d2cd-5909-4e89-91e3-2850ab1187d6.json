@@ -26,18 +26,6 @@
   "contentRating": "safe",
   "tags": [
    {
-    "id": "320831a8-4026-470b-94f6-8353740e6f04",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Official Colored"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
     "attributes": {
@@ -96,12 +84,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-10-12T20:08:10+00:00",
-  "updatedAt": "2024-10-13T16:43:56+00:00"
+  "updatedAt": "2024-11-23T18:02:00+00:00"
  },
  "relationships": [
   {

@@ -11,7 +11,7 @@
     "en": "No Country for Zombie"
    },
    "contentRating": "safe",
-   "score": 0.432389,
+   "score": 0.3858175,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "The King of Zombie"
    },
    "contentRating": "safe",
-   "score": 0.41676956,
+   "score": 0.3800501,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Mr. Zombie"
    },
    "contentRating": "safe",
-   "score": 0.40336308,
+   "score": 0.37099075,
    "languages": [
     "pt-br",
     "en",
@@ -42,14 +42,29 @@
    ]
   },
   {
-   "id": "b27fd843-76e9-4066-967c-e07c9400735c",
+   "id": "ae2bdd9a-6879-46e4-a92a-695c17182685",
    "title": {
-    "en": "Sakura, the Marriage Hunting Zombie"
+    "en": "PSYCHOPATH HERO"
    },
    "contentRating": "safe",
-   "score": 0.39082375,
+   "score": 0.35239214,
    "languages": [
-    "en"
+    "en",
+    "it",
+    "pl"
+   ]
+  },
+  {
+   "id": "d9ea56d5-4be5-4fbc-89f1-5fa02084b45b",
+   "title": {
+    "en": "Eschaton Game"
+   },
+   "contentRating": "safe",
+   "score": 0.34536368,
+   "languages": [
+    "en",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -58,44 +73,7 @@
     "en": "God of Zombies"
    },
    "contentRating": "safe",
-   "score": 0.38744918
-  },
-  {
-   "id": "d9ea56d5-4be5-4fbc-89f1-5fa02084b45b",
-   "title": {
-    "en": "Eschaton Game"
-   },
-   "contentRating": "safe",
-   "score": 0.38649327,
-   "languages": [
-    "en",
-    "pt-br",
-    "fr"
-   ]
-  },
-  {
-   "id": "ae2bdd9a-6879-46e4-a92a-695c17182685",
-   "title": {
-    "en": "PSYCHOPATH HERO"
-   },
-   "contentRating": "safe",
-   "score": 0.3840678,
-   "languages": [
-    "en",
-    "it",
-    "pl"
-   ]
-  },
-  {
-   "id": "d8079f0a-f0df-4b2a-82ba-238d70187647",
-   "title": {
-    "en": "Zombie X Slasher"
-   },
-   "contentRating": "safe",
-   "score": 0.37081718,
-   "languages": [
-    "en"
-   ]
+   "score": 0.34286225
   },
   {
    "id": "e6e8ff92-2663-42ac-891c-a24fc679ea0c",
@@ -103,15 +81,7 @@
     "en": "Guardian of the Dead"
    },
    "contentRating": "safe",
-   "score": 0.36788037
-  },
-  {
-   "id": "da569984-5a8c-4eec-8caf-07b3e416141f",
-   "title": {
-    "en": "My encounter with a lil zombie"
-   },
-   "contentRating": "safe",
-   "score": 0.35408035
+   "score": 0.32992136
   },
   {
    "id": "76c671b8-e71f-4afc-ba3d-2834a9cceb6b",
@@ -119,20 +89,7 @@
     "en": "I’m A Zombie But I Want To Save The World"
    },
    "contentRating": "safe",
-   "score": 0.34461704
-  },
-  {
-   "id": "076028a7-197a-4329-bbd5-d13186bbd990",
-   "title": {
-    "en": "Boyfriend of the Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.34152806,
-   "languages": [
-    "pt-br",
-    "tr",
-    "es-la"
-   ]
+   "score": 0.317273
   },
   {
    "id": "d7a9dd46-4e6e-4477-8b93-8aebcd342de4",
@@ -140,7 +97,7 @@
     "en": "The Zombie Maria"
    },
    "contentRating": "safe",
-   "score": 0.34030238,
+   "score": 0.31369892,
    "languages": [
     "de",
     "fr",
@@ -159,10 +116,53 @@
     "en": "Savior"
    },
    "contentRating": "safe",
-   "score": 0.33823794,
+   "score": 0.31338206,
    "languages": [
     "en",
     "it"
+   ]
+  },
+  {
+   "id": "b27fd843-76e9-4066-967c-e07c9400735c",
+   "title": {
+    "en": "Sakura, the Marriage Hunting Zombie"
+   },
+   "contentRating": "safe",
+   "score": 0.3120969,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "da569984-5a8c-4eec-8caf-07b3e416141f",
+   "title": {
+    "en": "My encounter with a lil zombie"
+   },
+   "contentRating": "safe",
+   "score": 0.31125265
+  },
+  {
+   "id": "076028a7-197a-4329-bbd5-d13186bbd990",
+   "title": {
+    "en": "Boyfriend of the Dead"
+   },
+   "contentRating": "safe",
+   "score": 0.30952793,
+   "languages": [
+    "pt-br",
+    "tr",
+    "es-la"
+   ]
+  },
+  {
+   "id": "d8079f0a-f0df-4b2a-82ba-238d70187647",
+   "title": {
+    "en": "Zombie X Slasher"
+   },
+   "contentRating": "safe",
+   "score": 0.30913013,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -171,7 +171,7 @@
     "en": "Lost in Zombie City"
    },
    "contentRating": "safe",
-   "score": 0.33285198,
+   "score": 0.2961347,
    "languages": [
     "en"
    ]
@@ -182,7 +182,7 @@
     "en": "Liv"
    },
    "contentRating": "safe",
-   "score": 0.32175913,
+   "score": 0.29261744,
    "languages": [
     "pl",
     "tr",
@@ -197,5 +197,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-23T21:19:02+00:00"
+ "updatedAt": "2024-11-25T22:09:15+00:00"
 }

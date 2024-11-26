@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
-   "title": {
-    "en": "Coffee \u0026 Cat"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "193f91a0-51ef-4653-b3d7-a3f75c42ee9b",
    "title": {
     "en": "Ame to Kimi to"
@@ -35,12 +23,24 @@
    ]
   },
   {
+   "id": "67ea72cd-fef8-4c5e-b973-72e0ba773901",
+   "title": {
+    "en": "Coffee \u0026 Cat"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "0177edea-de7e-4f3b-b808-3a7ca1dcc78c",
    "title": {
     "en": "The crow I saved that one time, is just too clumsy for me (Oneshot)"
    },
    "contentRating": "safe",
-   "score": 0.24399409,
+   "score": 0.24393527,
    "languages": [
     "ru",
     "en",
@@ -54,7 +54,7 @@
     "en": "Heaven's Design Team"
    },
    "contentRating": "safe",
-   "score": 0.24146555,
+   "score": 0.24146764,
    "languages": [
     "pt-br",
     "ru",
@@ -67,7 +67,7 @@
     "en": "The crow I saved that one time, is just too clumsy for me"
    },
    "contentRating": "safe",
-   "score": 0.24096283,
+   "score": 0.24091093,
    "languages": [
     "pt-br",
     "en",
@@ -76,26 +76,26 @@
    ]
   },
   {
-   "id": "bb2617b0-ca5c-4c5b-bc83-43d784af9f60",
-   "title": {
-    "en": "Kodomo Dorobou"
-   },
-   "contentRating": "safe",
-   "score": 0.24050091,
-   "languages": [
-    "en",
-    "zh"
-   ]
-  },
-  {
    "id": "d3b6200b-8dc2-4704-a149-63bb231e19a8",
    "title": {
     "en": "Bird of Youth"
    },
    "contentRating": "safe",
-   "score": 0.24048768,
+   "score": 0.24050966,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "bb2617b0-ca5c-4c5b-bc83-43d784af9f60",
+   "title": {
+    "en": "Kodomo Dorobou"
+   },
+   "contentRating": "safe",
+   "score": 0.24050455,
+   "languages": [
+    "en",
+    "zh"
    ]
   },
   {
@@ -104,7 +104,7 @@
     "en": "Yoshifumi to Karaage"
    },
    "contentRating": "safe",
-   "score": 0.2387688,
+   "score": 0.23876195,
    "languages": [
     "vi"
    ]
@@ -115,7 +115,7 @@
     "en": "Good Dog, Cerberus!"
    },
    "contentRating": "safe",
-   "score": 0.23790443,
+   "score": 0.23790243,
    "languages": [
     "en"
    ]
@@ -126,7 +126,7 @@
     "en": "Nobo-san to Kanojo?"
    },
    "contentRating": "safe",
-   "score": 0.23533694,
+   "score": 0.23533586,
    "languages": [
     "en"
    ]
@@ -137,7 +137,7 @@
     "en": "Southern Bird and Northern Bird"
    },
    "contentRating": "safe",
-   "score": 0.23453157,
+   "score": 0.23454182,
    "languages": [
     "ca",
     "en",
@@ -152,7 +152,7 @@
     "en": "Youkai Apartment no Yuuga na Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.23247628,
+   "score": 0.2324757,
    "languages": [
     "en",
     "pl",
@@ -169,6 +169,19 @@
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "879c5278-5041-4290-9bf0-f7fa5ed3d8d5",
+   "title": {
+    "en": "Majo no Complex"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en",
+    "es",
+    "tr"
    ]
   },
   {
@@ -189,19 +202,6 @@
    ]
   },
   {
-   "id": "879c5278-5041-4290-9bf0-f7fa5ed3d8d5",
-   "title": {
-    "en": "Majo no Complex"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en",
-    "es",
-    "tr"
-   ]
-  },
-  {
    "id": "3ab830a0-0f99-4340-b80a-c6f2c3b0c7d7",
    "title": {
     "en": "The Gothic World of Nyanpire"
@@ -213,5 +213,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:40:57+00:00"
+ "updatedAt": "2024-11-25T21:20:39+00:00"
 }

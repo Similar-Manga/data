@@ -6,20 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "f6e4853a-5302-49eb-b18a-dc1aa419e45e",
-   "title": {
-    "en": "Cool Girl and a Straightforward Guy"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "pt-br",
-    "th",
-    "tr",
-    "en"
-   ]
-  },
-  {
    "id": "0550851a-961b-4b34-9684-4b2901e62079",
    "title": {
     "en": "Moto Azadarake no Kanojo ga Shinpai de"
@@ -38,12 +24,26 @@
    ]
   },
   {
+   "id": "f6e4853a-5302-49eb-b18a-dc1aa419e45e",
+   "title": {
+    "en": "Cool Girl and a Straightforward Guy"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "pt-br",
+    "th",
+    "tr",
+    "en"
+   ]
+  },
+  {
    "id": "fd057701-8338-4118-8a0a-748ca9f8e7fc",
    "title": {
     "en": "I Thought She Was a Yandere, but Apparently She's Even Worse (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.2599413,
+   "score": 0.2599242,
    "languages": [
     "tr",
     "en"
@@ -55,7 +55,7 @@
     "en": "Tsuki ga Kirei desu ne"
    },
    "contentRating": "safe",
-   "score": 0.2597174,
+   "score": 0.25971535,
    "languages": [
     "id",
     "pt-br",
@@ -67,16 +67,19 @@
    ]
   },
   {
-   "id": "43e16040-b56b-4c30-990d-319e2a896216",
+   "id": "0c1d035d-17d0-4bc3-9b05-a1ce313bb53f",
    "title": {
-    "en": "I Lied to My Idol to Get Closer to Him"
+    "en": "Yomoyama Kobanashi"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "en",
+    "pt-br",
+    "id",
     "tr",
-    "id"
+    "es-la",
+    "en",
+    "ru"
    ]
   },
   {
@@ -98,15 +101,18 @@
    ]
   },
   {
-   "id": "3d73af7d-20f4-4a63-99f7-c32ffb3c2666",
+   "id": "03dad966-a8cf-4fdf-951d-100dc8072f7b",
    "title": {
-    "en": "Moto Azadarake no Kanojo ga Shinpai de (Fan Colored)"
+    "en": "Encounter With a Classmate"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
+    "fr",
+    "tr",
     "en",
-    "tr"
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -122,19 +128,16 @@
    ]
   },
   {
-   "id": "0c1d035d-17d0-4bc3-9b05-a1ce313bb53f",
+   "id": "43e16040-b56b-4c30-990d-319e2a896216",
    "title": {
-    "en": "Yomoyama Kobanashi"
+    "en": "I Lied to My Idol to Get Closer to Him"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "pt-br",
-    "id",
-    "tr",
-    "es-la",
     "en",
-    "ru"
+    "tr",
+    "id"
    ]
   },
   {
@@ -156,18 +159,15 @@
    ]
   },
   {
-   "id": "03dad966-a8cf-4fdf-951d-100dc8072f7b",
+   "id": "3d73af7d-20f4-4a63-99f7-c32ffb3c2666",
    "title": {
-    "en": "Encounter With a Classmate"
+    "en": "Moto Azadarake no Kanojo ga Shinpai de (Fan Colored)"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "fr",
-    "tr",
     "en",
-    "pt-br",
-    "id"
+    "tr"
    ]
   },
   {
@@ -176,7 +176,7 @@
     "en": "HiGH \u0026 LOW。"
    },
    "contentRating": "safe",
-   "score": 0.23676905,
+   "score": 0.23677106,
    "languages": [
     "vi",
     "en",
@@ -189,59 +189,64 @@
    ]
   },
   {
-   "id": "8a1165ee-e104-4f1c-965e-4ccffd4d7fcb",
+   "id": "0e621fff-5e65-4fa0-a3a0-c55c0df49dc2",
    "title": {
-    "en": "Showa Era Gag Manga"
+    "en": "Kou iu Daigaku Seikatsu, Okuritakatta Desu ne"
    },
    "contentRating": "safe",
    "score": 0.2208575,
    "languages": [
-    "pl",
-    "en",
     "tr",
-    "pt-br",
-    "es-la",
     "id",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "f8abfba6-a94f-4089-a79b-d86db7ae0090",
+   "title": {
+    "en": "A Fun and Friendly Workplace"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "tr",
+    "fr",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "a76e3771-da4e-4500-9ba0-8f31497af6b7",
+   "title": {
+    "en": "The Valentine's Day of Two People Who Fight All the Time"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "tr",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "13bbb17c-c78b-40a8-8649-b1716859b99c",
+   "title": {
+    "en": "Was I Hypnotized by a Classmate?"
+   },
+   "contentRating": "safe",
+   "score": 0.2208575,
+   "languages": [
+    "uk",
+    "vi",
+    "pt-br",
+    "ru",
+    "es-la",
+    "tr",
+    "en",
     "fr"
-   ]
-  },
-  {
-   "id": "d77ea83f-e305-4861-848d-fe249aa5dc47",
-   "title": {
-    "en": "Fudan Poker Face no Kouhai to Babanuki Shita"
-   },
-   "contentRating": "safe",
-   "score": 0.2208575,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "55f65ef6-8902-447f-8d2e-d10a9b26a679",
-   "title": {
-    "en": "Migihara's Short Manga"
-   },
-   "contentRating": "safe",
-   "score": 0.2208575,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "f32f4b4d-e6c0-4ed2-9f81-56d9c6bd823b",
-   "title": {
-    "en": "Tonari no Class no Midorikawa-san"
-   },
-   "contentRating": "safe",
-   "score": 0.2208575,
-   "languages": [
-    "en",
-    "zh",
-    "tr"
    ]
   }
  ],
- "updatedAt": "2024-11-23T21:05:41+00:00"
+ "updatedAt": "2024-11-25T21:53:14+00:00"
 }

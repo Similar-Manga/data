@@ -1,0 +1,175 @@
+{
+ "id": "f596b6a5-fca9-4d02-b3e9-87bb1d33060c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Grim Reapers' Corps"
+  },
+  "altTitles": [
+   {
+    "ko": "저승차사 노동조합"
+   }
+  ],
+  "description": {
+   "en": "Mu-hyun, the captain of the 'Yaksha Corps' —an evil spirit disposal unit within the underworld— has worked tirelessly for the afterlife. However, he lost his precious colleagues in an instant. In order to bring them back, he must establish a union in the underworld.",
+   "pt-br": "Mu-hyun, o capitão do “Yaksha Corps”, uma unidade de eliminação de espíritos malignos do submundo, trabalhou incansavelmente pela vida após a morte. No entanto, ele perdeu seus preciosos colegas em um instante. Para trazê-los de volta, ele precisa estabelecer uma união no submundo."
+  },
+  "links": {
+   "mu": "pzthmwf",
+   "raw": "https://comic.naver.com/bestChallenge/list?titleId=830521"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-25T02:52:01+00:00",
+  "updatedAt": "2024-11-25T18:29:30+00:00"
+ },
+ "relationships": [
+  {
+   "id": "11975bfa-3ba9-45e5-ac30-bc9cbbac4ea2",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-25T02:43:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ding",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-25T02:43:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "11975bfa-3ba9-45e5-ac30-bc9cbbac4ea2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-25T02:43:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ding",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-25T02:43:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5151bf27-d8e9-4c1e-b584-5cd8410fb70b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-25T02:52:03+00:00",
+    "description": "",
+    "fileName": "a0702d84-f1e3-4241-ab5e-aaa891ef3d22.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-25T02:52:03+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "453570cd-4a9c-4856-85f2-6aabe523c4de",
+   "type": "creator"
+  }
+ ]
+}

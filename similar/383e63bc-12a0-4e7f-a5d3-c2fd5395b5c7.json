@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "20f9b0c2-f5fe-4691-b627-52737ad91d67",
-   "title": {
-    "en": "Nouzen Kazura no Ie"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "8b170d91-2f58-4a69-b0fb-fad324706912",
    "title": {
     "en": "My Two Mommies"
@@ -31,6 +20,17 @@
    "id": "ee918b61-71cd-414e-88cb-878dae0896c5",
    "title": {
     "en": "Jiji Wanko Rouken to no toaru Hibi"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "20f9b0c2-f5fe-4691-b627-52737ad91d67",
+   "title": {
+    "en": "Nouzen Kazura no Ie"
    },
    "contentRating": "safe",
    "score": 0.2851258,
@@ -55,7 +55,7 @@
     "en": "Sensei, Ote o Douzo?"
    },
    "contentRating": "safe",
-   "score": 0.27464664,
+   "score": 0.2751886,
    "languages": [
     "en"
    ]
@@ -66,7 +66,7 @@
     "en": "Neko to Gohan"
    },
    "contentRating": "safe",
-   "score": 0.26912314,
+   "score": 0.2692575,
    "languages": [
     "en"
    ]
@@ -77,7 +77,7 @@
     "en": "Mangaka no Neko de Aru"
    },
    "contentRating": "safe",
-   "score": 0.26583678,
+   "score": 0.26594815,
    "languages": [
     "es-la",
     "en"
@@ -89,18 +89,7 @@
     "en": "Hoiku no Ou-sama"
    },
    "contentRating": "safe",
-   "score": 0.2648035,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dab182f2-a574-4bf4-84e0-c77f7d73d634",
-   "title": {
-    "en": "Neko ni wa Neko no Neko Gohan."
-   },
-   "contentRating": "safe",
-   "score": 0.26011705,
+   "score": 0.26538065,
    "languages": [
     "en"
    ]
@@ -111,7 +100,7 @@
     "en": "Uchi no Hide"
    },
    "contentRating": "safe",
-   "score": 0.2514892,
+   "score": 0.25157762,
    "languages": [
     "pl",
     "en",
@@ -119,9 +108,9 @@
    ]
   },
   {
-   "id": "ece29265-e9e0-4abd-9d62-322a4d989f36",
+   "id": "56209c25-61da-460d-b6cf-5aa32ab5ebb4",
    "title": {
-    "en": "Tomtom and Popo"
+    "en": "Mountain Cat"
    },
    "contentRating": "safe",
    "score": 0.24692619,
@@ -130,41 +119,21 @@
    ]
   },
   {
-   "id": "f93fcb11-b8ef-4871-90d4-2edf82de64d3",
+   "id": "08038488-a64f-44a4-8b88-7dae11dcf2d5",
    "title": {
-    "en": "Inaka ni Hikkoshitara Nazo no Ikimono ni Idakareta"
+    "en": "My Little Noir"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "208231a5-4904-4f32-8617-ad7977499a51",
-   "title": {
-    "en": "Year of the Dragon"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "uk",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f4b4b367-12c8-474d-aa49-6e61d3a62e84",
-   "title": {
-    "en": "Lily of the Valley Under the Moonlight"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
+    "id",
+    "ru",
+    "pt-br",
+    "it",
     "vi",
     "en",
-    "pt-br"
+    "tr",
+    "fr"
    ]
   },
   {
@@ -182,9 +151,47 @@
    ]
   },
   {
-   "id": "56209c25-61da-460d-b6cf-5aa32ab5ebb4",
+   "id": "208231a5-4904-4f32-8617-ad7977499a51",
    "title": {
-    "en": "Mountain Cat"
+    "en": "Year of the Dragon"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en",
+    "uk",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "f93fcb11-b8ef-4871-90d4-2edf82de64d3",
+   "title": {
+    "en": "Inaka ni Hikkoshitara Nazo no Ikimono ni Idakareta"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "f4b4b367-12c8-474d-aa49-6e61d3a62e84",
+   "title": {
+    "en": "Lily of the Valley Under the Moonlight"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "vi",
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ece29265-e9e0-4abd-9d62-322a4d989f36",
+   "title": {
+    "en": "Tomtom and Popo"
    },
    "contentRating": "safe",
    "score": 0.24692619,
@@ -193,5 +200,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:19:52+00:00"
+ "updatedAt": "2024-11-25T20:51:28+00:00"
 }

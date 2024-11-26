@@ -1,0 +1,133 @@
+{
+ "id": "54f22fc1-4731-4f92-adc3-0311a8acb23f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Takeki Ougon no Kuni - Ninomiya Kinjirou"
+  },
+  "altTitles": [
+   {
+    "ja": "猛き黄金の国 二宮金次郎"
+   }
+  ],
+  "description": {
+   "ja": "日本全国を測量していた伊能忠敬が偶然出会ったのは、薪を背負いながら本を読む、二宮金次郎と名乗る少年だった。父を亡くし貧しい暮らしをしていた金次郎家族だが、母さえも失い兄弟は親戚の家にバラバラに預けられてしまう。必ず迎えに行くと誓った金次郎は…。"
+  },
+  "links": {
+   "al": "146939",
+   "amz": "https://www.amazon.co.jp/dp/B0BJK2B96L",
+   "bw": "series/358758",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/700732",
+   "mal": "138946",
+   "mu": "oi8hjte"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "14",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-24T19:18:13+00:00",
+  "updatedAt": "2024-11-24T19:18:31+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b19a0d82-afab-4697-bc4c-95f87f6b7461",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motomiya Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b19a0d82-afab-4697-bc4c-95f87f6b7461",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motomiya Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a24c0b86-feda-41ed-8623-62f20f7ac19a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-24T19:18:20+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "4dfe505c-e285-404f-96ae-8524205898a5.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-24T19:18:20+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

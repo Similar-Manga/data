@@ -6,6 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+   "title": {
+    "en": "Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo"
+   },
+   "contentRating": "safe",
+   "score": 0.21165381,
+   "languages": [
+    "en",
+    "es-la",
+    "fr",
+    "zh-hk",
+    "pt-br",
+    "id",
+    "uk"
+   ]
+  },
+  {
    "id": "b6622d86-74c6-47eb-8c92-89bcce50a63b",
    "title": {
     "en": "Out"
@@ -36,21 +53,6 @@
    ]
   },
   {
-   "id": "bb1f528f-de51-4b58-9878-c7ab55dd73c0",
-   "title": {
-    "en": "Sensha Isu - Tank Chair"
-   },
-   "contentRating": "safe",
-   "score": 0.15901572,
-   "languages": [
-    "vi",
-    "en",
-    "pt-br",
-    "id",
-    "es-la"
-   ]
-  },
-  {
    "id": "a1dc8c93-f83d-4410-a3e3-4051a007d83f",
    "title": {
     "en": "Lili-Men"
@@ -69,20 +71,18 @@
    ]
   },
   {
-   "id": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+   "id": "bb1f528f-de51-4b58-9878-c7ab55dd73c0",
    "title": {
-    "en": "Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo"
+    "en": "Sensha Isu - Tank Chair"
    },
    "contentRating": "safe",
-   "score": 0.15874037,
+   "score": 0.15901572,
    "languages": [
+    "vi",
     "en",
-    "es-la",
-    "fr",
-    "zh-hk",
     "pt-br",
     "id",
-    "uk"
+    "es-la"
    ]
   },
   {
@@ -155,7 +155,7 @@
     "en": "Majo Taisen - 32-nin no Isai no Majo wa Koroshiau"
    },
    "contentRating": "safe",
-   "score": 0.13200969,
+   "score": 0.13199861,
    "languages": [
     "vi",
     "en",
@@ -240,20 +240,6 @@
    ]
   },
   {
-   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
-   "title": {
-    "en": "Arte"
-   },
-   "contentRating": "safe",
-   "score": 0.12151029,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi",
-    "es-la"
-   ]
-  },
-  {
    "id": "b757d730-1d01-4ab9-8909-c6a9b1f79a0c",
    "title": {
     "en": "Baikoku Kikan"
@@ -267,6 +253,20 @@
     "ru",
     "id",
     "uk",
+    "es-la"
+   ]
+  },
+  {
+   "id": "c66d2a14-e0a2-4488-9023-abdab7249d61",
+   "title": {
+    "en": "Arte"
+   },
+   "contentRating": "safe",
+   "score": 0.12151029,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi",
     "es-la"
    ]
   },
@@ -286,5 +286,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:18:47+00:00"
+ "updatedAt": "2024-11-25T20:50:06+00:00"
 }

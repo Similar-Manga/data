@@ -3,30 +3,30 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "BACK TO THE Kaasan"
+   "en": "Back to the Kaa-san"
   },
   "altTitles": [
-   {
-    "ja-ro": "Back to the Kaa-san"
-   },
    {
     "ja-ro": "BACK TO THE 母さん"
    },
    {
-    "ru": "Обратно к маме"
+    "zh-hk": "BACK TO THE 母親"
    },
    {
-    "zh-hk": "BACK TO THE 母親"
+    "ru": "Обратно к маме"
    }
   ],
   "description": {
-   "en": "Minayoshi Yuu is trying to help his mother Minayoshi Touko, who was once a national idol, recover from a strange \"ailment.\" For her, he will do anything, even if it means finding a way to go back in time to erase the pain from her mother's past and bring her back to normal in the present.  \n  \n[Twitter](https://twitter.com/hurumoto1125)"
+   "en": "Minayoshi Yuu is trying to help his mother Minayoshi Touko, who was once a national idol, recover from a strange \"ailment.\" For her, he will do anything, even if it means finding a way to go back in time to erase the pain from her mother's past and bring her back to normal in the present.  \n  \n[Twitter](https://twitter.com/hurumoto1125)",
+   "ja": "マザコンタイムトラベラー、母愛一直線！\n\n僕の母さんはかつて国民的アイドルだった皆好尊子。この世界で最高の女性だ。でもある日、母さんが簀巻きの“何か”の姿に変貌してしまった！母さんを元の姿に戻すため、僕は時を駆ける！！あらゆる世代の母さんと、僕は出会う！！！なぜなら母さんを愛しているから！"
   },
   "links": {
    "al": "100763",
-   "amz": "https://www.amazon.co.jp/dp/B07BHZ85HW/",
+   "amz": "https://www.amazon.co.jp/dp/B07BHZ85HW",
    "ap": "back-to-the-kaasan",
-   "cdj": "http://www.cdjapan.co.jp/product/NEOBK-2147912",
+   "bw": "series/140032",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2147912",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/433702",
    "kt": "40503",
    "mal": "109456",
    "mu": "144473"
@@ -118,9 +118,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2019-03-08T09:14:19+00:00",
-  "updatedAt": "2023-11-19T14:13:40+00:00"
+  "updatedAt": "2024-11-24T19:30:21+00:00"
  },
  "relationships": [
   {
@@ -180,16 +180,16 @@
    }
   },
   {
-   "id": "34275675-8732-4fa1-8473-8e2999ad1566",
+   "id": "60a67bca-ad37-4f2b-9674-9f73da3b4bd2",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:03:49+00:00",
+    "createdAt": "2021-05-23T06:28:05+00:00",
     "description": "",
-    "fileName": "3478fc18-ab43-4d1b-bb91-873d6a84fade.jpg",
+    "fileName": "06342857-6503-4a55-9a96-fa560326f48d.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:03:49+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:28:05+00:00",
+    "version": 2,
+    "volume": "3"
    }
   }
  ]

@@ -1,0 +1,161 @@
+{
+ "id": "a1d4d00f-f6b4-4da1-9904-411ec184b50b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Inu o Kau to 12 no Tanpen"
+  },
+  "altTitles": [
+   {
+    "ja": "犬を飼うと12の短編"
+   },
+   {
+    "en": "Keeping a Dog and 12 Short Stories"
+   }
+  ],
+  "description": {
+   "en": "This book includes all the stories from Inu o Kau and Toudo no Tabibito, and two works never reprinted before, Hiken Zangetsu and Hyakunen no Keifu.\nList of works:\n「犬を飼う」『ビッグコミック』1991年6月25日号\n「そして…猫を飼う」『ビッグコミック』1991年12月25日号\n「庭のながめ」『ビッグコミック』1992年4月10日号\n「三人の日々」『ビッグコミック』1992年9月25日号\n「約束の地」『ビッグコミック』1992年7月25日号\n「海へ還る」『ビッグコミックスピリッツ』1994年3月28日号\n「松華樓」『ビッグコミック』1998年1月10日号\n「山へ」『ビッグコミックスペシャル増刊』2002年12月1日号\n「凍土の旅人」『ビッグコミック 1（ワン）』2003年7月2日号\n「白い荒野」『ビッグコミック 1（ワン）』2003年12月28日号\n「貝寄風島」『ビッグコミック 1（ワン）』2004年7月1日号\n「秘剣残月」『ビッグコミック 1（ワン）』2008年4月3日号\n「百年の系譜」『ビッグコミック 1（ワン）』2009年4月12日号"
+  },
+  "links": {
+   "mu": "5sjlmwz"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "13",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2009,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "80235b0d-3d72-42e1-89e4-6cc6904cc39d",
+  "tags": [
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-11-25T01:10:47+00:00",
+  "updatedAt": "2024-11-25T01:20:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "97effcde-ce83-4f26-b0a6-b9dfcb615173",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 谷口ジロー"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Taniguchi Jirou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T18:53:21+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "97effcde-ce83-4f26-b0a6-b9dfcb615173",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 谷口ジロー"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Taniguchi Jirou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-11T18:53:21+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b495cc3d-af01-4038-8173-9af9889a2786",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-25T01:10:50+00:00",
+    "description": "",
+    "fileName": "17015f9d-5ff5-4fbc-9a70-464080ad2f34.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-25T01:10:50+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "b113560e-da69-4604-b6f4-03892f59652f",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "f25f2141-bb53-4a5e-8096-8510b3996928",
+   "type": "manga",
+   "related": "alternate_version"
+  },
+  {
+   "id": "a1910da8-a67e-4ba3-a426-b9e4cdda7636",
+   "type": "creator"
+  }
+ ]
+}

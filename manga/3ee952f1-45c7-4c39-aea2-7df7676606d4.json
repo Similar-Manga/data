@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Ao no Exorcist"
+   "en": "Blue Exorcist"
   },
   "altTitles": [
    {
@@ -53,7 +53,7 @@
    }
   ],
   "description": {
-   "en": "This world consists of two dimensions joined as one, like a mirror. The first is the world in which the humans live, Assiah. The other is the world of demons, Gehenna. Ordinarily, travel between the two, and indeed any kind of contact between the two, is impossible. However, the demons can pass over into this world by possessing anything that exist within it. Satan may be the king of demons, but there's one thing he doesn't have, and that's a substance in the human world which is powerful enough to contain him! For that purpose he created Rin, his son with a human woman, but will is son agree to his plans? Or will he become something else…? An exorcist?",
+   "en": "Rin and his exorcist classmates are caught in a secret war against the forces of darkness.\nRaised by Father Fujimoto, a famous exorcist, Rin Okumura never knew his real father. One day a fateful argument with Father Fujimoto forces Rin to face a terrible truth—the blood of the demon lord Satan runs in Rin’s veins! Rin swears to defeat Satan, but doing that means entering the mysterious True Cross Academy and becoming an exorcist himself.",
    "fr": "Ce monde se compose de deux dimensions jointes en une seule, comme un miroir. Le premier est le monde dans lequel vivent les humains, Assiah. L’autre est le monde des démons, la géhenne. Habituellement, voyager entre les deux, et même tout type de contact entre les deux, est impossible. Cependant, les démons peuvent passer dans ce monde en possédant tout ce qui existe en son sein. Satan est peut-être le roi des démons, mais il y a une chose qu’il n’a pas, et c’est une substance dans le monde humain qui est assez puissante pour le contenir ! Dans ce but, il a créé Rin, son fils avec une femme humaine, mais le fils acceptera-t-il ses plans? Ou va-t-il devenir autre chose...? Un exorciste ?",
    "pt-br": "Este mundo consiste em duas dimensões unidas como uma só, como um espelho. O primeiro é o mundo em que vivem os humanos, Assiah. O outro é o mundo dos demônios, Gehenna. Normalmente, viajar entre os dois e, na verdade, qualquer tipo de contato entre os dois, é impossível. No entanto, os demônios podem passar para este mundo possuindo qualquer coisa que exista dentro dele. Satanás pode ser o rei dos demônios, mas há uma coisa que ele não possui: uma substância no mundo humano que seja poderosa o suficiente para contê-lo! Para isso ele criou Rin, seu filho com uma mulher humana, mas será que seu filho concordará com seus planos? Ou ele se tornará outra coisa...? Um exorcista?",
    "tr": "Dünya, ayna gibi birbirine zıt iki farklı boyuttan oluşmaktaydı: İnsanların yaşadığı Assiah ve iblislerin hüküm sürdüğü Gehenna. Bu iki boyut arasında iletişim ve seyahat mümkün olmamasına rağmen iblisler, insanların ruhlarını ele geçirerek Assiah'a ulaşabiliyorlardı.İblislerin tanrısı Şeytan, kendisini barındırabilecek kadar güçlü bir insan bulamadığı için Gehenna'da sıkışıp kalmıştı. Bunu aşmak için, bir insan kadınından Okumura Rin adında bir çocuk sahibi oldu.Şeytan'ın oğlu, babasına yardım edecek mi, yoksa başka bir şeye mi dönüşecek? Bir ruh kovucuya mı?",
@@ -199,9 +199,9 @@
    }
   ],
   "state": "published",
-  "version": 26,
+  "version": 27,
   "createdAt": "2018-01-24T00:35:06+00:00",
-  "updatedAt": "2024-07-16T23:43:08+00:00"
+  "updatedAt": "2024-11-24T21:03:09+00:00"
  },
  "relationships": [
   {
@@ -303,6 +303,11 @@
    "id": "488617c6-a8a1-4042-bed5-0e969e65b6cd",
    "type": "manga",
    "related": "doujinshi"
+  },
+  {
+   "id": "49e11a2c-5ca8-47c9-9d1b-39863b96cecf",
+   "type": "manga",
+   "related": "colored"
   },
   {
    "id": "4d6f06da-3fb8-4586-a957-bbc1c40ff595",

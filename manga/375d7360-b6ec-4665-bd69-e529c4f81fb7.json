@@ -1,0 +1,147 @@
+{
+ "id": "375d7360-b6ec-4665-bd69-e529c4f81fb7",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Bukiya Musou - Kabukichou no Kaibutsu-tachi"
+  },
+  "altTitles": [
+   {
+    "ja": "武器屋無双～歌舞伎町の怪物たち～"
+   },
+   {
+    "ja-ro": "Bukiya Musou ~Kabukichou no Kaibutsu-tachi~"
+   },
+   {
+    "en": "The Unmatched Weapons Dealer ~Kabukicho's Monsters~"
+   },
+   {
+    "en": "The Unmatched Weapons Dealer"
+   }
+  ],
+  "description": {
+   "en": "Kabukicho—a city rampant with murder, robbery, assault, and theft. Amid the chaos, a \"weapons dealer\" provides tools for survival. Tosa, a handyman renowned as Kabukicho's strongest, runs an orphanage for children without parents, just like himself. Though poor, he lived a happy life with the children until a conflict with an anti-social organization robbed him of his most precious bonds. Devastated and consumed by rage, Tosa embarks on a quest for revenge. To curb his recklessness, the informant Mitsuki introduces him to a man: Kai, the \"weapons dealer\" of Kabukicho. The fateful meeting between the handyman Tosa and the weapons dealer Kai sets the city in motion—a gritty hard-action tale set in Kabukicho!"
+  },
+  "links": {
+   "mu": "4im5zgq"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-23T17:20:56+00:00",
+  "updatedAt": "2024-11-25T09:11:54+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6e025b67-9068-4f3e-b3c8-9bdea85f5093",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-23T17:13:49+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nemeton",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-23T17:13:49+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "224152f9-f39b-4d2b-a1e5-64c0464c3757",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-23T17:19:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "LEGIKA Studio",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-23T17:19:34+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "319f4a93-d724-4810-a109-31bccd8b549b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-23T17:20:59+00:00",
+    "description": "",
+    "fileName": "3687e688-e2e9-452b-8923-3c62041f9b92.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-23T17:20:59+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9cdba5af-b71d-49b6-b627-0faa5aeb84cf",
+   "type": "creator"
+  }
+ ]
+}

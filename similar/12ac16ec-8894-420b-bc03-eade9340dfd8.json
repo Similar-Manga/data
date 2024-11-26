@@ -6,25 +6,12 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "cb30c8e7-133a-47eb-8ac8-06b7cc998706",
-   "title": {
-    "en": "Yozakura Quartet"
-   },
-   "contentRating": "suggestive",
-   "score": 0.26790074,
-   "languages": [
-    "vi",
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "074f054b-7c3d-4e3d-ad8b-de6c77329585",
    "title": {
     "en": "Hidan no Aria"
    },
    "contentRating": "suggestive",
-   "score": 0.26178548,
+   "score": 0.2617895,
    "languages": [
     "en",
     "pt-br",
@@ -37,7 +24,7 @@
     "en": "Akiba's Trip"
    },
    "contentRating": "suggestive",
-   "score": 0.252949,
+   "score": 0.25296128,
    "languages": [
     "en"
    ]
@@ -48,7 +35,7 @@
     "en": "Black Yome ni Yoroshiku!"
    },
    "contentRating": "suggestive",
-   "score": 0.24576719,
+   "score": 0.24576907,
    "languages": [
     "fr",
     "en",
@@ -57,12 +44,25 @@
    ]
   },
   {
+   "id": "cb30c8e7-133a-47eb-8ac8-06b7cc998706",
+   "title": {
+    "en": "Yozakura Quartet"
+   },
+   "contentRating": "suggestive",
+   "score": 0.24420574,
+   "languages": [
+    "vi",
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "ba3b29e1-053d-4533-adf1-841e8fe6b774",
    "title": {
     "en": "Futagami☆Double"
    },
    "contentRating": "suggestive",
-   "score": 0.23939262,
+   "score": 0.23940885,
    "languages": [
     "pl",
     "fr",
@@ -76,7 +76,7 @@
     "en": "Nue no Onmyouji"
    },
    "contentRating": "suggestive",
-   "score": 0.23621775,
+   "score": 0.23622446,
    "languages": [
     "it",
     "fr",
@@ -93,7 +93,7 @@
     "en": "Jishou! Heibon Mazoku no Eiyuu Life: B-kyuu Mazoku na no ni Cheat Dungeon o Tsukutteshimatta Kekka"
    },
    "contentRating": "suggestive",
-   "score": 0.23417759,
+   "score": 0.23418167,
    "languages": [
     "tr",
     "es-la",
@@ -109,13 +109,31 @@
     "en": "Kinsou no Vermeil ~Gakeppuchi Majutshi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu~"
    },
    "contentRating": "suggestive",
-   "score": 0.23066588,
+   "score": 0.23067081,
    "languages": [
     "pt-br",
     "en",
     "pl",
     "es-la",
     "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "0f6003ca-e7f3-43ce-bfd2-0694146994be",
+   "title": {
+    "en": "Amagami-san Chi no Enmusubi"
+   },
+   "contentRating": "suggestive",
+   "score": 0.2301729,
+   "languages": [
+    "pt-br",
+    "fr",
+    "es-la",
+    "id",
+    "ar",
+    "en",
+    "ru",
     "vi"
    ]
   },
@@ -154,24 +172,6 @@
    ]
   },
   {
-   "id": "0f6003ca-e7f3-43ce-bfd2-0694146994be",
-   "title": {
-    "en": "Amagami-san Chi no Enmusubi"
-   },
-   "contentRating": "suggestive",
-   "score": 0.2301729,
-   "languages": [
-    "pt-br",
-    "fr",
-    "es-la",
-    "id",
-    "ar",
-    "en",
-    "ru",
-    "vi"
-   ]
-  },
-  {
    "id": "30758b74-888a-4ba4-b1a0-5f593bdd6285",
    "title": {
     "en": "Koi ga Saku Koro Sakura Doki -Charming Scarlet-"
@@ -188,7 +188,7 @@
     "en": "Devil-Chi"
    },
    "contentRating": "suggestive",
-   "score": 0.22942226,
+   "score": 0.22942016,
    "languages": [
     "es-la",
     "vi",
@@ -197,6 +197,17 @@
     "es",
     "ru",
     "id"
+   ]
+  },
+  {
+   "id": "4da46e9b-c828-4376-aefe-942f313bea2f",
+   "title": {
+    "en": "Jutten!"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22800915,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -212,17 +223,6 @@
    ]
   },
   {
-   "id": "4da46e9b-c828-4376-aefe-942f313bea2f",
-   "title": {
-    "en": "Jutten!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22800915,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "48881cde-d594-4a4f-89b0-1f6d7e25a148",
    "title": {
     "en": "Muramasa"
@@ -234,5 +234,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:05:46+00:00"
+ "updatedAt": "2024-11-25T20:34:40+00:00"
 }

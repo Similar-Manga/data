@@ -1,0 +1,157 @@
+{
+ "id": "045ba0b0-7d6a-461f-8b75-39619f25e53f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Yama, Kaimashita ~Isekai Gurashi mo Warukunai~"
+  },
+  "altTitles": [
+   {
+    "ja": "山、買いました ～異世界暮らしも悪くない～"
+   }
+  ],
+  "description": {
+   "ja": "山を買ったら、それがまさかの異世界だったなんて！ しかも異世界仕様の田舎暮らしをのんびり楽しんでいたら、知らぬ間に山をパワーアップさせていて!?"
+  },
+  "links": {
+   "al": "179318",
+   "amz": "https://www.amazon.co.jp/dp/B0DMND4BTS",
+   "ap": "yama-kaimashita-isekai-kurashi-mo-warukunai-light-novel",
+   "bw": "series/498858",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/864195",
+   "mal": "170263",
+   "mu": "wnygw1s",
+   "raw": "https://comic-walker.com/detail/KC_005616_S"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-24T21:17:44+00:00",
+  "updatedAt": "2024-11-24T21:18:33+00:00"
+ },
+ "relationships": [
+  {
+   "id": "48a2ed4a-b78a-402b-ae0b-07d8e1909901",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-24T21:15:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jitsukawa Emu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-24T21:15:36+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2deec6de-4753-4d29-99db-369fd50803c4",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Endou Tatsuya (炎堂たつや)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/70762",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/endo_tatuya",
+    "updatedAt": "2023-07-03T00:15:34+00:00",
+    "version": 2,
+    "website": "https://hidaruma5.exblog.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "65caeb17-1951-4307-b9f5-ef0eb74b3d4d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-24T21:17:55+00:00",
+    "description": "",
+    "fileName": "40b93a7d-ddfe-4120-9434-ea1018727cf0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-24T21:17:55+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

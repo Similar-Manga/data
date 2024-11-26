@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
-   "title": {
-    "en": "Wonted"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br"
-   ]
-  },
-  {
    "id": "d39db645-0a95-4d70-80e0-775dc9a6ad89",
    "title": {
     "en": "Metronome"
@@ -29,6 +16,19 @@
     "es",
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
+   "title": {
+    "en": "Wonted"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "en",
+    "pl",
+    "pt-br"
    ]
   },
   {
@@ -88,6 +88,18 @@
    ]
   },
   {
+   "id": "7bd7f1dd-5975-4133-8bc7-9e2852ef8368",
+   "title": {
+    "en": "Castlevania - Curse of Darkness"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "8b1d7ca0-6b34-415c-96c8-f3ffd460e932",
    "title": {
     "en": "Dragon and Chameleon"
@@ -104,28 +116,16 @@
    ]
   },
   {
-   "id": "7bd7f1dd-5975-4133-8bc7-9e2852ef8368",
+   "id": "1b5d349c-443b-40ee-ae0e-6b73b808f5d6",
    "title": {
-    "en": "Castlevania - Curse of Darkness"
+    "en": "Dam of the Forest"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "0bcef334-b515-4790-b3b0-16ec7482b798",
-   "title": {
-    "en": "DevilShot"
-   },
-   "contentRating": "safe",
-   "score": 0.21295886,
+   "score": 0.21619767,
    "languages": [
     "en",
-    "fr",
-    "es-la"
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -146,24 +146,11 @@
     "en": "Kono Ko Shirimasenka?"
    },
    "contentRating": "safe",
-   "score": 0.2116974,
+   "score": 0.211698,
    "languages": [
     "en",
     "vi",
     "es-la"
-   ]
-  },
-  {
-   "id": "1b5d349c-443b-40ee-ae0e-6b73b808f5d6",
-   "title": {
-    "en": "Dam of the Forest"
-   },
-   "contentRating": "safe",
-   "score": 0.20865622,
-   "languages": [
-    "en",
-    "pt-br",
-    "id"
    ]
   },
   {
@@ -172,7 +159,7 @@
     "en": "Top Star Sent by God"
    },
    "contentRating": "safe",
-   "score": 0.20805372,
+   "score": 0.20805451,
    "languages": [
     "pt-br"
    ]
@@ -183,7 +170,7 @@
     "en": "Trigger"
    },
    "contentRating": "safe",
-   "score": 0.20305097,
+   "score": 0.20305231,
    "languages": [
     "en",
     "ru",
@@ -197,7 +184,7 @@
     "en": "Battle in 5 Seconds After Meeting"
    },
    "contentRating": "safe",
-   "score": 0.20217076,
+   "score": 0.20217024,
    "languages": [
     "en",
     "vi",
@@ -219,7 +206,23 @@
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "7889434b-d9a5-454c-8ea1-8c7a4509fc51",
+   "title": {
+    "en": "Servamp"
+   },
+   "contentRating": "safe",
+   "score": 0.19317813,
+   "languages": [
+    "es",
+    "en",
+    "es-la",
+    "pt-br",
+    "hu",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2024-11-23T20:28:07+00:00"
+ "updatedAt": "2024-11-25T21:02:17+00:00"
 }

@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "57e53258-f128-4b84-b71d-ba2ce940a63e",
-   "title": {
-    "en": "1980"
-   },
-   "contentRating": "safe",
-   "score": 0.29313526,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "f28584db-87ac-4d12-85b1-2fae9afb634f",
    "title": {
     "en": "Someday He's Gonna Get Me"
    },
    "contentRating": "safe",
-   "score": 0.23737743,
+   "score": 0.23738506,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "57e53258-f128-4b84-b71d-ba2ce940a63e",
+   "title": {
+    "en": "1980"
+   },
+   "contentRating": "safe",
+   "score": 0.23467207,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Revenge Doll"
    },
    "contentRating": "safe",
-   "score": 0.23138846,
+   "score": 0.2314018,
    "languages": [
     "en",
     "es"
@@ -74,17 +74,6 @@
    ]
   },
   {
-   "id": "57d0f48c-971f-4e03-a737-f693a2586637",
-   "title": {
-    "en": "Kitsune to Aburage"
-   },
-   "contentRating": "safe",
-   "score": 0.19205028,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "0f5b5af4-15e7-41bd-9e33-d0e8e0934599",
    "title": {
     "en": "Noroi no Video no Tadashii Kanshou Style"
@@ -97,73 +86,28 @@
    ]
   },
   {
+   "id": "57d0f48c-971f-4e03-a737-f693a2586637",
+   "title": {
+    "en": "Kitsune to Aburage"
+   },
+   "contentRating": "safe",
+   "score": 0.18513034,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "87e9316d-0a51-4bd8-892c-812fd2f06eee",
    "title": {
     "en": "Desk War"
    },
    "contentRating": "safe",
-   "score": 0.18336897,
+   "score": 0.18337055,
    "languages": [
     "tr",
     "en",
     "es-la",
     "pt-br"
-   ]
-  },
-  {
-   "id": "91843e85-5611-4f16-9181-c209265ff112",
-   "title": {
-    "en": "Grün Bæla"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "bg",
-    "zh-hk",
-    "ru",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "4d35562a-94a9-43e3-a23f-b3e21bca1779",
-   "title": {
-    "en": "Children"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "pt-br",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "f1bb1759-e7e7-4c10-a0c6-60616d2d6c64",
-   "title": {
-    "en": "Onimomogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f546580d-2bf5-4738-a2d9-420f6e56970b",
-   "title": {
-    "en": "Hino Hideshi no Doraemon"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "id",
-    "pt-br",
-    "en",
-    "it",
-    "pl",
-    "es-la",
-    "vi"
    ]
   },
   {
@@ -195,12 +139,68 @@
    ]
   },
   {
+   "id": "91843e85-5611-4f16-9181-c209265ff112",
+   "title": {
+    "en": "Grün Bæla"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "bg",
+    "zh-hk",
+    "ru",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "f546580d-2bf5-4738-a2d9-420f6e56970b",
+   "title": {
+    "en": "Hino Hideshi no Doraemon"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "id",
+    "pt-br",
+    "en",
+    "it",
+    "pl",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "4d35562a-94a9-43e3-a23f-b3e21bca1779",
+   "title": {
+    "en": "Children"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "pt-br",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "f1bb1759-e7e7-4c10-a0c6-60616d2d6c64",
+   "title": {
+    "en": "Onimomogatari"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "85cf1777-d504-4627-abb0-20416e5a4e00",
    "title": {
     "en": "Murikuri"
    },
    "contentRating": "safe",
-   "score": 0.17448103,
+   "score": 0.17448038,
    "languages": [
     "pl",
     "en",
@@ -208,5 +208,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:20:42+00:00"
+ "updatedAt": "2024-11-25T20:52:31+00:00"
 }

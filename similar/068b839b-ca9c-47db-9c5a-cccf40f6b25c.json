@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "7690a944-b205-41d6-bf0c-81011497f948",
-   "title": {
-    "en": "Lammermoor no Shounen Kiheitai"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258
-  },
-  {
    "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
    "title": {
     "en": "Warabe no Kusa"
@@ -23,6 +15,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "7690a944-b205-41d6-bf0c-81011497f948",
+   "title": {
+    "en": "Lammermoor no Shounen Kiheitai"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
   },
   {
    "id": "9cee8460-f5d6-41e2-9ab9-08aedf0a13bc",
@@ -38,10 +38,18 @@
     "en": "Return of the Invincible Patriarch"
    },
    "contentRating": "safe",
-   "score": 0.2540676,
+   "score": 0.25401503,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "71716cbf-e1b0-4871-b247-38aebcaaf287",
+   "title": {
+    "en": "Asagiro ~Asagi Ookami~"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619
   },
   {
    "id": "4ac57875-68fc-4666-927c-9a2e7f34cf1f",
@@ -64,22 +72,14 @@
    "score": 0.24692619
   },
   {
-   "id": "71716cbf-e1b0-4871-b247-38aebcaaf287",
+   "id": "53ed12e0-aae2-45f3-8897-7a61fc26dc83",
    "title": {
-    "en": "Asagiro ~Asagi Ookami~"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619
-  },
-  {
-   "id": "389dfa1a-d6fb-46d4-96fb-bc4bd6d7559a",
-   "title": {
-    "en": "Oguna - Opera Susanoh Sword of the Devil"
+    "en": "Achilles"
    },
    "contentRating": "safe",
    "score": 0.23809525,
    "languages": [
-    "en"
+    "id"
    ]
   },
   {
@@ -99,14 +99,14 @@
    "score": 0.23809525
   },
   {
-   "id": "53ed12e0-aae2-45f3-8897-7a61fc26dc83",
+   "id": "389dfa1a-d6fb-46d4-96fb-bc4bd6d7559a",
    "title": {
-    "en": "Achilles"
+    "en": "Oguna - Opera Susanoh Sword of the Devil"
    },
    "contentRating": "safe",
    "score": 0.23809525,
    "languages": [
-    "id"
+    "en"
    ]
   },
   {
@@ -126,7 +126,7 @@
     "en": "Rurouni Kenshin Ibun: Ashitarou Zenka Ari"
    },
    "contentRating": "safe",
-   "score": 0.2319035,
+   "score": 0.23190226,
    "languages": [
     "pt-br"
    ]
@@ -137,7 +137,7 @@
     "en": "Sangekitou no Mowgli"
    },
    "contentRating": "safe",
-   "score": 0.22967093
+   "score": 0.22979423
   },
   {
    "id": "21666dcf-1257-497d-9647-e4bb63411137",
@@ -162,5 +162,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:01:36+00:00"
+ "updatedAt": "2024-11-25T20:29:21+00:00"
 }

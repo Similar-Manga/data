@@ -3,9 +3,15 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Saint Seiya THEN: Flowers in the Ruin"
+   "en": "Saint Seiya THEN: Haikyo no Hana"
   },
   "altTitles": [
+   {
+    "ja": "Saint Seiya THEN: 廃墟の花"
+   },
+   {
+    "en": "Saint Seiya THEN: Flowers in the Ruin"
+   },
    {
     "pt-br": "Saint Seiya THEN: Flores na Ruína"
    }
@@ -14,8 +20,6 @@
    "en": "In front of the large stone wall with engraved inscriptions, her memories return along with a strong feeling."
   },
   "originalLanguage": "ja",
-  "lastVolume": "0",
-  "lastChapter": "1",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2024,
@@ -33,18 +37,6 @@
     "attributes": {
      "name": {
       "en": "Oneshot"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
-    "id": "320831a8-4026-470b-94f6-8353740e6f04",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Official Colored"
      },
      "description": {},
      "group": "format",
@@ -86,12 +78,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2024-11-14T13:58:45+00:00",
-  "updatedAt": "2024-11-14T14:02:45+00:00"
+  "updatedAt": "2024-11-23T18:01:23+00:00"
  },
  "relationships": [
   {

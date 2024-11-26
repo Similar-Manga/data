@@ -1,0 +1,165 @@
+{
+ "id": "f1d25afa-ca18-46c4-b1c3-6e6ccc37d1a5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Neko Neko Youjo no Aijou Gohan ~Isekai de Mofumofu-tachi ni Ryouri wo Tsukurimasu!~"
+  },
+  "altTitles": [
+   {
+    "ja": "ねこねこ幼女の愛情ごはん～異世界でもふもふ達に料理を作ります！～"
+   }
+  ],
+  "description": {
+   "ja": "もふもふに囲まれる事を夢見て修行中の新人トリマー・エリナ。生活苦で居酒屋のバイトを掛け持ちしつつ奮闘するも、帰宅途中で車にひかれてしまう。人生詰んだ…と絶望するのだが、目が覚めると予想外の光景が広がっていて――\n\n「うわあ、ふわふわのもふもふだー！」\n\n大好きなもふもふだらけの世界に転移!! しかも自分も猫耳幼女になっていて、狼に保護されて甘やかされ放題!? 前世のお料理知識も活かして、この優しい世界を満喫しちゃいます♪"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DNF22YJ6",
+   "bw": "series/500278",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/863903",
+   "mu": "gkpoc4w"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-24T20:08:04+00:00",
+  "updatedAt": "2024-11-24T20:08:21+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a66879c3-d01f-42ab-91ee-a92692f04a96",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-24T20:06:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hazuki Kuroru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-24T20:06:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d1331f12-1673-442e-8e30-819b68bfc56c",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sonota Dei",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/daysonota",
+    "updatedAt": "2022-06-04T17:10:21+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9544e356-0698-4284-a7b9-cc5f4dd2056e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-24T20:08:10+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "da76578a-3e5e-4823-86a9-8cf6bc08c434.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-24T20:08:10+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

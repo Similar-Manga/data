@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "9cb0528a-daf1-47c0-b779-d82fe8980fc6",
-   "title": {
-    "en": "Slaying the Monster"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "dd0f25f5-4006-42d1-9969-76ade2717617",
    "title": {
     "en": "A Meek Little Brother Like Me"
@@ -31,6 +20,17 @@
    "id": "217f61b5-616e-4f5f-bd62-08167b4a2153",
    "title": {
     "en": "Breakaway"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9cb0528a-daf1-47c0-b779-d82fe8980fc6",
+   "title": {
+    "en": "Slaying the Monster"
    },
    "contentRating": "safe",
    "score": 0.2851258,
@@ -55,7 +55,7 @@
     "en": "Peephole"
    },
    "contentRating": "safe",
-   "score": 0.28217798,
+   "score": 0.28217757,
    "languages": [
     "pt-br",
     "en"
@@ -67,7 +67,7 @@
     "en": "Merboy"
    },
    "contentRating": "safe",
-   "score": 0.26528722,
+   "score": 0.26528788,
    "languages": [
     "en"
    ]
@@ -90,31 +90,7 @@
     "en": "Goumontou wa Nemuranai - Doukeshi no Shou"
    },
    "contentRating": "safe",
-   "score": 0.24575685,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "570b5b99-02a2-4f0f-84d6-1251aa5ad12f",
-   "title": {
-    "en": "The Mysterious Tale of Yumi-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "41ceb1c6-9836-43bc-a9c8-eed46f0f2a8f",
-   "title": {
-    "en": "Aoi no Yukiusagi"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
+   "score": 0.24575728,
    "languages": [
     "en"
    ]
@@ -134,6 +110,17 @@
    ]
   },
   {
+   "id": "41ceb1c6-9836-43bc-a9c8-eed46f0f2a8f",
+   "title": {
+    "en": "Aoi no Yukiusagi"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "0045474a-dd44-4307-982f-c4cd085153d6",
    "title": {
     "en": "Suwaru Onna"
@@ -148,12 +135,25 @@
    ]
   },
   {
+   "id": "570b5b99-02a2-4f0f-84d6-1251aa5ad12f",
+   "title": {
+    "en": "The Mysterious Tale of Yumi-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "1703a43b-76ed-47f0-a512-aa52cc0f169b",
    "title": {
     "en": "Zansatsu! Ponytail"
    },
    "contentRating": "safe",
-   "score": 0.23328419,
+   "score": 0.23328646,
    "languages": [
     "fr",
     "it",
@@ -166,22 +166,24 @@
     "en": "Semi-Eternal Happy End"
    },
    "contentRating": "safe",
-   "score": 0.23010084,
+   "score": 0.23009713,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "b8b3014f-e8be-4c51-a969-32e138a137e9",
+   "id": "dc0f2dc3-ac5a-4f2b-a1e6-7c7367412a65",
    "title": {
-    "en": "Topographia"
+    "en": "A Life"
    },
    "contentRating": "safe",
    "score": 0.22222224,
    "languages": [
-    "en",
-    "pt-br"
+    "pt-br",
+    "it",
+    "ru",
+    "en"
    ]
   },
   {
@@ -198,5 +200,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-23T21:18:55+00:00"
+ "updatedAt": "2024-11-25T22:09:06+00:00"
 }

@@ -3,20 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Dear Antique"
+   "en": "Dear Antique,"
   },
   "altTitles": [
-   {
-    "ja-ro": "Dia Antiiku"
-   },
    {
     "ja": "ディア アンティーク"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "A world where humans and androids are connected in a master-servant relationship. Marius, an android mechanic, meets Misha, an antique android who has lost his memory. Misha seeks a new master, sings songs, and sometimes refuses human orders. Marius is interested in Misha, who deviates from the norm for androids, because he is a mechanic, or...\n\nThe world of humans and robots begins to revolve around a special android - this is a love story that transcends species."
+  },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/4088552040",
    "bw": "series/384226/list",
-   "mu": "utbkppx"
+   "cdj": "https://www.cdjapan.co.jp/searchuni?term.media_format=\u0026q=Dear+Antique+束原さき",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/733021/",
+   "mu": "utbkppx",
+   "raw": "https://www.cmoa.jp/title/257687/"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shoujo",
@@ -59,19 +62,33 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2024-04-16T13:36:43+00:00",
-  "updatedAt": "2024-04-16T13:37:17+00:00"
+  "updatedAt": "2024-11-24T05:20:22+00:00"
  },
  "relationships": [
   {
    "id": "752fee91-4037-4517-8cd2-7ca281585718",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n束原さき"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -84,11 +101,11 @@
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "tumblr": "http://s-tsuka.tumblr.com/",
+    "twitter": "https://twitter.com/sakixux",
+    "updatedAt": "2024-11-24T05:14:41+00:00",
+    "version": 2,
+    "website": "http://ar-ciel.wix.com/tsukahara",
     "weibo": null,
     "youtube": null
    }
@@ -97,7 +114,9 @@
    "id": "752fee91-4037-4517-8cd2-7ca281585718",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n束原さき"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -110,11 +129,11 @@
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "tumblr": "http://s-tsuka.tumblr.com/",
+    "twitter": "https://twitter.com/sakixux",
+    "updatedAt": "2024-11-24T05:14:41+00:00",
+    "version": 2,
+    "website": "http://ar-ciel.wix.com/tsukahara",
     "weibo": null,
     "youtube": null
    }

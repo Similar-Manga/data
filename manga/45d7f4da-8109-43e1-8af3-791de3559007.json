@@ -1,0 +1,140 @@
+{
+ "id": "45d7f4da-8109-43e1-8af3-791de3559007",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Unstoppable Muscle Power"
+  },
+  "altTitles": [
+   {
+    "ja": "筋力無双"
+   }
+  ],
+  "description": {
+   "en": "In modern Japan, a mysterious gate leading to another world suddenly appeared, unleashing monstrous beings called demons that spread chaos. The only ones capable of standing against them were heroes wielding skills and magic. However, the protagonist, Kengo Kuromiya, a man with no abilities, possessed a unique constitution that rendered him incapable of storing magical power. Despite this, he honed his physical body to the limit, fighting as a hunter to protect humanity from these creatures.\nOne day, Kengo undergoes a body modification experiment conducted by a mad scientist, granting him superhuman physical strength. Thus begins the tale of Kengo's unstoppable rise, relying solely on his sheer muscle power, without the aid of skills or magic!"
+  },
+  "links": {
+   "mu": "lqj7o06"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-23T17:39:05+00:00",
+  "updatedAt": "2024-11-23T22:09:56+00:00"
+ },
+ "relationships": [
+  {
+   "id": "27e1fada-755f-47ec-9a07-98bac35af6c7",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-04-28T09:12:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Costo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-04-28T09:12:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c5a5f33f-b952-409d-8072-6232d2728893",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Full Name:** Plott Inc. (株式会社Plott)"
+    },
+    "booth": null,
+    "createdAt": "2023-01-26T05:00:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Plott",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/plott_inc",
+    "updatedAt": "2024-08-04T16:10:16+00:00",
+    "version": 3,
+    "website": "https://plott.tokyo/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3bcbcf40-6493-46ad-b449-8d47823b1903",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-23T17:39:13+00:00",
+    "description": "",
+    "fileName": "4c2e0fad-5297-4a9a-8c9f-46e71b41765e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-23T17:39:13+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9cdba5af-b71d-49b6-b627-0faa5aeb84cf",
+   "type": "creator"
+  }
+ ]
+}

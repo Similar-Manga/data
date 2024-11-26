@@ -15,11 +15,15 @@
   },
   "links": {
    "al": "99261",
+   "amz": "https://www.amazon.co.jp/dp/B07572JSWG",
    "ap": "powder-snow-melancholy",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=Powder+Snow+Melancholy+%E6%9D%9F%E5%8E%9F%E3%81%95%E3%81%8D",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/349962/",
    "engtl": "https://www.ebookrenta.com/renta/sc/frm/item/124880",
    "kt": "43969",
    "mal": "95905",
-   "mu": "115615"
+   "mu": "115615",
+   "raw": "https://www.cmoa.jp/title/100278/"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
@@ -58,16 +62,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-02-03T10:46:11+00:00",
-  "updatedAt": "2022-11-20T15:48:21+00:00"
+  "updatedAt": "2024-11-24T05:24:30+00:00"
  },
  "relationships": [
   {
    "id": "752fee91-4037-4517-8cd2-7ca281585718",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n束原さき"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -80,11 +86,11 @@
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "tumblr": "http://s-tsuka.tumblr.com/",
+    "twitter": "https://twitter.com/sakixux",
+    "updatedAt": "2024-11-24T05:14:41+00:00",
+    "version": 2,
+    "website": "http://ar-ciel.wix.com/tsukahara",
     "weibo": null,
     "youtube": null
    }
@@ -93,7 +99,9 @@
    "id": "752fee91-4037-4517-8cd2-7ca281585718",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n束原さき"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -106,26 +114,26 @@
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "tumblr": "http://s-tsuka.tumblr.com/",
+    "twitter": "https://twitter.com/sakixux",
+    "updatedAt": "2024-11-24T05:14:41+00:00",
+    "version": 2,
+    "website": "http://ar-ciel.wix.com/tsukahara",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "cd6d18ef-f6d1-4f2f-b0d0-1026ce37387e",
+   "id": "958dbca9-f7c2-43f0-a15f-40758421032d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:00:05+00:00",
+    "createdAt": "2024-11-24T05:24:29+00:00",
     "description": "",
-    "fileName": "1f3c92e1-4c9c-41f8-9d77-d0585604aed3.jpg",
+    "fileName": "79b07cdb-1bd9-4b9f-b42e-23d398e3abbc.jpg",
     "locale": "ja",
-    "updatedAt": "2022-11-20T15:48:21+00:00",
-    "version": 2,
-    "volume": "1"
+    "updatedAt": "2024-11-24T05:24:29+00:00",
+    "version": 1,
+    "volume": "2"
    }
   }
  ]

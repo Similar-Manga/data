@@ -3,32 +3,32 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Seifuku Aventure - Chemical Reaction Of High School Students"
+   "en": "Seifuku Adventure"
   },
   "altTitles": [
    {
-    "en": "Affairs in uniform - Chemical reaction of high school students"
+    "ja": "制服あばんちゅーる"
    },
    {
-    "en": "Seifuku Adventure"
+    "en": "Seifuku Aventure: Chemical Reaction Of High School Students"
    },
    {
-    "en": "Seifuku Aventure"
+    "en": "Affairs in Uniform: Chemical Reaction of High School Students"
    },
    {
-    "en": "制服あばんちゅーる"
-   },
-   {
-    "en": "교복 어드벤쳐"
+    "ko": "교복 어드벤쳐"
    }
   ],
   "description": {
-   "en": "Itou Ayako is a third year in high school and the president of the public morals committee. Part of her job is to ensure that the amount of sexual relationships between students doesn't get out of hand. As president, she is expected to set a good example and be a role model for the other students. But what if even she wants to get a boyfriend…? Recently she's become a little bit interested in fellow committee member Kawai Harumori. And so begins a struggle between duty and love."
+   "en": "Itou Ayako is a third year in high school and the president of the public morals committee. Part of her job is to ensure that the amount of sexual relationships between students doesn't get out of hand. As president, she is expected to set a good example and be a role model for the other students. But what if even she wants to get a boyfriend…? Recently she's become a little bit interested in fellow committee member Kawai Harumori.",
+   "ja": "風紀の乱れに敏感な風紀委員長の絲生（いとう）さん。そんな委員長も、男子と手を繋いでみたい、一緒に下校したい…と実は恋愛ごとには人一倍憧れを持つ、年頃の女のコ。近頃ちょっぴり気になる男子が出来そうで…!?絲生さんの心が揺れる！戸惑う！乱れちゃう!!?"
   },
   "links": {
    "al": "85641",
-   "amz": "https://www.amazon.co.jp/dp/B00O438BIC/",
+   "amz": "https://www.amazon.co.jp/dp/B074CJPSWJ",
    "ap": "seifuku-aventure",
+   "bw": "series/20166",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/260276",
    "kt": "26639",
    "mal": "81505",
    "mu": "96673"
@@ -38,6 +38,7 @@
   "lastChapter": "31",
   "publicationDemographic": "seinen",
   "status": "completed",
+  "year": 2013,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -94,9 +95,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2018-10-05T02:29:17+00:00",
-  "updatedAt": "2021-05-25T15:50:05+00:00"
+  "updatedAt": "2024-11-23T17:30:31+00:00"
  },
  "relationships": [
   {
@@ -152,16 +153,16 @@
    }
   },
   {
-   "id": "e99b56fc-fb42-4fc3-b13b-c232b5742a24",
+   "id": "8af8a04c-9d89-4f1f-8b9f-9cb12be39992",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:47:02+00:00",
+    "createdAt": "2021-05-23T05:44:06+00:00",
     "description": "",
-    "fileName": "50962cc4-917e-4e4f-95f6-d12ddaabe9c8.jpg",
+    "fileName": "e8bf949a-2074-4263-bc9c-97f007b2d0e5.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:47:02+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T05:44:06+00:00",
+    "version": 2,
+    "volume": "3"
    }
   }
  ]

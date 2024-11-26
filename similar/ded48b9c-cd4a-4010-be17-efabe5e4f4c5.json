@@ -6,12 +6,46 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "19fd79d6-78b6-4483-a755-f1dc29c7a645",
+   "title": {
+    "en": "Girlish Sweet"
+   },
+   "contentRating": "safe",
+   "score": 0.29258856,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "75b49f78-bb1e-481a-93ec-7f8a8331e8f2",
+   "title": {
+    "en": "Yume no Naka de Kimi wo Sagashite"
+   },
+   "contentRating": "safe",
+   "score": 0.29088733,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fca41209-7807-446e-909a-40ba8dbe0818",
+   "title": {
+    "en": "Heartsick"
+   },
+   "contentRating": "safe",
+   "score": 0.28938243,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "6fc1c54b-7285-4a51-8c8b-22838f04eb26",
    "title": {
     "en": "Kono Koi wo Hoshi ni wa Negawanai"
    },
    "contentRating": "safe",
-   "score": 0.2858508,
+   "score": 0.28913498,
    "languages": [
     "fr",
     "en",
@@ -20,16 +54,29 @@
    ]
   },
   {
-   "id": "c5d731f9-c1cf-4a69-a797-cd9c2a58316b",
+   "id": "bb8079ac-627f-4c0d-bbca-3cb32f49114a",
    "title": {
-    "en": "The Anemone Feels The Heat"
+    "en": "Recipe for Arcadia"
+   },
+   "contentRating": "safe",
+   "score": 0.2888769,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f7262e67-e7d7-44b5-b39a-96fafef39edf",
+   "title": {
+    "en": "Koi ni Koi suru Koibito Kankei"
    },
    "contentRating": "safe",
    "score": 0.28382835,
    "languages": [
-    "ru",
-    "id",
-    "en"
+    "en",
+    "pt-br",
+    "pl",
+    "ko",
+    "es-la"
    ]
   },
   {
@@ -63,40 +110,15 @@
    ]
   },
   {
-   "id": "19fd79d6-78b6-4483-a755-f1dc29c7a645",
+   "id": "c5d731f9-c1cf-4a69-a797-cd9c2a58316b",
    "title": {
-    "en": "Girlish Sweet"
+    "en": "The Anemone Feels The Heat"
    },
    "contentRating": "safe",
    "score": 0.28382835,
    "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "f7262e67-e7d7-44b5-b39a-96fafef39edf",
-   "title": {
-    "en": "Koi ni Koi suru Koibito Kankei"
-   },
-   "contentRating": "safe",
-   "score": 0.28382835,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "ko",
-    "es-la"
-   ]
-  },
-  {
-   "id": "fca41209-7807-446e-909a-40ba8dbe0818",
-   "title": {
-    "en": "Heartsick"
-   },
-   "contentRating": "safe",
-   "score": 0.28164288,
-   "languages": [
+    "ru",
+    "id",
     "en"
    ]
   },
@@ -106,29 +128,7 @@
     "en": "Cute and Cruel"
    },
    "contentRating": "safe",
-   "score": 0.28080025,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "75b49f78-bb1e-481a-93ec-7f8a8331e8f2",
-   "title": {
-    "en": "Yume no Naka de Kimi wo Sagashite"
-   },
-   "contentRating": "safe",
-   "score": 0.27923796,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "bb8079ac-627f-4c0d-bbca-3cb32f49114a",
-   "title": {
-    "en": "Recipe for Arcadia"
-   },
-   "contentRating": "safe",
-   "score": 0.2740463,
+   "score": 0.28332934,
    "languages": [
     "en"
    ]
@@ -139,7 +139,7 @@
     "en": "Ano Koro no Aoi Hoshi"
    },
    "contentRating": "safe",
-   "score": 0.2718744,
+   "score": 0.28157753,
    "languages": [
     "pt-br",
     "vi",
@@ -149,25 +149,12 @@
    ]
   },
   {
-   "id": "dee0ff73-eff4-45ec-8453-4a2a0d5777f1",
-   "title": {
-    "en": "Wishing on the Moon"
-   },
-   "contentRating": "safe",
-   "score": 0.26906967,
-   "languages": [
-    "en",
-    "tr",
-    "es"
-   ]
-  },
-  {
    "id": "b8f9a660-ed4d-4667-9c8d-00e98c05167d",
    "title": {
     "en": "Furetai wa Koi no Hajimari"
    },
    "contentRating": "safe",
-   "score": 0.2681129,
+   "score": 0.2785555,
    "languages": [
     "en",
     "ko",
@@ -181,11 +168,24 @@
     "en": "Haru Natsu Aki Fuyu"
    },
    "contentRating": "safe",
-   "score": 0.26719975,
+   "score": 0.27256063,
    "languages": [
     "en",
     "it",
     "tr"
+   ]
+  },
+  {
+   "id": "dee0ff73-eff4-45ec-8453-4a2a0d5777f1",
+   "title": {
+    "en": "Wishing on the Moon"
+   },
+   "contentRating": "safe",
+   "score": 0.27050394,
+   "languages": [
+    "en",
+    "tr",
+    "es"
    ]
   },
   {
@@ -194,7 +194,7 @@
     "en": "Chouchou Nannan"
    },
    "contentRating": "safe",
-   "score": 0.26677623,
+   "score": 0.26674983,
    "languages": [
     "en"
    ]
@@ -205,11 +205,11 @@
     "en": "Oni Ure Idol ga Kyou mo Watashi wo Oshitekuru"
    },
    "contentRating": "safe",
-   "score": 0.26303217,
+   "score": 0.2641428,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-23T21:16:51+00:00"
+ "updatedAt": "2024-11-25T22:06:22+00:00"
 }

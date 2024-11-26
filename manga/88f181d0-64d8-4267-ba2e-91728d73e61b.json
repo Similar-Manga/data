@@ -3,9 +3,16 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Doujinshi no Kuni"
+   "en": "Kino no Tabi - Doujinshi no Kuni (Doujinshi)"
   },
-  "description": {},
+  "altTitles": [
+   {
+    "ja": "(C93) 同人誌の国 (キノの旅)"
+   }
+  ],
+  "description": {
+   "en": "| Namespace | Tags |\n| :--- | :--- |\n| parody | kino no tabi |\n| character | kino |\n| group | hammer head |\n| artist | makabe gorou |\n| male | bbm, dark skin, dilf, glasses, hairy |\n| female | blowjob, bondage, deepthroat, defloration, drugs, impregnation, lolicon, mind break, nakadashi, pixie cut, pregnant, rape, sole female, tomboy, x-ray |\n| mixed | group, mmf threesome |"
+  },
   "originalLanguage": "ja",
   "status": "completed",
   "contentRating": "pornographic",
@@ -60,11 +67,37 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2022-02-03T10:18:54+00:00",
-  "updatedAt": "2022-02-03T10:20:53+00:00"
+  "updatedAt": "2024-11-23T05:14:44+00:00"
  },
  "relationships": [
+  {
+   "id": "cb098d9a-f260-4484-8ff6-6cabdf959e36",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-23T05:13:09+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "HAMMER_HEAD (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-23T05:13:09+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "e21a8545-e316-4793-8043-33d0d888226b",
    "type": "author",
@@ -77,6 +110,7 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Makabe Gorou",
+    "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
@@ -84,6 +118,32 @@
     "tumblr": null,
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cb098d9a-f260-4484-8ff6-6cabdf959e36",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-23T05:13:09+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "HAMMER_HEAD (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-23T05:13:09+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -102,6 +162,7 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Makabe Gorou",
+    "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
@@ -127,6 +188,11 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "2dadb5cd-b3e4-45a9-bc01-cd138e185dfb",
+   "type": "manga",
+   "related": "based_on"
   },
   {
    "id": "e63cc706-8d0a-421a-b32d-fac2c550f138",

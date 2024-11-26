@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "b083f65f-a56d-4bf1-b7d0-475c05cf0253",
-   "title": {
-    "en": "In the White"
-   },
-   "contentRating": "safe",
-   "score": 0.2636697,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "658a9e23-665f-4f74-b7fc-0ad7857cb3f9",
    "title": {
     "en": "Pine Needle, Love Needle"
    },
    "contentRating": "safe",
-   "score": 0.26241323,
+   "score": 0.26240283,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b083f65f-a56d-4bf1-b7d0-475c05cf0253",
+   "title": {
+    "en": "In the White"
+   },
+   "contentRating": "safe",
+   "score": 0.26114598,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Bitter Sweet Cake"
    },
    "contentRating": "safe",
-   "score": 0.26029673,
+   "score": 0.26029962,
    "languages": [
     "en",
     "pt-br"
@@ -45,7 +45,7 @@
     "en": "Shabondama"
    },
    "contentRating": "safe",
-   "score": 0.25994664,
+   "score": 0.25994408,
    "languages": [
     "pl",
     "en"
@@ -57,7 +57,7 @@
     "en": "Spiritualism"
    },
    "contentRating": "safe",
-   "score": 0.2579563,
+   "score": 0.25795397,
    "languages": [
     "ar",
     "ru",
@@ -70,9 +70,23 @@
     "en": "Boku no Negai ga Kanau nara"
    },
    "contentRating": "safe",
-   "score": 0.25792313,
+   "score": 0.25792345,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "3f6c214e-8afb-4fdd-9a7e-a215747b936d",
+   "title": {
+    "en": "Snow Maidens"
+   },
+   "contentRating": "safe",
+   "score": 0.25737873,
+   "languages": [
+    "fr",
+    "pt-br",
+    "ar",
     "en"
    ]
   },
@@ -82,7 +96,7 @@
     "en": "Moments of Loneliness"
    },
    "contentRating": "safe",
-   "score": 0.25739318,
+   "score": 0.25734985,
    "languages": [
     "en",
     "pt-br",
@@ -91,26 +105,12 @@
    ]
   },
   {
-   "id": "3f6c214e-8afb-4fdd-9a7e-a215747b936d",
-   "title": {
-    "en": "Snow Maidens"
-   },
-   "contentRating": "safe",
-   "score": 0.25737903,
-   "languages": [
-    "fr",
-    "pt-br",
-    "ar",
-    "en"
-   ]
-  },
-  {
    "id": "1113e7a6-341b-4f63-83ae-954d4aebaf2c",
    "title": {
     "en": "Wings"
    },
    "contentRating": "safe",
-   "score": 0.2569004,
+   "score": 0.2568978,
    "languages": [
     "fr",
     "bg",
@@ -120,6 +120,17 @@
     "pt-br",
     "ru",
     "pl"
+   ]
+  },
+  {
+   "id": "50698cfd-e816-4b3f-8bef-65fc06c504b7",
+   "title": {
+    "en": "Nagisa, Sore ga Kimi no Ai Naraba"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -135,50 +146,14 @@
    ]
   },
   {
-   "id": "50698cfd-e816-4b3f-8bef-65fc06c504b7",
-   "title": {
-    "en": "Nagisa, Sore ga Kimi no Ai Naraba"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "8b011fcf-519c-4c12-adba-0d891c38e27e",
    "title": {
     "en": "A Fleeting Time"
    },
    "contentRating": "safe",
-   "score": 0.25008085,
+   "score": 0.25010315,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "bdf4fc10-3b1f-44ce-a62f-5b7a9091320f",
-   "title": {
-    "en": "Assassin's Plan"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "ro",
-    "en"
-   ]
-  },
-  {
-   "id": "6b5964af-3733-43a5-933a-f7967b207e3c",
-   "title": {
-    "en": "Cathexis"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "it",
-    "pt-br"
    ]
   },
   {
@@ -203,7 +178,29 @@
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "d4a730ef-e29e-4969-98cc-1e8f97731ecb",
+   "title": {
+    "en": "Trick or Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7a28b87b-1cc7-469c-94dc-5809c5f7be69",
+   "title": {
+    "en": "Beautiful"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-23T20:56:47+00:00"
+ "updatedAt": "2024-11-25T21:41:41+00:00"
 }

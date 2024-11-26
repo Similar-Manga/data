@@ -6,34 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c80b5f40-b4e1-42ad-a97f-38063ab34202",
-   "title": {
-    "en": "Quintilis no Umi"
-   },
-   "contentRating": "safe",
-   "score": 0.28305927,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c8e8c0ed-5ecc-4f49-b6d9-7a6488322441",
-   "title": {
-    "en": "The Girl Who Walks the Waves"
-   },
-   "contentRating": "safe",
-   "score": 0.27817774,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "84414b4f-53d6-44a5-9d75-ac230f8f9aca",
    "title": {
     "en": "The Flower of The Month"
    },
    "contentRating": "safe",
-   "score": 0.27443713,
+   "score": 0.27822986,
    "languages": [
     "en"
    ]
@@ -44,18 +22,18 @@
     "en": "Like Flowing Water"
    },
    "contentRating": "safe",
-   "score": 0.27286294,
+   "score": 0.27605653,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "af958cf1-241d-4dcd-a81e-52df3d111f74",
+   "id": "cd850675-5881-4a4f-9b09-7ef424edc270",
    "title": {
-    "en": "School Life"
+    "en": "Home (Ep)"
    },
    "contentRating": "safe",
-   "score": 0.27152342,
+   "score": 0.2759252,
    "languages": [
     "en"
    ]
@@ -66,43 +44,20 @@
     "en": "How to Hate Mate"
    },
    "contentRating": "safe",
-   "score": 0.27143377,
+   "score": 0.27558783,
    "languages": [
     "es-la"
    ]
   },
   {
-   "id": "cd850675-5881-4a4f-9b09-7ef424edc270",
+   "id": "c80b5f40-b4e1-42ad-a97f-38063ab34202",
    "title": {
-    "en": "Home (Ep)"
+    "en": "Quintilis no Umi"
    },
    "contentRating": "safe",
-   "score": 0.26992616,
+   "score": 0.27041104,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "d98f3f81-9aba-4f48-9764-9ef87e540b67",
-   "title": {
-    "en": "Umi no Mukou, Tsuki no Uragawa"
-   },
-   "contentRating": "safe",
-   "score": 0.26929107,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "99d933a3-0591-4070-a990-2287dcb955d3",
-   "title": {
-    "en": "Little Prince"
-   },
-   "contentRating": "safe",
-   "score": 0.2623948,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -115,39 +70,6 @@
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "975a4a62-ddec-442d-a5d4-e7f108f16d52",
-   "title": {
-    "en": "Strategy on Seduction"
-   },
-   "contentRating": "safe",
-   "score": 0.26184237,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "11626d3c-f096-4d54-ab6e-362dd32c61e0",
-   "title": {
-    "en": "Antidote"
-   },
-   "contentRating": "safe",
-   "score": 0.26184237,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5f329659-3529-49ec-bf61-ec7c200c16c6",
-   "title": {
-    "en": "No Secrets Between Us"
-   },
-   "contentRating": "safe",
-   "score": 0.26184237,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -175,16 +97,98 @@
    ]
   },
   {
-   "id": "5c591e16-75a7-4f4f-b899-514c1e688f2f",
+   "id": "975a4a62-ddec-442d-a5d4-e7f108f16d52",
    "title": {
-    "en": "Another's Love Story"
+    "en": "Strategy on Seduction"
    },
    "contentRating": "safe",
-   "score": 0.26050028,
+   "score": 0.26184237,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5f329659-3529-49ec-bf61-ec7c200c16c6",
+   "title": {
+    "en": "No Secrets Between Us"
+   },
+   "contentRating": "safe",
+   "score": 0.26184237,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "11626d3c-f096-4d54-ab6e-362dd32c61e0",
+   "title": {
+    "en": "Antidote"
+   },
+   "contentRating": "safe",
+   "score": 0.26184237,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c8e8c0ed-5ecc-4f49-b6d9-7a6488322441",
+   "title": {
+    "en": "The Girl Who Walks the Waves"
+   },
+   "contentRating": "safe",
+   "score": 0.25925007,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e9fbe0f6-4a7b-4ab4-aba7-8179fa5acfe2",
+   "title": {
+    "en": "Double king"
+   },
+   "contentRating": "safe",
+   "score": 0.25791547,
+   "languages": [
+    "id",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "d16fa13e-fd88-4e80-a0e0-50775c46f03b",
+   "title": {
+    "en": "Wild Child"
+   },
+   "contentRating": "safe",
+   "score": 0.2514592,
+   "languages": [
+    "en",
+    "uk",
+    "pt-br",
+    "ca"
+   ]
+  },
+  {
+   "id": "aee77a35-4847-45d7-94db-d4eb23206160",
+   "title": {
+    "en": "Plum Blossom Shade"
+   },
+   "contentRating": "safe",
+   "score": 0.24994056,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "11286799-7832-4aae-a0db-e5be67a63027",
+   "title": {
+    "en": "It's Been Awhile, Shall We?"
+   },
+   "contentRating": "safe",
+   "score": 0.24771874,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:50:19+00:00"
+ "updatedAt": "2024-11-25T21:33:14+00:00"
 }

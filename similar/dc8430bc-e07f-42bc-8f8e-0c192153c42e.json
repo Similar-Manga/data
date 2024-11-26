@@ -11,23 +11,9 @@
     "en": "Zelda II: The Adventure of Link (Ran Maru)"
    },
    "contentRating": "safe",
-   "score": 0.6546019,
+   "score": 0.6519439,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7e922707-49e8-4277-8fe1-36cbc6759f38",
-   "title": {
-    "en": "The Legend of Zelda - Ocarina of Time 3D"
-   },
-   "contentRating": "safe",
-   "score": 0.47672608,
-   "languages": [
-    "es-la",
-    "de",
-    "en",
-    "fr"
    ]
   },
   {
@@ -36,7 +22,7 @@
     "en": "The Legend of Zelda - Skyward Sword"
    },
    "contentRating": "safe",
-   "score": 0.47665378,
+   "score": 0.4751065,
    "languages": [
     "en",
     "ca",
@@ -45,12 +31,26 @@
    ]
   },
   {
+   "id": "7e922707-49e8-4277-8fe1-36cbc6759f38",
+   "title": {
+    "en": "The Legend of Zelda - Ocarina of Time 3D"
+   },
+   "contentRating": "safe",
+   "score": 0.47503242,
+   "languages": [
+    "es-la",
+    "de",
+    "en",
+    "fr"
+   ]
+  },
+  {
    "id": "08c22d04-336b-47fe-b22c-451d1a58c176",
    "title": {
     "en": "Zelda II: The Adventure of Link (SHIGOTO Daisuke)"
    },
    "contentRating": "safe",
-   "score": 0.43647137,
+   "score": 0.43462005,
    "languages": [
     "en"
    ]
@@ -61,7 +61,7 @@
     "en": "The Legend of Zelda (Ran Maru)"
    },
    "contentRating": "safe",
-   "score": 0.4130961,
+   "score": 0.41122472,
    "languages": [
     "ru",
     "en"
@@ -73,7 +73,7 @@
     "en": "The Legend of Zelda Gaiden: Quark and the Fairy Queen"
    },
    "contentRating": "safe",
-   "score": 0.3517588,
+   "score": 0.3505691,
    "languages": [
     "en"
    ]
@@ -84,22 +84,22 @@
     "en": "Sword Art Online - Material Edition: Remix"
    },
    "contentRating": "safe",
-   "score": 0.29869494,
+   "score": 0.2987816,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "32ee048e-c84a-4478-bfbb-af134ee99200",
+   "id": "7e6782d0-d693-4af1-b3f6-7550ddb5b5a1",
    "title": {
-    "en": "Isekai Nation Archimaira: The Weakest King and his Unparalleled Army"
+    "en": "Tensai Saijaku Mamonotsukai ha Kikan Shitai ~Saikyou no Juusha to Hikihanasarete Mishiranu Chi ni Tobasaremashita.~"
    },
    "contentRating": "safe",
-   "score": 0.2719619,
+   "score": 0.2808444,
    "languages": [
+    "id",
     "en",
-    "fr",
-    "id"
+    "pt-br"
    ]
   },
   {
@@ -108,7 +108,7 @@
     "en": "Dragon Quest: The Great Adventure of Dai - Avan the Brave and the Demon King of Hellfire"
    },
    "contentRating": "safe",
-   "score": 0.27194616,
+   "score": 0.27171424,
    "languages": [
     "en",
     "ar",
@@ -118,25 +118,12 @@
    ]
   },
   {
-   "id": "7e6782d0-d693-4af1-b3f6-7550ddb5b5a1",
-   "title": {
-    "en": "Tensai Saijaku Mamonotsukai ha Kikan Shitai ~Saikyou no Juusha to Hikihanasarete Mishiranu Chi ni Tobasaremashita.~"
-   },
-   "contentRating": "safe",
-   "score": 0.27090457,
-   "languages": [
-    "id",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "6278734c-ecfe-4b1f-b94d-152b230789f6",
    "title": {
     "en": "I, Who Was Banished, Am the Strongest Adventurer With the Off-The-Beaten-Path Gift of “Translator”! ~ Rising to the Top Making the Best Use of My Ability to Communicate With Demons!"
    },
    "contentRating": "safe",
-   "score": 0.26592058,
+   "score": 0.26564232,
    "languages": [
     "en"
    ]
@@ -147,7 +134,7 @@
     "en": "When I Tried Strengthening a Rusty Sword, It Turned into an OP Magic Sword"
    },
    "contentRating": "safe",
-   "score": 0.26519275,
+   "score": 0.26512074,
    "languages": [
     "es-la",
     "en"
@@ -168,6 +155,19 @@
     "vi",
     "fr",
     "ru"
+   ]
+  },
+  {
+   "id": "32ee048e-c84a-4478-bfbb-af134ee99200",
+   "title": {
+    "en": "Isekai Nation Archimaira: The Weakest King and his Unparalleled Army"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "en",
+    "fr",
+    "id"
    ]
   },
   {
@@ -197,16 +197,17 @@
    ]
   },
   {
-   "id": "56ca0b1b-fcb9-4a30-b91d-fe1af4476a07",
+   "id": "be182c2c-0c0a-489f-9d55-d4b775fce368",
    "title": {
-    "en": "Dragalia Lost"
+    "en": "Moto Saikyou Kouryakusha, Nozomanu Dungeon Haishin de Musou shite Shimasu"
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
-    "en"
+    "en",
+    "id"
    ]
   }
  ],
- "updatedAt": "2024-11-23T21:16:04+00:00"
+ "updatedAt": "2024-11-25T22:05:20+00:00"
 }

@@ -3,14 +3,19 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Jikkenjima"
+   "en": "Experimental Island"
   },
   "altTitles": [
    {
     "ja": "実験島"
+   },
+   {
+    "ja-ro": "Jikkenjima"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Well then... everyone take this. We are gathered on an isolated island for a pharmaceutical company training session. A mysterious drug is distributed, and our classmates change... I was caught up in a deadly experiment and died once... or so I thought. Escape from the isolated island in the middle of the ocean!! The drug panic x suspense story begins!!"
+  },
   "links": {
    "al": "132867",
    "bw": "series/280833/list",
@@ -87,9 +92,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2024-10-02T14:09:31+00:00",
-  "updatedAt": "2024-10-02T14:15:08+00:00"
+  "updatedAt": "2024-11-23T19:17:23+00:00"
  },
  "relationships": [
   {

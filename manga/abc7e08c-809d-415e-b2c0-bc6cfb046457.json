@@ -21,18 +21,6 @@
   "latestUploadedChapter": "34b3cdd3-2443-43a2-bfc0-5cc5b5c163fb",
   "tags": [
    {
-    "id": "320831a8-4026-470b-94f6-8353740e6f04",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Official Colored"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
     "type": "tag",
     "attributes": {
@@ -103,12 +91,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-05-05T09:09:55+00:00",
-  "updatedAt": "2024-05-06T09:33:44+00:00"
+  "updatedAt": "2024-11-23T18:33:30+00:00"
  },
  "relationships": [
   {

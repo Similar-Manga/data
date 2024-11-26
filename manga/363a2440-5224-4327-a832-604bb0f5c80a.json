@@ -3,14 +3,11 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Mobile Suit Gundam - Record of MS Wars Short Stories Collection"
+   "en": "Mobile Suit Gundam: Record of Mobile Suit Wars"
   },
   "altTitles": [
    {
     "ja-ro": "Kidou Senshi Gundam - MS Senki 1984"
-   },
-   {
-    "en": "Mobile Suit Gundam - Record of Mobile Suit War Short Stories Collection"
    },
    {
     "en": "Mobile Suit Gundam - Record of Mobile Suit Wars"
@@ -34,7 +31,7 @@
     "ja": "MS戦記 機動戦士ガンダム0079外伝"
    },
    {
-    "en": "Record of Mobile Suit War: Mobile Suit Gundam 0079 Another Story"
+    "en": "Record of Mobile Suit War: Mobile Suit Gundam 0079 Sidestory"
    },
    {
     "ja": "新MS戦記 機動戦士ガンダム短編集"
@@ -62,6 +59,10 @@
   "status": "completed",
   "year": 1984,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "f448f077-d983-4913-b478-ef21e9112f5f",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -197,9 +198,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2019-10-11T21:04:38+00:00",
-  "updatedAt": "2024-07-02T07:58:53+00:00"
+  "updatedAt": "2024-11-23T18:02:02+00:00"
  },
  "relationships": [
   {

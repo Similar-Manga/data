@@ -1,0 +1,133 @@
+{
+ "id": "805d584a-0788-4761-8d3a-c848b4bfe211",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sabaku no Kuni no Amefurashi Hime ~Zense de Shokei Sareta Mahoutsukai wa Nouka no Musume ni Narimashita~"
+  },
+  "altTitles": [
+   {
+    "ja": "砂漠の国の雨降らし姫～前世で処刑された魔法使いは農家の娘になりました～"
+   }
+  ],
+  "description": {
+   "ja": "砂漠の国の農家の娘・アレシアが眠ると雨が降る。水が貴重なこの国でその力を知られることを恐れた両親はアレシアを隠すように暮らしていた。ある日アレシアは謎の少年と出会い、自らが降らせる雨に隠された力を知った…！"
+  },
+  "links": {
+   "al": "173866",
+   "amz": "https://www.amazon.co.jp/dp/B0D8J6Q7V8",
+   "ap": "sabaku-no-kuni-no-ame-furashi-hime-zensei-de-shokeisareta-mahoutsukai-wa-nouka-no-musume-ni-narimashita",
+   "bw": "series/469305",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/833472",
+   "mu": "zfenb93"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-24T22:03:48+00:00",
+  "updatedAt": "2024-11-24T22:04:23+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c6c60023-a849-4564-8321-170b9ab991ea",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Native name: 守雨\n\nAssociated names: \nMoriu"
+    },
+    "booth": null,
+    "createdAt": "2023-01-04T19:33:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shuu (守雨)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/shuu_narou",
+    "updatedAt": "2023-04-14T08:13:57+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2e62ce5f-d215-4f8f-82e5-3c7f2c89b229",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-24T22:02:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ume Toshima",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-24T22:02:10+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "38ac3777-174e-4926-9bac-3a4e16d43638",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-24T22:03:53+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "c4b86a09-81e8-475c-862d-38d914db5fcb.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-24T22:03:53+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

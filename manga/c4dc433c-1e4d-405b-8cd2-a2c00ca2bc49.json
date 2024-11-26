@@ -1,0 +1,125 @@
+{
+ "id": "c4dc433c-1e4d-405b-8cd2-a2c00ca2bc49",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Firefighter"
+  },
+  "altTitles": [
+   {
+    "ko": "소방관"
+   }
+  ],
+  "description": {
+   "en": "Ordinary college student Chul-woong, who was pondering what to do with his life, was led to become a firefighter after a fateful incident where he saved someone's life. However, in the early 2000s in South Korea, the treatment of firefighters was very different from Chul-woong's expectations. As a rookie firefighter, Chul-woong gives it his all, but one day he encounters an incident that will become a turning point in the history of firefighting in South Korea..."
+  },
+  "links": {
+   "mu": "p67vl9m"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-23T16:52:18+00:00",
+  "updatedAt": "2024-11-23T22:58:41+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3ec8e442-b2d8-4f24-8530-7f5eb0ee9369",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-20T22:41:02+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "WAN.Z",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-10-20T22:41:02+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "021fe38a-3557-46cb-b68b-45957ebfd43d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-23T16:51:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Moon Dong Ju",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-23T16:51:34+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "51fd6302-ef35-4d1c-98db-b7e5e0c3da4d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-23T16:52:20+00:00",
+    "description": "",
+    "fileName": "35648a1b-2472-48d1-9a14-675ce05a2e68.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-23T16:52:20+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9cdba5af-b71d-49b6-b627-0faa5aeb84cf",
+   "type": "creator"
+  }
+ ]
+}

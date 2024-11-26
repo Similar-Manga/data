@@ -11,7 +11,7 @@
     "en": "Skin"
    },
    "contentRating": "safe",
-   "score": 0.24581356,
+   "score": 0.24581368,
    "languages": [
     "en",
     "es-la"
@@ -23,7 +23,7 @@
     "en": "Warui Ko no Tame no Wasuremono Techou"
    },
    "contentRating": "safe",
-   "score": 0.23980433,
+   "score": 0.23982489,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Café Café"
    },
    "contentRating": "safe",
-   "score": 0.2382405,
+   "score": 0.23825575,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Okama Waltz"
    },
    "contentRating": "safe",
-   "score": 0.23637329,
+   "score": 0.23637532,
    "languages": [
     "en"
    ]
@@ -56,7 +56,7 @@
     "en": "Kuroneko Kouhiiten"
    },
    "contentRating": "safe",
-   "score": 0.23566048,
+   "score": 0.23566972,
    "languages": [
     "en"
    ]
@@ -67,7 +67,7 @@
     "en": "Darling no Oresama"
    },
    "contentRating": "safe",
-   "score": 0.23565054,
+   "score": 0.23565277,
    "languages": [
     "en"
    ]
@@ -78,7 +78,7 @@
     "en": "Ore to Atashi to Shinsekai"
    },
    "contentRating": "safe",
-   "score": 0.23150338,
+   "score": 0.23150404,
    "languages": [
     "en"
    ]
@@ -89,7 +89,7 @@
     "en": "Trouble G"
    },
    "contentRating": "safe",
-   "score": 0.231296,
+   "score": 0.23129487,
    "languages": [
     "en"
    ]
@@ -100,13 +100,14 @@
     "en": "Hope You're Happy, Lemon"
    },
    "contentRating": "safe",
-   "score": 0.22708583,
+   "score": 0.22709079,
    "languages": [
     "es-la",
     "pt-br",
     "vi",
     "pl",
     "en",
+    "id",
     "ar"
    ]
   },
@@ -114,29 +115,6 @@
    "id": "1d85f186-23ff-49a0-8dca-122d8cc83ca5",
    "title": {
     "en": "Secret Flight"
-   },
-   "contentRating": "safe",
-   "score": 0.22072552,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c5362cff-8446-44a7-bb7d-9db616bf3d10",
-   "title": {
-    "en": "1tou 7okuen ga atatta ore no 3kakan"
-   },
-   "contentRating": "safe",
-   "score": 0.22072552,
-   "languages": [
-    "ru",
-    "id"
-   ]
-  },
-  {
-   "id": "3809e8de-d432-4e1c-81e3-e06f47082c9a",
-   "title": {
-    "en": "Unmei no Hana"
    },
    "contentRating": "safe",
    "score": 0.22072552,
@@ -157,6 +135,17 @@
    ]
   },
   {
+   "id": "3809e8de-d432-4e1c-81e3-e06f47082c9a",
+   "title": {
+    "en": "Unmei no Hana"
+   },
+   "contentRating": "safe",
+   "score": 0.22072552,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "bd74265a-5968-40b7-a3f6-b30b8bec6b70",
    "title": {
     "en": "Sex Pistols"
@@ -169,14 +158,15 @@
    ]
   },
   {
-   "id": "d739053c-b9c1-4130-8c40-f09d809a0a09",
+   "id": "c5362cff-8446-44a7-bb7d-9db616bf3d10",
    "title": {
-    "en": "Star Right"
+    "en": "1tou 7okuen ga atatta ore no 3kakan"
    },
    "contentRating": "safe",
    "score": 0.22072552,
    "languages": [
-    "en"
+    "ru",
+    "id"
    ]
   },
   {
@@ -189,7 +179,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "d739053c-b9c1-4130-8c40-f09d809a0a09",
+   "title": {
+    "en": "Star Right"
+   },
+   "contentRating": "safe",
+   "score": 0.22072552,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-23T21:27:39+00:00"
+ "updatedAt": "2024-11-25T22:20:29+00:00"
 }

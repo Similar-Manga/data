@@ -13,7 +13,9 @@
     "ja": "マヌケ式"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Kunio Nagatani, longtime sufferer under the tyrannical rule of Fujio Productions, presents a collection of catastrophic comics seeking to undermine the conventional ways of modern manga! Heavily influenced by the comic parodies in Mad Magazine, watch as famous characters you might know are ripped to shreds!\n\nThe reviews are in! Manga dictator and founder of Fujio Productions, Fujio Akatsuka, writes:\n\"This book's a piece of crap. Considering Fujio Pro published this, I'm just amazed at the Japanese comics industry.\"\nAkebono Publishing (the freaks who put this out) writes:\n\"The Asahi Journal has finally ignored a collection containing both the worst and most prolific works of the century. You simply must buy it!\""
+  },
   "links": {
    "mu": "ybompcc"
   },
@@ -35,12 +37,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2023-06-02T00:59:32+00:00",
-  "updatedAt": "2023-06-02T00:59:57+00:00"
+  "updatedAt": "2024-11-25T06:23:58+00:00"
  },
  "relationships": [
   {

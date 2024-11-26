@@ -19,6 +19,7 @@
    "amz": "https://www.amazon.co.jp/dp/B0DMTK1VFQ",
    "ap": "yumene-connect",
    "bw": "series/497751",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-3028699",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/862268",
    "kt": "72967",
    "mal": "173807",
@@ -33,7 +34,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "1af62ee2-48b2-4c08-b856-7654d05c5aa0",
+  "latestUploadedChapter": "62cdde8e-0437-4816-ab4f-622a996d8113",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -72,6 +73,18 @@
     }
    },
    {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
     "type": "tag",
     "attributes": {
@@ -97,9 +110,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2024-09-11T16:04:23+00:00",
-  "updatedAt": "2024-11-17T23:41:55+00:00"
+  "updatedAt": "2024-11-24T17:54:45+00:00"
  },
  "relationships": [
   {

@@ -1,0 +1,146 @@
+{
+ "id": "f6760e10-9f7e-4115-b490-7c2759ecb82d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Zenin Bishoujo no Yamikin..."
+  },
+  "altTitles": [
+   {
+    "ja": "全員美少女の闇金…"
+   },
+   {
+    "en": "An All-Girls Loan Shark Business"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/medatarou1/status/1860955518237601796"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "d063f5db-1893-4ab6-bbed-c4cac858ae91",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-25T12:40:56+00:00",
+  "updatedAt": "2024-11-25T12:44:27+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d6889168-af7d-4064-863b-28ca0cac7bbc",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nめだ太郎"
+    },
+    "booth": null,
+    "createdAt": "2023-09-26T15:15:52+00:00",
+    "fanBox": "https://medakamedaka.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Medatarou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/medatarou1",
+    "updatedAt": "2024-11-01T21:07:10+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d6889168-af7d-4064-863b-28ca0cac7bbc",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nめだ太郎"
+    },
+    "booth": null,
+    "createdAt": "2023-09-26T15:15:52+00:00",
+    "fanBox": "https://medakamedaka.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Medatarou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/medatarou1",
+    "updatedAt": "2024-11-01T21:07:10+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fa1209f5-bac9-45a8-a5df-f81a1c1bb2f2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-25T12:41:46+00:00",
+    "description": "",
+    "fileName": "803665ba-abc6-49e9-bbc8-da533af66ef9.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-25T12:41:46+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "f97a9a67-01cc-48d0-a542-59ea341174c0",
+   "type": "creator"
+  }
+ ]
+}

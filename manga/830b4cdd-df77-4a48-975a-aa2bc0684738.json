@@ -43,7 +43,7 @@
    "es-la",
    "es"
   ],
-  "latestUploadedChapter": "1e128f87-2af7-42d7-8d5d-1163edc281c7",
+  "latestUploadedChapter": "08170641-0d65-4f36-8bfb-4e7c0112ee92",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -54,6 +54,30 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -94,6 +118,18 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -119,9 +155,9 @@
    }
   ],
   "state": "published",
-  "version": 23,
+  "version": 24,
   "createdAt": "2021-03-19T16:20:21+00:00",
-  "updatedAt": "2024-10-29T18:52:49+00:00"
+  "updatedAt": "2024-11-25T05:03:52+00:00"
  },
  "relationships": [
   {

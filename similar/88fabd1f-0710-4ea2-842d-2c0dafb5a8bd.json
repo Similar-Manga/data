@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "baa8d099-126c-4cfe-981d-ef39a60fcd9d",
+   "title": {
+    "en": "Love Hunter Akazukin"
+   },
+   "contentRating": "safe",
+   "score": 0.3450231,
+   "languages": [
+    "fr",
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "76f1313c-d847-4555-833a-7ca9f8e7aaa8",
    "title": {
     "en": "Snow White '94"
    },
    "contentRating": "safe",
-   "score": 0.29742005,
+   "score": 0.29741699,
    "languages": [
     "pl",
     "en"
@@ -23,7 +36,7 @@
     "en": "Princess Prince"
    },
    "contentRating": "safe",
-   "score": 0.29704118,
+   "score": 0.2970322,
    "languages": [
     "en"
    ]
@@ -34,7 +47,7 @@
     "en": "ShiraYuki PaniMix!"
    },
    "contentRating": "safe",
-   "score": 0.29277766,
+   "score": 0.29277572,
    "languages": [
     "en"
    ]
@@ -45,65 +58,7 @@
     "en": "The Tale left by that Magician"
    },
    "contentRating": "safe",
-   "score": 0.2904118,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a1bd0965-7ea2-40e0-b686-5dcddacdd0c6",
-   "title": {
-    "en": "Mermaid Boys"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "69337aff-1505-4457-810e-7f085a2a4adc",
-   "title": {
-    "en": "Black Feather Love Song"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b4aa185d-cc69-4c93-a25b-b1be78f5ac7b",
-   "title": {
-    "en": "Hatsukoi Succubus"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "d26d7e10-1d15-45ea-a5fe-75efb35f43a9",
-   "title": {
-    "en": "13th Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "08b44350-9bac-4f66-8add-992e97501557",
-   "title": {
-    "en": "Hikikomori Hime to Dokuzetsu Kishi-sama"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.29039833,
    "languages": [
     "en"
    ]
@@ -112,28 +67,6 @@
    "id": "2ec72fa0-c174-4e12-af15-ffa53c84e6be",
    "title": {
     "en": "Hua Dian"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7ed819b7-85bd-4262-bab5-107b6e54714a",
-   "title": {
-    "en": "Hades-sama no Mujihi na Konin"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "551897e5-ab53-425c-8328-43534a21468e",
-   "title": {
-    "en": "Ikenai Navigation"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -153,6 +86,75 @@
    ]
   },
   {
+   "id": "7ed819b7-85bd-4262-bab5-107b6e54714a",
+   "title": {
+    "en": "Hades-sama no Mujihi na Konin"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a1bd0965-7ea2-40e0-b686-5dcddacdd0c6",
+   "title": {
+    "en": "Mermaid Boys"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "b4aa185d-cc69-4c93-a25b-b1be78f5ac7b",
+   "title": {
+    "en": "Hatsukoi Succubus"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "69337aff-1505-4457-810e-7f085a2a4adc",
+   "title": {
+    "en": "Black Feather Love Song"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "08b44350-9bac-4f66-8add-992e97501557",
+   "title": {
+    "en": "Hikikomori Hime to Dokuzetsu Kishi-sama"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "551897e5-ab53-425c-8328-43534a21468e",
+   "title": {
+    "en": "Ikenai Navigation"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5b24eb47-2257-40f0-93f6-e59b61213497",
    "title": {
     "en": "Magic Pico Girl"
@@ -164,16 +166,14 @@
    ]
   },
   {
-   "id": "baa8d099-126c-4cfe-981d-ef39a60fcd9d",
+   "id": "d26d7e10-1d15-45ea-a5fe-75efb35f43a9",
    "title": {
-    "en": "Love Hunter Akazukin"
+    "en": "13th Boy"
    },
    "contentRating": "safe",
-   "score": 0.2753175,
+   "score": 0.2857143,
    "languages": [
-    "fr",
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
@@ -182,11 +182,11 @@
     "en": "Osananajimi ga Kaeru ni Natteyattekita"
    },
    "contentRating": "safe",
-   "score": 0.27234268,
+   "score": 0.272345,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:47:27+00:00"
+ "updatedAt": "2024-11-25T21:29:32+00:00"
 }

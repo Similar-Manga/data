@@ -6,12 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "d4f6a849-0503-4d39-8f7a-e5ca84e7235e",
+   "title": {
+    "en": "Yankee Kanojo no Jakuten"
+   },
+   "contentRating": "safe",
+   "score": 0.24272825,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "25886ab0-17f1-4801-b929-6b36fe4e5214",
    "title": {
     "en": "Minami-ke"
    },
    "contentRating": "safe",
-   "score": 0.21977234,
+   "score": 0.21978332,
    "languages": [
     "fr",
     "pt-br",
@@ -25,15 +37,16 @@
    ]
   },
   {
-   "id": "d4f6a849-0503-4d39-8f7a-e5ca84e7235e",
+   "id": "81a56f27-14dd-485e-b56f-ef950f504653",
    "title": {
-    "en": "Yankee Kanojo no Jakuten"
+    "en": "Rewrite: SIDE-B"
    },
    "contentRating": "safe",
-   "score": 0.20319743,
+   "score": 0.19632898,
    "languages": [
-    "pt-br",
-    "en"
+    "en",
+    "vi",
+    "es-la"
    ]
   },
   {
@@ -42,7 +55,7 @@
     "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
-   "score": 0.19251227,
+   "score": 0.1925195,
    "languages": [
     "es-la",
     "vi",
@@ -58,7 +71,7 @@
     "en": "Iris Zero"
    },
    "contentRating": "safe",
-   "score": 0.19023459,
+   "score": 0.19023596,
    "languages": [
     "pl",
     "vi",
@@ -73,7 +86,7 @@
     "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
    },
    "contentRating": "safe",
-   "score": 0.1836371,
+   "score": 0.18364364,
    "languages": [
     "th",
     "ru",
@@ -83,6 +96,30 @@
     "es-la",
     "de",
     "pl"
+   ]
+  },
+  {
+   "id": "bf791b79-9965-4b79-863e-2a02f01af252",
+   "title": {
+    "en": "Rewrite: SIDE-R"
+   },
+   "contentRating": "safe",
+   "score": 0.18077335,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "4aa60a5f-5f76-45f9-8c11-aa089d98e92d",
+   "title": {
+    "en": "Matagi Gunner"
+   },
+   "contentRating": "safe",
+   "score": 0.17810929,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -103,18 +140,6 @@
    ]
   },
   {
-   "id": "4aa60a5f-5f76-45f9-8c11-aa089d98e92d",
-   "title": {
-    "en": "Matagi Gunner"
-   },
-   "contentRating": "safe",
-   "score": 0.17810929,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "41e0a561-e9c6-4c1a-8552-e399b5eba20c",
    "title": {
     "en": "Lever Gacha Archive"
@@ -132,7 +157,7 @@
     "en": "Hitomi-chan Is Shy With Strangers"
    },
    "contentRating": "safe",
-   "score": 0.17757677,
+   "score": 0.17758031,
    "languages": [
     "en",
     "pt-br",
@@ -151,7 +176,7 @@
     "en": "Kippo"
    },
    "contentRating": "safe",
-   "score": 0.17606246,
+   "score": 0.17606005,
    "languages": [
     "en"
    ]
@@ -162,7 +187,7 @@
     "en": "Otome Kaijuu Caramelize"
    },
    "contentRating": "safe",
-   "score": 0.17600006,
+   "score": 0.1760039,
    "languages": [
     "ru",
     "pt-br",
@@ -178,22 +203,9 @@
     "en": "Can I take your photo?"
    },
    "contentRating": "safe",
-   "score": 0.17566206,
+   "score": 0.17566325,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "81a56f27-14dd-485e-b56f-ef950f504653",
-   "title": {
-    "en": "Rewrite: SIDE-B"
-   },
-   "contentRating": "safe",
-   "score": 0.17396797,
-   "languages": [
-    "en",
-    "vi",
-    "es-la"
    ]
   },
   {
@@ -202,7 +214,7 @@
     "en": "Bungo Stray Dogs Wan!"
    },
    "contentRating": "safe",
-   "score": 0.17324351,
+   "score": 0.17323808,
    "languages": [
     "ru",
     "pt-br",
@@ -214,28 +226,16 @@
    ]
   },
   {
-   "id": "264b9c57-373b-48a6-9fc3-7f4e386ea8ca",
-   "title": {
-    "en": "Cross the Mountains, Yama wo Wataru: Santamadai Gakuburoku"
-   },
-   "contentRating": "safe",
-   "score": 0.17294939,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
-  },
-  {
    "id": "8ff245e6-df38-41ac-86db-886126c1910d",
    "title": {
     "en": "Tenshi-chan to Akuma-kun"
    },
    "contentRating": "safe",
-   "score": 0.17268708,
+   "score": 0.17268655,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-23T21:26:31+00:00"
+ "updatedAt": "2024-11-25T22:19:01+00:00"
 }

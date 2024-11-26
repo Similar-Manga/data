@@ -7,12 +7,16 @@
   },
   "description": {},
   "links": {
-   "raw": "https://x.com/NeitheYAGI/status/1856322077244154361"
+   "engtl": "https://twitter.com/NeitheYAGI/status/1856322077244154361"
   },
   "originalLanguage": "en",
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "57c8fa25-23e5-4964-96d3-bee6b160c28b",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -20,6 +24,42 @@
     "attributes": {
      "name": {
       "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
      },
      "description": {},
      "group": "genre",
@@ -49,77 +89,93 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2024-11-23T07:45:06+00:00",
-  "updatedAt": "2024-11-23T07:45:25+00:00"
+  "updatedAt": "2024-11-24T20:54:57+00:00"
  },
  "relationships": [
   {
    "id": "3bdcf6eb-90c7-463d-9075-59a60f804e09",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Links:**\n- [Patreon](https://www.patreon.com/YAGIarts)\n- [Webtoons](https://www.webtoons.com/p/community/u/s9plb)\n- [MANGAPlus Creators](https://medibang.com/mpc/authors/10451853/)"
+    },
     "booth": null,
     "createdAt": "2023-02-13T17:09:37+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Neitheyagi",
+    "name": "NeitheYAGI",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-02-13T17:09:37+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/NeitheYAGI",
+    "updatedAt": "2024-11-23T16:08:45+00:00",
+    "version": 7,
+    "website": "https://linktr.ee/NeitheYAGI",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@NeitheYAGI"
    }
   },
   {
    "id": "3bdcf6eb-90c7-463d-9075-59a60f804e09",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Links:**\n- [Patreon](https://www.patreon.com/YAGIarts)\n- [Webtoons](https://www.webtoons.com/p/community/u/s9plb)\n- [MANGAPlus Creators](https://medibang.com/mpc/authors/10451853/)"
+    },
     "booth": null,
     "createdAt": "2023-02-13T17:09:37+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Neitheyagi",
+    "name": "NeitheYAGI",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-02-13T17:09:37+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/NeitheYAGI",
+    "updatedAt": "2024-11-23T16:08:45+00:00",
+    "version": 7,
+    "website": "https://linktr.ee/NeitheYAGI",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@NeitheYAGI"
    }
   },
   {
-   "id": "9eadb2dc-c119-4d6e-8e7a-87742dd4a2d5",
+   "id": "d3c32bb3-8740-4d55-b313-2f8a7145b205",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-23T07:45:14+00:00",
-    "description": "",
-    "fileName": "c509a481-0294-4d31-b5c4-54f36558387a.png",
+    "createdAt": "2024-11-23T16:42:32+00:00",
+    "description": "https://twitter.com/NeitheYAGI/status/1858867110036074657",
+    "fileName": "7cf61537-ff8a-4aef-a06a-c43449a7393c.jpg",
     "locale": "en",
-    "updatedAt": "2024-11-23T07:45:14+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-23T16:46:46+00:00",
+    "version": 2,
+    "volume": "0"
    }
   },
   {

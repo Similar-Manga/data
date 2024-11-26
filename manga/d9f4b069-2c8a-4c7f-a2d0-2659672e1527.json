@@ -13,7 +13,9 @@
     "ja": "弾 アモウ"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "The overall plot seems to involve a war between Chinese and Japanese gangs. A police-themed action comic whose titular character is Ammo the policewoman, who seems to be tracking down a serial killer preying on prostitutes."
+  },
   "links": {
    "kt": "13960",
    "mal": "22760",
@@ -22,13 +24,10 @@
   "originalLanguage": "ja",
   "lastVolume": "5",
   "lastChapter": "51",
+  "publicationDemographic": "seinen",
   "status": "completed",
   "year": 1999,
-  "contentRating": "pornographic",
-  "availableTranslatedLanguages": [
-   "en"
-  ],
-  "latestUploadedChapter": "3ccc9c29-be16-4490-b82a-af23b6290e7c",
+  "contentRating": "erotica",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -48,6 +47,18 @@
     "attributes": {
      "name": {
       "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
      },
      "description": {},
      "group": "content",
@@ -80,9 +91,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 8,
   "createdAt": "2020-03-13T14:06:29+00:00",
-  "updatedAt": "2023-11-20T22:22:06+00:00"
+  "updatedAt": "2024-11-23T08:41:14+00:00"
  },
  "relationships": [
   {

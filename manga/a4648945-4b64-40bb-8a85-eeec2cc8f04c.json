@@ -1,0 +1,139 @@
+{
+ "id": "a4648945-4b64-40bb-8a85-eeec2cc8f04c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Osorochi"
+  },
+  "altTitles": [
+   {
+    "ja": "おそろち"
+   }
+  ],
+  "description": {
+   "en": "This story was first published in August 1969 issue of COM. It’s the fifth story in the Nagatani Kunio’s parody theater series, which was later compiled in Bakashiki-Nagatani Kunio’s Collection of Plagiarized Works (バカ式: 長谷邦夫盗作全集, Akebono, 1970).  \nThe title, “Osorochi” (おそろち), is a play on the words “orochi” (おろち), another work by Umezu, and “osoroshii” (恐ろしい), which means “dreadful, scary.” The pun is kept throughout the story every time the word “dreadful” is used. \nUmezu Kazuo’s name is also written with different kanji. While his name is spelled “楳図かずお”, here, Nagatani \u0026 Fujio Pro use 梅図まずお (Umezu Mazuo) as their penname. The joke is that the kanji for “plum” (梅), which also reads as “ka” is used in his family name, and his given name was turned into “mazuo,” which is a pun on “mazui” (まずい), i.e. something that sucks."
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1969,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "cc4fc4fa-6a4b-4b35-8e83-f19e656fe355",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-25T01:32:58+00:00",
+  "updatedAt": "2024-11-25T01:39:47+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b8e7d3a9-2259-4c2f-b191-c5b7273bd69c",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-06-01T23:49:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nagatani Kunio",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-06-01T23:49:36+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b8e7d3a9-2259-4c2f-b191-c5b7273bd69c",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-06-01T23:49:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nagatani Kunio",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-06-01T23:49:36+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "67594909-baea-4a8b-baa8-f50f76392c41",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-25T01:33:33+00:00",
+    "description": "",
+    "fileName": "46a5effe-513d-4493-9e68-708f9b4f7beb.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-25T01:33:33+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a1910da8-a67e-4ba3-a426-b9e4cdda7636",
+   "type": "creator"
+  }
+ ]
+}

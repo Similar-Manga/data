@@ -6,31 +6,15 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "60edb6b8-935e-4b59-8904-569737b1f419",
-   "title": {
-    "en": "Kimi no Koe ga Suki Sugiru"
-   },
-   "contentRating": "safe",
-   "score": 0.36604226
-  },
-  {
    "id": "0d7101ea-dff4-4c45-82b1-46713e61bff7",
    "title": {
     "en": "Yes! High Step Jun! (Nakayoshi DX)"
    },
    "contentRating": "safe",
-   "score": 0.36036658,
+   "score": 0.36037606,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "db2443ec-fb7d-4634-adc2-c827edbaa572",
-   "title": {
-    "en": "Sakurai-kun, Kawaii no wa Ishou desu ka? Watashi desu ka?"
-   },
-   "contentRating": "safe",
-   "score": 0.35724738
   },
   {
    "id": "34336f60-f2f9-437e-bdf7-74b5d10ab9c8",
@@ -38,10 +22,26 @@
     "en": "Tenkousei ga Oshi Seiyuu Datta Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.3539086,
+   "score": 0.35390565,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "60edb6b8-935e-4b59-8904-569737b1f419",
+   "title": {
+    "en": "Kimi no Koe ga Suki Sugiru"
+   },
+   "contentRating": "safe",
+   "score": 0.35310718
+  },
+  {
+   "id": "db2443ec-fb7d-4634-adc2-c827edbaa572",
+   "title": {
+    "en": "Sakurai-kun, Kawaii no wa Ishou desu ka? Watashi desu ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.34972477
   },
   {
    "id": "b27fd843-76e9-4066-967c-e07c9400735c",
@@ -49,21 +49,9 @@
     "en": "Sakura, the Marriage Hunting Zombie"
    },
    "contentRating": "safe",
-   "score": 0.3433227,
+   "score": 0.34332854,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "1b251366-25d2-4516-86e0-677285d2b679",
-   "title": {
-    "en": "Moonlight Library"
-   },
-   "contentRating": "safe",
-   "score": 0.3422807,
-   "languages": [
-    "ru",
-    "es"
    ]
   },
   {
@@ -72,7 +60,19 @@
     "en": "Uchi de wa Kaemasen!"
    },
    "contentRating": "safe",
-   "score": 0.33913624
+   "score": 0.33914417
+  },
+  {
+   "id": "1b251366-25d2-4516-86e0-677285d2b679",
+   "title": {
+    "en": "Moonlight Library"
+   },
+   "contentRating": "safe",
+   "score": 0.3380669,
+   "languages": [
+    "ru",
+    "es"
+   ]
   },
   {
    "id": "a5eb010a-8441-4f4d-8e62-4c4559c37d66",
@@ -80,9 +80,22 @@
     "en": "Kimi to Boku no Junjou Renai Jijou"
    },
    "contentRating": "safe",
-   "score": 0.33634496,
+   "score": 0.33632872,
    "languages": [
     "pl"
+   ]
+  },
+  {
+   "id": "e678e1fa-e136-4d1d-867b-53022e5ac5ea",
+   "title": {
+    "en": "Aileen's on Fire!"
+   },
+   "contentRating": "safe",
+   "score": 0.33476302,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br"
    ]
   },
   {
@@ -91,7 +104,7 @@
     "en": "Be Obsessed With Me"
    },
    "contentRating": "safe",
-   "score": 0.3344404,
+   "score": 0.3344508,
    "languages": [
     "pt-br",
     "es-la",
@@ -106,18 +119,7 @@
     "en": "What Do You Need?"
    },
    "contentRating": "safe",
-   "score": 0.33394706,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "22ffa469-b138-4df3-bb46-085635bdd3e4",
-   "title": {
-    "en": "My Wife Could Be a Magical Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.3328713,
+   "score": 0.33396187,
    "languages": [
     "en"
    ]
@@ -128,20 +130,7 @@
     "en": "Amayakasanaide Maid-kun!"
    },
    "contentRating": "safe",
-   "score": 0.33278018
-  },
-  {
-   "id": "e678e1fa-e136-4d1d-867b-53022e5ac5ea",
-   "title": {
-    "en": "Aileen's on Fire!"
-   },
-   "contentRating": "safe",
-   "score": 0.3325149,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
-   ]
+   "score": 0.33278656
   },
   {
    "id": "df311dc4-d7d6-45d3-9837-b1865a776111",
@@ -149,7 +138,7 @@
     "en": "A Small World"
    },
    "contentRating": "safe",
-   "score": 0.33237925,
+   "score": 0.33238986,
    "languages": [
     "en"
    ]
@@ -160,7 +149,7 @@
     "en": "Hana wa Docchida"
    },
    "contentRating": "safe",
-   "score": 0.33180496,
+   "score": 0.33181733,
    "languages": [
     "en"
    ]
@@ -171,11 +160,22 @@
     "en": "Maou Voice"
    },
    "contentRating": "safe",
-   "score": 0.33177707,
+   "score": 0.33178556,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "13e214c3-965b-4e05-9f68-e53a62c9be62",
+   "title": {
+    "en": "Pujo to Yajuu"
+   },
+   "contentRating": "safe",
+   "score": 0.3317232,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:04:38+00:00"
+ "updatedAt": "2024-11-25T20:33:04+00:00"
 }

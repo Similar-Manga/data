@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "cda265af-a49e-4c71-84dc-d3d2be2e86b1",
-   "title": {
-    "en": "Higan no Orca"
-   },
-   "contentRating": "safe",
-   "score": 0.18144369,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "294397ff-58f6-46dd-b9ce-43f1dcf519bc",
    "title": {
     "en": "Ryoko's Case File"
@@ -27,6 +15,18 @@
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "cda265af-a49e-4c71-84dc-d3d2be2e86b1",
+   "title": {
+    "en": "Higan no Orca"
+   },
+   "contentRating": "safe",
+   "score": 0.18144369,
+   "languages": [
+    "en",
+    "ru"
    ]
   },
   {
@@ -67,7 +67,19 @@
     "en": "RDB"
    },
    "contentRating": "safe",
-   "score": 0.14804575,
+   "score": 0.14804462,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "4e4a8617-5713-4e0d-8fd7-130018ce44ef",
+   "title": {
+    "en": "Bungou Stray Dogs: Chopsticks and a Spoon"
+   },
+   "contentRating": "safe",
+   "score": 0.14054568,
    "languages": [
     "ru",
     "en"
@@ -90,15 +102,37 @@
    ]
   },
   {
-   "id": "4e4a8617-5713-4e0d-8fd7-130018ce44ef",
+   "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
    "title": {
-    "en": "Bungou Stray Dogs: Chopsticks and a Spoon"
+    "en": "Kara no Kyoukai: The Garden of Sinners"
    },
    "contentRating": "safe",
-   "score": 0.14054568,
+   "score": 0.13746436,
    "languages": [
     "ru",
-    "en"
+    "en",
+    "ar",
+    "fr",
+    "es-la",
+    "pl",
+    "es"
+   ]
+  },
+  {
+   "id": "afa94d82-4635-410d-b216-7fd76f07259c",
+   "title": {
+    "en": "Boys Be Zombitious"
+   },
+   "contentRating": "safe",
+   "score": 0.13746436,
+   "languages": [
+    "es-la",
+    "it",
+    "uk",
+    "ru",
+    "fr",
+    "en",
+    "pl"
    ]
   },
   {
@@ -135,40 +169,6 @@
    ]
   },
   {
-   "id": "afa94d82-4635-410d-b216-7fd76f07259c",
-   "title": {
-    "en": "Boys Be Zombitious"
-   },
-   "contentRating": "safe",
-   "score": 0.13746436,
-   "languages": [
-    "es-la",
-    "it",
-    "uk",
-    "ru",
-    "fr",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "6d4e768d-d68a-449f-8983-f7acbc160d9c",
-   "title": {
-    "en": "Kara no Kyoukai: The Garden of Sinners"
-   },
-   "contentRating": "safe",
-   "score": 0.13746436,
-   "languages": [
-    "ru",
-    "en",
-    "ar",
-    "fr",
-    "es-la",
-    "pl",
-    "es"
-   ]
-  },
-  {
    "id": "d416cb20-3ab4-4ee2-a3a4-ddf8b8f28fe9",
    "title": {
     "en": "Steel of the Celestial Shadows"
@@ -179,6 +179,19 @@
     "en",
     "fr",
     "ru"
+   ]
+  },
+  {
+   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
+   "title": {
+    "en": "Memento Memori"
+   },
+   "contentRating": "safe",
+   "score": 0.12726727,
+   "languages": [
+    "ru",
+    "tr",
+    "en"
    ]
   },
   {
@@ -197,26 +210,14 @@
    ]
   },
   {
-   "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
-   "title": {
-    "en": "Memento Memori"
-   },
-   "contentRating": "safe",
-   "score": 0.12726727,
-   "languages": [
-    "ru",
-    "tr",
-    "en"
-   ]
-  },
-  {
    "id": "34b47146-a72e-43d8-9ea5-935a5956f09f",
    "title": {
     "en": "OMORI"
    },
    "contentRating": "safe",
-   "score": 0.11230806,
+   "score": 0.11230622,
    "languages": [
+    "es-la",
     "tr",
     "uk",
     "it",
@@ -227,7 +228,6 @@
     "en",
     "id",
     "ru",
-    "es-la",
     "ar",
     "pl"
    ]
@@ -245,5 +245,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:37:27+00:00"
+ "updatedAt": "2024-11-25T21:15:45+00:00"
 }

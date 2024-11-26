@@ -7,17 +7,15 @@
   },
   "altTitles": [
    {
-    "ja-ro": "Tachitsute Toudai"
-   },
-   {
     "ja": "たちつて東大"
    }
   ],
   "description": {
-   "en": "Started in Be Love 10/2022 issue on Sep 1, 2022.\n\n(from mangaupdates)"
+   "en": "Started in Be Love 10/2022 issue on Sep 1, 2022."
   },
   "links": {
-   "mu": "dnyr9tq"
+   "mu": "dnyr9tq",
+   "raw": "https://palcy.jp/comics/1815"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "josei",
@@ -39,32 +37,34 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2023-05-01T14:51:19+00:00",
-  "updatedAt": "2023-05-01T14:59:24+00:00"
+  "updatedAt": "2024-11-23T23:35:07+00:00"
  },
  "relationships": [
   {
    "id": "b3b98aea-374f-4487-9494-195051fc1450",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 斎藤かよこ\n\n**Additional Sites:**\n- [Xfolio](https://xfolio.jp/portfolio/cocoan)"
+    },
     "booth": null,
     "createdAt": "2023-05-01T14:48:16+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "SAITOU Kayoko",
+    "name": "Saitou Kayoko",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/608712",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-05-01T14:48:16+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/cocoan_",
+    "updatedAt": "2024-11-23T23:26:22+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -74,39 +74,41 @@
    "id": "b3b98aea-374f-4487-9494-195051fc1450",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 斎藤かよこ\n\n**Additional Sites:**\n- [Xfolio](https://xfolio.jp/portfolio/cocoan)"
+    },
     "booth": null,
     "createdAt": "2023-05-01T14:48:16+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "SAITOU Kayoko",
+    "name": "Saitou Kayoko",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/608712",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-05-01T14:48:16+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/cocoan_",
+    "updatedAt": "2024-11-23T23:26:22+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "51721671-a246-4804-94da-1daf5989f994",
+   "id": "c71416a5-598e-4a81-9e6c-9b4e5398b63c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-05-01T14:51:21+00:00",
+    "createdAt": "2024-11-23T23:29:03+00:00",
     "description": "",
-    "fileName": "718b1308-2fc5-4ee4-9831-b5182b6d2729.jpg",
+    "fileName": "0a6d959d-e108-4c31-8153-a1542c09daed.jpg",
     "locale": "ja",
-    "updatedAt": "2023-05-01T14:51:21+00:00",
+    "updatedAt": "2024-11-23T23:29:03+00:00",
     "version": 1,
-    "volume": "0"
+    "volume": "0.2"
    }
   },
   {

@@ -1,0 +1,160 @@
+{
+ "id": "b8e1a2bd-209d-4c89-8499-4fa8a3b3fe76",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Baby’s Future Dream is to Become a Villain"
+  },
+  "altTitles": [
+   {
+    "ko": "아기님의 장래희망은 흑막"
+   }
+  ],
+  "description": {
+   "en": "The infamous martial arts master, Jin Dan-ye, dies—only to awaken as a child. Not just any child, but the heir to the Sacred King, fated to suffer and die young.\n\n\"Over my dead body.\"\n\nArmed with the skills that once ruled the martial world, Jin resolves to rewrite destiny. What follows is the extraordinary journey of a mysterious yet adorable child, reshaping the world and winning hearts along the way!"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Official Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-25T13:26:30+00:00",
+  "updatedAt": "2024-11-25T13:26:35+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2afa853b-de20-4790-b03e-3561c7fdf360",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Hello! We are studio LICO. We create a variety of digital content such as webcomics, animation, and more. We wish to connect with our readers through entertaining and relatable stories!\n\n**Associated Names**\nLICO\nLife Is Comic\nLife With Content\nStudio LICO\n스튜디오 리코\n리코"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "LICO",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/studiolico",
+    "updatedAt": "2024-06-16T06:20:13+00:00",
+    "version": 5,
+    "website": "https://www.instagram.com/studiolico/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/c/STUDIOLICO"
+   }
+  },
+  {
+   "id": "e14aa94a-cceb-4e58-bcdb-d7a1279431d0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-25T13:26:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Gotha",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-25T13:26:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "906aa4e5-e6ab-419a-b25a-ab774ee9194b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-25T13:26:32+00:00",
+    "description": "",
+    "fileName": "29355030-9d35-4366-8344-8e9f0e0e50d3.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-25T13:26:32+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}

@@ -11,7 +11,7 @@
     "en": "Otaku ni Yasashii Gal wa Inai!?"
    },
    "contentRating": "safe",
-   "score": 0.29484522,
+   "score": 0.29484534,
    "languages": [
     "es-la",
     "en",
@@ -28,7 +28,7 @@
     "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
    },
    "contentRating": "safe",
-   "score": 0.27358449,
+   "score": 0.27358422,
    "languages": [
     "th",
     "ru",
@@ -41,24 +41,12 @@
    ]
   },
   {
-   "id": "39a038c6-9699-44fb-9e8a-5cb12fb4a748",
-   "title": {
-    "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
-   },
-   "contentRating": "safe",
-   "score": 0.27252322,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "a2f14ca0-1fad-4198-95cf-d5bfa053238b",
    "title": {
     "en": "Nemuro-kun wa Kao ga Ii!"
    },
    "contentRating": "safe",
-   "score": 0.27202156,
+   "score": 0.27201593,
    "languages": [
     "en",
     "es-la",
@@ -71,9 +59,21 @@
     "en": "Tokiwa-san to Inoue-kun no Boushin"
    },
    "contentRating": "safe",
-   "score": 0.26975346,
+   "score": 0.26976332,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "39a038c6-9699-44fb-9e8a-5cb12fb4a748",
+   "title": {
+    "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
+   },
+   "contentRating": "safe",
+   "score": 0.2674158,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -82,7 +82,7 @@
     "en": "Hitomi-chan Is Shy With Strangers"
    },
    "contentRating": "safe",
-   "score": 0.26703945,
+   "score": 0.2670413,
    "languages": [
     "en",
     "pt-br",
@@ -101,7 +101,7 @@
     "en": "Tenshi-chan to Akuma-kun"
    },
    "contentRating": "safe",
-   "score": 0.26633203,
+   "score": 0.2663317,
    "languages": [
     "en"
    ]
@@ -112,54 +112,42 @@
     "en": "Poca Poca Taiwan!"
    },
    "contentRating": "safe",
-   "score": 0.25950494,
+   "score": 0.25951123,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "eeea01ed-4838-45ca-8e90-88d6f6e95603",
+   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
    "title": {
-    "en": "The Coppersmith's Bride"
+    "en": "Skip and Loafer"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "ru",
+    "pt-br",
+    "uk",
     "en",
-    "id",
     "vi",
-    "pt-br",
-    "es-la"
-   ]
-  },
-  {
-   "id": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
-   "title": {
-    "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "id",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
-   "title": {
-    "ja-ro": "Houkago Kitaku Biyori"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
     "es-la",
-    "vi",
-    "en",
     "ru",
+    "tl"
+   ]
+  },
+  {
+   "id": "ead3f958-0d01-4c1f-b605-620eacb8ead0",
+   "title": {
+    "en": "Boku no Ikezu na Konyakusha"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
     "id",
-    "pt-br"
+    "pl",
+    "es-la"
    ]
   },
   {
@@ -192,36 +180,48 @@
    ]
   },
   {
-   "id": "ead3f958-0d01-4c1f-b605-620eacb8ead0",
+   "id": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
    "title": {
-    "en": "Boku no Ikezu na Konyakusha"
+    "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "pt-br",
-    "en",
-    "vi",
     "id",
-    "pl",
-    "es-la"
+    "pt-br",
+    "en"
    ]
   },
   {
-   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
+   "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
    "title": {
-    "en": "Skip and Loafer"
+    "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "pt-br",
-    "uk",
-    "en",
-    "vi",
     "es-la",
+    "vi",
+    "en",
     "ru",
-    "tl"
+    "id",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "eeea01ed-4838-45ca-8e90-88d6f6e95603",
+   "title": {
+    "en": "The Coppersmith's Bride"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "ru",
+    "en",
+    "id",
+    "vi",
+    "pt-br",
+    "es-la"
    ]
   },
   {
@@ -230,11 +230,11 @@
     "en": "Odoru Respawn"
    },
    "contentRating": "safe",
-   "score": 0.2539735,
+   "score": 0.25397852,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-23T20:40:54+00:00"
+ "updatedAt": "2024-11-25T21:20:35+00:00"
 }

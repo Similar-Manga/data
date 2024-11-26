@@ -1,0 +1,146 @@
+{
+ "id": "ab5034cd-1c34-46b6-ac39-17b12aebc7d4",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shutsujin ★ Konchuu Bushou Chousokabe!"
+  },
+  "altTitles": [
+   {
+    "ja": "出陣★昆虫武将チョウソカベ!"
+   }
+  ],
+  "description": {
+   "ja": "土佐(高知県)の出来人と謳われた戦国の名将・長宗我部元親が、昆虫に転生して現代に降臨!! 中1の夢見獏を家臣に従え、目指すは天下統一!? バトル、笑い、恋、かわいい!"
+  },
+  "links": {
+   "al": "102193",
+   "amz": "https://www.amazon.co.jp/dp/B07J2WR875",
+   "ap": "shutsujin-konchuu-bushou-chousokabe",
+   "bw": "series/153258",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/446632",
+   "mal": "108664",
+   "mu": "t1u2318"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "4",
+  "lastChapter": "54",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2017,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-24T22:09:04+00:00",
+  "updatedAt": "2024-11-24T22:09:35+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4e45a3d9-e1a6-4ef3-a2f7-b89537bc5ff6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-12-18T10:20:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morita Masafumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-12-18T10:20:12+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4e45a3d9-e1a6-4ef3-a2f7-b89537bc5ff6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-12-18T10:20:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morita Masafumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-12-18T10:20:12+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4b53fd0c-816b-4308-b726-c329ae43d42d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-24T22:09:15+00:00",
+    "description": "Volume 4 Cover from BookLive",
+    "fileName": "3893f4d8-7c38-4a17-b3c1-aac796d2d52b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-24T22:09:15+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

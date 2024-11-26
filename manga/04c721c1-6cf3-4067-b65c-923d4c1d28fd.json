@@ -35,30 +35,6 @@
     }
    },
    {
-    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Thriller"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "33771934-028e-4cb3-8744-691e866a923e",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Historical"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
-   {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
     "type": "tag",
     "attributes": {
@@ -79,6 +55,18 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -191,18 +179,6 @@
     }
    },
    {
-    "id": "c8cbe35b-1b2b-4a3f-9c37-db84c4514856",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Medical"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
-   {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
@@ -261,24 +237,12 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Tragedy"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 13,
   "createdAt": "2024-10-27T14:36:37+00:00",
-  "updatedAt": "2024-11-21T15:44:45+00:00"
+  "updatedAt": "2024-11-24T17:34:35+00:00"
  },
  "relationships": [
   {

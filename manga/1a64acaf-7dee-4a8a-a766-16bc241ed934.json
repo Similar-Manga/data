@@ -1,0 +1,186 @@
+{
+ "id": "1a64acaf-7dee-4a8a-a766-16bc241ed934",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Haikyo no Meshi"
+  },
+  "altTitles": [
+   {
+    "ja": "廃墟のメシ"
+   },
+   {
+    "en": "Haikyo no Meshi: The Commonbread"
+   }
+  ],
+  "description": {
+   "ja": "かつては星々の領域まで進出していた人類がその覇権を失ってから千数百年の時が過ぎた。無人工場が生み出す完全食品「コモンブレッド」だけが人々を生き延びさせている時代、探索師の少女ハルカはコモンブレッド至上主義をかかげる「教会」の目を逃れながら、広大な廃墟を旅していた。"
+  },
+  "links": {
+   "al": "105789",
+   "amz": "https://www.amazon.co.jp/dp/B08R35WHXK",
+   "ap": "haikyo-no-meshi",
+   "bw": "series/205240",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/546588",
+   "mal": "163703",
+   "mu": "dk3foev",
+   "raw": "https://www.alphapolis.co.jp/manga/official/188000230"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "4",
+  "lastChapter": "22",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2018,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-24T22:14:50+00:00",
+  "updatedAt": "2024-11-24T22:15:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "55499b91-21fe-43e5-8b95-d5e0e20dcf9e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-24T22:12:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "mujiha",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-24T22:12:58+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "55499b91-21fe-43e5-8b95-d5e0e20dcf9e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-24T22:12:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "mujiha",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-24T22:12:58+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a60fee73-927f-4b70-8bd5-cc346c84f586",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-24T22:14:56+00:00",
+    "description": "Volume 4 Cover from BookLive",
+    "fileName": "731ca55b-5f4a-4b1d-bf80-1ab74a8aef69.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-24T22:14:56+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

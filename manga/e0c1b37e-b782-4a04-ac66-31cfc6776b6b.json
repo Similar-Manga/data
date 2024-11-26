@@ -3,17 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Shinjuu-sama no Geboku ni narimashite - Shuushoku-saki wa Ayakashi Senmon Fudousan!?"
+   "en": "Shinjuu-sama no Geboku ni narimashite ~Shuushoku-saki wa Ayakashi Senmon Fudousan!?~"
   },
   "altTitles": [
    {
-    "ja": "神獣サマの下僕になりまして 〜就職先はあやかし専門不動産⁉〜"
+    "ja": "神獣サマの下僕になりまして ～就職先はあやかし専門不動産!?～"
    }
   ],
   "description": {
-   "en": "A young man, Osamu, has been able to see ayakashi since he can remember. As he is looking for a job, he is finally hired by a real estate agency only to find that his job is to be a consultant that specializes in ayakashi. Moreover, his boss is a humanoid divine beast."
+   "en": "A young man, Osamu, has been able to see ayakashi since he can remember. As he is looking for a job, he is finally hired by a real estate agency only to find that his job is to be a consultant that specializes in ayakashi. Moreover, his boss is a humanoid divine beast.",
+   "ja": "水神 導は、とある不動産会社に採用が決まり大喜び。ところがそこは「あやかし専門」の不動産会社だった。さらに、上司は超絶美形でオレサマの神様で…!?"
   },
   "links": {
+   "al": "175843",
+   "amz": "https://www.amazon.co.jp/dp/B0CZG5X449",
+   "ap": "shinjuu-sama-no-geboku-ni-narimashite-shuushokusaki-wa-ayakashi-senmon-fudousan",
+   "bw": "series/457038",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/820094",
+   "mal": "165408",
    "mu": "82k4zyt"
   },
   "originalLanguage": "ja",
@@ -57,12 +64,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2023-09-17T11:43:48+00:00",
-  "updatedAt": "2023-09-17T21:00:39+00:00"
+  "updatedAt": "2024-11-23T19:02:59+00:00"
  },
  "relationships": [
   {
@@ -120,16 +139,16 @@
    }
   },
   {
-   "id": "4a48561b-e372-4893-83b6-f5780481caf3",
+   "id": "a0229c92-3a47-4076-bfcb-a3c9d22e1c41",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-09-17T11:44:00+00:00",
-    "description": "",
-    "fileName": "8cbbb8df-1526-4540-80cd-45cade39f44e.png",
+    "createdAt": "2024-11-23T19:02:58+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "5caf4a59-830c-47d9-9f21-d05c5e28f7b5.jpg",
     "locale": "ja",
-    "updatedAt": "2023-09-17T11:44:00+00:00",
+    "updatedAt": "2024-11-23T19:02:58+00:00",
     "version": 1,
-    "volume": "0"
+    "volume": "2"
    }
   },
   {

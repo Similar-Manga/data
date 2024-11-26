@@ -44,7 +44,7 @@
    "pt-br",
    "it"
   ],
-  "latestUploadedChapter": "416c9026-972e-4bce-b766-5dda7fda66c6",
+  "latestUploadedChapter": "1e79dc3d-625a-4c74-9a94-43bde402ecf8",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -180,16 +180,18 @@
    }
   ],
   "state": "published",
-  "version": 18,
+  "version": 19,
   "createdAt": "2022-02-27T00:19:46+00:00",
-  "updatedAt": "2024-07-07T02:35:22+00:00"
+  "updatedAt": "2024-11-23T18:15:28+00:00"
  },
  "relationships": [
   {
    "id": "668ec123-f6e4-4b9e-97b0-a50bd7d8bdfc",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Also known as Raseune, 라스네, Lasne, RASNE\n\n**Trackers:**\n\n- [AniList](https://anilist.co/staff/279600/Raseune) "
+    },
     "booth": null,
     "createdAt": "2022-03-17T05:26:14+00:00",
     "fanBox": null,
@@ -204,8 +206,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2022-07-09T02:13:34+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-23T18:02:55+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -216,7 +218,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "How has a story developed this week? ... What about in the next episode? ... And the next one? ... I'm always anticipating the upcoming \"build-up\" of my story as I sit before my episode of the week... I'm a cartoonist :)"
+     "en": "How has a story developed this week? ... What about in the next episode? ... And the next one? ... I'm always anticipating the upcoming \"build-up\" of my story as I sit before my episode of the week... I'm a cartoonist :)\n\nAlso known as Goppipullin\n\n**Trackers:**\n- [AniList](https://anilist.co/staff/279598/Goppipullin) "
     },
     "booth": null,
     "createdAt": "2022-02-27T00:18:42+00:00",
@@ -232,8 +234,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-07-04T03:13:05+00:00",
-    "version": 4,
+    "updatedAt": "2024-11-23T18:03:58+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -244,7 +246,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "I'm just a normal Korean artist who enjoys watching movies and dramas, and drawing things. I'm not so active online, so I don't have a social media account to share. Thank you."
+     "en": "I'm just a normal Korean artist who enjoys watching movies and dramas, and drawing things. I'm not so active online, so I don't have a social media account to share. Thank you.\n\nAlso known as Seong-U Han, 한성우, 한성우(STUDIO GRIFFIN), HAN SungWoo\n\n**Tracker:**\n- [AniList](https://anilist.co/staff/279599/SeongU-Han) "
     },
     "booth": null,
     "createdAt": "2022-02-27T00:19:03+00:00",
@@ -260,8 +262,34 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-07-04T03:13:27+00:00",
-    "version": 4,
+    "updatedAt": "2024-11-23T18:05:18+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b2c59588-fa19-485e-b9be-4561ab5c304d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-02-02T18:15:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "STUDIO GRIFFIN (방승호)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-05-08T11:15:31+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

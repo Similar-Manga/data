@@ -30,6 +30,10 @@
   "status": "completed",
   "year": 2022,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "9163ca25-4bd2-410a-932f-694d66980d88",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -64,6 +68,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -117,9 +133,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-11-21T04:10:08+00:00",
-  "updatedAt": "2024-11-21T04:10:13+00:00"
+  "updatedAt": "2024-11-24T10:16:34+00:00"
  },
  "relationships": [
   {

@@ -36,7 +36,7 @@
     "en": "Gokurakugai Sanbandori no Ken"
    },
    "contentRating": "safe",
-   "score": 0.22669022,
+   "score": 0.22669564,
    "languages": [
     "pl",
     "ru",
@@ -47,6 +47,7 @@
     "uk",
     "ca",
     "it",
+    "ur",
     "hu",
     "vi",
     "id",
@@ -59,7 +60,7 @@
     "en": "Enma Gavel"
    },
    "contentRating": "safe",
-   "score": 0.22352919,
+   "score": 0.22354648,
    "languages": [
     "id",
     "ru",
@@ -108,11 +109,25 @@
     "en": "Yugen's All-Ghouls Homeroom"
    },
    "contentRating": "safe",
-   "score": 0.21541841,
+   "score": 0.2154162,
    "languages": [
     "es-la",
     "pt-br",
     "ru"
+   ]
+  },
+  {
+   "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
+   "title": {
+    "en": "Sakamoto"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "it",
+    "vi",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -141,26 +156,12 @@
    ]
   },
   {
-   "id": "e9c2f0e9-40ad-4f86-a63f-d6d5f36f4831",
-   "title": {
-    "en": "Sakamoto"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "it",
-    "vi",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "9ded1dbf-495b-43a2-a65c-6d220a67fc0e",
    "title": {
     "en": "Just Listen to the Song"
    },
    "contentRating": "safe",
-   "score": 0.20715624,
+   "score": 0.2071614,
    "languages": [
     "pt-br",
     "id",
@@ -186,7 +187,7 @@
     "en": "One-Armed Amy"
    },
    "contentRating": "safe",
-   "score": 0.2062305,
+   "score": 0.20622699,
    "languages": [
     "fr",
     "hu",
@@ -201,40 +202,6 @@
     "pl",
     "ca",
     "ru"
-   ]
-  },
-  {
-   "id": "feffced2-b922-45fc-80c3-c561d643faa4",
-   "title": {
-    "en": "Shaman King: The Super Star"
-   },
-   "contentRating": "safe",
-   "score": 0.2036915,
-   "languages": [
-    "es-la",
-    "ru",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "5481ccfb-b44a-4fb1-b3f8-b419e6350435",
-   "title": {
-    "en": "Liv"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pl",
-    "tr",
-    "pt-br",
-    "hi",
-    "ru",
-    "en",
-    "uk",
-    "id",
-    "it",
-    "fr"
    ]
   },
   {
@@ -263,7 +230,44 @@
     "ca",
     "en"
    ]
+  },
+  {
+   "id": "5481ccfb-b44a-4fb1-b3f8-b419e6350435",
+   "title": {
+    "en": "Liv"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pl",
+    "tr",
+    "pt-br",
+    "hi",
+    "ru",
+    "en",
+    "uk",
+    "id",
+    "it",
+    "fr"
+   ]
+  },
+  {
+   "id": "ec6a3bbd-90a7-412d-aedf-15ead0ec26da",
+   "title": {
+    "en": "Amagami-san Chi no Enmusubi (Oneshot)"
+   },
+   "contentRating": "safe",
+   "score": 0.20107876,
+   "languages": [
+    "fr",
+    "it",
+    "es-la",
+    "en",
+    "ru",
+    "id",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-11-23T20:29:33+00:00"
+ "updatedAt": "2024-11-25T21:04:30+00:00"
 }

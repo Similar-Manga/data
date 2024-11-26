@@ -6,12 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "dcc1a514-8d48-44a7-a38b-d48e3cac4335",
+   "title": {
+    "en": "Tetsunagi Kooni"
+   },
+   "contentRating": "safe",
+   "score": 0.26727465,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "99e883fd-04f6-449b-ab23-1d904695d272",
    "title": {
     "en": "Blue Archive - Game Kaihatsubu Dai Bouken!"
    },
    "contentRating": "safe",
-   "score": 0.26456767,
+   "score": 0.26456943,
    "languages": [
     "en",
     "vi",
@@ -21,23 +32,12 @@
    ]
   },
   {
-   "id": "dcc1a514-8d48-44a7-a38b-d48e3cac4335",
-   "title": {
-    "en": "Tetsunagi Kooni"
-   },
-   "contentRating": "safe",
-   "score": 0.2597196,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "cf19b4e0-3618-4bf4-8035-a265c3bb3fce",
    "title": {
     "en": "Our Hero Studies"
    },
    "contentRating": "safe",
-   "score": 0.25144887,
+   "score": 0.2514427,
    "languages": [
     "en"
    ]
@@ -46,6 +46,17 @@
    "id": "f8d3cecf-8c5b-4f69-ba44-a6610cb885fb",
    "title": {
     "en": "Nakayoshi Kouen"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4826e1fd-5c4c-4d19-8db1-f5c257b00fa4",
+   "title": {
+    "en": "The Doraemon's Special"
    },
    "contentRating": "safe",
    "score": 0.24983473,
@@ -66,23 +77,12 @@
    ]
   },
   {
-   "id": "4826e1fd-5c4c-4d19-8db1-f5c257b00fa4",
-   "title": {
-    "en": "The Doraemon's Special"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6bf646fb-d8d1-40fa-94aa-a9393857b8c1",
    "title": {
     "en": "Kami-sama no iru Keshiki"
    },
    "contentRating": "safe",
-   "score": 0.22768113,
+   "score": 0.22768418,
    "languages": [
     "en",
     "id",
@@ -90,31 +90,31 @@
    ]
   },
   {
-   "id": "c948484d-7c1f-413e-afc2-94de8a920b1d",
-   "title": {
-    "en": "Game with My Grandma!"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6ff29190-cd9c-4557-84d9-d2b49f06fa21",
-   "title": {
-    "en": "MySims"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "5a68b16e-bb1c-4a48-a705-2ec7e5652488",
    "title": {
     "en": "The Homeless Saint in the Abandoned Park"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0957b2d6-4aff-46e4-916a-b10bc8cd12ee",
+   "title": {
+    "en": "Manga! Nyanko Great War"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c948484d-7c1f-413e-afc2-94de8a920b1d",
+   "title": {
+    "en": "Game with My Grandma!"
    },
    "contentRating": "safe",
    "score": 0.2163632,
@@ -135,16 +135,14 @@
    ]
   },
   {
-   "id": "b4101937-158d-496d-95c7-03c540032ed5",
+   "id": "6ff29190-cd9c-4557-84d9-d2b49f06fa21",
    "title": {
-    "en": "All Around Type-Moon"
+    "en": "MySims"
    },
    "contentRating": "safe",
    "score": 0.2163632,
    "languages": [
-    "en",
-    "pt-br",
-    "es"
+    "en"
    ]
   },
   {
@@ -159,14 +157,16 @@
    ]
   },
   {
-   "id": "0957b2d6-4aff-46e4-916a-b10bc8cd12ee",
+   "id": "b4101937-158d-496d-95c7-03c540032ed5",
    "title": {
-    "en": "Manga! Nyanko Great War"
+    "en": "All Around Type-Moon"
    },
    "contentRating": "safe",
    "score": 0.2163632,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "es"
    ]
   },
   {
@@ -175,7 +175,7 @@
     "en": "Last Boss"
    },
    "contentRating": "safe",
-   "score": 0.21574855,
+   "score": 0.21575262,
    "languages": [
     "en"
    ]
@@ -186,7 +186,7 @@
     "en": "I Picked up a Young Lady Who Broke off Her Engagement, and I Teach Her All Kinds of Bad Things"
    },
    "contentRating": "safe",
-   "score": 0.21131435,
+   "score": 0.21131131,
    "languages": [
     "vi",
     "en",
@@ -196,5 +196,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-23T21:05:58+00:00"
+ "updatedAt": "2024-11-25T21:53:37+00:00"
 }

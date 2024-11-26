@@ -6,14 +6,16 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "dcc48d4e-add2-486c-b009-fa258789e5e5",
+   "id": "7138083b-4fbf-4cc3-8695-ce175034e45a",
    "title": {
-    "en": "Fragile"
+    "en": "Yuki to Sumi"
    },
    "contentRating": "safe",
-   "score": 0.22779934,
+   "score": 0.22755206,
    "languages": [
-    "en"
+    "en",
+    "id",
+    "vi"
    ]
   },
   {
@@ -30,25 +32,23 @@
    ]
   },
   {
-   "id": "7138083b-4fbf-4cc3-8695-ce175034e45a",
-   "title": {
-    "en": "Yuki to Sumi"
-   },
-   "contentRating": "safe",
-   "score": 0.22755206,
-   "languages": [
-    "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
    "id": "89855174-b5bd-4f4d-a1a8-585e0dc224ba",
    "title": {
     "ja": "Platanus No Mi"
    },
    "contentRating": "safe",
-   "score": 0.22389103,
+   "score": 0.22387005,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "dcc48d4e-add2-486c-b009-fa258789e5e5",
+   "title": {
+    "en": "Fragile - Byourii Kishi Keiichirou no Shoken"
+   },
+   "contentRating": "safe",
+   "score": 0.22117086,
    "languages": [
     "en"
    ]
@@ -59,7 +59,7 @@
     "en": "Atrocious Fairy Tales for Adults"
    },
    "contentRating": "safe",
-   "score": 0.21282831,
+   "score": 0.21282695,
    "languages": [
     "en"
    ]
@@ -70,7 +70,7 @@
     "en": "Tonari no Jii-san"
    },
    "contentRating": "safe",
-   "score": 0.21063703,
+   "score": 0.21064882,
    "languages": [
     "en"
    ]
@@ -81,7 +81,7 @@
     "en": "3-okuen Koukousei"
    },
    "contentRating": "safe",
-   "score": 0.20663106,
+   "score": 0.20665923,
    "languages": [
     "en"
    ]
@@ -92,18 +92,7 @@
     "en": "Under the Rose"
    },
    "contentRating": "safe",
-   "score": 0.20642161,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cec666b7-4dab-40a4-aaf9-79c910196e73",
-   "title": {
-    "en": "Self Portrait"
-   },
-   "contentRating": "safe",
-   "score": 0.19706586,
+   "score": 0.20642637,
    "languages": [
     "en"
    ]
@@ -120,14 +109,13 @@
    ]
   },
   {
-   "id": "b6356e8e-5550-45a1-bb6e-205e00dd27d3",
+   "id": "cec666b7-4dab-40a4-aaf9-79c910196e73",
    "title": {
-    "en": "Nightmare Busters"
+    "en": "Self Portrait"
    },
    "contentRating": "safe",
-   "score": 0.19559968,
+   "score": 0.19706586,
    "languages": [
-    "zh-hk",
     "en"
    ]
   },
@@ -137,8 +125,20 @@
     "en": "AGAPE"
    },
    "contentRating": "safe",
-   "score": 0.19559754,
+   "score": 0.19559912,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b6356e8e-5550-45a1-bb6e-205e00dd27d3",
+   "title": {
+    "en": "Nightmare Busters"
+   },
+   "contentRating": "safe",
+   "score": 0.19558668,
+   "languages": [
+    "zh-hk",
     "en"
    ]
   },
@@ -148,7 +148,7 @@
     "en": "Deep Love - Real"
    },
    "contentRating": "safe",
-   "score": 0.19518423,
+   "score": 0.19519368,
    "languages": [
     "en"
    ]
@@ -159,7 +159,7 @@
     "en": "Kyoukai no End Feel"
    },
    "contentRating": "safe",
-   "score": 0.19341308,
+   "score": 0.19341554,
    "languages": [
     "en"
    ]
@@ -170,7 +170,7 @@
     "en": "Ultra Heaven"
    },
    "contentRating": "safe",
-   "score": 0.19047046,
+   "score": 0.1904771,
    "languages": [
     "en",
     "vi",
@@ -183,7 +183,7 @@
     "en": "Radiation House"
    },
    "contentRating": "safe",
-   "score": 0.18985225,
+   "score": 0.18982907,
    "languages": [
     "es-la",
     "vi",
@@ -194,5 +194,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-23T21:12:00+00:00"
+ "updatedAt": "2024-11-25T22:01:00+00:00"
 }

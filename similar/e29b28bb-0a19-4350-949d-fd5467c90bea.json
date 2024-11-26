@@ -11,7 +11,7 @@
     "en": "Airport"
    },
    "contentRating": "safe",
-   "score": 0.2434622
+   "score": 0.24346375
   },
   {
    "id": "81edc338-b463-405f-b0c9-e5fca17ca1c7",
@@ -19,7 +19,7 @@
     "en": "Howling Pen RRR"
    },
    "contentRating": "safe",
-   "score": 0.22380497
+   "score": 0.22380377
   },
   {
    "id": "08bd9998-8476-49f6-b9ca-a56d2a707c81",
@@ -27,7 +27,7 @@
     "en": "Jungle King"
    },
    "contentRating": "safe",
-   "score": 0.20553704
+   "score": 0.20553507
   },
   {
    "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
@@ -43,12 +43,27 @@
    ]
   },
   {
+   "id": "5da228de-611e-4a18-aad9-49ec11e3d2d4",
+   "title": {
+    "en": "Tales of the Kingdom"
+   },
+   "contentRating": "safe",
+   "score": 0.19683692,
+   "languages": [
+    "vi",
+    "en",
+    "pl",
+    "it",
+    "ru"
+   ]
+  },
+  {
    "id": "a3500b81-a211-4eef-9937-f7fc83c17fbb",
    "title": {
     "en": "Diary of a Quiet Life"
    },
    "contentRating": "safe",
-   "score": 0.1964553,
+   "score": 0.19645008,
    "languages": [
     "es-la",
     "en"
@@ -71,10 +86,11 @@
     "en": "Sagishi to Keisatsukan no Rennai Kyori"
    },
    "contentRating": "safe",
-   "score": 0.18561864,
+   "score": 0.18562213,
    "languages": [
     "vi",
-    "en"
+    "en",
+    "id"
    ]
   },
   {
@@ -108,7 +124,7 @@
     "en": "Without Loss, Even in the Rain"
    },
    "contentRating": "safe",
-   "score": 0.1803918
+   "score": 0.18039265
   },
   {
    "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
@@ -137,18 +153,16 @@
    ]
   },
   {
-   "id": "5da228de-611e-4a18-aad9-49ec11e3d2d4",
+   "id": "8fc4ca0a-3346-4e99-a6f1-63747029c109",
    "title": {
-    "en": "Tales of the Kingdom"
+    "en": "Smoke \u0026 Honey"
    },
    "contentRating": "safe",
-   "score": 0.17530787,
+   "score": 0.17470431,
    "languages": [
-    "vi",
+    "es-la",
     "en",
-    "pl",
-    "it",
-    "ru"
+    "pt-br"
    ]
   },
   {
@@ -163,33 +177,13 @@
    ]
   },
   {
-   "id": "8fc4ca0a-3346-4e99-a6f1-63747029c109",
+   "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
    "title": {
-    "en": "Smoke \u0026 Honey"
+    "en": "Black Humor Short Story Collection"
    },
    "contentRating": "safe",
-   "score": 0.17470431,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "4ffdd63e-4e7e-412b-ac64-71c1f3b41a2f",
-   "title": {
-    "en": "Shojo Manga"
-   },
-   "contentRating": "safe",
-   "score": 0.1722323,
-   "languages": [
-    "it",
-    "tr",
-    "pt-br",
-    "en",
-    "fr"
-   ]
+   "score": 0.17192996
   }
  ],
- "updatedAt": "2024-11-23T21:18:04+00:00"
+ "updatedAt": "2024-11-25T22:07:57+00:00"
 }

@@ -6,20 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1c3b03a7-a923-4c50-942d-5a60b006ac1a",
-   "title": {
-    "en": "Kagami no Miko Ayaka"
-   },
-   "contentRating": "safe",
-   "score": 0.35057914
-  },
-  {
    "id": "d1aa1597-4365-4416-9d94-0012ee8e078a",
    "title": {
     "en": "Kage Hinata no Koi"
    },
    "contentRating": "safe",
-   "score": 0.293379,
+   "score": 0.2971799,
    "languages": [
     "en"
    ]
@@ -30,18 +22,10 @@
     "en": "Tantei Revolution"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
+   "score": 0.2947206,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "3eb54c13-0695-4d42-8f44-b21fd3f511ff",
-   "title": {
-    "en": "Magician"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
   },
   {
    "id": "b59e138e-c720-4c5a-8e5b-24f690547535",
@@ -60,23 +44,28 @@
    "score": 0.2857143
   },
   {
+   "id": "3eb54c13-0695-4d42-8f44-b21fd3f511ff",
+   "title": {
+    "en": "Magician"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "683c110a-9e5e-4f78-907d-97d56b33620e",
    "title": {
     "en": "Sleeping Beauty"
    },
    "contentRating": "safe",
-   "score": 0.25777957
+   "score": 0.26993772
   },
   {
-   "id": "3d2b60ed-ab56-4a24-9165-5595407246de",
+   "id": "aee789f9-8e0d-4722-8a70-4886c8d96674",
    "title": {
-    "en": "Kouri no You na Natsu wa Koi ni Tokeru"
+    "en": "Giniro no Harmony"
    },
    "contentRating": "safe",
-   "score": 0.24843648,
-   "languages": [
-    "vi"
-   ]
+   "score": 0.2655596
   },
   {
    "id": "1b20dafc-9e83-4e28-9ecd-13b0dc24f176",
@@ -84,26 +73,7 @@
     "en": "Shin Gakuen Tengoku"
    },
    "contentRating": "safe",
-   "score": 0.24401899
-  },
-  {
-   "id": "11ee94fb-d622-46c5-af2e-b7742ac76e00",
-   "title": {
-    "en": "Mahoutsukai no Musume Ni Arazu"
-   },
-   "contentRating": "safe",
-   "score": 0.2411137
-  },
-  {
-   "id": "eb1080e6-77cd-4e9f-90c6-9ee13179a88c",
-   "title": {
-    "en": "Boukyaku no Cradle"
-   },
-   "contentRating": "safe",
-   "score": 0.24073392,
-   "languages": [
-    "en"
-   ]
+   "score": 0.26486915
   },
   {
    "id": "803712fe-093b-434b-abd6-45fed15eb4c0",
@@ -111,15 +81,7 @@
     "en": "Otokotachi wa Nekasete Kurenai"
    },
    "contentRating": "safe",
-   "score": 0.23804699
-  },
-  {
-   "id": "40f88398-050c-4089-a8b7-dd98dfa1e181",
-   "title": {
-    "en": "Kemono Switch"
-   },
-   "contentRating": "safe",
-   "score": 0.23659943
+   "score": 0.2559277
   },
   {
    "id": "613b3d1a-ae65-4b31-ac43-42c7e32c206f",
@@ -127,7 +89,7 @@
     "en": "Koishica Ikenai Hanakaze-kun"
    },
    "contentRating": "safe",
-   "score": 0.2355729
+   "score": 0.25223655
   },
   {
    "id": "a90bea07-aed7-4ec7-be4e-fc6dc9351a4c",
@@ -135,19 +97,60 @@
     "en": "Kimi wa Chuu no Subete"
    },
    "contentRating": "safe",
-   "score": 0.23399615
+   "score": 0.2498709
   },
   {
-   "id": "9745191c-d84d-48bf-a3a4-a4482a8096e9",
+   "id": "9b6c0bb1-ad52-49ef-acd5-c5bb5418d14b",
    "title": {
-    "en": "Kimi to Merry Bad End"
+    "en": "Shinkon (Kari)chuu"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24579161,
    "languages": [
-    "fr"
+    "en"
+   ]
+  },
+  {
+   "id": "11ee94fb-d622-46c5-af2e-b7742ac76e00",
+   "title": {
+    "en": "Mahoutsukai no Musume Ni Arazu"
+   },
+   "contentRating": "safe",
+   "score": 0.24500741
+  },
+  {
+   "id": "eb1080e6-77cd-4e9f-90c6-9ee13179a88c",
+   "title": {
+    "en": "Boukyaku no Cradle"
+   },
+   "contentRating": "safe",
+   "score": 0.2444293,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "74d6b24c-c1f2-456e-8f7d-888d179b0365",
+   "title": {
+    "en": "Kaitou wa Koyoi mo Hanataba wo. - Namida no Jewel"
+   },
+   "contentRating": "safe",
+   "score": 0.24387513,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3d2b60ed-ab56-4a24-9165-5595407246de",
+   "title": {
+    "en": "Kouri no You na Natsu wa Koi ni Tokeru"
+   },
+   "contentRating": "safe",
+   "score": 0.24358173,
+   "languages": [
+    "vi"
    ]
   }
  ],
- "updatedAt": "2024-11-23T21:03:27+00:00"
+ "updatedAt": "2024-11-25T21:50:20+00:00"
 }
