@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Falling in Love Gives Me Superpowers"
+   "en": "Love Gives Me Superpowers"
   },
   "altTitles": [
    {
@@ -14,10 +14,13 @@
    },
    {
     "zh-ro": "Lian'ai Rang Wo Youle Chao Nengli"
+   },
+   {
+    "en": "Falling In Love Gives Me Superpowers"
    }
   ],
   "description": {
-   "en": "Art student Zhong Shenxiu encountered a bottleneck during a drawing class. No matter how she tried, she couldn't \"see clearly\" the good student, Xu Ke, who was the subject of her drawing. Unable to see clearly, she couldn't draw him... Zhong Shenxiu put down her paintbrush. Could it be that becoming a good student would bring him closer to her, a little closer, and then she could see a little clearer? Until the distance between them became negative—face to face. Phew! Now she finally saw it clearly! But! This... isn't it a bit too..."
+   "en": "Art student Zhong Shenxiu encountered a problem during a sketching class. She couldn't \"truly see\" Xu Ke, a top student and the subject of the sketch. If she can't truly see the subject then she can't draw. Zhong Shenxiu put down her paintbrush. If she became a better student, she would be able to get closer to her, right? If she could get closer to her, then she could truly see her, right? Until the distance between them is no more--Face to face. Phew! Now I can finally see her! But! This is... Too close! Help! What Should I do?!!!"
   },
   "links": {
    "mu": "n5v2m8c",
@@ -27,6 +30,10 @@
   "status": "ongoing",
   "year": 2023,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "992406e3-b534-4ecc-990b-85da70e73211",
   "tags": [
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
@@ -138,9 +145,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2023-11-15T15:27:31+00:00",
-  "updatedAt": "2024-06-18T17:34:16+00:00"
+  "updatedAt": "2024-11-26T03:17:30+00:00"
  },
  "relationships": [
   {
@@ -198,19 +205,17 @@
    }
   },
   {
-   "id": "53eab755-ef7e-4961-b572-474c83da7295",
+   "id": "10265a7f-bc48-417e-a2e2-8090304173af",
    "type": "artist",
    "attributes": {
-    "biography": {
-     "en": "Bilibili Comics's in-house yuri studio/label.\n\n**AKA:**\n* 橘味\n* GL Club\n* Jú jī shè\n* Ju Ji She\n* Ju Jishe\n* Ju wei\n* Orange Girls Club\n* Tachibana Club\n* Tangerine Society\n* Yuri Club\n"
-    },
+    "biography": {},
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2023-11-15T15:21:59+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Lily Club (橘姬社)",
+    "name": "蛮麟",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -218,10 +223,10 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-09-30T23:16:04+00:00",
-    "version": 7,
-    "website": "https://www.bilibilicomics.com/topic/lily-club",
-    "weibo": "https://weibo.com/u/6615144062",
+    "updatedAt": "2023-11-15T15:21:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
     "youtube": null
    }
   },

@@ -6,24 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "9bfe27f5-b7dd-4caf-8368-d640e14e65a3",
-   "title": {
-    "en": "Babel no Tegami"
-   },
-   "contentRating": "safe",
-   "score": 0.21541059,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "513f60a4-9c3d-4f87-8a1e-a60cc614e56a",
    "title": {
     "en": "Eru"
    },
    "contentRating": "safe",
-   "score": 0.210744
+   "score": 0.20750621
   },
   {
    "id": "1faa9bc1-0a03-4534-889b-9334e52d0218",
@@ -31,7 +19,7 @@
     "en": "Tsukiyou Garasu Zoushi"
    },
    "contentRating": "safe",
-   "score": 0.20676771
+   "score": 0.20554613
   },
   {
    "id": "057cbb2f-2c25-4f86-a4b0-66c8b0c90892",
@@ -39,7 +27,7 @@
     "en": "Heartland no Juunin"
    },
    "contentRating": "safe",
-   "score": 0.20549949,
+   "score": 0.20375803,
    "languages": [
     "en"
    ]
@@ -50,18 +38,7 @@
     "en": "Shotoku Taishi"
    },
    "contentRating": "safe",
-   "score": 0.20491685
-  },
-  {
-   "id": "3aa8a558-f65e-4bac-9ec3-e23e06daa287",
-   "title": {
-    "en": "The Emperor's Shaman"
-   },
-   "contentRating": "safe",
-   "score": 0.1973834,
-   "languages": [
-    "en"
-   ]
+   "score": 0.19681711
   },
   {
    "id": "1631d535-8826-46f7-9a9c-4fc97de2a813",
@@ -72,6 +49,17 @@
    "score": 0.19664207,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "cbdb1954-4a8b-46f9-8bc7-cc141d219797",
+   "title": {
+    "en": "Covered in Cinders"
+   },
+   "contentRating": "safe",
+   "score": 0.19664207,
+   "languages": [
+    "pl"
    ]
   },
   {
@@ -88,57 +76,20 @@
    ]
   },
   {
-   "id": "cbdb1954-4a8b-46f9-8bc7-cc141d219797",
+   "id": "8d9e84c4-f0db-49c2-8600-a4e1f68a3a25",
    "title": {
-    "en": "Covered in Cinders"
+    "en": "Ayakashi Koi Tsumugi - Hakanaki Otome wa Youko no Ou ni Dekiaisareru"
    },
    "contentRating": "safe",
-   "score": 0.19664207,
-   "languages": [
-    "pl"
-   ]
+   "score": 0.1951459
   },
   {
-   "id": "858fd3b0-d704-4854-b24d-b638bf20fcf0",
+   "id": "3aa8a558-f65e-4bac-9ec3-e23e06daa287",
    "title": {
-    "en": "Death Trap"
+    "en": "The Emperor's Shaman"
    },
    "contentRating": "safe",
-   "score": 0.19400705,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "dd81618b-9fc1-486c-8aff-53846a22f637",
-   "title": {
-    "en": "Abe Seimei Koikatari"
-   },
-   "contentRating": "safe",
-   "score": 0.19400705,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "87726092-c54e-415d-ba1d-af12325c76e6",
-   "title": {
-    "en": "The Revelation of Spring and Sons of Snow"
-   },
-   "contentRating": "safe",
-   "score": 0.19400705,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "caf6c980-09e2-4cc2-8728-6c86fa83e662",
-   "title": {
-    "en": "The Locked-up Maiden"
-   },
-   "contentRating": "safe",
-   "score": 0.19400705,
+   "score": 0.19509315,
    "languages": [
     "en"
    ]
@@ -156,21 +107,69 @@
    ]
   },
   {
+   "id": "dd81618b-9fc1-486c-8aff-53846a22f637",
+   "title": {
+    "en": "Abe Seimei Koikatari"
+   },
+   "contentRating": "safe",
+   "score": 0.19400705,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "caf6c980-09e2-4cc2-8728-6c86fa83e662",
+   "title": {
+    "en": "The Locked-up Maiden"
+   },
+   "contentRating": "safe",
+   "score": 0.19400705,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "87726092-c54e-415d-ba1d-af12325c76e6",
+   "title": {
+    "en": "The Revelation of Spring and Sons of Snow"
+   },
+   "contentRating": "safe",
+   "score": 0.19400705,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "858fd3b0-d704-4854-b24d-b638bf20fcf0",
+   "title": {
+    "en": "Death Trap"
+   },
+   "contentRating": "safe",
+   "score": 0.19400705,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "aef6086c-092e-4475-b6e6-f59e776ef916",
+   "title": {
+    "en": "Touran Merry Rose"
+   },
+   "contentRating": "safe",
+   "score": 0.19294454,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "810661fb-2b4d-479b-bc6f-72f6db8b9dc3",
    "title": {
     "en": "Akuma no Hanayome: Saishuushou"
    },
    "contentRating": "safe",
    "score": 0.19117977
-  },
-  {
-   "id": "8d9e84c4-f0db-49c2-8600-a4e1f68a3a25",
-   "title": {
-    "en": "Ayakashi Koi Tsumugi - Hakanaki Otome wa Youko no Ou ni Dekiaisareru"
-   },
-   "contentRating": "safe",
-   "score": 0.19106472
   }
  ],
- "updatedAt": "2024-11-25T21:30:35+00:00"
+ "updatedAt": "2024-11-27T21:02:06+00:00"
 }

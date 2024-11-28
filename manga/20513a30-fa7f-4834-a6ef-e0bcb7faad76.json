@@ -3,18 +3,21 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Isekai Tensei Shite Majo ni Natta no de Slow Life wo Okuritai no ni Maou ga Nigashite Kuremasen"
+   "en": "Isekai Tensei Shite Majo ni Natta no de Slow Life o Okuritai no ni Maou ga Nigashite Kuremasen"
   },
   "altTitles": [
    {
     "ja": "異世界転生して魔女になったのでスローライフを送りたいのに魔王が逃がしてくれません"
+   },
+   {
+    "ja-ro": "Isekai Tensei Shite Majo ni Natta no de Slow Life wo Okuritai no ni Maou ga Nigashite Kuremasen"
    }
   ],
   "description": {
    "en": "Miya was a career woman who works hard as a talented secretary. But one day she lost her life and reincarnated as demon Miya in a different world!\r\nShe got a job at Demon Castle and worked hard as a secretary again, but she retired from electric shock after giving up on the Demon King who handles Miya too much. To live as a witch Miliyam in the human world.\r\nMiya was a knight and a disciple who lived a leisurely slow life in the human world, but the Demon King attacked!? A romantic comedy loved by reincarnated witches."
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/dp/B093L3JFSZ",
+   "amz": "https://www.amazon.co.jp/dp/B09KGN74YL",
    "ap": "isekai-tensei-shite-majo-ni-natta-no-de-slow-life-wo-okuritai-no-ni-maou-ga-nigashite-kuremasen",
    "bw": "series/301082",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/638367",
@@ -24,6 +27,7 @@
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
+  "lastChapter": "16",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2021,
@@ -115,23 +119,25 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2021-02-04T23:03:05+00:00",
-  "updatedAt": "2022-08-28T15:04:51+00:00"
+  "updatedAt": "2024-11-26T02:13:46+00:00"
  },
  "relationships": [
   {
    "id": "8d2a27cb-cbb1-4bde-b5f0-6c98bd61676e",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** マチバリ (machibari)\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/matiba_ri/)\n- [note](https://note.com/matibari/)\n- [Shousetsuka ni Narou](https://mypage.syosetu.com/1262412/)\n- [Kakuyomu](https://kakuyomu.jp/users/matiba_ri)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Machibari",
+    "name": "matibari",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -139,8 +145,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/matiba_ri",
-    "updatedAt": "2023-04-30T19:40:45+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-26T02:22:20+00:00",
+    "version": 4,
     "website": "https://matibari.wixsite.com/sewingbox",
     "weibo": null,
     "youtube": null
@@ -150,39 +156,41 @@
    "id": "0c292172-dccc-44fd-aeef-5f3418dc4c01",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** カワグチ\n\n**Additional Sites:**\n- [Bluesky](https://bsky.app/profile/kwgt176042.bsky.social)\n\nNot to be confused with [the character designer/illustrator of the same name](https://mangadex.org/author/5de43f9b-53f5-4ff9-a411-ce159f4d1bd4)."
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kawaguchi",
+    "name": "Kawaguchi (Illustrator/Comic Artist)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/41479696",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/kawaguc9959420",
+    "updatedAt": "2024-11-26T02:17:13+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "7bc10680-eb8c-4fb3-835b-175411f191c2",
+   "id": "f0030eb9-adc0-4100-81ba-46d30edf02f9",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-10-22T20:38:09+00:00",
+    "createdAt": "2024-11-26T01:53:57+00:00",
     "description": "",
-    "fileName": "431825bf-7132-4197-8336-d12f5eec2098.png",
+    "fileName": "075dbe0f-149b-4ecf-83eb-79a218db8b58.jpg",
     "locale": "ja",
-    "updatedAt": "2021-10-22T20:38:09+00:00",
-    "version": 2,
-    "volume": "1"
+    "updatedAt": "2024-11-26T01:53:57+00:00",
+    "version": 1,
+    "volume": "3"
    }
   }
  ]

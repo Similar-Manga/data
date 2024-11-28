@@ -11,7 +11,7 @@
     "en": "Nemuro-kun wa Kao ga Ii!"
    },
    "contentRating": "safe",
-   "score": 0.27979732,
+   "score": 0.2798017,
    "languages": [
     "en",
     "es-la",
@@ -24,7 +24,7 @@
     "en": "Hitomi-chan Is Shy With Strangers"
    },
    "contentRating": "safe",
-   "score": 0.27849743,
+   "score": 0.27849388,
    "languages": [
     "en",
     "pt-br",
@@ -43,7 +43,7 @@
     "en": "Tenshi-chan to Akuma-kun"
    },
    "contentRating": "safe",
-   "score": 0.27057746,
+   "score": 0.27057698,
    "languages": [
     "en"
    ]
@@ -54,7 +54,7 @@
     "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
-   "score": 0.26992133,
+   "score": 0.26992416,
    "languages": [
     "es-la",
     "vi",
@@ -70,7 +70,7 @@
     "en": "Skip and Loafer"
    },
    "contentRating": "safe",
-   "score": 0.26980114,
+   "score": 0.26979914,
    "languages": [
     "pt-br",
     "uk",
@@ -87,7 +87,7 @@
     "en": "Otaku ni Yasashii Gal wa Inai!?"
    },
    "contentRating": "safe",
-   "score": 0.2673651,
+   "score": 0.26736695,
    "languages": [
     "es-la",
     "en",
@@ -104,7 +104,7 @@
     "en": "Hijiri-san wa Scenario-douri ni Ikanai"
    },
    "contentRating": "safe",
-   "score": 0.26734474,
+   "score": 0.26732436,
    "languages": [
     "vi"
    ]
@@ -115,7 +115,7 @@
     "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.26686034,
+   "score": 0.26686946,
    "languages": [
     "vi",
     "en",
@@ -130,67 +130,10 @@
     "en": "Miboujin Elf no Kanamori-san"
    },
    "contentRating": "safe",
-   "score": 0.26346913,
+   "score": 0.26347277,
    "languages": [
     "es-la",
     "en"
-   ]
-  },
-  {
-   "id": "39a038c6-9699-44fb-9e8a-5cb12fb4a748",
-   "title": {
-    "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
-   "title": {
-    "en": "Tokiwa-san to Inoue-kun no Boushin"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
-   "title": {
-    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "th",
-    "ru",
-    "vi",
-    "en",
-    "pt-br",
-    "es-la",
-    "de",
-    "pl"
-   ]
-  },
-  {
-   "id": "ead3f958-0d01-4c1f-b605-620eacb8ead0",
-   "title": {
-    "en": "Boku no Ikezu na Konyakusha"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "pt-br",
-    "en",
-    "vi",
-    "id",
-    "pl",
-    "es-la"
    ]
   },
   {
@@ -221,17 +164,74 @@
    ]
   },
   {
+   "id": "39a038c6-9699-44fb-9e8a-5cb12fb4a748",
+   "title": {
+    "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "title": {
+    "en": "Tokiwa-san to Inoue-kun no Boushin"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ead3f958-0d01-4c1f-b605-620eacb8ead0",
+   "title": {
+    "en": "Boku no Ikezu na Konyakusha"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "pt-br",
+    "en",
+    "vi",
+    "id",
+    "pl",
+    "es-la"
+   ]
+  },
+  {
+   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
+   "title": {
+    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "th",
+    "ru",
+    "vi",
+    "en",
+    "pt-br",
+    "es-la",
+    "de",
+    "pl"
+   ]
+  },
+  {
    "id": "8b9bd2d1-218b-4984-a44f-59f706a201c7",
    "title": {
     "en": "Kimi to Uchuu wo Aruku Tame ni"
    },
    "contentRating": "safe",
-   "score": 0.24719685,
+   "score": 0.24720053,
    "languages": [
     "zh",
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-25T21:44:16+00:00"
+ "updatedAt": "2024-11-27T21:12:47+00:00"
 }

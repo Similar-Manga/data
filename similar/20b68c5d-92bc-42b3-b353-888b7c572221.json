@@ -6,12 +6,39 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f718a019-afd2-4a59-a86a-c1d36e432560",
+   "title": {
+    "en": "Natsu's Brewery"
+   },
+   "contentRating": "safe",
+   "score": 0.29853827
+  },
+  {
+   "id": "f42b7a16-8e22-48fc-ad84-044632b6ef2d",
+   "title": {
+    "en": "Ponshu-bu!"
+   },
+   "contentRating": "safe",
+   "score": 0.28308728
+  },
+  {
    "id": "f66cd885-b5f0-4b3e-b157-2e8dd92a6ca1",
    "title": {
     "en": "Rakuen wo Mezashite"
    },
    "contentRating": "safe",
-   "score": 0.29004264
+   "score": 0.28188005
+  },
+  {
+   "id": "81e440d1-8b48-4b15-a030-4b376ba26b6c",
+   "title": {
+    "en": "Kikenai Yoru wa Nai"
+   },
+   "contentRating": "safe",
+   "score": 0.27343515,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "9b0ff7d9-9ecf-4519-aabb-644dd774c343",
@@ -19,7 +46,15 @@
     "en": "Suzume-kun no Koe"
    },
    "contentRating": "safe",
-   "score": 0.26364046
+   "score": 0.27131942
+  },
+  {
+   "id": "c1d3cf26-4bd6-45fd-bbb8-d5bb4e5db25f",
+   "title": {
+    "en": "Kami-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.25503993
   },
   {
    "id": "c8b5a61e-81d0-4a8d-a2d3-22ba8c409106",
@@ -27,24 +62,11 @@
     "en": "siSTAR regiSTAR"
    },
    "contentRating": "safe",
-   "score": 0.25572085,
+   "score": 0.25293908,
    "languages": [
     "en",
     "es-la",
     "pt-br"
-   ]
-  },
-  {
-   "id": "78a664a7-2f4e-464b-b925-92984012f00c",
-   "title": {
-    "en": "Anata ga Shite Kurenakute mo"
-   },
-   "contentRating": "safe",
-   "score": 0.25329122,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi"
    ]
   },
   {
@@ -53,39 +75,43 @@
     "en": "Kizuato ni Hana"
    },
    "contentRating": "safe",
-   "score": 0.25041464
+   "score": 0.24847078
   },
   {
-   "id": "945f9411-dc49-4a9a-b40a-6084e94bcab9",
+   "id": "948de3b7-9059-4215-946c-2028667918af",
    "title": {
-    "en": "Akuta no Shinigiwa"
+    "en": "Op: Yoake Itaru no Iro no Nai Hibi"
    },
    "contentRating": "safe",
-   "score": 0.24981552,
+   "score": 0.24692619,
    "languages": [
-    "en",
-    "zh-hk"
+    "pt-br",
+    "en"
    ]
   },
   {
-   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
+   "id": "19a998bd-c28a-448e-bcc1-e246eccdb503",
    "title": {
-    "en": "Kemutai Hanashi"
+    "en": "Boku to Ayakashi no 365 Nichi"
    },
    "contentRating": "safe",
-   "score": 0.24854119,
-   "languages": [
-    "en",
-    "zh-hk"
-   ]
+   "score": 0.24692619
   },
   {
-   "id": "42bfe854-35eb-4f88-a9d6-8cbb4ffbb218",
+   "id": "935a29d1-cd3d-438f-bbe4-f4905f053396",
    "title": {
-    "en": "Honzuki no Botsuraku Reijou, Shousetsuka o Otetsudai suru."
+    "en": "Hotel Lilac"
    },
    "contentRating": "safe",
-   "score": 0.24740498
+   "score": 0.24692619
+  },
+  {
+   "id": "66e9aba1-e081-44ae-8c89-2276a7f8b484",
+   "title": {
+    "en": "Yasamura Yasashi ga Yasashii Riyuu"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619
   },
   {
    "id": "0b5d2b44-2bb8-4380-9604-2c50cc79c58a",
@@ -104,65 +130,37 @@
    ]
   },
   {
-   "id": "948de3b7-9059-4215-946c-2028667918af",
+   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
    "title": {
-    "en": "Op: Yoake Itaru no Iro no Nai Hibi"
+    "en": "Kemutai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.24692619,
+   "score": 0.2468952,
    "languages": [
-    "pt-br",
-    "en"
+    "en",
+    "zh-hk"
    ]
   },
   {
-   "id": "66e9aba1-e081-44ae-8c89-2276a7f8b484",
+   "id": "945f9411-dc49-4a9a-b40a-6084e94bcab9",
    "title": {
-    "en": "Yasamura Yasashi ga Yasashii Riyuu"
+    "en": "Akuta no Shinigiwa"
    },
    "contentRating": "safe",
-   "score": 0.24692619
+   "score": 0.24678203,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
   },
   {
-   "id": "c1d3cf26-4bd6-45fd-bbb8-d5bb4e5db25f",
+   "id": "0e871c65-2119-4ae7-9c73-7f0e62678826",
    "title": {
-    "en": "Kami-chan"
+    "en": "Guyabano Holiday"
    },
    "contentRating": "safe",
-   "score": 0.24692619
-  },
-  {
-   "id": "935a29d1-cd3d-438f-bbe4-f4905f053396",
-   "title": {
-    "en": "Hotel Lilac"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619
-  },
-  {
-   "id": "19a998bd-c28a-448e-bcc1-e246eccdb503",
-   "title": {
-    "en": "Boku to Ayakashi no 365 Nichi"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619
-  },
-  {
-   "id": "2b165010-31fc-4736-b60d-4226ea967e25",
-   "title": {
-    "en": "Kimi wa Budoukan ni Tatenai"
-   },
-   "contentRating": "safe",
-   "score": 0.24132329
-  },
-  {
-   "id": "92fa29ec-f35e-4664-8b8c-c747cc0cf86e",
-   "title": {
-    "en": "Meikon of the Dead"
-   },
-   "contentRating": "safe",
-   "score": 0.23839016
+   "score": 0.24595787
   }
  ],
- "updatedAt": "2024-11-25T20:40:57+00:00"
+ "updatedAt": "2024-11-27T20:26:19+00:00"
 }

@@ -33,9 +33,10 @@
   "originalLanguage": "ja",
   "lastVolume": "4",
   "lastChapter": "35",
+  "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2010,
-  "contentRating": "safe",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en",
    "ru"
@@ -128,9 +129,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2018-02-02T04:37:44+00:00",
-  "updatedAt": "2022-02-19T05:11:30+00:00"
+  "updatedAt": "2024-11-25T13:00:40+00:00"
  },
  "relationships": [
   {
@@ -186,16 +187,16 @@
    }
   },
   {
-   "id": "1644fb2c-174e-4fee-8cdf-998367ff78c7",
+   "id": "23c618ea-a448-4fa4-8b55-18b3488522ca",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:37:52+00:00",
+    "createdAt": "2021-05-23T08:04:25+00:00",
     "description": "",
-    "fileName": "fdccec70-a9c2-4d56-a567-f7b4080202df.jpg",
+    "fileName": "05b68602-d65f-4469-be88-beddfd181163.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:37:52+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T08:04:26+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

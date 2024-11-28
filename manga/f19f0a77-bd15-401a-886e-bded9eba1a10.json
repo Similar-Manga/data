@@ -1,0 +1,894 @@
+{
+ "id": "f19f0a77-bd15-401a-886e-bded9eba1a10",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Dead by Daylight Fan Comic Anthology"
+  },
+  "altTitles": [
+   {
+    "ja": "Dead by Daylight ファンコミックアンソロジー"
+   }
+  ],
+  "description": {
+   "en": "​1. **Color Illustrations:**\nCover Illustration: TERU\nColor Comic: Yamamoto Kana\nColor Illustration: Labell\n\n**Comics:**\n2. TERU - Escape from the Trapper\n3. Kangyaku - THE 山岡家\n4. Sawamura Ryou - DbDおしゃれ女子会\n5. Izumi Tomoki - 露見する斧\n6. Meg - 恥ずべき遺伝子の浄化\n7. 0910 - レッドフォレストコンパクト\n8. Miki Migiri - ミカエラ・リードの願い\n9. Mintozushi - 脱出の兆し…！？\n10. Nishiki Koi - 凜ちゃんのハートフル♡うどんクッキング！\n11. Anoa Design - 私のハントレス\n12. Matsuda Iyo - accelerando\n13. Mondaba - 深手を分かち合う、仲間と共に\n14. Mizuno Madoka - キラーつよいつよい"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/4046803363",
+   "bw": "deb63bbe8a-865b-4ceb-bdc9-81b6e6885926",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/837079/",
+   "raw": "https://www.kadokawa.co.jp/product/322012000044/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "14",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 7,
+  "createdAt": "2024-11-26T04:47:50+00:00",
+  "updatedAt": "2024-11-26T07:12:56+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1c6d4ecd-4bef-4dbd-b1a5-2470ec3e44aa",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T06:22:57+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "0910",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T06:22:57+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2b64ce45-08ad-49d5-a50d-a5f7b528be7c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** アノアデザイン\n\n**Additional Sites:**\n- [MTG Site](http://mtg.anoad.com/)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Anoa Design",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/49210073",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/anoadesign_mtg",
+    "updatedAt": "2024-11-26T06:03:35+00:00",
+    "version": 2,
+    "website": "http://anoad.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2cd00e85-be57-4e41-8690-5b577d2c2ba4",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** マツダイヨ\n\n**Also Known As:** Anago (あなご)\n\n**Circle:** Camellia"
+    },
+    "booth": "https://yuzukan02.booth.pm/",
+    "createdAt": "2024-11-26T06:29:21+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=67067",
+    "name": "Matsuda Iyo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/1032586",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/iyo_matsuda",
+    "updatedAt": "2024-11-26T06:49:32+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "415aeb90-8a18-42e9-b22e-842d0b50daae",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Additional Sites:**\n- [Instagram](https://www.instagram.com/_meg0506/)\n- [Doodle X](https://x.com/mogmog_osyushi)\n- [BL pixiv](https://www.pixiv.net/users/3038385)\n- [BL X](https://x.com/Meg_kazahana)"
+    },
+    "booth": null,
+    "createdAt": "2022-05-21T22:19:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Meg",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/15310682",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/_Meg0506",
+    "updatedAt": "2024-11-26T07:04:01+00:00",
+    "version": 3,
+    "website": "http://kazahana3196.web.fc2.com/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/@3meg420"
+   }
+  },
+  {
+   "id": "4e824d25-a217-4b2c-b65d-5253d94d4318",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** みんとずし"
+    },
+    "booth": null,
+    "createdAt": "2021-12-24T17:06:17+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mintozushi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/6235851",
+    "skeb": null,
+    "tumblr": "https://mint-rakugakisouko.tumblr.com/",
+    "twitter": "https://twitter.com/kiri0120",
+    "updatedAt": "2024-11-26T06:54:20+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "58d97241-a8d9-483a-a017-873fd1f11bba",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Additional Sites:**\n- [Instagram](https://www.instagram.com/redtailworld)\n- [ArtStation](https://www.artstation.com/teru_by_mashcomix)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T03:59:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "TERU",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/925336",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/teru_by_m",
+    "updatedAt": "2024-11-26T04:02:31+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5fef8d0e-287c-45e3-abd3-1c2a296cedf3",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 二色鯉"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T06:26:32+00:00",
+    "fanBox": "https://nishiki-koi.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nishiki Koi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/68554",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/Koi000",
+    "updatedAt": "2024-11-26T06:27:14+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "662d43ab-2074-4eca-954c-33753529e30d",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** もんだば\n\n**Additional Sites:**\n- [2nd X](https://x.com/da_bamon_)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T07:05:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mondaba",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/33924069",
+    "skeb": "https://skeb.jp/@Moonda8shu",
+    "tumblr": null,
+    "twitter": "https://twitter.com/Moonda8shu",
+    "updatedAt": "2024-11-26T07:07:20+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8e3594bb-820e-4e72-a478-79c509889c7b",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 泉朝樹\n\nHe met his wife, [Izumi Emo](https://mangadex.org/author/c1c63cf4-f44c-429c-986a-c052d89df536), in high school. They have 3 children together.\n\nAt 18 years old, in January 2004, he was a finalist and won an honorable mention from the 10th Jump Twelve Newcomer Comic Awards with “CLEANER”. He then debuted in December 2006 with “Psychokinesis” in *Go! Go! Jump*.\n\nFormer assistant of [Masuda Tsuyoshi](https://mangadex.org/author/605a4425-881b-4fd0-97f3-1e85636fae15/masuda-tsuyoshi). Friends with [Katayama Yousuke](https://mangadex.org/author/5882f4df-26a0-4cd5-90f5-b01f7007246c/katayama-yousuke) and [Oshikiri Rensuke](https://mangadex.org/author/9fbe9050-d5c2-48fe-8154-6ebe032de6c4/oshikiri-rensuke).\n\nOften streams his drawing on YouTube."
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://izumi000.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Izumi Tomoki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/3489777",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/izumi000",
+    "updatedAt": "2024-11-21T23:26:03+00:00",
+    "version": 14,
+    "website": null,
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCYw9ZyeBH1V0ti3aFl21TyQ"
+   }
+  },
+  {
+   "id": "a25d355c-fa51-4af7-ae17-c586d1243b57",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 水野まどか\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/madororuoon/)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizuno Madoka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": "https://manga.nicovideo.jp/manga/list?user_id=10760026",
+    "pixiv": "https://www.pixiv.net/users/1218077",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/madorosuooon",
+    "updatedAt": "2024-11-26T06:38:55+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b9e1e461-b777-4357-a93f-730f100760a7",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 御木ミギリ"
+    },
+    "booth": "https://migiri0038.booth.pm/",
+    "createdAt": "2023-01-14T11:41:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Miki Migiri",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/31131229",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/Miki_Migiri",
+    "updatedAt": "2024-11-26T06:35:54+00:00",
+    "version": 3,
+    "website": "https://migiri008.jimdofree.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cfde0337-601e-4c12-8eca-0cc91cbd37ef",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 観虐\n\n**Additional Sites:**\n- [Pinterest](https://pinterest.com/kangyaku/)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T06:05:20+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kangyaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kangyaku",
+    "updatedAt": "2024-11-26T06:06:47+00:00",
+    "version": 2,
+    "website": "https://kangyaku.myportfolio.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "dc1f6e36-af15-494a-b7db-ac44a9a3dd8d",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** さわむらリョウ"
+    },
+    "booth": "https://r17sw.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sawamura Ryou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/5820120",
+    "skeb": "https://skeb.jp/@R17sw",
+    "tumblr": null,
+    "twitter": "https://twitter.com/R17sw/",
+    "updatedAt": "2024-11-26T06:09:02+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UC1xBtGTBESnaZPPg3-4x7_g"
+   }
+  },
+  {
+   "id": "1c6d4ecd-4bef-4dbd-b1a5-2470ec3e44aa",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T06:22:57+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "0910",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T06:22:57+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2b39e657-6028-451c-a57c-36f907414cb4",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 山本かな\n\n**Also Known As:** KUSUKUSU (クスクス)\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/ishiki_kana/)\n- [Comic Instagram](https://www.instagram.com/kana_in_tokyo/)\n- [Personal Instagram](https://www.instagram.com/kanaintokyo/)\n- [flickr](https://www.flickr.com/people/60555737@N02/)\n- [Old Blog](https://ameblo.jp/kusukusu723)"
+    },
+    "booth": "https://kusukusu.booth.pm/",
+    "createdAt": "2024-11-26T04:27:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamamoto Kana (山本かな)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/112117",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kusukusu723",
+    "updatedAt": "2024-11-26T04:35:28+00:00",
+    "version": 3,
+    "website": "https://kana-adam.blog.jp/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/user/kusukusu723"
+   }
+  },
+  {
+   "id": "2b64ce45-08ad-49d5-a50d-a5f7b528be7c",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** アノアデザイン\n\n**Additional Sites:**\n- [MTG Site](http://mtg.anoad.com/)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Anoa Design",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/49210073",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/anoadesign_mtg",
+    "updatedAt": "2024-11-26T06:03:35+00:00",
+    "version": 2,
+    "website": "http://anoad.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2cd00e85-be57-4e41-8690-5b577d2c2ba4",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** マツダイヨ\n\n**Also Known As:** Anago (あなご)\n\n**Circle:** Camellia"
+    },
+    "booth": "https://yuzukan02.booth.pm/",
+    "createdAt": "2024-11-26T06:29:21+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=67067",
+    "name": "Matsuda Iyo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/1032586",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/iyo_matsuda",
+    "updatedAt": "2024-11-26T06:49:32+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "415aeb90-8a18-42e9-b22e-842d0b50daae",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Additional Sites:**\n- [Instagram](https://www.instagram.com/_meg0506/)\n- [Doodle X](https://x.com/mogmog_osyushi)\n- [BL pixiv](https://www.pixiv.net/users/3038385)\n- [BL X](https://x.com/Meg_kazahana)"
+    },
+    "booth": null,
+    "createdAt": "2022-05-21T22:19:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Meg",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/15310682",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/_Meg0506",
+    "updatedAt": "2024-11-26T07:04:01+00:00",
+    "version": 3,
+    "website": "http://kazahana3196.web.fc2.com/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/@3meg420"
+   }
+  },
+  {
+   "id": "4e824d25-a217-4b2c-b65d-5253d94d4318",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** みんとずし"
+    },
+    "booth": null,
+    "createdAt": "2021-12-24T17:06:17+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mintozushi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/6235851",
+    "skeb": null,
+    "tumblr": "https://mint-rakugakisouko.tumblr.com/",
+    "twitter": "https://twitter.com/kiri0120",
+    "updatedAt": "2024-11-26T06:54:20+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "58d97241-a8d9-483a-a017-873fd1f11bba",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Additional Sites:**\n- [Instagram](https://www.instagram.com/redtailworld)\n- [ArtStation](https://www.artstation.com/teru_by_mashcomix)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T03:59:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "TERU",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/925336",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/teru_by_m",
+    "updatedAt": "2024-11-26T04:02:31+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5fef8d0e-287c-45e3-abd3-1c2a296cedf3",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 二色鯉"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T06:26:32+00:00",
+    "fanBox": "https://nishiki-koi.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nishiki Koi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/68554",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/Koi000",
+    "updatedAt": "2024-11-26T06:27:14+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "662d43ab-2074-4eca-954c-33753529e30d",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** もんだば\n\n**Additional Sites:**\n- [2nd X](https://x.com/da_bamon_)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T07:05:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mondaba",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/33924069",
+    "skeb": "https://skeb.jp/@Moonda8shu",
+    "tumblr": null,
+    "twitter": "https://twitter.com/Moonda8shu",
+    "updatedAt": "2024-11-26T07:07:20+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8e3594bb-820e-4e72-a478-79c509889c7b",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 泉朝樹\n\nHe met his wife, [Izumi Emo](https://mangadex.org/author/c1c63cf4-f44c-429c-986a-c052d89df536), in high school. They have 3 children together.\n\nAt 18 years old, in January 2004, he was a finalist and won an honorable mention from the 10th Jump Twelve Newcomer Comic Awards with “CLEANER”. He then debuted in December 2006 with “Psychokinesis” in *Go! Go! Jump*.\n\nFormer assistant of [Masuda Tsuyoshi](https://mangadex.org/author/605a4425-881b-4fd0-97f3-1e85636fae15/masuda-tsuyoshi). Friends with [Katayama Yousuke](https://mangadex.org/author/5882f4df-26a0-4cd5-90f5-b01f7007246c/katayama-yousuke) and [Oshikiri Rensuke](https://mangadex.org/author/9fbe9050-d5c2-48fe-8154-6ebe032de6c4/oshikiri-rensuke).\n\nOften streams his drawing on YouTube."
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://izumi000.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Izumi Tomoki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/3489777",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/izumi000",
+    "updatedAt": "2024-11-21T23:26:03+00:00",
+    "version": 14,
+    "website": null,
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCYw9ZyeBH1V0ti3aFl21TyQ"
+   }
+  },
+  {
+   "id": "a25d355c-fa51-4af7-ae17-c586d1243b57",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 水野まどか\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/madororuoon/)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizuno Madoka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": "https://manga.nicovideo.jp/manga/list?user_id=10760026",
+    "pixiv": "https://www.pixiv.net/users/1218077",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/madorosuooon",
+    "updatedAt": "2024-11-26T06:38:55+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b9e1e461-b777-4357-a93f-730f100760a7",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 御木ミギリ"
+    },
+    "booth": "https://migiri0038.booth.pm/",
+    "createdAt": "2023-01-14T11:41:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Miki Migiri",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/31131229",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/Miki_Migiri",
+    "updatedAt": "2024-11-26T06:35:54+00:00",
+    "version": 3,
+    "website": "https://migiri008.jimdofree.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cfde0337-601e-4c12-8eca-0cc91cbd37ef",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 観虐\n\n**Additional Sites:**\n- [Pinterest](https://pinterest.com/kangyaku/)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T06:05:20+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kangyaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kangyaku",
+    "updatedAt": "2024-11-26T06:06:47+00:00",
+    "version": 2,
+    "website": "https://kangyaku.myportfolio.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "dc1f6e36-af15-494a-b7db-ac44a9a3dd8d",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** さわむらリョウ"
+    },
+    "booth": "https://r17sw.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sawamura Ryou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/5820120",
+    "skeb": "https://skeb.jp/@R17sw",
+    "tumblr": null,
+    "twitter": "https://twitter.com/R17sw/",
+    "updatedAt": "2024-11-26T06:09:02+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UC1xBtGTBESnaZPPg3-4x7_g"
+   }
+  },
+  {
+   "id": "f86c9bf4-7f3d-4b6a-acb4-d3f9c7c8e172",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** ラベル"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T04:46:22+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Labell",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/14185503",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/Labell_xx",
+    "updatedAt": "2024-11-26T04:47:09+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f3e0bc32-2dcb-4fa8-869b-273d321eceac",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-26T04:47:59+00:00",
+    "description": "",
+    "fileName": "57a17658-f582-44ab-bbba-dfa078410b8f.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-26T04:47:59+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "id": "7f3c15e7-c37b-4e8e-9d64-a33453897a88",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Let me sleep"
+  },
+  "altTitles": [
+   {
+    "ko": "나를 재워줘"
+   }
+  ],
+  "description": {
+   "en": "\"From the embrace of the golden lion, the sun’s destined companion shall arise.\"  \n\nOn the day Eira Goldwyn was born, a prophecy foretold she would become the Empress. But on her wedding night with the Crown Prince…  \n\n\"Are you truly the woman of the prophecy?\"  \n\nThe golden mark, said to appear only on the chosen one, fails to manifest. Cast aside and humiliated, Eira is unilaterally rejected by the Crown Prince.  \n\nWith rumors branding her as an illegitimate child, relatives scheming to seize her family’s legacy while her father lies gravely ill, and relentless headaches and insomnia leaving her vulnerable, Eira's life spirals into chaos.  \n\nUntil one fateful evening. At the Twinveil social club in the capital, Eira encounters a man who holds the cure to her afflictions.  \n\n\"I’ve found him. My remedy.\"  \n\nWith his help, Eira vows to reclaim everything she lost—her honor, her family’s legacy, and her rightful place in the prophecy."
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "e257ac79-0214-46de-978a-dcdce017908a",
+  "tags": [
+   {
+    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Official Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-26T13:46:50+00:00",
+  "updatedAt": "2024-11-26T13:48:00+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8b5b986e-1d49-4d60-b757-aa36ba6da518",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T13:46:01+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Team Yoondo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T13:46:01+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6b931aa0-c412-48f2-86e5-47e75c4fec9f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T13:46:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "bumto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T13:46:10+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6a7aaf0b-c5b7-4c72-8dc3-bf7890736764",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-26T13:47:01+00:00",
+    "description": "",
+    "fileName": "f17678ba-0fb9-4701-8d1b-2b5b01982086.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-26T13:47:01+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}

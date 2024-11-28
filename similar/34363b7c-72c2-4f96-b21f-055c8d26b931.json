@@ -6,20 +6,15 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1f6d6775-3e3c-4240-b1e8-64daeb8ae952",
+   "id": "ba5d5f15-d36d-42bb-8cc3-bf0dcf9bac63",
    "title": {
-    "en": "Tokyo Doukyo Kyokakyoku"
+    "en": "ABO!! -Which Type Do You Like?-"
    },
    "contentRating": "safe",
-   "score": 0.3426787
-  },
-  {
-   "id": "fcf18c5c-880f-40d1-b663-eaa5530416c2",
-   "title": {
-    "en": "Doukyo shita Osananajimi wa, Dekiai o Gaman Dekinai."
-   },
-   "contentRating": "safe",
-   "score": 0.34223756
+   "score": 0.34335715,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "755cd766-aa5f-41e5-aef4-04af319b14b5",
@@ -27,33 +22,19 @@
     "en": "Senpai wa Cool dakedo, Watashi ni Dake wa Amasugiru."
    },
    "contentRating": "safe",
-   "score": 0.328545
+   "score": 0.33441702
   },
   {
-   "id": "ff35a4d9-338f-4a20-9b68-64bbbbbed7b5",
+   "id": "9e0c53c7-16bd-4f98-affe-de4408c4338e",
    "title": {
-    "en": "Watashi no Gochisou wa, Kimi."
+    "en": "Hikaeme ni Itte mo, Kore wa Ai"
    },
    "contentRating": "safe",
-   "score": 0.32005346
-  },
-  {
-   "id": "3dc6fb7c-bdd7-4209-a87d-a71ec10fa509",
-   "title": {
-    "en": "Kirai no Prince wa, Jimiko Dake wo Henai shitai"
-   },
-   "contentRating": "safe",
-   "score": 0.3185722
-  },
-  {
-   "id": "9333a7b6-3125-479b-846b-986338719b97",
-   "title": {
-    "en": "Kurosaki-kun wa Dokusen Shitagaru - Hajimete no Koi wa Ama sugite"
-   },
-   "contentRating": "safe",
-   "score": 0.31655225,
+   "score": 0.32698107,
    "languages": [
-    "pt-br"
+    "pt-br",
+    "en",
+    "vi"
    ]
   },
   {
@@ -62,35 +43,19 @@
     "en": "Ichibanboshi Kirari"
    },
    "contentRating": "safe",
-   "score": 0.3153387,
+   "score": 0.325779,
    "languages": [
     "en",
     "it"
    ]
   },
   {
-   "id": "5dc0d612-8fbd-4385-93f4-121ce68dfc6e",
+   "id": "ff35a4d9-338f-4a20-9b68-64bbbbbed7b5",
    "title": {
-    "en": "Natsume-kun no Amai Ijiwaru de Toroketemasu"
+    "en": "Watashi no Gochisou wa, Kimi."
    },
    "contentRating": "safe",
-   "score": 0.31474912
-  },
-  {
-   "id": "5619b3de-9ea0-4627-b368-c9230ecefdbe",
-   "title": {
-    "en": "Watashi no Umbrella Boy"
-   },
-   "contentRating": "safe",
-   "score": 0.31373036
-  },
-  {
-   "id": "e13cd0e1-a581-43c2-868b-6dca27452264",
-   "title": {
-    "en": "Bocchama, Omoshiree Onna de Gozaimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.31228876
+   "score": 0.32478154
   },
   {
    "id": "b3f9bd06-2e3b-471d-ba5b-466e0e0426bb",
@@ -98,7 +63,26 @@
     "en": "Tonari no Danshi ga Oshida Nante Kiitemasen!"
    },
    "contentRating": "safe",
-   "score": 0.31207934
+   "score": 0.3239574
+  },
+  {
+   "id": "3dc6fb7c-bdd7-4209-a87d-a71ec10fa509",
+   "title": {
+    "en": "Kirai no Prince wa, Jimiko Dake wo Henai shitai"
+   },
+   "contentRating": "safe",
+   "score": 0.3230961
+  },
+  {
+   "id": "9333a7b6-3125-479b-846b-986338719b97",
+   "title": {
+    "en": "Kurosaki-kun wa Dokusen Shitagaru - Hajimete no Koi wa Ama sugite"
+   },
+   "contentRating": "safe",
+   "score": 0.3208064,
+   "languages": [
+    "pt-br"
+   ]
   },
   {
    "id": "d9471bb4-2005-4533-9864-ddf50f21eea0",
@@ -106,20 +90,31 @@
     "en": "Sagara-kun dake wa, Kobamenai"
    },
    "contentRating": "safe",
-   "score": 0.31127638
+   "score": 0.32051516
   },
   {
-   "id": "9e0c53c7-16bd-4f98-affe-de4408c4338e",
+   "id": "5dc0d612-8fbd-4385-93f4-121ce68dfc6e",
    "title": {
-    "en": "Hikaeme ni Itte mo, Kore wa Ai"
+    "en": "Natsume-kun no Amai Ijiwaru de Toroketemasu"
    },
    "contentRating": "safe",
-   "score": 0.3099717,
-   "languages": [
-    "pt-br",
-    "en",
-    "vi"
-   ]
+   "score": 0.31875828
+  },
+  {
+   "id": "5619b3de-9ea0-4627-b368-c9230ecefdbe",
+   "title": {
+    "en": "Watashi no Umbrella Boy"
+   },
+   "contentRating": "safe",
+   "score": 0.31760287
+  },
+  {
+   "id": "e13cd0e1-a581-43c2-868b-6dca27452264",
+   "title": {
+    "en": "Bocchama, Omoshiree Onna de Gozaimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.3159706
   },
   {
    "id": "7880fb0e-f22a-40f6-b97c-013997df357f",
@@ -127,7 +122,7 @@
     "en": "Otonashi-sou na Danshi no Tondemonai Himitsu wo Shite Shimatta"
    },
    "contentRating": "safe",
-   "score": 0.30975288,
+   "score": 0.3130839,
    "languages": [
     "es-la",
     "id",
@@ -141,7 +136,7 @@
     "en": "Tachibana-san wa Niya Tsukenai"
    },
    "contentRating": "safe",
-   "score": 0.30896616
+   "score": 0.3121861
   },
   {
    "id": "974fc213-53ff-4a09-a8ee-d11f3192ce04",
@@ -149,11 +144,22 @@
     "en": "Hoteru Watashi ni Koi wo Oshiete"
    },
    "contentRating": "safe",
-   "score": 0.3070277,
+   "score": 0.30999568,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1d5285bc-2d99-449e-9349-5a642a8889b1",
+   "title": {
+    "en": "Kaijuu no Hanataba"
+   },
+   "contentRating": "safe",
+   "score": 0.30945107,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-25T20:49:37+00:00"
+ "updatedAt": "2024-11-27T20:32:50+00:00"
 }

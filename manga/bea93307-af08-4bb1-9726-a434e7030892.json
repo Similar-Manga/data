@@ -10,7 +10,7 @@
     "en": "Awkward Silent"
    },
    {
-    "en": "不器用なサイレント"
+    "ja": "不器用なサイレント"
    }
   ],
   "description": {
@@ -21,21 +21,26 @@
    "al": "31340",
    "amz": "https://www.amazon.co.jp/dp/B0787R1YW5",
    "ap": "awkward-silence",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?term.media_format=\u0026q=%E4%B8%8D%E5%99%A8%E7%94%A8%E3%81%AA%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/127263/",
    "engtl": "https://www.sublimemanga.com/reader/596",
    "kt": "2890",
    "mal": "1340",
-   "mu": "1769"
+   "mu": "1769",
+   "raw": "https://www.cmoa.jp/title/9457/"
   },
   "originalLanguage": "ja",
   "lastVolume": "6",
   "lastChapter": "31.5",
   "status": "completed",
+  "year": 2004,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
+   "tr",
    "en",
    "pl"
   ],
-  "latestUploadedChapter": "d85db949-2eb7-4a04-9aa6-76a09f44e6e3",
+  "latestUploadedChapter": "12a4d74f-25c8-480f-a369-4d1e736d083a",
   "tags": [
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
@@ -111,9 +116,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2018-12-04T22:03:32+00:00",
-  "updatedAt": "2021-05-25T15:47:14+00:00"
+  "updatedAt": "2024-11-26T10:35:53+00:00"
  },
  "relationships": [
   {
@@ -173,16 +178,16 @@
    }
   },
   {
-   "id": "a0fa57a1-30f0-4fcf-9264-090d0f0a9408",
+   "id": "ff09e706-f239-4efb-83e8-22a4804e3476",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:53:39+00:00",
+    "createdAt": "2024-11-26T10:35:51+00:00",
     "description": "",
-    "fileName": "bf16f881-8a30-43a6-bfcf-45015fc0a363.jpg",
+    "fileName": "19c29982-5c12-403a-b877-7612b4d74ba3.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:53:39+00:00",
+    "updatedAt": "2024-11-26T10:35:51+00:00",
     "version": 1,
-    "volume": null
+    "volume": "6"
    }
   }
  ]

@@ -1,0 +1,843 @@
+{
+ "id": "3c754178-eeee-49ce-a32a-314971c7df55",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Gakuen iDOLM@STER - Comic Anthology"
+  },
+  "altTitles": [
+   {
+    "ja": "学園アイドルマスター コミックアンソロジー"
+   }
+  ],
+  "description": {
+   "en": "A comic anthology of the popular game \"Gakuen iDOLM@STER Comic Anthology\"! ! Contains 14 original manga overflowing with love for \"Gakuen iDOLM@STER\"!\n\nCover Illustration: Mana"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/4758028273",
+   "bw": "de26fd2f17-83f0-4111-9f85-0dc6180209d5"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-26T08:01:30+00:00",
+  "updatedAt": "2024-11-26T08:02:08+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0fad550b-484d-4d66-bcf4-2956b7496a61",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T08:00:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Vanilla Basyo (バニラ芭蕉)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T08:00:03+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "152e2385-fe02-488e-bced-7331c0e95765",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: あにき"
+    },
+    "booth": null,
+    "createdAt": "2022-02-14T07:36:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aniki (あにき)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/94Yuto",
+    "updatedAt": "2024-08-01T03:39:26+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "24085fe0-10a2-490e-9c2a-51ddbf9a39bb",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hanada Momose",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/HanadaMomose",
+    "updatedAt": "2023-06-03T19:48:46+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "246f105e-ae9d-41d6-a03d-135dae54f51e",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name:** 絶叫あいす。"
+    },
+    "booth": null,
+    "createdAt": "2024-10-24T01:43:20+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Zekkyou Aisu.",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T01:43:48+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "39576ee1-49a4-4f0c-b4c9-1aa27559c3e6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:40:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amepa (あめぱ)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:40:00+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "435d0c34-c354-4d36-b40c-83afb3645081",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:42:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Otsu Dou (乙童)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:42:28+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "54908d59-ef4c-4ede-bedb-0485637a684b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Homare",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "667684f5-a409-4746-a55b-0003941e8a02",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name:** ォガサワラ"
+    },
+    "booth": null,
+    "createdAt": "2024-10-24T01:59:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ogasawara",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T01:59:30+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "706693e4-7581-40ba-a7cb-92351bd8dd4d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:48:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kasan (加算)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:48:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7922aca4-ef20-47f5-bbde-2c9888d21bde",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-05T12:32:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Uma Ohagi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-05T12:32:03+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8f00faed-90e9-4abf-a615-1426da69cce3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-03-19T17:17:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Okada Kirin",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kirin_no_obake",
+    "updatedAt": "2024-03-19T18:44:08+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b8625198-2613-4d7a-b947-21e4c3bc8166",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:50:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sumi (角)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:50:54+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bfd3de28-567d-4d4a-b173-d088c0e506e2",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:40:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Haru Uno (卯野はる)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:40:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f9a2e310-316b-4513-8525-7f234eb0ebfa",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:45:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inunisatiare (おヤサゐぬ)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:45:00+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0fad550b-484d-4d66-bcf4-2956b7496a61",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T08:00:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Vanilla Basyo (バニラ芭蕉)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T08:00:03+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "152e2385-fe02-488e-bced-7331c0e95765",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: あにき"
+    },
+    "booth": null,
+    "createdAt": "2022-02-14T07:36:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aniki (あにき)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/94Yuto",
+    "updatedAt": "2024-08-01T03:39:26+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "24085fe0-10a2-490e-9c2a-51ddbf9a39bb",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hanada Momose",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/HanadaMomose",
+    "updatedAt": "2023-06-03T19:48:46+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "246f105e-ae9d-41d6-a03d-135dae54f51e",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name:** 絶叫あいす。"
+    },
+    "booth": null,
+    "createdAt": "2024-10-24T01:43:20+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Zekkyou Aisu.",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T01:43:48+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "39576ee1-49a4-4f0c-b4c9-1aa27559c3e6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:40:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amepa (あめぱ)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:40:00+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "435d0c34-c354-4d36-b40c-83afb3645081",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:42:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Otsu Dou (乙童)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:42:28+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "54908d59-ef4c-4ede-bedb-0485637a684b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Homare",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "667684f5-a409-4746-a55b-0003941e8a02",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name:** ォガサワラ"
+    },
+    "booth": null,
+    "createdAt": "2024-10-24T01:59:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ogasawara",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-24T01:59:30+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "706693e4-7581-40ba-a7cb-92351bd8dd4d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:48:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kasan (加算)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:48:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7922aca4-ef20-47f5-bbde-2c9888d21bde",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-05T12:32:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Uma Ohagi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-05T12:32:03+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8f00faed-90e9-4abf-a615-1426da69cce3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-03-19T17:17:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Okada Kirin",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kirin_no_obake",
+    "updatedAt": "2024-03-19T18:44:08+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b8625198-2613-4d7a-b947-21e4c3bc8166",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:50:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sumi (角)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:50:54+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bfd3de28-567d-4d4a-b173-d088c0e506e2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:40:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Haru Uno (卯野はる)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:40:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f9a2e310-316b-4513-8525-7f234eb0ebfa",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T07:45:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inunisatiare (おヤサゐぬ)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:45:00+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8cbe734c-add1-4876-b0cc-ab0c9a19aa30",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-26T08:01:35+00:00",
+    "description": "",
+    "fileName": "1ab19255-9d50-4608-98f8-2d3eb4abc3e3.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-26T08:01:35+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "bce90ee1-4a1d-4a64-a01e-2463cf1be061",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "7b7a3eaa-a2ca-4381-a6d7-67f5d607b37c",
+   "type": "creator"
+  }
+ ]
+}

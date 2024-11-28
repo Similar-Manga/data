@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "5eb2c6fa-4dc4-4fba-974f-ae44bd8ce2ff",
+   "title": {
+    "en": "Ao Ashi Brotherfoot"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en",
+    "es-la",
+    "fr"
+   ]
+  },
+  {
    "id": "5763292a-3bb7-43e8-a0fc-53f2140253a2",
    "title": {
     "en": "Bungo"
@@ -21,36 +34,12 @@
    ]
   },
   {
-   "id": "5eb2c6fa-4dc4-4fba-974f-ae44bd8ce2ff",
-   "title": {
-    "en": "Ao Ashi Brotherfoot"
-   },
-   "contentRating": "safe",
-   "score": 0.2835781,
-   "languages": [
-    "en",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
    "id": "286da3e0-4981-42b1-9f8f-c59a7e91d3de",
    "title": {
     "en": "Shoujo Fight"
    },
    "contentRating": "safe",
    "score": 0.24558583,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6e3d0841-96b5-48f3-9b71-dea671b51fab",
-   "title": {
-    "en": "Highway Wolf"
-   },
-   "contentRating": "safe",
-   "score": 0.24160752,
    "languages": [
     "en"
    ]
@@ -69,12 +58,23 @@
    ]
   },
   {
+   "id": "6e3d0841-96b5-48f3-9b71-dea671b51fab",
+   "title": {
+    "en": "Highway Wolf"
+   },
+   "contentRating": "safe",
+   "score": 0.24160752,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b73371d4-02dd-4db0-b448-d9afa3d698f1",
    "title": {
     "en": "Ao Ashi"
    },
    "contentRating": "safe",
-   "score": 0.23161386,
+   "score": 0.23161499,
    "languages": [
     "en",
     "pt-br",
@@ -87,6 +87,19 @@
     "it",
     "fa",
     "es"
+   ]
+  },
+  {
+   "id": "7a9ea386-c960-4752-9035-7c652c1b97af",
+   "title": {
+    "en": "Shinohayu - The Dawn of Age"
+   },
+   "contentRating": "safe",
+   "score": 0.21965864,
+   "languages": [
+    "pt-br",
+    "en",
+    "he"
    ]
   },
   {
@@ -104,25 +117,12 @@
    ]
   },
   {
-   "id": "7a9ea386-c960-4752-9035-7c652c1b97af",
-   "title": {
-    "en": "Shinohayu - The Dawn of Age"
-   },
-   "contentRating": "safe",
-   "score": 0.21965864,
-   "languages": [
-    "pt-br",
-    "en",
-    "he"
-   ]
-  },
-  {
    "id": "9f2b4670-18bb-4994-bcdb-4a62b29ddd09",
    "title": {
     "en": "Attack!!"
    },
    "contentRating": "safe",
-   "score": 0.2117997,
+   "score": 0.21179794,
    "languages": [
     "en"
    ]
@@ -133,18 +133,7 @@
     "en": "Tamayomi"
    },
    "contentRating": "safe",
-   "score": 0.20582148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1c64514c-ebb0-4118-a690-700ba22c2a80",
-   "title": {
-    "en": "Beautiful Place"
-   },
-   "contentRating": "safe",
-   "score": 0.20395781,
+   "score": 0.20582314,
    "languages": [
     "en"
    ]
@@ -155,7 +144,7 @@
     "en": "Catenaccio"
    },
    "contentRating": "safe",
-   "score": 0.20275041,
+   "score": 0.2027496,
    "languages": [
     "vi",
     "ru",
@@ -177,17 +166,6 @@
    ]
   },
   {
-   "id": "728698ee-f78f-4257-8b8d-212e0b3a6037",
-   "title": {
-    "en": "Battle Studies"
-   },
-   "contentRating": "safe",
-   "score": 0.20052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6574402f-dc43-4c6d-addf-d80d5aec47df",
    "title": {
     "en": "End of Summer"
@@ -201,18 +179,44 @@
    ]
   },
   {
-   "id": "7d20c0f5-5ded-4799-b753-2ef852faee8d",
+   "id": "728698ee-f78f-4257-8b8d-212e0b3a6037",
    "title": {
-    "en": "Bakuon!!"
+    "en": "Battle Studies"
+   },
+   "contentRating": "safe",
+   "score": 0.20052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4a433d6b-f51a-4c2f-a183-85419fe98efc",
+   "title": {
+    "en": "Medalist"
    },
    "contentRating": "safe",
    "score": 0.1972717,
    "languages": [
+    "zh",
     "en",
+    "pt-br",
     "es-la",
-    "ru"
+    "ru",
+    "zh-hk",
+    "vi"
+   ]
+  },
+  {
+   "id": "070bc563-823d-48e3-8bd1-911a0314f7f5",
+   "title": {
+    "en": "Mahjong of the North Star"
+   },
+   "contentRating": "safe",
+   "score": 0.1972717,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2024-11-25T21:15:49+00:00"
+ "updatedAt": "2024-11-27T20:51:29+00:00"
 }

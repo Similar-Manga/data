@@ -6,25 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1f66f327-1083-4334-b7bc-39fc11809b53",
-   "title": {
-    "en": "Rui wa Koi o Yobu"
-   },
-   "contentRating": "safe",
-   "score": 0.3505206,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
    "id": "1a3e1ef3-6f44-437c-867c-11b900f6b2a5",
    "title": {
     "en": "Shitsuren no Susume"
    },
    "contentRating": "safe",
-   "score": 0.33652315,
+   "score": 0.40017024,
    "languages": [
     "it"
+   ]
+  },
+  {
+   "id": "1f66f327-1083-4334-b7bc-39fc11809b53",
+   "title": {
+    "en": "Rui wa Koi o Yobu"
+   },
+   "contentRating": "safe",
+   "score": 0.3464428,
+   "languages": [
+    "es-la"
    ]
   },
   {
@@ -33,7 +33,7 @@
     "en": "Like to Be Ordinary!"
    },
    "contentRating": "safe",
-   "score": 0.32778335,
+   "score": 0.32631335,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Tonari no Megane Ouji to Yankee to!"
    },
    "contentRating": "safe",
-   "score": 0.32450134
+   "score": 0.32313776
   },
   {
    "id": "c5e55d8c-f8df-42e8-8bcc-8ad336a09904",
@@ -52,7 +52,7 @@
     "en": "Idol Clubs"
    },
    "contentRating": "safe",
-   "score": 0.32390907,
+   "score": 0.32256916,
    "languages": [
     "en"
    ]
@@ -63,9 +63,21 @@
     "en": "Kiss Me on the Apple of My Eye"
    },
    "contentRating": "safe",
-   "score": 0.32181233,
+   "score": 0.32054335,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
+   "title": {
+    "en": "Hana ni Kedamono"
+   },
+   "contentRating": "safe",
+   "score": 0.3196625,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -74,94 +86,9 @@
     "en": "Oh! my Prince"
    },
    "contentRating": "safe",
-   "score": 0.3197293,
+   "score": 0.31853452,
    "languages": [
     "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "d33b16ed-4e92-4df5-b820-2ad69b736d4d",
-   "title": {
-    "en": "Kisse~s"
-   },
-   "contentRating": "safe",
-   "score": 0.3177486
-  },
-  {
-   "id": "a0685346-3f0b-4296-a8c3-8f502c2e7f24",
-   "title": {
-    "en": "Marriage Purple"
-   },
-   "contentRating": "safe",
-   "score": 0.31309205,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "e7f43b28-0b5d-40ff-8481-7e0f6f7384d7",
-   "title": {
-    "en": "Sensei 〆Shimekiri made Matte!"
-   },
-   "contentRating": "safe",
-   "score": 0.30958322,
-   "languages": [
-    "es-la",
-    "fr"
-   ]
-  },
-  {
-   "id": "e8389656-9267-4f3b-8495-c0324b3debbb",
-   "title": {
-    "ja": "Houkago, Kare to Kekkon Shimasu."
-   },
-   "contentRating": "safe",
-   "score": 0.30896044,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7e62b59e-7464-4c61-99f7-8e83638dc53c",
-   "title": {
-    "en": "Saint Haipaa Keibitai"
-   },
-   "contentRating": "safe",
-   "score": 0.30850604
-  },
-  {
-   "id": "47861a82-91bb-4033-8f6e-589ef1a7ab9d",
-   "title": {
-    "en": "Hana ni Kedamono"
-   },
-   "contentRating": "safe",
-   "score": 0.3069276,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "d68af35a-60d3-40f4-bcf5-bc1d2e60a96e",
-   "title": {
-    "en": "Amai Suppai Horonigai"
-   },
-   "contentRating": "safe",
-   "score": 0.30632412,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b3aaf23f-0f7b-40a4-9c79-4d982b89998b",
-   "title": {
-    "en": "Strange Orange"
-   },
-   "contentRating": "safe",
-   "score": 0.30570433,
-   "languages": [
     "en"
    ]
   },
@@ -171,8 +98,82 @@
     "en": "M no Yoromeki"
    },
    "contentRating": "safe",
-   "score": 0.3054875
+   "score": 0.31801847
+  },
+  {
+   "id": "d33b16ed-4e92-4df5-b820-2ad69b736d4d",
+   "title": {
+    "en": "Kisse~s"
+   },
+   "contentRating": "safe",
+   "score": 0.3166285
+  },
+  {
+   "id": "660862b9-5418-4e93-8299-69df816ea041",
+   "title": {
+    "en": "Ui x Kon"
+   },
+   "contentRating": "safe",
+   "score": 0.3161261,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a0685346-3f0b-4296-a8c3-8f502c2e7f24",
+   "title": {
+    "en": "Marriage Purple"
+   },
+   "contentRating": "safe",
+   "score": 0.3121414,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "008c1aec-fbd9-41b6-ac9f-34cc44c04700",
+   "title": {
+    "en": "Sweet Pain (Minatsuki Tsunami)"
+   },
+   "contentRating": "safe",
+   "score": 0.30888024,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "e7f43b28-0b5d-40ff-8481-7e0f6f7384d7",
+   "title": {
+    "en": "Sensei 〆Shimekiri made Matte!"
+   },
+   "contentRating": "safe",
+   "score": 0.30874628,
+   "languages": [
+    "es-la",
+    "fr"
+   ]
+  },
+  {
+   "id": "7e62b59e-7464-4c61-99f7-8e83638dc53c",
+   "title": {
+    "en": "Saint Haipaa Keibitai"
+   },
+   "contentRating": "safe",
+   "score": 0.3077103
+  },
+  {
+   "id": "da59c027-5b0b-422c-934e-ce9153d42c85",
+   "title": {
+    "en": "Nae-soong 9th Grade Project"
+   },
+   "contentRating": "safe",
+   "score": 0.30758172,
+   "languages": [
+    "en",
+    "fr"
+   ]
   }
  ],
- "updatedAt": "2024-11-25T21:53:56+00:00"
+ "updatedAt": "2024-11-27T21:20:09+00:00"
 }

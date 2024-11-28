@@ -1,0 +1,157 @@
+{
+ "id": "dcd57f39-a595-4880-8cec-9186df9a6e6f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Waterworld"
+  },
+  "description": {
+   "en": "A manga adaptation of the film.  The story of a post-apocalyptic future where the world is flooded after the polar ice caps have melted and the search for the last remaining dry land."
+  },
+  "links": {
+   "mu": "o1v56lk"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1995,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "9467335a-1b83-4497-9231-765337a00b96",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Post-Apocalyptic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-11-27T05:15:17+00:00",
+  "updatedAt": "2024-11-27T05:33:28+00:00"
+ },
+ "relationships": [
+  {
+   "id": "9422ce64-60fb-45d8-accf-38513d8b7421",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-08-26T19:53:14+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kakizaki Kazumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-08-26T19:53:14+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9422ce64-60fb-45d8-accf-38513d8b7421",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-08-26T19:53:14+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kakizaki Kazumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-08-26T19:53:14+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d6b3c5fc-9429-4fbe-adb9-fa3961126fb3",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-27T05:15:20+00:00",
+    "description": "",
+    "fileName": "7f816c36-3c2e-4fc8-ae1f-f6c724151283.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-27T05:15:20+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "1915b334-d72f-4124-9ac2-ce9348371e70",
+   "type": "creator"
+  }
+ ]
+}

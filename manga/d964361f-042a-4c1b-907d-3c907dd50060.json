@@ -3,28 +3,33 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "A Ninja and an Assassin Living Together"
+   "en": "Ninja to Koroshiya no Futarigurashi"
   },
   "altTitles": [
    {
-    "ja": "Ninja to Koroshiya no Futarigurashi"
+    "ja": "忍者と殺し屋のふたりぐらし"
    },
    {
-    "ja": "忍者と殺し屋のふたりぐらし"
+    "en": "A Ninja and an Assassin Living Together"
    },
    {
     "ru": "Жизнь ниндзя и убийцы"
    }
   ],
   "description": {
-   "en": "Many fatalities?! A naive female ninja and a high school assassin live together in an unpredictable way!\n\nA naive female ninja who escapes from a ninja village meets a high school girl assassin!?\nTheir life together, which begins by chance, is full of danger (and excitement)...!",
-   "ja": "死者多発!? 世間知らずのくノ一×殺し屋JKの予測不能な共同生活！\n\n忍びの里から抜け出した世間知らずのくノ一が出会ったのは、女子高生の殺し屋!?\nひょんなことから始まった共同生活は危険（ドキドキ）がいっぱい…！\n忍者×殺し屋の予測不能な同居コメディ第1巻★",
+   "en": "Many fatalities?! A naive female ninja and a high school assassin live together in an unpredictable way! A naive female ninja who escapes from a ninja village meets a high school girl assassin!? Their life together, which begins by chance, is full of danger (and excitement)...!",
+   "ja": "忍びの里から抜け出した世間知らずのくノ一が出会ったのは、女子高生の殺し屋!? ひょんなことから始まった共同生活は危険（ドキドキ）がいっぱい…！",
    "ru": "Наивная куноити сбегает из своей деревни ниндзя и встречает школьницу-убийцу!\nНачинается непредсказуемая совместная жизнь ниндзя и убийцы★."
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/s?k=%E5%BF%8D%E8%80%85%E3%81%A8%E6%AE%BA%E3%81%97%E5%B1%8B%E3%81%AE%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%90%E3%82%89%E3%81%97\u0026i=digital-text\u0026tag=kadokawacw01-22",
-   "bw": "author/177728",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/679592/A002852949/",
+   "al": "131538",
+   "amz": "https://www.amazon.co.jp/dp/B0BM8465N9",
+   "ap": "ninja-to-koroshiya-no-futarigurashi",
+   "bw": "series/338286",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/679592",
+   "kt": "71671",
+   "mal": "147719",
+   "mu": "qhaioap",
    "raw": "https://comic-walker.com/detail/KC_004464_S"
   },
   "originalLanguage": "ja",
@@ -33,10 +38,23 @@
   "year": 2021,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "ru"
+   "ru",
+   "en"
   ],
-  "latestUploadedChapter": "2aef5683-b5ee-4f7d-a032-a84aea02f95f",
+  "latestUploadedChapter": "e02660be-ed42-4fb7-8b7b-b5d91e732d71",
   "tags": [
+   {
+    "id": "489dd859-9b61-4c37-af75-5b18e88daafc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ninja"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
@@ -51,9 +69,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2024-09-18T17:00:45+00:00",
-  "updatedAt": "2024-09-18T17:01:08+00:00"
+  "updatedAt": "2024-11-26T06:43:02+00:00"
  },
  "relationships": [
   {
@@ -109,16 +127,16 @@
    }
   },
   {
-   "id": "cc726170-4627-4ca4-b419-154a12f35be0",
+   "id": "51e99ad9-25aa-4645-964f-dd33aa9381e2",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-18T17:00:50+00:00",
-    "description": "",
-    "fileName": "ee1f2bf6-9fa6-4cf3-b1db-b8b8519af9ad.jpg",
+    "createdAt": "2024-11-26T02:46:07+00:00",
+    "description": "Volume 4 Cover from BookLive",
+    "fileName": "fc68b043-63f2-4694-9fdf-7349361fcfc7.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-18T17:00:50+00:00",
+    "updatedAt": "2024-11-26T02:46:07+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "4"
    }
   },
   {

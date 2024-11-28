@@ -3,18 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Arabesuku Kokyu No Wakoku Hime"
+   "en": "Arabesque Koukyuu no Wakoku Hime"
   },
   "altTitles": [
    {
     "ja": "アラベスク後宮の和国姫"
    },
    {
-    "en": "Japanese Princess In The Arabesque"
+    "ja-ro": "Arabesque Kōkyū no Wakoku Hime"
+   },
+   {
+    "en": "A Japanese Princess in the Arabesque Harem"
+   },
+   {
+    "en": "Japanese Princess in the Arabesque"
    }
   ],
   "description": {
-   "en": "The queen of legend in later generations, was originally a princess of a Japanese kingdom. She was captured in a plot and taken into the harem of Daryl's empire. However, she was not allowed to bear children in this harem, and after a few years, she would be released!\nShe gains hope and decides to stay away from the emperor (sultan) and aim for the end of the year. However, she is immediately tested by the empress and provoked by a haughty prospective queen. Lyla overcomes these difficulties with her intelligence and innate brightness, which her parents had trained her to possess. Gradually, she is adored by those around her and even shows glimpses of a wise ruler. But as a result - why has she risen from the ashes and is now treated as a favored princess?!\n\n(Source: Comic Walker)"
+   "ja": "後の世に伝説として語られる妃、ライラーは、元々和国の姫君。謀略で捕われダリル帝国の後宮(ハレム)に入れられた。しかしこの後宮では子を産まず数年経てば解放される道が!\n彼女は希望を得て、皇帝(スルタン)に近づかず、年季明けを目指すと決意する。\nだがさっそく皇后に試されたり、高慢な妃候補に挑発されたり。ライラーはいくつもの窮地を両親に鍛えられた聡明さと生来の明るさを発揮して乗り越えていく。しだいに周囲…"
   },
   "links": {
    "raw": "https://comic-walker.com/detail/KC_005992_S/episodes/KC_0059920000200011_E?episodeType=latest"
@@ -62,6 +68,18 @@
     }
    },
    {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -99,9 +117,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2024-11-25T11:04:35+00:00",
-  "updatedAt": "2024-11-25T18:18:31+00:00"
+  "updatedAt": "2024-11-26T05:14:58+00:00"
  },
  "relationships": [
   {

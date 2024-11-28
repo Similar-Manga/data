@@ -22,6 +22,7 @@
   "links": {
    "al": "174255",
    "ap": "munou-wa-fuyou-to-iware-tokeizukai-no-boku-wa-shokunin-guild-kara-oidasareru-mo-dungeon-no-shinbu-de-shin-no-chikara-ni-kakusei-suru",
+   "bw": "series/450290/list",
    "mal": "171147",
    "mu": "ukq4j8g",
    "nu": "i-the-clock-user-was-kicked-out-of-the-craftsmens-guild-for-being-incompetent-but-at-the-dungeons-depths-i-awakened-my-true-power-even-though-i-was-told-to-return-because-they-couldnt",
@@ -30,7 +31,7 @@
   "originalLanguage": "ja",
   "status": "ongoing",
   "year": 2023,
-  "contentRating": "safe",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
   ],
@@ -42,6 +43,18 @@
     "attributes": {
      "name": {
       "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
      },
      "description": {},
      "group": "genre",
@@ -86,9 +99,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 9,
   "createdAt": "2023-05-31T11:29:20+00:00",
-  "updatedAt": "2024-06-17T03:26:33+00:00"
+  "updatedAt": "2024-11-25T15:04:12+00:00"
  },
  "relationships": [
   {
@@ -144,16 +157,16 @@
    }
   },
   {
-   "id": "ed11be7f-395a-416b-8250-9a54278dde07",
+   "id": "2484abb8-7d4f-48bb-9e1f-01b78304d888",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-05-31T11:29:23+00:00",
+    "createdAt": "2024-11-25T15:04:11+00:00",
     "description": "",
-    "fileName": "56e99c5a-3870-4e7f-9fdb-e5cba101f658.jpg",
+    "fileName": "993050eb-cd73-4521-a677-b2fc01eec3e5.jpg",
     "locale": "ja",
-    "updatedAt": "2024-06-12T19:33:49+00:00",
-    "version": 2,
-    "volume": "1"
+    "updatedAt": "2024-11-25T15:04:11+00:00",
+    "version": 1,
+    "volume": "3"
    }
   },
   {

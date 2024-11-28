@@ -1,0 +1,143 @@
+{
+ "id": "d8b37008-6d32-4e74-9d8a-577151b05965",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Crazy Pierrot"
+  },
+  "altTitles": [
+   {
+    "ja": "クレイジーピエロ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "184897",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/100658/",
+   "mu": "gmanl95"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "3",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1981,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-26T11:42:50+00:00",
+  "updatedAt": "2024-11-26T12:02:40+00:00"
+ },
+ "relationships": [
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "baac95b5-baf0-4878-8a5f-9bdf257c1cd0",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-26T11:42:51+00:00",
+    "description": "",
+    "fileName": "6293eb70-97b3-4f9b-8543-a2c609814737.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-26T11:42:51+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0e52b5fc-3e76-43cb-94fd-cd4232da8cf3",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "5c302f75-bac1-43c4-886e-5a868cd96faf",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "aa32f273-3bca-4838-926b-8a9da40c5a0c",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

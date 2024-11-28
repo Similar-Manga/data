@@ -3,24 +3,36 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Unstoppable Muscle Power"
+   "en": "Kinryoku Musou"
   },
   "altTitles": [
    {
     "ja": "筋力無双"
+   },
+   {
+    "ja-ro": "Kinryoku Musō"
+   },
+   {
+    "en": "Unstoppable Muscle Power"
    }
   ],
   "description": {
    "en": "In modern Japan, a mysterious gate leading to another world suddenly appeared, unleashing monstrous beings called demons that spread chaos. The only ones capable of standing against them were heroes wielding skills and magic. However, the protagonist, Kengo Kuromiya, a man with no abilities, possessed a unique constitution that rendered him incapable of storing magical power. Despite this, he honed his physical body to the limit, fighting as a hunter to protect humanity from these creatures.\nOne day, Kengo undergoes a body modification experiment conducted by a mad scientist, granting him superhuman physical strength. Thus begins the tale of Kengo's unstoppable rise, relying solely on his sheer muscle power, without the aid of skills or magic!"
   },
   "links": {
-   "mu": "lqj7o06"
+   "ebj": "https://ebookjapan.yahoo.co.jp/stories/145217/",
+   "mu": "lqj7o06",
+   "raw": "https://manga.line.me/product/periodic?id=S145217"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "8d1fd828-d3b2-4214-98fc-8a899882fca3",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -31,6 +43,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -57,12 +81,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-11-23T17:39:05+00:00",
-  "updatedAt": "2024-11-23T22:09:56+00:00"
+  "updatedAt": "2024-11-26T15:28:51+00:00"
  },
  "relationships": [
   {

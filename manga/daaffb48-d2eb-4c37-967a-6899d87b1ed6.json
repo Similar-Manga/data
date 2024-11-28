@@ -7,7 +7,7 @@
   },
   "altTitles": [
    {
-    "zh": "Seoghwaji"
+    "ko-ro": "Seoghwaji"
    },
    {
     "zh": "惜花芷"
@@ -17,13 +17,20 @@
    },
    {
     "ko": "석화지"
+   },
+   {
+    "zh-ro": "Xī huā zhǐ"
+   },
+   {
+    "en": "Blossoms in Adversity"
    }
   ],
   "description": {
-   "en": "Hwaimji was put to death due to her family's betrayal. A girl who was from a prestigious family a thousand years ago was reincarnated as Hwaji. She tried to live a comfortable life away from betrayals and dark battles... but the family fell apart in an instant, and Hwaji tried reestablish the family using the experiences of his previous life. And then, a man who is attracted to her, like fate, arrives in her unsuccessful life..."
+   "en": "Huazhi was put to death due to her family's betrayal. A girl who was from a prestigious family a thousand years ago was reincarnated as Huazhi. She tried to live a comfortable life away from betrayals and dark battles... but the family fell apart in an instant, and Huazhi tried reestablish the family using the experiences of his previous life. And then, a man who is attracted to her, like fate, arrives in her unsuccessful life...\n\nNote: This is based on a Chinese novel called The Story of Huazhi which has been adapted into a Chinese drama called, \"Blossoms in Adversity.\""
   },
   "links": {
-   "mu": "xeua814"
+   "mu": "xeua814",
+   "nu": "blossom-in-adversity"
   },
   "originalLanguage": "ko",
   "lastChapter": "75",
@@ -33,7 +40,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "9163ca25-4bd2-410a-932f-694d66980d88",
+  "latestUploadedChapter": "b9b819bc-ddbf-4738-8354-bbd0e6d8ff4c",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -133,16 +140,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-11-21T04:10:08+00:00",
-  "updatedAt": "2024-11-24T10:16:34+00:00"
+  "updatedAt": "2024-11-25T23:59:51+00:00"
  },
  "relationships": [
   {
    "id": "17a74c25-9d8b-47c7-bb3e-aa4bf10bdf50",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Chinese writer. \n\nAlternate names: 空留, 공유\n"
+    },
     "booth": null,
     "createdAt": "2024-11-21T04:04:14+00:00",
     "fanBox": null,
@@ -157,8 +166,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-21T04:04:14+00:00",
-    "version": 1,
+    "updatedAt": "2024-11-26T00:00:04+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -11,14 +11,21 @@
    }
   ],
   "description": {
-   "en": "High school student Li Huowang possesses an ability: whenever he closes his eyes, he enters a bizarre cultivation world. In that strange world, he is captured by someone who calls him “Master” and is made into a living medicine—a human cauldron that could be turned into a pill at any moment.\n\nIn the real world, however, Li Huowang is a mentally ill patient living in a psychiatric hospital, unable to attend school. The doctors tell him that the bizarre cultivation world is nothing but a hallucination.\n\nNow, caught between reality and illusion, truth and lies, Li Huowang breaks down, crying and shouting:\n“Mom, I really can’t tell what’s real anymore!”"
+   "en": "High school student Li Huowang possesses an ability: whenever he closes his eyes, he enters a bizarre cultivation world. In that strange world, he is captured by someone who calls him “Master” and is made into a living medicine—a human cauldron that could be turned into a pill at any moment.\n\nIn the real world, however, Li Huowang is a mentally ill patient living in a psychiatric hospital, unable to attend school. The doctors tell him that the bizarre cultivation world is nothing but a hallucination.\n\nNow, caught between reality and illusion, truth and lies, Li Huowang breaks down, crying and shouting:\n“Mom, I really can’t tell what’s real anymore!”",
+   "pt-br": "Li Huowang, um estudante do ensino médio, possui uma habilidade peculiar: sempre que fecha os olhos, ele entra em um mundo de cultivo bizarro. Nesse mundo estranho, ele é capturado por alguém que o chama de “Mestre” e acaba transformado em uma medicina viva — um humano…"
   },
   "links": {
+   "mu": "rmqth2f",
+   "nu": "dao-of-the-bizarre-immortal",
    "raw": "https://ac.qq.com/Comic/comicInfo/id/656073"
   },
   "originalLanguage": "zh",
   "status": "ongoing",
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "pt-br"
+  ],
+  "latestUploadedChapter": "a0cecf90-fe64-4d48-ab97-eec863f67b46",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -26,6 +33,18 @@
     "attributes": {
      "name": {
       "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
      },
      "description": {},
      "group": "genre",
@@ -62,6 +81,18 @@
     "attributes": {
      "name": {
       "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "acc803a4-c95a-4c22-86fc-eb6b582d82a2",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Wuxia"
      },
      "description": {},
      "group": "genre",
@@ -115,26 +146,40 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 8,
   "createdAt": "2024-11-24T00:11:47+00:00",
-  "updatedAt": "2024-11-24T00:13:05+00:00"
+  "updatedAt": "2024-11-26T07:17:05+00:00"
  },
  "relationships": [
   {
-   "id": "5a58c5be-dde0-42e1-849e-1d976d067865",
+   "id": "63200b97-bbf8-4dab-8522-a158fec3afad",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Associated Names:**\n- China Literature\n- China Literature Limited\n- China Manhua\n- China Reading\n- Reading Comics\n- Reading Manga\n- Reading Manhua\n- Yue Wen Man Hua\n- Yue Wen Manhua\n- Yuewen\n- Yuè Wén Mànhuà\n- Yuèwén Mànhuà"
+    },
     "booth": null,
-    "createdAt": "2024-11-24T00:04:24+00:00",
+    "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yue wen",
+    "name": "Yuewen Manhua (阅文漫画)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -142,25 +187,55 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-24T00:04:24+00:00",
-    "version": 1,
+    "updatedAt": "2024-07-23T13:54:56+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": "https://weibo.com/u/6285190000",
+    "youtube": null
+   }
+  },
+  {
+   "id": "c0644274-ad1c-47f7-808c-693199d0be5c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Chinese writer. Alternate names: Foxtail Quill, Foxtail's Pen, 狐尾的笔"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T07:12:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hu Wei De Bi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T07:28:21+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "5a58c5be-dde0-42e1-849e-1d976d067865",
+   "id": "63200b97-bbf8-4dab-8522-a158fec3afad",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Associated Names:**\n- China Literature\n- China Literature Limited\n- China Manhua\n- China Reading\n- Reading Comics\n- Reading Manga\n- Reading Manhua\n- Yue Wen Man Hua\n- Yue Wen Manhua\n- Yuewen\n- Yuè Wén Mànhuà\n- Yuèwén Mànhuà"
+    },
     "booth": null,
-    "createdAt": "2024-11-24T00:04:24+00:00",
+    "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yue wen",
+    "name": "Yuewen Manhua (阅文漫画)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -168,10 +243,10 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-24T00:04:24+00:00",
-    "version": 1,
+    "updatedAt": "2024-07-23T13:54:56+00:00",
+    "version": 5,
     "website": null,
-    "weibo": null,
+    "weibo": "https://weibo.com/u/6285190000",
     "youtube": null
    }
   },

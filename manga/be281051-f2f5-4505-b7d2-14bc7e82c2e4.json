@@ -1,0 +1,135 @@
+{
+ "id": "be281051-f2f5-4505-b7d2-14bc7e82c2e4",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Yawara no Michelangelo"
+  },
+  "altTitles": [
+   {
+    "ja": "柔のミケランジェロ"
+   }
+  ],
+  "description": {
+   "ja": "高校柔道界において「私立」と「公立」の実力格差は広がる一方だった。しかし、その歴史を変える人間が、公立古豪の武橋高校に現れる。その男の正体は…絵画と映画が大好きな陰キャ文系少年・三毛蘭丈だった!?"
+  },
+  "links": {
+   "al": "101885",
+   "amz": "https://www.amazon.co.jp/dp/B07M7B35QX",
+   "ap": "yawara-no-michelangelo",
+   "bw": "series/159792",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/459114",
+   "kt": "40500",
+   "mal": "110052",
+   "mu": "inobblm"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "12",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2017,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-26T01:16:45+00:00",
+  "updatedAt": "2024-11-26T01:17:04+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7641e701-8c3e-4694-9b46-4a166e56aedf",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T01:15:04+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kakuishi Shunsuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T01:15:04+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7641e701-8c3e-4694-9b46-4a166e56aedf",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-26T01:15:04+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kakuishi Shunsuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-26T01:15:04+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c80c343d-e76c-4571-b19a-000aca8023c0",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-26T01:16:57+00:00",
+    "description": "",
+    "fileName": "8831a87f-d107-44c0-aeb0-7dfcb2b36327.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-26T01:16:57+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

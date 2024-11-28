@@ -6,12 +6,27 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1aaa0a4b-78bc-4f39-aa20-145766f83092",
+   "title": {
+    "en": "Welcome to Japan, Ms. Elf!"
+   },
+   "contentRating": "safe",
+   "score": 0.35273984,
+   "languages": [
+    "fr",
+    "es-la",
+    "pt-br",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "55ace2fb-e157-4d76-9e72-67c6bd762a39",
    "title": {
     "en": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba ii?"
    },
    "contentRating": "safe",
-   "score": 0.36424685,
+   "score": 0.3290137,
    "languages": [
     "es-la",
     "en",
@@ -28,27 +43,12 @@
    ]
   },
   {
-   "id": "1aaa0a4b-78bc-4f39-aa20-145766f83092",
-   "title": {
-    "en": "Welcome to Japan, Ms. Elf!"
-   },
-   "contentRating": "safe",
-   "score": 0.35271898,
-   "languages": [
-    "fr",
-    "es-la",
-    "pt-br",
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "1b0673c7-f4e9-4e3a-bfbd-46835ab22819",
    "title": {
     "en": "Edomae Elf"
    },
    "contentRating": "safe",
-   "score": 0.31513608,
+   "score": 0.31514385,
    "languages": [
     "pt-br",
     "en",
@@ -57,36 +57,12 @@
    ]
   },
   {
-   "id": "b0b721ff-c388-4486-aa0f-c2b0bb321512",
-   "title": {
-    "en": "Sousou no Frieren"
-   },
-   "contentRating": "safe",
-   "score": 0.2755715,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "tr",
-    "ar",
-    "vi",
-    "id",
-    "ru",
-    "en",
-    "it",
-    "th",
-    "el",
-    "cs",
-    "fr",
-    "uk"
-   ]
-  },
-  {
    "id": "8d69b2dc-16e3-4067-a4f1-850ada0702c6",
    "title": {
     "en": "Daijizen no Mahoutsukai Ashuto, Sutareta Ryouchi de Slow Life"
    },
    "contentRating": "safe",
-   "score": 0.27550438,
+   "score": 0.2755059,
    "languages": [
     "en",
     "id"
@@ -98,7 +74,7 @@
     "en": "Koujo Denka no Kateikyoushi"
    },
    "contentRating": "safe",
-   "score": 0.2637027,
+   "score": 0.26370633,
    "languages": [
     "en",
     "vi",
@@ -111,7 +87,7 @@
     "en": "Shaba no \"Futsuu\" wa Muzukashii"
    },
    "contentRating": "safe",
-   "score": 0.25499395,
+   "score": 0.25499097,
    "languages": [
     "en"
    ]
@@ -122,7 +98,7 @@
     "en": "Kyuutei Kajishi no Shiawase na Nichijou: Black na Shokuba wo Tsuihou Saretaga, Ringoku de Koushaku Reijou ni Dekiaisarenagara White na Seikatsu Okurimasu"
    },
    "contentRating": "safe",
-   "score": 0.2536905,
+   "score": 0.25369146,
    "languages": [
     "en"
    ]
@@ -133,7 +109,7 @@
     "en": "LV999 no Murabito"
    },
    "contentRating": "safe",
-   "score": 0.25142467,
+   "score": 0.2514244,
    "languages": [
     "pt-br",
     "en",
@@ -152,7 +128,7 @@
     "en": "Saikyou de Saisoku no Mugen Level Up ~Sukiru [Keiken-chi 1000-bai] to [Level Free] de Level Jougen no Kase ga Hazureta Ore wa Musou Suru~"
    },
    "contentRating": "safe",
-   "score": 0.24686857,
+   "score": 0.24687895,
    "languages": [
     "en"
    ]
@@ -178,7 +154,7 @@
     "en": "Tensai Rekinjutsushi wa Kimama ni Tabi suru ~500-nengo no Sekai de Mezameta Sekai Saikou no Moto Kyuutei Renkinjutsushi, Potion Zukuri de Seijo-sama Atsukaisareru~"
    },
    "contentRating": "safe",
-   "score": 0.24520996,
+   "score": 0.24521302,
    "languages": [
     "en"
    ]
@@ -189,10 +165,45 @@
     "en": "Sekai Saikyou no Majo, Hajimemashita ~Watashi Dake \"Kouryaku Saito\" o Miseru Sekai de Jiyuu ni Ikimasu~"
    },
    "contentRating": "safe",
-   "score": 0.23840646,
+   "score": 0.23840807,
    "languages": [
     "th",
     "id",
+    "en"
+   ]
+  },
+  {
+   "id": "b0b721ff-c388-4486-aa0f-c2b0bb321512",
+   "title": {
+    "en": "Sousou no Frieren"
+   },
+   "contentRating": "safe",
+   "score": 0.23820485,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "tr",
+    "ar",
+    "vi",
+    "id",
+    "ru",
+    "en",
+    "it",
+    "th",
+    "el",
+    "cs",
+    "fr",
+    "uk"
+   ]
+  },
+  {
+   "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
+   "title": {
+    "en": "Dragon Quest: Tale of Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.2369634,
+   "languages": [
     "en"
    ]
   },
@@ -202,7 +213,7 @@
     "en": "I Parry Everything: What Do You Mean I’m the Strongest? I’m Not Even an Adventurer Yet!"
    },
    "contentRating": "safe",
-   "score": 0.23722087,
+   "score": 0.2368737,
    "languages": [
     "pt-br",
     "en",
@@ -214,28 +225,17 @@
    ]
   },
   {
-   "id": "60a00615-d1cb-480b-aec1-83019e00eb76",
-   "title": {
-    "en": "Dragon Quest: Tale of Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.23696536,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6ee10d4c-65bd-46da-83ed-df3e1bbaab52",
    "title": {
     "en": "Renkinjutsushi No Sumu Bukiya"
    },
    "contentRating": "safe",
-   "score": 0.23555239,
+   "score": 0.23555838,
    "languages": [
     "en",
     "ru"
    ]
   }
  ],
- "updatedAt": "2024-11-25T20:33:29+00:00"
+ "updatedAt": "2024-11-27T20:20:46+00:00"
 }

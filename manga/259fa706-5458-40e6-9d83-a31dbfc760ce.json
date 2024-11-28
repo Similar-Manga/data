@@ -3,36 +3,34 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Dakara Watashi wa Make suru"
+   "en": "So I Will Make It"
   },
   "altTitles": [
    {
     "ja": "だから私はメイクする"
    },
    {
-    "ja-ro": "Dakara Watashi wa Make-up suru"
+    "ja-ro": "Dakara Watashi wa Make Suru"
    },
    {
-    "en": "So I Will Make It"
-   },
-   {
-    "ja-ro": "Dakara Watashi wa Meiku suru"
+    "ja-ro": "Dakara Watashi wa Meiku Suru"
    }
   ],
   "description": {
-   "en": "The story follows three women and the role of make-up in their lives.\nKumagai Sumire works as a beauty adviser at a cosmetics shop. She works with rookie beauty adviser Kondo Mei and beauty advisor Yamamoto Orikia."
+   "en": "The story follows three women and the role of make-up in their lives. Kumagai Sumire works as a beauty adviser at a cosmetics shop. She works with rookie beauty adviser Kondo Mei and beauty advisor Yamamoto Orikia."
   },
   "links": {
    "al": "120243",
-   "amz": "https://www.amazon.co.jp/%E6%BC%AB%E7%94%BB-%E3%82%B7%E3%83%90%E3%82%BF%E3%83%92%E3%82%AB%E3%83%AA-%E5%8E%9F%E6%A1%88-%E5%8A%87%E5%9B%A3%E9%9B%8C%E7%8C%AB/dp/4396767846/ref=rw_dp_pbnx_fo_vol_1",
+   "amz": "https://www.amazon.co.jp/dp/B08YKBPBVN",
    "ap": "dakara-watashi-wa-make-suru",
    "bw": "series/240207",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/580599/A002337295/",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/580599/",
    "mu": "nlztfjv",
    "raw": "https://comic.pixiv.net/works/6353"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
+  "lastChapter": "12",
   "publicationDemographic": "josei",
   "status": "completed",
   "year": 2019,
@@ -76,33 +74,35 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2024-05-09T13:43:49+00:00",
-  "updatedAt": "2024-05-09T17:28:08+00:00"
+  "updatedAt": "2024-11-26T23:30:30+00:00"
  },
  "relationships": [
   {
    "id": "8816a388-170d-4bf6-831a-7004c81eba75",
    "type": "author",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Name In Native Language:** 劇団雌猫 (Gekidan Mesuneko)\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/gekidan_mesuneco/)\n\nA unit of 4 female geeks."
+    },
+    "booth": "https://aku-you.booth.pm/",
     "createdAt": "2024-05-09T13:37:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Gekidan Mesuneko",
+    "name": "Gekidan Mesuneco",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/21584406",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-05-09T13:37:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/aku__you",
+    "updatedAt": "2024-11-26T23:59:42+00:00",
+    "version": 3,
+    "website": "https://mesuneko.hatenablog.com/",
     "weibo": null,
     "youtube": null
    }
@@ -111,8 +111,10 @@
    "id": "bc1fbfa6-d7b0-476a-bacf-df4f8f637ffb",
    "type": "author",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Name In Native Language:** シバタヒカリ\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/hikari.shibata)"
+    },
+    "booth": "https://hikarishibata.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
@@ -122,23 +124,25 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/10469391",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/sunny_615",
+    "updatedAt": "2024-11-27T02:01:05+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@shibatahikari"
    }
   },
   {
    "id": "bc1fbfa6-d7b0-476a-bacf-df4f8f637ffb",
    "type": "artist",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Name In Native Language:** シバタヒカリ\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/hikari.shibata)"
+    },
+    "booth": "https://hikarishibata.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
@@ -148,26 +152,26 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/10469391",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/sunny_615",
+    "updatedAt": "2024-11-27T02:01:05+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@shibatahikari"
    }
   },
   {
-   "id": "96616bcd-6f12-4e13-affa-33d052d43b8c",
+   "id": "616441fd-525d-4fde-b7f4-2e727fd3e718",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-05-09T13:43:58+00:00",
+    "createdAt": "2024-11-26T23:22:28+00:00",
     "description": "",
-    "fileName": "1fc5ad78-a9e1-4d42-af86-30f1e8187c12.jpg",
+    "fileName": "b2442eaf-35d0-4541-8530-ff34f894bd42.jpg",
     "locale": "ja",
-    "updatedAt": "2024-05-09T13:43:58+00:00",
+    "updatedAt": "2024-11-26T23:22:28+00:00",
     "version": 1,
     "volume": "2"
    }

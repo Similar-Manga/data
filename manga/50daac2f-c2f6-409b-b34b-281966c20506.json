@@ -1,0 +1,156 @@
+{
+ "id": "50daac2f-c2f6-409b-b34b-281966c20506",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Zun-chan to Issho!"
+  },
+  "altTitles": [
+   {
+    "ja": "ずんちゃんといっしょ！"
+   },
+   {
+    "en": "Together With Zun-chan!"
+   }
+  ],
+  "description": {
+   "en": "Tohoku Zunko, a VOCALOID originally created as a relief effort for the 2011 Tohoku earthquake, stars in her own 4-koma manga! Presented by Ukyo, an artist from the same region. Zunko-chan has a dream of opening a Zunda Café in Tokyo. Involving her younger sister, Tohoku Kiritan, and her older sister Tohoku Itako, it's another day where slapstick unfolds!\n\n(Source: MediBang)"
+  },
+  "links": {
+   "bw": "dedd79de72-40b4-4034-8acb-2ec3f45463ea",
+   "engtl": "https://global.bookwalker.jp/series/401773",
+   "raw": "https://www.pixiv.net/en/users/2219276"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "4",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2015,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 7,
+  "createdAt": "2024-11-27T03:46:49+00:00",
+  "updatedAt": "2024-11-27T04:04:36+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d51e5b7f-4f36-4dcc-b50a-39a08d7f7d61",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ukyou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/2219276",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-27T03:49:43+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d51e5b7f-4f36-4dcc-b50a-39a08d7f7d61",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ukyou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/2219276",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-27T03:49:43+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7db30714-5596-40d6-8975-85abfa724b17",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-27T03:46:55+00:00",
+    "description": "",
+    "fileName": "65f4ff11-1135-4bcb-8c7f-3bdd7aeb5d4a.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-27T03:46:55+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "bbbf471e-d463-4b50-a605-db6135366aac",
+   "type": "creator"
+  }
+ ]
+}

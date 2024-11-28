@@ -1,0 +1,111 @@
+{
+ "id": "00afa5d3-9995-493f-be65-dc27b787c5ca",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "WOMEN'S ISLAND"
+  },
+  "description": {
+   "en": "1. WOMEN'S ISLAND\n2. Yori no Kao (夜の顔)\n3. Tanpopo Hime (たんぽぽ姫)\n4. Tsubo (壷)\n5. Umi Kara Kita Doll 2 (海から来たドール２)\n6. Wine (ワイン)\n7. Neko Fujin (猫婦人)\n8. Chou (蝶)\n9. Hashiru Onna (走る女)\n10. Kemukujara no Te (毛むくじゃらの手)"
+  },
+  "links": {
+   "al": "184900"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "10",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1985,
+  "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-26T11:47:23+00:00",
+  "updatedAt": "2024-11-26T12:02:38+00:00"
+ },
+ "relationships": [
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d7cc2355-b594-49a5-8d68-049bb0a9b500",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-26T11:47:24+00:00",
+    "description": "",
+    "fileName": "90733663-575c-45ca-b5d7-aa9338079a85.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-26T11:47:24+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

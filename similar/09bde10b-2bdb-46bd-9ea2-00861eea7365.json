@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "e3e9cba6-81ed-4ac9-ad39-e19d508e9659",
-   "title": {
-    "en": "Koto no Ha"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
    "id": "bbd33493-bbaa-48bd-9a0e-1118c4133e68",
    "title": {
     "en": "Doku Doku"
@@ -34,23 +22,9 @@
    ]
   },
   {
-   "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
+   "id": "e3e9cba6-81ed-4ac9-ad39-e19d508e9659",
    "title": {
-    "en": "Your Mind is Easy to Read"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "id",
-    "pl",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "e778fb58-98a7-4fa1-a57a-9a043306c522",
-   "title": {
-    "en": "Lunchtime Accomplice"
+    "en": "Koto no Ha"
    },
    "contentRating": "safe",
    "score": 0.28520605,
@@ -72,17 +46,16 @@
    ]
   },
   {
-   "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
+   "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
    "title": {
-    "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
+    "en": "Your Mind is Easy to Read"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
-    "es",
-    "th",
+    "id",
+    "pl",
     "pt-br",
-    "vi",
     "en"
    ]
   },
@@ -101,12 +74,39 @@
    ]
   },
   {
+   "id": "e778fb58-98a7-4fa1-a57a-9a043306c522",
+   "title": {
+    "en": "Lunchtime Accomplice"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
+   "title": {
+    "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "es",
+    "th",
+    "pt-br",
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "c4254afe-ae05-4f76-886f-8744dc37a583",
    "title": {
     "en": "Tasukete! Hinaemon"
    },
    "contentRating": "safe",
-   "score": 0.26732373,
+   "score": 0.2755214,
    "languages": [
     "en",
     "vi"
@@ -118,53 +118,12 @@
     "en": "Houkago, Family Restaurant de, Class no Ano Ko to"
    },
    "contentRating": "safe",
-   "score": 0.2592606,
+   "score": 0.27340886,
    "languages": [
     "en",
     "pt-br",
     "vi",
     "id"
-   ]
-  },
-  {
-   "id": "dd56b39e-bc8f-4b8b-a839-8a2916901ebc",
-   "title": {
-    "en": "Why, Nanda-san?"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "fr",
-    "vi",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "35e1c6d0-7352-412a-abad-633ebe05da45",
-   "title": {
-    "en": "Sora kara Onna no Ko ga!"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "ru",
-    "tr",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
-   "title": {
-    "en": "Asaoka High School Baseball Team Journal - Over Fence"
-   },
-   "contentRating": "safe",
-   "score": 0.25509605,
-   "languages": [
-    "it",
-    "pt-br",
-    "en"
    ]
   },
   {
@@ -180,13 +139,16 @@
    ]
   },
   {
-   "id": "5f059e34-e241-4000-9fe9-610aebd399a1",
+   "id": "35e1c6d0-7352-412a-abad-633ebe05da45",
    "title": {
-    "en": "Itsuka, Kimi wo"
+    "en": "Sora kara Onna no Ko ga!"
    },
    "contentRating": "safe",
    "score": 0.25509605,
    "languages": [
+    "ru",
+    "tr",
+    "vi",
     "en"
    ]
   },
@@ -212,7 +174,45 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "dd56b39e-bc8f-4b8b-a839-8a2916901ebc",
+   "title": {
+    "en": "Why, Nanda-san?"
+   },
+   "contentRating": "safe",
+   "score": 0.25509605,
+   "languages": [
+    "fr",
+    "vi",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "5f059e34-e241-4000-9fe9-610aebd399a1",
+   "title": {
+    "en": "Itsuka, Kimi wo"
+   },
+   "contentRating": "safe",
+   "score": 0.25509605,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a38aa359-83b0-4f4a-8fc6-18f06c60218c",
+   "title": {
+    "en": "Asaoka High School Baseball Team Journal - Over Fence"
+   },
+   "contentRating": "safe",
+   "score": 0.25509605,
+   "languages": [
+    "it",
+    "pt-br",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-25T20:30:44+00:00"
+ "updatedAt": "2024-11-27T20:18:33+00:00"
 }

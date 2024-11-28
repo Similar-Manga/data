@@ -1,0 +1,142 @@
+{
+ "id": "6817efe8-219d-4439-8564-9e6d4148ec54",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Marriage Meeting"
+  },
+  "altTitles": [
+   {
+    "ja": "マリッジ・ミーティング"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "184891",
+   "amz": "https://www.amazon.co.jp/-/en/%E9%AB%98%E6%A9%8B-%E8%91%89%E4%BB%8B-ebook/dp/B0B4646LJD?crid=32LDENTNWZ04A\u0026dib=eyJ2IjoiMSJ9.1r7nJHu88RDskN9aM9TWO9f-hqyftPTqxFrbpz5gJqg.n8y-2hvpoJmPuljnRXFdso75B7BmcJIjI4vI5vG25vw\u0026dib_tag=se\u0026keywords=%E3%83%9E%E3%83%AA%E3%83%83%E3%82%B8%E3%83%BB%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0\u0026qid=1732619733\u0026s=digital-text\u0026sprefix=%E3%83%9E%E3%83%AA%E3%83%83%E3%82%B8+%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%2Cdigital-text%2C456\u0026sr=1-1",
+   "bw": "de6567fb36-51b6-4eac-8a4f-461b844d6d96",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/706210/",
+   "mu": "th9zse9"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "19",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2018,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-26T11:18:23+00:00",
+  "updatedAt": "2024-11-26T12:02:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0c7f0036-7d89-411b-be1d-3a3f00d96c1d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-26T11:18:25+00:00",
+    "description": "",
+    "fileName": "6fcf3f9f-ea06-4302-bc26-31018ca13eb4.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-26T11:18:25+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

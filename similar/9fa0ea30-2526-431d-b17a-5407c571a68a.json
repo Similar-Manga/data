@@ -11,7 +11,7 @@
     "en": "JUMBO MAX"
    },
    "contentRating": "safe",
-   "score": 0.19957647,
+   "score": 0.19957706,
    "languages": [
     "en",
     "zh-hk"
@@ -23,7 +23,7 @@
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.17008741,
+   "score": 0.17009391,
    "languages": [
     "pt-br",
     "es-la",
@@ -50,17 +50,6 @@
    ]
   },
   {
-   "id": "8b07ea7a-0aa6-4fa3-bd05-4d78c67b0c99",
-   "title": {
-    "en": "Blood in the Field"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d5679da5-8790-429a-b20b-fbb4c869a36d",
    "title": {
     "en": "Wasureru"
@@ -73,12 +62,23 @@
    ]
   },
   {
+   "id": "8b07ea7a-0aa6-4fa3-bd05-4d78c67b0c99",
+   "title": {
+    "en": "Blood in the Field"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f1c037ff-e63a-4f5c-8977-9af506347fbe",
    "title": {
     "en": "Zaako Zako Zako Zako Sensei"
    },
    "contentRating": "safe",
-   "score": 0.16361521,
+   "score": 0.16361906,
    "languages": [
     "en",
     "vi",
@@ -93,18 +93,6 @@
    "contentRating": "safe",
    "score": 0.15649216,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b7278172-1c27-4d1a-9f7f-a35a10776631",
-   "title": {
-    "en": "Super Danganronpa 2: Goodbye Despair Academy"
-   },
-   "contentRating": "safe",
-   "score": 0.14754222,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -126,25 +114,39 @@
    ]
   },
   {
+   "id": "b7278172-1c27-4d1a-9f7f-a35a10776631",
+   "title": {
+    "en": "Super Danganronpa 2: Goodbye Despair Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.14754222,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "b911b3cd-a054-421e-b96d-8704c5336c16",
    "title": {
     "en": "River Bed"
    },
    "contentRating": "safe",
-   "score": 0.14292479,
+   "score": 0.14292485,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "36a8548c-64ba-409b-9419-e45b6f125b69",
+   "id": "57b44bff-ac5d-4657-88a6-a27ac1ade939",
    "title": {
-    "en": "Chie-sensei wa Mienai"
+    "en": "Zettai Osananajimi Sengen"
    },
    "contentRating": "safe",
    "score": 0.134687,
    "languages": [
-    "en"
+    "id",
+    "en",
+    "pl"
    ]
   },
   {
@@ -171,16 +173,14 @@
    ]
   },
   {
-   "id": "57b44bff-ac5d-4657-88a6-a27ac1ade939",
+   "id": "36a8548c-64ba-409b-9419-e45b6f125b69",
    "title": {
-    "en": "Zettai Osananajimi Sengen"
+    "en": "Chie-sensei wa Mienai"
    },
    "contentRating": "safe",
    "score": 0.134687,
    "languages": [
-    "id",
-    "en",
-    "pl"
+    "en"
    ]
   },
   {
@@ -210,5 +210,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-25T21:39:44+00:00"
+ "updatedAt": "2024-11-27T21:09:17+00:00"
 }

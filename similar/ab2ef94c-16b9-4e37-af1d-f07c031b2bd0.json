@@ -6,12 +6,24 @@
  "contentRating": "suggestive",
  "matches": [
   {
+   "id": "1921a8ca-e9af-417a-beda-b02760a05e44",
+   "title": {
+    "en": "Crimson Grave"
+   },
+   "contentRating": "suggestive",
+   "score": 0.22111394,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "4c20ff54-3dfe-4433-a1e3-274492cdb2fc",
    "title": {
     "en": "Arpeggio of Blue Steel"
    },
    "contentRating": "suggestive",
-   "score": 0.24400967,
+   "score": 0.21529166,
    "languages": [
     "en",
     "pt-br",
@@ -22,24 +34,12 @@
    ]
   },
   {
-   "id": "1921a8ca-e9af-417a-beda-b02760a05e44",
-   "title": {
-    "en": "Crimson Grave"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21756522,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "abb3428c-af2e-4db1-be0e-5b0fbe02e1c8",
    "title": {
     "en": "Rose × Marie"
    },
    "contentRating": "suggestive",
-   "score": 0.19090085,
+   "score": 0.19089822,
    "languages": [
     "en",
     "es-la"
@@ -75,15 +75,28 @@
     "en": "Kono Sekai wa Fukanzen Sugiru"
    },
    "contentRating": "suggestive",
-   "score": 0.17741953,
+   "score": 0.17741852,
    "languages": [
     "pt-br"
    ]
   },
   {
-   "id": "122330aa-9663-498b-b146-4313cde474ac",
+   "id": "6e96f17a-0aa1-411a-82bd-1171c0ee95f3",
    "title": {
-    "en": "Psychometrer"
+    "en": "Kindaichi 37-sai no Jikenbo"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17036709,
+   "languages": [
+    "en",
+    "es",
+    "id"
+   ]
+  },
+  {
+   "id": "0dbd17b8-3778-4759-b056-5f31815d91b2",
+   "title": {
+    "en": "Choice of Error Hero"
    },
    "contentRating": "suggestive",
    "score": 0.17036709,
@@ -92,9 +105,9 @@
    ]
   },
   {
-   "id": "0dbd17b8-3778-4759-b056-5f31815d91b2",
+   "id": "122330aa-9663-498b-b146-4313cde474ac",
    "title": {
-    "en": "Choice of Error Hero"
+    "en": "Psychometrer"
    },
    "contentRating": "suggestive",
    "score": 0.17036709,
@@ -114,19 +127,6 @@
    ]
   },
   {
-   "id": "6e96f17a-0aa1-411a-82bd-1171c0ee95f3",
-   "title": {
-    "en": "Kindaichi 37-sai no Jikenbo"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17036709,
-   "languages": [
-    "en",
-    "es",
-    "id"
-   ]
-  },
-  {
    "id": "d8d8ca2d-19c1-4c4c-9401-fbe32ec0cdd5",
    "title": {
     "en": "Kamen Rider W - Futo PI"
@@ -143,13 +143,14 @@
    ]
   },
   {
-   "id": "3adc4c7a-2f4e-4a9f-ba0e-d0e83d28ffc8",
+   "id": "b0024b57-e10d-4aa8-b8fa-a07d7651804c",
    "title": {
-    "en": "Ambivalent ~Doutei wo Sutetara Shinu Sekai~"
+    "en": "Alive"
    },
    "contentRating": "suggestive",
    "score": 0.16495723,
    "languages": [
+    "vi",
     "en"
    ]
   },
@@ -161,18 +162,6 @@
    "contentRating": "suggestive",
    "score": 0.16495723,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b0024b57-e10d-4aa8-b8fa-a07d7651804c",
-   "title": {
-    "en": "Alive"
-   },
-   "contentRating": "suggestive",
-   "score": 0.16495723,
-   "languages": [
-    "vi",
     "en"
    ]
   },
@@ -193,7 +182,7 @@
     "en": "Sekai no Owari no Encore"
    },
    "contentRating": "suggestive",
-   "score": 0.1640403,
+   "score": 0.16403492,
    "languages": [
     "pt-br",
     "fr",
@@ -204,7 +193,30 @@
     "pl",
     "es"
    ]
+  },
+  {
+   "id": "bd6d0982-0091-4945-ad70-c028ed3c0917",
+   "title": {
+    "ja-ro": "Mushoku Tensei ~Isekai Ittara Honki Dasu~"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16050687,
+   "languages": [
+    "pt-br",
+    "en",
+    "it",
+    "vi",
+    "pl",
+    "es-la",
+    "ru",
+    "tr",
+    "ar",
+    "id",
+    "uk",
+    "fr",
+    "hu"
+   ]
   }
  ],
- "updatedAt": "2024-11-25T21:44:42+00:00"
+ "updatedAt": "2024-11-27T21:13:08+00:00"
 }

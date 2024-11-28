@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b1ca2126-1c7a-45cb-aa77-47dfd5914586",
+   "title": {
+    "en": "Sanada to Hamako"
+   },
+   "contentRating": "safe",
+   "score": 0.7266984
+  },
+  {
    "id": "dd1fc24e-0a9b-459a-a8e6-57ee8fcf3f1b",
    "title": {
     "en": "Winter Campaign of the Siege of Osaka"
    },
    "contentRating": "safe",
-   "score": 0.37959316
+   "score": 0.3796042
   },
   {
    "id": "1c3dd053-70bd-43f8-a092-e150d4faf3ca",
@@ -19,12 +27,20 @@
     "en": "Sengoku Basara: Ranse Ranbu"
    },
    "contentRating": "safe",
-   "score": 0.31787628
+   "score": 0.31788898
   },
   {
    "id": "584ea42b-c9c5-4fdf-9c7a-fa13b71f8108",
    "title": {
     "en": "The Kenki"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "b219ae68-1935-4ce3-a8c7-bfbdd3741767",
+   "title": {
+    "en": "Manga Japanese Classics: The Tale of Genji"
    },
    "contentRating": "safe",
    "score": 0.28508148
@@ -46,65 +62,9 @@
    "score": 0.28508148
   },
   {
-   "id": "ec55a0ab-0a91-4a1e-851c-0fc45bde85ec",
-   "title": {
-    "en": "Takenaka Hanbei Biography"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
    "id": "f2b2a78b-1c30-4bca-86cf-b5233009243a",
    "title": {
     "en": "Sanmuden"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "056fb58a-af35-4035-a49d-5d0691ebe4d8",
-   "title": {
-    "en": "Samurai Kid"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "b219ae68-1935-4ce3-a8c7-bfbdd3741767",
-   "title": {
-    "en": "Manga Japanese Classics: The Tale of Genji"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "4e2fde12-bb68-4283-b5a9-a166ef9566c3",
-   "title": {
-    "en": "Gekiga Tomiko Hino: The life of the woman who caused the Onin War"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "9488fe8a-87dc-4e80-bc82-ef911796923d",
-   "title": {
-    "en": "Tiger Flute"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "ebe3ac6c-6566-4045-b8a3-ee6442c2333e",
-   "title": {
-    "en": "The Edge Shinsengumi"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "fd1190be-e252-492c-8464-d4019fb99692",
-   "title": {
-    "en": "Doushin Akatsuki Yajuurou"
    },
    "contentRating": "safe",
    "score": 0.28508148
@@ -118,21 +78,61 @@
    "score": 0.28508148
   },
   {
+   "id": "fd1190be-e252-492c-8464-d4019fb99692",
+   "title": {
+    "en": "Doushin Akatsuki Yajuurou"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "ec55a0ab-0a91-4a1e-851c-0fc45bde85ec",
+   "title": {
+    "en": "Takenaka Hanbei Biography"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "ebe3ac6c-6566-4045-b8a3-ee6442c2333e",
+   "title": {
+    "en": "The Edge Shinsengumi"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "9488fe8a-87dc-4e80-bc82-ef911796923d",
+   "title": {
+    "en": "Tiger Flute"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "4e2fde12-bb68-4283-b5a9-a166ef9566c3",
+   "title": {
+    "en": "Gekiga Tomiko Hino: The life of the woman who caused the Onin War"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "056fb58a-af35-4035-a49d-5d0691ebe4d8",
+   "title": {
+    "en": "Samurai Kid"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
    "id": "b6acc854-ebab-4c98-88a0-2f754ecdf214",
    "title": {
     "en": "Sohaya's Sword: Tokugawa Ieyasu's Favorite Sword"
    },
    "contentRating": "safe",
-   "score": 0.27214673
-  },
-  {
-   "id": "b1ca2126-1c7a-45cb-aa77-47dfd5914586",
-   "title": {
-    "en": "Sanada to Hamako"
-   },
-   "contentRating": "safe",
-   "score": 0.2691237
+   "score": 0.27215254
   }
  ],
- "updatedAt": "2024-11-25T21:40:32+00:00"
+ "updatedAt": "2024-11-27T21:10:00+00:00"
 }

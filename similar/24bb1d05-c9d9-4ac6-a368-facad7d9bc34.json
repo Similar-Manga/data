@@ -11,7 +11,7 @@
     "en": "Naruto: Road to Ninja"
    },
    "contentRating": "safe",
-   "score": 0.2983675,
+   "score": 0.29836768,
    "languages": [
     "en",
     "ru",
@@ -25,7 +25,7 @@
     "en": "Naruto (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.262909,
+   "score": 0.2629098,
    "languages": [
     "ar",
     "pt-br",
@@ -38,7 +38,7 @@
     "en": "NARUTO: Fuu no Sho - Sugao no Shinjitsu...!!"
    },
    "contentRating": "safe",
-   "score": 0.24586464,
+   "score": 0.24586627,
    "languages": [
     "pt-br",
     "en",
@@ -51,7 +51,7 @@
     "en": "Hololive - Holoearth Chronicles Side:E ~Yamato Phantasia~"
    },
    "contentRating": "safe",
-   "score": 0.23521814,
+   "score": 0.23521811,
    "languages": [
     "es-la",
     "ja",
@@ -59,20 +59,6 @@
     "en",
     "id",
     "tr"
-   ]
-  },
-  {
-   "id": "a15ff3b1-cca6-435a-90ec-8516fc16e958",
-   "title": {
-    "en": "Light vs Shadow"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "fr",
-    "pt-br",
-    "pl",
-    "ru"
    ]
   },
   {
@@ -86,63 +72,6 @@
     "en",
     "pl",
     "pt-br"
-   ]
-  },
-  {
-   "id": "80e699b3-b75b-4141-b82b-4dbb5d50f3a0",
-   "title": {
-    "en": "Teihen Boukensha Dakedo Mahou wo Kiwamete Miru Koto ni Shita ~Munou Skill kara Kami Skill ni Shinka Shita \"Mahou Souzou\" to \"Item Sakusei\" de Musou Suru~"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
-   "id": "3e636c96-b98a-410a-a00d-2f2f530d0309",
-   "title": {
-    "en": "Magic Domain Mercenary"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "dea77c2d-dbaa-434a-b0af-0c116642434c",
-   "title": {
-    "en": "Ichi the Witch"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "ar",
-    "vi",
-    "en",
-    "pt-br",
-    "fr",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
-   "id": "8c47260f-a754-4977-9040-5b1cb28c43f5",
-   "title": {
-    "en": "Rad and Rinpu"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "pl",
-    "en"
    ]
   },
   {
@@ -160,15 +89,74 @@
    ]
   },
   {
-   "id": "43d8b6c2-4ed5-4728-a196-8214fca115c7",
+   "id": "a15ff3b1-cca6-435a-90ec-8516fc16e958",
    "title": {
-    "en": "Bootsleg"
+    "en": "Light vs Shadow"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.22857143,
    "languages": [
-    "vi",
+    "fr",
+    "pt-br",
+    "pl",
+    "ru"
+   ]
+  },
+  {
+   "id": "3e636c96-b98a-410a-a00d-2f2f530d0309",
+   "title": {
+    "en": "Magic Domain Mercenary"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "en",
+    "fr",
     "pt-br"
+   ]
+  },
+  {
+   "id": "80e699b3-b75b-4141-b82b-4dbb5d50f3a0",
+   "title": {
+    "en": "Teihen Boukensha Dakedo Mahou wo Kiwamete Miru Koto ni Shita ~Munou Skill kara Kami Skill ni Shinka Shita \"Mahou Souzou\" to \"Item Sakusei\" de Musou Suru~"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi"
+   ]
+  },
+  {
+   "id": "8c47260f-a754-4977-9040-5b1cb28c43f5",
+   "title": {
+    "en": "Rad and Rinpu"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "dea77c2d-dbaa-434a-b0af-0c116642434c",
+   "title": {
+    "en": "Ichi the Witch"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "ar",
+    "vi",
+    "en",
+    "pt-br",
+    "fr",
+    "ru",
+    "es-la"
    ]
   },
   {
@@ -186,12 +174,24 @@
    ]
   },
   {
+   "id": "43d8b6c2-4ed5-4728-a196-8214fca115c7",
+   "title": {
+    "en": "Bootsleg"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "vi",
+    "pt-br"
+   ]
+  },
+  {
    "id": "69423cb0-f99d-4d93-8fd3-f01bed85970a",
    "title": {
     "en": "NARUTO: Tokubetsu Bangai-hen - After The Last"
    },
    "contentRating": "safe",
-   "score": 0.2172326,
+   "score": 0.21723318,
    "languages": [
     "en",
     "pt-br"
@@ -203,7 +203,7 @@
     "en": "Boruto: Two Blue Vortex"
    },
    "contentRating": "safe",
-   "score": 0.21201062,
+   "score": 0.21201216,
    "languages": [
     "id",
     "es",
@@ -225,7 +225,7 @@
     "en": "NARUTO: Rai no Sho - Ai wo Itareta Kemono!!"
    },
    "contentRating": "safe",
-   "score": 0.20734234,
+   "score": 0.20734276,
    "languages": [
     "en",
     "pt-br",
@@ -233,5 +233,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-25T20:42:53+00:00"
+ "updatedAt": "2024-11-27T20:27:40+00:00"
 }

@@ -3,14 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Time Milk Wound the Spring"
+   "en": "Milk ga Neji o Mawasu Toki"
   },
   "altTitles": [
    {
-    "ja-ro": "Kizutsuki Yasui Seishun"
+    "ja": "ミルクがねじを回す時"
+   },
+   {
+    "ja-ro": "Milk ga Neji wo Mawasu Toki"
+   },
+   {
+    "en": "The Time Milk Wound the Spring"
    },
    {
     "ja": "傷つきやすい青春"
+   },
+   {
+    "ja-ro": "Kizutsuki Yasui Seishun"
    }
   ],
   "description": {
@@ -92,9 +101,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2020-09-23T14:54:33+00:00",
-  "updatedAt": "2022-11-20T01:10:40+00:00"
+  "updatedAt": "2024-11-26T15:48:16+00:00"
  },
  "relationships": [
   {

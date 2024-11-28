@@ -1,0 +1,170 @@
+{
+ "id": "26764eb3-cc29-43ea-9c1a-9fc5924beb3c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Alchemist"
+  },
+  "altTitles": [
+   {
+    "pt-br": "O Alquimista"
+   },
+   {
+    "ja-ro": "Yume wo Tabi shita Shounen"
+   },
+   {
+    "ja": "アルケミスト"
+   },
+   {
+    "ja": "アルケミスト　夢を旅した少年"
+   }
+  ],
+  "description": {},
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DMQFJNMQ",
+   "raw": "https://comic-walker.com/detail/KC_006112_S/episodes/KC_0061120000200011_E?episodeType=latest"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-11-27T10:02:00+00:00",
+  "updatedAt": "2024-11-27T16:35:54+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d837e6be-ed2b-4778-875f-cf677c9c784a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-27T09:47:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Paulo Coelho",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-27T09:47:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d1c653db-9fa0-4dcf-9f6f-d8845b77bf53",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-27T10:04:05+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamaki Nakamura",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-27T10:04:05+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7ef80b5b-aa38-4a8a-978d-a6d659165e5f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-27T10:02:11+00:00",
+    "description": "",
+    "fileName": "6be772a8-c689-4e95-83da-b853da2091b2.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-27T10:02:11+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "d5a90da8-cd21-4217-aa5f-0c590dd6fdf0",
+   "type": "creator"
+  }
+ ]
+}

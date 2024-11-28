@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "04bca7eb-2a47-488d-a227-17dbda5371cf",
-   "title": {
-    "en": "Aosora"
-   },
-   "contentRating": "safe",
-   "score": 0.21884048,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
    "id": "2ccdc0df-143e-4fed-900d-c9488cc78966",
    "title": {
     "en": "Dream to Be an Idol"
@@ -28,6 +16,18 @@
     "id",
     "en",
     "vi"
+   ]
+  },
+  {
+   "id": "04bca7eb-2a47-488d-a227-17dbda5371cf",
+   "title": {
+    "en": "Aosora"
+   },
+   "contentRating": "safe",
+   "score": 0.21884048,
+   "languages": [
+    "en",
+    "fr"
    ]
   },
   {
@@ -53,12 +53,25 @@
    ]
   },
   {
+   "id": "2a89f625-195e-41f1-a1df-96a25131679e",
+   "title": {
+    "en": "What if Tokyo"
+   },
+   "contentRating": "safe",
+   "score": 0.20753258,
+   "languages": [
+    "en",
+    "kk",
+    "ru"
+   ]
+  },
+  {
    "id": "36b0543a-a3bf-4e9a-a772-cc9c2324e10e",
    "title": {
     "en": "Toufuu (Fu)kenbunroku"
    },
    "contentRating": "safe",
-   "score": 0.20584236,
+   "score": 0.20584844,
    "languages": [
     "en"
    ]
@@ -80,7 +93,7 @@
     "en": "My Sweet Sunday"
    },
    "contentRating": "safe",
-   "score": 0.19431546,
+   "score": 0.1943117,
    "languages": [
     "en",
     "pt-br",
@@ -93,7 +106,7 @@
     "en": "Today's Another Great Day"
    },
    "contentRating": "safe",
-   "score": 0.19130115,
+   "score": 0.19130382,
    "languages": [
     "es",
     "fr",
@@ -101,46 +114,6 @@
     "en",
     "es-la",
     "it"
-   ]
-  },
-  {
-   "id": "2036ce4b-46ac-4e88-b0b1-90b3ea3aa1a1",
-   "title": {
-    "en": "Nante Nasakenai Bokura da"
-   },
-   "contentRating": "safe",
-   "score": 0.1899992,
-   "languages": [
-    "en",
-    "tr",
-    "pt-br",
-    "ca",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "65a0e567-5db6-46ac-bdef-b6ae3da3e9ff",
-   "title": {
-    "en": "Memories with Oda-san's Manga!"
-   },
-   "contentRating": "safe",
-   "score": 0.18952142,
-   "languages": [
-    "en",
-    "ca"
-   ]
-  },
-  {
-   "id": "4db75ccc-1573-440b-8685-f4575cac2121",
-   "title": {
-    "en": "Mother Yell"
-   },
-   "contentRating": "safe",
-   "score": 0.18952142,
-   "languages": [
-    "tl",
-    "en",
-    "id"
    ]
   },
   {
@@ -156,14 +129,53 @@
    ]
   },
   {
-   "id": "c3fbfe6e-5e1c-4100-957a-c432950643ed",
+   "id": "6b8ab373-d2cc-4f01-b37a-7f142ac2f16c",
    "title": {
-    "en": "Esora Hikouki"
+    "en": "Gokumane!"
    },
    "contentRating": "safe",
    "score": 0.18952142,
    "languages": [
+    "fr",
+    "es-la",
     "en"
+   ]
+  },
+  {
+   "id": "01f70b35-b313-46f0-b22e-16c8e564b449",
+   "title": {
+    "en": "Sono Shukujo wa Guuzou to Naru (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.18952142,
+   "languages": [
+    "en",
+    "zh"
+   ]
+  },
+  {
+   "id": "65a0e567-5db6-46ac-bdef-b6ae3da3e9ff",
+   "title": {
+    "en": "Memories with Oda-san's Manga!"
+   },
+   "contentRating": "safe",
+   "score": 0.18952142,
+   "languages": [
+    "en",
+    "ca"
+   ]
+  },
+  {
+   "id": "014b8ceb-3a47-4004-9677-4a87c6186cac",
+   "title": {
+    "en": "Tengoku no Honya"
+   },
+   "contentRating": "safe",
+   "score": 0.18952142,
+   "languages": [
+    "de",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -184,30 +196,20 @@
    ]
   },
   {
-   "id": "014b8ceb-3a47-4004-9677-4a87c6186cac",
+   "id": "a69377ee-b842-45f8-983b-0b523b695880",
    "title": {
-    "en": "Tengoku no Honya"
+    "en": "Beat \u0026 Motion"
    },
    "contentRating": "safe",
    "score": 0.18952142,
    "languages": [
-    "de",
+    "vi",
+    "fr",
     "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "01f70b35-b313-46f0-b22e-16c8e564b449",
-   "title": {
-    "en": "Sono Shukujo wa Guuzou to Naru (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.18952142,
-   "languages": [
-    "en",
-    "zh"
+    "ru",
+    "uk"
    ]
   }
  ],
- "updatedAt": "2024-11-25T21:45:49+00:00"
+ "updatedAt": "2024-11-27T21:14:01+00:00"
 }

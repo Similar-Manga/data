@@ -67,9 +67,10 @@
    "en",
    "es-la",
    "it",
+   "pl",
    "hu"
   ],
-  "latestUploadedChapter": "b84566b0-5874-42d2-bec1-eb24e35caa69",
+  "latestUploadedChapter": "b3bad5ea-052e-4247-a558-ac5de8a8024d",
   "tags": [
    {
     "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
@@ -215,20 +216,25 @@
    }
   },
   {
-   "id": "6174c510-b574-4f35-86aa-cea8568eb232",
+   "id": "c409833b-ee84-4f64-9aca-025b4ab98ddd",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:04:59+00:00",
+    "createdAt": "2021-05-23T06:30:45+00:00",
     "description": "",
-    "fileName": "f017866d-ad9e-4aec-b24c-04769159e860.jpg",
+    "fileName": "9a7577e8-4107-4753-b3b5-11990a1598ce.jpg",
     "locale": "ko",
-    "updatedAt": "2021-05-24T17:04:59+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-11-26T14:52:43+00:00",
+    "version": 3,
+    "volume": "1"
    }
   },
   {
    "id": "081ab6d7-e964-43b3-9a70-6f186e1cb220",
+   "type": "manga",
+   "related": "sequel"
+  },
+  {
+   "id": "f87d6067-ef8a-4b44-b021-e095909f61f2",
    "type": "manga",
    "related": "sequel"
   }

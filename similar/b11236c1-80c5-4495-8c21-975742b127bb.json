@@ -26,7 +26,7 @@
     "en": "Just Listen to the Song"
    },
    "contentRating": "safe",
-   "score": 0.1584758,
+   "score": 0.15845689,
    "languages": [
     "pt-br",
     "id",
@@ -82,7 +82,7 @@
     "en": "World Trigger"
    },
    "contentRating": "safe",
-   "score": 0.10793146,
+   "score": 0.10793369,
    "languages": [
     "en",
     "pt-br",
@@ -93,15 +93,17 @@
    ]
   },
   {
-   "id": "30339808-f936-4f0c-a4e8-003b1af5165f",
+   "id": "99d52813-c48c-4692-a2cf-b5028c63d556",
    "title": {
-    "en": "Night Town"
+    "en": "Jibun Kaigi: The Meeting of Myself"
    },
    "contentRating": "safe",
    "score": 0.10101526,
    "languages": [
     "tr",
-    "en"
+    "en",
+    "pt-br",
+    "ar"
    ]
   },
   {
@@ -137,17 +139,15 @@
    ]
   },
   {
-   "id": "99d52813-c48c-4692-a2cf-b5028c63d556",
+   "id": "30339808-f936-4f0c-a4e8-003b1af5165f",
    "title": {
-    "en": "Jibun Kaigi: The Meeting of Myself"
+    "en": "Night Town"
    },
    "contentRating": "safe",
    "score": 0.10101526,
    "languages": [
     "tr",
-    "en",
-    "pt-br",
-    "ar"
+    "en"
    ]
   },
   {
@@ -156,7 +156,7 @@
     "en": "Kaiju No. 8"
    },
    "contentRating": "safe",
-   "score": 0.10024452,
+   "score": 0.10025591,
    "languages": [
     "ar",
     "uk",
@@ -173,25 +173,6 @@
     "th",
     "fa",
     "kk"
-   ]
-  },
-  {
-   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
-   "title": {
-    "en": "Moriarty the Patriot"
-   },
-   "contentRating": "safe",
-   "score": 0.090350784,
-   "languages": [
-    "en",
-    "id",
-    "vi",
-    "ru",
-    "pt-br",
-    "ar",
-    "tr",
-    "uk",
-    "hu"
    ]
   },
   {
@@ -212,33 +193,6 @@
     "he",
     "ar",
     "tr"
-   ]
-  },
-  {
-   "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
-   "title": {
-    "en": "KILLER PARENT"
-   },
-   "contentRating": "safe",
-   "score": 0.090350784,
-   "languages": [
-    "tr",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "0253a165-d5af-4c53-a851-e8bd9f84c75d",
-   "title": {
-    "en": "Captain Tsubasa (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.090350784,
-   "languages": [
-    "tr",
-    "fr",
-    "en",
-    "it"
    ]
   },
   {
@@ -277,7 +231,59 @@
     "es-la",
     "fr"
    ]
+  },
+  {
+   "id": "dee582b2-2633-4287-86c5-e7a9e51e8bba",
+   "title": {
+    "en": "Yuusha Goikkou no Kaerimichi"
+   },
+   "contentRating": "safe",
+   "score": 0.090350784,
+   "languages": [
+    "en",
+    "es-la",
+    "ru",
+    "zh-hk",
+    "id",
+    "tr",
+    "vi",
+    "uk",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
+   "title": {
+    "en": "KILLER PARENT"
+   },
+   "contentRating": "safe",
+   "score": 0.090350784,
+   "languages": [
+    "tr",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+   "title": {
+    "en": "Moriarty the Patriot"
+   },
+   "contentRating": "safe",
+   "score": 0.090350784,
+   "languages": [
+    "en",
+    "id",
+    "vi",
+    "ru",
+    "pt-br",
+    "ar",
+    "tr",
+    "uk",
+    "hu"
+   ]
   }
  ],
- "updatedAt": "2024-11-25T21:47:20+00:00"
+ "updatedAt": "2024-11-27T21:15:09+00:00"
 }

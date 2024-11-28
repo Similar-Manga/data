@@ -3,15 +3,30 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Modern Konosuba (Doujinshi)"
+   "en": "Kono Subarashii Sekai ni Shukufuku wo! - Modern Konosuba (Doujinshi)"
   },
   "altTitles": [
    {
-    "en": "Gensuba"
+    "ja-ro": "現代版このすば (この素晴らしい世界に祝福を！)"
+   },
+   {
+    "ja-ro": "Gendai-ban Konosuba (Kono Subarashii Sekai ni Shukufuku wo!)"
+   },
+   {
+    "en": "Modern Konosuba: A Day in the Life of Kazuma (God's Blessing on This Wonderful World!)"
+   },
+   {
+    "ja": "現すば (この素晴らしい世界に祝福を！)"
+   },
+   {
+    "ja-ro": "Gensuba"
+   },
+   {
+    "en": "Modern Konosuba"
    }
   ],
   "description": {
-   "en": "Ever wondered what would happen if the characters from the series Konosuba were put in a Modern setting?\n\nWell here you have the answer!!!\n\n---\n\n**Note:** All rights of Konosuba belong to their original author Natsume Akatsuki and its illustrator Mishima Kurone.\n\n---\n\n**Links:**\n- [Official Twitter of the artist](https://twitter.com/bhive003)\n- [Official Twitter of the fan series](https://twitter.com/Gen_Suba_)"
+   "en": "Ever wondered what would happen if the characters from the series Konosuba were put in a Modern setting?\n\nWell here you have the answer!!!"
   },
   "links": {
    "kt": "modern-konosuba",
@@ -25,7 +40,7 @@
    "en",
    "pt-br"
   ],
-  "latestUploadedChapter": "339892c2-141f-4e46-8d1e-40575b4075aa",
+  "latestUploadedChapter": "4b6003f2-6311-49a8-b84b-efdd1c05a082",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -101,9 +116,9 @@
    }
   ],
   "state": "published",
-  "version": 25,
+  "version": 30,
   "createdAt": "2022-01-18T06:03:15+00:00",
-  "updatedAt": "2023-11-27T14:53:49+00:00"
+  "updatedAt": "2024-11-25T11:08:15+00:00"
  },
  "relationships": [
   {
@@ -170,6 +185,11 @@
     "version": 1,
     "volume": "2"
    }
+  },
+  {
+   "id": "bcfa196d-d162-45f5-a224-61d26b04a077",
+   "type": "manga",
+   "related": "based_on"
   },
   {
    "id": "4aacb184-7db5-401c-95b2-998f563d9be0",

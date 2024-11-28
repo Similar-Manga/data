@@ -11,7 +11,7 @@
     "en": "Administrator Kang Jin Lee"
    },
    "contentRating": "safe",
-   "score": 0.36109695,
+   "score": 0.34509385,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "Shark Wyvern"
    },
    "contentRating": "safe",
-   "score": 0.32016328,
+   "score": 0.31399146,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "The Hero is Beating Up the Bullies"
    },
    "contentRating": "safe",
-   "score": 0.31756273,
+   "score": 0.30775064,
    "languages": [
     "en"
    ]
@@ -45,7 +45,7 @@
     "en": "Top 1 Fighting Tutoring"
    },
    "contentRating": "safe",
-   "score": 0.31057516,
+   "score": 0.30576685,
    "languages": [
     "en",
     "pt-br",
@@ -54,12 +54,23 @@
    ]
   },
   {
+   "id": "33c7e6ac-4e23-46f5-b0f5-331e97972f50",
+   "title": {
+    "en": "The Blob"
+   },
+   "contentRating": "safe",
+   "score": 0.30184546,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "472c4347-408b-4c52-8080-595387eacee9",
    "title": {
     "en": "King of the Arena"
    },
    "contentRating": "safe",
-   "score": 0.3079184,
+   "score": 0.3005751,
    "languages": [
     "pl",
     "es-la",
@@ -72,7 +83,7 @@
     "en": "Designated Bully"
    },
    "contentRating": "safe",
-   "score": 0.30637628,
+   "score": 0.29917094,
    "languages": [
     "en",
     "pt-br",
@@ -81,25 +92,31 @@
    ]
   },
   {
-   "id": "33c7e6ac-4e23-46f5-b0f5-331e97972f50",
-   "title": {
-    "en": "The Blob"
-   },
-   "contentRating": "safe",
-   "score": 0.30616462,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e2cb9f20-ac70-4d0a-9c4a-299a001908ab",
    "title": {
     "en": "The Outcast is a Fighter"
    },
    "contentRating": "safe",
-   "score": 0.30239335,
+   "score": 0.29849702,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "dd36defd-9548-40a3-89e5-8b9877615456",
+   "title": {
+    "en": "Guard Pass"
+   },
+   "contentRating": "safe",
+   "score": 0.29547733,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en",
+    "uk",
+    "pl",
+    "it",
+    "fa"
    ]
   },
   {
@@ -108,7 +125,7 @@
     "en": "High School Detective Agency"
    },
    "contentRating": "safe",
-   "score": 0.30029085,
+   "score": 0.29416502,
    "languages": [
     "en"
    ]
@@ -119,7 +136,7 @@
     "en": "Undercover! Chaebol High School"
    },
    "contentRating": "safe",
-   "score": 0.29983965,
+   "score": 0.2937555,
    "languages": [
     "en",
     "pl",
@@ -132,43 +149,12 @@
     "en": "Get Schooled"
    },
    "contentRating": "safe",
-   "score": 0.29822406,
+   "score": 0.29230407,
    "languages": [
     "es-la",
     "en",
     "pt-br",
     "uk",
-    "fr"
-   ]
-  },
-  {
-   "id": "dd36defd-9548-40a3-89e5-8b9877615456",
-   "title": {
-    "en": "Guard Pass"
-   },
-   "contentRating": "safe",
-   "score": 0.2966887,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en",
-    "uk",
-    "pl",
-    "it",
-    "fa"
-   ]
-  },
-  {
-   "id": "043a10f5-c16d-4402-bf82-0f3e8a33de29",
-   "title": {
-    "en": "Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.28618273,
-   "languages": [
-    "en",
-    "ru",
-    "pt-br",
     "fr"
    ]
   },
@@ -178,11 +164,25 @@
     "en": "Ultimate Legend - Kang Hae Hyo"
    },
    "contentRating": "safe",
-   "score": 0.28542554,
+   "score": 0.28172103,
    "languages": [
     "en",
     "ro",
     "pt-br"
+   ]
+  },
+  {
+   "id": "043a10f5-c16d-4402-bf82-0f3e8a33de29",
+   "title": {
+    "en": "Trigger"
+   },
+   "contentRating": "safe",
+   "score": 0.2816108,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -191,7 +191,7 @@
     "en": "Hanlim Gym"
    },
    "contentRating": "safe",
-   "score": 0.28263116,
+   "score": 0.28062588,
    "languages": [
     "en",
     "id",
@@ -204,7 +204,7 @@
     "en": "Tyranny of the Gale"
    },
    "contentRating": "safe",
-   "score": 0.28028107,
+   "score": 0.27852455,
    "languages": [
     "es-la",
     "en",
@@ -212,5 +212,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-25T21:52:33+00:00"
+ "updatedAt": "2024-11-27T21:19:09+00:00"
 }

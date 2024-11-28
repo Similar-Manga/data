@@ -7,13 +7,16 @@
   },
   "altTitles": [
    {
-    "en": "Private Institute Horitsuba"
+    "en": "Private School Holitsuba"
    },
    {
     "ja": "私立堀鐔学園"
    },
    {
     "ko": "사립 호리츠바학원"
+   },
+   {
+    "en": "Private Institute Horitsuba"
    }
   ],
   "description": {
@@ -63,9 +66,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2018-04-28T18:22:14+00:00",
-  "updatedAt": "2023-06-05T17:52:35+00:00"
+  "updatedAt": "2024-11-25T12:40:52+00:00"
  },
  "relationships": [
   {
@@ -121,17 +124,32 @@
    }
   },
   {
-   "id": "e54d04f7-dc12-4ffb-9fd6-fbca6eb79885",
+   "id": "c3019a93-6a24-4e63-800e-362a363b8791",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:03:16+00:00",
+    "createdAt": "2024-11-25T12:31:38+00:00",
     "description": "",
-    "fileName": "820566c2-3250-44dc-aa59-74e94dbe49ce.jpg",
+    "fileName": "eecb0587-ea52-4012-ab03-e205507e9582.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:03:16+00:00",
+    "updatedAt": "2024-11-25T12:31:38+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
+  },
+  {
+   "id": "1bea48e3-51c0-4d60-a58a-78769e516cec",
+   "type": "manga",
+   "related": "adapted_from"
+  },
+  {
+   "id": "4702058d-c553-4966-ab09-1deab6328384",
+   "type": "manga",
+   "related": "adapted_from"
+  },
+  {
+   "id": "f830514d-f3e1-4b11-b18b-e5f7b6d9b861",
+   "type": "manga",
+   "related": "adapted_from"
   }
  ]
 }

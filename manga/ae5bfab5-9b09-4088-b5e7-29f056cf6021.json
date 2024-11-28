@@ -1,0 +1,151 @@
+{
+ "id": "ae5bfab5-9b09-4088-b5e7-29f056cf6021",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Saunoa!"
+  },
+  "altTitles": [
+   {
+    "ja": "さうのあっ!"
+   },
+   {
+    "en": "To take a sauna!"
+   }
+  ],
+  "description": {
+   "en": "The story centers on Kokage, a high school girl who doesn't really like bathing, at least not in traditional Japanese baths. She meets a Finnish exchange student, Lyydia, and reluctantly ends up going to the sauna with her. The group also is joined by Serika, a self-proclaimed sauna-otaku, and Maki, whose parents run a super-sento (bathhouse)."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/dp/B0D1VQ51GJ?binding=kindle_edition",
+   "ap": "saunoa",
+   "bw": "de7d047a9a-f161-4342-ae9e-eea2b73b8e0c",
+   "mal": "169594",
+   "raw": "https://x.com/itsumoso/status/1827261079451529316"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "fi"
+  ],
+  "latestUploadedChapter": "383aaa54-672a-4d99-8a85-107edbf520bc",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-11-25T20:26:42+00:00",
+  "updatedAt": "2024-11-25T20:35:34+00:00"
+ },
+ "relationships": [
+  {
+   "id": "53e151b8-a14f-4b6d-a86d-1533974d0326",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-08-22T21:21:09+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kasama Hiroyuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-25T20:27:09+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ed704281-793b-4bb0-8513-5ebb7cc275b3",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n宮月もそこ\n\n[Instagram](https://www.instagram.com/itsumoso/)"
+    },
+    "booth": "https://itsumoso.booth.pm/",
+    "createdAt": "2023-04-30T03:16:12+00:00",
+    "fanBox": "https://itsumoso.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Miyatsuki Mosoko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/201881",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/itsumoso",
+    "updatedAt": "2023-04-30T03:23:38+00:00",
+    "version": 2,
+    "website": "https://mosoko.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "244f1231-4f33-43c2-88c9-53eb77d6ef78",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-25T20:26:44+00:00",
+    "description": "",
+    "fileName": "e1cb3153-fb32-44de-92b5-acec6c983db9.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-25T20:26:44+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "3d4df072-0316-4c9c-8a52-e40c887b86a1",
+   "type": "creator"
+  }
+ ]
+}

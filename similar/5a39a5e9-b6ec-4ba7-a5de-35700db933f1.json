@@ -6,20 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "2e7b879e-af6c-4dea-8f23-6461c734c0ed",
-   "title": {
-    "en": "I Want You to Say I'm Cool!"
-   },
-   "contentRating": "safe",
-   "score": 0.23817438,
-   "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "fr"
-   ]
-  },
-  {
    "id": "dd56b39e-bc8f-4b8b-a839-8a2916901ebc",
    "title": {
     "en": "Why, Nanda-san?"
@@ -34,12 +20,26 @@
    ]
   },
   {
+   "id": "2e7b879e-af6c-4dea-8f23-6461c734c0ed",
+   "title": {
+    "en": "I Want You to Say I'm Cool!"
+   },
+   "contentRating": "safe",
+   "score": 0.23817438,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "fr"
+   ]
+  },
+  {
    "id": "3acfb83e-afbc-46a5-98ac-6846f18855a7",
    "title": {
     "en": "Kimi to Barairo no Hibi"
    },
    "contentRating": "safe",
-   "score": 0.22944602,
+   "score": 0.22944604,
    "languages": [
     "es-la",
     "en",
@@ -54,7 +54,7 @@
     "en": "Momose Akira no Hatsukoi Hatan-chuu."
    },
    "contentRating": "safe",
-   "score": 0.22244105,
+   "score": 0.22243764,
    "languages": [
     "pt-br",
     "vi",
@@ -73,10 +73,37 @@
     "en": "Renai Kyoutei"
    },
    "contentRating": "safe",
-   "score": 0.21843964,
+   "score": 0.21844752,
    "languages": [
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "54f9b52a-7e8d-45e7-ae1d-e628b08924ea",
+   "title": {
+    "en": "Hyoutenka no Nukumori"
+   },
+   "contentRating": "safe",
+   "score": 0.21742247,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "3fa6b379-05ac-47df-84d5-39bea2cdad8b",
+   "title": {
+    "en": "Rain and a Slow Runner"
+   },
+   "contentRating": "safe",
+   "score": 0.21742247,
+   "languages": [
+    "en",
+    "fr",
+    "tr"
    ]
   },
   {
@@ -96,46 +123,14 @@
    ]
   },
   {
-   "id": "43131083-173d-4915-a397-db2b7446d453",
+   "id": "8fac7af4-c206-42bd-a733-70618bd0ec5a",
    "title": {
-    "en": "Shakaijin Kareshi to Daigakusei Kanojo"
+    "en": "Je me suis lié d'amitié avec une Gal"
    },
    "contentRating": "safe",
    "score": 0.21742247,
    "languages": [
-    "en",
-    "vi",
     "fr"
-   ]
-  },
-  {
-   "id": "c9146d61-80d0-48f6-a794-de56d728171b",
-   "title": {
-    "en": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
-   },
-   "contentRating": "safe",
-   "score": 0.21742247,
-   "languages": [
-    "pt-br",
-    "en",
-    "uk",
-    "id",
-    "fr",
-    "ms",
-    "vi"
-   ]
-  },
-  {
-   "id": "3fa6b379-05ac-47df-84d5-39bea2cdad8b",
-   "title": {
-    "en": "Rain and a Slow Runner"
-   },
-   "contentRating": "safe",
-   "score": 0.21742247,
-   "languages": [
-    "en",
-    "fr",
-    "tr"
    ]
   },
   {
@@ -157,6 +152,23 @@
    ]
   },
   {
+   "id": "c9146d61-80d0-48f6-a794-de56d728171b",
+   "title": {
+    "en": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+   },
+   "contentRating": "safe",
+   "score": 0.21742247,
+   "languages": [
+    "pt-br",
+    "en",
+    "uk",
+    "id",
+    "fr",
+    "ms",
+    "vi"
+   ]
+  },
+  {
    "id": "6ba5c5b9-4d55-43ff-8311-26a905f78d84",
    "title": {
     "en": "Love Begins With a Voice"
@@ -170,39 +182,15 @@
    ]
   },
   {
-   "id": "54f9b52a-7e8d-45e7-ae1d-e628b08924ea",
+   "id": "43131083-173d-4915-a397-db2b7446d453",
    "title": {
-    "en": "Hyoutenka no Nukumori"
+    "en": "Shakaijin Kareshi to Daigakusei Kanojo"
    },
    "contentRating": "safe",
    "score": 0.21742247,
    "languages": [
-    "fr",
-    "pt-br",
     "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "8fac7af4-c206-42bd-a733-70618bd0ec5a",
-   "title": {
-    "en": "Je me suis lié d'amitié avec une Gal"
-   },
-   "contentRating": "safe",
-   "score": 0.21742247,
-   "languages": [
-    "fr"
-   ]
-  },
-  {
-   "id": "d374a70a-79ee-47b2-a3ed-6c83749ff30e",
-   "title": {
-    "en": "Tsukiyo ni Sasowarete"
-   },
-   "contentRating": "safe",
-   "score": 0.21450901,
-   "languages": [
-    "en",
+    "vi",
     "fr"
    ]
   },
@@ -224,20 +212,37 @@
    ]
   },
   {
-   "id": "b65df494-fef8-41a9-8e47-f679bc6a6e5f",
+   "id": "baed25ca-569e-4461-bb31-b64883b39d99",
    "title": {
-    "en": "Boku no Kotori-san"
+    "en": "Itsuki-kun wa Tadasaretai"
    },
    "contentRating": "safe",
    "score": 0.21450901,
    "languages": [
-    "tr",
     "fr",
+    "uk",
+    "en",
     "pt-br",
-    "bg",
-    "en"
+    "vi"
+   ]
+  },
+  {
+   "id": "d3e1b39d-8727-472d-b4b0-5c01c94cc370",
+   "title": {
+    "en": "The Sound of Something New"
+   },
+   "contentRating": "safe",
+   "score": 0.21450901,
+   "languages": [
+    "id",
+    "hu",
+    "fr",
+    "es-la",
+    "pt-br",
+    "en",
+    "he"
    ]
   }
  ],
- "updatedAt": "2024-11-25T21:07:22+00:00"
+ "updatedAt": "2024-11-27T20:45:36+00:00"
 }

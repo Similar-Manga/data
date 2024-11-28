@@ -3,9 +3,12 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Strange World of Yousuke"
+   "en": "Yousuke no Kimyou na Sekai"
   },
   "altTitles": [
+   {
+    "ja": "ヨウスケの奇妙な世界"
+   },
    {
     "ja-ro": "Yousuke no Kimyou na Sekai"
    },
@@ -13,19 +16,16 @@
     "en": "The Strange World of Yousuke Takahashi"
    },
    {
-    "ja": "クレイジーピエロ"
+    "en": "Strange World of Yousuke"
    },
    {
-    "ja": "ここに愛の手を"
+    "ja": "ミルクがねじを回す時"
    },
    {
-    "ja": "ヨウスケの奇妙な世界"
+    "ja-ro": "Milk ga Neji wo Mawasu Toki"
    },
    {
-    "ja": "双子の恋"
-   },
-   {
-    "ja": "夢幻外伝"
+    "en": "The Time Milk Wound the Spring"
    },
    {
     "ja": "海から来たドール"
@@ -35,6 +35,18 @@
    },
    {
     "ja": "金目童子"
+   },
+   {
+    "ja": "ここに愛の手を"
+   },
+   {
+    "ja-ro": "クレイジーピエロ"
+   },
+   {
+    "ja": "双子の恋"
+   },
+   {
+    "ja": "夢幻外伝"
    }
   ],
   "description": {
@@ -248,9 +260,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 7,
   "createdAt": "2018-10-01T08:46:55+00:00",
-  "updatedAt": "2023-04-03T13:47:32+00:00"
+  "updatedAt": "2024-11-26T15:49:41+00:00"
  },
  "relationships": [
   {
@@ -324,7 +336,17 @@
    "related": "same_franchise"
   },
   {
+   "id": "94e0f464-c24b-4a2a-9710-3398f11e6990",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
    "id": "aa32f273-3bca-4838-926b-8a9da40c5a0c",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "d8b37008-6d32-4e74-9d8a-577151b05965",
    "type": "manga",
    "related": "same_franchise"
   }

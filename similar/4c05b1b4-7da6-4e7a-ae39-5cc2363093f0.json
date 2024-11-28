@@ -6,37 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "a52fb557-f9c6-46fd-a460-0ccafa826f78",
-   "title": {
-    "en": "Houkago Teibou Nisshi"
-   },
-   "contentRating": "safe",
-   "score": 0.27379152,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "e156c7f8-5fa9-490b-98a9-a0696f5e7e3b",
    "title": {
     "en": "Tamayomi"
    },
    "contentRating": "safe",
-   "score": 0.23422211,
+   "score": 0.23497637,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "1acceea4-9aef-494c-8093-66d2fc0486c7",
+   "id": "a52fb557-f9c6-46fd-a460-0ccafa826f78",
    "title": {
-    "en": "Tengu no Daidokoro"
+    "en": "Houkago Teibou Nisshi"
    },
    "contentRating": "safe",
-   "score": 0.22797759,
+   "score": 0.23048861,
    "languages": [
-    "en"
+    "en",
+    "es-la"
    ]
   },
   {
@@ -45,31 +34,7 @@
     "en": "Haifuri"
    },
    "contentRating": "safe",
-   "score": 0.22197708,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "07e2dbbd-a681-41d2-85e4-944735cc42e1",
-   "title": {
-    "en": "Toumei na Yoru ni Kakeru-kun to, Me ni Mienai Koi wo Shita."
-   },
-   "contentRating": "safe",
-   "score": 0.21138787,
-   "languages": [
-    "vi",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "427c6579-cc83-460e-a0ca-f0acd286fa67",
-   "title": {
-    "en": "Sketchy"
-   },
-   "contentRating": "safe",
-   "score": 0.20990779,
+   "score": 0.2293525,
    "languages": [
     "en"
    ]
@@ -80,7 +45,7 @@
     "en": "High Score Girl DASH"
    },
    "contentRating": "safe",
-   "score": 0.20979951,
+   "score": 0.22297862,
    "languages": [
     "pt-br",
     "es-la",
@@ -89,12 +54,36 @@
    ]
   },
   {
-   "id": "c996236b-43bb-4607-95f5-9f51a6e54bca",
+   "id": "07e2dbbd-a681-41d2-85e4-944735cc42e1",
    "title": {
-    "en": "Ramen Daisuki Koizumi-san"
+    "en": "Toumei na Yoru ni Kakeru-kun to, Me ni Mienai Koi wo Shita."
    },
    "contentRating": "safe",
-   "score": 0.20323406,
+   "score": 0.22069666,
+   "languages": [
+    "vi",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "1acceea4-9aef-494c-8093-66d2fc0486c7",
+   "title": {
+    "en": "Tengu no Daidokoro"
+   },
+   "contentRating": "safe",
+   "score": 0.22001386,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "427c6579-cc83-460e-a0ca-f0acd286fa67",
+   "title": {
+    "en": "Sketchy"
+   },
+   "contentRating": "safe",
+   "score": 0.21117121,
    "languages": [
     "en"
    ]
@@ -105,10 +94,33 @@
     "en": "Witch Hat Atelier Kitchen"
    },
    "contentRating": "safe",
-   "score": 0.20315781,
+   "score": 0.20486628,
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "c996236b-43bb-4607-95f5-9f51a6e54bca",
+   "title": {
+    "en": "Ramen Daisuki Koizumi-san"
+   },
+   "contentRating": "safe",
+   "score": 0.2046656,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5f552411-902a-4978-ae68-cbea8a6554c0",
+   "title": {
+    "en": "Saki: Achiga-hen - episode of side-A"
+   },
+   "contentRating": "safe",
+   "score": 0.20300351,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -117,11 +129,25 @@
     "en": "Ao no Shima to Neko Ippiki"
    },
    "contentRating": "safe",
-   "score": 0.19781016,
+   "score": 0.19893287,
    "languages": [
     "en",
     "ru",
     "pt-br"
+   ]
+  },
+  {
+   "id": "71b16e06-8c0d-42a3-b457-73cf55343bc0",
+   "title": {
+    "en": "Magmell Shinkai Suizokukan"
+   },
+   "contentRating": "safe",
+   "score": 0.19789751,
+   "languages": [
+    "zh-hk",
+    "en",
+    "pt-br",
+    "vi"
    ]
   },
   {
@@ -136,18 +162,6 @@
    ]
   },
   {
-   "id": "5f552411-902a-4978-ae68-cbea8a6554c0",
-   "title": {
-    "en": "Saki: Achiga-hen - episode of side-A"
-   },
-   "contentRating": "safe",
-   "score": 0.1956789,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "7bb85929-8554-4fc9-a7f5-57bcc0084865",
    "title": {
     "en": "Double Bull"
@@ -159,17 +173,15 @@
    ]
   },
   {
-   "id": "71b16e06-8c0d-42a3-b457-73cf55343bc0",
+   "id": "264b9c57-373b-48a6-9fc3-7f4e386ea8ca",
    "title": {
-    "en": "Magmell Shinkai Suizokukan"
+    "en": "Cross the Mountains, Yama wo Wataru: Santamadai Gakuburoku"
    },
    "contentRating": "safe",
-   "score": 0.19315352,
+   "score": 0.19085774,
    "languages": [
     "zh-hk",
-    "en",
-    "pt-br",
-    "vi"
+    "en"
    ]
   },
   {
@@ -178,24 +190,12 @@
     "en": "Ochibi-san"
    },
    "contentRating": "safe",
-   "score": 0.18923777,
+   "score": 0.19013502,
    "languages": [
     "en",
     "fr"
    ]
-  },
-  {
-   "id": "264b9c57-373b-48a6-9fc3-7f4e386ea8ca",
-   "title": {
-    "en": "Cross the Mountains, Yama wo Wataru: Santamadai Gakuburoku"
-   },
-   "contentRating": "safe",
-   "score": 0.1875599,
-   "languages": [
-    "zh-hk",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-11-25T21:00:21+00:00"
+ "updatedAt": "2024-11-27T20:40:50+00:00"
 }

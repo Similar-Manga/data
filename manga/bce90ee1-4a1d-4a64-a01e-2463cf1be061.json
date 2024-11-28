@@ -19,6 +19,9 @@
     "ja-ro": "Gakum@s"
    },
    {
+    "ja-ro": "Gakumas"
+   },
+   {
     "en": "Academy Idolmaster: Gold Rush"
    }
   ],
@@ -92,9 +95,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 12,
   "createdAt": "2024-09-23T00:21:29+00:00",
-  "updatedAt": "2024-11-16T04:36:17+00:00"
+  "updatedAt": "2024-11-26T09:29:03+00:00"
  },
  "relationships": [
   {
@@ -192,6 +195,11 @@
    "id": "0b9159ad-bd7c-4267-8803-91bc33c011f0",
    "type": "manga",
    "related": "doujinshi"
+  },
+  {
+   "id": "3c754178-eeee-49ce-a32a-314971c7df55",
+   "type": "manga",
+   "related": "same_franchise"
   },
   {
    "id": "b97afec7-be43-4f74-8b56-fb2d88829625",

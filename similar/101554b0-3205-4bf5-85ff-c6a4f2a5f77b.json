@@ -29,20 +29,6 @@
    ]
   },
   {
-   "id": "7e4c526b-814b-4005-9bbd-85274215ae4b",
-   "title": {
-    "en": "Kanojo wa Mizumizushii"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "it",
-    "id",
-    "pt-br"
-   ]
-  },
-  {
    "id": "28f86472-0fab-4229-96da-6d3c9b2633de",
    "title": {
     "en": "Boku no Kanojo wa Dekkawaii (Pre-Serialization)"
@@ -71,9 +57,9 @@
    ]
   },
   {
-   "id": "0cee3ca4-e1a2-4fd0-8e76-f332f06b43c3",
+   "id": "816b8429-118d-46bd-9cdc-9554c816bde1",
    "title": {
-    "en": "Soredemo Hikareau Futari"
+    "en": "No Strategy, No Bullshit."
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -82,9 +68,23 @@
    ]
   },
   {
-   "id": "816b8429-118d-46bd-9cdc-9554c816bde1",
+   "id": "7e4c526b-814b-4005-9bbd-85274215ae4b",
    "title": {
-    "en": "No Strategy, No Bullshit."
+    "en": "Kanojo wa Mizumizushii"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "it",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "0cee3ca4-e1a2-4fd0-8e76-f332f06b43c3",
+   "title": {
+    "en": "Soredemo Hikareau Futari"
    },
    "contentRating": "safe",
    "score": 0.2857143,
@@ -98,7 +98,7 @@
     "en": "Kyou mo E ni Kaita Mochi ga Umai"
    },
    "contentRating": "safe",
-   "score": 0.26399982,
+   "score": 0.2640087,
    "languages": [
     "en"
    ]
@@ -109,7 +109,7 @@
     "en": "E ni Kaita Mochi wo Kaita Mochi"
    },
    "contentRating": "safe",
-   "score": 0.26093444,
+   "score": 0.26093546,
    "languages": [
     "es-la",
     "en"
@@ -121,7 +121,7 @@
     "en": "A Story About Spending a Little More Time With an Eccentric Girl"
    },
    "contentRating": "safe",
-   "score": 0.2564444,
+   "score": 0.25644457,
    "languages": [
     "fr",
     "id",
@@ -135,52 +135,20 @@
    ]
   },
   {
-   "id": "36b0543a-a3bf-4e9a-a772-cc9c2324e10e",
+   "id": "24721a66-4ffb-4cd4-abe1-94c796e3154b",
    "title": {
-    "en": "Toufuu (Fu)kenbunroku"
+    "en": "Nisekoi Bangai-hen: Ticket"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d31dce5c-59a7-4134-b744-b07b28c211d7",
-   "title": {
-    "en": "Shugoi ne Shugorei-san"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "2d13b557-94ff-45d4-b51c-dc75408de835",
-   "title": {
-    "en": "Houkago no Yuuwaku"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
+    "vi",
     "pt-br",
     "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
-   "id": "eb2531a1-29ec-42b4-bc44-793f8fb5fe01",
-   "title": {
-    "en": "Jibun Daisuki Aise-san"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "id",
-    "en"
+    "fr",
+    "es-la",
+    "ru",
+    "id"
    ]
   },
   {
@@ -198,9 +166,44 @@
    ]
   },
   {
-   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
+   "id": "d31dce5c-59a7-4134-b744-b07b28c211d7",
    "title": {
-    "en": "Foo Fighter Fuji"
+    "en": "Shugoi ne Shugorei-san"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "84d5742f-f5cd-408b-8f15-23e2c799f292",
+   "title": {
+    "en": "Hanseishite Kameda-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "eb2531a1-29ec-42b4-bc44-793f8fb5fe01",
+   "title": {
+    "en": "Jibun Daisuki Aise-san"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "f0379ab7-1fba-46a4-b4e1-f7781d45095d",
+   "title": {
+    "en": "Higajo no Mon"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -209,5 +212,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-25T20:33:28+00:00"
+ "updatedAt": "2024-11-27T20:20:45+00:00"
 }
