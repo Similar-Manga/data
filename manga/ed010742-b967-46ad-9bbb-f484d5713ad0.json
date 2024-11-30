@@ -18,13 +18,6 @@
    "ja": "謎の災害で命を失い、自分のやっていたゲーム世界に転生されられた飯島忍。転生カンストプレイヤーの存在、転生したクズの義父、義父に体を狙われた妹、自分だけレベル１での転生――。逆境から這い上がり廃課金者たちを出し抜け!!"
   },
   "links": {
-   "al": "157938",
-   "amz": "https://www.amazon.co.jp/dp/B0BB7N5T9J",
-   "ap": "the-invincible-summoner-who-crawled-up-from-level-1",
-   "bw": "series/371799",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/717965",
-   "kt": "65947",
-   "mal": "146287",
    "mu": "qo8bxb4"
   },
   "originalLanguage": "ja",
@@ -37,6 +30,18 @@
   ],
   "latestUploadedChapter": "504a74f7-9cf4-4991-a8e7-41f8ff4d7365",
   "tags": [
+   {
+    "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
@@ -96,12 +101,36 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2024-11-09T14:31:43+00:00",
-  "updatedAt": "2024-11-23T16:00:52+00:00"
+  "updatedAt": "2024-11-28T02:11:02+00:00"
  },
  "relationships": [
   {
@@ -161,16 +190,16 @@
    }
   },
   {
-   "id": "7e9106d9-2bff-4ac3-ad84-11ae468a4572",
+   "id": "35aa317f-fdc5-474a-96c9-91d0292f4488",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-15T14:14:08+00:00",
+    "createdAt": "2024-11-15T14:14:02+00:00",
     "description": "",
-    "fileName": "877e44f5-541e-4873-94ac-d68d928c4ded.jpg",
+    "fileName": "75cb7094-4eed-40cd-b3db-03759ee8183e.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-15T14:14:08+00:00",
+    "updatedAt": "2024-11-15T14:14:02+00:00",
     "version": 1,
-    "volume": "5"
+    "volume": "1"
    }
   },
   {

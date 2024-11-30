@@ -11,7 +11,7 @@
     "en": "Kono Te o Hanasanai"
    },
    "contentRating": "safe",
-   "score": 0.33411795
+   "score": 0.33411923
   },
   {
    "id": "5585a672-eb0a-4a76-bbad-6f26e8c1af2b",
@@ -19,7 +19,7 @@
     "en": "Shinsen Tao Niang - Kyuutei no Nie"
    },
    "contentRating": "safe",
-   "score": 0.32094932,
+   "score": 0.32095122,
    "languages": [
     "vi"
    ]
@@ -30,7 +30,15 @@
     "en": "Nile no Hotori no Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.30245504
+   "score": 0.30245712
+  },
+  {
+   "id": "f3a4a592-f268-4a17-b7a1-be356d66c7b1",
+   "title": {
+    "en": "Taiyou Shijinki"
+   },
+   "contentRating": "safe",
+   "score": 0.3014182
   },
   {
    "id": "71bf78cf-cc88-4766-a0d5-dfb488438a79",
@@ -38,7 +46,7 @@
     "en": "Ningyo ga Fuchi"
    },
    "contentRating": "safe",
-   "score": 0.2987528,
+   "score": 0.2987648,
    "languages": [
     "en",
     "hu",
@@ -52,7 +60,7 @@
     "en": "Shoukokuka Kou Engi - Yumemi ga Chikoushu to Shouyaku Otaku Ou no Tsurezure Nazotoki"
    },
    "contentRating": "safe",
-   "score": 0.29815206
+   "score": 0.29815406
   },
   {
    "id": "b38b0a46-75b8-4a2b-8037-e6f3d5c8fefd",
@@ -60,7 +68,7 @@
     "en": "Sakikaeri-hime no Homura Uta - Suterareta Hana wa Fukushuu ni Mau"
    },
    "contentRating": "safe",
-   "score": 0.2949993
+   "score": 0.29499987
   },
   {
    "id": "cefc1e41-f2b2-43c1-a851-0e30ba5f3a47",
@@ -68,7 +76,7 @@
     "en": "Medetaku Kou"
    },
    "contentRating": "safe",
-   "score": 0.29470515
+   "score": 0.29470778
   },
   {
    "id": "b40af8e7-284f-424c-b8d1-c4bfdaa1d4cf",
@@ -76,7 +84,7 @@
     "en": "Migawari Romantica - Seiryaku Kekkon Aite ni Dekiaisarete Shimaimashita!"
    },
    "contentRating": "safe",
-   "score": 0.28870443
+   "score": 0.2886968
   },
   {
    "id": "8c331028-2cc1-4f07-b461-e6baf73c033f",
@@ -84,48 +92,12 @@
     "en": "Akuma no You na Hanamuko"
    },
    "contentRating": "safe",
-   "score": 0.2858402
-  },
-  {
-   "id": "16ebf1f7-5d5d-4126-ab05-d670a719bb23",
-   "title": {
-    "en": "Tale of Felluah"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "505d8e70-2f7d-4409-91e3-c06db5e8a890",
-   "title": {
-    "en": "Hi no Hime to Mizu no Ou"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605
-  },
-  {
-   "id": "ccf598b0-4155-4369-815e-842b39a596fa",
-   "title": {
-    "en": "Ai no Campanella"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605
+   "score": 0.2858361
   },
   {
    "id": "373dcbed-d276-4105-b2e3-1ed851cc4f7a",
    "title": {
     "en": "Kanojo wa Koukyuu de Nariagaru - Ryuuguu Kinrentan"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605
-  },
-  {
-   "id": "5a9982f7-17fe-4cf1-bdae-15ffe83ca6d2",
-   "title": {
-    "en": "Hana no Daichi ni Hikaru Furu"
    },
    "contentRating": "safe",
    "score": 0.28520605
@@ -139,13 +111,41 @@
    "score": 0.28520605
   },
   {
-   "id": "6dcbe3ab-4b1e-4731-a5f3-2af7325d0743",
+   "id": "ccf598b0-4155-4369-815e-842b39a596fa",
    "title": {
-    "en": "Konyakusha wa Dekiai no Furi"
+    "en": "Ai no Campanella"
    },
    "contentRating": "safe",
-   "score": 0.28497514
+   "score": 0.28520605
+  },
+  {
+   "id": "505d8e70-2f7d-4409-91e3-c06db5e8a890",
+   "title": {
+    "en": "Hi no Hime to Mizu no Ou"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605
+  },
+  {
+   "id": "5a9982f7-17fe-4cf1-bdae-15ffe83ca6d2",
+   "title": {
+    "en": "Hana no Daichi ni Hikaru Furu"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605
+  },
+  {
+   "id": "16ebf1f7-5d5d-4126-ab05-d670a719bb23",
+   "title": {
+    "en": "Tale of Felluah"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "es-la"
+   ]
   }
  ],
- "updatedAt": "2024-11-27T21:22:21+00:00"
+ "updatedAt": "2024-11-29T20:59:20+00:00"
 }

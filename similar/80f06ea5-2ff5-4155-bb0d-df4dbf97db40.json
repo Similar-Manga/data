@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d916b2dd-0061-4817-9184-673ad75596d2",
-   "title": {
-    "en": "THE iDOLM@STER Splash Red for Dearly Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.25981256,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "f3ef175b-fc55-4811-81bf-a0ba581e1fc5",
    "title": {
     "en": "The Warrior Demigods, Champions of Sparta"
@@ -28,12 +17,23 @@
    ]
   },
   {
+   "id": "d916b2dd-0061-4817-9184-673ad75596d2",
+   "title": {
+    "en": "THE iDOLM@STER Splash Red for Dearly Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.22222224,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "21b18592-8925-466b-b909-071b52676a38",
    "title": {
     "en": "Teiden Shoujo to Hanemushi no Orchestra"
    },
    "contentRating": "safe",
-   "score": 0.21776594,
+   "score": 0.21723303,
    "languages": [
     "en"
    ]
@@ -44,7 +44,7 @@
     "en": "Hina - priced child actors"
    },
    "contentRating": "safe",
-   "score": 0.21692647,
+   "score": 0.21648839,
    "languages": [
     "en"
    ]
@@ -55,7 +55,7 @@
     "en": "Amanusya"
    },
    "contentRating": "safe",
-   "score": 0.21074454,
+   "score": 0.21044712,
    "languages": [
     "pt-br",
     "pl",
@@ -75,20 +75,39 @@
    ]
   },
   {
-   "id": "585ac109-3055-40b9-9857-2a5af900ac74",
+   "id": "40c058a2-430e-4ced-b663-369dcf38583f",
    "title": {
-    "en": "Strike Witches - Official Comics a la Carte"
+    "en": "Gokurakugai"
+   },
+   "contentRating": "safe",
+   "score": 0.2000426,
+   "languages": [
+    "ru",
+    "fr",
+    "en",
+    "pt-br",
+    "es-la",
+    "id",
+    "fa",
+    "vi"
+   ]
+  },
+  {
+   "id": "403271f8-61d9-4fc7-a3e0-c8fb7223770c",
+   "title": {
+    "en": "Hetalia World☆Stars"
    },
    "contentRating": "safe",
    "score": 0.19440396,
    "languages": [
-    "en"
+    "en",
+    "vi"
    ]
   },
   {
-   "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
+   "id": "585ac109-3055-40b9-9857-2a5af900ac74",
    "title": {
-    "en": "Warabe no Kusa"
+    "en": "Strike Witches - Official Comics a la Carte"
    },
    "contentRating": "safe",
    "score": 0.19440396,
@@ -108,73 +127,13 @@
    ]
   },
   {
-   "id": "403271f8-61d9-4fc7-a3e0-c8fb7223770c",
+   "id": "d0350850-4aea-4800-9894-39965c1e3f5d",
    "title": {
-    "en": "Hetalia World☆Stars"
+    "en": "Warabe no Kusa"
    },
    "contentRating": "safe",
    "score": 0.19440396,
    "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "94eb0afc-293c-4323-96b8-89c46de463e6",
-   "title": {
-    "en": "Gokurakugai Sanbandori no Ken"
-   },
-   "contentRating": "safe",
-   "score": 0.19363193,
-   "languages": [
-    "pl",
-    "ru",
-    "en",
-    "fr",
-    "pt-br",
-    "es-la",
-    "uk",
-    "ca",
-    "it",
-    "ur",
-    "hu",
-    "vi",
-    "id",
-    "ar"
-   ]
-  },
-  {
-   "id": "03911f4a-33cd-4305-bf27-dd0c01aca7f8",
-   "title": {
-    "en": "Anastasia no Shinei Taichou"
-   },
-   "contentRating": "safe",
-   "score": 0.18841048,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "90ba9e14-99b6-441f-a093-2b9237ff227e",
-   "title": {
-    "en": "Gakuen Utopia Manabi Straight!"
-   },
-   "contentRating": "safe",
-   "score": 0.18144369,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e8748409-955b-4e6f-a288-e8f8fd2d22cd",
-   "title": {
-    "en": "Joshikousei Joreishi Akane!"
-   },
-   "contentRating": "safe",
-   "score": 0.18144369,
-   "languages": [
-    "vi",
     "en"
    ]
   },
@@ -208,7 +167,54 @@
     "en",
     "fr"
    ]
+  },
+  {
+   "id": "90ba9e14-99b6-441f-a093-2b9237ff227e",
+   "title": {
+    "en": "Gakuen Utopia Manabi Straight!"
+   },
+   "contentRating": "safe",
+   "score": 0.18144369,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e8748409-955b-4e6f-a288-e8f8fd2d22cd",
+   "title": {
+    "en": "Joshikousei Joreishi Akane!"
+   },
+   "contentRating": "safe",
+   "score": 0.18144369,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "94eb0afc-293c-4323-96b8-89c46de463e6",
+   "title": {
+    "en": "Gokurakugai Sanbandori no Ken"
+   },
+   "contentRating": "safe",
+   "score": 0.18123369,
+   "languages": [
+    "pl",
+    "ru",
+    "en",
+    "fr",
+    "pt-br",
+    "es-la",
+    "uk",
+    "ca",
+    "it",
+    "ur",
+    "hu",
+    "vi",
+    "id",
+    "ar"
+   ]
   }
  ],
- "updatedAt": "2024-11-27T20:58:36+00:00"
+ "updatedAt": "2024-11-29T20:35:52+00:00"
 }

@@ -1,0 +1,134 @@
+{
+ "id": "d1b6eba0-6f47-4d0e-85cb-62ef53d51150",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "DISSIDANT"
+  },
+  "altTitles": [
+   {
+    "en": "Dissidant"
+   }
+  ],
+  "description": {
+   "en": "Sankari, a fiery young boy from a small village, who aspires to live adifferent life from his friends.\nWhen an old acquaintance returns from a long journey, it could change his destiny."
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-27T15:33:09+00:00",
+  "updatedAt": "2024-11-28T17:16:26+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6f0bc3ec-21bd-4f9e-94cd-2482bb6338aa",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-17T18:22:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sozemalt",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-17T18:22:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6f0bc3ec-21bd-4f9e-94cd-2482bb6338aa",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-17T18:22:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sozemalt",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-17T18:22:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ed1691b6-f882-401f-846d-600930e51cf1",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-27T15:33:11+00:00",
+    "description": "",
+    "fileName": "32902239-67fd-4ed0-980f-a349b903fba2.png",
+    "locale": "en",
+    "updatedAt": "2024-11-27T15:33:11+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "eb0568ef-ec92-490d-88d1-8fd626801a53",
+   "type": "creator"
+  }
+ ]
+}

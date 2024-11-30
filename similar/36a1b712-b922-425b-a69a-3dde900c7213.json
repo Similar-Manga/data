@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "45ca45e8-9044-4dde-bb2f-0e336becf3a9",
-   "title": {
-    "en": "Sherlock Holmes Whispers to the Shadows"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "294397ff-58f6-46dd-b9ce-43f1dcf519bc",
    "title": {
     "en": "Ryoko's Case File"
@@ -31,7 +23,7 @@
     "en": "Bokura no Q"
    },
    "contentRating": "safe",
-   "score": 0.2787554,
+   "score": 0.2787473,
    "languages": [
     "en"
    ]
@@ -42,7 +34,7 @@
     "en": "GUARDIAN"
    },
    "contentRating": "safe",
-   "score": 0.26437354,
+   "score": 0.26437482,
    "languages": [
     "es",
     "en",
@@ -55,7 +47,7 @@
     "en": "Keishichou Sword Division"
    },
    "contentRating": "safe",
-   "score": 0.26418063,
+   "score": 0.26417506,
    "languages": [
     "en"
    ]
@@ -66,7 +58,7 @@
     "en": "Bungo Stray Dogs Gaiden - Ayatsuji Yukito VS. Kyougoku Natsuhiko"
    },
    "contentRating": "safe",
-   "score": 0.25813267,
+   "score": 0.2581299,
    "languages": [
     "ru",
     "en",
@@ -81,7 +73,7 @@
     "en": "Onmyou Brothers"
    },
    "contentRating": "safe",
-   "score": 0.2570157
+   "score": 0.25701588
   },
   {
    "id": "baf824f8-0cb7-4d57-b434-5790a27bf593",
@@ -89,10 +81,29 @@
     "en": "Poorman, Ark, Billionaire"
    },
    "contentRating": "safe",
-   "score": 0.2567092,
+   "score": 0.2567098,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "7d18c567-426e-4c11-8c49-6ec843f53cef",
+   "title": {
+    "en": "Ikigami Sairin"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b7c3baa1-3603-4220-a5bf-8ddef5485505",
+   "title": {
+    "en": "Joujin Kamen"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
   },
   {
    "id": "569963c5-6b0b-4f92-b561-e1304b78b0dc",
@@ -112,31 +123,12 @@
    ]
   },
   {
-   "id": "b7c3baa1-3603-4220-a5bf-8ddef5485505",
-   "title": {
-    "en": "Joujin Kamen"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
-   "id": "7d18c567-426e-4c11-8c49-6ec843f53cef",
-   "title": {
-    "en": "Ikigami Sairin"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "bdf63431-cb17-4c40-b446-0ee994983abc",
    "title": {
     "en": "Konno Chika no Fujou na Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.24440347
+   "score": 0.24440561
   },
   {
    "id": "b8ea488b-e9dd-4d9e-8457-ea2bbe7de59c",
@@ -144,7 +136,7 @@
     "en": "The Gamesters"
    },
    "contentRating": "safe",
-   "score": 0.242536
+   "score": 0.2425361
   },
   {
    "id": "88353408-a80d-4529-8caa-9d961dbb6a89",
@@ -152,7 +144,15 @@
     "en": "Killer Goldfish"
    },
    "contentRating": "safe",
-   "score": 0.23741789
+   "score": 0.23741812
+  },
+  {
+   "id": "bfb5708e-4e93-45f6-802a-553202ffb06e",
+   "title": {
+    "en": "Shikeishuu Sousakan Akutagawa-kai no Jikenbo"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476
   },
   {
    "id": "2ee825b5-fca6-40a3-98f2-e47d44bd7fc8",
@@ -166,13 +166,17 @@
    ]
   },
   {
-   "id": "bfb5708e-4e93-45f6-802a-553202ffb06e",
+   "id": "ada663c3-e8b7-4cce-a888-ebf6ea90721f",
    "title": {
-    "en": "Shikeishuu Sousakan Akutagawa-kai no Jikenbo"
+    "en": "RDB"
    },
    "contentRating": "safe",
-   "score": 0.23328476
+   "score": 0.2306191,
+   "languages": [
+    "ru",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-27T20:33:41+00:00"
+ "updatedAt": "2024-11-29T20:10:50+00:00"
 }

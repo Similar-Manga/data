@@ -11,7 +11,7 @@
     "en": "In the House"
    },
    "contentRating": "safe",
-   "score": 0.38521653
+   "score": 0.38521713
   },
   {
    "id": "55fb9311-1b88-4722-8ab2-a8a64ef76647",
@@ -19,7 +19,7 @@
     "en": "Manmaru Potager"
    },
    "contentRating": "safe",
-   "score": 0.36116797
+   "score": 0.36117327
   },
   {
    "id": "52f4ea39-99bd-407f-b86f-46b24a712ce8",
@@ -27,7 +27,7 @@
     "en": "Me no Doku Sugiru Shokuba no Futari"
    },
    "contentRating": "safe",
-   "score": 0.34596395,
+   "score": 0.34596598,
    "languages": [
     "en"
    ]
@@ -38,7 +38,7 @@
     "en": "Pawnshop: Shinobu's Jewel Box"
    },
    "contentRating": "safe",
-   "score": 0.34397858,
+   "score": 0.34403265,
    "languages": [
     "en"
    ]
@@ -49,7 +49,7 @@
     "en": "Seaside Return"
    },
    "contentRating": "safe",
-   "score": 0.34343448,
+   "score": 0.34342986,
    "languages": [
     "en"
    ]
@@ -60,7 +60,7 @@
     "en": "Watashi no Uchi wa Futsuu"
    },
    "contentRating": "safe",
-   "score": 0.34132993
+   "score": 0.34133166
   },
   {
    "id": "1413c740-e12f-4cec-afbb-f77c54bfaa2b",
@@ -68,7 +68,7 @@
     "en": "Tokugawa-kun ga Komarasete kuru!"
    },
    "contentRating": "safe",
-   "score": 0.33642012
+   "score": 0.33641896
   },
   {
    "id": "cc47793e-324e-484b-b85d-7cd763757cb5",
@@ -76,7 +76,7 @@
     "en": "Hakui de Pon"
    },
    "contentRating": "safe",
-   "score": 0.33358988
+   "score": 0.33361417
   },
   {
    "id": "93f7b86f-d777-4429-961d-68b59703e5a6",
@@ -84,7 +84,7 @@
     "en": "Aria no Shinryouroku"
    },
    "contentRating": "safe",
-   "score": 0.33306307
+   "score": 0.33306015
   },
   {
    "id": "f85ef17c-019c-482a-b3e5-eb4256a71bc5",
@@ -92,7 +92,15 @@
     "en": "Seijou Seikatsu"
    },
    "contentRating": "safe",
-   "score": 0.327623
+   "score": 0.32760477
+  },
+  {
+   "id": "f0600f21-4fd6-4f8f-9739-d584782f5991",
+   "title": {
+    "en": "Kannazuki Yukariko no Yuuga na Himatsubushi"
+   },
+   "contentRating": "safe",
+   "score": 0.3259059
   },
   {
    "id": "26404133-d8a5-4857-8512-80cc0b21828c",
@@ -100,49 +108,10 @@
     "en": "The Most Heretical Last Boss Queen Who Will Become the Source of Tragedy Will Devote Herself for the Sake of the People. ~To the Savior~"
    },
    "contentRating": "safe",
-   "score": 0.3254803,
+   "score": 0.3254843,
    "languages": [
     "en",
     "es-la"
-   ]
-  },
-  {
-   "id": "e5a303ce-a141-4db7-bef3-c88947a6b07e",
-   "title": {
-    "en": "Watashi no Tonari no Yandere-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.32083687
-  },
-  {
-   "id": "07032c61-c950-4d3b-a4e2-501353689faa",
-   "title": {
-    "en": "Race to Steal the Emperor's Heart"
-   },
-   "contentRating": "safe",
-   "score": 0.3200829
-  },
-  {
-   "id": "4b6b5be6-8f2a-4cd3-8bb9-c93405019a03",
-   "title": {
-    "en": "Devil's Luck"
-   },
-   "contentRating": "safe",
-   "score": 0.320017,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0298d204-5a11-4e06-ba18-12d9c1d5663e",
-   "title": {
-    "en": "Te o Tsunaide Sanposhite"
-   },
-   "contentRating": "safe",
-   "score": 0.31975088,
-   "languages": [
-    "ru",
-    "en"
    ]
   },
   {
@@ -151,7 +120,7 @@
     "en": "Koori Zokusei Danshi to Cool na Douryou Joshi"
    },
    "contentRating": "safe",
-   "score": 0.3197154,
+   "score": 0.32355753,
    "languages": [
     "en",
     "es-la",
@@ -163,7 +132,34 @@
     "it",
     "pl"
    ]
+  },
+  {
+   "id": "e5a303ce-a141-4db7-bef3-c88947a6b07e",
+   "title": {
+    "en": "Watashi no Tonari no Yandere-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.32083777
+  },
+  {
+   "id": "07032c61-c950-4d3b-a4e2-501353689faa",
+   "title": {
+    "en": "Race to Steal the Emperor's Heart"
+   },
+   "contentRating": "safe",
+   "score": 0.32008207
+  },
+  {
+   "id": "4b6b5be6-8f2a-4cd3-8bb9-c93405019a03",
+   "title": {
+    "en": "Devil's Luck"
+   },
+   "contentRating": "safe",
+   "score": 0.32001436,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-27T21:24:34+00:00"
+ "updatedAt": "2024-11-29T21:01:31+00:00"
 }

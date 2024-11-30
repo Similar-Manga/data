@@ -1,0 +1,147 @@
+{
+ "id": "62726f5b-ac3f-4e60-bfce-73d3a4cf8c1b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Osananajimi wa, Nyaa to Naite Skirt no Naka."
+  },
+  "altTitles": [
+   {
+    "ja": "幼馴染は、にゃあと鳴いてスカートのなか。"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "ko"
+  ],
+  "latestUploadedChapter": "078251e4-0737-40ed-9759-746186e256b3",
+  "tags": [
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-28T21:29:35+00:00",
+  "updatedAt": "2024-11-28T21:29:53+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5a5d04fa-aa78-4fd6-8cd8-676ba0bf3f6d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-11-14T05:37:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Handa Hotori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-11-14T05:37:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a3264ca8-4252-4762-82d8-e77220f46cb2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-28T21:28:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nanahashi Raku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-28T21:28:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3909f56f-a8dd-40bf-89e6-baed036c72e6",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-28T21:29:48+00:00",
+    "description": "",
+    "fileName": "86c77239-2f49-473a-b245-62a8483749d0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-28T21:29:48+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "6d27972a-5468-4980-9681-18fa1c33dced",
+   "type": "creator"
+  }
+ ]
+}

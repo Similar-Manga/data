@@ -33,12 +33,11 @@
   "year": 2024,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "vi",
+   "en",
    "ko",
-   "id",
-   "en"
+   "id"
   ],
-  "latestUploadedChapter": "904b985e-97c9-4329-9ea6-195270f1648a",
+  "latestUploadedChapter": "14c8e4ed-adc4-4cf8-8546-4c1192c0592d",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -90,9 +89,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 11,
   "createdAt": "2024-10-17T18:32:39+00:00",
-  "updatedAt": "2024-11-27T03:08:06+00:00"
+  "updatedAt": "2024-11-28T17:12:40+00:00"
  },
  "relationships": [
   {
@@ -122,34 +121,6 @@
    }
   },
   {
-   "id": "c2489942-4aa4-4034-9b2e-77b879f4a693",
-   "type": "author",
-   "attributes": {
-    "biography": {
-     "en": "**Alt names**:\ntorii_shiduku\nとり"
-    },
-    "booth": null,
-    "createdAt": "2023-08-19T05:24:42+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Tori",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/users/6864986",
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/torii_shiduku",
-    "updatedAt": "2023-09-07T15:51:04+00:00",
-    "version": 3,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
    "id": "be280435-692d-40db-b54f-9652b5b91c5f",
    "type": "artist",
    "attributes": {
@@ -170,34 +141,6 @@
     "twitter": null,
     "updatedAt": "2024-10-17T18:30:39+00:00",
     "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "c2489942-4aa4-4034-9b2e-77b879f4a693",
-   "type": "artist",
-   "attributes": {
-    "biography": {
-     "en": "**Alt names**:\ntorii_shiduku\nとり"
-    },
-    "booth": null,
-    "createdAt": "2023-08-19T05:24:42+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Tori",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/users/6864986",
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/torii_shiduku",
-    "updatedAt": "2023-09-07T15:51:04+00:00",
-    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

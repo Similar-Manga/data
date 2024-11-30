@@ -3,20 +3,47 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Ryota wa Ototo wo Koroshita"
+   "en": "Ryota Killed His Brother"
   },
   "altTitles": [
    {
     "ja": "良太は弟を殺した"
+   },
+   {
+    "ja-ro": "Ryota wa Ototo wo Koroshita"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "When their mother dies, junior high school student Ryota takes care of his toddler brother Chika and their home. \n\nOverwhelmed by all the work, he begins neglecting himself. Without any time to himself, Ryota comes to resent his little brother and soon the resentment turns into murderous thoughts. Little by little the pressures of childrearing make Ryota lose his mind. \n\nBut is Ryota truly the issue? Or…"
+  },
+  "links": {
+   "al": "185081",
+   "engtl": "https://mangaplus.shueisha.co.jp/titles/100397",
+   "mal": "176687",
+   "raw": "https://shonenjumpplus.com/episode/17106567261201093417"
+  },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "2be6ae4c-cbfa-4098-8a14-b07fe236ce9b",
   "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
     "type": "tag",
@@ -40,12 +67,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 7,
   "createdAt": "2024-11-02T08:45:27+00:00",
-  "updatedAt": "2024-11-02T08:45:32+00:00"
+  "updatedAt": "2024-11-29T04:39:09+00:00"
  },
  "relationships": [
   {
@@ -66,9 +105,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-02T08:44:21+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ayuminatori",
+    "updatedAt": "2024-11-29T01:35:25+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -92,23 +131,23 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-02T08:44:21+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ayuminatori",
+    "updatedAt": "2024-11-29T01:35:25+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "e2f404cd-98de-4785-ab9f-d5d9b88eff50",
+   "id": "77c714a5-e3cb-4765-bfb4-4337cf6c1860",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-02T08:45:29+00:00",
+    "createdAt": "2024-11-28T15:12:58+00:00",
     "description": "",
-    "fileName": "70e8813f-9ec9-450a-b93e-83e07a1c49b0.jpg",
+    "fileName": "ec04439b-520d-4768-9d94-51b35c4599c2.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-02T08:45:29+00:00",
+    "updatedAt": "2024-11-28T15:12:58+00:00",
     "version": 1,
     "volume": null
    }

@@ -3,22 +3,31 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kuroneko ga Onnanoko ni Natta Ohanashi"
+   "en": "Kuroneko no Ohanashi"
   },
   "altTitles": [
+   {
+    "ja": "黒猫のお話"
+   },
+   {
+    "en": "A Story About Black Cats"
+   },
    {
     "ja": "黒猫がおんなのこになったお話"
    },
    {
-    "ja-ro": "Kuro Neko ga On’na no Ko ni Natta Ohanashi"
+    "ja-ro": "Kuroneko ga Onnanoko ni Natta Ohanashi"
    },
    {
     "en": "A Story About a Black Cat Who Becomes a Girl"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "This is a story about a black cat who became a cat girl.\n\n---\n\nAlternative Official Raw - [Twitter](https://twitter.com/M_terU116/status/1816775907320955112)"
+  },
   "links": {
-   "raw": "https://twitter.com/M_terU116/status/1816775907320955112"
+   "mu": "cp1pofp",
+   "raw": "https://www.pixiv.net/user/4345940/series/258446"
   },
   "originalLanguage": "ja",
   "status": "ongoing",
@@ -104,16 +113,18 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 10,
   "createdAt": "2024-11-25T17:25:24+00:00",
-  "updatedAt": "2024-11-26T10:54:29+00:00"
+  "updatedAt": "2024-11-28T06:24:58+00:00"
  },
  "relationships": [
   {
    "id": "151fe3a1-06f3-43dc-bb28-81f837b1bacf",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: めがてる"
+    },
     "booth": null,
     "createdAt": "2024-11-25T17:23:19+00:00",
     "fanBox": null,
@@ -124,12 +135,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/4345940",
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/M_terU116",
-    "updatedAt": "2024-11-25T23:48:27+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-28T06:27:13+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -139,7 +150,9 @@
    "id": "151fe3a1-06f3-43dc-bb28-81f837b1bacf",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: めがてる"
+    },
     "booth": null,
     "createdAt": "2024-11-25T17:23:19+00:00",
     "fanBox": null,
@@ -150,28 +163,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/4345940",
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/M_terU116",
-    "updatedAt": "2024-11-25T23:48:27+00:00",
-    "version": 2,
+    "updatedAt": "2024-11-28T06:27:13+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "9928226a-0207-406a-a975-9b83b76c659a",
+   "id": "0364c45f-0f11-4b8b-b890-9c747b1ceadc",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-25T17:25:36+00:00",
+    "createdAt": "2024-11-27T11:25:44+00:00",
     "description": "",
-    "fileName": "45f65b5b-c7e4-4b2b-b991-c4c82be689a3.jpg",
+    "fileName": "96a9d388-aa5a-4144-ab37-5f85a60ab425.png",
     "locale": "ja",
-    "updatedAt": "2024-11-25T17:25:36+00:00",
+    "updatedAt": "2024-11-27T11:25:44+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "0"
    }
   },
   {

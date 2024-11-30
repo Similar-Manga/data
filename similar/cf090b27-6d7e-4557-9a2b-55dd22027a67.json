@@ -6,28 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c01e79b5-e2ca-4a9c-a424-4cae6b97d532",
-   "title": {
-    "en": "The Boy from the Moon"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "eafd02d5-e6a0-477c-bed5-2e98115b4469",
-   "title": {
-    "en": "The Queen's Dogs"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "e16a0d2a-1547-4fce-869e-f833b16585a1",
    "title": {
     "en": "A Thousand Miles Across the River"
@@ -51,9 +29,31 @@
    ]
   },
   {
+   "id": "eafd02d5-e6a0-477c-bed5-2e98115b4469",
+   "title": {
+    "en": "The Queen's Dogs"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "12beb4bd-25ee-4192-8a10-e64d681e6e06",
    "title": {
     "en": "Savepoint Lv. 1"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c01e79b5-e2ca-4a9c-a424-4cae6b97d532",
+   "title": {
+    "en": "The Boy from the Moon"
    },
    "contentRating": "safe",
    "score": 0.23328476,
@@ -67,18 +67,7 @@
     "en": "Poop Manager: Praise the Cat Lord"
    },
    "contentRating": "safe",
-   "score": 0.22106163,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f5d5f1ed-8b94-4bdf-91de-95738b3542ac",
-   "title": {
-    "en": "Majime Tennen-kei Reijou wa Toshishita Ouji no Omoi ni Kidzukanai"
-   },
-   "contentRating": "safe",
-   "score": 0.21512656,
+   "score": 0.22096738,
    "languages": [
     "en"
    ]
@@ -89,7 +78,18 @@
     "en": "inGrid"
    },
    "contentRating": "safe",
-   "score": 0.21337147,
+   "score": 0.21335825,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f5d5f1ed-8b94-4bdf-91de-95738b3542ac",
+   "title": {
+    "en": "Majime Tennen-kei Reijou wa Toshishita Ouji no Omoi ni Kidzukanai"
+   },
+   "contentRating": "safe",
+   "score": 0.20973797,
    "languages": [
     "en"
    ]
@@ -100,16 +100,16 @@
     "en": "Fuyu no Ou to Haru no Hime"
    },
    "contentRating": "safe",
-   "score": 0.20934333,
+   "score": 0.20933501,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "0b7853de-88c0-4854-aede-b3978addb650",
+   "id": "ea5a1867-e640-490f-84f8-e5a8804aa17c",
    "title": {
-    "en": "The Case of the Beastkin Captain's Temporary Engagement"
+    "en": "The Sheikh and a Desert Pearl"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -129,35 +129,33 @@
    ]
   },
   {
-   "id": "9bf41378-6360-4360-8822-c40592c22c9b",
+   "id": "37ce4a6c-dd93-48ef-aeec-491fec98cfb3",
    "title": {
-    "en": "Anemone"
+    "en": "Hero and Shero"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
-    "tr",
+    "en",
+    "es",
+    "fr"
+   ]
+  },
+  {
+   "id": "cb6e0cf7-db28-4653-bf0b-286f0ffa5550",
+   "title": {
+    "en": "Playboy no Hatsukoi"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
     "en"
    ]
   },
   {
-   "id": "d2ff93e0-2c15-4f92-9ea4-ca029f7b9acc",
+   "id": "0b7853de-88c0-4854-aede-b3978addb650",
    "title": {
-    "en": "Unmei no Hito ni Deau Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "it"
-   ]
-  },
-  {
-   "id": "da21abc2-6b20-49e5-8c89-0ca0beb0996b",
-   "title": {
-    "en": "Manatsu no Eden"
+    "en": "The Case of the Beastkin Captain's Temporary Engagement"
    },
    "contentRating": "safe",
    "score": 0.20203052,
@@ -177,17 +175,19 @@
    ]
   },
   {
-   "id": "5d58bf5d-20d0-44d8-99d8-ee1f2e535580",
+   "id": "d2ff93e0-2c15-4f92-9ea4-ca029f7b9acc",
    "title": {
-    "en": "Marronnier Oukoku no Shichinin no Kishi"
+    "en": "Unmei no Hito ni Deau Hanashi"
    },
    "contentRating": "safe",
    "score": 0.20203052,
    "languages": [
+    "pt-br",
     "en",
-    "fr"
+    "fr",
+    "it"
    ]
   }
  ],
- "updatedAt": "2024-11-27T21:25:11+00:00"
+ "updatedAt": "2024-11-29T21:02:08+00:00"
 }

@@ -6,22 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "db8b9aa6-84fa-4505-865d-831783199367",
-   "title": {
-    "en": "Yabu doctor's tweet"
-   },
-   "contentRating": "safe",
-   "score": 0.21502191
-  },
-  {
-   "id": "b7d4edb1-a02c-45b5-87fe-ddb808786014",
-   "title": {
-    "en": "Ten-chan in a White Coat"
-   },
-   "contentRating": "safe",
-   "score": 0.21502191
-  },
-  {
    "id": "0a332db8-47f5-4752-a167-dccbb609181f",
    "title": {
     "en": "Naori wa Shinai ga, Mashi ni Naru"
@@ -33,12 +17,36 @@
    ]
   },
   {
+   "id": "b7d4edb1-a02c-45b5-87fe-ddb808786014",
+   "title": {
+    "en": "Ten-chan in a White Coat"
+   },
+   "contentRating": "safe",
+   "score": 0.21502191
+  },
+  {
+   "id": "db8b9aa6-84fa-4505-865d-831783199367",
+   "title": {
+    "en": "Yabu doctor's tweet"
+   },
+   "contentRating": "safe",
+   "score": 0.21502191
+  },
+  {
    "id": "fcaff030-0f04-427e-bff7-b1511d3f81fb",
    "title": {
     "en": "Nurse Aoi"
    },
    "contentRating": "safe",
-   "score": 0.19982666
+   "score": 0.1998318
+  },
+  {
+   "id": "a122a07d-6ffe-4d65-b9e6-e17174897c25",
+   "title": {
+    "en": "My Oldies are All Color"
+   },
+   "contentRating": "safe",
+   "score": 0.18814418
   },
   {
    "id": "1bff9582-6526-4d71-92e0-6f4b6b072bd4",
@@ -57,20 +65,12 @@
    "score": 0.18814418
   },
   {
-   "id": "a122a07d-6ffe-4d65-b9e6-e17174897c25",
-   "title": {
-    "en": "My Oldies are All Color"
-   },
-   "contentRating": "safe",
-   "score": 0.18814418
-  },
-  {
    "id": "364401ab-737e-4044-868f-be9ecf4dee47",
    "title": {
     "en": "Dr. Eggs"
    },
    "contentRating": "safe",
-   "score": 0.18758442
+   "score": 0.18758823
   },
   {
    "id": "681f0641-3672-42d7-b95b-7c436e2fa9ae",
@@ -78,7 +78,7 @@
     "en": "Doctor Price"
    },
    "contentRating": "safe",
-   "score": 0.18013799
+   "score": 0.1801425
   },
   {
    "id": "68ac03f9-622f-4f01-a830-58d692c4e8f3",
@@ -86,15 +86,7 @@
     "en": "19-banme no Karte: Tokushige Akira no Monshin"
    },
    "contentRating": "safe",
-   "score": 0.17534666
-  },
-  {
-   "id": "f0fd0a90-c9eb-4d17-a2e2-5e8e409cafe6",
-   "title": {
-    "en": "Shinjuu no Shittoui"
-   },
-   "contentRating": "safe",
-   "score": 0.17450012
+   "score": 0.17534898
   },
   {
    "id": "89855174-b5bd-4f4d-a1a8-585e0dc224ba",
@@ -102,7 +94,7 @@
     "ja": "Platanus No Mi"
    },
    "contentRating": "safe",
-   "score": 0.17155631,
+   "score": 0.17155726,
    "languages": [
     "en"
    ]
@@ -113,7 +105,7 @@
     "en": "Hanechin \u0026 Bucky's Pediatric Chart"
    },
    "contentRating": "safe",
-   "score": 0.16523336,
+   "score": 0.16523625,
    "languages": [
     "vi"
    ]
@@ -124,7 +116,7 @@
     "en": "Radiation House"
    },
    "contentRating": "safe",
-   "score": 0.16261327,
+   "score": 0.16261691,
    "languages": [
     "es-la",
     "vi",
@@ -132,17 +124,6 @@
     "en",
     "ru",
     "pt-br"
-   ]
-  },
-  {
-   "id": "3ce612f4-e043-43df-9228-0be4a9838d1a",
-   "title": {
-    "en": "Doctor Children ~Shouni Gekai~"
-   },
-   "contentRating": "safe",
-   "score": 0.15204346,
-   "languages": [
-    "id"
    ]
   },
   {
@@ -157,7 +138,26 @@
     "th",
     "ca"
    ]
+  },
+  {
+   "id": "5138a9e2-d6f1-43cd-829e-1b68d2742762",
+   "title": {
+    "en": "Hot DOC"
+   },
+   "contentRating": "safe",
+   "score": 0.15204346
+  },
+  {
+   "id": "3ce612f4-e043-43df-9228-0be4a9838d1a",
+   "title": {
+    "en": "Doctor Children ~Shouni Gekai~"
+   },
+   "contentRating": "safe",
+   "score": 0.15204346,
+   "languages": [
+    "id"
+   ]
   }
  ],
- "updatedAt": "2024-11-27T20:30:04+00:00"
+ "updatedAt": "2024-11-29T20:07:11+00:00"
 }

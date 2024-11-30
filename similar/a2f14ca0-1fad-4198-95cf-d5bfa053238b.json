@@ -11,7 +11,7 @@
     "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
    },
    "contentRating": "safe",
-   "score": 0.30095178,
+   "score": 0.30094948,
    "languages": [
     "en",
     "pt-br"
@@ -23,7 +23,7 @@
     "en": "Tenshi-chan to Akuma-kun"
    },
    "contentRating": "safe",
-   "score": 0.30051056,
+   "score": 0.30050832,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.29595312,
+   "score": 0.29595217,
    "languages": [
     "vi",
     "en",
@@ -49,7 +49,7 @@
     "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
-   "score": 0.2938371,
+   "score": 0.29383823,
    "languages": [
     "es-la",
     "vi",
@@ -57,6 +57,28 @@
     "ru",
     "id",
     "pt-br"
+   ]
+  },
+  {
+   "id": "b053199f-8c8c-4410-a44f-e60a0d834fa9",
+   "title": {
+    "en": "Beshari-Gurashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2883107,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "title": {
+    "en": "Tokiwa-san to Inoue-kun no Boushin"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -73,79 +95,6 @@
     "id",
     "pl",
     "es-la"
-   ]
-  },
-  {
-   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
-   "title": {
-    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "th",
-    "ru",
-    "vi",
-    "en",
-    "pt-br",
-    "es-la",
-    "de",
-    "pl"
-   ]
-  },
-  {
-   "id": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
-   "title": {
-    "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "id",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
-   "title": {
-    "en": "Skip and Loafer"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "pt-br",
-    "uk",
-    "en",
-    "vi",
-    "es-la",
-    "ru",
-    "tl"
-   ]
-  },
-  {
-   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
-   "title": {
-    "en": "Tokiwa-san to Inoue-kun no Boushin"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
-   "title": {
-    "en": "Chigau Miyahara Omae janai!"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "vi",
-    "pt-br",
-    "es-la",
-    "en"
    ]
   },
   {
@@ -168,12 +117,74 @@
    ]
   },
   {
+   "id": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
+   "title": {
+    "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "id",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "348966d0-c807-45cf-9260-8adf006a9da6",
+   "title": {
+    "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "th",
+    "ru",
+    "vi",
+    "en",
+    "pt-br",
+    "es-la",
+    "de",
+    "pl"
+   ]
+  },
+  {
+   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
+   "title": {
+    "en": "Chigau Miyahara Omae janai!"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "vi",
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
+   "title": {
+    "en": "Skip and Loafer"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "pt-br",
+    "uk",
+    "en",
+    "vi",
+    "es-la",
+    "ru",
+    "tl"
+   ]
+  },
+  {
    "id": "fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8",
    "title": {
     "en": "Kyou mo Veranda de"
    },
    "contentRating": "safe",
-   "score": 0.2850692,
+   "score": 0.2850699,
    "languages": [
     "vi",
     "en",
@@ -190,7 +201,7 @@
     "en": "Joshikousei no Mudazukai"
    },
    "contentRating": "safe",
-   "score": 0.28138417,
+   "score": 0.28139082,
    "languages": [
     "en",
     "es-la",
@@ -201,23 +212,12 @@
    ]
   },
   {
-   "id": "b053199f-8c8c-4410-a44f-e60a0d834fa9",
-   "title": {
-    "en": "Beshari-Gurashi"
-   },
-   "contentRating": "safe",
-   "score": 0.28021142,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c9c7a074-c4d4-431d-815c-ec1ec58eba32",
    "title": {
     "en": "Asa Okitara Ha ga Gizagiza ni Natteta"
    },
    "contentRating": "safe",
-   "score": 0.26462707,
+   "score": 0.2646256,
    "languages": [
     "id",
     "vi",
@@ -230,7 +230,7 @@
     "en": "Aono-kun ni Sawaritai kara Shinitai"
    },
    "contentRating": "safe",
-   "score": 0.26423594,
+   "score": 0.26423413,
    "languages": [
     "zh",
     "vi",
@@ -239,5 +239,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-27T21:10:25+00:00"
+ "updatedAt": "2024-11-29T20:47:23+00:00"
 }

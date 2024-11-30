@@ -11,7 +11,23 @@
     "en": "Airport"
    },
    "contentRating": "safe",
-   "score": 0.24091922
+   "score": 0.24346465
+  },
+  {
+   "id": "81edc338-b463-405f-b0c9-e5fca17ca1c7",
+   "title": {
+    "en": "Howling Pen RRR"
+   },
+   "contentRating": "safe",
+   "score": 0.22380625
+  },
+  {
+   "id": "08bd9998-8476-49f6-b9ca-a56d2a707c81",
+   "title": {
+    "en": "Jungle King"
+   },
+   "contentRating": "safe",
+   "score": 0.20553648
   },
   {
    "id": "9047286f-ea5b-475a-84cc-a2533983ffe9",
@@ -27,22 +43,6 @@
    ]
   },
   {
-   "id": "08bd9998-8476-49f6-b9ca-a56d2a707c81",
-   "title": {
-    "en": "Jungle King"
-   },
-   "contentRating": "safe",
-   "score": 0.19976014
-  },
-  {
-   "id": "81edc338-b463-405f-b0c9-e5fca17ca1c7",
-   "title": {
-    "en": "Howling Pen RRR"
-   },
-   "contentRating": "safe",
-   "score": 0.19845466
-  },
-  {
    "id": "5da228de-611e-4a18-aad9-49ec11e3d2d4",
    "title": {
     "en": "Tales of the Kingdom"
@@ -55,6 +55,18 @@
     "pl",
     "it",
     "ru"
+   ]
+  },
+  {
+   "id": "a3500b81-a211-4eef-9937-f7fc83c17fbb",
+   "title": {
+    "en": "Diary of a Quiet Life"
+   },
+   "contentRating": "safe",
+   "score": 0.1964467,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -74,7 +86,7 @@
     "en": "Sagishi to Keisatsukan no Rennai Kyori"
    },
    "contentRating": "safe",
-   "score": 0.18497436,
+   "score": 0.18562193,
    "languages": [
     "vi",
     "id",
@@ -107,6 +119,14 @@
    ]
   },
   {
+   "id": "ccb80916-89e6-4037-8278-04edc98c496c",
+   "title": {
+    "en": "Without Loss, Even in the Rain"
+   },
+   "contentRating": "safe",
+   "score": 0.18039559
+  },
+  {
    "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
    "title": {
     "en": "I Love You, Kyouko-san."
@@ -122,43 +142,12 @@
    ]
   },
   {
-   "id": "ccb80916-89e6-4037-8278-04edc98c496c",
-   "title": {
-    "en": "Without Loss, Even in the Rain"
-   },
-   "contentRating": "safe",
-   "score": 0.18002687
-  },
-  {
-   "id": "a3500b81-a211-4eef-9937-f7fc83c17fbb",
-   "title": {
-    "en": "Diary of a Quiet Life"
-   },
-   "contentRating": "safe",
-   "score": 0.17838345,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "1c3b6b2b-2d4f-47c3-a55b-574bf1bca616",
    "title": {
     "en": "The Darwin Incident"
    },
    "contentRating": "safe",
    "score": 0.17829505,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c97478bb-e328-481a-a15d-08042a8fffe7",
-   "title": {
-    "en": "Under the Rose"
-   },
-   "contentRating": "safe",
-   "score": 0.17470431,
    "languages": [
     "en"
    ]
@@ -177,6 +166,17 @@
    ]
   },
   {
+   "id": "c97478bb-e328-481a-a15d-08042a8fffe7",
+   "title": {
+    "en": "Under the Rose"
+   },
+   "contentRating": "safe",
+   "score": 0.17470431,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4ffdd63e-4e7e-412b-ac64-71c1f3b41a2f",
    "title": {
     "en": "Shojo Manga"
@@ -192,5 +192,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-27T21:31:41+00:00"
+ "updatedAt": "2024-11-29T21:08:40+00:00"
 }

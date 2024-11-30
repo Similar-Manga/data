@@ -11,7 +11,7 @@
     "en": "Yakusoku"
    },
    "contentRating": "safe",
-   "score": 0.32424527,
+   "score": 0.32422742,
    "languages": [
     "en",
     "it"
@@ -23,18 +23,7 @@
     "en": "Ani wa Motokare"
    },
    "contentRating": "safe",
-   "score": 0.3124776,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "24e588c7-fc5e-4c6d-b59b-3449fd34912b",
-   "title": {
-    "en": "Chiku Bingo"
-   },
-   "contentRating": "safe",
-   "score": 0.2835781,
+   "score": 0.31246573,
    "languages": [
     "en"
    ]
@@ -51,12 +40,23 @@
    ]
   },
   {
+   "id": "24e588c7-fc5e-4c6d-b59b-3449fd34912b",
+   "title": {
+    "en": "Chiku Bingo"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "93051580-99ba-415b-86c7-ba36e909ce42",
    "title": {
     "en": "Akiru made Hanasou yo"
    },
    "contentRating": "safe",
-   "score": 0.2639029,
+   "score": 0.26390165,
    "languages": [
     "en"
    ]
@@ -67,9 +67,20 @@
     "en": "Imouto wa Siscon Ani ga Mendokusai"
    },
    "contentRating": "safe",
-   "score": 0.25937995,
+   "score": 0.25727826,
    "languages": [
     "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "40f56a77-1636-43bf-8508-68fd0d520ac8",
+   "title": {
+    "en": "NAN\u0026BEI"
+   },
+   "contentRating": "safe",
+   "score": 0.2540251,
+   "languages": [
     "en"
    ]
   },
@@ -79,7 +90,7 @@
     "en": "Ani no Yuujin"
    },
    "contentRating": "safe",
-   "score": 0.25138935,
+   "score": 0.25137034,
    "languages": [
     "en"
    ]
@@ -90,7 +101,7 @@
     "en": "Ane ni Narisumashite Ikemen ni Kokuhaku Suru Otouto no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.25073817,
+   "score": 0.25073022,
    "languages": [
     "id",
     "pt-br",
@@ -104,18 +115,7 @@
     "en": "Kare ga Masuku wo Hazusu Toki"
    },
    "contentRating": "safe",
-   "score": 0.24910547,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "55edacb9-ef8a-41af-bc4d-e5be9dc1dcf1",
-   "title": {
-    "en": "Yotsuya Scramble"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
+   "score": 0.24910355,
    "languages": [
     "en"
    ]
@@ -124,54 +124,6 @@
    "id": "f79115b0-f522-44b2-a798-b2107de74108",
    "title": {
     "en": "Hankei 15cm no Hatsukoi"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0bb0f4fb-5dc4-4f38-8de2-e2a2decaa37f",
-   "title": {
-    "en": "Poker Face Cross-dresser"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "es-la",
-    "pt-br",
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "9c8bb5f0-55df-4f1e-853b-2ff8ff22d9c7",
-   "title": {
-    "en": "Gakuen Heaven"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "731fbd37-6f69-4d7a-9e49-cc2e4598726f",
-   "title": {
-    "en": "Sensei no Iinari"
-   },
-   "contentRating": "safe",
-   "score": 0.24558583,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e27cd61e-c9ed-4ad2-8239-c77b06a5ec57",
-   "title": {
-    "en": "Adam no Junjou"
    },
    "contentRating": "safe",
    "score": 0.24558583,
@@ -189,7 +141,55 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "55edacb9-ef8a-41af-bc4d-e5be9dc1dcf1",
+   "title": {
+    "en": "Yotsuya Scramble"
+   },
+   "contentRating": "safe",
+   "score": 0.24558583,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9c8bb5f0-55df-4f1e-853b-2ff8ff22d9c7",
+   "title": {
+    "en": "Gakuen Heaven"
+   },
+   "contentRating": "safe",
+   "score": 0.24558583,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "0bb0f4fb-5dc4-4f38-8de2-e2a2decaa37f",
+   "title": {
+    "en": "Poker Face Cross-dresser"
+   },
+   "contentRating": "safe",
+   "score": 0.24558583,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "id",
+    "en"
+   ]
+  },
+  {
+   "id": "731fbd37-6f69-4d7a-9e49-cc2e4598726f",
+   "title": {
+    "en": "Sensei no Iinari"
+   },
+   "contentRating": "safe",
+   "score": 0.24558583,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-27T20:25:52+00:00"
+ "updatedAt": "2024-11-29T20:03:01+00:00"
 }

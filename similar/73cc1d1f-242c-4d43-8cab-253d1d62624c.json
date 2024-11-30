@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "cce6ac2e-96c3-4b7a-b81d-69bc5be8a2c9",
-   "title": {
-    "en": "Arcana 12 - Demons"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "fr",
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "879ce2f1-a8da-47ed-b70b-5483f98f774e",
    "title": {
     "en": "Arcana 07 - Wizard / Magician"
@@ -32,12 +19,25 @@
    ]
   },
   {
+   "id": "cce6ac2e-96c3-4b7a-b81d-69bc5be8a2c9",
+   "title": {
+    "en": "Arcana 12 - Demons"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "fr",
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "1e2abe58-293a-4f92-8a05-d816a279d066",
    "title": {
     "en": "Dream Vendor"
    },
    "contentRating": "safe",
-   "score": 0.14721593,
+   "score": 0.14721441,
    "languages": [
     "it",
     "pl",
@@ -62,24 +62,10 @@
     "en": "Jijou Ari Undead"
    },
    "contentRating": "safe",
-   "score": 0.100708276,
+   "score": 0.10070292,
    "languages": [
     "pt-br",
     "en",
-    "it"
-   ]
-  },
-  {
-   "id": "6ee3f7c1-ada3-4dc2-a773-a25e39d9ce88",
-   "title": {
-    "en": "Arcana 16 - Fairy Tales / Nursery Tales"
-   },
-   "contentRating": "safe",
-   "score": 0.095238104,
-   "languages": [
-    "en",
-    "hu",
-    "fr",
     "it"
    ]
   },
@@ -108,14 +94,16 @@
    ]
   },
   {
-   "id": "f439d590-c766-4874-9a92-4389a96b50dc",
+   "id": "6ee3f7c1-ada3-4dc2-a773-a25e39d9ce88",
    "title": {
-    "en": "Arcana 10 - Conflict / Secret Societies"
+    "en": "Arcana 16 - Fairy Tales / Nursery Tales"
    },
    "contentRating": "safe",
-   "score": 0.08247861,
+   "score": 0.095238104,
    "languages": [
     "en",
+    "hu",
+    "fr",
     "it"
    ]
   },
@@ -134,16 +122,14 @@
    ]
   },
   {
-   "id": "317e1022-e40a-4887-8735-7e0a8db119a4",
+   "id": "f439d590-c766-4874-9a92-4389a96b50dc",
    "title": {
-    "en": "Long Past That Summer"
+    "en": "Arcana 10 - Conflict / Secret Societies"
    },
    "contentRating": "safe",
-   "score": 0.07377111,
+   "score": 0.08247861,
    "languages": [
     "en",
-    "vi",
-    "id",
     "it"
    ]
   },
@@ -157,6 +143,20 @@
    "languages": [
     "it",
     "en"
+   ]
+  },
+  {
+   "id": "317e1022-e40a-4887-8735-7e0a8db119a4",
+   "title": {
+    "en": "Long Past That Summer"
+   },
+   "contentRating": "safe",
+   "score": 0.07377111,
+   "languages": [
+    "en",
+    "vi",
+    "id",
+    "it"
    ]
   },
   {
@@ -228,5 +228,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-27T20:54:09+00:00"
+ "updatedAt": "2024-11-29T20:31:26+00:00"
 }

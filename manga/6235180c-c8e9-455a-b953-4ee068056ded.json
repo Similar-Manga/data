@@ -54,14 +54,14 @@
     }
    },
    {
-    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "id": "320831a8-4026-470b-94f6-8353740e6f04",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Psychological"
+      "en": "Official Colored"
      },
      "description": {},
-     "group": "genre",
+     "group": "format",
      "version": 1
     }
    },
@@ -74,6 +74,42 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -91,9 +127,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2024-03-28T22:59:03+00:00",
-  "updatedAt": "2024-09-20T02:46:47+00:00"
+  "updatedAt": "2024-11-28T00:47:53+00:00"
  },
  "relationships": [
   {

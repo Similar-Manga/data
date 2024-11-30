@@ -11,7 +11,7 @@
     "en": "The Girl From The Class Next Door Looks At Me Every Time She Changes Classrooms"
    },
    "contentRating": "safe",
-   "score": 0.34810662,
+   "score": 0.39122728,
    "languages": [
     "ru",
     "en",
@@ -25,7 +25,7 @@
     "en": "Hypnosis"
    },
    "contentRating": "safe",
-   "score": 0.31397864,
+   "score": 0.34970948,
    "languages": [
     "en",
     "ru",
@@ -34,14 +34,18 @@
    ]
   },
   {
-   "id": "e97b4983-88c0-4837-8ff1-f946175ef195",
+   "id": "30e882f6-cc7f-45f3-a317-031fecec8697",
    "title": {
-    "en": "Girl's Conversation to School"
+    "en": "Situation"
    },
    "contentRating": "safe",
-   "score": 0.3123128,
+   "score": 0.3385838,
    "languages": [
-    "en"
+    "fr",
+    "en",
+    "ru",
+    "es-la",
+    "id"
    ]
   },
   {
@@ -50,7 +54,7 @@
     "en": "Lingerers"
    },
    "contentRating": "safe",
-   "score": 0.3119302,
+   "score": 0.32835737,
    "languages": [
     "en"
    ]
@@ -61,22 +65,32 @@
     "en": "Migihara's Short Manga"
    },
    "contentRating": "safe",
-   "score": 0.31107426,
+   "score": 0.32650194,
    "languages": [
     "en",
     "tr"
    ]
   },
   {
-   "id": "db58ba0c-dd1d-485c-969b-6e7986e42e5c",
+   "id": "c8e6d886-808d-4ddb-90d0-999b014b7223",
    "title": {
-    "en": "Shin Change!! Getter Robo Crater Battle"
+    "en": "Sekizui Hikinuki no Kei Omnibus"
    },
    "contentRating": "safe",
-   "score": 0.3075734,
+   "score": 0.32494685,
    "languages": [
-    "en",
-    "fr"
+    "en"
+   ]
+  },
+  {
+   "id": "1ac2317d-0f7e-4d5c-8c61-3f31e8d25e4a",
+   "title": {
+    "en": "I Want to Be a Mangaka, but My Parents Are Against It"
+   },
+   "contentRating": "safe",
+   "score": 0.32462302,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -85,7 +99,7 @@
     "en": "HiGH \u0026 LOW。"
    },
    "contentRating": "safe",
-   "score": 0.3061598,
+   "score": 0.32024533,
    "languages": [
     "vi",
     "en",
@@ -98,13 +112,27 @@
    ]
   },
   {
-   "id": "c8e6d886-808d-4ddb-90d0-999b014b7223",
+   "id": "e97b4983-88c0-4837-8ff1-f946175ef195",
    "title": {
-    "en": "Sekizui Hikinuki no Kei Omnibus"
+    "en": "Girl's Conversation to School"
    },
    "contentRating": "safe",
-   "score": 0.30542198,
+   "score": 0.31979,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9964801b-2053-43e4-90b7-029bd349b665",
+   "title": {
+    "en": "Love Comedy Encyclopedia"
+   },
+   "contentRating": "safe",
+   "score": 0.31012738,
+   "languages": [
+    "es-la",
+    "fr",
+    "vi",
     "en"
    ]
   },
@@ -114,46 +142,9 @@
     "en": "Tokuni Aru Hibi"
    },
    "contentRating": "safe",
-   "score": 0.30338907,
+   "score": 0.3084007,
    "languages": [
     "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "30e882f6-cc7f-45f3-a317-031fecec8697",
-   "title": {
-    "en": "Situation"
-   },
-   "contentRating": "safe",
-   "score": 0.3013581,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
-    "es-la",
-    "id"
-   ]
-  },
-  {
-   "id": "1ac2317d-0f7e-4d5c-8c61-3f31e8d25e4a",
-   "title": {
-    "en": "I Want to Be a Mangaka, but My Parents Are Against It"
-   },
-   "contentRating": "safe",
-   "score": 0.30123645,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "892ed11e-74ba-43a3-a97f-1a48d28052d1",
-   "title": {
-    "en": "Onii-chan wa Se ga Chiisai"
-   },
-   "contentRating": "safe",
-   "score": 0.29054412,
-   "languages": [
     "en"
    ]
   },
@@ -163,10 +154,21 @@
     "en": "A Manga about being interested in a Mekakure Guy"
    },
    "contentRating": "safe",
-   "score": 0.28932434,
+   "score": 0.30634245,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "892ed11e-74ba-43a3-a97f-1a48d28052d1",
+   "title": {
+    "en": "Onii-chan wa Se ga Chiisai"
+   },
+   "contentRating": "safe",
+   "score": 0.30176437,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -175,35 +177,37 @@
     "en": "My Clueless First Friend - Side Stories"
    },
    "contentRating": "safe",
-   "score": 0.2858228,
+   "score": 0.30109894,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "618fd16e-8a30-446b-a780-4fbe1524bee9",
+   "id": "342a0f9c-747f-4c22-979d-73391a25e19b",
    "title": {
-    "en": "The \"Act Yandere Without Saying a Word\" Game"
+    "en": "The Story of How the Girl of My Dreams Was a Stalker"
    },
    "contentRating": "safe",
-   "score": 0.28520605,
+   "score": 0.29843467,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3a6932a9-fc7e-41cc-80a7-75bb964ca405",
-   "title": {
-    "en": "Living in an Abandoned Bus (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "es-la",
+    "id",
     "en",
-    "ru"
+    "es-la"
+   ]
+  },
+  {
+   "id": "6ba5c5b9-4d55-43ff-8311-26a905f78d84",
+   "title": {
+    "en": "Love Begins With a Voice"
+   },
+   "contentRating": "safe",
+   "score": 0.29258212,
+   "languages": [
+    "fr",
+    "en",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2024-11-27T20:51:39+00:00"
+ "updatedAt": "2024-11-29T20:28:59+00:00"
 }

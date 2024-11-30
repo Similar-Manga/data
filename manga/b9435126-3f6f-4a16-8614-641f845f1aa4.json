@@ -1,0 +1,145 @@
+{
+ "id": "b9435126-3f6f-4a16-8614-641f845f1aa4",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sannin Musume wa Waraute Kurasu"
+  },
+  "altTitles": [
+   {
+    "ja": "三人娘は笑うて暮らす"
+   },
+   {
+    "ja-ro": "Sannin Musume ha Waraute Kurasu"
+   },
+   {
+    "ja": "Three Sisters, Triple The Giggle"
+   },
+   {
+    "en": "Three Girls Laughing And Living"
+   }
+  ],
+  "description": {
+   "en": "The three Gajimaru sisters, Mahiru, Asaka, and Sayoko, gather at the bar."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/4091886744",
+   "bw": "de1d282007-9358-4239-a7c4-80207b1dd161",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/305376/",
+   "mu": "nr9vutd",
+   "raw": "https://shogakukan-comic.jp/book?jdcn=091886740000d0000000"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "10",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2014,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-11-27T22:15:36+00:00",
+  "updatedAt": "2024-11-27T23:07:55+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ce9e0349-e61e-487d-b829-fac1d8562ddf",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 朝陽昇\n\n**Additional Sites:**\n- [POTOFU](https://potofu.me/asahinoboru)\n- [note](https://note.com/asahinoboru/)\n- [Bluesky](https://bsky.app/profile/asahinoboru.bsky.social)\n- [Instagram](https://www.instagram.com/asahinoboru_atpaint/)\n- [Mastodon](https://mstdn.jp/@asahinoboru)"
+    },
+    "booth": "https://asahinoboru.booth.pm/",
+    "createdAt": "2024-11-23T04:00:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asahi Noboru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/147533",
+    "skeb": "https://skeb.jp/@asahinoboru888",
+    "tumblr": null,
+    "twitter": "https://twitter.com/asahinoboru888",
+    "updatedAt": "2024-11-23T04:05:53+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ce9e0349-e61e-487d-b829-fac1d8562ddf",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 朝陽昇\n\n**Additional Sites:**\n- [POTOFU](https://potofu.me/asahinoboru)\n- [note](https://note.com/asahinoboru/)\n- [Bluesky](https://bsky.app/profile/asahinoboru.bsky.social)\n- [Instagram](https://www.instagram.com/asahinoboru_atpaint/)\n- [Mastodon](https://mstdn.jp/@asahinoboru)"
+    },
+    "booth": "https://asahinoboru.booth.pm/",
+    "createdAt": "2024-11-23T04:00:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asahi Noboru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/147533",
+    "skeb": "https://skeb.jp/@asahinoboru888",
+    "tumblr": null,
+    "twitter": "https://twitter.com/asahinoboru888",
+    "updatedAt": "2024-11-23T04:05:53+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ff04fa61-1a40-4d2c-99d7-5815b457df1c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-27T22:15:45+00:00",
+    "description": "",
+    "fileName": "2011e708-d112-4632-ba95-92b2bb20dcbd.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-27T22:15:45+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

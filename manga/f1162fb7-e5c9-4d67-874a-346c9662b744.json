@@ -1,0 +1,162 @@
+{
+ "id": "f1162fb7-e5c9-4d67-874a-346c9662b744",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "It’s A Misunderstanding That I’m Dating The Villain"
+  },
+  "altTitles": [
+   {
+    "ko": "흑막과 사귄다니 오해인데요"
+   }
+  ],
+  "description": {
+   "en": "In my 24th year of reincarnation, I was living a peaceful life as an insignificant knight commander barely mentioned in the original story. Content with my uneventful existence, I avoided meddling in the main plot.\n\nBut during an undercover investigation, I accidentally stumbled upon the villain in the act.\n\n\"Sir Clara, have you been waiting for this opportunity? Clever, very clever.\"\n\"No, no! I swear to the gods, I have no intention of exposing your identity!\"\n\"Hah, and what reason do I have to trust you?\"\n\nThat’s how the shadowy mastermind decided to keep me under his watchful eye.\n\n\"Here, take this. I bought it just for you.\"\n\"Why would I accept this...?\"\n\"The flower matches the color of your hair. And now that I see it, it suits you perfectly.\"\n\nWait... why does everyone think the villain is pursuing me out of affection?\nThis was not part of the plan!"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "d4255a49-16b4-421a-b52b-51d2c947de1f",
+  "tags": [
+   {
+    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Official Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-28T13:22:38+00:00",
+  "updatedAt": "2024-11-28T13:22:44+00:00"
+ },
+ "relationships": [
+  {
+   "id": "93679db9-86f2-4b14-af48-cd7755c77fc1",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Silver",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "26dfd1b2-ebc2-4c9b-93b5-1a003e8fce77",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-12-31T22:18:01+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Black",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/artist_black",
+    "updatedAt": "2023-05-06T09:46:15+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9c2116b2-0df5-4b9b-b672-bbb506f92706",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-28T13:22:42+00:00",
+    "description": "",
+    "fileName": "ab096087-0aa8-42b6-a233-a826d1f7af8b.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-28T13:22:42+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}

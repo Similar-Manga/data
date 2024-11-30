@@ -70,7 +70,7 @@
    "pt-br",
    "ar"
   ],
-  "latestUploadedChapter": "11aef93d-6ab3-47ec-aca5-854ccd0c135e",
+  "latestUploadedChapter": "eec60ac2-4aa1-41a3-b8d8-d1ac9276d0c6",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -179,12 +179,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Police"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 44,
+  "version": 45,
   "createdAt": "2022-09-21T10:32:44+00:00",
-  "updatedAt": "2024-10-08T07:14:09+00:00"
+  "updatedAt": "2024-11-27T15:20:46+00:00"
  },
  "relationships": [
   {

@@ -1,0 +1,166 @@
+{
+ "id": "493eee8e-2f7a-49fa-94e3-8ac164e5718a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The absolute ruler of the house"
+  },
+  "altTitles": [
+   {
+    "ko": "집구석 절대자"
+   }
+  ],
+  "description": {
+   "en": "One day, the end of the world suddenly came. [The absolute being in the corner of the house cannot leave the corner of the house] You must survive to save your family."
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "8caa8fc5-63ce-4673-a767-aada0508b266",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-29T13:25:15+00:00",
+  "updatedAt": "2024-11-29T13:27:31+00:00"
+ },
+ "relationships": [
+  {
+   "id": "72b9d895-07ca-4dbb-a444-ebc545add1bf",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-29T13:24:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "bihyeon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-29T13:24:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cb9e0a75-4bb5-4b2d-accd-0a9b9b919fbc",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-29T13:24:14+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "maeng ju-gyeong",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-29T13:24:14+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "72b9d895-07ca-4dbb-a444-ebc545add1bf",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-29T13:24:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "bihyeon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-29T13:24:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cb9e0a75-4bb5-4b2d-accd-0a9b9b919fbc",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-29T13:24:14+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "maeng ju-gyeong",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-29T13:24:14+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "26cfcb53-42cd-40d7-87dc-5beabd9d70ff",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-29T13:27:23+00:00",
+    "description": "",
+    "fileName": "d4015a78-6181-4821-851f-ee6eda787ad0.png",
+    "locale": "ko",
+    "updatedAt": "2024-11-29T13:27:23+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}

@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "278e5d70-00b9-42ea-9cf4-fdcd24615772",
-   "title": {
-    "en": "Family Plan"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582
-  },
-  {
    "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
    "title": {
     "en": "JUMBO MAX"
@@ -24,6 +16,14 @@
     "en",
     "zh-hk"
    ]
+  },
+  {
+   "id": "278e5d70-00b9-42ea-9cf4-fdcd24615772",
+   "title": {
+    "en": "Family Plan"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
   },
   {
    "id": "e804f310-709f-4f22-8daa-3a3895b4cce0",
@@ -39,7 +39,7 @@
     "en": "Gekkou -the lunatic-"
    },
    "contentRating": "safe",
-   "score": 0.22267887,
+   "score": 0.22266622,
    "languages": [
     "zh"
    ]
@@ -65,15 +65,7 @@
     "en": "Himuro Renji"
    },
    "contentRating": "safe",
-   "score": 0.21437801
-  },
-  {
-   "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
-   "title": {
-    "en": "Repurika Moto Tsuma No Fukushu"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573
+   "score": 0.21437715
   },
   {
    "id": "9f63b791-7b19-400f-992c-010b8186617b",
@@ -92,25 +84,17 @@
    "score": 0.21428573
   },
   {
-   "id": "33c046b5-3d65-472b-8437-083eba0226b6",
+   "id": "b366b58a-d3e2-483e-a6cc-672ef2370d72",
    "title": {
-    "en": "Oshikatsu Deadline"
+    "en": "Repurika Moto Tsuma No Fukushu"
    },
    "contentRating": "safe",
-   "score": 0.20203052
+   "score": 0.21428573
   },
   {
-   "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
+   "id": "446a8cf1-067b-436f-b375-61d97ec6895a",
    "title": {
-    "en": "Black Humor Short Story Collection"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "2474957d-bdb5-4fb5-8f1e-6ff9ea58b960",
-   "title": {
-    "en": "Kubukumono"
+    "en": "Senma"
    },
    "contentRating": "safe",
    "score": 0.20203052
@@ -124,9 +108,20 @@
    "score": 0.20203052
   },
   {
-   "id": "446a8cf1-067b-436f-b375-61d97ec6895a",
+   "id": "3b5ce4ef-ed76-4b70-97c7-52ae2231d6f9",
    "title": {
-    "en": "Senma"
+    "en": "Hanzai Koushounin Minegishi Eitarou"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "12411f05-15a4-46c1-ba38-f26cc0ce6778",
+   "title": {
+    "en": "Tower Of Campanella"
    },
    "contentRating": "safe",
    "score": 0.20203052
@@ -145,13 +140,21 @@
    ]
   },
   {
-   "id": "12411f05-15a4-46c1-ba38-f26cc0ce6778",
+   "id": "2474957d-bdb5-4fb5-8f1e-6ff9ea58b960",
    "title": {
-    "en": "Tower Of Campanella"
+    "en": "Kubukumono"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
+  },
+  {
+   "id": "6210edb3-9ac6-46a5-9909-3fae6e5571ef",
+   "title": {
+    "en": "Black Humor Short Story Collection"
    },
    "contentRating": "safe",
    "score": 0.20203052
   }
  ],
- "updatedAt": "2024-11-27T21:34:20+00:00"
+ "updatedAt": "2024-11-29T21:11:20+00:00"
 }

@@ -11,49 +11,11 @@
     "en": "Kao no Nai Otoko"
    },
    "contentRating": "safe",
-   "score": 0.1922857,
+   "score": 0.1805824,
    "languages": [
     "pl",
     "en",
     "bg"
-   ]
-  },
-  {
-   "id": "13a26f5a-d9f5-490a-a7a6-9a289b8cd0b9",
-   "title": {
-    "en": "Shisei"
-   },
-   "contentRating": "safe",
-   "score": 0.15991545,
-   "languages": [
-    "uk",
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "0dfe9335-5d55-4565-b189-3acc6cfc6195",
-   "title": {
-    "en": "Alpine Rose"
-   },
-   "contentRating": "safe",
-   "score": 0.15554224,
-   "languages": [
-    "en",
-    "tr",
-    "fr"
-   ]
-  },
-  {
-   "id": "43932ac8-d6af-4dfb-95af-2c878424f81d",
-   "title": {
-    "en": "Haru Meguru"
-   },
-   "contentRating": "safe",
-   "score": 0.15264656,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -69,12 +31,36 @@
    ]
   },
   {
+   "id": "43932ac8-d6af-4dfb-95af-2c878424f81d",
+   "title": {
+    "en": "Haru Meguru"
+   },
+   "contentRating": "safe",
+   "score": 0.15264656,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "0dfe9335-5d55-4565-b189-3acc6cfc6195",
+   "title": {
+    "en": "Alpine Rose"
+   },
+   "contentRating": "safe",
+   "score": 0.15180455,
+   "languages": [
+    "tr",
+    "fr"
+   ]
+  },
+  {
    "id": "fdf89ccc-b244-408f-b164-afede1163661",
    "title": {
     "en": "Until You Fall Asleep"
    },
    "contentRating": "safe",
-   "score": 0.15248935,
+   "score": 0.14715022,
    "languages": [
     "en",
     "pl"
@@ -117,20 +103,6 @@
    ]
   },
   {
-   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
-   "title": {
-    "en": "Gakuen Babysitters"
-   },
-   "contentRating": "safe",
-   "score": 0.1377466,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "id"
-   ]
-  },
-  {
    "id": "230f5fcc-6b5c-479e-b061-6e5e1e88f8a5",
    "title": {
     "en": "A Happy Ending for Villains"
@@ -143,24 +115,6 @@
    ]
   },
   {
-   "id": "af7cc594-4f6a-4c0a-8f74-16748910dee5",
-   "title": {
-    "en": "Snow White with the Red Hair"
-   },
-   "contentRating": "safe",
-   "score": 0.1316503,
-   "languages": [
-    "en",
-    "pt-br",
-    "tr",
-    "it",
-    "es",
-    "bg",
-    "fr",
-    "ar"
-   ]
-  },
-  {
    "id": "de094678-4d93-46fd-b7a6-26f59fe97226",
    "title": {
     "en": "Tarou-kun wa Yuganderu"
@@ -169,19 +123,6 @@
    "score": 0.13137724,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "41b0ebf9-7e2e-4b27-9d91-9a778b2ebbb3",
-   "title": {
-    "en": "Hitori-tachi"
-   },
-   "contentRating": "safe",
-   "score": 0.13137724,
-   "languages": [
-    "pl",
-    "pt-br",
     "en"
    ]
   },
@@ -200,17 +141,74 @@
    ]
   },
   {
+   "id": "41b0ebf9-7e2e-4b27-9d91-9a778b2ebbb3",
+   "title": {
+    "en": "Hitori-tachi"
+   },
+   "contentRating": "safe",
+   "score": 0.13137724,
+   "languages": [
+    "pl",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "9b96ec17-deb7-402b-b822-ae40e03533db",
+   "title": {
+    "en": "Gakuen Babysitters"
+   },
+   "contentRating": "safe",
+   "score": 0.12900989,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr",
+    "id"
+   ]
+  },
+  {
+   "id": "af7cc594-4f6a-4c0a-8f74-16748910dee5",
+   "title": {
+    "en": "Snow White with the Red Hair"
+   },
+   "contentRating": "safe",
+   "score": 0.1278784,
+   "languages": [
+    "en",
+    "pt-br",
+    "tr",
+    "it",
+    "es",
+    "bg",
+    "fr",
+    "ar"
+   ]
+  },
+  {
    "id": "dbd45ff2-2731-48e7-9304-0aa24739b5ac",
    "title": {
     "en": "Katakoi"
    },
    "contentRating": "safe",
-   "score": 0.12775815,
+   "score": 0.12779686,
    "languages": [
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "ccd571a0-850d-4b90-a077-53ab0523f008",
+   "title": {
+    "en": "Hachimitsu no Hana"
+   },
+   "contentRating": "safe",
+   "score": 0.12190289,
+   "languages": [
+    "pl",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-27T21:06:43+00:00"
+ "updatedAt": "2024-11-29T20:43:58+00:00"
 }

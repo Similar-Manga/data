@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "e42f6486-e018-4f29-b54c-7baed2ee855d",
-   "title": {
-    "en": "Minigram (MILGRAM 4koma)"
-   },
-   "contentRating": "safe",
-   "score": 0.28256705,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
    "id": "b15443e6-a9dd-401c-9e74-a568d804054c",
    "title": {
     "en": "Totodon"
@@ -27,22 +15,6 @@
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "ea90abfe-82ef-4601-9d80-90706b5dd2e5",
-   "title": {
-    "en": "Lalalab☆ ~Gal to Kagaku to Seishun to!~"
-   },
-   "contentRating": "safe",
-   "score": 0.28256705
-  },
-  {
-   "id": "45147d8f-ac32-4e81-bc10-de03fb811c18",
-   "title": {
-    "en": "Shin Kobo-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.28256705
   },
   {
    "id": "f22387a0-ed27-49ef-abcf-c79d7cdf9ab6",
@@ -56,12 +28,40 @@
    ]
   },
   {
+   "id": "45147d8f-ac32-4e81-bc10-de03fb811c18",
+   "title": {
+    "en": "Shin Kobo-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.28256705
+  },
+  {
+   "id": "ea90abfe-82ef-4601-9d80-90706b5dd2e5",
+   "title": {
+    "en": "Lalalab☆ ~Gal to Kagaku to Seishun to!~"
+   },
+   "contentRating": "safe",
+   "score": 0.28256705
+  },
+  {
+   "id": "e42f6486-e018-4f29-b54c-7baed2ee855d",
+   "title": {
+    "en": "Minigram (MILGRAM 4koma)"
+   },
+   "contentRating": "safe",
+   "score": 0.28256705,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "812b8e07-86bd-4327-ba85-ea441575e460",
    "title": {
     "en": "Oshikake Twin Tail"
    },
    "contentRating": "safe",
-   "score": 0.27453056,
+   "score": 0.27453345,
    "languages": [
     "en"
    ]
@@ -72,27 +72,11 @@
     "en": "Yaotome x 2"
    },
    "contentRating": "safe",
-   "score": 0.26136902,
+   "score": 0.2613702,
    "languages": [
     "en",
     "es-la",
     "pt-br"
-   ]
-  },
-  {
-   "id": "31fbb1af-3df1-496e-992f-b7f96a34d1ab",
-   "title": {
-    "en": "Lucky☆Star"
-   },
-   "contentRating": "safe",
-   "score": 0.25605333,
-   "languages": [
-    "it",
-    "pl",
-    "es",
-    "pt-br",
-    "en",
-    "fr"
    ]
   },
   {
@@ -101,7 +85,7 @@
     "en": "Sketchbook"
    },
    "contentRating": "safe",
-   "score": 0.25557896,
+   "score": 0.2555796,
    "languages": [
     "en",
     "pl",
@@ -110,25 +94,9 @@
    ]
   },
   {
-   "id": "c28cbd9f-5db8-4457-b189-a79dfc68dd95",
+   "id": "0fe716b8-ad54-48b1-9c81-13d0894ecebb",
    "title": {
-    "en": "Batchiri Scratch"
-   },
-   "contentRating": "safe",
-   "score": 0.24471025
-  },
-  {
-   "id": "771cff51-ab84-4f42-8987-ed45dede2b05",
-   "title": {
-    "en": "Kariage-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.24471025
-  },
-  {
-   "id": "9291c020-8013-4a34-aa28-9d433cda3746",
-   "title": {
-    "en": "Strike Witches - 501 Butai Hasshinshimasu! ROAD to BERLIN"
+    "en": "Shobo Shobo Man"
    },
    "contentRating": "safe",
    "score": 0.24471025,
@@ -137,9 +105,25 @@
    ]
   },
   {
-   "id": "0fe716b8-ad54-48b1-9c81-13d0894ecebb",
+   "id": "047d6c7b-9951-4710-89b8-62587ab890e1",
    "title": {
-    "en": "Shobo Shobo Man"
+    "en": "Gekikara! Curry Ouji"
+   },
+   "contentRating": "safe",
+   "score": 0.24471025
+  },
+  {
+   "id": "50daac2f-c2f6-409b-b34b-281966c20506",
+   "title": {
+    "en": "Zun-chan to Issho!"
+   },
+   "contentRating": "safe",
+   "score": 0.24471025
+  },
+  {
+   "id": "6d7eefab-4d59-4865-9e0b-20646a6aec7e",
+   "title": {
+    "en": "Saber Marionette J Parody Special"
    },
    "contentRating": "safe",
    "score": 0.24471025,
@@ -156,21 +140,32 @@
    "score": 0.24471025
   },
   {
-   "id": "8f8f72d4-7590-42ae-a729-2b64b3b7dc02",
+   "id": "9291c020-8013-4a34-aa28-9d433cda3746",
    "title": {
-    "en": "THE iDOLM@STER Cinderella Girls - Honjitsu no Dereraji-san"
+    "en": "Strike Witches - 501 Butai Hasshinshimasu! ROAD to BERLIN"
+   },
+   "contentRating": "safe",
+   "score": 0.24471025,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3b292285-f608-46a5-9c1a-cfafe080240d",
+   "title": {
+    "en": "Yatogame-chan Kansatsu Nikki"
    },
    "contentRating": "safe",
    "score": 0.24471025
   },
   {
-   "id": "047d6c7b-9951-4710-89b8-62587ab890e1",
+   "id": "c28cbd9f-5db8-4457-b189-a79dfc68dd95",
    "title": {
-    "en": "Gekikara! Curry Ouji"
+    "en": "Batchiri Scratch"
    },
    "contentRating": "safe",
    "score": 0.24471025
   }
  ],
- "updatedAt": "2024-11-27T21:33:01+00:00"
+ "updatedAt": "2024-11-29T21:10:01+00:00"
 }

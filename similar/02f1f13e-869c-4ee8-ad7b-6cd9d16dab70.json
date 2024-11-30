@@ -6,23 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b96f7e16-bbe6-4bfc-a183-98f809ae3188",
+   "title": {
+    "en": "A Spell That Works Well"
+   },
+   "contentRating": "safe",
+   "score": 0.35502517,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
    "id": "714272c5-ab77-4474-a422-6d714c0aa9cf",
    "title": {
     "en": "Since I Was a Brat: Makoto Isshiki Short Story Collection"
    },
    "contentRating": "safe",
-   "score": 0.34172004,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "799e310c-1513-4d86-8eb6-0a28962eb5c3",
-   "title": {
-    "en": "Yuki Kodama Short Story Collection"
-   },
-   "contentRating": "safe",
-   "score": 0.3102044,
+   "score": 0.3417132,
    "languages": [
     "en"
    ]
@@ -33,7 +34,18 @@
     "en": "Henkyou de: Izu Tooru Sakuhinshuu"
    },
    "contentRating": "safe",
-   "score": 0.29964638
+   "score": 0.31473866
+  },
+  {
+   "id": "799e310c-1513-4d86-8eb6-0a28962eb5c3",
+   "title": {
+    "en": "Yuki Kodama Short Story Collection"
+   },
+   "contentRating": "safe",
+   "score": 0.3102035,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "ee055a12-7927-4f26-b1c1-f626cd12de89",
@@ -41,7 +53,7 @@
     "en": "One Day"
    },
    "contentRating": "safe",
-   "score": 0.2994006,
+   "score": 0.29939803,
    "languages": [
     "en",
     "pl"
@@ -53,7 +65,7 @@
     "en": "mothers"
    },
    "contentRating": "safe",
-   "score": 0.2983833
+   "score": 0.2983826
   },
   {
    "id": "9830e7b1-2736-4b31-a4de-b2166be500e8",
@@ -61,18 +73,7 @@
     "en": "Good Weather"
    },
    "contentRating": "safe",
-   "score": 0.29452807,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "02c2ee4a-a19b-412c-91c4-8a10d5b8f837",
-   "title": {
-    "en": "Cinta Sang Fashionista"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605
+   "score": 0.2945259
   },
   {
    "id": "fa05d7a1-27dd-46e8-9f58-63668955d7f6",
@@ -86,12 +87,20 @@
    ]
   },
   {
+   "id": "02c2ee4a-a19b-412c-91c4-8a10d5b8f837",
+   "title": {
+    "en": "Cinta Sang Fashionista"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605
+  },
+  {
    "id": "ce07a9bf-db0b-490b-8bb2-6c0932e37aec",
    "title": {
     "en": "Jitenshaya-san no Takahashi-kun"
    },
    "contentRating": "safe",
-   "score": 0.28506598,
+   "score": 0.285061,
    "languages": [
     "en",
     "ar"
@@ -103,7 +112,7 @@
     "en": "Sputnik"
    },
    "contentRating": "safe",
-   "score": 0.2818909,
+   "score": 0.2818918,
    "languages": [
     "pt-br",
     "en"
@@ -115,7 +124,7 @@
     "en": "Kemutai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.28065073,
+   "score": 0.2806764,
    "languages": [
     "en",
     "zh-hk"
@@ -127,36 +136,7 @@
     "en": "Chuou-sen Ensen Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.27978626
-  },
-  {
-   "id": "51fa9270-9baf-4a5b-8d28-12766081708d",
-   "title": {
-    "en": "Wine Color Stories - Akira Kagami Selection"
-   },
-   "contentRating": "safe",
-   "score": 0.27868736
-  },
-  {
-   "id": "b1362449-30c0-42da-8d0b-5182046cd7c0",
-   "title": {
-    "en": "Anata wo, Nomu."
-   },
-   "contentRating": "safe",
-   "score": 0.27530426
-  },
-  {
-   "id": "78a664a7-2f4e-464b-b925-92984012f00c",
-   "title": {
-    "en": "Anata ga Shite Kurenakute mo"
-   },
-   "contentRating": "safe",
-   "score": 0.27206528,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi"
-   ]
+   "score": 0.27978507
   },
   {
    "id": "0c5f1518-f5a7-4a86-b310-0860df1ec5f1",
@@ -164,8 +144,29 @@
     "en": "Build a chair"
    },
    "contentRating": "safe",
-   "score": 0.2712528
+   "score": 0.27567294
+  },
+  {
+   "id": "b1362449-30c0-42da-8d0b-5182046cd7c0",
+   "title": {
+    "en": "Anata wo, Nomu."
+   },
+   "contentRating": "safe",
+   "score": 0.27527875
+  },
+  {
+   "id": "78a664a7-2f4e-464b-b925-92984012f00c",
+   "title": {
+    "en": "Anata ga Shite Kurenakute mo"
+   },
+   "contentRating": "safe",
+   "score": 0.2720643,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2024-11-27T20:16:14+00:00"
+ "updatedAt": "2024-11-29T19:53:36+00:00"
 }

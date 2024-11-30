@@ -1,0 +1,149 @@
+{
+ "id": "0a4068b5-b98f-46d5-8efa-c0616b7b9ba1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Donketsu Dai 2-sho"
+  },
+  "altTitles": [
+   {
+    "ja": "ドンケツ第2章"
+   }
+  ],
+  "description": {
+   "ja": "月輪、月暈、はぐれ者…三つ巴の戦いから3年。「いろんなヤツ」に姿を変えた悪が街をさまよう中、月輪組の活動にも少しずつ変化が訪れる！次代の「漢」の在り方を求め、ロケマサ達が動き出す…！"
+  },
+  "links": {
+   "al": "159276",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B085ZQ52QH?binding=kindle_edition\u0026searchxofy=true\u0026ref_=dbs_s_aps_series_rwt_tkin\u0026qid=1732741053\u0026sr=8-1",
+   "ap": "donketsu-dai-2-shou",
+   "bw": "series/221198/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/564070/",
+   "mal": "173199",
+   "mu": "oqjizph"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2019,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "85daba54-a71c-4554-8a28-9901a8b0afad",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mafia"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-27T21:03:00+00:00",
+  "updatedAt": "2024-11-27T21:11:23+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b0b28f7d-a666-475f-aabe-83ccc65afc12",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-05-21T14:38:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ta-shi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-27T21:00:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b0b28f7d-a666-475f-aabe-83ccc65afc12",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-05-21T14:38:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ta-shi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-27T21:00:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d9c6a806-5120-4171-9e86-3216f226fc56",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-27T21:05:20+00:00",
+    "description": "Volume 13 Cover from BookLive",
+    "fileName": "838361cd-9005-4aa0-908a-87c637be8180.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-27T21:05:20+00:00",
+    "version": 1,
+    "volume": "13"
+   }
+  },
+  {
+   "id": "88ebbeb9-cdf7-47b5-8d30-48f24d8f9882",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

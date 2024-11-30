@@ -1,0 +1,157 @@
+{
+ "id": "68d62e35-80d3-474c-93ca-3dc04d3e1eb3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "One Element"
+  },
+  "altTitles": [
+   {
+    "en": "UnElement"
+   },
+   {
+    "en": "An'eremento"
+   },
+   {
+    "ja": "アンエレメント"
+   }
+  ],
+  "description": {
+   "en": "Sometimes just one element can radically change the whole picture..."
+  },
+  "links": {
+   "raw": "https://csbs.shogakukan.co.jp/book?comic_id=17058"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "1",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2015,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Philosophical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-11-28T07:52:40+00:00",
+  "updatedAt": "2024-11-28T17:17:30+00:00"
+ },
+ "relationships": [
+  {
+   "id": "02421411-52d5-4f95-8be7-5ae2b73c6639",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-10T09:54:24+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yasuda Kasumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/calcium0550",
+    "updatedAt": "2023-01-01T01:03:35+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "02421411-52d5-4f95-8be7-5ae2b73c6639",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-10T09:54:24+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yasuda Kasumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/calcium0550",
+    "updatedAt": "2023-01-01T01:03:35+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "79272414-8c09-4d8d-893f-6d49e4860cdf",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-28T07:52:43+00:00",
+    "description": "",
+    "fileName": "2debfe96-f104-4ae5-8bee-c2d6f640a63d.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-28T07:52:43+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "ecd20462-d812-4979-875c-4f71536fd5d2",
+   "type": "creator"
+  }
+ ]
+}

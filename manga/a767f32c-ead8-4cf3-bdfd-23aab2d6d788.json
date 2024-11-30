@@ -3,28 +3,32 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hey, Aquarist"
+   "en": "You, Aquarist"
   },
   "altTitles": [
    {
     "ja": "よぅ、アクアリスト"
    },
    {
-    "es-la": "Yo, Aquarist"
+    "en": "Hey, Aquarist"
    },
    {
-    "ja-ro": "You, Aquarist"
+    "es-la": "Yo, Aquarist"
    }
   ],
   "description": {
    "en": "A delinquent boy was out at a festival when he finds a discarded goldfish. Recalling his childhood experience of buying a goldfish from a festival stall and bringing it home only to have it die, he tries to make up for it by releasing the goldfish into the river. However, a mysterious girl stops him and tells him that it is not allowed to let out goldfish into the wild, and he learns how to keep goldfish at home and becomes a proper \"aquarist.\"",
-   "es-la": "Tetsuo un chico bastante llamativo, pero que en el fondo es alguien amable, recoge unos peces dorados que fueron tirados a la basura durante un festival; mientras intentaba liberarlos en el rio... ¿¡Se encontró con una solitaria y hermosa chica!?"
+   "es-la": "Tetsuo un chico bastante llamativo, pero que en el fondo es alguien amable, recoge unos peces dorados que fueron tirados a la basura durante un festival; mientras intentaba liberarlos en el rio... ¿¡Se encontró con una solitaria y hermosa chica!?",
+   "ja": "見た目は派手だが根は優しいテツオは祭の最中、ゴミ箱に無造作に捨てられている金魚を拾う。川に逃がそうとしたその時、謎の和服美少女・カナデがその行為にまったをかける――！アクアリストのカナデと出会い、テツオは金魚を飼うことを決意する。だが、思っていたよりも金魚を飼うことは大変で――!?"
   },
   "links": {
    "al": "168664",
+   "amz": "https://www.amazon.co.jp/dp/B0CYDJ5SHR",
+   "bw": "series/467140",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/826337",
    "mal": "162251",
    "mu": "4ry2568",
-   "raw": "https://web-ace.jp/shonenace/contents/697/"
+   "raw": "https://web-ace.jp/shonenace/contents/697"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
@@ -87,9 +91,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2023-08-28T21:24:51+00:00",
-  "updatedAt": "2024-06-19T12:34:51+00:00"
+  "updatedAt": "2024-11-27T23:45:24+00:00"
  },
  "relationships": [
   {
@@ -149,16 +153,16 @@
    }
   },
   {
-   "id": "20307635-a000-45f7-9009-ec664bc22c25",
+   "id": "d90c41f3-e2e9-4f4c-9e25-2c8d18b135b7",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-06-19T12:35:31+00:00",
-    "description": "",
-    "fileName": "c7b5d3f0-f335-4c53-8bdd-89ef2763f2cf.jpg",
+    "createdAt": "2024-11-27T23:45:23+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "eea4cf52-8a2d-4598-80dd-9048082fef79.jpg",
     "locale": "ja",
-    "updatedAt": "2024-06-19T12:35:31+00:00",
+    "updatedAt": "2024-11-27T23:45:23+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

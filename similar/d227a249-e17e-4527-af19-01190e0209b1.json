@@ -6,48 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "a92cf9fc-b6b7-4415-9400-72cddf30ac3e",
-   "title": {
-    "en": "Enrolling in the Transcendent Academy"
-   },
-   "contentRating": "safe",
-   "score": 0.36963072,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "fe7d5dbe-6f0a-42ed-9a83-67a4315bd3ee",
-   "title": {
-    "en": "The Gardener in a Hunter World"
-   },
-   "contentRating": "safe",
-   "score": 0.35990834,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "39960d43-b8dd-4fdc-b6b7-ab9ad82cce90",
-   "title": {
-    "en": "The SSS-Rank Hunter's Lucky Draw"
-   },
-   "contentRating": "safe",
-   "score": 0.35294446,
-   "languages": [
-    "es-la",
-    "fr",
-    "en"
-   ]
-  },
-  {
    "id": "3ba41e61-7929-4d05-be7b-96982071006b",
    "title": {
     "en": "The Strongest Manager in History"
    },
    "contentRating": "safe",
-   "score": 0.34903672,
+   "score": 0.35104018,
    "languages": [
     "fr",
     "en",
@@ -57,12 +21,48 @@
    ]
   },
   {
+   "id": "a92cf9fc-b6b7-4415-9400-72cddf30ac3e",
+   "title": {
+    "en": "Enrolling in the Transcendent Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.3467284,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "39960d43-b8dd-4fdc-b6b7-ab9ad82cce90",
+   "title": {
+    "en": "The SSS-Rank Hunter's Lucky Draw"
+   },
+   "contentRating": "safe",
+   "score": 0.34533983,
+   "languages": [
+    "es-la",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "fe7d5dbe-6f0a-42ed-9a83-67a4315bd3ee",
+   "title": {
+    "en": "The Gardener in a Hunter World"
+   },
+   "contentRating": "safe",
+   "score": 0.3348679,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1703aee9-ae55-49e7-9aba-c1c55e1bbbaf",
    "title": {
     "en": "Identity V academy"
    },
    "contentRating": "safe",
-   "score": 0.34564662,
+   "score": 0.32351264,
    "languages": [
     "en"
    ]
@@ -73,7 +73,7 @@
     "en": "The Dungeon Cleaning Life of a Once Genius Hunter"
    },
    "contentRating": "safe",
-   "score": 0.32765225,
+   "score": 0.30780995,
    "languages": [
     "en",
     "pt-br",
@@ -86,21 +86,25 @@
     "en": "Ghost Hunter"
    },
    "contentRating": "safe",
-   "score": 0.32163593,
+   "score": 0.3013188,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "e6eb6bd0-0285-4fac-a6da-9bc4234ac1bb",
+   "id": "4d97b35d-2d9f-4369-964f-3b0ce2c7fbbc",
    "title": {
-    "en": "My Life as a Player"
+    "en": "The Infinite Mage"
    },
    "contentRating": "safe",
-   "score": 0.32151288,
+   "score": 0.3009017,
    "languages": [
+    "pt-br",
     "es-la",
-    "en"
+    "it",
+    "en",
+    "fr",
+    "pl"
    ]
   },
   {
@@ -109,7 +113,7 @@
     "en": "SSS-Class Revival Hunter"
    },
    "contentRating": "safe",
-   "score": 0.31326583,
+   "score": 0.29701182,
    "languages": [
     "en",
     "it",
@@ -127,43 +131,15 @@
    ]
   },
   {
-   "id": "cbe6c48b-400a-4b23-94ea-c81c17eda54a",
+   "id": "50fe3f36-22d5-42ff-be77-2af454d8525e",
    "title": {
-    "en": "Teihen Hunter ga [Return] Skill de Gendai Saikyou"
+    "en": "The Strongest God of War in the City"
    },
    "contentRating": "safe",
-   "score": 0.30893302,
+   "score": 0.2957035,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4d97b35d-2d9f-4369-964f-3b0ce2c7fbbc",
-   "title": {
-    "en": "The Infinite Mage"
-   },
-   "contentRating": "safe",
-   "score": 0.30758497,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "it",
     "en",
-    "fr",
-    "pl"
-   ]
-  },
-  {
-   "id": "41490f9b-a57a-481f-8716-3199ee638164",
-   "title": {
-    "en": "The Carefree Life of an SSS-Class Knight"
-   },
-   "contentRating": "safe",
-   "score": 0.30651143,
-   "languages": [
-    "es-la",
-    "en",
-    "fr"
+    "pt-br"
    ]
   },
   {
@@ -172,10 +148,23 @@
     "en": "I'm an EX-Rank Hunter"
    },
    "contentRating": "safe",
-   "score": 0.30404195,
+   "score": 0.29500753,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "41490f9b-a57a-481f-8716-3199ee638164",
+   "title": {
+    "en": "The Carefree Life of an SSS-Class Knight"
+   },
+   "contentRating": "safe",
+   "score": 0.29312468,
+   "languages": [
+    "es-la",
+    "en",
+    "fr"
    ]
   },
   {
@@ -184,7 +173,7 @@
     "en": "Strongest Abandoned Son"
    },
    "contentRating": "safe",
-   "score": 0.2990534,
+   "score": 0.2880269,
    "languages": [
     "es-la",
     "fr",
@@ -195,29 +184,41 @@
    ]
   },
   {
-   "id": "6c098026-971d-4f5f-b076-06ebe0fe9a30",
+   "id": "cbe6c48b-400a-4b23-94ea-c81c17eda54a",
    "title": {
-    "en": "Evil Hunter"
+    "en": "Teihen Hunter ga [Return] Skill de Gendai Saikyou"
    },
    "contentRating": "safe",
-   "score": 0.2961069,
+   "score": 0.28787455,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "00296c8d-a815-4fdd-b4b8-c79c550ee875",
+   "title": {
+    "en": "The Indomitable Martial King"
+   },
+   "contentRating": "safe",
+   "score": 0.28007028,
+   "languages": [
+    "pl",
     "en",
     "es-la"
    ]
   },
   {
-   "id": "50fe3f36-22d5-42ff-be77-2af454d8525e",
+   "id": "6c098026-971d-4f5f-b076-06ebe0fe9a30",
    "title": {
-    "en": "The Strongest God of War in the City"
+    "en": "Evil Hunter"
    },
    "contentRating": "safe",
-   "score": 0.29341227,
+   "score": 0.27925423,
    "languages": [
     "en",
-    "pt-br"
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2024-11-27T21:26:15+00:00"
+ "updatedAt": "2024-11-29T21:03:12+00:00"
 }

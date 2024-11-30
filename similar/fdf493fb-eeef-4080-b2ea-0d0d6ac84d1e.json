@@ -6,6 +6,19 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "eb6306cb-a681-4c23-9f3f-31e3e3e4bfb2",
+   "title": {
+    "en": "Tactics"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "ru",
+    "ko"
+   ]
+  },
+  {
    "id": "4c53c85c-0303-4cf0-887b-15092774c6a1",
    "title": {
     "en": "Shugo Chara! Jewel Joker"
@@ -17,19 +30,6 @@
     "pt-br",
     "es-la",
     "en"
-   ]
-  },
-  {
-   "id": "eb6306cb-a681-4c23-9f3f-31e3e3e4bfb2",
-   "title": {
-    "en": "Tactics"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "ru",
-    "ko"
    ]
   },
   {
@@ -63,6 +63,20 @@
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "3637ca06-20de-4796-93db-e06721ec5a6d",
+   "title": {
+    "en": "Matsurika Kanriden ~Koukyuu Jokan, Kimagure Koutei ni Misomerare~"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "id",
+    "ru",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -109,20 +123,6 @@
    ]
   },
   {
-   "id": "3637ca06-20de-4796-93db-e06721ec5a6d",
-   "title": {
-    "en": "Matsurika Kanriden ~Koukyuu Jokan, Kimagure Koutei ni Misomerare~"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "id",
-    "ru",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "cbf544de-2df4-4f5d-ae82-61c18d298c66",
    "title": {
     "en": "Dokebi Bride"
@@ -139,38 +139,10 @@
     "en": "Holy Alice Returns"
    },
    "contentRating": "safe",
-   "score": 0.1664077,
+   "score": 0.16640571,
    "languages": [
     "tr",
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "dcace3ec-a6a1-4001-8d65-7b47e9e17dad",
-   "title": {
-    "en": "Vampire Sphere"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "en",
-    "fr",
-    "ru"
-   ]
-  },
-  {
-   "id": "e0c14a13-190e-47ba-96f0-9d2c8c6ce515",
-   "title": {
-    "en": "In the Rose Garden"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "ru",
-    "vi",
-    "pt-br",
-    "fr",
     "en"
    ]
   },
@@ -198,6 +170,34 @@
    ]
   },
   {
+   "id": "e0c14a13-190e-47ba-96f0-9d2c8c6ce515",
+   "title": {
+    "en": "In the Rose Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "ru",
+    "vi",
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "dcace3ec-a6a1-4001-8d65-7b47e9e17dad",
+   "title": {
+    "en": "Vampire Sphere"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en",
+    "fr",
+    "ru"
+   ]
+  },
+  {
    "id": "055dc933-3579-4650-9e2e-a64d077865e7",
    "title": {
     "en": "Mystery"
@@ -218,7 +218,7 @@
     "en": "Ryuukishi no Okiniiri"
    },
    "contentRating": "safe",
-   "score": 0.15473796,
+   "score": 0.15543704,
    "languages": [
     "ru",
     "en",
@@ -226,5 +226,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-27T21:40:54+00:00"
+ "updatedAt": "2024-11-29T21:17:53+00:00"
 }

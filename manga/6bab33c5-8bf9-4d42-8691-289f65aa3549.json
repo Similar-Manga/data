@@ -1,0 +1,154 @@
+{
+ "id": "6bab33c5-8bf9-4d42-8691-289f65aa3549",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kowai Osananajimi"
+  },
+  "altTitles": [
+   {
+    "ja": "怖い幼なじみ"
+   },
+   {
+    "en": "A Scary Childhood Friend"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://bsky.app/profile/attake.bsky.social/post/3lbcdoyacqk2t"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-27T22:04:16+00:00",
+  "updatedAt": "2024-11-28T01:36:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "36e7fdb8-17dc-4616-86ae-bfe71f2285ce",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- こばやしたけし \n- 小林武志\n\n**Links:**\n- [Bluesky](https://bsky.app/profile/attake.bsky.social)\n- [Facebook](https://www.facebook.com/kobayashi.takeshi.9)\n- [lit.link](https://lit.link/attake)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-27T22:02:33+00:00",
+    "fanBox": "https://attake.fanbox.cc",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kobayashi Takeshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/11679",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/attake_",
+    "updatedAt": "2024-11-28T01:42:28+00:00",
+    "version": 3,
+    "website": "https://attake.jimdofree.com",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "36e7fdb8-17dc-4616-86ae-bfe71f2285ce",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- こばやしたけし \n- 小林武志\n\n**Links:**\n- [Bluesky](https://bsky.app/profile/attake.bsky.social)\n- [Facebook](https://www.facebook.com/kobayashi.takeshi.9)\n- [lit.link](https://lit.link/attake)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-27T22:02:33+00:00",
+    "fanBox": "https://attake.fanbox.cc",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kobayashi Takeshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/11679",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/attake_",
+    "updatedAt": "2024-11-28T01:42:28+00:00",
+    "version": 3,
+    "website": "https://attake.jimdofree.com",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "707c5cff-7fec-4eff-aa7b-b016cfdd5c8e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-27T22:04:20+00:00",
+    "description": "",
+    "fileName": "e56c1280-3ca2-49cf-a713-7de9c1b01c66.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-27T22:04:20+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "960b5038-8043-4861-8d0e-4ef256880806",
+   "type": "creator"
+  }
+ ]
+}

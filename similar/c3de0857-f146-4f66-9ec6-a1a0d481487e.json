@@ -6,20 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "7e50742e-76bc-44be-b561-ac6ce1681a63",
-   "title": {
-    "en": "Tokyo Ghoul: Redrawn"
-   },
-   "contentRating": "safe",
-   "score": 0.23286977,
-   "languages": [
-    "it",
-    "pt-br",
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "4a907996-bf1d-4a34-a4ae-ab8e86de0ab6",
    "title": {
     "en": "At the End of 4 Minutes"
@@ -35,12 +21,26 @@
    ]
   },
   {
+   "id": "7e50742e-76bc-44be-b561-ac6ce1681a63",
+   "title": {
+    "en": "Tokyo Ghoul: Redrawn"
+   },
+   "contentRating": "safe",
+   "score": 0.23286977,
+   "languages": [
+    "it",
+    "pt-br",
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
    "title": {
     "en": "Memento Memori"
    },
    "contentRating": "safe",
-   "score": 0.22394697,
+   "score": 0.22394422,
    "languages": [
     "ru",
     "tr",
@@ -90,7 +90,7 @@
     "en": "Boys Be Zombitious"
    },
    "contentRating": "safe",
-   "score": 0.19695129,
+   "score": 0.19695793,
    "languages": [
     "es-la",
     "it",
@@ -99,17 +99,6 @@
     "fr",
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "2ee825b5-fca6-40a3-98f2-e47d44bd7fc8",
-   "title": {
-    "en": "Sekiryuu no Otome"
-   },
-   "contentRating": "safe",
-   "score": 0.19471695,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -123,6 +112,17 @@
     "es",
     "en",
     "fa"
+   ]
+  },
+  {
+   "id": "2ee825b5-fca6-40a3-98f2-e47d44bd7fc8",
+   "title": {
+    "en": "Sekiryuu no Otome"
+   },
+   "contentRating": "safe",
+   "score": 0.19471695,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -154,8 +154,20 @@
     "en": "Second Coming"
    },
    "contentRating": "safe",
-   "score": 0.18750925,
+   "score": 0.1875157,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
+   "title": {
+    "en": "The Twin Empires"
+   },
+   "contentRating": "safe",
+   "score": 0.18472472,
+   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -173,24 +185,12 @@
    ]
   },
   {
-   "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
-   "title": {
-    "en": "The Twin Empires"
-   },
-   "contentRating": "safe",
-   "score": 0.18472472,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "cd14a481-211e-43c7-b100-a1b466e93d6d",
    "title": {
     "en": "Nikubami Honegishimi"
    },
    "contentRating": "safe",
-   "score": 0.18334611,
+   "score": 0.18334067,
    "languages": [
     "en"
    ]
@@ -210,5 +210,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-27T21:21:25+00:00"
+ "updatedAt": "2024-11-29T20:58:24+00:00"
 }

@@ -6,34 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "2ac33039-13f4-4dd1-bbb6-72c0393327ed",
-   "title": {
-    "en": "Tsukuroiya"
-   },
-   "contentRating": "safe",
-   "score": 0.2919579,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "fcf94584-3db8-49c6-a8a5-e9928a82a1ff",
    "title": {
     "en": "Mori no Hashikko no Chibi Majo-san"
    },
    "contentRating": "safe",
-   "score": 0.24065463,
+   "score": 0.30800122,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "d7ef7cb6-fb09-4288-85f5-6ff71b765392",
+   "id": "2ac33039-13f4-4dd1-bbb6-72c0393327ed",
    "title": {
-    "en": "Alice In Wonderland"
+    "en": "Tsukuroiya"
    },
    "contentRating": "safe",
-   "score": 0.24053757,
+   "score": 0.29196113,
    "languages": [
     "en"
    ]
@@ -49,6 +38,17 @@
     "en",
     "pl",
     "pt-br"
+   ]
+  },
+  {
+   "id": "d7ef7cb6-fb09-4288-85f5-6ff71b765392",
+   "title": {
+    "en": "Alice In Wonderland"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -69,7 +69,7 @@
     "en": "The Starlight Prince"
    },
    "contentRating": "safe",
-   "score": 0.217355,
+   "score": 0.21735395,
    "languages": [
     "en"
    ]
@@ -80,7 +80,7 @@
     "en": "Buna no Mori no Aria"
    },
    "contentRating": "safe",
-   "score": 0.21486543,
+   "score": 0.21486798,
    "languages": [
     "en",
     "pt-br",
@@ -94,7 +94,7 @@
     "en": "Nanairo no Mukou"
    },
    "contentRating": "safe",
-   "score": 0.2143522,
+   "score": 0.21435179,
    "languages": [
     "en",
     "de",
@@ -107,62 +107,7 @@
     "en": "Shukufuku no Kuro to Hametsu no Shiro - Dragon Knights II"
    },
    "contentRating": "safe",
-   "score": 0.20969357,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5bb51c1e-d9c5-4897-89ac-f79ff6b12763",
-   "title": {
-    "en": "Ritsuka to Sousetsu no Kamui"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7dc29262-9e02-4544-86d8-4aa8273a86d0",
-   "title": {
-    "en": "Yami no Matsuei"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "acf31122-946f-4738-8b18-eed1df481012",
-   "title": {
-    "en": "Crystal Dragon"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4b3a79b2-64ba-452e-b014-94b5a3e1e4e9",
-   "title": {
-    "en": "Himegimi no Jouken"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0fdeae50-143c-44ba-aa69-ef3298a1aae0",
-   "title": {
-    "en": "Dragon Knights - Search For the Legendary King"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.2096934,
    "languages": [
     "en"
    ]
@@ -188,7 +133,62 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "d1ba7942-e344-476f-b5da-714edb317fcd",
+   "title": {
+    "en": "Neo Angelique"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5bb51c1e-d9c5-4897-89ac-f79ff6b12763",
+   "title": {
+    "en": "Ritsuka to Sousetsu no Kamui"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0fdeae50-143c-44ba-aa69-ef3298a1aae0",
+   "title": {
+    "en": "Dragon Knights - Search For the Legendary King"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4b3a79b2-64ba-452e-b014-94b5a3e1e4e9",
+   "title": {
+    "en": "Himegimi no Jouken"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "acf31122-946f-4738-8b18-eed1df481012",
+   "title": {
+    "en": "Crystal Dragon"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-27T21:21:54+00:00"
+ "updatedAt": "2024-11-29T20:58:53+00:00"
 }

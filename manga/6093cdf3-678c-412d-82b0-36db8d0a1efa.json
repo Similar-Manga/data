@@ -31,7 +31,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "52e14f10-c3ea-422c-82e8-7b05991ed465",
+  "latestUploadedChapter": "8ffbeb6e-9316-4d8f-bdbb-e188e5f58056",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -42,6 +42,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -119,9 +131,9 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 14,
   "createdAt": "2023-10-28T21:48:39+00:00",
-  "updatedAt": "2024-11-05T15:33:31+00:00"
+  "updatedAt": "2024-11-27T19:15:44+00:00"
  },
  "relationships": [
   {

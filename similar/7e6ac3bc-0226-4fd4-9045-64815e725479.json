@@ -11,7 +11,15 @@
     "en": "Kishi Reijou wa Propose wo Kotowarenai"
    },
    "contentRating": "safe",
-   "score": 0.31069326
+   "score": 0.3080071
+  },
+  {
+   "id": "2eb7ab3e-45b0-4e31-be65-2b74777629f3",
+   "title": {
+    "en": "Akuyaku Reijou, Juukai Shindara Nanka Kowareta."
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
   },
   {
    "id": "6d06d6a7-243e-45a9-b3d4-4e09e6ff3274",
@@ -26,12 +34,15 @@
    ]
   },
   {
-   "id": "ab4df592-6f4c-443f-9bdf-7caaac5ed497",
+   "id": "57bd31ed-ff14-4ec6-9151-49d77e1d78cf",
    "title": {
-    "en": "Terepari Kiss"
+    "en": "M.G. Darling"
    },
    "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "9de06c13-0ac1-4029-a2e2-6e3b849edba8",
@@ -45,23 +56,12 @@
    ]
   },
   {
-   "id": "2eb7ab3e-45b0-4e31-be65-2b74777629f3",
+   "id": "ab4df592-6f4c-443f-9bdf-7caaac5ed497",
    "title": {
-    "en": "Akuyaku Reijou, Juukai Shindara Nanka Kowareta."
+    "en": "Terepari Kiss"
    },
    "contentRating": "safe",
    "score": 0.2857143
-  },
-  {
-   "id": "57bd31ed-ff14-4ec6-9151-49d77e1d78cf",
-   "title": {
-    "en": "M.G. Darling"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
   },
   {
    "id": "5c850e46-0cdb-47ad-83d3-0ccbd77396bd",
@@ -69,7 +69,7 @@
     "en": "Kurotatsu-sama no Minarai Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.28518683
+   "score": 0.28320593
   },
   {
    "id": "3477d842-d588-4ea4-901c-3d6ac2970a5f",
@@ -77,7 +77,7 @@
     "en": "\"24-ten\" to Konyaku Hakisareta Reijou wa, Ringoku no Outaishi ni Kanpeki na Hanayome to Aisareru"
    },
    "contentRating": "safe",
-   "score": 0.27602133
+   "score": 0.27480623
   },
   {
    "id": "d7c82ac2-9c09-4534-8dbb-a0f7375d0519",
@@ -85,7 +85,7 @@
     "en": "Okubyou na Hakushaku Reijou wa Momegoto wo Nozomanai"
    },
    "contentRating": "safe",
-   "score": 0.27551466
+   "score": 0.2746672
   },
   {
    "id": "0eac78b5-0259-495e-a90a-91c1ef78ac03",
@@ -93,23 +93,7 @@
     "en": "Nekomimi Maid to Shounen Ouji Ansatsu Target no Ouji-sama ni Koi wo Shimashita"
    },
    "contentRating": "safe",
-   "score": 0.27069142
-  },
-  {
-   "id": "4ad74001-7d81-43bc-82b8-32cd0fd28040",
-   "title": {
-    "en": "Yake wo Okoshita Koushaku Reijou wa Sugata wo Kuramashi Jiyuu wo Tanoshimu"
-   },
-   "contentRating": "safe",
-   "score": 0.2656008
-  },
-  {
-   "id": "a4c6fc1a-8cfe-4beb-a8f7-e0d20ec38ea2",
-   "title": {
-    "en": "Akuyaku Reijou wa Mou Zenbu ga Iya ni Natta no de, Kioku Soushitsu no Furi wo suru Koto ni shita"
-   },
-   "contentRating": "safe",
-   "score": 0.26454815
+   "score": 0.26970732
   },
   {
    "id": "ffd80bf7-a4d2-4ac0-9e47-b55652e9a548",
@@ -117,7 +101,23 @@
     "en": "Haru wo Irodoru High Tone"
    },
    "contentRating": "safe",
-   "score": 0.26447928
+   "score": 0.26375628
+  },
+  {
+   "id": "4ad74001-7d81-43bc-82b8-32cd0fd28040",
+   "title": {
+    "en": "Yake wo Okoshita Koushaku Reijou wa Sugata wo Kuramashi Jiyuu wo Tanoshimu"
+   },
+   "contentRating": "safe",
+   "score": 0.26342258
+  },
+  {
+   "id": "a4c6fc1a-8cfe-4beb-a8f7-e0d20ec38ea2",
+   "title": {
+    "en": "Akuyaku Reijou wa Mou Zenbu ga Iya ni Natta no de, Kioku Soushitsu no Furi wo suru Koto ni shita"
+   },
+   "contentRating": "safe",
+   "score": 0.2624291
   },
   {
    "id": "6691d582-3ef2-4507-8aee-2c3808f0aaf5",
@@ -125,7 +125,7 @@
     "en": "Akujo Reijou desu ga, Konyakusha no Amai Oshioki ni Kanaimasen"
    },
    "contentRating": "safe",
-   "score": 0.26147062
+   "score": 0.26087415
   },
   {
    "id": "492a38fc-e6dd-4919-be51-65cbe6ee3bcc",
@@ -133,7 +133,7 @@
     "en": "Seijo-sama wo Osagashi de Shitara Imouto de Machigai Arimasen. Saa Douzo Otsure kudasai, Imasugu."
    },
    "contentRating": "safe",
-   "score": 0.2612058
+   "score": 0.2606262
   },
   {
    "id": "ab809b63-268f-4533-889d-83c51b435beb",
@@ -141,8 +141,8 @@
     "en": "Akogarenai Yume"
    },
    "contentRating": "safe",
-   "score": 0.25997314
+   "score": 0.25944948
   }
  ],
- "updatedAt": "2024-11-27T20:57:46+00:00"
+ "updatedAt": "2024-11-29T20:35:03+00:00"
 }

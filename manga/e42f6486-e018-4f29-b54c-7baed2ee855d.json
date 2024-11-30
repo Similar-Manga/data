@@ -8,6 +8,12 @@
   "altTitles": [
    {
     "ja-ro": "MILGRAM"
+   },
+   {
+    "ja": "ミニグラム"
+   },
+   {
+    "ja-ro": "MINIGRAM"
    }
   ],
   "description": {
@@ -68,9 +74,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2022-06-15T22:24:40+00:00",
-  "updatedAt": "2023-06-22T16:37:38+00:00"
+  "updatedAt": "2024-11-28T22:34:17+00:00"
  },
  "relationships": [
   {
@@ -129,24 +135,26 @@
    "id": "8f3cf8c2-4a1c-42ad-88a4-aa43f8abd4d9",
    "type": "author",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "### Alternative names\n* 八槻"
+    },
+    "booth": "https://nitotoflash.booth.pm/",
     "createdAt": "2022-06-15T22:22:05+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "yamatsuki",
+    "name": "Yatsuki",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-06-15T22:22:05+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/ytk087",
+    "updatedAt": "2024-11-27T23:19:53+00:00",
+    "version": 2,
+    "website": "https://www.nitoto.net/",
     "weibo": null,
     "youtube": null
    }
@@ -155,24 +163,26 @@
    "id": "8f3cf8c2-4a1c-42ad-88a4-aa43f8abd4d9",
    "type": "artist",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "### Alternative names\n* 八槻"
+    },
+    "booth": "https://nitotoflash.booth.pm/",
     "createdAt": "2022-06-15T22:22:05+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "yamatsuki",
+    "name": "Yatsuki",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-06-15T22:22:05+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/ytk087",
+    "updatedAt": "2024-11-27T23:19:53+00:00",
+    "version": 2,
+    "website": "https://www.nitoto.net/",
     "weibo": null,
     "youtube": null
    }

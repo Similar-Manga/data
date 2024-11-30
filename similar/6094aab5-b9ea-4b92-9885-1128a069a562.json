@@ -23,7 +23,7 @@
     "en": "Lunchtime Accomplice"
    },
    "contentRating": "safe",
-   "score": 0.2588698,
+   "score": 0.2588727,
    "languages": [
     "vi",
     "en"
@@ -35,7 +35,7 @@
     "en": "A Story About Spending a Little More Time With an Eccentric Girl"
    },
    "contentRating": "safe",
-   "score": 0.25827548,
+   "score": 0.25827527,
    "languages": [
     "fr",
     "id",
@@ -54,7 +54,7 @@
     "en": "Saguri-san Tankentai"
    },
    "contentRating": "safe",
-   "score": 0.25453883,
+   "score": 0.25453857,
    "languages": [
     "fr",
     "ru",
@@ -64,13 +64,27 @@
    ]
   },
   {
-   "id": "e3e9cba6-81ed-4ac9-ad39-e19d508e9659",
+   "id": "09bde10b-2bdb-46bd-9ea2-00861eea7365",
    "title": {
-    "en": "Koto no Ha"
+    "en": "One Bowl of Soupy Cheese Gyudon"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
+   "title": {
+    "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "es",
+    "th",
+    "pt-br",
     "vi",
     "en"
    ]
@@ -90,46 +104,20 @@
    ]
   },
   {
-   "id": "bbd33493-bbaa-48bd-9a0e-1118c4133e68",
+   "id": "c8218590-c812-4f79-9cf5-294070502ed5",
    "title": {
-    "en": "Doku Doku"
+    "en": "The Closest We've Ever Been"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "ar",
+    "th",
+    "en",
+    "vi",
+    "ru",
     "pt-br",
     "es-la",
-    "en",
     "fr",
-    "ca"
-   ]
-  },
-  {
-   "id": "b64484c1-4a3f-4273-bec0-48aae27d7f1b",
-   "title": {
-    "en": "A Friend Who I Went to the Same Middle School With but Have Never Talked To"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "es",
-    "th",
-    "pt-br",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "8378c61b-0317-4b84-a9fd-eb090f2cac54",
-   "title": {
-    "en": "Welcome Home, Kazu-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "pt-br",
-    "en",
     "id"
    ]
   },
@@ -148,43 +136,6 @@
    ]
   },
   {
-   "id": "f730a35b-61f9-475f-b48d-7225cad36dd3",
-   "title": {
-    "en": "Tonari no Koitsu"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
-   "title": {
-    "en": "Your Mind is Easy to Read"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "id",
-    "pl",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "36b0543a-a3bf-4e9a-a772-cc9c2324e10e",
-   "title": {
-    "en": "Toufuu (Fu)kenbunroku"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "477e4046-a86b-4acd-b510-4caef64d6dbd",
    "title": {
     "en": "The Perch of Dreams"
@@ -192,6 +143,18 @@
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1be5941a-4a4a-4f89-b48d-2f32624cd7d8",
+   "title": {
+    "en": "Suki ni Nattara, Owari"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "ko",
     "en"
    ]
   },
@@ -210,17 +173,59 @@
    ]
   },
   {
-   "id": "1be5941a-4a4a-4f89-b48d-2f32624cd7d8",
+   "id": "8378c61b-0317-4b84-a9fd-eb090f2cac54",
    "title": {
-    "en": "Suki ni Nattara, Owari"
+    "en": "Welcome Home, Kazu-kun"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "ko",
+    "pt-br",
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "36b0543a-a3bf-4e9a-a772-cc9c2324e10e",
+   "title": {
+    "en": "Toufuu (Fu)kenbunroku"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bbd33493-bbaa-48bd-9a0e-1118c4133e68",
+   "title": {
+    "en": "Doku Doku"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "ar",
+    "pt-br",
+    "es-la",
+    "en",
+    "fr",
+    "ca"
+   ]
+  },
+  {
+   "id": "d59f91e9-cb96-4c39-a59d-b31599b1769f",
+   "title": {
+    "en": "Your Mind is Easy to Read"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "id",
+    "pl",
+    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-27T20:47:46+00:00"
+ "updatedAt": "2024-11-29T20:25:05+00:00"
 }

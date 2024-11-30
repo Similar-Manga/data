@@ -1,0 +1,170 @@
+{
+ "id": "a4e2eede-c3b6-42f9-bc63-4ea3cd734181",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The mermaid trapped in my lake"
+  },
+  "altTitles": [
+   {
+    "ko": "내 호수에 가둔 인어"
+   }
+  ],
+  "description": {
+   "en": "“Servane, why didn’t you come see me?” A person, no, a mermaid, calling out to my great-grandfather’s granddaughter who resembled me. My ancestors, who loved mermaids so much, are said to have locked her in a lake. What was the mermaid thinking all this time, waiting for someone who had been dead for over a hundred years? Enduring terrible pain, day after day, every single day. That was probably, “I wanted to see you.” … It was clearly revenge."
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "02181abc-0adb-4248-8536-e4be7b39dfed",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-29T13:31:47+00:00",
+  "updatedAt": "2024-11-29T13:33:01+00:00"
+ },
+ "relationships": [
+  {
+   "id": "cc950ea6-bfe3-4b35-8a74-65e3d6a8e979",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "- Michu\n- みちゅう\n- 美中\n"
+    },
+    "booth": null,
+    "createdAt": "2023-02-12T23:24:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Michuu (美中)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/28410430",
+    "skeb": null,
+    "tumblr": "http://micyu35.tumblr.com/",
+    "twitter": "https://twitter.com/michukokuchi",
+    "updatedAt": "2023-10-25T12:52:45+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d720f4ea-4c20-405c-89e3-2478ee48c746",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-29T13:32:39+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "alpobi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-29T13:32:39+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cc950ea6-bfe3-4b35-8a74-65e3d6a8e979",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "- Michu\n- みちゅう\n- 美中\n"
+    },
+    "booth": null,
+    "createdAt": "2023-02-12T23:24:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Michuu (美中)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/28410430",
+    "skeb": null,
+    "tumblr": "http://micyu35.tumblr.com/",
+    "twitter": "https://twitter.com/michukokuchi",
+    "updatedAt": "2023-10-25T12:52:45+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d720f4ea-4c20-405c-89e3-2478ee48c746",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-29T13:32:39+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "alpobi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-29T13:32:39+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "155cf752-b4de-4939-8e59-93ae9f9f5ceb",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-29T13:31:49+00:00",
+    "description": "",
+    "fileName": "2e438131-6ad6-485e-9c52-32a37b27cb42.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-11-29T13:31:49+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}
