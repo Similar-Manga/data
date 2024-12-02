@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "409a2653-864a-4633-867d-df309c03875b",
-   "title": {
-    "en": "Nanto Iwareyou Tomo, Boku wa Tada no Kyuutei Shisho desu"
-   },
-   "contentRating": "safe",
-   "score": 0.32260975
-  },
-  {
    "id": "aed9496b-0178-49a3-8af5-3acbd7bce928",
    "title": {
     "en": "Karasu wa Aruji wo Erabanai"
    },
    "contentRating": "safe",
-   "score": 0.27427006,
+   "score": 0.27427137,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "409a2653-864a-4633-867d-df309c03875b",
+   "title": {
+    "en": "Nanto Iwareyou Tomo, Boku wa Tada no Kyuutei Shisho desu"
+   },
+   "contentRating": "safe",
+   "score": 0.2587281
   },
   {
    "id": "331bae48-3841-4ab3-9dff-eef3e830f974",
@@ -41,7 +41,7 @@
     "en": "RDB"
    },
    "contentRating": "safe",
-   "score": 0.24944001,
+   "score": 0.2494441,
    "languages": [
     "ru",
     "en"
@@ -53,7 +53,7 @@
     "en": "Dantalian no Shoka"
    },
    "contentRating": "safe",
-   "score": 0.2459285,
+   "score": 0.24593005,
    "languages": [
     "es",
     "es-la",
@@ -66,7 +66,7 @@
     "en": "Toshokan no Aruji"
    },
    "contentRating": "safe",
-   "score": 0.24273211
+   "score": 0.24273746
   },
   {
    "id": "942c4d26-67a3-4a83-8a27-dbb68fe6ccad",
@@ -74,7 +74,7 @@
     "en": "Zero no Shiniki"
    },
    "contentRating": "safe",
-   "score": 0.23970981,
+   "score": 0.23971154,
    "languages": [
     "en",
     "fr"
@@ -86,15 +86,7 @@
     "en": "Croket! Black Label"
    },
    "contentRating": "safe",
-   "score": 0.22974136
-  },
-  {
-   "id": "063fae7d-9ee8-4f95-a220-31099fccfd5b",
-   "title": {
-    "en": "In the Night of the Storm"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143
+   "score": 0.22974275
   },
   {
    "id": "410ce251-4cdf-4047-a1a6-48107827509d",
@@ -105,12 +97,20 @@
    "score": 0.22857143
   },
   {
+   "id": "063fae7d-9ee8-4f95-a220-31099fccfd5b",
+   "title": {
+    "en": "In the Night of the Storm"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143
+  },
+  {
    "id": "8b8c1916-82f2-4638-b0a8-1d6e1397c8de",
    "title": {
     "en": "COCOON"
    },
    "contentRating": "safe",
-   "score": 0.22841775
+   "score": 0.22841899
   },
   {
    "id": "5a29d829-f47a-4607-a40a-69416fea364f",
@@ -118,34 +118,38 @@
     "en": "Abakiya"
    },
    "contentRating": "safe",
-   "score": 0.22618401
+   "score": 0.22618252
   },
   {
-   "id": "dcbfe8f4-c802-48ce-91c9-be914940fe36",
+   "id": "50240487-b2c4-4c4b-b252-c5e03f5f0960",
    "title": {
-    "en": "Liberation - Fukushuu no Fushi Ken"
+    "en": "Cuirassier Blood Brothers"
    },
    "contentRating": "safe",
    "score": 0.22131334
   },
   {
-   "id": "fe13622d-eb91-4065-a250-deaf16b304ec",
+   "id": "069f2aae-dda9-481b-9f38-201305498bee",
    "title": {
-    "en": "Shiryoujutsushi Weltz no Heiwa-ron"
+    "en": "BASCULER"
    },
    "contentRating": "safe",
-   "score": 0.22131334
+   "score": 0.22131334,
+   "languages": [
+    "it",
+    "en"
+   ]
   },
   {
-   "id": "5490db60-019e-4a3a-a2dc-c9d3d83b289d",
+   "id": "cda265af-a49e-4c71-84dc-d3d2be2e86b1",
    "title": {
-    "en": "Twin Doll no Hakoniwa"
+    "en": "Higan no Orca"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
     "en",
-    "es"
+    "ru"
    ]
   },
   {
@@ -157,5 +161,5 @@
    "score": 0.22131334
   }
  ],
- "updatedAt": "2024-11-29T21:10:35+00:00"
+ "updatedAt": "2024-12-01T21:59:02+00:00"
 }

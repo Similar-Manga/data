@@ -21,17 +21,22 @@
   },
   "links": {
    "al": "92846",
-   "amz": "https://www.amazon.co.jp/gp/product/B074CLZR9C/",
+   "amz": "https://www.amazon.co.jp/dp/B074CLZR9C",
    "ap": "nightmare-funk",
+   "bw": "series/24113/list",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1722721",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/306926/",
    "kt": "27264",
    "mal": "79441",
-   "mu": "111802"
+   "mu": "111802",
+   "raw": "https://zebrack-comic.shueisha.co.jp/title/1635"
   },
   "originalLanguage": "ja",
   "lastVolume": "4",
   "lastChapter": "16",
   "publicationDemographic": "shounen",
   "status": "completed",
+  "year": 2014,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "ru",
@@ -65,6 +70,30 @@
     }
    },
    {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "ee968100-4191-4968-93d3-f82d72be7e46",
     "type": "tag",
     "attributes": {
@@ -78,9 +107,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2018-12-10T14:12:03+00:00",
-  "updatedAt": "2024-02-24T14:49:22+00:00"
+  "updatedAt": "2024-11-29T21:54:14+00:00"
  },
  "relationships": [
   {
@@ -151,6 +180,11 @@
     "version": 2,
     "volume": "4"
    }
+  },
+  {
+   "id": "79f34a1a-d740-4a56-b8ff-85e314ec943f",
+   "type": "manga",
+   "related": "spin_off"
   }
  ]
 }

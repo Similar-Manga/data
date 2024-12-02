@@ -34,8 +34,20 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "d349f1ba-0f2f-40b1-879e-184ef3038814",
+  "latestUploadedChapter": "f18d2733-26d6-4d91-a58b-5cd672bdcd4b",
   "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
     "type": "tag",
@@ -61,11 +73,59 @@
     }
    },
    {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "50880a9d-5440-4732-9afb-8f457127e836",
     "type": "tag",
     "attributes": {
      "name": {
       "en": "Mecha"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Philosophical"
      },
      "description": {},
      "group": "genre",
@@ -98,9 +158,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2023-05-26T12:04:41+00:00",
-  "updatedAt": "2024-11-02T16:33:33+00:00"
+  "updatedAt": "2024-11-30T05:04:56+00:00"
  },
  "relationships": [
   {

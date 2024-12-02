@@ -6,6 +6,21 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "3ddfe740-8b05-4ac4-be90-9f1e5b8fe1ea",
+   "title": {
+    "en": "Nee Nee, Nene-san."
+   },
+   "contentRating": "safe",
+   "score": 0.2388799,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en",
+    "es-la",
+    "uk"
+   ]
+  },
+  {
    "id": "0f767102-67c0-4fcf-9385-78ad334f9971",
    "title": {
     "ja": "Wakare no hi"
@@ -22,21 +37,6 @@
    ]
   },
   {
-   "id": "3ddfe740-8b05-4ac4-be90-9f1e5b8fe1ea",
-   "title": {
-    "en": "Nee Nee, Nene-san."
-   },
-   "contentRating": "safe",
-   "score": 0.2388799,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "es-la",
-    "uk"
-   ]
-  },
-  {
    "id": "c01baaf3-5088-4ab7-b95a-917f70e5b3bd",
    "title": {
     "en": "Piercing (INOUE Takehiko)"
@@ -50,19 +50,6 @@
    ]
   },
   {
-   "id": "26ab64be-4b23-4f9c-b2f6-93b3f207325f",
-   "title": {
-    "en": "I Want to See You"
-   },
-   "contentRating": "safe",
-   "score": 0.22755206,
-   "languages": [
-    "pt-br",
-    "hu",
-    "en"
-   ]
-  },
-  {
    "id": "99d5a551-f53c-438f-8bac-ffffbf04fac2",
    "title": {
     "en": "Shuumatsu wa Aoi Haru"
@@ -72,6 +59,19 @@
    "languages": [
     "id",
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "26ab64be-4b23-4f9c-b2f6-93b3f207325f",
+   "title": {
+    "en": "I Want to See You"
+   },
+   "contentRating": "safe",
+   "score": 0.22755206,
+   "languages": [
+    "pt-br",
+    "hu",
     "en"
    ]
   },
@@ -93,7 +93,7 @@
     "en": "ILYA"
    },
    "contentRating": "safe",
-   "score": 0.22524638,
+   "score": 0.2252587,
    "languages": [
     "en"
    ]
@@ -104,7 +104,7 @@
     "en": "Kowareta Bokura no Senryaku Ren'ai"
    },
    "contentRating": "safe",
-   "score": 0.21601476,
+   "score": 0.2160101,
    "languages": [
     "vi",
     "en",
@@ -139,6 +139,7 @@
     "he",
     "uk",
     "en",
+    "ro",
     "it",
     "pt-br",
     "id",
@@ -146,6 +147,17 @@
     "pl",
     "ca",
     "ru"
+   ]
+  },
+  {
+   "id": "a4cafa6c-13e9-4d88-a15b-192da7a43453",
+   "title": {
+    "en": "Ao (moon of Jupiter)"
+   },
+   "contentRating": "safe",
+   "score": 0.21079762,
+   "languages": [
+    "es-la"
    ]
   },
   {
@@ -161,23 +173,12 @@
    ]
   },
   {
-   "id": "a4cafa6c-13e9-4d88-a15b-192da7a43453",
-   "title": {
-    "en": "Ao (moon of Jupiter)"
-   },
-   "contentRating": "safe",
-   "score": 0.21079762,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
    "id": "531848f6-cbf3-4f35-b497-a36505ca99fb",
    "title": {
     "en": "Cold Rain"
    },
    "contentRating": "safe",
-   "score": 0.20905529,
+   "score": 0.2090545,
    "languages": [
     "en"
    ]
@@ -194,15 +195,17 @@
    ]
   },
   {
-   "id": "dfe99792-a27b-407f-bbb1-8857b51c4969",
+   "id": "6094aab5-b9ea-4b92-9885-1128a069a562",
    "title": {
-    "en": "Negaigoto 300000 km/s"
+    "en": "Satsubatsu Couple no Hanashi"
    },
    "contentRating": "safe",
    "score": 0.20644996,
    "languages": [
-    "pl",
-    "en"
+    "en",
+    "fr",
+    "es-la",
+    "id"
    ]
   },
   {
@@ -217,5 +220,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-29T20:01:02+00:00"
+ "updatedAt": "2024-12-01T20:49:45+00:00"
 }

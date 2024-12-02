@@ -6,23 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "7fbc837b-af50-4fb1-8891-b071419b3d7b",
-   "title": {
-    "en": "Pavlov's Dog"
-   },
-   "contentRating": "safe",
-   "score": 0.31846365,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "243c78ab-a9d5-488f-9f95-f9e9557dfaff",
    "title": {
     "en": "Kyou, Furyo wo Hirou"
    },
    "contentRating": "safe",
-   "score": 0.3129255,
+   "score": 0.31293067,
    "languages": [
     "en",
     "vi"
@@ -34,7 +23,7 @@
     "en": "Can I Hold Your Hand?"
    },
    "contentRating": "safe",
-   "score": 0.30110174,
+   "score": 0.30110088,
    "languages": [
     "en"
    ]
@@ -45,7 +34,7 @@
     "en": "Kowagari Kimi ni Kisu no Ame"
    },
    "contentRating": "safe",
-   "score": 0.29943803,
+   "score": 0.2994371,
    "languages": [
     "en",
     "es-la"
@@ -57,7 +46,7 @@
     "en": "See You Never"
    },
    "contentRating": "safe",
-   "score": 0.29601887,
+   "score": 0.2960237,
    "languages": [
     "pt-br",
     "en"
@@ -69,7 +58,7 @@
     "en": "Ruby Red wo Kamikudaku"
    },
    "contentRating": "safe",
-   "score": 0.2936488,
+   "score": 0.29364893,
    "languages": [
     "en"
    ]
@@ -80,7 +69,7 @@
     "en": "Spice!"
    },
    "contentRating": "safe",
-   "score": 0.29275277,
+   "score": 0.29274976,
    "languages": [
     "en",
     "vi"
@@ -92,16 +81,16 @@
     "en": "Ai ni Dekinai Koi wa iya"
    },
    "contentRating": "safe",
-   "score": 0.29083398,
+   "score": 0.29083437,
    "languages": [
     "en",
     "tr"
    ]
   },
   {
-   "id": "224bf55a-8fa7-4c28-84c4-92e7193852f3",
+   "id": "72165c63-997a-4a8b-a740-5bc7cda30022",
    "title": {
-    "en": "Amai Mamono Date Club"
+    "en": "Yoake wo Matsu Kimi no Tame ni"
    },
    "contentRating": "safe",
    "score": 0.28350797,
@@ -110,9 +99,20 @@
    ]
   },
   {
-   "id": "6b5a9e33-24d2-4c0a-81dc-25cce6eb4644",
+   "id": "f835ad94-b3dc-4b5f-be9f-270d3e69a76b",
    "title": {
-    "en": "Gaman Nante Oyoshinasai"
+    "en": "Satou 100 Gram, Koi Shoushou"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e3fdd68f-4441-431c-932e-f5e3cb7898bc",
+   "title": {
+    "en": "Over Reach Boy"
    },
    "contentRating": "safe",
    "score": 0.28350797,
@@ -124,28 +124,6 @@
    "id": "28d7cd39-5c01-4ec3-baa6-6de9094bd381",
    "title": {
     "en": "Himo Otoko to Fubin na Boku"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fab29f05-ade4-41cf-ba53-3483430bb93d",
-   "title": {
-    "en": "Ai wa Dokoda"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2f50c248-bf30-44fa-8d5f-ead3171fa977",
-   "title": {
-    "en": "Tenpure Gakuen no Tenkousei"
    },
    "contentRating": "safe",
    "score": 0.28350797,
@@ -167,9 +145,9 @@
    ]
   },
   {
-   "id": "e3fdd68f-4441-431c-932e-f5e3cb7898bc",
+   "id": "7fbc837b-af50-4fb1-8891-b071419b3d7b",
    "title": {
-    "en": "Over Reach Boy"
+    "en": "Pavlov's Dog"
    },
    "contentRating": "safe",
    "score": 0.28350797,
@@ -178,9 +156,31 @@
    ]
   },
   {
-   "id": "72165c63-997a-4a8b-a740-5bc7cda30022",
+   "id": "2f50c248-bf30-44fa-8d5f-ead3171fa977",
    "title": {
-    "en": "Yoake wo Matsu Kimi no Tame ni"
+    "en": "Tenpure Gakuen no Tenkousei"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fab29f05-ade4-41cf-ba53-3483430bb93d",
+   "title": {
+    "en": "Ai wa Dokoda"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "224bf55a-8fa7-4c28-84c4-92e7193852f3",
+   "title": {
+    "en": "Amai Mamono Date Club"
    },
    "contentRating": "safe",
    "score": 0.28350797,
@@ -189,5 +189,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-29T21:04:37+00:00"
+ "updatedAt": "2024-12-01T21:53:06+00:00"
 }

@@ -11,24 +11,9 @@
     "en": "Hanechin \u0026 Bucky's Pediatric Chart"
    },
    "contentRating": "safe",
-   "score": 0.30267575,
+   "score": 0.3026771,
    "languages": [
     "vi"
-   ]
-  },
-  {
-   "id": "3dc22eea-a495-4d24-a0d0-259dd4f8a3de",
-   "title": {
-    "en": "Service Area"
-   },
-   "contentRating": "safe",
-   "score": 0.2701507,
-   "languages": [
-    "pt-br",
-    "ru",
-    "it",
-    "zh",
-    "en"
    ]
   },
   {
@@ -37,7 +22,7 @@
     "en": "Kaji Ryuusuke's Agenda"
    },
    "contentRating": "safe",
-   "score": 0.26725549,
+   "score": 0.26725596,
    "languages": [
     "en"
    ]
@@ -48,7 +33,7 @@
     "en": "Arte"
    },
    "contentRating": "safe",
-   "score": 0.25844783,
+   "score": 0.25844553,
    "languages": [
     "en",
     "pt-br",
@@ -62,7 +47,7 @@
     "en": "Under the Rose"
    },
    "contentRating": "safe",
-   "score": 0.2411859,
+   "score": 0.2411829,
    "languages": [
     "en"
    ]
@@ -73,8 +58,23 @@
     "en": "Otona no Zukan Kaiteiban"
    },
    "contentRating": "safe",
-   "score": 0.24040772,
+   "score": 0.240409,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3dc22eea-a495-4d24-a0d0-259dd4f8a3de",
+   "title": {
+    "en": "Service Area"
+   },
+   "contentRating": "safe",
+   "score": 0.23842864,
+   "languages": [
+    "pt-br",
+    "ru",
+    "it",
+    "zh",
     "en"
    ]
   },
@@ -84,19 +84,20 @@
     "en": "Onban Kikou"
    },
    "contentRating": "safe",
-   "score": 0.23382808,
+   "score": 0.23382555,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "39b6cbe5-9706-4feb-a06e-57d905f47f5c",
+   "id": "e695ad4f-7e8a-419d-8575-f0a98ffe4615",
    "title": {
-    "en": "Botsuichi"
+    "en": "Takaga Tasogare"
    },
    "contentRating": "safe",
    "score": 0.22778316,
    "languages": [
+    "it",
     "en"
    ]
   },
@@ -114,14 +115,13 @@
    ]
   },
   {
-   "id": "e695ad4f-7e8a-419d-8575-f0a98ffe4615",
+   "id": "39b6cbe5-9706-4feb-a06e-57d905f47f5c",
    "title": {
-    "en": "Takaga Tasogare"
+    "en": "Botsuichi"
    },
    "contentRating": "safe",
    "score": 0.22778316,
    "languages": [
-    "it",
     "en"
    ]
   },
@@ -133,18 +133,6 @@
    "contentRating": "safe",
    "score": 0.22778316,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "aa4e3448-ce7d-4c6b-9fa4-54904890c6b3",
-   "title": {
-    "en": "Bakajo 26-ji"
-   },
-   "contentRating": "safe",
-   "score": 0.22778316,
-   "languages": [
-    "vi",
     "en"
    ]
   },
@@ -173,6 +161,18 @@
    ]
   },
   {
+   "id": "aa4e3448-ce7d-4c6b-9fa4-54904890c6b3",
+   "title": {
+    "en": "Bakajo 26-ji"
+   },
+   "contentRating": "safe",
+   "score": 0.22778316,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
    "id": "1e167d35-6b1f-4d5d-af00-be83160741fc",
    "title": {
     "en": "Skyscraper Blues"
@@ -195,5 +195,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-29T20:20:17+00:00"
+ "updatedAt": "2024-12-01T21:08:45+00:00"
 }

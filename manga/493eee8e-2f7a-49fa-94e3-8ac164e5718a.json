@@ -3,15 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The absolute ruler of the house"
+   "en": "The Ultimate Shut-In"
   },
   "altTitles": [
    {
     "ko": "집구석 절대자"
+   },
+   {
+    "en": "The Absolute Ruler of the House"
    }
   ],
   "description": {
-   "en": "One day, the end of the world suddenly came. [The absolute being in the corner of the house cannot leave the corner of the house] You must survive to save your family."
+   "en": "One day, the end of the world suddenly came. \n\n[The absolute being in the corner of the house cannot leave the corner of the house.] \n\nYou must survive to save your family.",
+   "ko": "어느날 갑자기 세상에 종말이 찾아왔다.\n\n[집구석 절대자는 집구석을 벗어날 수 없습니다.]\n\n가족을 구하기 위해서라도 반드시 살아남아야 한다."
+  },
+  "links": {
+   "mu": "6j4onuh",
+   "raw": "https://comic.naver.com/webtoon/list?titleId=834351"
   },
   "originalLanguage": "ko",
   "status": "ongoing",
@@ -23,6 +31,18 @@
   "latestUploadedChapter": "8caa8fc5-63ce-4673-a767-aada0508b266",
   "tags": [
    {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -33,12 +53,36 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2024-11-29T13:25:15+00:00",
-  "updatedAt": "2024-11-29T13:27:31+00:00"
+  "updatedAt": "2024-11-30T12:38:17+00:00"
  },
  "relationships": [
   {
@@ -146,14 +190,14 @@
    }
   },
   {
-   "id": "26cfcb53-42cd-40d7-87dc-5beabd9d70ff",
+   "id": "fb05cf1c-0937-42ee-9197-1d24e579401f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-29T13:27:23+00:00",
+    "createdAt": "2024-11-29T23:25:18+00:00",
     "description": "",
-    "fileName": "d4015a78-6181-4821-851f-ee6eda787ad0.png",
+    "fileName": "1d87d55e-638d-4526-a455-90f61e5a3259.png",
     "locale": "ko",
-    "updatedAt": "2024-11-29T13:27:23+00:00",
+    "updatedAt": "2024-11-29T23:25:18+00:00",
     "version": 1,
     "volume": "1"
    }

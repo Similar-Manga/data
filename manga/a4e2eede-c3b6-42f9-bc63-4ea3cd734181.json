@@ -3,15 +3,21 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The mermaid trapped in my lake"
+   "en": "A Merman I Imprisoned in My Lake"
   },
   "altTitles": [
    {
     "ko": "내 호수에 가둔 인어"
+   },
+   {
+    "en": "The Merman Trapped in My Lake"
    }
   ],
   "description": {
    "en": "“Servane, why didn’t you come see me?” A person, no, a mermaid, calling out to my great-grandfather’s granddaughter who resembled me. My ancestors, who loved mermaids so much, are said to have locked her in a lake. What was the mermaid thinking all this time, waiting for someone who had been dead for over a hundred years? Enduring terrible pain, day after day, every single day. That was probably, “I wanted to see you.” … It was clearly revenge."
+  },
+  "links": {
+   "mu": "xg7vnyz"
   },
   "originalLanguage": "ko",
   "status": "ongoing",
@@ -20,8 +26,20 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "02181abc-0adb-4248-8536-e4be7b39dfed",
+  "latestUploadedChapter": "3998b311-de3e-4a30-9631-4ef29a26d074",
   "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -33,54 +51,74 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-11-29T13:31:47+00:00",
-  "updatedAt": "2024-11-29T13:33:01+00:00"
+  "updatedAt": "2024-11-29T19:41:22+00:00"
  },
  "relationships": [
   {
-   "id": "cc950ea6-bfe3-4b35-8a74-65e3d6a8e979",
-   "type": "author",
-   "attributes": {
-    "biography": {
-     "en": "- Michu\n- みちゅう\n- 美中\n"
-    },
-    "booth": null,
-    "createdAt": "2023-02-12T23:24:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Michuu (美中)",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/28410430",
-    "skeb": null,
-    "tumblr": "http://micyu35.tumblr.com/",
-    "twitter": "https://twitter.com/michukokuchi",
-    "updatedAt": "2023-10-25T12:52:45+00:00",
-    "version": 2,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "d720f4ea-4c20-405c-89e3-2478ee48c746",
+   "id": "e1464032-875b-4118-b31a-02d8a665c673",
    "type": "author",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2024-11-29T13:32:39+00:00",
+    "createdAt": "2024-11-29T19:36:53+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "alpobi",
+    "name": "Chipparang",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -88,7 +126,7 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-29T13:32:39+00:00",
+    "updatedAt": "2024-11-29T19:36:53+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -96,45 +134,17 @@
    }
   },
   {
-   "id": "cc950ea6-bfe3-4b35-8a74-65e3d6a8e979",
-   "type": "artist",
-   "attributes": {
-    "biography": {
-     "en": "- Michu\n- みちゅう\n- 美中\n"
-    },
-    "booth": null,
-    "createdAt": "2023-02-12T23:24:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Michuu (美中)",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/28410430",
-    "skeb": null,
-    "tumblr": "http://micyu35.tumblr.com/",
-    "twitter": "https://twitter.com/michukokuchi",
-    "updatedAt": "2023-10-25T12:52:45+00:00",
-    "version": 2,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "d720f4ea-4c20-405c-89e3-2478ee48c746",
+   "id": "a9f952c7-4054-4480-9ef2-c5e3e5ecca24",
    "type": "artist",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2024-11-29T13:32:39+00:00",
+    "createdAt": "2024-11-29T19:36:41+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "alpobi",
+    "name": "R.Ppobi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -142,7 +152,7 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-29T13:32:39+00:00",
+    "updatedAt": "2024-11-29T19:36:41+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -150,16 +160,16 @@
    }
   },
   {
-   "id": "155cf752-b4de-4939-8e59-93ae9f9f5ceb",
+   "id": "1244ce55-07c9-4a52-a8f9-02b019ea90d9",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-29T13:31:49+00:00",
+    "createdAt": "2024-11-29T19:41:21+00:00",
     "description": "",
-    "fileName": "2e438131-6ad6-485e-9c52-32a37b27cb42.jpg",
+    "fileName": "ddc372b5-dbbd-4cf2-9b11-30ff7c53289f.jpg",
     "locale": "ko",
-    "updatedAt": "2024-11-29T13:31:49+00:00",
+    "updatedAt": "2024-11-29T19:41:21+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

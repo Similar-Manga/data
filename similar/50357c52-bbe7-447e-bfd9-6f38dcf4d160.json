@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d39db645-0a95-4d70-80e0-775dc9a6ad89",
-   "title": {
-    "en": "Metronome"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "es",
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "1499cc6f-d25d-4250-bb56-897dab8470ae",
    "title": {
     "en": "Wonted"
@@ -29,6 +16,19 @@
     "en",
     "pl",
     "pt-br"
+   ]
+  },
+  {
+   "id": "d39db645-0a95-4d70-80e0-775dc9a6ad89",
+   "title": {
+    "en": "Metronome"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "es",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -88,6 +88,18 @@
    ]
   },
   {
+   "id": "7bd7f1dd-5975-4133-8bc7-9e2852ef8368",
+   "title": {
+    "en": "Castlevania - Curse of Darkness"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
    "id": "8b1d7ca0-6b34-415c-96c8-f3ffd460e932",
    "title": {
     "en": "Dragon and Chameleon"
@@ -101,31 +113,6 @@
     "pt-br",
     "ru",
     "es"
-   ]
-  },
-  {
-   "id": "7bd7f1dd-5975-4133-8bc7-9e2852ef8368",
-   "title": {
-    "en": "Castlevania - Curse of Darkness"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "1b5d349c-443b-40ee-ae0e-6b73b808f5d6",
-   "title": {
-    "en": "Dam of the Forest"
-   },
-   "contentRating": "safe",
-   "score": 0.21619461,
-   "languages": [
-    "en",
-    "pt-br",
-    "id"
    ]
   },
   {
@@ -159,11 +146,24 @@
     "en": "Kono Ko Shirimasenka?"
    },
    "contentRating": "safe",
-   "score": 0.21169761,
+   "score": 0.2116991,
    "languages": [
     "en",
     "vi",
     "es-la"
+   ]
+  },
+  {
+   "id": "1b5d349c-443b-40ee-ae0e-6b73b808f5d6",
+   "title": {
+    "en": "Dam of the Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en",
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -172,7 +172,7 @@
     "en": "Top Star Sent by God"
    },
    "contentRating": "safe",
-   "score": 0.20804827,
+   "score": 0.208042,
    "languages": [
     "pt-br"
    ]
@@ -183,7 +183,7 @@
     "en": "Trigger"
    },
    "contentRating": "safe",
-   "score": 0.20305304,
+   "score": 0.20304893,
    "languages": [
     "en",
     "ru",
@@ -197,7 +197,7 @@
     "en": "Battle in 5 Seconds After Meeting"
    },
    "contentRating": "safe",
-   "score": 0.20217,
+   "score": 0.2021638,
    "languages": [
     "en",
     "vi",
@@ -221,5 +221,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-29T20:19:30+00:00"
+ "updatedAt": "2024-12-01T21:07:59+00:00"
 }

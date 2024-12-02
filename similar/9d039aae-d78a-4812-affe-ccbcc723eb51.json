@@ -11,7 +11,7 @@
     "en": "Roads of Ryo"
    },
    "contentRating": "safe",
-   "score": 0.24650894,
+   "score": 0.24295239,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Ryuu to Ryuugoroshi no Miko"
    },
    "contentRating": "safe",
-   "score": 0.24023391,
+   "score": 0.23345822,
    "languages": [
     "en",
     "es-la"
@@ -34,7 +34,7 @@
     "en": "Ore no Saenai Osananajimi ga S-Rank Yuusha ni Natteita Ken"
    },
    "contentRating": "safe",
-   "score": 0.22670425,
+   "score": 0.22198209,
    "languages": [
     "pt-br",
     "es-la",
@@ -47,21 +47,9 @@
     "en": "Project Curse"
    },
    "contentRating": "safe",
-   "score": 0.22308621,
+   "score": 0.22020279,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "1cc8b8da-42e7-43fe-b99d-d4d301be156c",
-   "title": {
-    "en": "Massacre Lucifer's daughter"
-   },
-   "contentRating": "safe",
-   "score": 0.21828972,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -70,7 +58,18 @@
     "en": "The Legend of the Final Warden"
    },
    "contentRating": "safe",
-   "score": 0.21637101,
+   "score": 0.21405081,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "01fe322e-dc36-4c91-a63e-31933684dd15",
+   "title": {
+    "en": "The Descent into the Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.20231394,
    "languages": [
     "en"
    ]
@@ -81,48 +80,12 @@
     "en": "Game of the Strong"
    },
    "contentRating": "safe",
-   "score": 0.20414457,
+   "score": 0.20109259,
    "languages": [
     "fr",
     "en",
     "th",
     "tr"
-   ]
-  },
-  {
-   "id": "23f0329d-0a6c-4225-b062-b36a682c7db4",
-   "title": {
-    "en": "GUARDIAN"
-   },
-   "contentRating": "safe",
-   "score": 0.20310782,
-   "languages": [
-    "es",
-    "en",
-    "fa"
-   ]
-  },
-  {
-   "id": "5a84b419-e466-4532-bd0b-a5d880436f3d",
-   "title": {
-    "en": "Jiyuujin Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.20276773,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "695e6ed1-9823-486e-87bf-ec1fa536f0c1",
-   "title": {
-    "en": "Death Preparation Hero"
-   },
-   "contentRating": "safe",
-   "score": 0.20008492,
-   "languages": [
-    "en",
-    "vi"
    ]
   },
   {
@@ -137,37 +100,39 @@
    ]
   },
   {
-   "id": "f9a7035e-917b-4fcd-9d01-ad6b14423f85",
+   "id": "5a84b419-e466-4532-bd0b-a5d880436f3d",
    "title": {
-    "en": "The Hero Girl and the Green Magician"
+    "en": "Jiyuujin Hero"
    },
    "contentRating": "safe",
-   "score": 0.19644387,
+   "score": 0.19873068,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "5e8b3e5a-9e19-47e7-8921-0bfe5fdc7f46",
+   "id": "23f0329d-0a6c-4225-b062-b36a682c7db4",
    "title": {
-    "en": "Sentenced to Be a Hero: The Prison Records of Penal Hero Unit 9004"
+    "en": "GUARDIAN"
    },
    "contentRating": "safe",
-   "score": 0.19570032,
+   "score": 0.19866265,
    "languages": [
-    "en"
+    "es",
+    "en",
+    "fa"
    ]
   },
   {
-   "id": "58e2a0a4-1296-4cdd-9552-84bd0349bd0e",
+   "id": "695e6ed1-9823-486e-87bf-ec1fa536f0c1",
    "title": {
-    "en": "Saint Seiya - Another Story of Hades: Dark Wing"
+    "en": "Death Preparation Hero"
    },
    "contentRating": "safe",
-   "score": 0.1956804,
+   "score": 0.19680507,
    "languages": [
-    "pt-br",
-    "en"
+    "en",
+    "vi"
    ]
   },
   {
@@ -182,16 +147,50 @@
    ]
   },
   {
+   "id": "58e2a0a4-1296-4cdd-9552-84bd0349bd0e",
+   "title": {
+    "en": "Saint Seiya - Another Story of Hades: Dark Wing"
+   },
+   "contentRating": "safe",
+   "score": 0.19427724,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "f9a7035e-917b-4fcd-9d01-ad6b14423f85",
+   "title": {
+    "en": "The Hero Girl and the Green Magician"
+   },
+   "contentRating": "safe",
+   "score": 0.19406149,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ba8b096c-7a48-4c0e-884a-4d5b8596fbf5",
    "title": {
     "en": "Dawn of Ragnarok"
    },
    "contentRating": "safe",
-   "score": 0.19489144,
+   "score": 0.1940585,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c3ef10a7-cb5f-403f-951a-10942d1e3f32",
+   "title": {
+    "en": "Magna Ax"
+   },
+   "contentRating": "safe",
+   "score": 0.19359954,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-29T20:45:23+00:00"
+ "updatedAt": "2024-12-01T21:34:01+00:00"
 }

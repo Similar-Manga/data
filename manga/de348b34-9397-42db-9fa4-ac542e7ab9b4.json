@@ -3,31 +3,31 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Love Me Like I Do!"
+   "en": "Aishita Bundake Aishite Hoshii!"
   },
   "altTitles": [
    {
     "ja": "愛したぶんだけ愛してほしいっ！"
    },
    {
-    "ja-ro": "Aishita Bundake Aishite Hoshii!"
-   },
-   {
-    "ja": "したして"
-   },
-   {
-    "ja-ro": "ShitaShite"
+    "en": "Love Me Like I Do!"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "自堕落な生活を送る無職の六栗ななは、加工した自撮りで承認欲求を満たしながら、いつか迎えに来てくれる理想の王子様を待っていた。そんなななの前に「理想の王子様」のような女性、つかさが現れる。ななはつかさに口説かれるがまま体を許してしまうが……。"
+  },
   "links": {
    "al": "155696",
-   "bw": "de780fc3a2-edd1-4405-be7d-206ef1ad9fba",
-   "kt": "aishita-bundake-aishite-hoshii",
+   "amz": "https://www.amazon.co.jp/dp/B0CS5WDDXL",
+   "ap": "aishita-bundake-aishite-hoshii",
+   "bw": "series/454712",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/807926",
+   "kt": "65536",
    "mal": "155436",
    "mu": "w321b1w"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
   "lastChapter": "7",
   "status": "completed",
   "year": 2022,
@@ -88,9 +88,9 @@
    }
   ],
   "state": "published",
-  "version": 17,
+  "version": 19,
   "createdAt": "2022-09-18T17:43:17+00:00",
-  "updatedAt": "2024-01-20T11:04:15+00:00"
+  "updatedAt": "2024-11-29T20:54:24+00:00"
  },
  "relationships": [
   {
@@ -150,16 +150,16 @@
    }
   },
   {
-   "id": "8c50c7fd-8375-4cdf-a194-f16cc56c6894",
+   "id": "552e765e-f1e2-4612-b87c-c42f7cc5058b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-01-20T11:04:14+00:00",
-    "description": "",
-    "fileName": "b87aa24d-d35f-476c-85a6-cae1ff1efa60.jpg",
+    "createdAt": "2024-11-29T20:54:00+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "f68ca6fe-6ea2-4fd4-8280-c502a2fae391.jpg",
     "locale": "ja",
-    "updatedAt": "2024-01-20T11:04:14+00:00",
+    "updatedAt": "2024-11-29T20:54:00+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "1"
    }
   },
   {

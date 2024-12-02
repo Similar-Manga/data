@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "b6cc616c-762b-430c-a650-c36c92e4510c",
+   "title": {
+    "en": "Sakura Hira Hira"
+   },
+   "contentRating": "safe",
+   "score": 0.33126774,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
    "title": {
     "en": "Winter Flowers"
@@ -23,30 +34,19 @@
     "en": "Taiyou no Yuki"
    },
    "contentRating": "safe",
-   "score": 0.27895558,
+   "score": 0.26839533,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "b6cc616c-762b-430c-a650-c36c92e4510c",
+   "id": "53d5e543-04d5-4da2-ada1-76dc3eae610c",
    "title": {
-    "en": "Sakura Hira Hira"
+    "en": "My Beloved Devil"
    },
    "contentRating": "safe",
-   "score": 0.27457434,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a85210f3-2ec8-4feb-b7fe-1a39eeebf10f",
-   "title": {
-    "en": "Sakura Omoi"
-   },
-   "contentRating": "safe",
-   "score": 0.27362725,
+   "score": 0.26797298,
    "languages": [
     "en"
    ]
@@ -57,95 +57,15 @@
     "en": "Kimi ga Hikari"
    },
    "contentRating": "safe",
-   "score": 0.27314654,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "53d5e543-04d5-4da2-ada1-76dc3eae610c",
-   "title": {
-    "en": "My Beloved Devil"
-   },
-   "contentRating": "safe",
-   "score": 0.2684639,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f5a0c719-6fd7-4116-9227-6d4b55180ce2",
-   "title": {
-    "en": "Navy Blue no Hoshizora"
-   },
-   "contentRating": "safe",
-   "score": 0.26764718,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "95833cbf-be5c-41c6-b5a4-8c80b99ffdd3",
-   "title": {
-    "en": "Sora ni Haeru"
-   },
-   "contentRating": "safe",
-   "score": 0.26325175,
-   "languages": [
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "67813769-3476-46fe-9be5-3fe5d3479d3d",
-   "title": {
-    "en": "Haru Machi Sakura no Mau Koro ni"
-   },
-   "contentRating": "safe",
    "score": 0.26082027,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "ad47d811-b82f-4b03-8ece-c2a52752c5b8",
-   "title": {
-    "en": "Wasurene no Language"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "pl",
-    "en",
-    "it"
    ]
   },
   {
    "id": "18bec826-74b1-4a28-8854-cb9005933009",
    "title": {
     "en": "Shoujo Hachi Gatsu no"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "499c4444-f8cb-42c3-b612-a9a082808b77",
-   "title": {
-    "en": "Truth of a Lily"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
-   "title": {
-    "en": "Without the Sun"
    },
    "contentRating": "safe",
    "score": 0.26082027,
@@ -166,28 +86,109 @@
    ]
   },
   {
-   "id": "06749feb-aa8d-4eb0-a027-120137839eea",
+   "id": "499c4444-f8cb-42c3-b612-a9a082808b77",
    "title": {
-    "en": "Ao to Umibe no Nostalgia"
+    "en": "Truth of a Lily"
    },
    "contentRating": "safe",
-   "score": 0.25952423,
+   "score": 0.26082027,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ad47d811-b82f-4b03-8ece-c2a52752c5b8",
+   "title": {
+    "en": "Wasurene no Language"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "pl",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "67813769-3476-46fe-9be5-3fe5d3479d3d",
+   "title": {
+    "en": "Haru Machi Sakura no Mau Koro ni"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "04be1816-8fba-45f8-a3d0-3ad05718e874",
+   "title": {
+    "en": "Without the Sun"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "5b05e2f5-db32-4b55-bc0d-61d1cd44c8db",
+   "title": {
+    "en": "Happy End no Uragawa"
+   },
+   "contentRating": "safe",
+   "score": 0.2510736,
    "languages": [
     "pl",
     "en"
    ]
   },
   {
-   "id": "4a07ca4d-657d-4bda-8418-0309034a4b87",
+   "id": "7d48dc46-c77b-4da3-b029-b0ec94153f00",
    "title": {
-    "en": "Marine Blue"
+    "en": "Black Coffee"
    },
    "contentRating": "safe",
-   "score": 0.25928605,
+   "score": 0.24898474,
+   "languages": [
+    "bg",
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "c34a27d5-a670-4bb1-b805-3e78bc2f7f39",
+   "title": {
+    "en": "Sasagu Omoi wa Hana Meguri"
+   },
+   "contentRating": "safe",
+   "score": 0.24697725,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8747aaea-ea8f-42f7-84b8-493dfbb72c91",
+   "title": {
+    "en": "Nakanai Tori no Kaeru Ki wa"
+   },
+   "contentRating": "safe",
+   "score": 0.24616157,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3d7c6186-75d7-44bf-91d2-e111b7258f43",
+   "title": {
+    "en": "Latent Heat"
+   },
+   "contentRating": "safe",
+   "score": 0.24422763,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-29T20:28:20+00:00"
+ "updatedAt": "2024-12-01T21:16:51+00:00"
 }

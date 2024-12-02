@@ -6,9 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "89500eab-0c26-4ae0-be9a-afcc54f9f911",
+   "id": "bf1d3a27-3494-447e-aa75-c1cb17e506fb",
    "title": {
-    "en": "Oninagi"
+    "en": "Wizards Nation"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8557fdea-762d-4746-a725-d3699a4413e8",
+   "title": {
+    "en": "Byakumonogatari"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -32,6 +43,17 @@
    ]
   },
   {
+   "id": "89500eab-0c26-4ae0-be9a-afcc54f9f911",
+   "title": {
+    "en": "Oninagi"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "961c640c-d1aa-4699-9a6b-92b09fd43761",
    "title": {
     "en": "Mayonaka Sanpo"
@@ -48,34 +70,12 @@
    ]
   },
   {
-   "id": "bf1d3a27-3494-447e-aa75-c1cb17e506fb",
-   "title": {
-    "en": "Wizards Nation"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8557fdea-762d-4746-a725-d3699a4413e8",
-   "title": {
-    "en": "Byakumonogatari"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
    "title": {
     "en": "Evil Eater"
    },
    "contentRating": "safe",
-   "score": 0.18187606,
+   "score": 0.18187201,
    "languages": [
     "en"
    ]
@@ -86,7 +86,7 @@
     "ja": "Kyojin Sumai no Susume"
    },
    "contentRating": "safe",
-   "score": 0.18145035,
+   "score": 0.1814518,
    "languages": [
     "en"
    ]
@@ -97,7 +97,7 @@
     "en": "Godspeed 0.1"
    },
    "contentRating": "safe",
-   "score": 0.17567767,
+   "score": 0.17567654,
    "languages": [
     "en"
    ]
@@ -108,7 +108,7 @@
     "en": "Dorobou Night Trick"
    },
    "contentRating": "safe",
-   "score": 0.1751858,
+   "score": 0.17518619,
    "languages": [
     "en",
     "es"
@@ -120,21 +120,10 @@
     "en": "Heaven's Design Team"
    },
    "contentRating": "safe",
-   "score": 0.17332874,
+   "score": 0.17333145,
    "languages": [
     "pt-br",
     "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "baf824f8-0cb7-4d57-b434-5790a27bf593",
-   "title": {
-    "en": "Poorman, Ark, Billionaire"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
     "en"
    ]
   },
@@ -151,13 +140,16 @@
    ]
   },
   {
-   "id": "f07b92fc-2d37-49b4-a837-eff9ec834ef5",
+   "id": "da36a727-7686-4e92-8fac-94bc292b8e91",
    "title": {
-    "en": "The Grimoire of Marisa [Touhou Project]"
+    "en": "Magus of the Library"
    },
    "contentRating": "safe",
    "score": 0.16495723,
    "languages": [
+    "tr",
+    "id",
+    "ar",
     "en"
    ]
   },
@@ -173,9 +165,9 @@
    ]
   },
   {
-   "id": "a39e4520-fa2c-47c5-9908-2ee176c91eb7",
+   "id": "4308cd33-9620-415f-8a2b-ef5f51c775bd",
    "title": {
-    "en": "Tena on S-String"
+    "en": "Nanja Monja"
    },
    "contentRating": "safe",
    "score": 0.16495723,
@@ -198,7 +190,18 @@
     "ca",
     "es"
    ]
+  },
+  {
+   "id": "a39e4520-fa2c-47c5-9908-2ee176c91eb7",
+   "title": {
+    "en": "Tena on S-String"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-29T20:04:06+00:00"
+ "updatedAt": "2024-12-01T20:52:49+00:00"
 }

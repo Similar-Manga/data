@@ -1,0 +1,142 @@
+{
+ "id": "6e2952f4-30b6-41de-869d-6253cd6ddc6d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Amagami to Hakuchuumu"
+  },
+  "altTitles": [
+   {
+    "en": "a Playful Cat and a Daydream"
+   },
+   {
+    "ja": "甘噛みと白昼夢"
+   }
+  ],
+  "description": {
+   "en": "The introverted architect, Michishita, has a crush on his mysterious apartment neighbor, Kase. Kase always hides his face behind a mask, and rarely makes conversation with anyone, leaving Michishita with no intention of pursuing his unrequited love, content to just admire him from afar. One day, Michishita found himself in a near-fatal accident, only to be saved in the nick of time by Kase. However, Kase is seriously injured while shielding Michishita and is taken to the hospital in critical condition, unconscious. When Kase finally wakes up, to Michishita's surprise, he starts calling him \"big brother\" and begins acting adorably toward him…?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/%E7%94%98%E5%99%9B%E3%81%BF%E3%81%A8%E7%99%BD%E6%98%BC%E5%A4%A2-Emo-comics-%E8%9E%BA%E5%AD%90%E3%81%98%E3%81%98/dp/4796417028",
+   "mu": "uaww3z6",
+   "raw": "https://www.cmoa.jp/title/306370/"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Boys' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-30T22:34:16+00:00",
+  "updatedAt": "2024-12-01T18:20:26+00:00"
+ },
+ "relationships": [
+  {
+   "id": "267fa955-fe5d-4f5d-9db2-78f547d978a0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-30T22:20:09+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Neji jiji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-30T22:20:09+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "267fa955-fe5d-4f5d-9db2-78f547d978a0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-30T22:20:09+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Neji jiji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-30T22:20:09+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0a097c1c-ad9b-4afe-8462-59d52fc20588",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-30T22:34:25+00:00",
+    "description": "",
+    "fileName": "ea936a89-218d-4c8f-bc85-4f4ee950965f.png",
+    "locale": "ja",
+    "updatedAt": "2024-11-30T22:34:25+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "14f48779-70f2-4532-abbb-5c15c21d48a8",
+   "type": "creator"
+  }
+ ]
+}

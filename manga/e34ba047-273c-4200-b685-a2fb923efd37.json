@@ -3,14 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Girls x Sexual Harassment Life"
+   "en": "Girls × Sexual Harassment Life"
   },
   "altTitles": [
    {
-    "en": "Garuzu × Sekuharaifu"
+    "ja": "ガールズ×セクハライフ"
    },
    {
-    "en": "ガールズ×セクハライフ"
+    "ja-ro": "Girls × Sexha-life"
+   },
+   {
+    "ja-ro": "Girls × Sekuha-life"
+   },
+   {
+    "ja-ro": "Garuzu × Sekuharaifu"
+   },
+   {
+    "en": "Girls x Sexual Harassment Life"
    }
   ],
   "description": {
@@ -100,9 +109,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-07-25T17:09:53+00:00",
-  "updatedAt": "2022-01-24T21:27:54+00:00"
+  "updatedAt": "2024-11-30T17:29:59+00:00"
  },
  "relationships": [
   {

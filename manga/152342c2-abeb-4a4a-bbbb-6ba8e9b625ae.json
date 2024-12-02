@@ -14,11 +14,12 @@
    }
   ],
   "description": {
-   "en": "A short story about a little girl visiting her sister's apartment. Everything seems perfectly fine at first. at least, until she realized that something feels off"
+   "en": "A short story about a little girl visiting her sister's apartment. Everything seems perfectly fine at first. at least, until she realized that something feels off\n\n---\n\nOriginal doujinshi released at Comitia 109."
   },
   "links": {
    "al": "165985",
    "kt": "jiko-bukken",
+   "mu": "oqlfd30",
    "raw": "https://ec.toranoana.jp/tora_r/ec/item/040030239306/"
   },
   "originalLanguage": "ja",
@@ -55,6 +56,18 @@
     }
    },
    {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
     "attributes": {
@@ -68,9 +81,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 9,
   "createdAt": "2024-10-25T16:57:21+00:00",
-  "updatedAt": "2024-10-31T12:57:54+00:00"
+  "updatedAt": "2024-12-01T04:07:45+00:00"
  },
  "relationships": [
   {
@@ -78,7 +91,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "Alt names:\nSomato\nソウマトウ\nMayoibashi\nまよいばし\n\nA mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou."
+     "en": "A mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou.\n\n**Native name**: ソウマトウ\n\n**Alt. names**:\nSomato\n\n**Circle/s**:\n[Mayoibashi](https://mangadex.org/author/96c89a37-2bb1-4785-83fd-25218d223808) (まよいばし)\n"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -94,9 +107,37 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/somatoma",
-    "updatedAt": "2023-04-22T19:09:42+00:00",
-    "version": 3,
+    "updatedAt": "2024-12-01T01:51:08+00:00",
+    "version": 4,
     "website": "https://so-ma-to.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96c89a37-2bb1-4785-83fd-25218d223808",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: まよいばし\n\n**Members**:\n[Soumatou](https://mangadex.org/author/5e6ad669-80d4-4818-bb8c-dfad9464b32a)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T19:29:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mayoibashi (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-01T01:51:27+00:00",
+    "version": 3,
+    "website": null,
     "weibo": null,
     "youtube": null
    }
@@ -106,7 +147,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "Alt names:\nSomato\nソウマトウ\nMayoibashi\nまよいばし\n\nA mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou."
+     "en": "A mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou.\n\n**Native name**: ソウマトウ\n\n**Alt. names**:\nSomato\n\n**Circle/s**:\n[Mayoibashi](https://mangadex.org/author/96c89a37-2bb1-4785-83fd-25218d223808) (まよいばし)\n"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -122,9 +163,37 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/somatoma",
-    "updatedAt": "2023-04-22T19:09:42+00:00",
-    "version": 3,
+    "updatedAt": "2024-12-01T01:51:08+00:00",
+    "version": 4,
     "website": "https://so-ma-to.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96c89a37-2bb1-4785-83fd-25218d223808",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: まよいばし\n\n**Members**:\n[Soumatou](https://mangadex.org/author/5e6ad669-80d4-4818-bb8c-dfad9464b32a)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T19:29:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mayoibashi (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-01T01:51:27+00:00",
+    "version": 3,
+    "website": null,
     "weibo": null,
     "youtube": null
    }
@@ -137,9 +206,9 @@
     "description": "",
     "fileName": "7cea596e-40ff-477d-9a6c-5f6b4303a096.png",
     "locale": "ja",
-    "updatedAt": "2024-10-26T01:17:42+00:00",
-    "version": 2,
-    "volume": null
+    "updatedAt": "2024-12-01T02:35:53+00:00",
+    "version": 3,
+    "volume": "1"
    }
   },
   {

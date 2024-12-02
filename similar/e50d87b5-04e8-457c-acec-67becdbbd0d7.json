@@ -11,12 +11,12 @@
     "en": "Beat \u0026 Motion"
    },
    "contentRating": "safe",
-   "score": 0.2719562,
+   "score": 0.27093244,
    "languages": [
     "vi",
     "fr",
-    "en",
     "ru",
+    "en",
     "uk"
    ]
   },
@@ -26,7 +26,7 @@
     "en": "Watashi wo Center ni suru to Chikaimasu ka?"
    },
    "contentRating": "safe",
-   "score": 0.26771614,
+   "score": 0.2657585,
    "languages": [
     "id",
     "en"
@@ -38,7 +38,7 @@
     "en": "The Fragrant Flower Blooms with Dignity"
    },
    "contentRating": "safe",
-   "score": 0.24279006,
+   "score": 0.2428397,
    "languages": [
     "pt-br",
     "ru",
@@ -58,7 +58,7 @@
     "en": "Just Listen to the Song"
    },
    "contentRating": "safe",
-   "score": 0.24214073,
+   "score": 0.24234109,
    "languages": [
     "pt-br",
     "id",
@@ -84,7 +84,7 @@
     "en": "Tonikaku Kawaii"
    },
    "contentRating": "safe",
-   "score": 0.24099587,
+   "score": 0.23932862,
    "languages": [
     "en",
     "vi",
@@ -103,14 +103,15 @@
    ]
   },
   {
-   "id": "92d08045-b37a-4672-9eaf-1fbdda19113f",
+   "id": "d880ae9a-f400-4ff7-9251-ba3de6bed450",
    "title": {
-    "en": "Bowing!"
+    "en": "Show-ha Shou-ten!"
    },
    "contentRating": "safe",
    "score": 0.22980437,
    "languages": [
-    "en"
+    "en",
+    "zh-hk"
    ]
   },
   {
@@ -130,18 +131,6 @@
    ]
   },
   {
-   "id": "d880ae9a-f400-4ff7-9251-ba3de6bed450",
-   "title": {
-    "en": "Show-ha Shou-ten!"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
    "id": "9eb4d865-ac1c-4bd6-a61e-2a0f583ecf52",
    "title": {
     "en": "Existential Unplugged"
@@ -152,6 +141,17 @@
     "en",
     "ru",
     "es-la"
+   ]
+  },
+  {
+   "id": "92d08045-b37a-4672-9eaf-1fbdda19113f",
+   "title": {
+    "en": "Bowing!"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -171,45 +171,6 @@
     "ar",
     "it",
     "hu"
-   ]
-  },
-  {
-   "id": "0b72b7fa-c14e-4270-8d86-5e4993eff40f",
-   "title": {
-    "en": "Nami no Shijima no Horizont"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e7d22688-fb1e-4828-9443-30e9d1f327d7",
-   "title": {
-    "en": "Makina-san no Mama Naranai Hibi"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "6f2b317e-17ff-491a-8f61-e6e591ae2df2",
-   "title": {
-    "en": "Akanabe-sensei wa Tereshirazu"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "id",
-    "vi",
-    "es-la",
-    "pt-br",
-    "en",
-    "fr"
    ]
   },
   {
@@ -249,7 +210,41 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "abca3e5f-61ee-452e-a9e0-5985d0d1dd8d",
+   "title": {
+    "en": "Urushi Uruhashi"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0b72b7fa-c14e-4270-8d86-5e4993eff40f",
+   "title": {
+    "en": "Nami no Shijima no Horizont"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e7d22688-fb1e-4828-9443-30e9d1f327d7",
+   "title": {
+    "en": "Makina-san no Mama Naranai Hibi"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "en",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2024-11-29T21:09:32+00:00"
+ "updatedAt": "2024-12-01T21:57:59+00:00"
 }

@@ -6,32 +6,13 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
+   "id": "2b824280-e9b8-4aca-9809-0a260753b668",
    "title": {
-    "en": "Hello Baby"
+    "en": "Frog and Haru's Super Beast Comic"
    },
    "contentRating": "safe",
-   "score": 0.25555065,
+   "score": 0.27753073,
    "languages": [
-    "ca",
-    "en",
-    "hu",
-    "pl",
-    "pt-br",
-    "ro",
-    "de"
-   ]
-  },
-  {
-   "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
-   "title": {
-    "en": "Dr. Chanbelee"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "ro",
-    "pl",
     "en"
    ]
   },
@@ -50,12 +31,42 @@
    ]
   },
   {
+   "id": "2421081a-144f-4775-acba-5e6bd19deb5e",
+   "title": {
+    "en": "Dr. Chanbelee"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "ro",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
+   "title": {
+    "en": "Hello Baby"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "ca",
+    "en",
+    "hu",
+    "pl",
+    "pt-br",
+    "ro",
+    "de"
+   ]
+  },
+  {
    "id": "16e91911-3f2d-4653-a466-08e8756e3f46",
    "title": {
     "en": "L∞P"
    },
    "contentRating": "safe",
-   "score": 0.25053528,
+   "score": 0.25053078,
    "languages": [
     "it",
     "pl",
@@ -81,7 +92,7 @@
     "en": "Enma"
    },
    "contentRating": "safe",
-   "score": 0.23770148,
+   "score": 0.2377003,
    "languages": [
     "en"
    ]
@@ -92,7 +103,7 @@
     "en": "Dragon and Chameleon"
    },
    "contentRating": "safe",
-   "score": 0.2316168,
+   "score": 0.23161504,
    "languages": [
     "fr",
     "en",
@@ -100,74 +111,6 @@
     "pt-br",
     "ru",
     "es"
-   ]
-  },
-  {
-   "id": "db3b83d2-8b96-4059-9b5b-13b3af916daa",
-   "title": {
-    "en": "Welcome to Hellevator"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "e1b08943-1195-4eab-85a4-a7bfc0766eed",
-   "title": {
-    "en": "One-Armed Amy"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "fr",
-    "hu",
-    "hi",
-    "he",
-    "uk",
-    "en",
-    "it",
-    "pt-br",
-    "id",
-    "es-la",
-    "pl",
-    "ca",
-    "ru"
-   ]
-  },
-  {
-   "id": "18fd28b5-5187-47aa-8bb7-9da42eeaf8bd",
-   "title": {
-    "en": "Uso to Makoto"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d40aa845-bc0b-4c34-a5eb-99cf973e3935",
-   "title": {
-    "en": "Kesshoku no Shuugosha"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b5c35cb9-e7f0-42c4-acd5-2ea5e6e4fabf",
-   "title": {
-    "en": "Tasogare Schrödinger"
-   },
-   "contentRating": "safe",
-   "score": 0.22857143,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -188,40 +131,99 @@
    ]
   },
   {
-   "id": "014b8ceb-3a47-4004-9677-4a87c6186cac",
+   "id": "18fd28b5-5187-47aa-8bb7-9da42eeaf8bd",
    "title": {
-    "en": "Tengoku no Honya"
+    "en": "Uso to Makoto"
    },
    "contentRating": "safe",
-   "score": 0.22381271,
+   "score": 0.22857143,
    "languages": [
-    "de",
+    "en"
+   ]
+  },
+  {
+   "id": "b5c35cb9-e7f0-42c4-acd5-2ea5e6e4fabf",
+   "title": {
+    "en": "Tasogare Schrödinger"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e1b08943-1195-4eab-85a4-a7bfc0766eed",
+   "title": {
+    "en": "One-Armed Amy"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "fr",
+    "hu",
+    "hi",
+    "he",
+    "uk",
     "en",
-    "pt-br"
+    "ro",
+    "it",
+    "pt-br",
+    "id",
+    "es-la",
+    "pl",
+    "ca",
+    "ru"
    ]
   },
   {
-   "id": "8e88a56f-6ba0-4fd1-890a-5adbb9c76b09",
+   "id": "d40aa845-bc0b-4c34-a5eb-99cf973e3935",
    "title": {
-    "en": "Sasabunechou Konjaku"
+    "en": "Kesshoku no Shuugosha"
    },
    "contentRating": "safe",
-   "score": 0.22131334,
+   "score": 0.22857143,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9036b5ac-80d7-47b9-96cb-8f0ae7cfd5b1",
+   "id": "db3b83d2-8b96-4059-9b5b-13b3af916daa",
    "title": {
-    "en": "Composi!"
+    "en": "Welcome to Hellevator"
+   },
+   "contentRating": "safe",
+   "score": 0.22857143,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "459958d1-4898-4c98-b4aa-193e2bc56a3d",
+   "title": {
+    "en": "Blood-Coloured Forbidden Territory"
    },
    "contentRating": "safe",
    "score": 0.22131334,
    "languages": [
-    "en"
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "c605289c-ee3e-49df-abb1-81630c8a6a24",
+   "title": {
+    "en": "Monster Cage"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en",
+    "pl",
+    "bg"
    ]
   }
  ],
- "updatedAt": "2024-11-29T20:49:25+00:00"
+ "updatedAt": "2024-12-01T21:38:01+00:00"
 }

@@ -6,14 +6,16 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "fc3654e2-a856-477c-ba58-96eff2bc9006",
+   "id": "2a7ba330-e570-4713-9ea7-eb32f5f05d20",
    "title": {
-    "en": "Metamo Kiss"
+    "en": "A World Ruled By Cats"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "pt-br"
+    "pl",
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -28,16 +30,14 @@
    ]
   },
   {
-   "id": "2a7ba330-e570-4713-9ea7-eb32f5f05d20",
+   "id": "fc3654e2-a856-477c-ba58-96eff2bc9006",
    "title": {
-    "en": "A World Ruled By Cats"
+    "en": "Metamo Kiss"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "pl",
-    "pt-br",
-    "en"
+    "pt-br"
    ]
   },
   {
@@ -46,7 +46,7 @@
     "en": "Devil's Love"
    },
    "contentRating": "safe",
-   "score": 0.26269037,
+   "score": 0.26270697,
    "languages": [
     "pt-br"
    ]
@@ -57,7 +57,7 @@
     "en": "Shirayuki"
    },
    "contentRating": "safe",
-   "score": 0.23406777,
+   "score": 0.23409195,
    "languages": [
     "pt-br"
    ]
@@ -68,23 +68,10 @@
     "en": "Christmas No Sono Mae Ni"
    },
    "contentRating": "safe",
-   "score": 0.23331268,
+   "score": 0.23332156,
    "languages": [
     "pt-br",
     "tr"
-   ]
-  },
-  {
-   "id": "a1bd0965-7ea2-40e0-b686-5dcddacdd0c6",
-   "title": {
-    "en": "Mermaid Boys"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en"
    ]
   },
   {
@@ -98,69 +85,6 @@
     "en",
     "es-la",
     "pt-br"
-   ]
-  },
-  {
-   "id": "ae447c62-4aaf-4a5b-851c-f93ec6a2a62d",
-   "title": {
-    "en": "Kaze no Kaeru Basho"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "bg",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "20054acb-037a-4a78-8caa-3a41127dbf4b",
-   "title": {
-    "en": "Prickly Day"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "4bee61b1-f0c3-40a7-b4fd-517057bbac7a",
-   "title": {
-    "en": "Heart no Kuni no Alice ~ Wonderful Wonderful World~ Theatrical Version (Anthology)"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "f588a877-6a89-4d7e-9c0e-b1ffb5203d11",
-   "title": {
-    "en": "Akazukin to, Koisuru Ookami"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "df1461ec-becf-4918-93c2-360ffc64fdae",
-   "title": {
-    "en": "Flower Crown"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pt-br",
-    "en",
-    "pl"
    ]
   },
   {
@@ -188,6 +112,71 @@
    ]
   },
   {
+   "id": "df1461ec-becf-4918-93c2-360ffc64fdae",
+   "title": {
+    "en": "Flower Crown"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "20054acb-037a-4a78-8caa-3a41127dbf4b",
+   "title": {
+    "en": "Prickly Day"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "beab053f-c265-42ca-b387-a20017748f7c",
+   "title": {
+    "en": "Devil's Curse and Secret"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "es-la",
+    "pt-br",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "a1bd0965-7ea2-40e0-b686-5dcddacdd0c6",
+   "title": {
+    "en": "Mermaid Boys"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "f588a877-6a89-4d7e-9c0e-b1ffb5203d11",
+   "title": {
+    "en": "Akazukin to, Koisuru Ookami"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl"
+   ]
+  },
+  {
    "id": "7c4ac82c-b8ad-4e83-8fb5-a8b15d439908",
    "title": {
     "en": "Those With Wings"
@@ -206,7 +195,20 @@
     "id",
     "en"
    ]
+  },
+  {
+   "id": "ae447c62-4aaf-4a5b-851c-f93ec6a2a62d",
+   "title": {
+    "en": "Kaze no Kaeru Basho"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "bg",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-11-29T20:32:32+00:00"
+ "updatedAt": "2024-12-01T21:21:04+00:00"
 }

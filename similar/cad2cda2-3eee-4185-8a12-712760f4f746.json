@@ -6,25 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "68fe48a6-3d49-41fb-ab17-9ac48d33214e",
-   "title": {
-    "en": "Forest of the Jade Bird"
-   },
-   "contentRating": "safe",
-   "score": 0.31841496,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c1af11a0-100e-4164-be35-b33a87dcb0e0",
    "title": {
     "en": "Tales of Xillia SIDE;MILLA"
    },
    "contentRating": "safe",
-   "score": 0.27336282,
+   "score": 0.34897363,
    "languages": [
     "it",
+    "en"
+   ]
+  },
+  {
+   "id": "68fe48a6-3d49-41fb-ab17-9ac48d33214e",
+   "title": {
+    "en": "Forest of the Jade Bird"
+   },
+   "contentRating": "safe",
+   "score": 0.2555815,
+   "languages": [
     "en"
    ]
   },
@@ -34,7 +34,7 @@
     "en": "Accidental Warrior"
    },
    "contentRating": "safe",
-   "score": 0.19603425,
+   "score": 0.19623393,
    "languages": [
     "en",
     "pl"
@@ -66,12 +66,12 @@
    ]
   },
   {
-   "id": "e312b2f7-f06b-4e2f-99c2-10c3a769a3c8",
+   "id": "8d81259a-6dfd-4881-8796-ea5577417d43",
    "title": {
-    "en": "Kaijidou Mokuroku"
+    "en": "Shukufuku no Kuro to Hametsu no Shiro - Dragon Knights II"
    },
    "contentRating": "safe",
-   "score": 0.18594697,
+   "score": 0.18442778,
    "languages": [
     "en"
    ]
@@ -88,34 +88,12 @@
    ]
   },
   {
-   "id": "0fdeae50-143c-44ba-aa69-ef3298a1aae0",
-   "title": {
-    "en": "Dragon Knights - Search For the Legendary King"
-   },
-   "contentRating": "safe",
-   "score": 0.18442778,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8d81259a-6dfd-4881-8796-ea5577417d43",
-   "title": {
-    "en": "Shukufuku no Kuro to Hametsu no Shiro - Dragon Knights II"
-   },
-   "contentRating": "safe",
-   "score": 0.18442778,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "3e7c6d22-dfe4-462f-9d31-298313543bdb",
    "title": {
     "en": "Mr. Mallow Blue"
    },
    "contentRating": "safe",
-   "score": 0.18226112,
+   "score": 0.18280451,
    "languages": [
     "en",
     "id",
@@ -128,7 +106,7 @@
     "en": "The Young Magician"
    },
    "contentRating": "safe",
-   "score": 0.18200259,
+   "score": 0.18210152,
    "languages": [
     "en"
    ]
@@ -139,7 +117,7 @@
     "en": "Phoenix Against the World"
    },
    "contentRating": "safe",
-   "score": 0.18123105,
+   "score": 0.18162553,
    "languages": [
     "en",
     "de"
@@ -178,6 +156,28 @@
    ]
   },
   {
+   "id": "e312b2f7-f06b-4e2f-99c2-10c3a769a3c8",
+   "title": {
+    "en": "Kaijidou Mokuroku"
+   },
+   "contentRating": "safe",
+   "score": 0.17846952,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "866fe726-79da-4984-90d0-487dc89f03a1",
+   "title": {
+    "en": "The Scapedog's Blood"
+   },
+   "contentRating": "safe",
+   "score": 0.17232119,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "57642280-65de-4879-a6e2-2e0420237369",
    "title": {
     "en": "Tenkuu Seiryuu: Innocent Dragon"
@@ -201,5 +201,5 @@
    ]
   }
  ],
- "updatedAt": "2024-11-29T21:00:42+00:00"
+ "updatedAt": "2024-12-01T21:49:13+00:00"
 }

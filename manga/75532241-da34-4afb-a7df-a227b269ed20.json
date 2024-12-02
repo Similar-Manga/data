@@ -24,13 +24,18 @@
   },
   "links": {
    "al": "30859",
+   "amz": "https://www.amazon.co.jp/dp/B0DN9HTBT4",
    "ap": "pineapple-army",
+   "bw": "series/498672",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/865882/",
    "kt": "1875",
    "mal": "859",
-   "mu": "6213"
+   "mu": "6213",
+   "raw": "https://www.shogakukan.co.jp/books/volume/16896"
   },
   "originalLanguage": "ja",
-  "lastVolume": "8",
+  "lastVolume": "6",
+  "lastChapter": "11",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 1985,
@@ -187,9 +192,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2018-03-20T02:25:50+00:00",
-  "updatedAt": "2022-02-03T02:23:47+00:00"
+  "updatedAt": "2024-11-29T14:43:01+00:00"
  },
  "relationships": [
   {
@@ -247,16 +252,16 @@
    }
   },
   {
-   "id": "81c1e667-5457-4f93-9bb5-94479f2d141f",
+   "id": "375f5acb-d737-4134-8430-540a1b0b188b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:19:58+00:00",
+    "createdAt": "2024-11-29T14:43:00+00:00",
     "description": "",
-    "fileName": "e1291997-e8b6-4a70-b883-0662d455f74f.jpg",
+    "fileName": "d9dabc30-5a69-4b33-bd10-99d67e50466f.jpg",
     "locale": "ja",
-    "updatedAt": "2022-02-03T02:23:46+00:00",
-    "version": 2,
-    "volume": "1"
+    "updatedAt": "2024-11-29T14:43:00+00:00",
+    "version": 1,
+    "volume": "6"
    }
   }
  ]

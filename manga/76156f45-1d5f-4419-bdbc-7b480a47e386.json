@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Lucifugus"
+   "en": "lucifugus"
   },
   "altTitles": [
    {
@@ -11,12 +11,13 @@
    }
   ],
   "description": {
-   "en": "The story of a girl who lives in a dark and quiet village. There is a gate in the village. \"No children approached that gate,\" it was an unspoken rule. Until one day, the girl met someone who will change her fate."
+   "en": "The story of a girl who lives in a dark and quiet village. There is a gate in the village. \"No children approached that gate,\" it was an unspoken rule. Until one day, the girl met someone who will change her fate.\n\n---\n\n* Alternative Official Raw - [Fanbox](https://fanbox.cc/@somato/posts/232235)"
   },
   "links": {
+   "al": "184904",
    "mal": "172621",
    "mu": "3s9iofe",
-   "raw": "https://somato.fanbox.cc/posts/232235"
+   "raw": "https://www.suruga-ya.jp/product/detail/ZHORO7183"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shoujo",
@@ -35,6 +36,18 @@
     "attributes": {
      "name": {
       "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
      },
      "description": {},
      "group": "format",
@@ -79,9 +92,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2024-07-28T04:56:15+00:00",
-  "updatedAt": "2024-08-09T23:51:14+00:00"
+  "updatedAt": "2024-12-01T02:40:13+00:00"
  },
  "relationships": [
   {
@@ -89,7 +102,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "Alt names:\nSomato\nソウマトウ\nMayoibashi\nまよいばし\n\nA mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou."
+     "en": "A mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou.\n\n**Native name**: ソウマトウ\n\n**Alt. names**:\nSomato\n\n**Circle/s**:\n[Mayoibashi](https://mangadex.org/author/96c89a37-2bb1-4785-83fd-25218d223808) (まよいばし)\n"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -105,9 +118,37 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/somatoma",
-    "updatedAt": "2023-04-22T19:09:42+00:00",
-    "version": 3,
+    "updatedAt": "2024-12-01T01:51:08+00:00",
+    "version": 4,
     "website": "https://so-ma-to.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96c89a37-2bb1-4785-83fd-25218d223808",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: まよいばし\n\n**Members**:\n[Soumatou](https://mangadex.org/author/5e6ad669-80d4-4818-bb8c-dfad9464b32a)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T19:29:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mayoibashi (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-01T01:51:27+00:00",
+    "version": 3,
+    "website": null,
     "weibo": null,
     "youtube": null
    }
@@ -117,7 +158,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "Alt names:\nSomato\nソウマトウ\nMayoibashi\nまよいばし\n\nA mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou."
+     "en": "A mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou.\n\n**Native name**: ソウマトウ\n\n**Alt. names**:\nSomato\n\n**Circle/s**:\n[Mayoibashi](https://mangadex.org/author/96c89a37-2bb1-4785-83fd-25218d223808) (まよいばし)\n"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -133,9 +174,37 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/somatoma",
-    "updatedAt": "2023-04-22T19:09:42+00:00",
-    "version": 3,
+    "updatedAt": "2024-12-01T01:51:08+00:00",
+    "version": 4,
     "website": "https://so-ma-to.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96c89a37-2bb1-4785-83fd-25218d223808",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: まよいばし\n\n**Members**:\n[Soumatou](https://mangadex.org/author/5e6ad669-80d4-4818-bb8c-dfad9464b32a)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T19:29:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mayoibashi (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-01T01:51:27+00:00",
+    "version": 3,
+    "website": null,
     "weibo": null,
     "youtube": null
    }

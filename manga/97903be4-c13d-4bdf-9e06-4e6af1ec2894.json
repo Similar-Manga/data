@@ -16,11 +16,13 @@
     "en": "That Has Nothing to Do with This Story"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "* Alternative Official Raw - [Toranoana](https://ec.toranoana.jp/tora_r/ec/item/040030527208/)"
+  },
   "links": {
    "al": "162215",
    "mu": "rpaoi4j",
-   "raw": "https://ec.toranoana.jp/tora_r/ec/item/040030527208/"
+   "raw": "https://www.suruga-ya.jp/product/detail/ZHORO45085"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -58,6 +60,18 @@
     }
    },
    {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -71,9 +85,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 11,
   "createdAt": "2023-01-07T06:38:11+00:00",
-  "updatedAt": "2024-10-30T06:18:29+00:00"
+  "updatedAt": "2024-12-01T02:32:16+00:00"
  },
  "relationships": [
   {
@@ -81,7 +95,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "Alt names:\nSomato\nソウマトウ\nMayoibashi\nまよいばし\n\nA mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou."
+     "en": "A mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou.\n\n**Native name**: ソウマトウ\n\n**Alt. names**:\nSomato\n\n**Circle/s**:\n[Mayoibashi](https://mangadex.org/author/96c89a37-2bb1-4785-83fd-25218d223808) (まよいばし)\n"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -97,9 +111,37 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/somatoma",
-    "updatedAt": "2023-04-22T19:09:42+00:00",
-    "version": 3,
+    "updatedAt": "2024-12-01T01:51:08+00:00",
+    "version": 4,
     "website": "https://so-ma-to.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96c89a37-2bb1-4785-83fd-25218d223808",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: まよいばし\n\n**Members**:\n[Soumatou](https://mangadex.org/author/5e6ad669-80d4-4818-bb8c-dfad9464b32a)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T19:29:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mayoibashi (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-01T01:51:27+00:00",
+    "version": 3,
+    "website": null,
     "weibo": null,
     "youtube": null
    }
@@ -109,7 +151,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "Alt names:\nSomato\nソウマトウ\nMayoibashi\nまよいばし\n\nA mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou."
+     "en": "A mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou.\n\n**Native name**: ソウマトウ\n\n**Alt. names**:\nSomato\n\n**Circle/s**:\n[Mayoibashi](https://mangadex.org/author/96c89a37-2bb1-4785-83fd-25218d223808) (まよいばし)\n"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -125,9 +167,37 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/somatoma",
-    "updatedAt": "2023-04-22T19:09:42+00:00",
-    "version": 3,
+    "updatedAt": "2024-12-01T01:51:08+00:00",
+    "version": 4,
     "website": "https://so-ma-to.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96c89a37-2bb1-4785-83fd-25218d223808",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: まよいばし\n\n**Members**:\n[Soumatou](https://mangadex.org/author/5e6ad669-80d4-4818-bb8c-dfad9464b32a)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T19:29:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mayoibashi (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-01T01:51:27+00:00",
+    "version": 3,
+    "website": null,
     "weibo": null,
     "youtube": null
    }

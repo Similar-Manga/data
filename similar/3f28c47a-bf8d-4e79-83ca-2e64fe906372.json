@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "9818d8b0-6ec5-4427-b0d4-ae311231f76f",
+   "title": {
+    "en": "Boku no Ma na Musume"
+   },
+   "contentRating": "safe",
+   "score": 0.20559634,
+   "languages": [
+    "en",
+    "vi",
+    "id"
+   ]
+  },
+  {
    "id": "da7e2b0b-72a9-419c-b667-6a02c2c7c771",
    "title": {
     "en": "Isekai Kuimetsu no Same"
    },
    "contentRating": "safe",
-   "score": 0.20108283,
+   "score": 0.20432307,
    "languages": [
     "en",
     "es-la",
@@ -20,25 +33,29 @@
    ]
   },
   {
+   "id": "a220cb1c-cec6-42c1-b038-bf1ef64190d8",
+   "title": {
+    "en": "Majutsu Gakuin wo Shuseki de Sotsugyoushita Ore ga Boukensha wo Hajimeru no wa sonna ni okashii darouka"
+   },
+   "contentRating": "safe",
+   "score": 0.19827817,
+   "languages": [
+    "es-la",
+    "en",
+    "fr",
+    "pt-br",
+    "id"
+   ]
+  },
+  {
    "id": "03b16158-e216-4385-8796-27ea645d74bb",
    "title": {
     "en": "Uchi no Tsukaima ga Sumimasen"
    },
    "contentRating": "safe",
-   "score": 0.1963573,
+   "score": 0.19635849,
    "languages": [
     "ru"
-   ]
-  },
-  {
-   "id": "5212fcaa-0714-44bc-a429-017e3eff73de",
-   "title": {
-    "en": "Tsuraneko"
-   },
-   "contentRating": "safe",
-   "score": 0.17569628,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -53,18 +70,28 @@
    ]
   },
   {
-   "id": "a220cb1c-cec6-42c1-b038-bf1ef64190d8",
+   "id": "5212fcaa-0714-44bc-a429-017e3eff73de",
    "title": {
-    "en": "Majutsu Gakuin wo Shuseki de Sotsugyoushita Ore ga Boukensha wo Hajimeru no wa sonna ni okashii darouka"
+    "en": "Tsuraneko"
    },
    "contentRating": "safe",
-   "score": 0.17475364,
+   "score": 0.17569628,
    "languages": [
-    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "9e76dadd-e0c6-452a-9f7d-b9f2ae85bc35",
+   "title": {
+    "en": "Koroshiya no Oshi"
+   },
+   "contentRating": "safe",
+   "score": 0.16789787,
+   "languages": [
+    "vi",
     "en",
-    "fr",
     "pt-br",
-    "id"
+    "th"
    ]
   },
   {
@@ -83,33 +110,6 @@
     "pl",
     "es",
     "ar"
-   ]
-  },
-  {
-   "id": "9e76dadd-e0c6-452a-9f7d-b9f2ae85bc35",
-   "title": {
-    "en": "Koroshiya no Oshi"
-   },
-   "contentRating": "safe",
-   "score": 0.16789787,
-   "languages": [
-    "vi",
-    "en",
-    "pt-br",
-    "th"
-   ]
-  },
-  {
-   "id": "9818d8b0-6ec5-4427-b0d4-ae311231f76f",
-   "title": {
-    "en": "Boku no Ma na Musume"
-   },
-   "contentRating": "safe",
-   "score": 0.16766094,
-   "languages": [
-    "en",
-    "vi",
-    "id"
    ]
   },
   {
@@ -162,29 +162,6 @@
    ]
   },
   {
-   "id": "13a756d6-030b-479d-8f1b-648dfe9ab016",
-   "title": {
-    "en": "Asagiri no Miko"
-   },
-   "contentRating": "safe",
-   "score": 0.15795352,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ad61983f-99a4-42a0-8401-2aac9f655036",
-   "title": {
-    "en": "Ponkotsu Dai Shuryou-chan to Ossan Sentouin-san."
-   },
-   "contentRating": "safe",
-   "score": 0.15714753,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
    "id": "23aadc44-d2fe-46ca-83a6-6c86fd36ee12",
    "title": {
     "en": "Bouken ni wa, Buki ga Hitsuyou da! ~Kodawari Rudy no Kajiya Gurashi~"
@@ -212,6 +189,18 @@
    ]
   },
   {
+   "id": "ad61983f-99a4-42a0-8401-2aac9f655036",
+   "title": {
+    "en": "Ponkotsu Dai Shuryou-chan to Ossan Sentouin-san."
+   },
+   "contentRating": "safe",
+   "score": 0.15714753,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
    "id": "84be43e7-07cf-4562-b08b-e5b248f8f4c1",
    "title": {
     "en": "DAMiYAN!"
@@ -222,7 +211,18 @@
     "ru",
     "en"
    ]
+  },
+  {
+   "id": "56af95d1-8a44-48e7-afd2-49a5a15a6276",
+   "title": {
+    "en": "Nobo-san to Kanojo?"
+   },
+   "contentRating": "safe",
+   "score": 0.15390638,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-11-29T20:13:46+00:00"
+ "updatedAt": "2024-12-01T21:02:21+00:00"
 }

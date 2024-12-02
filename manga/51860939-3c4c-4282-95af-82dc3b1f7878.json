@@ -1,0 +1,159 @@
+{
+ "id": "51860939-3c4c-4282-95af-82dc3b1f7878",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Futsuu no Keionbu (Pre-Serialization)"
+  },
+  "altTitles": [
+   {
+    "ja": "ふつうの軽音部 (Pre-Serialization)"
+   },
+   {
+    "en": "An Ordinary Light Music Club (Pre-Serialization)"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/kuwahali/status/1602226960188731392"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2022,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "es-la"
+  ],
+  "latestUploadedChapter": "1d2731a3-fa6f-49cc-b896-dd7c15a9b09a",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Music"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-11-30T00:17:16+00:00",
+  "updatedAt": "2024-12-01T03:32:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1138743f-5eed-4a42-b0ed-6f34fb301090",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-01-02T16:11:21+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuwahali",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kuwahali",
+    "updatedAt": "2024-01-02T16:12:42+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1138743f-5eed-4a42-b0ed-6f34fb301090",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-01-02T16:11:21+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuwahali",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kuwahali",
+    "updatedAt": "2024-01-02T16:12:42+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "79f25614-cf5d-4670-b269-7a7b201c1793",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-30T00:17:21+00:00",
+    "description": "",
+    "fileName": "c12a1c28-4775-4046-a0f4-5baea9846602.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-30T00:17:21+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "7b727ae2-2842-4c46-af8b-9162b7806659",
+   "type": "manga",
+   "related": "serialization"
+  },
+  {
+   "id": "f5beecef-a6fd-476d-875d-9080cb2d5c51",
+   "type": "creator"
+  }
+ ]
+}

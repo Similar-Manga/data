@@ -17,7 +17,7 @@
    }
   ],
   "description": {
-   "en": "There is an old rumor about cats in the ancient capital of Kamakura—that if you go to the \"Bakeneko Club\" somewhere in Kamakura, you will find a cat that has disappeared. Today, too, people wander into the \"Kamakura Neko Club\" where Maya and Gakuto work, relying on this rumor."
+   "en": "There exists an old rumor relating to cats within the ancient capital of Kamakura... that if you go to the \"Bakeneko Club\", located somewhere in Kamakura, you can meet cats that have gone missing. Even today, people wander into \"Kamakura Neko Club\", where Maya and Gakuto work, relying on this rumor."
   },
   "links": {
    "al": "154441",
@@ -95,9 +95,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 9,
   "createdAt": "2023-05-25T22:59:05+00:00",
-  "updatedAt": "2024-11-21T09:02:05+00:00"
+  "updatedAt": "2024-12-01T09:27:05+00:00"
  },
  "relationships": [
   {
@@ -164,6 +164,11 @@
     "version": 1,
     "volume": "2"
    }
+  },
+  {
+   "id": "a4c2903a-3c9a-484f-8f19-abc445da3dc1",
+   "type": "manga",
+   "related": "preserialization"
   },
   {
    "id": "132c7600-c1bd-4263-bcaf-c0e0c1a644ab",

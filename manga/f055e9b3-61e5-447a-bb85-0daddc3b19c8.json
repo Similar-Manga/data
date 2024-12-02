@@ -1,0 +1,153 @@
+{
+ "id": "f055e9b3-61e5-447a-bb85-0daddc3b19c8",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shuukai Juutakuchi"
+  },
+  "altTitles": [
+   {
+    "ja": "醜怪住宅地"
+   },
+   {
+    "en": "Ugly Residential Area"
+   }
+  ],
+  "description": {
+   "en": "[Warning] This is not recommended for those who do not like scary stories. \n\nWhen his wife and child are attacked by a ghost, he desperately calls an exorcist for help... A new era of horror story!"
+  },
+  "links": {
+   "raw": "https://shonenjumpplus.com/episode/3269754496521807956"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-01T09:13:57+00:00",
+  "updatedAt": "2024-12-01T09:14:06+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f6ac2b0a-9a60-4147-beb8-73856c6605d2",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-02T08:44:21+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ayumi Natori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ayuminatori",
+    "updatedAt": "2024-11-29T01:35:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f6ac2b0a-9a60-4147-beb8-73856c6605d2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-02T08:44:21+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ayumi Natori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ayuminatori",
+    "updatedAt": "2024-11-29T01:35:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "73c273c7-fc36-4e26-ac27-9defed9db7a6",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-01T09:13:58+00:00",
+    "description": "",
+    "fileName": "85711476-f30d-41d2-ba83-1b064c19d961.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-01T09:13:58+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "6092f862-12ce-4c55-9f82-af8a17e8638b",
+   "type": "creator"
+  }
+ ]
+}

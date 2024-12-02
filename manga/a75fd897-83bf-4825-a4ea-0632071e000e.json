@@ -3,20 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Story of a Waitress and Her Customer"
+   "en": "Toaru Tenin to Kyaku no Hanashi"
   },
   "altTitles": [
    {
     "ja": "とある店員と客の話"
    },
    {
-    "ja-ro": "Toaru Tenin to Kyaku no Hanashi"
+    "en": "The Story of a Waitress and Her Customer"
    },
    {
-    "uk": "Історія Служки та її Відвідувача"
-   },
-   {
-    "uk": "Історія офіціантки та її відвідувача"
+    "ko": "어느 점원과 손님 이야기"
    },
    {
     "fr": "L'histoire d'une serveuse et de son client"
@@ -25,12 +22,16 @@
     "es": "La historia de una camarera y su cliente"
    },
    {
-    "ko": "어느 점원과 손님 이야기"
+    "uk": "Історія Служки та її Відвідувача"
+   },
+   {
+    "uk": "Історія офіціантки та її відвідувача"
    }
   ],
   "description": {
-   "en": "Saki, a college student working at an izakaya, has a crush on Shiraishi, an office worker who is a regular customer. Be brave for your first love today! I gave him a love letter and… Shiraishi also has no experience in love?! A heartwarming love comedy♪",
+   "en": "Saki, a college student working at an izakaya, has a crush on Shiraishi, an office worker who is a regular customer. Be brave for your first love today! I gave him a love letter and… Shiraishi also has no experience in love?!",
    "es": "Saki, una estudiante universitaria que trabaja en un bar de estilo izakaya, esta enamorada de Shiraishi, un oficinista que es un cliente regular en el bar. ¡Sé valiente por tu primer amor hoy! Le dí una carta de amor y… ¿¡Shiraishi tampoco tiene experiencia con el amor!? Una acogedora comedia romántica♪",
+   "ja": "居酒屋でバイトをする女子大生・咲は、常連客のサラリーマン・白石に片想い中。初めての恋に、今日こそはと勇気を出してラブレターを渡したら…なんと白石も恋愛経験ゼロだった!!　恋に不慣れな２人は、まず「友達」からお付き合いすることになったけど――。",
    "uk": "Сакі, студентка коледжу, яка працює в ізакаї, закохана у постійного клієнта Шіраїші. Протягом багатьох місяців вона хотіла розповісти йому про свої почуття. На жаль, через відсутність сміливості її любовний лист так і залишався не доставленим протягом півроку. Однак, нарешті настав день, коли вона його йому віддасть. Це початок зворушливої ​​історії між офіціанткою та її клієнтом."
   },
   "links": {
@@ -38,7 +39,7 @@
    "amz": "https://www.amazon.co.jp/dp/B093LDF4FP",
    "ap": "toaru-tenin-to-kyaku-no-hanashi",
    "bw": "series/243979",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/586826/",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/586826",
    "kt": "56409",
    "mal": "127067",
    "mu": "165632",
@@ -112,9 +113,9 @@
    }
   ],
   "state": "published",
-  "version": 16,
+  "version": 18,
   "createdAt": "2020-06-30T11:43:16+00:00",
-  "updatedAt": "2024-11-02T18:44:09+00:00"
+  "updatedAt": "2024-11-29T21:02:20+00:00"
  },
  "relationships": [
   {
@@ -174,14 +175,14 @@
    }
   },
   {
-   "id": "cdc058dc-33b4-42f9-a1df-02917c432f9a",
+   "id": "8e075a62-262a-4ec9-bd9c-236399b64a1c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-06-19T04:04:34+00:00",
-    "description": "",
-    "fileName": "db57401c-f911-4d5e-a5a1-d6d76b08bc15.jpg",
+    "createdAt": "2024-11-29T21:02:25+00:00",
+    "description": "Volume 4 Cover from BookLive",
+    "fileName": "3160321b-82a6-49c3-ac74-2794ca440929.jpg",
     "locale": "ja",
-    "updatedAt": "2022-06-19T04:04:34+00:00",
+    "updatedAt": "2024-11-29T21:02:25+00:00",
     "version": 1,
     "volume": "4"
    }

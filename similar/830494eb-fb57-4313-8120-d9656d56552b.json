@@ -6,20 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "59c29efa-7bf1-44b6-90f3-1b392de26317",
-   "title": {
-    "en": "Saware Ai"
-   },
-   "contentRating": "safe",
-   "score": 0.30762744
-  },
-  {
    "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
    "title": {
     "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
-   "score": 0.29981974,
+   "score": 0.3115825,
    "languages": [
     "es-la",
     "vi",
@@ -35,7 +27,7 @@
     "en": "Nemuro-kun wa Kao ga Ii!"
    },
    "contentRating": "safe",
-   "score": 0.29707265,
+   "score": 0.30662054,
    "languages": [
     "en",
     "es-la",
@@ -43,12 +35,20 @@
    ]
   },
   {
+   "id": "5c6ab575-9884-4de8-b762-921c650ea134",
+   "title": {
+    "en": "Oshi Korosu"
+   },
+   "contentRating": "safe",
+   "score": 0.3054601
+  },
+  {
    "id": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
    "title": {
     "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
    },
    "contentRating": "safe",
-   "score": 0.29562843,
+   "score": 0.30401617,
    "languages": [
     "id",
     "pt-br",
@@ -56,42 +56,47 @@
    ]
   },
   {
-   "id": "c3016fde-2e45-4d0e-a674-968c097fd812",
+   "id": "d16f92a6-6f5f-442c-b011-b68abc986209",
    "title": {
-    "en": "Mental Gekikyou Hokeni no Chikarawaza Counseling"
+    "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.2911987
-  },
-  {
-   "id": "9a4faccd-d62c-47f1-9eb0-49f472b391f0",
-   "title": {
-    "en": "Itagaru Kimi ga Tamaranai"
-   },
-   "contentRating": "safe",
-   "score": 0.2858398
-  },
-  {
-   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
-   "title": {
-    "en": "Chigau Miyahara Omae janai!"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
+   "score": 0.29756135,
    "languages": [
     "vi",
-    "pt-br",
-    "es-la",
-    "en"
+    "en",
+    "ru",
+    "id",
+    "pt-br"
    ]
   },
   {
-   "id": "47e29ecf-b00b-483d-b922-5059f993dc90",
+   "id": "59c29efa-7bf1-44b6-90f3-1b392de26317",
    "title": {
-    "en": "Hana Nusubito wa Shounen no Uchi"
+    "en": "Saware Ai"
    },
    "contentRating": "safe",
-   "score": 0.28520605
+   "score": 0.2941619
+  },
+  {
+   "id": "acde33ef-d926-437a-b82e-e0d9b4b59741",
+   "title": {
+    "en": "Mashiba Kyoudai wa Kao ga Katai"
+   },
+   "contentRating": "safe",
+   "score": 0.29109275
+  },
+  {
+   "id": "41e0a561-e9c6-4c1a-8552-e399b5eba20c",
+   "title": {
+    "en": "Lever Gacha Archive"
+   },
+   "contentRating": "safe",
+   "score": 0.28627276,
+   "languages": [
+    "es-la",
+    "es"
+   ]
   },
   {
    "id": "39a038c6-9699-44fb-9e8a-5cb12fb4a748",
@@ -122,6 +127,14 @@
    ]
   },
   {
+   "id": "47e29ecf-b00b-483d-b922-5059f993dc90",
+   "title": {
+    "en": "Hana Nusubito wa Shounen no Uchi"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605
+  },
+  {
    "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
    "title": {
     "en": "Skip and Loafer"
@@ -139,18 +152,47 @@
    ]
   },
   {
-   "id": "d16f92a6-6f5f-442c-b011-b68abc986209",
+   "id": "6cc0f7c2-0db6-432b-8189-fcedbcdda888",
    "title": {
-    "en": "Houkago no Idol ni wa Himitsu ga aru"
+    "en": "Hitomi-chan Is Shy With Strangers"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "fr",
+    "ru",
+    "ar",
+    "id",
+    "hi",
+    "vi"
+   ]
+  },
+  {
+   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
+   "title": {
+    "en": "Chigau Miyahara Omae janai!"
    },
    "contentRating": "safe",
    "score": 0.28520605,
    "languages": [
     "vi",
-    "en",
-    "ru",
-    "id",
-    "pt-br"
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
+   "title": {
+    "en": "Tenshi-chan to Akuma-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -170,34 +212,7 @@
     "de",
     "pl"
    ]
-  },
-  {
-   "id": "860abf94-5bd3-48a1-a234-7e6821775663",
-   "title": {
-    "en": "Yamato Nadeshiko wa Kujikenai."
-   },
-   "contentRating": "safe",
-   "score": 0.28520605
-  },
-  {
-   "id": "de97e4ea-3f52-4d7f-a850-c826f6fe747c",
-   "title": {
-    "en": "Tonari ni Koakuma-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605
-  },
-  {
-   "id": "8ff245e6-df38-41ac-86db-886126c1910d",
-   "title": {
-    "en": "Tenshi-chan to Akuma-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605,
-   "languages": [
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-11-29T20:36:35+00:00"
+ "updatedAt": "2024-12-01T21:25:11+00:00"
 }

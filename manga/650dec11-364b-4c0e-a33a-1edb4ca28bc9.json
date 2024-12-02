@@ -44,13 +44,14 @@
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "ru",
+   "vi",
    "en",
    "pl",
    "it",
    "pt-br",
    "de"
   ],
-  "latestUploadedChapter": "bb531fc5-b748-44bd-8e92-515ad76627cc",
+  "latestUploadedChapter": "bb7736fd-fcf2-4cfe-a62c-322c0572ee9c",
   "tags": [
    {
     "id": "33771934-028e-4cb3-8744-691e866a923e",
@@ -101,6 +102,18 @@
     }
    },
    {
+    "id": "81183756-1453-4c81-aa9e-f6e1b63be016",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Samurai"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
     "type": "tag",
     "attributes": {
@@ -111,12 +124,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2018-01-27T00:21:00+00:00",
-  "updatedAt": "2024-11-25T17:27:21+00:00"
+  "updatedAt": "2024-11-30T12:43:53+00:00"
  },
  "relationships": [
   {

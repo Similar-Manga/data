@@ -6,12 +6,24 @@
  "contentRating": "suggestive",
  "matches": [
   {
+   "id": "1921a8ca-e9af-417a-beda-b02760a05e44",
+   "title": {
+    "en": "Crimson Grave"
+   },
+   "contentRating": "suggestive",
+   "score": 0.3381553,
+   "languages": [
+    "en",
+    "pl"
+   ]
+  },
+  {
    "id": "361bcb76-db8b-4702-bc6e-9504d555023f",
    "title": {
     "en": "Rairaiden"
    },
    "contentRating": "suggestive",
-   "score": 0.31724477,
+   "score": 0.31725857,
    "languages": [
     "it",
     "en",
@@ -20,24 +32,12 @@
    ]
   },
   {
-   "id": "1921a8ca-e9af-417a-beda-b02760a05e44",
-   "title": {
-    "en": "Crimson Grave"
-   },
-   "contentRating": "suggestive",
-   "score": 0.28102472,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "0730d8c0-620e-4452-882a-c1c4d7a45229",
    "title": {
     "en": "Shokushuhime"
    },
    "contentRating": "suggestive",
-   "score": 0.2543339,
+   "score": 0.25433546,
    "languages": [
     "en"
    ]
@@ -48,7 +48,7 @@
     "en": "Sekai de Yuiitsu no [Shinken Zukai] na no ni Senryokugai to Yobareta Ore, Kakusei Shita [Shinken] to Saikyou ni Naru"
    },
    "contentRating": "suggestive",
-   "score": 0.24393946,
+   "score": 0.24394408,
    "languages": [
     "en",
     "id"
@@ -60,7 +60,7 @@
     "en": "To the Sky of Monaco 2 ALAS ~ Shining Wings ~"
    },
    "contentRating": "suggestive",
-   "score": 0.23222047
+   "score": 0.23222141
   },
   {
    "id": "6251f857-38ca-46c5-8a6c-5dd495810552",
@@ -68,7 +68,7 @@
     "en": "Nise Seiken Monogatari - Osananajimi no Seijo o Uttara Michizure ni Sareta"
    },
    "contentRating": "suggestive",
-   "score": 0.22219081,
+   "score": 0.22219598,
    "languages": [
     "en",
     "ru",
@@ -82,23 +82,12 @@
     "en": "Kenseijo Adel no Yarinaoshi ~Kako ni Modotta Saikyou Kensei, Hime wo Sukuu Tame ni Seijo to Naru~"
    },
    "contentRating": "suggestive",
-   "score": 0.22141586,
+   "score": 0.22142108,
    "languages": [
     "en",
     "id",
     "es-la",
     "vi"
-   ]
-  },
-  {
-   "id": "8d26140f-1eba-4386-a9ea-59a109bf23a9",
-   "title": {
-    "en": "Usagi-chan de Cue!!"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22131334,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -124,21 +113,14 @@
    ]
   },
   {
-   "id": "ade2f85e-7bb4-4c55-a9e5-b782765ba0ad",
+   "id": "8d26140f-1eba-4386-a9ea-59a109bf23a9",
    "title": {
-    "en": "Sekai no Owari no Encore"
+    "en": "Usagi-chan de Cue!!"
    },
    "contentRating": "suggestive",
-   "score": 0.21631727,
+   "score": 0.22131334,
    "languages": [
-    "pt-br",
-    "fr",
-    "en",
-    "es-la",
-    "id",
-    "ru",
-    "pl",
-    "es"
+    "en"
    ]
   },
   {
@@ -155,7 +137,7 @@
     "en": "7-Nin no Nemuri Hime"
    },
    "contentRating": "suggestive",
-   "score": 0.2084425,
+   "score": 0.2084441,
    "languages": [
     "fr",
     "vi",
@@ -164,25 +146,6 @@
     "pt-br",
     "id",
     "ru"
-   ]
-  },
-  {
-   "id": "1c54d218-f95e-42d2-8dcb-a4d07867ea72",
-   "title": {
-    "en": "Hyakka Ryouran - Samurai Girls"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19317813
-  },
-  {
-   "id": "f052d5c2-b564-4904-86cc-34aa5dfae2da",
-   "title": {
-    "en": "Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta ~Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru~"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19317813,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -196,7 +159,44 @@
     "pt-br",
     "en"
    ]
+  },
+  {
+   "id": "f052d5c2-b564-4904-86cc-34aa5dfae2da",
+   "title": {
+    "en": "Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta ~Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru~"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19317813,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1c54d218-f95e-42d2-8dcb-a4d07867ea72",
+   "title": {
+    "en": "Hyakka Ryouran - Samurai Girls"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19317813
+  },
+  {
+   "id": "60773286-5af5-4ebe-98ae-5495bfcc1fcb",
+   "title": {
+    "en": "Magika Swordsman and Summoner"
+   },
+   "contentRating": "suggestive",
+   "score": 0.19262853,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br",
+    "id",
+    "fr",
+    "vi",
+    "es",
+    "tr"
+   ]
   }
  ],
- "updatedAt": "2024-11-29T21:03:29+00:00"
+ "updatedAt": "2024-12-01T21:51:58+00:00"
 }

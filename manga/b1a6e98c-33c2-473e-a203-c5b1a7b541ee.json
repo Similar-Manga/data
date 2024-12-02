@@ -14,6 +14,9 @@
    },
    {
     "en": "I'll Give It My All...Tomorrow"
+   },
+   {
+    "ru": "Я просто ещё не сделал всё, что мог"
    }
   ],
   "description": {
@@ -39,9 +42,10 @@
   "year": 2007,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
+   "ru",
    "en"
   ],
-  "latestUploadedChapter": "7b813aca-7ce4-4fbb-afea-fa56e65271c1",
+  "latestUploadedChapter": "2b79466a-f14f-484d-9087-b908b092906f",
   "tags": [
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
@@ -126,24 +130,12 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Tragedy"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2019-06-12T03:49:30+00:00",
-  "updatedAt": "2024-05-08T15:36:35+00:00"
+  "updatedAt": "2024-12-01T08:59:41+00:00"
  },
  "relationships": [
   {

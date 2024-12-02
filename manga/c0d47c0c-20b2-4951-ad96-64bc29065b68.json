@@ -1,0 +1,216 @@
+{
+ "id": "c0d47c0c-20b2-4951-ad96-64bc29065b68",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Yamigen"
+  },
+  "altTitles": [
+   {
+    "ja": "闇現"
+   },
+   {
+    "ja-ro": "Yami Gen"
+   },
+   {
+    "en": "Existing Darkness"
+   }
+  ],
+  "description": {
+   "en": "Original horror doujinshi released at Comitia 95.",
+   "ja": "グロ表現ありのホラー漫画。表紙は黒い特殊紙に金刷りなのでデータとはちょっとイメージ変わります。"
+  },
+  "links": {
+   "raw": "https://www.suruga-ya.jp/product/detail/ZHORO11500"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2011,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-01T04:23:15+00:00",
+  "updatedAt": "2024-12-01T04:24:59+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5e6ad669-80d4-4818-bb8c-dfad9464b32a",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "A mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou.\n\n**Native name**: ソウマトウ\n\n**Alt. names**:\nSomato\n\n**Circle/s**:\n[Mayoibashi](https://mangadex.org/author/96c89a37-2bb1-4785-83fd-25218d223808) (まよいばし)\n"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://somato.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Soumatou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/422553",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/somatoma",
+    "updatedAt": "2024-12-01T01:51:08+00:00",
+    "version": 4,
+    "website": "https://so-ma-to.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96c89a37-2bb1-4785-83fd-25218d223808",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: まよいばし\n\n**Members**:\n[Soumatou](https://mangadex.org/author/5e6ad669-80d4-4818-bb8c-dfad9464b32a)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T19:29:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mayoibashi (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-01T01:51:27+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5e6ad669-80d4-4818-bb8c-dfad9464b32a",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "A mangaka duo consisting of writer and designer Nori (のり) and artist Hisshi (ひっし), who were former assistants of Saitou Pro, the manga studio of Takao Saitou.\n\n**Native name**: ソウマトウ\n\n**Alt. names**:\nSomato\n\n**Circle/s**:\n[Mayoibashi](https://mangadex.org/author/96c89a37-2bb1-4785-83fd-25218d223808) (まよいばし)\n"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://somato.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Soumatou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/422553",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/somatoma",
+    "updatedAt": "2024-12-01T01:51:08+00:00",
+    "version": 4,
+    "website": "https://so-ma-to.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96c89a37-2bb1-4785-83fd-25218d223808",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: まよいばし\n\n**Members**:\n[Soumatou](https://mangadex.org/author/5e6ad669-80d4-4818-bb8c-dfad9464b32a)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-26T19:29:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mayoibashi (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-01T01:51:27+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1dea48df-97f0-4c94-b3ee-e7e32ee0d21a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-01T04:23:17+00:00",
+    "description": "Cover from Pixiv:\r\nhttps://www.pixiv.net/en/artworks/16394354",
+    "fileName": "a54614d0-8306-4490-8790-063e299ad0d1.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-01T04:23:17+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c4ee0e05-b2f7-40c3-a910-c5b235468f2c",
+   "type": "creator"
+  }
+ ]
+}

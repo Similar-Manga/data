@@ -18,19 +18,24 @@
    "amz": "https://www.amazon.co.jp/dp/B014SV78ME",
    "ap": "himouto-umaru-chan-s",
    "bw": "series/53144",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1833071",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/328634/",
    "kt": "36108",
    "mal": "89408",
-   "mu": "109614"
+   "mu": "109614",
+   "raw": "https://manga.nicovideo.jp/comic/10149"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
-  "lastChapter": "13",
+  "lastChapter": "12",
   "status": "completed",
+  "year": 2014,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "en"
+   "en",
+   "vi"
   ],
-  "latestUploadedChapter": "093599f5-ac91-4af8-aea5-b370dd8d3d11",
+  "latestUploadedChapter": "d5a536fa-7fc7-4367-a018-bf9df654d420",
   "tags": [
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
@@ -46,9 +51,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2018-09-06T15:39:59+00:00",
-  "updatedAt": "2023-12-25T19:05:14+00:00"
+  "updatedAt": "2024-11-29T17:52:43+00:00"
  },
  "relationships": [
   {
@@ -108,22 +113,32 @@
    }
   },
   {
-   "id": "1d835e25-46b6-4f6f-ab73-833f31252077",
+   "id": "5ea343bd-738d-4f4a-b499-f0a75f84db2f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:44:08+00:00",
+    "createdAt": "2021-05-23T05:36:10+00:00",
     "description": "",
-    "fileName": "cdc5a518-2025-43b2-8927-30712a3edb3e.jpg",
+    "fileName": "b0d088f1-5ac3-40c6-8706-2c17877d28a4.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:44:08+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T05:36:10+00:00",
+    "version": 2,
+    "volume": "1"
    }
   },
   {
    "id": "04f7cd48-d429-4741-b821-5689d316ac1c",
    "type": "manga",
    "related": "adapted_from"
+  },
+  {
+   "id": "79f34a1a-d740-4a56-b8ff-85e314ec943f",
+   "type": "manga",
+   "related": "side_story"
+  },
+  {
+   "id": "7a6b2fc3-91d6-4e0f-89dd-e667732e9d3c",
+   "type": "manga",
+   "related": "sequel"
   }
  ]
 }

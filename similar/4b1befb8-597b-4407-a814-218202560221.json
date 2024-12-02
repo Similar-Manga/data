@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "f3fb4701-4958-4a92-8529-59f3cb99f938",
+   "title": {
+    "en": "Kigata Gakita! ~From \"Horror Newspaper\"~"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "1f07bed6-7431-4ea1-a69a-a0cd6bd7fceb",
    "title": {
     "en": "Memento Memori"
@@ -19,27 +30,14 @@
    ]
   },
   {
-   "id": "18a5117e-1cc1-406b-820a-417503886de7",
+   "id": "50d7b242-aab1-4848-832c-42735aee23be",
    "title": {
-    "en": "Aphorism"
+    "en": "Collapse of the World as We Know It"
    },
    "contentRating": "safe",
    "score": 0.22980437,
    "languages": [
-    "pl",
-    "en",
-    "de",
-    "es"
-   ]
-  },
-  {
-   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
-   "title": {
-    "en": "Metamorcode"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -60,6 +58,17 @@
    ]
   },
   {
+   "id": "bedc7551-3f75-4bf1-9155-e79fb5a2a801",
+   "title": {
+    "en": "Replay"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "811a001d-a10c-4c71-95c1-628da16396f2",
    "title": {
     "en": "Classroom"
@@ -72,9 +81,9 @@
    ]
   },
   {
-   "id": "bedc7551-3f75-4bf1-9155-e79fb5a2a801",
+   "id": "f7ce10e7-e074-4019-8a8b-5435f7385c86",
    "title": {
-    "en": "Replay"
+    "en": "Metamorcode"
    },
    "contentRating": "safe",
    "score": 0.22980437,
@@ -83,26 +92,17 @@
    ]
   },
   {
-   "id": "c180dadf-469a-489d-8316-b7394f0a2f8b",
+   "id": "18a5117e-1cc1-406b-820a-417503886de7",
    "title": {
-    "en": "Kuma-san to Issho"
+    "en": "Aphorism"
    },
    "contentRating": "safe",
    "score": 0.22980437,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "50d7b242-aab1-4848-832c-42735aee23be",
-   "title": {
-    "en": "Collapse of the World as We Know It"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "es-la",
-    "en"
+    "pl",
+    "en",
+    "de",
+    "es"
    ]
   },
   {
@@ -128,9 +128,9 @@
    ]
   },
   {
-   "id": "8440b7c1-e076-424c-874c-6944dcbb3b89",
+   "id": "2dead4db-6d7e-4853-b4a0-895168555425",
    "title": {
-    "en": "Dark Edge"
+    "en": "Calamity Lost"
    },
    "contentRating": "safe",
    "score": 0.20978172,
@@ -139,9 +139,23 @@
    ]
   },
   {
-   "id": "2dead4db-6d7e-4853-b4a0-895168555425",
+   "id": "7e50742e-76bc-44be-b561-ac6ce1681a63",
    "title": {
-    "en": "Calamity Lost"
+    "en": "Tokyo Ghoul: Redrawn"
+   },
+   "contentRating": "safe",
+   "score": 0.20978172,
+   "languages": [
+    "it",
+    "pt-br",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "8440b7c1-e076-424c-874c-6944dcbb3b89",
+   "title": {
+    "en": "Dark Edge"
    },
    "contentRating": "safe",
    "score": 0.20978172,
@@ -164,44 +178,33 @@
    ]
   },
   {
-   "id": "7e50742e-76bc-44be-b561-ac6ce1681a63",
-   "title": {
-    "en": "Tokyo Ghoul: Redrawn"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "it",
-    "pt-br",
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "d6b5f286-20ff-434c-a29e-1f8f518e2f52",
-   "title": {
-    "en": "Aozora to Kumorizora"
-   },
-   "contentRating": "safe",
-   "score": 0.20254786,
-   "languages": [
-    "es-la",
-    "en",
-    "vi",
-    "it"
-   ]
-  },
-  {
    "id": "e833c108-6342-4efa-bb82-738d075f277c",
    "title": {
     "en": "Oni ga Warau"
    },
    "contentRating": "safe",
-   "score": 0.19545466,
+   "score": 0.19545943,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "8dbe9bf3-aaba-4dae-9cb0-23de57f7744b",
+   "title": {
+    "en": "Thus Spoke Rohan Kishibe (Official Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
+    "pt-br",
+    "ru",
+    "en",
+    "id",
+    "fr",
+    "es-la",
+    "pl"
+   ]
   }
  ],
- "updatedAt": "2024-11-29T20:17:50+00:00"
+ "updatedAt": "2024-12-01T21:06:20+00:00"
 }

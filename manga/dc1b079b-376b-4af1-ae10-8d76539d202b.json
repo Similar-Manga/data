@@ -1,0 +1,95 @@
+{
+ "id": "dc1b079b-376b-4af1-ae10-8d76539d202b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Gubicha"
+  },
+  "altTitles": [
+   {
+    "ja": "ぐびちび"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-11-30T15:54:58+00:00",
+  "updatedAt": "2024-11-30T15:55:03+00:00"
+ },
+ "relationships": [
+  {
+   "id": "570262e3-0ef1-496e-8010-e739f5b38afc",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-30T15:54:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Saketamon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-30T15:54:15+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "570262e3-0ef1-496e-8010-e739f5b38afc",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-30T15:54:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Saketamon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-30T15:54:15+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c00e3c82-57d1-402d-82d1-4bca0b0c7d24",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-30T15:55:00+00:00",
+    "description": "",
+    "fileName": "3a26ee68-b551-42a2-96f2-7ace13757292.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-30T15:55:00+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "fb03ae91-2304-4a1f-b9e2-6b5ba3313138",
+   "type": "creator"
+  }
+ ]
+}

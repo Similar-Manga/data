@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "b7c3baa1-3603-4220-a5bf-8ddef5485505",
-   "title": {
-    "en": "Joujin Kamen"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619
-  },
-  {
    "id": "c511f79a-73b3-4c88-8994-b255cfa5b705",
    "title": {
     "en": "Evil Eater"
@@ -23,6 +15,14 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b7c3baa1-3603-4220-a5bf-8ddef5485505",
+   "title": {
+    "en": "Joujin Kamen"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619
   },
   {
    "id": "d1386b96-8c73-4d1b-a2d7-7cb306db66a1",
@@ -46,7 +46,7 @@
     "en": "Yougen no Chi"
    },
    "contentRating": "safe",
-   "score": 0.23433748,
+   "score": 0.23433588,
    "languages": [
     "en"
    ]
@@ -104,7 +104,7 @@
     "en": "Doku Doku Doku"
    },
    "contentRating": "safe",
-   "score": 0.20197883
+   "score": 0.20197862
   },
   {
    "id": "cd14a481-211e-43c7-b100-a1b466e93d6d",
@@ -112,24 +112,32 @@
     "en": "Nikubami Honegishimi"
    },
    "contentRating": "safe",
-   "score": 0.20174973,
+   "score": 0.2017493,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7e50742e-76bc-44be-b561-ac6ce1681a63",
+   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
    "title": {
-    "en": "Tokyo Ghoul: Redrawn"
+    "en": "Mercy"
    },
    "contentRating": "safe",
    "score": 0.20161438,
    "languages": [
-    "it",
-    "pt-br",
-    "pl",
-    "en"
+    "ru",
+    "fr",
+    "en",
+    "vi"
    ]
+  },
+  {
+   "id": "77d4b487-2aa3-4674-ba46-d238dcdc0280",
+   "title": {
+    "en": "Soushou Immortal Flower"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438
   },
   {
    "id": "4a907996-bf1d-4a34-a4ae-ab8e86de0ab6",
@@ -147,35 +155,27 @@
    ]
   },
   {
-   "id": "77d4b487-2aa3-4674-ba46-d238dcdc0280",
+   "id": "7e50742e-76bc-44be-b561-ac6ce1681a63",
    "title": {
-    "en": "Soushou Immortal Flower"
-   },
-   "contentRating": "safe",
-   "score": 0.20161438
-  },
-  {
-   "id": "bafe323a-3fcb-4146-9842-fce274ec012a",
-   "title": {
-    "en": "Mercy"
+    "en": "Tokyo Ghoul: Redrawn"
    },
    "contentRating": "safe",
    "score": 0.20161438,
    "languages": [
-    "ru",
-    "fr",
-    "en",
-    "vi"
+    "it",
+    "pt-br",
+    "pl",
+    "en"
    ]
   },
   {
-   "id": "dffca7ce-a89d-4dbf-a70c-598fc7dd96c1",
+   "id": "9528fde1-a28a-44bf-8317-9acab5a3c06d",
    "title": {
-    "en": "The Dreaming Machine"
+    "en": "Shin Jigokudou Reikai Tsuushin"
    },
    "contentRating": "safe",
-   "score": 0.19440396
+   "score": 0.20161438
   }
  ],
- "updatedAt": "2024-11-29T20:15:15+00:00"
+ "updatedAt": "2024-12-01T21:03:48+00:00"
 }

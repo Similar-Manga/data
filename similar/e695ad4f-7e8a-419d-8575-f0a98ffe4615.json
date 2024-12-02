@@ -11,7 +11,7 @@
     "en": "Kemutai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.30349335,
+   "score": 0.30348185,
    "languages": [
     "en",
     "zh-hk"
@@ -42,28 +42,6 @@
    ]
   },
   {
-   "id": "39b6cbe5-9706-4feb-a06e-57d905f47f5c",
-   "title": {
-    "en": "Botsuichi"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "39426737-0b65-4d7e-810d-9cf84caf0666",
-   "title": {
-    "en": "Kaji Ryuusuke's Agenda"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c8b5a61e-81d0-4a8d-a2d3-22ba8c409106",
    "title": {
     "en": "siSTAR regiSTAR"
@@ -88,12 +66,34 @@
    ]
   },
   {
+   "id": "39b6cbe5-9706-4feb-a06e-57d905f47f5c",
+   "title": {
+    "en": "Botsuichi"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "39426737-0b65-4d7e-810d-9cf84caf0666",
+   "title": {
+    "en": "Kaji Ryuusuke's Agenda"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
    "title": {
     "en": "Hirayasumi"
    },
    "contentRating": "safe",
-   "score": 0.2547524,
+   "score": 0.25475067,
    "languages": [
     "ar",
     "en",
@@ -110,63 +110,7 @@
     "en": "Nagomi Club"
    },
    "contentRating": "safe",
-   "score": 0.2504984,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "652c74f2-67fa-492f-85a7-38e6b27186f2",
-   "title": {
-    "en": "Semimaru Zanjitsuroku"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ddf50c41-6670-4cd1-b9bb-fe4a903caaa7",
-   "title": {
-    "en": "Channel wa Sonomama!"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a4e0af37-62a9-42e5-9102-8e1768cdbeb4",
-   "title": {
-    "en": "Sunny"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "60309abd-3552-4824-bab6-20086eade196",
-   "title": {
-    "en": "Kono Yo wa Tatakau Kachi ga Aru"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "b12f3c1d-9c12-432a-a9b5-3ec75aa614bd",
-   "title": {
-    "en": "Imadoki no Wakai Mon wa"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
+   "score": 0.25048462,
    "languages": [
     "en"
    ]
@@ -183,20 +127,81 @@
    ]
   },
   {
-   "id": "6b804c1a-2d85-4f09-b6ca-8b109e0191e6",
+   "id": "b12f3c1d-9c12-432a-a9b5-3ec75aa614bd",
    "title": {
-    "en": "Hana wa Saku, Shura no Gotoku"
+    "en": "Imadoki no Wakai Mon wa"
    },
    "contentRating": "safe",
    "score": 0.23276806,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1f0c5b8d-c962-48ec-b2d7-8091111b7ecc",
+   "title": {
+    "en": "Olga A Yiri"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "pt-br",
     "en",
-    "th",
-    "id",
-    "vi",
-    "es-la"
+    "ar"
+   ]
+  },
+  {
+   "id": "ddf50c41-6670-4cd1-b9bb-fe4a903caaa7",
+   "title": {
+    "en": "Channel wa Sonomama!"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "55226f5d-c4bb-4eff-95e6-896bf1977968",
+   "title": {
+    "en": "Nao Go Straight -Guide Dog Trainer-"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba",
+   "title": {
+    "en": "Madoromi Barmaid"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la",
+    "ru"
+   ]
+  },
+  {
+   "id": "6188bc67-804c-4a85-99b8-4cc7a872a388",
+   "title": {
+    "en": "Kanai-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "pl",
+    "ru",
+    "ar",
+    "en",
+    "pt-br",
+    "tr"
    ]
   }
  ],
- "updatedAt": "2024-11-29T21:10:00+00:00"
+ "updatedAt": "2024-12-01T21:58:27+00:00"
 }

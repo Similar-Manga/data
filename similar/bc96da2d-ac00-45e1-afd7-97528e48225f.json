@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "b81714ad-c2af-41d7-b658-8f27f1ad070c",
-   "title": {
-    "en": "Love Live! Sunshine!! Comic Anthology - Training Camp Edition"
-   },
-   "contentRating": "safe",
-   "score": 0.40622738,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "38ef3fbc-c78a-402f-af44-90784cf48ce9",
    "title": {
     "en": "THE iDOLM@STER Million Live! Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.38317075,
+   "score": 0.3958047,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b81714ad-c2af-41d7-b658-8f27f1ad070c",
+   "title": {
+    "en": "Love Live! Sunshine!! Comic Anthology - Training Camp Edition"
+   },
+   "contentRating": "safe",
+   "score": 0.3862171,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Love Live! Sunshine!! CYaRon! COMIC ANTHOLOGY"
    },
    "contentRating": "safe",
-   "score": 0.34989563,
+   "score": 0.34326878,
    "languages": [
     "en"
    ]
@@ -44,8 +44,20 @@
     "en": "GIRLS und PANZER - Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.31102192,
+   "score": 0.33688632,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "756c9aa3-ad1e-4282-9123-f392ab96eccf",
+   "title": {
+    "en": "Love Live Sunshine: School Idol Diary"
+   },
+   "contentRating": "safe",
+   "score": 0.32323748,
+   "languages": [
+    "vi",
     "en"
    ]
   },
@@ -55,30 +67,7 @@
     "en": "Umamusume: Pretty Derby Anthology Comic STAR"
    },
    "contentRating": "safe",
-   "score": 0.2859762,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2032a0d6-e9f8-4f48-955e-8e5e7f6668c7",
-   "title": {
-    "en": "Fate/Grand Order: Dengeki Comic Anthology"
-   },
-   "contentRating": "safe",
-   "score": 0.27779815,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "6884aad3-efb1-4145-b8e7-553d0f6ebb02",
-   "title": {
-    "en": "Last Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.27560988,
+   "score": 0.31515032,
    "languages": [
     "en"
    ]
@@ -89,48 +78,7 @@
     "en": "Persona 4 Anthology Comic ~ Seishun Drop ~ (HJ Comics)"
    },
    "contentRating": "safe",
-   "score": 0.27218017,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8c953456-55a6-4294-913c-3f5f640711b1",
-   "title": {
-    "en": "Hoteri Hotette First Kiss"
-   },
-   "contentRating": "safe",
-   "score": 0.2684321,
-   "languages": [
-    "en",
-    "ru",
-    "fr",
-    "id",
-    "es-la"
-   ]
-  },
-  {
-   "id": "4b1b5cc9-1889-4ebc-b613-f7e2142ff2fe",
-   "title": {
-    "en": "Bocchi The Rock! Anthology Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.26746756,
-   "languages": [
-    "en",
-    "id",
-    "es-la",
-    "fr",
-    "vi"
-   ]
-  },
-  {
-   "id": "af13b8e7-5175-4663-985c-fa94e6423464",
-   "title": {
-    "en": "THE iDOLM@STER Cinderella Girls - Comic Anthology passion"
-   },
-   "contentRating": "safe",
-   "score": 0.26439157,
+   "score": 0.30547342,
    "languages": [
     "en"
    ]
@@ -141,7 +89,95 @@
     "en": "Kagerou Days Official Anthology Comic -REMEMBER-"
    },
    "contentRating": "safe",
-   "score": 0.26425806,
+   "score": 0.3006797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "af13b8e7-5175-4663-985c-fa94e6423464",
+   "title": {
+    "en": "THE iDOLM@STER Cinderella Girls - Comic Anthology passion"
+   },
+   "contentRating": "safe",
+   "score": 0.29578274,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2032a0d6-e9f8-4f48-955e-8e5e7f6668c7",
+   "title": {
+    "en": "Fate/Grand Order: Dengeki Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.29297513,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "4b1b5cc9-1889-4ebc-b613-f7e2142ff2fe",
+   "title": {
+    "en": "Bocchi The Rock! Anthology Comic"
+   },
+   "contentRating": "safe",
+   "score": 0.27998996,
+   "languages": [
+    "en",
+    "id",
+    "es-la",
+    "fr",
+    "vi"
+   ]
+  },
+  {
+   "id": "6884aad3-efb1-4145-b8e7-553d0f6ebb02",
+   "title": {
+    "en": "Last Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.2797472,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8c953456-55a6-4294-913c-3f5f640711b1",
+   "title": {
+    "en": "Hoteri Hotette First Kiss"
+   },
+   "contentRating": "safe",
+   "score": 0.27466524,
+   "languages": [
+    "en",
+    "ru",
+    "fr",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "d6c0ac83-b104-4fdb-a909-62a08cdb6b1d",
+   "title": {
+    "en": "New Danganronpa V3 Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.268747,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "882e338e-0105-4305-a380-655bc303036b",
+   "title": {
+    "en": "Fate/Grand Order Comic Anthology"
+   },
+   "contentRating": "safe",
+   "score": 0.25860798,
    "languages": [
     "en"
    ]
@@ -152,44 +188,11 @@
     "en": "Kiss Me Host-Gumi"
    },
    "contentRating": "safe",
-   "score": 0.2544486,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "994536a8-d114-41d5-86d0-b1df89778c8c",
-   "title": {
-    "en": "Kiss Him, Not Me SPIN-OFF MANGA"
-   },
-   "contentRating": "safe",
-   "score": 0.25249496,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "417b2342-7366-4596-9944-45caa21314ce",
-   "title": {
-    "en": "Scratch!!"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c98e66b6-1957-4f5e-bb38-3a023e96c6b0",
-   "title": {
-    "en": "K-ON! Story Anthology Comic"
-   },
-   "contentRating": "safe",
-   "score": 0.2472941,
+   "score": 0.25619283,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-11-29T20:56:02+00:00"
+ "updatedAt": "2024-12-01T21:44:33+00:00"
 }

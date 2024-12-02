@@ -1,0 +1,133 @@
+{
+ "id": "29bc613f-8e70-4b78-bda7-13e62089b83e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Magical Girl Division"
+  },
+  "altTitles": [
+   {
+    "ja": "魔法少女課"
+   },
+   {
+    "ja-ro": "Mahou Shoujo ka"
+   }
+  ],
+  "description": {
+   "en": "**Alternative Official Raw:**\n- [Pixiv](https://www.pixiv.net/artworks/124714244)"
+  },
+  "links": {
+   "raw": "https://twitter.com/avogado6/status/1861751050644131923"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en",
+   "vi"
+  ],
+  "latestUploadedChapter": "30d8a3ff-6f49-41f3-9a81-87f0c45b6236",
+  "tags": [
+   {
+    "id": "81c836c9-914a-4eca-981a-560dad663e73",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magical Girls"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-11-30T00:58:30+00:00",
+  "updatedAt": "2024-11-30T00:59:00+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d55ebaac-e7f7-4f34-b64d-044ad9fc733c",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Avogado6",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": "https://www.nicovideo.jp/user/5237367/",
+    "pixiv": "https://www.pixiv.net/en/users/883091",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/avogado6",
+    "updatedAt": "2022-03-01T02:38:05+00:00",
+    "version": 2,
+    "website": "https://www.avogado6.com/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCY1YlKxzCnq0W_k-sBEtALQ"
+   }
+  },
+  {
+   "id": "d55ebaac-e7f7-4f34-b64d-044ad9fc733c",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Avogado6",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": "https://www.nicovideo.jp/user/5237367/",
+    "pixiv": "https://www.pixiv.net/en/users/883091",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/avogado6",
+    "updatedAt": "2022-03-01T02:38:05+00:00",
+    "version": 2,
+    "website": "https://www.avogado6.com/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCY1YlKxzCnq0W_k-sBEtALQ"
+   }
+  },
+  {
+   "id": "2e0842c9-651e-4d5c-9084-0848e7c8c010",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-11-30T00:58:35+00:00",
+    "description": "",
+    "fileName": "97e8644b-4c37-434d-9521-aee46477dbb9.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-11-30T00:58:35+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "f97a9a67-01cc-48d0-a542-59ea341174c0",
+   "type": "creator"
+  }
+ ]
+}

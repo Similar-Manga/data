@@ -11,7 +11,7 @@
     "en": "Emiya-san Chi no Kyou no Gohan"
    },
    "contentRating": "safe",
-   "score": 0.35958168,
+   "score": 0.35951117,
    "languages": [
     "fr",
     "en",
@@ -25,7 +25,7 @@
     "en": "A Meal Makes Her Forget"
    },
    "contentRating": "safe",
-   "score": 0.32698023,
+   "score": 0.32687885,
    "languages": [
     "en"
    ]
@@ -36,21 +36,10 @@
     "en": "Shima-san"
    },
    "contentRating": "safe",
-   "score": 0.3213792,
+   "score": 0.32139763,
    "languages": [
     "en",
     "zh"
-   ]
-  },
-  {
-   "id": "b9dcc38e-9427-4742-b82b-50a009e7348b",
-   "title": {
-    "en": "Gohoubi Gohan"
-   },
-   "contentRating": "safe",
-   "score": 0.2940656,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -59,7 +48,7 @@
     "en": "Itadaki! Nariagari Meshi"
    },
    "contentRating": "safe",
-   "score": 0.29184946
+   "score": 0.29599836
   },
   {
    "id": "48dbc55c-4153-449a-818f-a2f368577422",
@@ -67,7 +56,18 @@
     "en": "Rin-chan Cookie no Himitsu"
    },
    "contentRating": "safe",
-   "score": 0.2908544,
+   "score": 0.2908624,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b9dcc38e-9427-4742-b82b-50a009e7348b",
+   "title": {
+    "en": "Gohoubi Gohan"
+   },
+   "contentRating": "safe",
+   "score": 0.2898642,
    "languages": [
     "en"
    ]
@@ -78,7 +78,7 @@
     "en": "The Food Diary of Miss Maid"
    },
    "contentRating": "safe",
-   "score": 0.27376732,
+   "score": 0.2737705,
    "languages": [
     "es-la",
     "vi",
@@ -89,22 +89,33 @@
    ]
   },
   {
-   "id": "bdb9ba04-3022-490a-906e-f3f845508f88",
-   "title": {
-    "en": "Meshi o Kurashita Hana to Tsugu"
-   },
-   "contentRating": "safe",
-   "score": 0.26280907
-  },
-  {
    "id": "079fa9a3-540e-46b9-8b9e-f534145e6e73",
    "title": {
     "en": "Artiste"
    },
    "contentRating": "safe",
-   "score": 0.26160023,
+   "score": 0.26158673,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "bdb9ba04-3022-490a-906e-f3f845508f88",
+   "title": {
+    "en": "Meshi o Kurashita Hana to Tsugu"
+   },
+   "contentRating": "safe",
+   "score": 0.258523
+  },
+  {
+   "id": "ec564541-3735-4f91-b650-7d83bd0c1fac",
+   "title": {
+    "en": "Host to Shachiku"
+   },
+   "contentRating": "safe",
+   "score": 0.25713584,
+   "languages": [
+    "zh"
    ]
   },
   {
@@ -113,48 +124,10 @@
     "en": "Ekiben Hitoritabi"
    },
    "contentRating": "safe",
-   "score": 0.25613126,
+   "score": 0.25613287,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "ec564541-3735-4f91-b650-7d83bd0c1fac",
-   "title": {
-    "en": "Host to Shachiku"
-   },
-   "contentRating": "safe",
-   "score": 0.2531014,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
-   "id": "a8887025-8a0e-488f-b975-fb2116ea524a",
-   "title": {
-    "en": "Kuneru Maruta Novo!"
-   },
-   "contentRating": "safe",
-   "score": 0.2523742
-  },
-  {
-   "id": "3a6b5746-3b5f-4f52-86f9-6be1cf49f0d5",
-   "title": {
-    "ja": "Deaimon"
-   },
-   "contentRating": "safe",
-   "score": 0.2523742,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "6d01142e-cf79-4cb7-9908-7b8bac7300c3",
-   "title": {
-    "en": "Tachinomi Goreijou"
-   },
-   "contentRating": "safe",
-   "score": 0.2523742
   },
   {
    "id": "33521959-7349-46b1-a4f8-7cf82526cd01",
@@ -180,7 +153,31 @@
     "fr",
     "id"
    ]
+  },
+  {
+   "id": "6d01142e-cf79-4cb7-9908-7b8bac7300c3",
+   "title": {
+    "en": "Tachinomi Goreijou"
+   },
+   "contentRating": "safe",
+   "score": 0.2523742
+  },
+  {
+   "id": "cc307f9b-7599-4342-a97b-140e6ad08e41",
+   "title": {
+    "en": "Bungou Natsume wa Ryourinin ga Kirai"
+   },
+   "contentRating": "safe",
+   "score": 0.2523742
+  },
+  {
+   "id": "a8887025-8a0e-488f-b975-fb2116ea524a",
+   "title": {
+    "en": "Kuneru Maruta Novo!"
+   },
+   "contentRating": "safe",
+   "score": 0.2523742
   }
  ],
- "updatedAt": "2024-11-29T20:35:54+00:00"
+ "updatedAt": "2024-12-01T21:24:28+00:00"
 }

@@ -23,7 +23,7 @@
     "en": "Rewrite: SIDE-B"
    },
    "contentRating": "safe",
-   "score": 0.20155543,
+   "score": 0.2015604,
    "languages": [
     "en",
     "vi",
@@ -36,7 +36,7 @@
     "en": "Fushi no Sougishi"
    },
    "contentRating": "safe",
-   "score": 0.19976649,
+   "score": 0.19976664,
    "languages": [
     "vi",
     "en",
@@ -57,6 +57,18 @@
    ]
   },
   {
+   "id": "02efd1cb-45bc-4fd2-b34b-73e644e7b4f6",
+   "title": {
+    "en": "Outsider Paradise"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "d5208b9d-5233-4672-bf5c-6e7d23767e37",
    "title": {
     "en": "J\u003c-\u003eM"
@@ -68,18 +80,6 @@
     "en",
     "pt-br",
     "fr"
-   ]
-  },
-  {
-   "id": "02efd1cb-45bc-4fd2-b34b-73e644e7b4f6",
-   "title": {
-    "en": "Outsider Paradise"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -99,74 +99,11 @@
     "en": "Ookiku Furikabutte"
    },
    "contentRating": "safe",
-   "score": 0.17165115,
+   "score": 0.17165197,
    "languages": [
     "en",
     "es-la",
     "fr"
-   ]
-  },
-  {
-   "id": "5018f2b1-65ee-4a76-a7f3-4bb851e1ade5",
-   "title": {
-    "en": "High Score Girl DASH"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
-   "title": {
-    "en": "The Twin Empires"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "01a2c59e-1eac-4788-a699-9039c08f2955",
-   "title": {
-    "en": "Oshite Dame nara Oshite miro!"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "en",
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "942c4d26-67a3-4a83-8a27-dbb68fe6ccad",
-   "title": {
-    "en": "Zero no Shiniki"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "ecde3e7d-a3f3-486a-977a-bf3eb5a13a11",
-   "title": {
-    "en": "One for All"
-   },
-   "contentRating": "safe",
-   "score": 0.17142858,
-   "languages": [
-    "en",
-    "es-la"
    ]
   },
   {
@@ -187,31 +124,98 @@
    ]
   },
   {
-   "id": "eea75459-1e4f-4b16-a461-462595d33e11",
+   "id": "01a2c59e-1eac-4788-a699-9039c08f2955",
    "title": {
-    "en": "Love Live! School Idol Diary"
+    "en": "Oshite Dame nara Oshite miro!"
    },
    "contentRating": "safe",
-   "score": 0.17063956,
+   "score": 0.17142858,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "5018f2b1-65ee-4a76-a7f3-4bb851e1ade5",
+   "title": {
+    "en": "High Score Girl DASH"
+   },
+   "contentRating": "safe",
+   "score": 0.17142858,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "ecde3e7d-a3f3-486a-977a-bf3eb5a13a11",
+   "title": {
+    "en": "One for All"
+   },
+   "contentRating": "safe",
+   "score": 0.17142858,
    "languages": [
     "en",
     "es-la"
    ]
   },
   {
-   "id": "c49feee4-126f-48d0-9a6c-418d7da05265",
+   "id": "942c4d26-67a3-4a83-8a27-dbb68fe6ccad",
    "title": {
-    "en": "Kuutei Dragons"
+    "en": "Zero no Shiniki"
+   },
+   "contentRating": "safe",
+   "score": 0.17142858,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "1317eed1-130f-4bc6-b870-ae73d7e4c043",
+   "title": {
+    "en": "The Twin Empires"
+   },
+   "contentRating": "safe",
+   "score": 0.17142858,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "eea75459-1e4f-4b16-a461-462595d33e11",
+   "title": {
+    "en": "Love Live! School Idol Diary"
+   },
+   "contentRating": "safe",
+   "score": 0.17063765,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "67e7453b-9ee5-4ae5-9316-215b03e4a71d",
+   "title": {
+    "en": "Witch Hat Atelier"
    },
    "contentRating": "safe",
    "score": 0.17036709,
    "languages": [
-    "pt-br",
+    "my",
     "es-la",
+    "pt-br",
     "en",
-    "ru"
+    "ru",
+    "ar",
+    "it",
+    "fa"
    ]
   }
  ],
- "updatedAt": "2024-11-29T20:03:04+00:00"
+ "updatedAt": "2024-12-01T20:51:48+00:00"
 }

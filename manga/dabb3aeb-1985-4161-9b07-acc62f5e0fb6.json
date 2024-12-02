@@ -15,13 +15,14 @@
    "raw": "https://www.samsung.com/sec/bespoke/event/monthlybespoke/?eventNo=31214"
   },
   "originalLanguage": "ko",
-  "status": "ongoing",
+  "lastChapter": "9",
+  "status": "completed",
   "year": 2022,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "6801173e-64ed-4312-a8cc-d655dca54b0c",
+  "latestUploadedChapter": "1baa8c5c-2e21-4a43-9dd3-0d68aa5a5297",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -73,9 +74,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2022-07-28T05:35:09+00:00",
-  "updatedAt": "2023-03-29T00:34:47+00:00"
+  "updatedAt": "2024-11-30T12:47:41+00:00"
  },
  "relationships": [
   {
@@ -142,6 +143,11 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "c04007fa-fba6-4e19-a72c-6bc832d0479e",
+   "type": "manga",
+   "related": "prequel"
   },
   {
    "id": "345a23ed-5fff-4414-a8f8-d9ecd18c43a2",
