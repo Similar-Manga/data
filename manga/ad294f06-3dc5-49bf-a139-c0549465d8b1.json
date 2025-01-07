@@ -1,0 +1,100 @@
+{
+ "id": "ad294f06-3dc5-49bf-a139-c0549465d8b1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "See you at the reunion library!"
+  },
+  "altTitles": [
+   {
+    "ko": "상봉 서고에서 만나요!"
+   }
+  ],
+  "description": {
+   "en": "A library in the underworld that stores the stories of the dead, and there you can find the books of those you want to see.",
+   "ko": "죽은 이들 생전의 이야기를 보관하는 저승 서고,\n그곳에서 보고 싶은 이의 책을 찾.."
+  },
+  "links": {
+   "raw": "https://m.comic.naver.com/webtoon/list?titleId=834195"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-03T23:05:53+00:00",
+  "updatedAt": "2024-12-04T18:15:55+00:00"
+ },
+ "relationships": [
+  {
+   "id": "57597806-7513-4886-9df2-25e6854ad2d6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-03T23:07:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "비한",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-03T23:07:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "57597806-7513-4886-9df2-25e6854ad2d6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-03T23:07:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "비한",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-03T23:07:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "25b7c1d7-c42d-4d04-a244-ffac4e9dbfbc",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-03T23:06:01+00:00",
+    "description": "",
+    "fileName": "5a80d36e-0c2a-44ef-962e-ab699f633ec0.png",
+    "locale": "ko",
+    "updatedAt": "2024-12-03T23:06:01+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0305b0b9-7b25-4b4c-b969-429e716d7964",
+   "type": "creator"
+  }
+ ]
+}

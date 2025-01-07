@@ -17,11 +17,13 @@
    }
   ],
   "description": {
-   "en": "Punie is next in line to become queen of Magical Land. However, she must spend a year on Earth before she can inherit the throne, so she transfers into a school in Japan. She's usually a sweet and gentle girl... that is unless someone does something to displease her, then she'll drop the act. She won't hesitate to whip out her magic stick and cheerfully rain bloody destruction down on the hapless fool, or barring that, simply use brutal wrestling moves to punish them. Accompanied by her animal mascot Paya-tan, who makes regular attempts on her life (still bitter about being defeated and then forcibly recruited from Waku Waku Mascot Village), and forced to fend off random attacks by various people from her Kingdom who all have different reasons for wanting her dead, she must complete this year of training on Earth without fail.\n\nThis is essentially the second volume of Dai Mahou Touge."
+   "en": "Punie is next in line to become queen of Magical Land. However, she must spend a year on Earth before she can inherit the throne, so she transfers into a school in Japan. She's usually a sweet and gentle girl... that is unless someone does something to displease her, then she'll drop the act. She won't hesitate to whip out her magic stick and cheerfully rain bloody destruction down on the hapless fool, or barring that, simply use brutal wrestling moves to punish them. Accompanied by her animal mascot Paya-tan, who makes regular attempts on her life (still bitter about being defeated and then forcibly recruited from Waku Waku Mascot Village), and forced to fend off random attacks by various people from her Kingdom who all have different reasons for wanting her dead, she must complete this year of training on Earth without fail.\r\n\r\nThis is essentially the second volume of Dai Mahou Touge."
   },
   "links": {
    "al": "42404",
-   "bw": "dede83896f-5677-4248-98fd-c384e247ab18"
+   "bw": "dede83896f-5677-4248-98fd-c384e247ab18",
+   "mal": "9987",
+   "mu": "aeid5kg"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -181,9 +183,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2022-05-14T17:35:23+00:00",
-  "updatedAt": "2022-11-15T18:45:19+00:00"
+  "updatedAt": "2024-12-17T11:21:36+00:00"
  },
  "relationships": [
   {
@@ -257,6 +259,11 @@
   },
   {
    "id": "0be075ba-2ab8-4fb1-b2c3-69d3320f82e5",
+   "type": "manga",
+   "related": "sequel"
+  },
+  {
+   "id": "9b6d3dd6-4243-4084-9f52-12f7bb54933e",
    "type": "manga",
    "related": "prequel"
   },

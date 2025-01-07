@@ -1,0 +1,136 @@
+{
+ "id": "62d33c00-0331-42d0-a0ef-4dc69ce923f8",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kamen Rider 009"
+  },
+  "description": {
+   "en": "Short manga promoting a Cyborg 009 and Kamen Rider crossover collaboration for Cyborg 009's 60th anniversary."
+  },
+  "links": {
+   "raw": "https://x.com/bandai_narikiri/status/1870343020190830910"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "abd24998-4d34-4403-8039-9749f403d2f4",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "7064a261-a137-4d3a-8848-2d385de3a99c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Superhero"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-21T11:55:21+00:00",
+  "updatedAt": "2024-12-21T13:45:29+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ef82f30b-1aa2-42c1-84c8-0b79f7d60456",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hayase Masato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ef82f30b-1aa2-42c1-84c8-0b79f7d60456",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hayase Masato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5edac427-3c37-426b-a0c2-0ae0cc3a4f31",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-21T11:55:23+00:00",
+    "description": "",
+    "fileName": "5ac315f2-e09b-4a8e-8075-1d237a3ec9b0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-21T11:55:23+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "46690457-6759-4105-90b9-57a090821855",
+   "type": "creator"
+  }
+ ]
+}

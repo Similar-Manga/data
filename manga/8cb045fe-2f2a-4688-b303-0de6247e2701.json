@@ -3,36 +3,43 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Girl I Like Forgot Her Glasses - Twitter Version"
+   "en": "The Girl I Like Forgot Her Glasses (Pre-Serialization)"
   },
   "altTitles": [
    {
-    "id": "Gebetanku Lupa Kacamatanya"
+    "ja": "好きな子がめがねを忘れた"
+   },
+   {
+    "ja-ro": "Suki na Ko ga Megane o Wasureta (Pre-Serialization)"
+   },
+   {
+    "ja-ro": "Suki na Ko ga Megane wo Wasureta - Twitter Version"
    },
    {
     "ja-ro": "Sukinako ga Megane wo Wasureta"
    },
    {
-    "ja": "好きな子がめがねを忘れた"
-   },
-   {
-    "ko": "좋아하는 애가 안경을 깜빡했다"
-   },
-   {
-    "en": "Suki na Ko ga Megane wo Wasureta - Twitter Version"
+    "en": "The Girl I Like Forgot Her Glasses - Twitter Version"
    },
    {
     "en": "The Girl I Like Forgot Her Glasses - Parts 1 and 2"
+   },
+   {
+    "id": "Gebetanku Lupa Kacamatanya"
+   },
+   {
+    "ko": "좋아하는 애가 안경을 깜빡했다"
    }
   ],
   "description": {
-   "en": "An adorable series from Fujichika Koume about a boy and the girl he likes."
+   "en": "An adorable short about a boy and the girl he likes."
   },
   "links": {
    "raw": "https://twitter.com/hujiume"
   },
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2018,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -89,9 +96,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2019-08-15T22:22:43+00:00",
-  "updatedAt": "2023-08-10T14:28:16+00:00"
+  "updatedAt": "2024-12-20T13:01:58+00:00"
  },
  "relationships": [
   {
@@ -99,7 +106,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\n藤近小梅"
+     "en": "**Name In Native Language:** 藤近小梅"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -115,8 +122,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/hujiume",
-    "updatedAt": "2023-07-05T23:38:33+00:00",
-    "version": 4,
+    "updatedAt": "2024-12-20T13:18:32+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -127,7 +134,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\n藤近小梅"
+     "en": "**Name In Native Language:** 藤近小梅"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -143,8 +150,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/hujiume",
-    "updatedAt": "2023-07-05T23:38:33+00:00",
-    "version": 4,
+    "updatedAt": "2024-12-20T13:18:32+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -164,9 +171,19 @@
    }
   },
   {
+   "id": "43541d36-7996-472b-aefb-72f640c29eda",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
    "id": "6d6d9fda-5cd3-40ac-948b-776b1a1a0eb1",
    "type": "manga",
    "related": "serialization"
+  },
+  {
+   "id": "dc3bce3d-f31f-4380-aa90-415d5a950757",
+   "type": "manga",
+   "related": "same_franchise"
   }
  ]
 }

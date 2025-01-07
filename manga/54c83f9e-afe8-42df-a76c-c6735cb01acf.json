@@ -36,7 +36,7 @@
    "en",
    "es-la"
   ],
-  "latestUploadedChapter": "108ab382-640f-43e8-ae38-0208d55f985f",
+  "latestUploadedChapter": "d56664fa-169c-4fad-a0b3-39eab26fe09f",
   "tags": [
    {
     "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
@@ -71,6 +71,30 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -112,9 +136,9 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 14,
   "createdAt": "2024-10-16T22:03:03+00:00",
-  "updatedAt": "2024-11-22T18:10:18+00:00"
+  "updatedAt": "2024-12-26T20:57:10+00:00"
  },
  "relationships": [
   {

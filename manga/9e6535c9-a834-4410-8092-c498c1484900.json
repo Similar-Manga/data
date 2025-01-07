@@ -1,0 +1,127 @@
+{
+ "id": "9e6535c9-a834-4410-8092-c498c1484900",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Chanbara"
+  },
+  "altTitles": [
+   {
+    "ja": "チャンバラ 一撃小僧隼十"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "66665",
+   "mal": "36665",
+   "mu": "s0p14ee"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2003,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-15T22:45:01+00:00",
+  "updatedAt": "2024-12-15T22:48:49+00:00"
+ },
+ "relationships": [
+  {
+   "id": "95ea5cdb-4268-4722-9f6b-f4fd34755aa4",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamada Yoshinobu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "95ea5cdb-4268-4722-9f6b-f4fd34755aa4",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamada Yoshinobu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f3c1788c-c7e2-42a0-b619-f2b7031db5cd",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-15T22:45:03+00:00",
+    "description": "",
+    "fileName": "1c6cac07-7b62-4cd4-b9be-c5f00c2fe17b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-15T22:45:03+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

@@ -11,7 +11,7 @@
     "en": "Bocchi The Rock! Anthology Comic"
    },
    "contentRating": "safe",
-   "score": 0.43452084,
+   "score": 0.43322876,
    "languages": [
     "en",
     "id",
@@ -23,10 +23,10 @@
   {
    "id": "157ab2cc-1fc7-4b29-8955-72d94a140982",
    "title": {
-    "en": "Kesa Mo Yuraretemasu"
+    "en": "Kesa mo Yuraretemasu"
    },
    "contentRating": "safe",
-   "score": 0.31423417,
+   "score": 0.31290045,
    "languages": [
     "vi",
     "pt-br",
@@ -34,6 +34,7 @@
     "zh",
     "fr",
     "uk",
+    "es-la",
     "id"
    ]
   },
@@ -43,7 +44,7 @@
     "en": "13 Sentinels: Aegis Rim Official Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.26380426,
+   "score": 0.26382086,
    "languages": [
     "en"
    ]
@@ -54,7 +55,7 @@
     "en": "13 Sentinels: Aegis Rim Anthology Comic STAR"
    },
    "contentRating": "safe",
-   "score": 0.26195413,
+   "score": 0.26198035,
    "languages": [
     "en"
    ]
@@ -65,7 +66,7 @@
     "en": "Majima-kun Goes All Out!!"
    },
    "contentRating": "safe",
-   "score": 0.2612723,
+   "score": 0.2605709,
    "languages": [
     "en"
    ]
@@ -76,7 +77,7 @@
     "en": "Cyborg 009 (SHIMAMOTO Kazuhiko)"
    },
    "contentRating": "safe",
-   "score": 0.22790954,
+   "score": 0.22320686,
    "languages": [
     "en"
    ]
@@ -87,7 +88,7 @@
     "en": "Shape of Happiness"
    },
    "contentRating": "safe",
-   "score": 0.20970307,
+   "score": 0.20974244,
    "languages": [
     "en"
    ]
@@ -98,24 +99,9 @@
     "en": "Mitsuru Adachi's Early Complete Works"
    },
    "contentRating": "safe",
-   "score": 0.20933218,
+   "score": 0.20927542,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "99e883fd-04f6-449b-ab23-1d904695d272",
-   "title": {
-    "en": "Blue Archive - Game Kaihatsubu Dai Bouken!"
-   },
-   "contentRating": "safe",
-   "score": 0.20335488,
-   "languages": [
-    "en",
-    "vi",
-    "ru",
-    "id",
-    "es-la"
    ]
   },
   {
@@ -124,23 +110,9 @@
     "en": "Telepathy Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.20081371,
+   "score": 0.20034605,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "886815d2-f024-414a-af7b-1a8d91f28781",
-   "title": {
-    "en": "Katabami-san Wants to Get Sucked by a Vampire"
-   },
-   "contentRating": "safe",
-   "score": 0.1994704,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr",
-    "id"
    ]
   },
   {
@@ -149,7 +121,7 @@
     "en": "Tonikaku Kawaii"
    },
    "contentRating": "safe",
-   "score": 0.19942418,
+   "score": 0.19942035,
    "languages": [
     "en",
     "vi",
@@ -168,23 +140,26 @@
    ]
   },
   {
+   "id": "886815d2-f024-414a-af7b-1a8d91f28781",
+   "title": {
+    "en": "Katabami-san Wants to Get Sucked by a Vampire"
+   },
+   "contentRating": "safe",
+   "score": 0.19912593,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr",
+    "id"
+   ]
+  },
+  {
    "id": "882e338e-0105-4305-a380-655bc303036b",
    "title": {
     "en": "Fate/Grand Order Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.1965156,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3bcbfa49-6d0b-4130-868b-86897af19d45",
-   "title": {
-    "en": "Minecraft: Journey to the World's End"
-   },
-   "contentRating": "safe",
-   "score": 0.19584092,
+   "score": 0.19649997,
    "languages": [
     "en"
    ]
@@ -201,16 +176,43 @@
    ]
   },
   {
-   "id": "91e2e469-8d67-49d6-b810-c9a465431eba",
+   "id": "3bcbfa49-6d0b-4130-868b-86897af19d45",
    "title": {
-    "en": "B Group no Shounen"
+    "en": "Minecraft: Journey to the World's End"
    },
    "contentRating": "safe",
-   "score": 0.19374196,
+   "score": 0.19584092,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "99e883fd-04f6-449b-ab23-1d904695d272",
+   "title": {
+    "en": "Blue Archive: Game Kaihatsubu Dai Bouken!"
+   },
+   "contentRating": "safe",
+   "score": 0.19584092,
+   "languages": [
+    "en",
+    "vi",
+    "ru",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "598ae3a9-ac0f-45d6-b33b-8f9f971d9cbe",
+   "title": {
+    "en": "Kimi to Picopico (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.19215429,
+   "languages": [
+    "en",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2024-12-01T20:45:25+00:00"
+ "updatedAt": "2025-01-05T23:46:41+00:00"
 }

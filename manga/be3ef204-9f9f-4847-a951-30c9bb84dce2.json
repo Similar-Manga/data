@@ -3,14 +3,19 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kaiun Coliseum"
+   "en": "Good Luck Colosseum"
   },
   "altTitles": [
    {
     "ja": "開運コロシアム"
+   },
+   {
+    "ja-ro": "Kaiun Coliseum"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Good luck!?'s furoku \u0026 manga!! \n\nThe latest card game “Good Luck Colosseum” is hot right now!! \n\nIf you want to improve your luck, please pay attention to both!!"
+  },
   "links": {
    "mal": "175409",
    "raw": "https://www.corocoro.jp/title/194"
@@ -87,9 +92,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-10-16T23:10:16+00:00",
-  "updatedAt": "2024-10-19T14:06:19+00:00"
+  "updatedAt": "2024-12-23T08:35:59+00:00"
  },
  "relationships": [
   {

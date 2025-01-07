@@ -1,0 +1,134 @@
+{
+ "id": "fae3b9d3-4e54-4781-80e7-1c75b6c2e7bd",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tsurezure Diary"
+  },
+  "altTitles": [
+   {
+    "ja": "つれづれダイアリー"
+   }
+  ],
+  "description": {
+   "en": "Alice Morino, a first-year high school student, one day notices her classmate, Nenekko. As she follows her, Alice ends up stumbling into... a fishing spot that feels nothing like a typical high school girl hangout!? Will Alice be drawn into the wonderland of fishing?"
+  },
+  "links": {
+   "ap": "tsurezure-diary",
+   "bw": "series/153455",
+   "mal": "99014"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "23",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2016,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-30T08:30:05+00:00",
+  "updatedAt": "2025-01-02T19:19:56+00:00"
+ },
+ "relationships": [
+  {
+   "id": "87700da7-e287-4a88-bfea-05f51c90d0e3",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n草野ほうき"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kusano Houki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/156380",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kusano_h",
+    "updatedAt": "2023-04-06T18:28:37+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "87700da7-e287-4a88-bfea-05f51c90d0e3",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n草野ほうき"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kusano Houki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/156380",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kusano_h",
+    "updatedAt": "2023-04-06T18:28:37+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "eb6e7b0c-aaaa-4fe9-ae7c-4f578b173b92",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T08:30:10+00:00",
+    "description": "",
+    "fileName": "fec95652-7931-4eb2-94ff-a74da5e2f97b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T08:30:10+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "ddc27fae-f41a-4618-b8dc-6cf98106fd4c",
+   "type": "creator"
+  }
+ ]
+}

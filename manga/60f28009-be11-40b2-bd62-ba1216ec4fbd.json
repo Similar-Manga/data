@@ -3,18 +3,22 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Dark Age (Azuma Kenji)"
+   "en": "DARK AGE"
   },
   "altTitles": [
    {
-    "ja": "ダーク・エイジ (東犬二)"
+    "ja": "DARK AGE"
+   },
+   {
+    "ja": "ダークエイジ"
    }
   ],
   "description": {
-   "en": "A compilation of horror (guro) oneshots based on events, legends and folklore of the Middle Ages."
+   "en": "A compilation of horror guro oneshots based on events, legends, and folklore of the Middle Ages."
   },
   "links": {
    "al": "56435",
+   "amz": "https://www.amazon.co.jp/dp/4776716194",
    "kt": "19909",
    "mal": "26435",
    "mu": "29704"
@@ -116,43 +120,17 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 7,
   "createdAt": "2019-11-23T02:45:22+00:00",
-  "updatedAt": "2024-11-14T23:56:53+00:00"
+  "updatedAt": "2025-01-02T02:24:07+00:00"
  },
  "relationships": [
   {
-   "id": "baea6c81-2169-42d7-bf20-f2cec278db24",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Azuma Kenji",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
    "id": "ec121b69-edeb-4624-955e-71aa1be927ee",
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "Writes hentai under the pseudonym AZUMA Kenji\n\nFormer assistant of [Hoshino Yukinobu](https://mangadex.org/author/706826f2-20a1-413f-a874-706f1b1f64f0/hoshino-yukinobu). "
+     "en": "**Name In Native Language:** 大西巷一 (Oonishi Kouichi)\n\n**Hentai Alias:** Azuma Kenji (東犬二)\n\n**Additional Sites:**\n- [Azuma Kenji pixiv](https://www.pixiv.net/users/1083386)\n\nFormer assistant of [Hoshino Yukinobu](https://mangadex.org/author/706826f2-20a1-413f-a874-706f1b1f64f0). "
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -164,39 +142,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/6944",
+    "pixiv": "https://www.pixiv.net/users/6944",
     "skeb": null,
     "tumblr": null,
     "twitter": "http://twitter.com/kouichi_ohnishi",
-    "updatedAt": "2022-01-24T04:40:48+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-11T09:13:16+00:00",
+    "version": 4,
     "website": "http://ohnishikoichi.jimdo.com/",
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "baea6c81-2169-42d7-bf20-f2cec278db24",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Azuma Kenji",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
     "weibo": null,
     "youtube": null
    }
@@ -206,7 +158,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "Writes hentai under the pseudonym AZUMA Kenji\n\nFormer assistant of [Hoshino Yukinobu](https://mangadex.org/author/706826f2-20a1-413f-a874-706f1b1f64f0/hoshino-yukinobu). "
+     "en": "**Name In Native Language:** 大西巷一 (Oonishi Kouichi)\n\n**Hentai Alias:** Azuma Kenji (東犬二)\n\n**Additional Sites:**\n- [Azuma Kenji pixiv](https://www.pixiv.net/users/1083386)\n\nFormer assistant of [Hoshino Yukinobu](https://mangadex.org/author/706826f2-20a1-413f-a874-706f1b1f64f0). "
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -218,28 +170,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/6944",
+    "pixiv": "https://www.pixiv.net/users/6944",
     "skeb": null,
     "tumblr": null,
     "twitter": "http://twitter.com/kouichi_ohnishi",
-    "updatedAt": "2022-01-24T04:40:48+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-11T09:13:16+00:00",
+    "version": 4,
     "website": "http://ohnishikoichi.jimdo.com/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "4a0c9ade-0284-4f19-8fa0-29f69109d543",
+   "id": "5143b10c-3b02-4f49-aedd-147e99be22f2",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:34:49+00:00",
+    "createdAt": "2021-05-23T07:05:04+00:00",
     "description": "",
-    "fileName": "cfb4e358-01fe-40b1-b17a-c7d840e8e3bc.jpg",
+    "fileName": "dac128d2-9a2f-4b6f-85c8-5d6fb76d8615.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:34:49+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T07:05:04+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

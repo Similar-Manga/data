@@ -1,0 +1,164 @@
+{
+ "id": "4e54f039-7cc2-4748-b814-51336d68e821",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tonari no Wakao-san wa Miesou de Mienai"
+  },
+  "altTitles": [
+   {
+    "ja": "隣の若尾さんは見えそうで見えない"
+   },
+   {
+    "ja-ro": "Tonari no Wakaosan wa Mie sou de Mienai"
+   },
+   {
+    "en": "My Seatmate Wakao-san's Face Is Almost Visible but It's Not"
+   },
+   {
+    "vi": "Cô Bạn Wakao-San Bàn Bên Có Vẻ Nhìn Thấy Gương Mặt Của Tôi Nhưng Tôi Thì Không"
+   }
+  ],
+  "description": {
+   "en": "High school student Mizuno has a person that he's not good with. It's his seatmate Wakao-san. Mizuno is the only one who perceives Wakao's face as a blank slate, making it impossible for him to read any of her facial expressions. Furthermore, when Wakao tells him that she's using his expressions as \"reference,\" the mystery surrounding her deepens?!",
+   "ja": "席替えで隣になった若尾さんはただの人ではない。俺にだけのっぺらぼうに見える彼女には、謎がいっぱいで…?",
+   "vi": "Cô Bạn Wakao, Người mới đổi chỗ ngồi bên cạnh tôi, không phải là người bình thường, cô ấy có vẻ cổ rất tò mò thích trêu trọc, nhưng cô ấy lại đầy bí ẩn..?"
+  },
+  "links": {
+   "raw": "https://www.ganganonline.com/title/1794"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi"
+  ],
+  "latestUploadedChapter": "c6fb5421-5abf-4e8a-9190-4078f84c621e",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 10,
+  "createdAt": "2024-12-07T10:10:17+00:00",
+  "updatedAt": "2024-12-24T11:51:18+00:00"
+ },
+ "relationships": [
+  {
+   "id": "21df40b6-394c-4209-a201-0395a70b9931",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-07T09:54:17+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inariyama",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-07T09:54:17+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "21df40b6-394c-4209-a201-0395a70b9931",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-07T09:54:17+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inariyama",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-07T09:54:17+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5ee7e939-01e4-4f86-8e11-5dd713b87963",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-07T10:10:19+00:00",
+    "description": "",
+    "fileName": "c0300166-b99c-4c86-bb0c-7e0056bdd8ce.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-07T10:10:19+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "931ad73c-ac4e-4e63-bcdc-323bece3cc5c",
+   "type": "creator"
+  }
+ ]
+}

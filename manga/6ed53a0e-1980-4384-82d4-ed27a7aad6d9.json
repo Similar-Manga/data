@@ -25,7 +25,7 @@
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 1998,
-  "contentRating": "safe",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
   ],
@@ -68,6 +68,18 @@
     }
    },
    {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -105,9 +117,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2019-01-30T23:55:24+00:00",
-  "updatedAt": "2024-11-10T05:01:50+00:00"
+  "updatedAt": "2024-12-24T07:46:59+00:00"
  },
  "relationships": [
   {
@@ -166,16 +178,16 @@
    }
   },
   {
-   "id": "a73d9645-5531-4f06-919b-c33d2a7d3905",
+   "id": "41244fd3-9ecc-4bb9-bf50-33ec76c8e883",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:59:41+00:00",
+    "createdAt": "2024-12-24T08:01:30+00:00",
     "description": "",
-    "fileName": "4b591c6f-c263-4652-a27f-825afcb2b204.jpg",
+    "fileName": "0fc5bad6-7c6a-4cf8-9063-0b7851aa123d.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:59:41+00:00",
+    "updatedAt": "2024-12-24T08:01:30+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
   }
  ]

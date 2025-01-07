@@ -11,22 +11,27 @@
    }
   ],
   "description": {
-   "en": "Sena, a high school boy, wakes up in an empty green room. In front of him was a world map and a one-line explanation. “Think of what you want and press the button for the country you want to destroy. You will be released if you win.'' Sena, who is gradually cornered, finally presses the button. Will it be Sena or humanity that will survive in the end?"
+   "en": "Sena, a high school boy, wakes up in an empty green room. In front of him was a world map and a one-line explanation. \"Think of what you want and press the button for the country you want to destroy. You will be released if you win.'' Sena, who is gradually cornered, finally presses the button. Will it be Sena or humanity that will survive in the end?",
+   "ja": "何もない緑色の部屋で目覚めた男子高校生、瀬名。目の前には世界地図と1行の説明。『欲しい物を思い浮かべながら、滅ぼしたい国のボタンを押せ。当たりなら解放』徐々に追い詰められていく瀬名はついにボタンを押してしまう。果たして最後に生き残るのは瀬名か、人類か。"
   },
   "links": {
    "al": "169548",
-   "bw": "series/453086/list",
+   "amz": "https://www.amazon.co.jp/dp/B0D1RN96F7",
+   "ap": "green-box",
+   "bw": "series/453086",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/788074",
+   "mu": "4msvuw8",
    "raw": "https://peep.jp/stories/SClL1mff6AaKVRB2"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2023,
-  "contentRating": "safe",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "0d679dad-b9c1-4eb0-bea8-5c6b1ff8da06",
+  "latestUploadedChapter": "6ecb8006-c29c-4f98-967d-26c849f06b06",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -34,6 +39,18 @@
     "attributes": {
      "name": {
       "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
      },
      "description": {},
      "group": "genre",
@@ -54,9 +71,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2023-09-22T06:34:22+00:00",
-  "updatedAt": "2024-11-01T10:38:36+00:00"
+  "updatedAt": "2024-12-20T21:46:02+00:00"
  },
  "relationships": [
   {
@@ -112,16 +129,16 @@
    }
   },
   {
-   "id": "6b1fae1a-aec0-4a08-be79-a4bc528ace79",
+   "id": "56d1a4df-6d83-4368-861b-517146609206",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-01T10:38:36+00:00",
+    "createdAt": "2024-12-19T04:54:40+00:00",
     "description": "",
-    "fileName": "3e37daf2-30b7-4494-a1de-f73d077972fe.jpg",
+    "fileName": "ecbee92e-b144-41aa-b711-64e4c6e62894.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-01T10:38:36+00:00",
+    "updatedAt": "2024-12-19T04:54:40+00:00",
     "version": 1,
-    "volume": "3"
+    "volume": "4"
    }
   },
   {

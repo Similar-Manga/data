@@ -3,23 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Mahou Shoujo Akirara☆"
+   "en": "Magical Girl Akirara ☆"
   },
   "altTitles": [
    {
     "ja": "魔法少女あキララ☆"
    },
    {
-    "en": "Magical Girl Akirara☆"
+    "ja-ro": "Mahou Shoujo Akirara ☆"
    },
    {
     "ja": "悩める彼は魔法少女"
    },
    {
     "ja-ro": "Nayameru Kare wa Mahou Shoujo"
-   },
-   {
-    "ja-ro": "Nayameru Kare wa Mahō Shōjo"
    },
    {
     "en": "He Is a Magical Girl"
@@ -51,7 +48,7 @@
    "vi",
    "fr"
   ],
-  "latestUploadedChapter": "cc5a7d2e-f6e9-4d4e-961e-4f736d492a40",
+  "latestUploadedChapter": "d181d101-a269-4d72-b5a8-712de91cab2b",
   "tags": [
    {
     "id": "2bd2e8d0-f146-434a-9b51-fc9ff2c5fe6a",
@@ -115,9 +112,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2020-11-02T00:31:00+00:00",
-  "updatedAt": "2024-09-21T12:23:05+00:00"
+  "updatedAt": "2024-12-28T03:54:11+00:00"
  },
  "relationships": [
   {
@@ -125,7 +122,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -141,8 +138,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -153,7 +150,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -169,25 +166,30 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "9ed605bc-6116-4201-88ab-9b8da45dcacc",
+   "id": "3e22ab9e-8a05-4121-a2f4-128b74758334",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-12-18T22:11:34+00:00",
+    "createdAt": "2024-12-28T03:47:58+00:00",
     "description": "",
-    "fileName": "2cad5ed5-3509-4770-bf0c-ff90c03bab55.png",
+    "fileName": "572c70e1-4839-4b96-8741-97408a14243e.jpg",
     "locale": "ja",
-    "updatedAt": "2023-12-09T13:33:34+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-28T03:47:58+00:00",
+    "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "5418be97-515b-492b-8827-ec0590747ba9",
+   "type": "manga",
+   "related": "alternate_version"
   }
  ]
 }

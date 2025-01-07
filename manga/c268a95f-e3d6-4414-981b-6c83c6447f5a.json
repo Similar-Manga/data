@@ -39,7 +39,7 @@
    "kt": "get-schooled",
    "mal": "146875",
    "mu": "gvxectd",
-   "raw": "https://comic.naver.com/webtoon/list.nhn?titleId=758037"
+   "raw": "https://comic.naver.com/webtoon/list?titleId=758037"
   },
   "originalLanguage": "ko",
   "status": "ongoing",
@@ -52,7 +52,7 @@
    "uk",
    "fr"
   ],
-  "latestUploadedChapter": "58947c17-ff49-40c9-afc1-ffd5c0b81b34",
+  "latestUploadedChapter": "3917903c-1d15-4cda-a422-44b8c4e4dc6d",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -140,9 +140,9 @@
    }
   ],
   "state": "published",
-  "version": 23,
+  "version": 24,
   "createdAt": "2020-12-26T11:35:14+00:00",
-  "updatedAt": "2024-08-28T17:10:26+00:00"
+  "updatedAt": "2024-12-29T13:52:18+00:00"
  },
  "relationships": [
   {
@@ -218,12 +218,22 @@
    "related": "shared_universe"
   },
   {
+   "id": "3267e61a-8dc7-4d27-b8f7-26d810c08a1c",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
    "id": "6206b1b2-e329-485e-be07-ac0bfd051257",
    "type": "manga",
    "related": "shared_universe"
   },
   {
    "id": "66519c8b-7898-44bd-a3b6-821a3bcf7ba0",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
+   "id": "6ccd542a-409e-4ada-b896-95692361bc7e",
    "type": "manga",
    "related": "shared_universe"
   },

@@ -25,7 +25,9 @@
   },
   "links": {
    "al": "182559",
-   "amz": "https://www.amazon.co.jp/dp/4065379989",
+   "amz": "https://www.amazon.co.jp/dp/B0DPW2DKDH",
+   "bw": "series/503493",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/869000",
    "mu": "y92m06c",
    "raw": "https://yanmaga.jp/comics/カラミざかRe_転生したら坊主だったDT"
   },
@@ -84,6 +86,18 @@
     }
    },
    {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
@@ -109,9 +123,9 @@
    }
   ],
   "state": "published",
-  "version": 22,
+  "version": 25,
   "createdAt": "2024-10-20T05:44:42+00:00",
-  "updatedAt": "2024-10-25T16:47:46+00:00"
+  "updatedAt": "2024-12-20T22:49:58+00:00"
  },
  "relationships": [
   {
@@ -193,16 +207,16 @@
    }
   },
   {
-   "id": "b6e808a2-854a-41a3-bfbd-8d860b0088d7",
+   "id": "ba3b182c-b8e4-4e6e-8f3b-b5aabe5ae210",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-20T05:44:43+00:00",
+    "createdAt": "2024-12-10T16:57:13+00:00",
     "description": "",
-    "fileName": "33fd35aa-5149-4185-9780-b117a8f31635.jpg",
+    "fileName": "37390e2d-ae4c-4fd8-be5a-d8e41040900c.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-20T05:44:43+00:00",
+    "updatedAt": "2024-12-10T16:57:13+00:00",
     "version": 1,
-    "volume": "0"
+    "volume": "1"
    }
   },
   {

@@ -1,0 +1,147 @@
+{
+ "id": "b6d1aaef-6af0-424d-b384-8566159f75a8",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Blue Gralia"
+  },
+  "altTitles": [
+   {
+    "ja": "ブルーグラリア"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "94890",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B07DS7R1M9?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tkin",
+   "bw": "series/44997/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/312254/",
+   "mal": "89133",
+   "mu": "s3w7k32"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "11",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2014,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-05T11:05:39+00:00",
+  "updatedAt": "2024-12-05T11:18:21+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b6bf01ec-c1f3-418e-bf04-d69bf5a4cb29",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nイイヅカケイタ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Iizuka Keita",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/iizuka_k_",
+    "updatedAt": "2024-06-19T20:37:24+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b6bf01ec-c1f3-418e-bf04-d69bf5a4cb29",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nイイヅカケイタ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Iizuka Keita",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/iizuka_k_",
+    "updatedAt": "2024-06-19T20:37:24+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5b0e68fe-450d-4edb-886f-2bcd4b503e51",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-05T11:05:42+00:00",
+    "description": "",
+    "fileName": "38001fc8-d94f-49b8-be7d-65d1ca2ca22e.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-05T11:05:42+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

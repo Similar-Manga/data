@@ -1,0 +1,170 @@
+{
+ "id": "9a67ec4e-fa2a-4cc0-9873-1dd8edff59eb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Lock On"
+  },
+  "altTitles": [
+   {
+    "ja": "ロックオン"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/923disk/status/1864915691784245552"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en",
+   "vi",
+   "id",
+   "pt-br"
+  ],
+  "latestUploadedChapter": "acdeff42-74a8-4c75-bb92-f641a46e7605",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Police"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-12-23T03:37:37+00:00",
+  "updatedAt": "2024-12-23T14:46:23+00:00"
+ },
+ "relationships": [
+  {
+   "id": "76155f23-8135-456b-804f-e9ef209cf7ed",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- おーにじょうろく \n- Oni Jouro Ku\n\n**Links:**\n- [Alternative Twitter](https://twitter.com/923disk)\n- [Alternative Pixiv](https://www.pixiv.net/users/26724588)\n- [Instagram](https://www.instagram.com/oo6____6oo/)\n- [Bluesky](https://bsky.app/profile/oo6.bsky.social)"
+    },
+    "booth": null,
+    "createdAt": "2024-12-20T07:36:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "oo6",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/40982459",
+    "skeb": null,
+    "tumblr": "https://oo6-oroku.tumblr.com",
+    "twitter": "https://twitter.com/oo6____6oo",
+    "updatedAt": "2024-12-23T14:59:18+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "76155f23-8135-456b-804f-e9ef209cf7ed",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alternative Names:**\n- おーにじょうろく \n- Oni Jouro Ku\n\n**Links:**\n- [Alternative Twitter](https://twitter.com/923disk)\n- [Alternative Pixiv](https://www.pixiv.net/users/26724588)\n- [Instagram](https://www.instagram.com/oo6____6oo/)\n- [Bluesky](https://bsky.app/profile/oo6.bsky.social)"
+    },
+    "booth": null,
+    "createdAt": "2024-12-20T07:36:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "oo6",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/40982459",
+    "skeb": null,
+    "tumblr": "https://oo6-oroku.tumblr.com",
+    "twitter": "https://twitter.com/oo6____6oo",
+    "updatedAt": "2024-12-23T14:59:18+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e3ed40f7-4183-40f6-9a02-90b6f166136f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-23T03:37:43+00:00",
+    "description": "",
+    "fileName": "36a35932-b183-424a-9f2f-527897225f9c.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-23T14:45:46+00:00",
+    "version": 2,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "4e4f1cff-887b-474a-bb2b-d0a9ae50171b",
+   "type": "creator"
+  }
+ ]
+}

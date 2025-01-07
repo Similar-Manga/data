@@ -14,6 +14,9 @@
    },
    {
     "zh": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS"
+   },
+   {
+    "en": "I'm The Guild Receptionist, But Since I Don't Want To Work Overtime, I Think I'll Just Solo The Boss"
    }
   ],
   "description": {
@@ -43,7 +46,7 @@
    "en",
    "ru"
   ],
-  "latestUploadedChapter": "83212c57-f6d4-4ded-ad39-9ac32c2e1626",
+  "latestUploadedChapter": "cd2de366-57cd-4666-9c49-d97ea28ca74a",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -54,6 +57,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -78,6 +93,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -119,9 +146,9 @@
    }
   ],
   "state": "published",
-  "version": 27,
+  "version": 29,
   "createdAt": "2021-10-26T00:44:01+00:00",
-  "updatedAt": "2024-10-30T19:38:34+00:00"
+  "updatedAt": "2024-12-24T01:49:54+00:00"
  },
  "relationships": [
   {

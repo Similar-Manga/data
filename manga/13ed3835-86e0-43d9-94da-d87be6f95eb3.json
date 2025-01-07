@@ -1,0 +1,131 @@
+{
+ "id": "13ed3835-86e0-43d9-94da-d87be6f95eb3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Party Leader Who Will Be Made to Understand in 7 Days"
+  },
+  "altTitles": [
+   {
+    "ja": "7日後にわからせられる党首くん"
+   },
+   {
+    "ja-ro": "7 Nichi Go ni Wakara Serareru Toushu-kun"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/unpocooo/status/1847925724889620836"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "7",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-06T15:12:58+00:00",
+  "updatedAt": "2024-12-07T06:54:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2c5caaa3-a151-4f6d-b6ad-648ef148f651",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Native name: ウンポーコ\n\nAssociated names:\nPocoration (Unpoco)\nUnpooko\nポーコレーション (ウンポーコ)\n\nCircle: Pocoration"
+    },
+    "booth": null,
+    "createdAt": "2021-09-02T02:38:32+00:00",
+    "fanBox": "https://unpocooo.fanbox.cc/",
+    "fantia": "https://fantia.jp/unpocooo",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Unpoco",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/3312251",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/unpocooo",
+    "updatedAt": "2025-01-04T13:44:26+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2c5caaa3-a151-4f6d-b6ad-648ef148f651",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Native name: ウンポーコ\n\nAssociated names:\nPocoration (Unpoco)\nUnpooko\nポーコレーション (ウンポーコ)\n\nCircle: Pocoration"
+    },
+    "booth": null,
+    "createdAt": "2021-09-02T02:38:32+00:00",
+    "fanBox": "https://unpocooo.fanbox.cc/",
+    "fantia": "https://fantia.jp/unpocooo",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Unpoco",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/3312251",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/unpocooo",
+    "updatedAt": "2025-01-04T13:44:26+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fbe1c68d-490e-420e-b921-aba71ec59210",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-06T15:13:02+00:00",
+    "description": "",
+    "fileName": "199e3dd0-fed0-439a-b6cb-6b9509fe5adf.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-06T15:13:02+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "02c385d5-beac-4ee4-9383-20b55d7d8a50",
+   "type": "creator"
+  }
+ ]
+}

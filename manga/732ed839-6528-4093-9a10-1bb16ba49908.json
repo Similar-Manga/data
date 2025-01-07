@@ -1,0 +1,157 @@
+{
+ "id": "732ed839-6528-4093-9a10-1bb16ba49908",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Superheroes of Class F: Rebooted"
+  },
+  "description": {
+   "en": "Can’t be the superhero? Be the supervillain.\nWelcome to Leaders Academy for the Superhumanly Gifted! As Korea’s most elite superhero institution, we aim to bring out the best in our students and encourage them to use their powers for the good of— Pardon? Class F, you say? Apologies, but we don't talk about Class F here."
+  },
+  "links": {
+   "engtl": "https://manta.net/en/series/the-superheroes-of-class-f-rebooted?seriesId=2789",
+   "mu": "cn7px4a"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-15T08:39:24+00:00",
+  "updatedAt": "2024-12-25T00:36:28+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c11fa406-228d-4979-bc4b-5b69b50736f6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-12-26T11:21:44+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Manta Comics",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-12-26T11:21:44+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c11fa406-228d-4979-bc4b-5b69b50736f6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-12-26T11:21:44+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Manta Comics",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-12-26T11:21:44+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3561a61e-6266-4098-8c48-90092f4ad837",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-15T08:39:30+00:00",
+    "description": "",
+    "fileName": "5878e646-0b7e-41c9-a0e4-90b16bb7823a.jpg",
+    "locale": "en",
+    "updatedAt": "2024-12-15T08:39:30+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "d07d3265-0324-42f7-894e-da278881de64",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "id": "ac9226ca-9a9a-405d-b569-5ab49ea5fbd9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Juu no Sekai no Zuki"
+  },
+  "altTitles": [
+   {
+    "ja": "銃の世界のズキ"
+   }
+  ],
+  "description": {
+   "en": "A battle between people who have different opinions and cannot understand each other."
+  },
+  "links": {
+   "al": "185140",
+   "raw": "https://rookie.shonenjump.com/series/pGBIkZkyVRM"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-03T21:02:55+00:00",
+  "updatedAt": "2024-12-03T22:12:28+00:00"
+ },
+ "relationships": [
+  {
+   "id": "57e9db87-4b73-46be-8e66-241e9fcd2930",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 市川苦楽\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/11844546810162074674)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-30T15:44:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ichikawa Kuraku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/krk_rrr",
+    "updatedAt": "2024-12-03T19:57:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "57e9db87-4b73-46be-8e66-241e9fcd2930",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 市川苦楽\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/11844546810162074674)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-30T15:44:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ichikawa Kuraku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/krk_rrr",
+    "updatedAt": "2024-12-03T19:57:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7666ba0d-19f8-4176-a997-527c1f9adda4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-03T21:03:07+00:00",
+    "description": "",
+    "fileName": "adda9842-7505-4300-aa1b-fd77e6079fbc.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-03T21:03:07+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

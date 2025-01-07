@@ -3,20 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kyuubi: Choujou Jiken Taisakuka"
+   "en": "Kyuubi - Choujou Jiken Taisakuka"
   },
   "altTitles": [
    {
     "ja": "キュービ 超常事件対策課"
+   },
+   {
+    "en": "Nine Tails: Paranormal Incident Countermeasures Division"
    }
   ],
   "description": {
-   "en": "Yanmaga Web Original",
+   "en": "The “Supernatural Power Incident” killed over 100 people without anyone being touched. Kibi, a man who lost his father in the incident, is investigating similar paranormal phenomena. Amidst this, Kibi meets a woman named Toudou who claims to be a detective from the “Paranormal Incident Countermeasures Division”. She says that the paranormal phenomena are caused by psychics called the “fox-possessed”——!? A nonstop mystery begins, uncovering “paranormal murders” that cannot be punished by law!",
    "ja": "誰に触れることなく100人以上を潰し殺した「神通力事件」。その事件で父を亡くした男･吉備は、神通力事件のような超常現象を追っていた。そんな中、「超常事件対策課」の刑事だと名乗る女･東堂に出会った吉備。彼女は、超常現象を起こすのは「狐憑き」と呼ばれる超能力者だというが――！? 法律で裁けない「超常殺人」を暴く、ノンストップ･ミステリー開幕！！"
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/-/en/西嶋慶大-ebook/dp/B0CPPLWSX9/ref=sr_1_2?dib=eyJ2IjoiMSJ9.PPkBs2U-51fzErHpTHBXjkv0f4xbOETMSr_N6Jri8Ec.Hqf3J_Btghhj1hlQmitYSj_TlwsPug38vrr9AP23p1c\u0026dib_tag=se\u0026qid=1711882902\u0026s=books\u0026sr=1-2\u0026text=西嶋+慶大",
-   "bw": "series/450109/list",
+   "amz": "https://www.amazon.co.jp/dp/B0CQK3V8YS",
+   "bw": "series/450109",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/799426/",
    "mu": "cq4doa5",
    "raw": "https://yanmaga.jp/comics/キュービ_超常事件対策課"
   },
@@ -87,35 +91,49 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 14,
   "createdAt": "2023-11-22T19:05:09+00:00",
-  "updatedAt": "2024-06-09T00:35:47+00:00"
+  "updatedAt": "2024-12-06T05:56:52+00:00"
  },
  "relationships": [
   {
    "id": "9735bb3d-beb0-4789-b7a1-5d9474ab71c8",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 西嶋慶大"
+    },
     "booth": null,
     "createdAt": "2023-11-22T18:58:20+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Keita NISHIJIMA",
+    "name": "Nishijima Keita",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-11-22T18:58:20+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/keitanishijima",
+    "updatedAt": "2024-12-06T05:24:08+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -125,23 +143,25 @@
    "id": "9735bb3d-beb0-4789-b7a1-5d9474ab71c8",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 西嶋慶大"
+    },
     "booth": null,
     "createdAt": "2023-11-22T18:58:20+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Keita NISHIJIMA",
+    "name": "Nishijima Keita",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-11-22T18:58:20+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/keitanishijima",
+    "updatedAt": "2024-12-06T05:24:08+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

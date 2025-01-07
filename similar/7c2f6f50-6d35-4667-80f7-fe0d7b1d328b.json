@@ -6,20 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1f6d6775-3e3c-4240-b1e8-64daeb8ae952",
-   "title": {
-    "en": "Tokyo Doukyo Kyokakyoku"
-   },
-   "contentRating": "safe",
-   "score": 0.39603597
-  },
-  {
    "id": "7557a08b-3226-41e8-994d-188bf7e5bd2b",
    "title": {
     "en": "Doukyochuu no Osananajimi wa Aishitakute, Modokashii"
    },
    "contentRating": "safe",
-   "score": 0.37865967
+   "score": 0.3785873
+  },
+  {
+   "id": "1f6d6775-3e3c-4240-b1e8-64daeb8ae952",
+   "title": {
+    "en": "Tokyo Doukyo Kyokakyoku"
+   },
+   "contentRating": "safe",
+   "score": 0.3612919
   },
   {
    "id": "ffdd39b7-badf-4138-b8a8-ec28e3a92ebe",
@@ -27,7 +27,7 @@
     "en": "Otouto no Kyorikan ga Baguttemasu"
    },
    "contentRating": "safe",
-   "score": 0.35707253
+   "score": 0.35700226
   },
   {
    "id": "7e3bfbc5-ec3a-48af-8b47-d8663b8af509",
@@ -35,7 +35,7 @@
     "en": "HaruHana"
    },
    "contentRating": "safe",
-   "score": 0.33713382
+   "score": 0.3371034
   },
   {
    "id": "0c1fc96a-773f-435c-a01d-ea419bfca27f",
@@ -43,28 +43,7 @@
     "en": "Anata To Gyuutto"
    },
    "contentRating": "safe",
-   "score": 0.333633
-  },
-  {
-   "id": "35a69a0a-f647-4d4a-9eaf-b1b451360d24",
-   "title": {
-    "en": "Datte mou Suki ni natchattashi"
-   },
-   "contentRating": "safe",
-   "score": 0.30953303
-  },
-  {
-   "id": "b7a2d54a-6d1b-4b1b-a266-1b3737f4f671",
-   "title": {
-    "en": "In So Deep It's Love Already"
-   },
-   "contentRating": "safe",
-   "score": 0.30934653,
-   "languages": [
-    "pt-br",
-    "en",
-    "fr"
-   ]
+   "score": 0.33362675
   },
   {
    "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
@@ -72,7 +51,7 @@
     "en": "Hana-kun to Koisuru Watashi"
    },
    "contentRating": "safe",
-   "score": 0.30893332,
+   "score": 0.31556422,
    "languages": [
     "pt-br",
     "pl",
@@ -80,12 +59,33 @@
    ]
   },
   {
+   "id": "b7a2d54a-6d1b-4b1b-a266-1b3737f4f671",
+   "title": {
+    "en": "In So Deep It's Love Already"
+   },
+   "contentRating": "safe",
+   "score": 0.3096731,
+   "languages": [
+    "pt-br",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "35a69a0a-f647-4d4a-9eaf-b1b451360d24",
+   "title": {
+    "en": "Datte mou Suki ni natchattashi"
+   },
+   "contentRating": "safe",
+   "score": 0.30960798
+  },
+  {
    "id": "9bd47f75-e0e9-4201-967c-e2e0b6a3fe1e",
    "title": {
     "en": "Choro na to Senpai"
    },
    "contentRating": "safe",
-   "score": 0.3071181
+   "score": 0.30716357
   },
   {
    "id": "e0c22186-cc5b-42ca-a9f3-5c81257cc78d",
@@ -93,7 +93,7 @@
     "en": "Koko Kara Saki wa NG!"
    },
    "contentRating": "safe",
-   "score": 0.30419925,
+   "score": 0.30442435,
    "languages": [
     "en"
    ]
@@ -104,7 +104,7 @@
     "en": "Majime ni Fumajime"
    },
    "contentRating": "safe",
-   "score": 0.30062577
+   "score": 0.30059704
   },
   {
    "id": "07f0e5fd-2f14-4c00-a170-0edb7b5e7a5c",
@@ -112,7 +112,7 @@
     "en": "Unubore Danshi to no Koi wa Wazawai no Gen"
    },
    "contentRating": "safe",
-   "score": 0.3004429
+   "score": 0.30050552
   },
   {
    "id": "20bffaca-b662-4060-ba06-12c82afe8261",
@@ -120,7 +120,18 @@
     "en": "Oshikatsu ~Hatsukoi wa Saioshi to~"
    },
    "contentRating": "safe",
-   "score": 0.29874665
+   "score": 0.2987219
+  },
+  {
+   "id": "a9779082-e501-4f7b-a6d6-e42de4dd9b23",
+   "title": {
+    "ja": "Hashiba Kaede wa Tokimekitai"
+   },
+   "contentRating": "safe",
+   "score": 0.29677364,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "755cd766-aa5f-41e5-aef4-04af319b14b5",
@@ -128,7 +139,7 @@
     "en": "Senpai wa Cool dakedo, Watashi ni Dake wa Amasugiru."
    },
    "contentRating": "safe",
-   "score": 0.29435351
+   "score": 0.29441664
   },
   {
    "id": "adb1ab1b-da0e-4031-a45b-9c8ad060f197",
@@ -136,16 +147,8 @@
     "en": "Tadashi Koi ni Kagiru."
    },
    "contentRating": "safe",
-   "score": 0.29312098
-  },
-  {
-   "id": "12831477-ca4f-40f1-9703-ee66e2dcb2ee",
-   "title": {
-    "en": "Toraji-senpai no Shiiku gakari"
-   },
-   "contentRating": "safe",
-   "score": 0.29310903
+   "score": 0.29317078
   }
  ],
- "updatedAt": "2024-12-01T21:22:53+00:00"
+ "updatedAt": "2025-01-06T00:31:40+00:00"
 }

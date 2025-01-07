@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Konyaku Hakisareta no ni Moto Konyakusha no Kekkonshiki ni Shoutaisaremashita. Kotowarenai no de Ani no Yuujin ni Doukou shite Moraimasu."
+   "en": "Kon'yaku Hakisareta no ni Moto Kon'yakusha no Kekkonshiki ni Shoutaisaremashita. Kotowarenai no de Ani no Yuujin ni Doukou shite Moraimasu."
   },
   "altTitles": [
    {
@@ -22,8 +22,10 @@
    "raw": "https://www.ganganonline.com/title/1662"
   },
   "originalLanguage": "ja",
+  "lastVolume": "4",
+  "lastChapter": "18",
   "publicationDemographic": "shoujo",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2023,
   "contentRating": "safe",
   "tags": [
@@ -89,9 +91,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 8,
   "createdAt": "2023-05-23T00:24:03+00:00",
-  "updatedAt": "2024-11-23T22:57:02+00:00"
+  "updatedAt": "2024-12-16T03:47:08+00:00"
  },
  "relationships": [
   {
@@ -173,16 +175,16 @@
    }
   },
   {
-   "id": "4c6146bd-4fbc-497f-8113-2a168842b5ad",
+   "id": "66c52d9d-d887-4ed0-9c66-47148d97490b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-05-23T00:24:13+00:00",
+    "createdAt": "2024-12-16T03:41:49+00:00",
     "description": "",
-    "fileName": "aab0a7d0-4ca8-4afb-be20-d058a7a853e8.jpg",
+    "fileName": "010a4c25-182d-44ae-a65f-a22024c104fb.jpg",
     "locale": "ja",
-    "updatedAt": "2023-05-23T00:24:13+00:00",
+    "updatedAt": "2024-12-16T03:41:49+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
   },
   {

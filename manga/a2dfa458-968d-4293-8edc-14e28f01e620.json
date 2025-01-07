@@ -3,14 +3,11 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tan-Tsiu-Niu"
+   "en": "Guardienne"
   },
   "altTitles": [
    {
     "zh-hk": "守娘"
-   },
-   {
-    "en": "Guardienne"
    },
    {
     "ja": "守娘"
@@ -26,6 +23,7 @@
   "links": {
    "al": "163748",
    "bw": "decf3c558f-67b6-4dc3-ad26-1c6d31b1ebed",
+   "kt": "shou-niang",
    "mu": "qj83x2c",
    "raw": "https://www.creative-comic.tw/zh/book/101/content"
   },
@@ -35,6 +33,10 @@
   "status": "completed",
   "year": 2019,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "7e53a64d-0a5b-4098-8c0f-680b3d80fb78",
   "tags": [
    {
     "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
@@ -110,9 +112,9 @@
    }
   ],
   "state": "published",
-  "version": 14,
+  "version": 16,
   "createdAt": "2023-07-09T02:43:19+00:00",
-  "updatedAt": "2024-07-12T12:41:03+00:00"
+  "updatedAt": "2024-12-25T13:49:18+00:00"
  },
  "relationships": [
   {

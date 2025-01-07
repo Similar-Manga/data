@@ -3,17 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "One Day a Message Window Appeared Out of Nowhere!?"
+   "en": "Aru Hi Totsuzen Message Window ga Hyoujisaretan desu kedo!?"
   },
   "altTitles": [
    {
     "ja": "ある日突然メッセージウィンドウが表示されたんですけど！？"
    },
    {
-    "ja-ro": "Aru Hi Totsuzen Message Window ga Hyoujisaretan desu kedo!?"
+    "ja-ro": "Aru Hi Totsuzen Message Window ga Hyouji Saretan desu kedo!?"
    },
    {
-    "ja-ro": "Aru Hi Totsuzen Messeeji Windou ga Hyoujisaretandesukedo!?"
+    "en": "One Day a Message Window Appeared Out of Nowhere!?"
    }
   ],
   "description": {
@@ -21,7 +21,7 @@
    "ja": "主人公・早川一哉はある日目が覚めるとメッセージウィンドウが見えるようになってしまった。\n常に表示されるそのウィンドウにはとあるセリフが表示され主人公を混乱させる。\n\nこの日から早川一哉のメッセージウィンドウに振り回される苦難の日々が始まった。"
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/ある日突然メッセージウィンドウが表示されたんですけど！？-オーイデくん-ebook/dp/B0CWMWKLRX",
+   "amz": "https://www.amazon.co.jp/dp/B0CWMWKLRX",
    "mu": "8lec9wv",
    "raw": "https://www.pixiv.net/user/97650221/series/226187"
   },
@@ -33,14 +33,38 @@
    "en",
    "id"
   ],
-  "latestUploadedChapter": "979cbfc9-9ec1-46aa-8721-a4bb3867fc9e",
+  "latestUploadedChapter": "5b6a7a33-fa02-4a90-bc5f-7d51530ad848",
   "tags": [
    {
-    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "School Life"
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
      },
      "description": {},
      "group": "theme",
@@ -70,12 +94,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 19,
   "createdAt": "2024-05-08T22:14:03+00:00",
-  "updatedAt": "2024-10-27T10:00:30+00:00"
+  "updatedAt": "2024-12-27T22:45:24+00:00"
  },
  "relationships": [
   {
@@ -146,6 +182,11 @@
     "version": 1,
     "volume": "3"
    }
+  },
+  {
+   "id": "7dcad5b5-078b-448a-b4c7-eac8a6e57ccd",
+   "type": "manga",
+   "related": "alternate_story"
   },
   {
    "id": "02c385d5-beac-4ee4-9383-20b55d7d8a50",

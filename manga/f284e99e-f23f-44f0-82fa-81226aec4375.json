@@ -1,0 +1,149 @@
+{
+ "id": "f284e99e-f23f-44f0-82fa-81226aec4375",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "\"LOVe\""
+  },
+  "altTitles": [
+   {
+    "ja": "\"ラブ\""
+   }
+  ],
+  "description": {
+   "en": "Ai Takagi, a girl who has been flying around the world with her father since she was a child, is on her way to the Ogasawara Islands to meet her father, who has gone to \"space\" for work. While on the ship, she meets Yohei Kujiraoka, a boy who continues to play tennis against the wall despite the shaking of the boat. Interested in Yohei and tennis, Ai begins to play tennis during her stay in Ogasawara, dreaming of a showdown with Yohei, but the all-important Yohei leaves Ogasawara. Unable to give up, Ai fakes her identity and enrolls in an all-boys school known for its prestigious tennis program, just so she can play tennis against Yohei."
+  },
+  "links": {
+   "al": "164154",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B074CGJT2H?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1735592754\u0026sr=1-1",
+   "bw": "series/128887/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/111271/",
+   "mu": "7ns65m7"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "30",
+  "lastChapter": "269",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1993,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-30T21:18:12+00:00",
+  "updatedAt": "2024-12-30T21:18:34+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "90c2a747-36da-4a64-b2e1-7805dac1b5b8",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T21:18:15+00:00",
+    "description": "",
+    "fileName": "5a900f7b-81ae-413b-a2f7-6745430b9512.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T21:18:15+00:00",
+    "version": 1,
+    "volume": "30"
+   }
+  },
+  {
+   "id": "f2e588fa-06c2-4a14-ae79-007014d0e277",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

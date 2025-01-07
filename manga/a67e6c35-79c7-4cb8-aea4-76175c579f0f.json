@@ -3,12 +3,32 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Shin Koihime Musou Anthology Comic"
+   "en": "Shin Koihime Musou Comic Anthology"
   },
-  "description": {},
+  "altTitles": [
+   {
+    "ja": "真・恋姫†無双 コミックアンソロジー"
+   },
+   {
+    "ja-ro": "Shin・Koihime†Musou Comic Anthology"
+   },
+   {
+    "en": "Shin Koihime Musou Anthology Comic"
+   }
+  ],
+  "description": {
+   "en": "Shin Koihime Musou comic anthology published by Ichijinsha.\n\nLet's go on a journey together with the maidens towards a faraway, peach-colored heavenly route.\n\n(Source: [BaseSon](https://baseson.nexton-net.jp/kan_cm.html))",
+   "ja": "一迅社より『真・恋姫†無双』、コミックアンソロジー発売！\n\n乙女たちと往かん、遙かなる桃天航路―。\n\n魏・呉・蜀の恋姫たちと花咲ける日々を余すところなくコミック化！\n質・量・愛でいっぱいの三国志演義、ここに開幕！\n\n---\n\n一迅社ゲームアンソロジーシリーズにあの『真・恋姫†無双』がついに登場!魅力あふれる乙女たちとのドキドキ三国志演義!! ちょっとHに、とってもキュートに仕上がった恋姫LOVE満載の一冊、自信を持ってお贈りします!!!表紙:ひなた睦月イラスト:テツ/まもウィリアムズ/麻璃音漫画:元樹朱鷺/天野うずら/一葵さやか/黄鶏/櫻 太助/30M先/杉山ユキ/宙/平こさか/田渕よしこ/延川祐子/広輪 凪/ホネ/みづしま亜留/RikaON"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/dp/4758004935",
+   "raw": "https://www.suruga-ya.jp/product/detail/WR1006"
+  },
   "originalLanguage": "ja",
+  "lastVolume": "8",
   "status": "completed",
-  "contentRating": "safe",
+  "year": 2009,
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "vi"
   ],
@@ -64,13 +84,13 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 11,
   "createdAt": "2024-11-06T14:06:51+00:00",
-  "updatedAt": "2024-11-06T14:08:42+00:00"
+  "updatedAt": "2024-12-07T16:50:40+00:00"
  },
  "relationships": [
   {
-   "id": "29c4b49a-812d-4687-863d-2e4f5e58fb4a",
+   "id": "06d7c9ea-3507-44a1-8efb-0d0a8d39d10d",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -80,7 +100,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Various",
+    "name": "BaseSon",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -96,17 +116,19 @@
    }
   },
   {
-   "id": "9e16e739-eccc-472c-9a02-be7608c9605a",
-   "type": "author",
+   "id": "159f9ed4-a783-4be1-a62a-c4adc7658c38",
+   "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: テツ"
+    },
     "booth": null,
-    "createdAt": "2024-11-06T13:59:50+00:00",
+    "createdAt": "2024-10-12T14:00:18+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Beason",
+    "name": "Tetsu (テツ)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -114,15 +136,95 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-06T13:59:50+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-07T15:04:04+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "29c4b49a-812d-4687-863d-2e4f5e58fb4a",
+   "id": "1626966e-4443-451c-a2ca-b9f3b2997372",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-02-14T14:30:11+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kashiwa (黄鶏)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-07T14:13:32+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "49f74e04-73e1-4932-9cb2-041d2924219a",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n30M-Saki\n30M先"
+    },
+    "booth": null,
+    "createdAt": "2022-04-26T16:16:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "30M Saki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/672888",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-04-26T16:40:01+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4e6996f5-46d2-4dc7-85bc-da10f1595cff",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-09-17T05:30:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hinata Mutsuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-03-29T17:21:50+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "58db6744-0ecc-4813-9ac3-8536cd6a075d",
    "type": "artist",
    "attributes": {
     "biography": {},
@@ -132,7 +234,89 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Various",
+    "name": "RikaON",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-07T03:45:45+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "69c422fd-2e68-469e-80df-ea44bee38f44",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 麻璃音"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Marine",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-07T14:23:48+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6cf47ca2-2810-4c18-8852-eac4f44579b4",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nまもウィリアムズ\n\n**Circle**: Kazemichiya (風道屋) "
+    },
+    "booth": null,
+    "createdAt": "2023-03-20T21:24:49+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=21919",
+    "name": "Mamo Williams",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/7859",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/mamowilliams",
+    "updatedAt": "2023-03-25T22:15:35+00:00",
+    "version": 2,
+    "website": "http://kazemichiya.sakura.ne.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "818aa5a3-1a32-4e3a-8545-864b3373aecb",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Itsuki Sayaka",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -143,6 +327,304 @@
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
     "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "91d79097-3d1a-4591-bbf8-2b93d740ea3c",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizushima Aru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "97f6d394-7cb9-45af-9d71-6ee14552109e",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n櫻太助"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sakura Tasuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/3441634",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tskskr",
+    "updatedAt": "2022-05-14T19:10:39+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9e16e739-eccc-472c-9a02-be7608c9605a",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 宙"
+    },
+    "booth": null,
+    "createdAt": "2024-11-06T13:59:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Chuu (宙)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-07T14:09:43+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a0bb4f8b-7d49-4e88-b1dc-813bbb58032f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sugiyama Yuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "acf0f37d-056f-4273-a5b9-8351093aae41",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n天野うずら"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amano Uzura",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/11036605",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/uzura_amano",
+    "updatedAt": "2022-04-27T21:50:31+00:00",
+    "version": 2,
+    "website": "http://www.liliel.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b0c8b423-1239-46ec-8fe7-beb8a37516d4",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Not to be confused with the manga \u0026 doujin artist [hone](https://mangadex.org/author/f4f3c91e-094c-4656-aec9-f2e2f46e09b2).\n\n**Native name**: ホネ\n\n**Circle/s**:\n[Koppun](https://mangadex.org/author/83cf2682-4655-47ec-b615-acf0585ad941) (骨粉)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hone (ホネ)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-11T03:53:42+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b36cd418-6605-4bea-9e69-f0b8275c22f9",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-05-07T19:17:22+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nobukawa Yuuko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": "https://nobukaway.tumblr.com/",
+    "twitter": "http://twitter.com/hokibosi",
+    "updatedAt": "2023-09-23T17:06:03+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c07380f9-e488-40a2-835d-53072a029015",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-22T19:20:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tabuchi Yoshiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-22T19:20:19+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c11ee7de-23f4-42db-b267-bcb052950167",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n広輪凪"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://hirowa.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hirowa Nagi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/3056",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/n_hirowa",
+    "updatedAt": "2022-04-27T18:30:16+00:00",
+    "version": 2,
+    "website": "http://hirowa.dfz.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f76f57d3-7dbd-41c9-81c3-57e2fbc8bbdc",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Taira Kosaka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fc841425-0d08-42f9-8606-f9234ed08bdf",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Initially used the pen name Asagi Shuro (元樹朱鷺) for doujinshi and anthology comic works.\n\n**Name In Native Language:** 幾花にいろ\n\n**Formerly Known As:** Asagi Shuro (元樹朱鷺)\n\n**Circles:**\nIkuhana Niiro Circle (幾花にいろサークル)\nUsagi Daikoushin (うさぎ大行進)\n\n[Abandoned pixiv](https://www.pixiv.net/users/3926528) ([Explanation](https://x.com/ikuhananiro/status/1020079172956196865))"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ikuhana Niiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ikuhananiro",
+    "updatedAt": "2024-12-07T14:19:45+00:00",
+    "version": 4,
+    "website": "http://1987216.blog63.fc2.com/",
     "weibo": null,
     "youtube": null
    }

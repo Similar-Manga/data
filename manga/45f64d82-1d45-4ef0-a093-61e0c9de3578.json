@@ -1,0 +1,164 @@
+{
+ "id": "45f64d82-1d45-4ef0-a093-61e0c9de3578",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kid Gang Season 2"
+  },
+  "altTitles": [
+   {
+    "ko": "키드갱"
+   },
+   {
+    "vi": "Nhóc Siêu Quậy"
+   }
+  ],
+  "description": {
+   "en": "Continuation of [Kid Gang](https://mangadex.org/title/038672d9-0e71-4d10-b3a3-04c488590e64) published on Webtoon from 2012 to 2014.\nThe second season was collected in the final volumes 23-28 of the series.\n\n---\n\n#### Links:\n* Buy at: [Kyobobook](https://search.kyobobook.co.kr/search?keyword=%EC%8B%A0%EC%98%81%EC%9A%B0\u0026rekeyword=%ED%82%A4%EB%93%9C%EA%B0%B1\u0026ra=date\u0026chrcCode=1000198001)"
+  },
+  "links": {
+   "al": "50290",
+   "ap": "kid-gang",
+   "kt": "9062",
+   "mal": "20290",
+   "mu": "54730",
+   "raw": "https://comic.naver.com/webtoon/list?titleId=471286"
+  },
+  "originalLanguage": "ko",
+  "lastVolume": "28",
+  "lastChapter": "86",
+  "status": "completed",
+  "year": 2012,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-13T22:07:30+00:00",
+  "updatedAt": "2024-12-13T23:33:58+00:00"
+ },
+ "relationships": [
+  {
+   "id": "baf884be-74a8-444f-b369-de27c4ab1d10",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shin Yeong Woo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "baf884be-74a8-444f-b369-de27c4ab1d10",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shin Yeong Woo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7dea2a90-89f5-42ad-b85b-5f45080b77e2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-13T23:09:07+00:00",
+    "description": "",
+    "fileName": "666a23ee-73e7-4516-b28b-d32dcb50cad1.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-12-13T23:09:07+00:00",
+    "version": 1,
+    "volume": "28.1"
+   }
+  },
+  {
+   "id": "038672d9-0e71-4d10-b3a3-04c488590e64",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "cf76a880-cc1e-4bba-8634-3e5850528572",
+   "type": "creator"
+  }
+ ]
+}

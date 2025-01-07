@@ -1,0 +1,170 @@
+{
+ "id": "547d5d43-a901-4f89-8f40-54b653185609",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Nuigurumi-uri no Yakuza-tachi"
+  },
+  "altTitles": [
+   {
+    "ja": "ぬいぐるみ売りのヤクザたち"
+   },
+   {
+    "en": "Stuffed-Animal-Selling Mobsters"
+   }
+  ],
+  "description": {
+   "en": "Mobsters Marco and Sakiko are one day ordered by their boss to sell a stuffed animal. However, inside the stuffed animal is a mysterious USB stick, and mobsters from another family show up to target Marco and Sakiko?"
+  },
+  "links": {
+   "al": "185134",
+   "raw": "https://shonenjumpplus.com/episode/14079602755156757773"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "85daba54-a71c-4554-8a28-9901a8b0afad",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mafia"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-03T23:34:51+00:00",
+  "updatedAt": "2024-12-03T23:42:03+00:00"
+ },
+ "relationships": [
+  {
+   "id": "57e9db87-4b73-46be-8e66-241e9fcd2930",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 市川苦楽\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/11844546810162074674)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-30T15:44:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ichikawa Kuraku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/krk_rrr",
+    "updatedAt": "2024-12-03T19:57:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "57e9db87-4b73-46be-8e66-241e9fcd2930",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 市川苦楽\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/11844546810162074674)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-30T15:44:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ichikawa Kuraku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/krk_rrr",
+    "updatedAt": "2024-12-03T19:57:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5ae9540a-06a8-480c-827e-8bd42f9a021f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-03T23:34:55+00:00",
+    "description": "",
+    "fileName": "37c36906-b7e8-48be-9fc6-d94501657504.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-03T23:34:55+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

@@ -88,7 +88,7 @@
    "ap": "kingdom",
    "bw": "series/12466/list",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-31748",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/132898/",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/132898",
    "kt": "3480",
    "mal": "16765",
    "mu": "14444",
@@ -102,8 +102,8 @@
   "availableTranslatedLanguages": [
    "en",
    "it",
-   "vi",
    "ar",
+   "vi",
    "ru",
    "uk",
    "es",
@@ -116,20 +116,8 @@
    "de",
    "fr"
   ],
-  "latestUploadedChapter": "d83485a1-8ad3-4a0c-aa71-4a73cb910345",
+  "latestUploadedChapter": "47a11154-33ce-45cd-bff3-3b34881185a3",
   "tags": [
-   {
-    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Thriller"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
    {
     "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
     "type": "tag",
@@ -160,18 +148,6 @@
     "attributes": {
      "name": {
       "en": "Action"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Romance"
      },
      "description": {},
      "group": "genre",
@@ -264,9 +240,9 @@
    }
   ],
   "state": "published",
-  "version": 67,
+  "version": 70,
   "createdAt": "2018-01-31T06:11:34+00:00",
-  "updatedAt": "2024-11-29T20:03:34+00:00"
+  "updatedAt": "2024-12-18T16:50:40+00:00"
  },
  "relationships": [
   {
@@ -326,16 +302,16 @@
    }
   },
   {
-   "id": "3b33af97-508b-44fa-9abf-57523a4c3e50",
+   "id": "bab76521-417a-42c9-a92d-588c654daf4c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-19T16:05:50+00:00",
-    "description": "Format: Digital\r\nImprint: Young Jump Comics\r\nPublisher: Shueisha\r\nYear: 2012",
-    "fileName": "93b0b3ea-5990-4e2b-ad1a-01e231a7938a.jpg",
+    "createdAt": "2024-12-18T16:50:40+00:00",
+    "description": "",
+    "fileName": "0693f829-07d6-445e-bc08-ba82981ab6ea.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-19T16:05:50+00:00",
+    "updatedAt": "2024-12-18T16:50:40+00:00",
     "version": 1,
-    "volume": "73.1"
+    "volume": "74.1"
    }
   },
   {

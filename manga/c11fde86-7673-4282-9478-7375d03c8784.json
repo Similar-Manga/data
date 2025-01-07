@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hayabusa"
+   "en": "Peregrine Falcon"
   },
   "altTitles": [
    {
-    "en": "ハヤブサ"
+    "ja": "ハヤブサ"
+   },
+   {
+    "ja-ro": "Hayabusa"
    }
   ],
   "description": {
@@ -74,9 +77,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2018-08-12T17:48:06+00:00",
-  "updatedAt": "2021-05-25T15:47:15+00:00"
+  "updatedAt": "2024-12-15T07:28:22+00:00"
  },
  "relationships": [
   {

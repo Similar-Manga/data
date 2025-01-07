@@ -1,0 +1,150 @@
+{
+ "id": "e7adce3e-d724-469c-90e3-1bfe307f4d60",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kid Icarus - Ready to Fight (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "レディトゥファイト"
+   },
+   {
+    "en": "Ready to Fight"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/nopepe_/status/1088116463087439872"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2019,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-05T17:21:38+00:00",
+  "updatedAt": "2025-01-05T17:35:49+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ef5751f3-e1ac-470c-84ca-1cc60851ae13",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T00:29:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nopepe",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T00:29:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ef5751f3-e1ac-470c-84ca-1cc60851ae13",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T00:29:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nopepe",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T00:29:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9d84dde4-1271-49af-90d3-028346cff56a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-05T17:21:40+00:00",
+    "description": "",
+    "fileName": "f122eeee-93ec-47c5-84d8-3b9902a1f69f.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-05T17:21:40+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "f319d314-4310-4610-bcea-98c0128def1d",
+   "type": "creator"
+  }
+ ]
+}

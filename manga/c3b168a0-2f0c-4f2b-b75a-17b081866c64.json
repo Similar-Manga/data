@@ -31,7 +31,7 @@
    "en",
    "pt-br"
   ],
-  "latestUploadedChapter": "367905f9-575b-42ef-b428-fd160e0874e4",
+  "latestUploadedChapter": "91ce01bf-ab5d-4ac9-9b25-183165f10a9e",
   "tags": [
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
@@ -70,6 +70,18 @@
     }
    },
    {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
     "attributes": {
@@ -92,12 +104,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 14,
+  "version": 15,
   "createdAt": "2024-10-16T19:53:43+00:00",
-  "updatedAt": "2024-11-18T21:45:57+00:00"
+  "updatedAt": "2024-12-29T06:06:55+00:00"
  },
  "relationships": [
   {
@@ -153,16 +177,16 @@
    }
   },
   {
-   "id": "a9146b23-64a5-4438-9d1c-9c9bb0f81a74",
+   "id": "e2e48779-0813-401e-9174-cb4efee48fdd",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-16T19:53:49+00:00",
+    "createdAt": "2024-11-18T17:00:43+00:00",
     "description": "",
-    "fileName": "319ead18-d289-488e-9c9e-a936dec84a10.png",
+    "fileName": "6b10056e-4dd6-4ef6-bfe6-c45932c75ca7.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-16T19:53:49+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-12-16T21:35:14+00:00",
+    "version": 3,
+    "volume": "2"
    }
   },
   {

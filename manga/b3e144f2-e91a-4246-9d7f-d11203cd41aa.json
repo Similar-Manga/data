@@ -7,30 +7,34 @@
   },
   "altTitles": [
    {
-    "en": "Dandan (Warmth)"
+    "ja": "ノスタルジア"
    },
    {
-    "en": "Kinmokusei"
+    "ja-ro": "Makka na Tulip wo Kimi ni (Red Tulips for You)"
    },
    {
-    "en": "Makka na Tulip no Hanakotoba"
+    "ja-ro": "Kinmokusei"
    },
    {
-    "en": "Makka na Tulip wo Kimi ni (Red Tulips for You)"
+    "ja-ro": "Yume no Hanashi"
    },
    {
-    "en": "Yume no Hanashi"
+    "ja-ro": "Dandan (Warmth)"
    },
    {
-    "en": "ノスタルジア"
+    "ja-ro": "Makka na Tulip no Hanakotoba"
    }
   ],
   "description": {
-   "en": "1. Makka na Tulip wo Kimi ni (Red Tulips for You)  \nRed tulips for you, and you, and you.  \n  \n2. Nostalgia  \n3. Kinmokusei  \n4. Yume no Hanashi  \n  \n5. Dandan (Warmth)  \nMatsuki and Nishimori have been best friends, but when Matsuki develops romantic feelings for her, he decides to confess. His unrequited love means little to Nishimori because she doesn't see him the same way and she's perfectly content with the friendship they have now. Can the flames ever be rekindled or will it remain cold?  \n  \n6. Makka na Tulip no Hanakotoba"
+   "en": "1. Makka na Tulip wo Kimi ni (Red Tulips for You)  \nRed tulips for you, and you, and you.\n2. Nostalgia\n3. Kinmokusei\n4. Yume no Hanashi\n5. Dandan (Warmth)  \nMatsuki and Nishimori have been best friends, but when Matsuki develops romantic feelings for her, he decides to confess. His unrequited love means little to Nishimori because she doesn't see him the same way and she's perfectly content with the friendship they have now. Can the flames ever be rekindled or will it remain cold?\n6. Makka na Tulip no Hanakotoba",
+   "ja": "忘れかけていた初恋の記憶、あの日描いた未来の自分、形は変わっても思いは色あせないままで──。懐かしさと優しさで胸があったかくなる、6編を収録した読みきり集。"
   },
   "links": {
    "al": "106257",
+   "amz": "https://www.amazon.co.jp/dp/B00EZ1B4UK",
    "ap": "nostalgia-saori-hagiwara",
+   "bw": "de56a026ed-f689-4b35-b139-ea2f4c933574",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/192039",
    "kt": "20315",
    "mal": "40491",
    "mu": "100556"
@@ -40,6 +44,7 @@
   "lastChapter": "5.5",
   "publicationDemographic": "shoujo",
   "status": "completed",
+  "year": 2013,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
@@ -59,12 +64,48 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-07-15T23:24:04+00:00",
-  "updatedAt": "2021-05-25T15:46:42+00:00"
+  "updatedAt": "2025-01-03T19:37:11+00:00"
  },
  "relationships": [
   {
@@ -120,16 +161,16 @@
    }
   },
   {
-   "id": "a1681c3f-8e60-4f7e-8052-9e4fb183e417",
+   "id": "1e749128-dda2-46d1-b41c-07be61d97514",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:19:05+00:00",
-    "description": "",
-    "fileName": "a0f666a2-8e96-4f6b-9226-9a506ec8f3e1.png",
+    "createdAt": "2025-01-03T19:37:10+00:00",
+    "description": "Volume 1 Cover from BookWalker",
+    "fileName": "e986b37f-47bb-495c-9136-7c0ff8a61566.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:19:05+00:00",
+    "updatedAt": "2025-01-03T19:37:10+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

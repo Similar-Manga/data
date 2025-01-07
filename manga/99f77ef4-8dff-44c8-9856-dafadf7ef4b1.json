@@ -11,11 +11,18 @@
    },
    {
     "en": "The Avengers and The Prisoners"
+   },
+   {
+    "en": "Prisoner Reincarnation"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "脱獄した死刑囚たちによる自爆テロに巻き込まれ、気づくと剣と魔法の異世界に転生していたクリス。彼は生まれつき持っていた固有能力とともに、今度こそクソな人生を送らないよう決意する。だが、この世界には例の死刑囚たちも転生していて…!?"
+  },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DMFLT1XR",
    "bw": "series/496050/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/864763",
    "mu": "jrdwrv9",
    "raw": "https://comic-fuz.com/manga/3500"
   },
@@ -25,6 +32,18 @@
   "year": 2024,
   "contentRating": "erotica",
   "tags": [
+   {
+    "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
     "type": "tag",
@@ -58,6 +77,30 @@
      },
      "description": {},
      "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -99,9 +142,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 8,
   "createdAt": "2024-06-10T14:53:44+00:00",
-  "updatedAt": "2024-11-22T14:54:58+00:00"
+  "updatedAt": "2024-12-17T10:54:52+00:00"
  },
  "relationships": [
   {

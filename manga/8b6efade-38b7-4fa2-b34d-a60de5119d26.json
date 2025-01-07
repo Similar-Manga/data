@@ -10,10 +10,16 @@
     "ja": "洒落にならないネット掲示板百物語～都市伝説コミック怪談集～"
    },
    {
-    "ja-ro": "Share ni Naranai Net Keijiban Hyaku Monogatari ~Toshi Densetsu Comic Kaidan-shuu~"
+    "ja-ro": "Share ni Naranai Net Keijiban Hyaku Monogatari: Toshi Densetsu Comic Kaidanshuu"
    },
    {
     "en": "Chilling Internet Urban Legends: A Horror Comic Anthology"
+   },
+   {
+    "ja-ro": "Hontou ni Kowai Net Keijiban Hyaku Monogatari: Toshi Densetsu Comic Kaidanshuu"
+   },
+   {
+    "ja": "本当に怖いネット掲示板百物語～都市伝説コミック怪談集～"
    }
   ],
   "description": {
@@ -35,7 +41,7 @@
    "ru",
    "en"
   ],
-  "latestUploadedChapter": "99069fd8-2ac7-4ce6-8c11-483d46f734b1",
+  "latestUploadedChapter": "c586ba32-abfc-40a5-95f6-d9530e39e8e5",
   "tags": [
    {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
@@ -135,9 +141,9 @@
    }
   ],
   "state": "published",
-  "version": 30,
+  "version": 33,
   "createdAt": "2024-11-10T07:19:28+00:00",
-  "updatedAt": "2024-11-21T10:51:25+00:00"
+  "updatedAt": "2024-12-16T21:34:29+00:00"
  },
  "relationships": [
   {
@@ -247,6 +253,32 @@
    }
   },
   {
+   "id": "bc93bc39-0ab5-441f-aec2-0cd8173e9a18",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-16T21:30:39+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kageyama Kogatsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-16T21:30:39+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "c23251af-6230-43c6-93dd-47e6af85ddac",
    "type": "author",
    "attributes": {
@@ -266,6 +298,32 @@
     "tumblr": null,
     "twitter": null,
     "updatedAt": "2024-11-10T07:01:37+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "eff10e49-f07e-4f64-b70a-a251baa2d963",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-12-18T11:03:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Miyao Ikumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-12-18T11:03:32+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -379,6 +437,32 @@
    }
   },
   {
+   "id": "bc93bc39-0ab5-441f-aec2-0cd8173e9a18",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-16T21:30:39+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kageyama Kogatsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-16T21:30:39+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "c23251af-6230-43c6-93dd-47e6af85ddac",
    "type": "artist",
    "attributes": {
@@ -398,6 +482,32 @@
     "tumblr": null,
     "twitter": null,
     "updatedAt": "2024-11-10T07:01:37+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "eff10e49-f07e-4f64-b70a-a251baa2d963",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-12-18T11:03:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Miyao Ikumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-12-18T11:03:32+00:00",
     "version": 1,
     "website": null,
     "weibo": null,

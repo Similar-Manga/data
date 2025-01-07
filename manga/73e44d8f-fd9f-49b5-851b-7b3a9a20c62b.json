@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Lodoss Tousenki - Haiiro no Majo"
+   "en": "Record of Lodoss War - The Grey Witch"
   },
   "altTitles": [
    {
     "ja-ro": "Lodoss Tou Senki - Haiiro no Majo"
    },
    {
-    "en": "Record of Lodoss War - The Grey Witch"
+    "ja-ro": "Lodoss Tousenki - Haiiro no Majo"
    },
    {
     "ja": "ロードス島戦記 灰色の魔女"
@@ -124,9 +124,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2019-08-05T13:18:45+00:00",
-  "updatedAt": "2024-07-05T01:11:30+00:00"
+  "updatedAt": "2024-12-10T04:29:30+00:00"
  },
  "relationships": [
   {
@@ -244,7 +244,7 @@
   {
    "id": "f07638e9-8392-4ade-8bbd-2952304aa3a8",
    "type": "manga",
-   "related": "spin_off"
+   "related": "same_franchise"
   },
   {
    "id": "f3f98ebf-f5ea-4864-896d-cf6af9d6ef2b",

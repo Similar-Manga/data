@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Arata Kangatari: Kawashingo - Remastered-ban"
+   "en": "Arata: Kangatari - Remastered-ban"
   },
   "altTitles": [
    {
@@ -11,6 +11,9 @@
    },
    {
     "en": "Arata: The Legend - Remastered Edition"
+   },
+   {
+    "vi": "Huyền thoại Arata - Bản Remaster"
    }
   ],
   "description": {
@@ -32,6 +35,10 @@
   "status": "completed",
   "year": 2013,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi"
+  ],
+  "latestUploadedChapter": "f76779cd-4383-4e73-8f0b-d27e09781fa8",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -143,9 +150,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2024-11-05T11:14:57+00:00",
-  "updatedAt": "2024-11-05T11:33:50+00:00"
+  "updatedAt": "2024-12-13T04:27:47+00:00"
  },
  "relationships": [
   {

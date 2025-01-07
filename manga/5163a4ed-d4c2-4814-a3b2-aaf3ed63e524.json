@@ -1,0 +1,102 @@
+{
+ "id": "5163a4ed-d4c2-4814-a3b2-aaf3ed63e524",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Beerus X Bulma"
+  },
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "completed",
+  "contentRating": "pornographic",
+  "tags": [
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2022-02-04T09:37:40+00:00",
+  "updatedAt": "2022-02-04T09:37:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0c4dcefb-b017-4a45-b676-6e9eb47710bf",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamamoto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0c4dcefb-b017-4a45-b676-6e9eb47710bf",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamamoto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0a067295-3ef4-4497-8a3d-97bba2ef269c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2022-02-04T09:37:42+00:00",
+    "description": "",
+    "fileName": "f090b34d-e89f-48c7-90d1-2810b9331cf0.jpg",
+    "locale": "ja",
+    "updatedAt": "2022-02-04T09:37:42+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "e63cc706-8d0a-421a-b32d-fac2c550f138",
+   "type": "creator"
+  }
+ ]
+}

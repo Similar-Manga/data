@@ -3,33 +3,34 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Extra’s Academy Survival Guide"
+   "en": "The Extra's Academy Survival Guide"
   },
   "altTitles": [
-   {
-    "en": "Surviving the Academy"
-   },
-   {
-    "en": "How to Survive at the Academy"
-   },
    {
     "ko": "아카데미에서 살아남기"
    },
    {
-    "pt-br": "O Guia de Sobrevivência do Extra da Academia"
+    "pt-br": "O guia de sobrevivência do extra da academia"
    },
    {
-    "pt-br": "O Guia de Sobrevivência do Figurante da Academia"
+    "pt-br": "O guia de sobrevivência do figurante da academia"
    },
    {
     "ko-ro": "Academy-eseo Saranamgi"
    },
    {
     "es-la": "Guía de supervivencia del extra de la academia"
+   },
+   {
+    "en": "How to Survive at the Academy"
+   },
+   {
+    "en": "Surviving the Academy"
    }
   ],
   "description": {
    "en": "Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. \n\nNow living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won't leave him alone. Not only that, his presence starts to change the timeline and events of the game! \n\nCan Ed help the story progress while staying out of the limelight?",
+   "ko": "즐겨하던 게임의 삼류 엑스트라 악역으로 빙의했다.\n야망은 없고 그냥 조용히 살고 싶다. 근데 세상이 참 살아남기 힘들다.\n주인공이 할 수 없는 삼류 악역의 방식으로, 난 이 이야기의 끝을 맞이하기 위해 살아남는다!",
    "pt-br": "Eu possuía um personagem vilão extra de terceira categoria em meu jogo favorito. Não tenho ambições e só quero viver uma vida tranquila. Mas, caramba, este mundo é um lugar difícil de sobreviver. Eu sobreviverei até o final desta história, de uma forma que o protagonista não conseguirá. Sobreviverei à maneira de um personagem vilão de terceira categoria."
   },
   "links": {
@@ -49,11 +50,12 @@
   "availableTranslatedLanguages": [
    "id",
    "es-la",
+   "pt-br",
    "en",
    "fr",
-   "pt-br"
+   "it"
   ],
-  "latestUploadedChapter": "6aab8638-1015-4f12-bd23-9b709dbbb17c",
+  "latestUploadedChapter": "f9907eb6-df70-4849-af69-d144cb2a48c4",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -249,9 +251,9 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 15,
   "createdAt": "2023-12-29T04:00:46+00:00",
-  "updatedAt": "2024-11-12T21:46:55+00:00"
+  "updatedAt": "2024-12-30T08:19:23+00:00"
  },
  "relationships": [
   {
@@ -309,16 +311,16 @@
    }
   },
   {
-   "id": "4c76130c-96c0-4718-9337-c1b91d769fbb",
+   "id": "3d4c111b-309f-421e-a996-c58074ba52a3",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-22T12:38:35+00:00",
-    "description": "Source: Naver",
-    "fileName": "065cd0b1-10a4-4949-884c-a18f2b30d5c3.jpg",
+    "createdAt": "2024-12-15T15:52:46+00:00",
+    "description": "",
+    "fileName": "82155e0b-5c7c-4832-a4d8-99bf0e3ce299.jpg",
     "locale": "ko",
-    "updatedAt": "2024-11-18T23:01:44+00:00",
-    "version": 2,
-    "volume": "1.1"
+    "updatedAt": "2024-12-15T15:52:46+00:00",
+    "version": 1,
+    "volume": "1.2"
    }
   },
   {

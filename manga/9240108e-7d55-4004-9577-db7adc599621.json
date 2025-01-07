@@ -3,30 +3,31 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Former Legendary Hero Will Enjoy His Second Life Without Restraint"
+   "en": "Jichou shinai Moto Yuusha no Tsuyokute Tanoshii New Game"
   },
   "altTitles": [
    {
-    "zh-hk": "不自重前勇者強大又輕鬆的NEW GAME"
+    "ja": "自重しない元勇者の強くて楽しいニューゲーム"
+   },
+   {
+    "en": "The Former Legendary Hero will Enjoy His Second Life without Restraint"
    },
    {
     "zh": "不自重前勇者强大又轻松的NEW GAME"
    },
    {
-    "ja": "自重しない元勇者の強くて楽しいニューゲーム"
-   },
-   {
-    "ja-ro": "Jichou shinai Moto Yuusha no Tsuyokute Tanoshii New Game"
+    "zh-hk": "不自重前勇者強大又輕鬆的NEW GAME"
    }
   ],
   "description": {
-   "en": "Orion is a former hero who has been reborn in a different world he once saved as a \"hero\". Taking advantage of his second round of heroic heroism, he takes on the world's strongest and wisest maid who was once in the same party with him, picks up a slave girl, and trains her with \"heroic-style power leveling\"! Even if you are attacked by a thief monster girl, you can easily convert her and get her a friend!\n\nThe former hero who never takes responsibility for his own actions, who has acquired a luxurious mansion, the most powerful equipment, beautiful women, fame, and everything else he needs to live his life the way he wants to, has started a new game of strength and fun!"
+   "en": "Orion is a former hero who has been reborn in a different world he once saved as a \"hero\". Taking advantage of his second round of heroic heroism, he takes on the world's strongest and wisest maid who was once in the same party with him, picks up a slave girl, and trains her with \"heroic-style power leveling\"! Even if you are attacked by a thief monster girl, you can easily convert her and get her a friend!\n\nThe former hero who never takes responsibility for his own actions, who has acquired a luxurious mansion, the most powerful equipment, beautiful women, fame, and everything else he needs to live his life the way he wants to, has started a new game of strength and fun!",
+   "ja": "「俺はもう自重しない!!」　かつて最強の勇者として、異世界を救った主人公オリオン。魔王を倒すという使命を果たし現実世界に戻ったものの、ブラック企業にすり潰される毎日。そんなある日、かつて自分が救った異世界へと再び転生を果たす。しかも勇者だった時の強さそのままで！そして…心に誓った。今度の人生では何ひとつ我慢しないことを!!"
   },
   "links": {
    "al": "102154",
    "amz": "https://www.amazon.co.jp/dp/B07S9626VR",
    "ap": "jichou-shinai-motoyuusha-no-tsuyokute-tanoshii-new-game",
-   "bw": "series/150667/list",
+   "bw": "series/150667",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2191372",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/443029",
    "kt": "54170",
@@ -35,7 +36,10 @@
    "raw": "http://seiga.nicovideo.jp/comic/29239"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "20",
+  "lastChapter": "207",
+  "publicationDemographic": "seinen",
+  "status": "completed",
   "year": 2017,
   "contentRating": "erotica",
   "availableTranslatedLanguages": [
@@ -45,7 +49,7 @@
    "es-la",
    "pt-br"
   ],
-  "latestUploadedChapter": "86b39e00-6bd1-498f-8b6e-441bbd8c1908",
+  "latestUploadedChapter": "4ee0b11b-d9bd-407c-8dcd-b6915405775d",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -193,9 +197,9 @@
    }
   ],
   "state": "published",
-  "version": 19,
+  "version": 21,
   "createdAt": "2019-03-25T06:29:56+00:00",
-  "updatedAt": "2024-11-01T05:03:56+00:00"
+  "updatedAt": "2024-12-22T15:32:17+00:00"
  },
  "relationships": [
   {
@@ -253,16 +257,16 @@
    }
   },
   {
-   "id": "88af789b-cd7f-488d-801c-a81687476b66",
+   "id": "70807598-7ee9-441f-b543-c40dfbe34de8",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-08-21T17:42:01+00:00",
+    "createdAt": "2024-12-18T17:01:09+00:00",
     "description": "",
-    "fileName": "2e7fe4dd-5a51-4e26-8a27-f35c14b3597b.jpg",
+    "fileName": "5da28e67-670e-41b8-8cd7-53c0be37a13b.jpg",
     "locale": "ja",
-    "updatedAt": "2024-08-21T17:42:01+00:00",
+    "updatedAt": "2024-12-18T17:01:09+00:00",
     "version": 1,
-    "volume": "19"
+    "volume": "20"
    }
   }
  ]

@@ -3,25 +3,57 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "UFO Robo Grendizer (TV Land)"
+   "en": "UFO Robo Grendizer (Imamichi Eiji)"
   },
   "altTitles": [
    {
     "ja": "UFOロボ グレンダイザー"
+   },
+   {
+    "en": "UFO Robo Grendizer (TV Land)"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "TV Land magazine version of UFO Robo Grandizer by Imamichi Eiji.\n\nOnly one volume was published so half the chapters were never collected."
+  },
+  "links": {
+   "mu": "pf4mva0"
+  },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "publicationDemographic": "shounen",
-  "status": "completed",
+  "status": "cancelled",
   "year": 1975,
-  "contentRating": "safe",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "c3655ac8-1cd7-4ef1-9fb3-2dd37a9b0f73",
+  "latestUploadedChapter": "68d3f3e9-157d-4ed0-87fc-ac05ecd4a9d3",
   "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "50880a9d-5440-4732-9afb-8f457127e836",
     "type": "tag",
@@ -60,9 +92,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 14,
   "createdAt": "2023-11-09T00:17:04+00:00",
-  "updatedAt": "2024-07-06T16:37:23+00:00"
+  "updatedAt": "2024-12-20T00:07:07+00:00"
  },
  "relationships": [
   {

@@ -1,0 +1,149 @@
+{
+ "id": "bf2a563a-7228-48a7-abfb-7a77a28ee193",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "\"Shoku\" Rondo"
+  },
+  "altTitles": [
+   {
+    "ja": "「食」輪舞曲"
+   },
+   {
+    "en": "\"Meal\" Rondo"
+   }
+  ],
+  "description": {
+   "en": "est em's short stories around the theme of \"food.\" Serialized in Morning between issues 2017/20 and 2018/19 as four chapters, and never compiled in a volume. Presumably on hiatus."
+  },
+  "links": {
+   "mu": "cu8dne3"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "hiatus",
+  "year": 2017,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "cbdfa0cf-d044-46a7-9e52-e45f74866459",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-31T17:28:18+00:00",
+  "updatedAt": "2024-12-31T17:28:31+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d2df4b59-1965-484f-b9fa-cd9db59a293b",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\nえすとえむ\nSaki Sato (real name)\n\n**Circles:**\nZangyou Teate (残業手当)\nVOSTOK\n\n[Instagram](https://www.instagram.com/em_fareast/)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "est em",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/estem_info",
+    "updatedAt": "2024-02-23T10:55:05+00:00",
+    "version": 4,
+    "website": "http://www.facebook.com/estem.vostok",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d2df4b59-1965-484f-b9fa-cd9db59a293b",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\nえすとえむ\nSaki Sato (real name)\n\n**Circles:**\nZangyou Teate (残業手当)\nVOSTOK\n\n[Instagram](https://www.instagram.com/em_fareast/)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "est em",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/estem_info",
+    "updatedAt": "2024-02-23T10:55:05+00:00",
+    "version": 4,
+    "website": "http://www.facebook.com/estem.vostok",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d2e08662-8fb0-42be-af08-46a834a212c1",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-31T17:28:22+00:00",
+    "description": "",
+    "fileName": "3d7e47cd-f2b1-49c2-b6a7-1ebba5c7ff88.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-31T17:28:22+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "396ee075-b695-4361-b8d5-0b9a2ae29152",
+   "type": "creator"
+  }
+ ]
+}

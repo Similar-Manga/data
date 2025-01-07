@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "db6dbe2d-9beb-41dc-bf8f-c82ec7ded9d5",
-   "title": {
-    "en": "Ryuujin no Musume"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "8ee82d0b-c204-44fb-a957-3d3dcd6f1395",
    "title": {
     "en": "Forest of Water"
@@ -22,15 +14,20 @@
    "score": 0.2857143
   },
   {
-   "id": "4845a17c-d489-4190-acb0-29f6d3b3bff1",
+   "id": "db6dbe2d-9beb-41dc-bf8f-c82ec7ded9d5",
    "title": {
-    "en": "Otogi Story Tenshi no Shippo"
+    "en": "Ryuujin no Musume"
    },
    "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2857143
+  },
+  {
+   "id": "588d64de-7d77-4a57-bcec-2db1354f1284",
+   "title": {
+    "en": "Tougenkyou"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
   },
   {
    "id": "a77ebe92-b91c-4d64-a4c6-bc7e2b1b9073",
@@ -44,12 +41,15 @@
    ]
   },
   {
-   "id": "588d64de-7d77-4a57-bcec-2db1354f1284",
+   "id": "4845a17c-d489-4190-acb0-29f6d3b3bff1",
    "title": {
-    "en": "Tougenkyou"
+    "en": "A Story of Keeping Company: Angel Tails"
    },
    "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "7c4ac82c-b8ad-4e83-8fb5-a8b15d439908",
@@ -72,29 +72,17 @@
    ]
   },
   {
-   "id": "f4237575-b1cb-4005-9882-2cfd6d25fe99",
+   "id": "40e681c9-e90b-4388-bd7a-416285253e7e",
    "title": {
-    "en": "Shikkoku Shoujo to Shiro no Doukei"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "1e66c25a-76f2-45f9-96a0-042530500f5c",
-   "title": {
-    "en": "Saigami"
+    "en": "Mamotte Shugogetten! Kaifuu no Shou"
    },
    "contentRating": "safe",
    "score": 0.23328476
   },
   {
-   "id": "40e681c9-e90b-4388-bd7a-416285253e7e",
+   "id": "1e66c25a-76f2-45f9-96a0-042530500f5c",
    "title": {
-    "en": "Mamotte Shugogetten! Kaifuu no Shou"
+    "en": "Saigami"
    },
    "contentRating": "safe",
    "score": 0.23328476
@@ -111,12 +99,16 @@
    ]
   },
   {
-   "id": "16703f50-4e5e-49f5-9225-a4446839110c",
+   "id": "f4237575-b1cb-4005-9882-2cfd6d25fe99",
    "title": {
-    "en": "Maou-sama wa Ai made Shiritai."
+    "en": "Shikkoku Shoujo to Shiro no Doukei"
    },
    "contentRating": "safe",
-   "score": 0.23328476
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "ru"
+   ]
   },
   {
    "id": "4bdeff13-b1fb-4fd8-9a9f-56d2d885c2c7",
@@ -124,7 +116,7 @@
     "en": "Kyuutei Kajishi no Shiawase na Nichijou: Black na Shokuba wo Tsuihou Saretaga, Ringoku de Koushaku Reijou ni Dekiaisarenagara White na Seikatsu Okurimasu"
    },
    "contentRating": "safe",
-   "score": 0.22681539,
+   "score": 0.22657499,
    "languages": [
     "en"
    ]
@@ -135,8 +127,9 @@
     "en": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru"
    },
    "contentRating": "safe",
-   "score": 0.21784547,
+   "score": 0.21753936,
    "languages": [
+    "fr",
     "en",
     "vi",
     "ru",
@@ -150,7 +143,7 @@
     "en": "Uzu Majin"
    },
    "contentRating": "safe",
-   "score": 0.21710694
+   "score": 0.21697144
   },
   {
    "id": "6790bf03-de51-4dfe-9915-2e6ab4f6f1a8",
@@ -158,7 +151,7 @@
     "en": "Zero no Dai Kenja ~ Wakagaetta Saikyou Kenja Wa Shoutai o Kakushite Nariagaru"
    },
    "contentRating": "safe",
-   "score": 0.2156494,
+   "score": 0.21559328,
    "languages": [
     "id"
    ]
@@ -169,14 +162,22 @@
     "en": "Yu Ling Shi"
    },
    "contentRating": "safe",
-   "score": 0.20697072,
+   "score": 0.20653018,
    "languages": [
     "ru",
     "en",
     "fr",
     "es-la"
    ]
+  },
+  {
+   "id": "1460dcb3-8b0f-4617-8f64-d0952ac2de24",
+   "title": {
+    "en": "Boku wa Nanadome no Jinsei de, Kaibutsu Hime wo Teniireta"
+   },
+   "contentRating": "safe",
+   "score": 0.20644732
   }
  ],
- "updatedAt": "2024-12-01T22:04:53+00:00"
+ "updatedAt": "2025-01-06T01:23:02+00:00"
 }

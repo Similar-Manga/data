@@ -3,36 +3,37 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Onna no Ie"
+   "en": "House of Women"
   },
   "altTitles": [
    {
-    "en": "House of woman"
+    "ja": "おんなのいえ"
    },
    {
-    "en": "House of women"
-   },
-   {
-    "en": "おんなのいえ"
+    "ja-ro": "Onna no Ie"
    }
   ],
   "description": {
-   "en": "The story centers on 29-year-old Yuuka, who was just dumped by her boyfriend, and her 25-year-old younger sister Sumika. The two return to their mother's hometown of Osaka since their mother has a serious illness. Her mother suddenly gives Yuuka a \"mother's order\": Yuuka must move with her and Sumika to live together in Tokyo. The manga tells the story of the \"women only\" household of two sisters and their mother. [ANN]"
+   "en": "The story centers on 29-year-old Yuuka, who was just dumped by her boyfriend, and her 25-year-old younger sister Sumika. The two return to their mother's hometown of Osaka since their mother has a serious illness. Her mother suddenly gives Yuuka a “mother's order”: Yuuka must move with her and Sumika to live together in Tokyo. The manga tells the story of the “women-only” household of two sisters and their mother. ([ANN](https://www.animenewsnetwork.com/encyclopedia/manga.php?id=17191))"
   },
   "links": {
    "al": "100971",
+   "amz": "https://www.amazon.co.jp/dp/B074CFMWQQ",
    "ap": "onna-no-ie",
-   "cdj": "http://www.cdjapan.co.jp/searches?term.cat_id=UD-14\u0026page=\u0026agg_use=cat_ids_hierarchal_treeish_foldable\u0026term.media_format=\u0026f=major\u0026q=%E3%81%8A%E3%82%93%E3%81%AA%E3%81%AE%E3%81%84%E3%81%88\u0026f=major\u0026q=\u0026f=major\u0026q=\u0026order=scoreboost_cdj\u0026opt.exclude_eoa=1\u0026range.rel=\u0026range.sale_price=\u0026term.caption=\u0026term.audio_language=",
+   "bw": "series/10542",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=おんなのいえ+(KCDX)\u0026order=reldesc",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/199540/",
    "kt": "27016",
    "mal": "64605",
-   "mu": "89871"
+   "mu": "89871",
+   "raw": "https://comic-days.com/episode/10834108156630273261"
   },
   "originalLanguage": "ja",
   "lastVolume": "8",
   "lastChapter": "47",
   "publicationDemographic": "josei",
   "status": "completed",
+  "year": 2012,
   "contentRating": "safe",
   "tags": [
    {
@@ -61,16 +62,18 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 4,
   "createdAt": "2018-11-22T06:06:48+00:00",
-  "updatedAt": "2018-11-22T06:06:48+00:00"
+  "updatedAt": "2024-12-10T04:14:58+00:00"
  },
  "relationships": [
   {
    "id": "bd53c0ce-8629-4c45-b331-bedf89ac62fa",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳥飼茜\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/akanetorikai/)\n- [News X](https://x.com/torikai_news)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -84,9 +87,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/torikaiakane",
+    "updatedAt": "2024-12-07T05:28:00+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -96,7 +99,9 @@
    "id": "bd53c0ce-8629-4c45-b331-bedf89ac62fa",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳥飼茜\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/akanetorikai/)\n- [News X](https://x.com/torikai_news)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -110,25 +115,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/torikaiakane",
+    "updatedAt": "2024-12-07T05:28:00+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "8acc6c39-2e68-4f3b-b9e1-00c115e03b09",
+   "id": "410ba52a-8830-404a-b5de-ea3d2db33250",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:52:19+00:00",
+    "createdAt": "2024-12-10T04:05:45+00:00",
     "description": "",
-    "fileName": "740e79de-28c6-481e-aa42-54326e9186fc.jpg",
+    "fileName": "cc51f139-7d65-410f-a80d-95410699f572.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:52:19+00:00",
+    "updatedAt": "2024-12-10T04:05:45+00:00",
     "version": 1,
-    "volume": null
+    "volume": "8"
    }
   }
  ]

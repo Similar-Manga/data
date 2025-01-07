@@ -3,19 +3,31 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Dragon Tamer"
+   "en": "The Dragon Tamer (Webtoon)"
   },
   "description": {
    "en": "What happens when a girl from a quaint and small town meets the son of a Yakuza crime lord? Will she be able to change him for the better or will he continue down the dangerous and violent path?"
   },
   "links": {
-   "raw": "https://twitter.com/TinaFate1/status/1712756776968605918"
+   "raw": "https://www.webtoons.com/en/canvas/the-dragon-tamer/list?title_no=907246"
   },
   "originalLanguage": "en",
   "status": "ongoing",
   "year": 2023,
   "contentRating": "suggestive",
   "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -66,9 +78,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2024-04-04T05:14:29+00:00",
-  "updatedAt": "2024-05-04T19:16:06+00:00"
+  "updatedAt": "2024-12-31T15:26:30+00:00"
  },
  "relationships": [
   {

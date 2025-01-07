@@ -1,0 +1,162 @@
+{
+ "id": "2fc2a72e-ae5e-482f-aa74-e83299dbec97",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "U ~i ̄ bu-domo yo!"
+  },
+  "altTitles": [
+   {
+    "en": "Hey, fellow Weebs!"
+   },
+   {
+    "pt-br": "Olá, caros Otakus!"
+   },
+   {
+    "ja": "うぃーぶ共よ！"
+   }
+  ],
+  "description": {
+   "en": "Youth, friendship, and social justice!",
+   "pt-br": "Jovens, amizades e justiça social!"
+  },
+  "links": {
+   "raw": "https://www.pixiv.net/user/99912906/series/229168"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "pt-br",
+   "en"
+  ],
+  "latestUploadedChapter": "fc325554-5a8d-4234-aafe-768b13732576",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 12,
+  "createdAt": "2024-12-23T05:14:19+00:00",
+  "updatedAt": "2024-12-25T01:44:05+00:00"
+ },
+ "relationships": [
+  {
+   "id": "854a3895-f1b9-401c-9a1a-aa79e348b249",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-23T05:10:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "OWOUWUWOW",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-23T05:10:46+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "854a3895-f1b9-401c-9a1a-aa79e348b249",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-23T05:10:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "OWOUWUWOW",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-23T05:10:46+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "82fabe12-dc35-4892-886e-4ab3e6fbb3cf",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-25T01:44:04+00:00",
+    "description": "",
+    "fileName": "77848b83-077e-49bb-b0fc-4f6389928c1d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-25T01:44:04+00:00",
+    "version": 1,
+    "volume": "0.1"
+   }
+  },
+  {
+   "id": "fb0ece48-b98a-4897-a2b0-721e8bdc91bc",
+   "type": "creator"
+  }
+ ]
+}

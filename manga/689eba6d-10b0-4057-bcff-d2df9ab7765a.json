@@ -1,0 +1,168 @@
+{
+ "id": "689eba6d-10b0-4057-bcff-d2df9ab7765a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Disney Twisted Wonderland - The Comic - ~Episode of Scarabia~"
+  },
+  "description": {},
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2025,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-27T10:31:55+00:00",
+  "updatedAt": "2024-12-27T10:34:43+00:00"
+ },
+ "relationships": [
+  {
+   "id": "fb5a9488-4c73-43ba-b905-529e4963ba52",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nマジコ！"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Majiko!",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/mjk_tw",
+    "updatedAt": "2022-05-04T15:20:54+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fb5a9488-4c73-43ba-b905-529e4963ba52",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nマジコ！"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Majiko!",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/mjk_tw",
+    "updatedAt": "2022-05-04T15:20:54+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "dc5574a6-b12a-4667-afff-c75f9fece3d8",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-27T10:31:59+00:00",
+    "description": "",
+    "fileName": "5aad82d9-c241-40f8-a4b4-702b3cd21b3e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-27T10:31:59+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "dadf3744-b8ea-42ff-94af-6736af74248e",
+   "type": "creator"
+  }
+ ]
+}

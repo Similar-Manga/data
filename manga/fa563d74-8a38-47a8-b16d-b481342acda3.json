@@ -17,18 +17,20 @@
    "al": "98119",
    "amz": "https://www.amazon.co.jp/dp/4863496214",
    "ap": "sakaku-opera",
-   "bw": "dec64953e7-34e1-43ae-bff6-0c51e976b84b/",
+   "bw": "dec64953e7-34e1-43ae-bff6-0c51e976b84b",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?term.media_format=\u0026q=三角+オペラ",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/424478/",
    "kt": "46016",
    "mal": "100812",
-   "mu": "133221"
+   "mu": "133221",
+   "raw": "https://www.cmoa.jp/title/136347/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
-  "lastChapter": "6",
+  "lastChapter": "5.5",
   "status": "completed",
   "year": 2017,
-  "contentRating": "safe",
+  "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "it",
    "en"
@@ -85,16 +87,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2019-04-24T06:47:10+00:00",
-  "updatedAt": "2022-02-24T13:59:26+00:00"
+  "updatedAt": "2024-12-02T07:22:30+00:00"
  },
  "relationships": [
   {
    "id": "ddce0146-2cfe-47e7-b358-7420e02b785f",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n冥花すゐ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -109,9 +113,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-12-02T07:16:32+00:00",
+    "version": 2,
+    "website": "http://vanitas-mode.blog.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -120,7 +124,9 @@
    "id": "ddce0146-2cfe-47e7-b358-7420e02b785f",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n冥花すゐ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -135,9 +141,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-12-02T07:16:32+00:00",
+    "version": 2,
+    "website": "http://vanitas-mode.blog.jp/",
     "weibo": null,
     "youtube": null
    }

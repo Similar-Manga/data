@@ -3,14 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Jigoku no Girlfriend"
+   "en": "Girl Friends in Hell"
   },
   "altTitles": [
    {
-    "en": "Girl friends in the hell."
+    "ja": "地獄のガールフレンド"
    },
    {
-    "en": "地獄のガールフレンド"
+    "ja-ro": "Jigoku no Girl Friend"
+   },
+   {
+    "ja-ro": "Jigoku no Girlfriend"
+   },
+   {
+    "ja": "Girl friends in the hell."
    }
   ],
   "description": {
@@ -18,18 +24,22 @@
   },
   "links": {
    "al": "100970",
+   "amz": "https://www.amazon.co.jp/dp/B074CH8VNH",
    "ap": "jigoku-no-girlfriend",
-   "cdj": "http://www.cdjapan.co.jp/searches?term.media_format=\u0026f=major\u0026q=%E5%9C%B0%E7%8D%84%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89\u0026f=major\u0026q=\u0026f=major\u0026q=\u0026order=scoreboost_cdj\u0026range.rel=\u0026range.sale_price=\u0026term.caption=\u0026term.audio_language=",
+   "bw": "series/287198",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=%E5%9C%B0%E7%8D%84%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/348468/",
    "kt": "43648",
    "mal": "95218",
-   "mu": "108569"
+   "mu": "108569",
+   "raw": "https://www.shodensha.co.jp/torikai/"
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
   "lastChapter": "33",
   "publicationDemographic": "josei",
   "status": "completed",
+  "year": 2014,
   "contentRating": "safe",
   "tags": [
    {
@@ -70,16 +80,18 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 4,
   "createdAt": "2019-02-01T11:48:21+00:00",
-  "updatedAt": "2019-02-01T11:48:21+00:00"
+  "updatedAt": "2024-12-10T04:53:22+00:00"
  },
  "relationships": [
   {
    "id": "bd53c0ce-8629-4c45-b331-bedf89ac62fa",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳥飼茜\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/akanetorikai/)\n- [News X](https://x.com/torikai_news)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -93,9 +105,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/torikaiakane",
+    "updatedAt": "2024-12-07T05:28:00+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -105,7 +117,9 @@
    "id": "bd53c0ce-8629-4c45-b331-bedf89ac62fa",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳥飼茜\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/akanetorikai/)\n- [News X](https://x.com/torikai_news)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -119,25 +133,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/torikaiakane",
+    "updatedAt": "2024-12-07T05:28:00+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "9d44d7fb-6d4a-4fb2-bbc2-49148e9df38c",
+   "id": "a48f7441-0bf3-4a4c-8a39-a94c947d8809",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:59:51+00:00",
+    "createdAt": "2024-12-10T04:47:07+00:00",
     "description": "",
-    "fileName": "7ea34b81-2fa6-459f-ab98-f9bed09737d0.jpg",
+    "fileName": "83f14a4c-57bb-477a-9399-0addce0fe724.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:59:51+00:00",
+    "updatedAt": "2024-12-10T04:47:07+00:00",
     "version": 1,
-    "volume": null
+    "volume": "3"
    }
   }
  ]

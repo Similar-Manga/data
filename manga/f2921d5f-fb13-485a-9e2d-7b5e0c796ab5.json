@@ -51,37 +51,11 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-09-25T16:05:45+00:00",
-  "updatedAt": "2024-09-25T16:05:53+00:00"
+  "updatedAt": "2025-01-02T02:03:19+00:00"
  },
  "relationships": [
-  {
-   "id": "150d46a5-e37d-43be-a44b-a5191a74d39d",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2023-09-03T11:25:28+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Nikumaru",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/nikumaru_SideM",
-    "updatedAt": "2023-09-03T11:29:03+00:00",
-    "version": 3,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
   {
    "id": "43ed91ae-c0be-48d4-b975-8ffb3a08d7cf",
    "type": "author",
@@ -251,6 +225,34 @@
    }
   },
   {
+   "id": "69b231b2-8559-4f55-b2a1-5df6411bbe46",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 肉丸"
+    },
+    "booth": null,
+    "createdAt": "2021-10-10T02:55:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nikumaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/3262520",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/nikumarusuisann",
+    "updatedAt": "2024-12-26T19:51:51+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "6a4a1dba-b07b-43c3-b551-81bffe08b615",
    "type": "author",
    "attributes": {
@@ -281,7 +283,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 千種みのり\n\nCharacter designer for\n[She Was Actually My Stepsister. ~Recently, the Sense of Distance Between Me and My New Stepbrother Is Incredibly Close~](https://mangadex.org/title/c88ca39b-c68a-4551-ac6f-65d23cfcca72) and\n[Why Not Make Both Twins “Your Girlfriend” At Once?](https://mangadex.org/title/74ad3ad0-41e2-4919-a3dd-e5061c3444da)."
+     "en": "**Name In Native Language:** 千種みのり\n\nCharacter designer for\n[She Was Actually My Stepsister. ~Recently, the Sense of Distance Between Me and My New Stepbrother Is Incredibly Close~](https://mangadex.org/title/c88ca39b-c68a-4551-ac6f-65d23cfcca72) and\n[Why Not Make Both Twins “Your Girlfriend” at Once?](https://mangadex.org/title/74ad3ad0-41e2-4919-a3dd-e5061c3444da)."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -297,8 +299,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/minori_chigusa",
-    "updatedAt": "2024-10-11T19:13:34+00:00",
-    "version": 5,
+    "updatedAt": "2024-12-18T11:20:34+00:00",
+    "version": 6,
     "website": "https://xfolio.jp/portfolio/minori_chigusa",
     "weibo": null,
     "youtube": null
@@ -469,32 +471,6 @@
    }
   },
   {
-   "id": "150d46a5-e37d-43be-a44b-a5191a74d39d",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2023-09-03T11:25:28+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Nikumaru",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": "https://twitter.com/nikumaru_SideM",
-    "updatedAt": "2023-09-03T11:29:03+00:00",
-    "version": 3,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
    "id": "43ed91ae-c0be-48d4-b975-8ffb3a08d7cf",
    "type": "artist",
    "attributes": {
@@ -663,6 +639,34 @@
    }
   },
   {
+   "id": "69b231b2-8559-4f55-b2a1-5df6411bbe46",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 肉丸"
+    },
+    "booth": null,
+    "createdAt": "2021-10-10T02:55:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nikumaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/3262520",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/nikumarusuisann",
+    "updatedAt": "2024-12-26T19:51:51+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "6a4a1dba-b07b-43c3-b551-81bffe08b615",
    "type": "artist",
    "attributes": {
@@ -693,7 +697,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 千種みのり\n\nCharacter designer for\n[She Was Actually My Stepsister. ~Recently, the Sense of Distance Between Me and My New Stepbrother Is Incredibly Close~](https://mangadex.org/title/c88ca39b-c68a-4551-ac6f-65d23cfcca72) and\n[Why Not Make Both Twins “Your Girlfriend” At Once?](https://mangadex.org/title/74ad3ad0-41e2-4919-a3dd-e5061c3444da)."
+     "en": "**Name In Native Language:** 千種みのり\n\nCharacter designer for\n[She Was Actually My Stepsister. ~Recently, the Sense of Distance Between Me and My New Stepbrother Is Incredibly Close~](https://mangadex.org/title/c88ca39b-c68a-4551-ac6f-65d23cfcca72) and\n[Why Not Make Both Twins “Your Girlfriend” at Once?](https://mangadex.org/title/74ad3ad0-41e2-4919-a3dd-e5061c3444da)."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -709,8 +713,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/minori_chigusa",
-    "updatedAt": "2024-10-11T19:13:34+00:00",
-    "version": 5,
+    "updatedAt": "2024-12-18T11:20:34+00:00",
+    "version": 6,
     "website": "https://xfolio.jp/portfolio/minori_chigusa",
     "weibo": null,
     "youtube": null

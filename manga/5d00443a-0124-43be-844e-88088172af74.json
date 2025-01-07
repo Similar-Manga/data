@@ -1,0 +1,144 @@
+{
+ "id": "5d00443a-0124-43be-844e-88088172af74",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The High School Bento Blues"
+  },
+  "altTitles": [
+   {
+    "ja": "男子高校生のお弁当事情"
+   }
+  ],
+  "description": {
+   "en": "Tachibana seems like your typical high schooler, except for one thing - he's got a serious bento situation. One day, he happens to meet Takahashi, another student with his own bento troubles...",
+   "ja": "いたって普通の高校生・立花くん。しかし、彼は「お弁当」にある悩みを抱えていた。ある日、同じくお弁当に対して悩みを持った高橋くんと出会い…？"
+  },
+  "links": {
+   "engtl": "https://mangaplus.shueisha.co.jp/titles/100412",
+   "mal": "177544",
+   "raw": "https://shonenjumpplus.com/episode/17106567262008969407"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2025,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "c34ec845-1510-447d-98c3-37d6109aff5e",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2025-01-02T03:43:26+00:00",
+  "updatedAt": "2025-01-04T16:18:12+00:00"
+ },
+ "relationships": [
+  {
+   "id": "83659508-0462-4a55-9b2a-4ffed456e6a1",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-02T03:34:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kouichirou Iwaya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-02T03:34:23+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "83659508-0462-4a55-9b2a-4ffed456e6a1",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-02T03:34:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kouichirou Iwaya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-02T03:34:23+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "906d38b3-a104-40ef-9a58-fa7dfa5cec3e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-02T03:43:28+00:00",
+    "description": "Cover Illustration for the oneshot from Jump+",
+    "fileName": "72e08a45-c310-4938-b48c-ac43b2a00130.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-03T23:14:20+00:00",
+    "version": 2,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "71102a28-fa60-4ca2-8275-ad77950aa221",
+   "type": "creator"
+  }
+ ]
+}

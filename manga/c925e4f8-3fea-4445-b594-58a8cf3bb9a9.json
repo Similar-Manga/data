@@ -1,0 +1,213 @@
+{
+ "id": "c925e4f8-3fea-4445-b594-58a8cf3bb9a9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Death followed extra"
+  },
+  "altTitles": [
+   {
+    "en": "Death followed extra"
+   }
+  ],
+  "description": {
+   "en": "Death followed extra"
+  },
+  "links": {
+   "engtl": "https://medibang.com/mpc/"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2021,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "6acc1571-a6da-429e-8a78-20dc28037264",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Traditional Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 9,
+  "createdAt": "2025-01-01T08:15:18+00:00",
+  "updatedAt": "2025-01-03T18:46:29+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8179eb7a-2b9f-4cae-aebb-c72d77c93584",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T07:59:16+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Rip_00zay",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T07:59:16+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8179eb7a-2b9f-4cae-aebb-c72d77c93584",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T07:59:16+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Rip_00zay",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T07:59:16+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6cf3c5fe-f933-4fe5-b682-8d5b38d03f13",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-01T10:46:22+00:00",
+    "description": "",
+    "fileName": "83a924fa-c5a5-411e-8e86-698c02795e65.png",
+    "locale": "en",
+    "updatedAt": "2025-01-01T10:46:22+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "53eb3d59-d246-4efc-aeb4-afa8c8ba2059",
+   "type": "creator"
+  }
+ ]
+}

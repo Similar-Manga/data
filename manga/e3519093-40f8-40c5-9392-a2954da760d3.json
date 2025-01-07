@@ -1,0 +1,161 @@
+{
+ "id": "e3519093-40f8-40c5-9392-a2954da760d3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Jumidoro"
+  },
+  "altTitles": [
+   {
+    "ja": "ジュミドロ"
+   }
+  ],
+  "description": {
+   "en": "In the Colosseum, there was a gladiator girl known as the **Unbeaten Sword** — Ramune. Bought as a slave, Ramune unexpectedly found freedom after a carriage accident. The girl, now free, sets off to see the world, learn, and experience the kindness of others as she lives on. However, Ramune doesn't know what \"normal\" is. She has never been taught not to slay people, or that killing is wrong...",
+   "ja": "コロッセオで名を馳せる、剣闘士の少女がいた。その名も「不敗の剣」ラムネ。ラムネは奴隷として買われたが、馬車の事故によって思いがけず自由の身になった。少女は、世界を見て、学んで、人の優しさに触れて、生きていく。しかし、ラムネは「普通」を知らない。人を斬ってはいけないことも、人を殺してはいけないことも――。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0D1KK7QCZ",
+   "ap": "jumidoro",
+   "bw": "series/502123",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/866423",
+   "mal": "177387",
+   "mu": "sdzppz4",
+   "raw": "https://pocket.shonenmagazine.com/episode/2550912964642517571"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "ea161ede-4acf-481e-be14-326dca37f249",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-18T23:35:01+00:00",
+  "updatedAt": "2025-01-02T20:38:37+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e02cc2a4-811d-43b8-b53a-fe046f60113f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-18T23:33:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Taki Hongichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-18T23:33:46+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e02cc2a4-811d-43b8-b53a-fe046f60113f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-18T23:33:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Taki Hongichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-18T23:33:46+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ff87d34d-60d6-4f91-acea-bdf3ef5827ed",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-18T23:35:08+00:00",
+    "description": "Volume 1 Cover from BookWalker",
+    "fileName": "666ce526-4e63-4e09-bfb8-b28a027d7d7c.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-18T23:35:08+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

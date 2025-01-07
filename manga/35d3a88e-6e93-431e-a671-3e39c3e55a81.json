@@ -1,0 +1,143 @@
+{
+ "id": "35d3a88e-6e93-431e-a671-3e39c3e55a81",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Noroi no Ningyou"
+  },
+  "altTitles": [
+   {
+    "ja": "呪いの人形"
+   }
+  ],
+  "description": {
+   "en": "A special one-shot published in Weekly Shounen Magazine No. 9, 2024\n\nBased on the story of the Okiku doll"
+  },
+  "links": {
+   "raw": "https://pocket.shonenmagazine.com/article/entry/noroi_20240202"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "1",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "40ed6c05-776e-4a9d-a36c-7c8c676788cb",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-30T07:11:11+00:00",
+  "updatedAt": "2024-12-31T14:10:36+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4264c69b-7e2a-4de8-b738-0e6d64ab3fb7",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-30T07:07:44+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Oohashi Morihei",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T07:07:44+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4264c69b-7e2a-4de8-b738-0e6d64ab3fb7",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-30T07:07:44+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Oohashi Morihei",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T07:07:44+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7f37a33d-2515-4a68-9ab3-5b57eba23dba",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T07:11:15+00:00",
+    "description": "",
+    "fileName": "d678d86d-68bb-469f-a183-9f54fbb16369.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T07:11:15+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "cc28f5b1-a055-4f18-ad82-8d43b4d9c60b",
+   "type": "creator"
+  }
+ ]
+}

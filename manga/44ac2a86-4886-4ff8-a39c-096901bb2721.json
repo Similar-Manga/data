@@ -3,33 +3,42 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Jeweller's Maid"
+   "en": "The Jeweler's Maid"
   },
   "altTitles": [
    {
-    "en": "Housekishou no Maid"
+    "ja": "宝石商のメイド"
    },
    {
-    "ja": "宝石商のメイド"
+    "ja-ro": "Housekishou no Maid"
+   },
+   {
+    "en": "The Jeweller's Maid"
    }
   ],
   "description": {
-   "en": "Rorstein's jewelry store is an unusual store where \"maids sell jewelry\".\nThe store, on the main street, is visited by an elderly gentleman, an aristocrat, an actress, a poor student, and all sorts of people who have heard the rumor.When they pick up the jewelry chosen by the waitresses, their own lives also begin to shine.\n\nA story told by jewelry and people.\n\n---------------------------------------------------------------------------------\nNote: A series of jewelry and short stories with delicate illustrations.",
+   "en": "The jewelry store Rohstein is an unconventional shop where “a maid sells jewels”.\n\nOff of the main street, the shop is visited by an elderly gentleman, a noble, an actress, a poor student, and all sorts of people who have heard the rumors of it. When they hold the jewels selected by the maid, their own lives also begin to shine.\n\nA tale spun by jewels and people.\n\nWith dainty illustrations, a jewel-bestowing short story series.",
    "ja": "宝石商「ローシュタイン」は“メイドが宝石を売る”一風変わった品揃えのお店。\n大通りから外れたその店には、老紳士、貴族、女優、貧乏学生と噂を聞きつけたさまざまな人が訪れる。\nメイドが選んだ宝石を手にしたとき、彼ら自身の人生もまた輝きだす。\n宝石と人が紡ぐ物語。\nーー繊細なイラストで贈る珠玉の連作短編。"
   },
   "links": {
+   "al": "160203",
    "amz": "https://www.amazon.co.jp/dp/B09XM3RL67",
-   "bw": "series/332698",
+   "ap": "housekishou-no-maid",
+   "bw": "series/332698/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/673391/",
    "mal": "142780",
    "mu": "t8rkiam",
-   "raw": "https://comic-walker.com/contents/detail/KDCW_EB00202370010000_68/"
+   "raw": "https://comic-walker.com/detail/KC_001268_S?episodeType=first"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2021,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "a1e8189b-7370-4703-812a-f09999fbb2fe",
   "tags": [
    {
     "id": "33771934-028e-4cb3-8744-691e866a923e",
@@ -37,6 +46,18 @@
     "attributes": {
      "name": {
       "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Philosophical"
      },
      "description": {},
      "group": "genre",
@@ -81,9 +102,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 16,
   "createdAt": "2021-12-24T10:06:14+00:00",
-  "updatedAt": "2024-03-24T10:59:20+00:00"
+  "updatedAt": "2024-12-19T03:30:53+00:00"
  },
  "relationships": [
   {
@@ -101,12 +122,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/1844843",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-12-24T10:01:00+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/yamasetubuyaki",
+    "updatedAt": "2024-12-27T20:26:22+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -127,28 +148,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/1844843",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-12-24T10:01:00+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/yamasetubuyaki",
+    "updatedAt": "2024-12-27T20:26:22+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "1f5ebe14-6725-4810-a7d1-e42516290dc9",
+   "id": "96487628-bba1-4583-b02a-bb501be6b451",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-03-24T10:58:22+00:00",
+    "createdAt": "2024-12-18T03:42:33+00:00",
     "description": "",
-    "fileName": "9c24481b-a373-4185-ad72-74f024103ee1.jpg",
+    "fileName": "4d6ebaa3-7aa4-404b-91fc-6f71f5503650.jpg",
     "locale": "ja",
-    "updatedAt": "2024-03-24T10:58:22+00:00",
+    "updatedAt": "2024-12-18T03:42:33+00:00",
     "version": 1,
-    "volume": "5"
+    "volume": "6"
    }
   },
   {

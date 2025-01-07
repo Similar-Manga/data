@@ -1,0 +1,143 @@
+{
+ "id": "afa9a7bc-3579-402c-b99a-a959049c4f2d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "There's another one"
+  },
+  "altTitles": [
+   {
+    "ja": "もう一人いる"
+   },
+   {
+    "ja-ro": "Mou hitori iru"
+   }
+  ],
+  "description": {
+   "en": "The worst day of his life. Inuse Kenta, a university student, was dumped by his girlfriend with whom he was living together and lost all his money. However, the next morning, while he was at the brink of despair, he woke up with a winning lottery ticket in his hand and a beautiful woman he had never seen before in his room! Tracing his faded memories, Kenta, who had no money, apparently bought a lottery ticket with the beautiful woman and won, then went to an izakaya and drank, losing his memory... Kenta's worst day turned into the best day of his life. However, he soon learns that life isn't that simple..."
+  },
+  "links": {
+   "raw": "https://www.ganganonline.com/title/2103"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "0",
+  "lastChapter": "2",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-26T21:47:39+00:00",
+  "updatedAt": "2024-12-26T23:22:34+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3196b912-7f89-4c00-b88c-71aad6a63c48",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-26T21:43:11+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ragunosuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-26T21:43:11+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3196b912-7f89-4c00-b88c-71aad6a63c48",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-26T21:43:11+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ragunosuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-26T21:43:11+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4d63b2c1-a731-4b36-85d9-88de3bb2133a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-26T21:47:43+00:00",
+    "description": "",
+    "fileName": "56a5f070-50ec-494f-b329-f8dc157816d7.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-26T21:47:43+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "05d0fc38-f392-4940-8dbe-591c38ab87f1",
+   "type": "creator"
+  }
+ ]
+}

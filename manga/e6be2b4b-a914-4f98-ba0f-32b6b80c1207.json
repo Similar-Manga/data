@@ -7,13 +7,13 @@
   },
   "altTitles": [
    {
-    "en": "Inazuma Eleven Gaidenshuu"
+    "ja-ro": "Inazuma Eleven Gaidenshuu"
    },
    {
     "en": "Inazuma Eleven X-tra"
    },
    {
-    "en": "イナズマイレブン外伝集"
+    "ja": "イナズマイレブン外伝集"
    }
   ],
   "description": {
@@ -23,7 +23,8 @@
    "amz": "https://www.amazon.co.jp/dp/B00I975LNM/ref=dp-kindle-redirect?_encoding=UTF8\u0026btkr=1",
    "bw": "https://bookwalker.jp/de711fbbc2-9c47-426c-870b-3f9158580fe2",
    "cdj": "http://www.cdjapan.co.jp/product/NEOBK-898513?s_ssid=e369d75d6457c5ff3",
-   "mu": "62144"
+   "mu": "62144",
+   "raw": "https://www.corocoro.jp/title/677"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
@@ -105,9 +106,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2020-02-22T06:31:45+00:00",
-  "updatedAt": "2022-10-20T19:03:45+00:00"
+  "updatedAt": "2024-12-23T02:30:13+00:00"
  },
  "relationships": [
   {
@@ -174,6 +175,31 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "15c335de-f081-4474-857e-4e3a92813f77",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "980c60c8-2943-45df-bf43-8c6bcf77b419",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "af0f31a0-372d-4aa5-a632-f2e2b769ab83",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "b174eac2-7de5-4f52-96ec-41793b0b9c92",
+   "type": "manga",
+   "related": "sequel"
+  },
+  {
+   "id": "cbba36af-9874-4b17-a1c3-99aec829cce0",
+   "type": "manga",
+   "related": "alternate_story"
   }
  ]
 }

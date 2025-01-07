@@ -29,6 +29,18 @@
   "contentRating": "safe",
   "tags": [
    {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -42,9 +54,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2024-01-12T22:48:03+00:00",
-  "updatedAt": "2024-10-21T12:08:39+00:00"
+  "updatedAt": "2024-12-10T17:47:44+00:00"
  },
  "relationships": [
   {
@@ -100,16 +112,16 @@
    }
   },
   {
-   "id": "f0a5c2ef-b5b1-4d5d-ab2c-99e93db7efe4",
+   "id": "9b153c2f-18b5-4656-a502-b75cc5aa552b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-06-17T11:58:49+00:00",
+    "createdAt": "2024-12-10T17:47:09+00:00",
     "description": "",
-    "fileName": "84b9e6bd-6b4f-4e2a-a9ea-88d41f7dc264.jpg",
+    "fileName": "273187db-0f00-4c3a-8126-8a0741f94f6f.jpg",
     "locale": "ja",
-    "updatedAt": "2024-06-17T11:58:49+00:00",
+    "updatedAt": "2024-12-10T17:47:09+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

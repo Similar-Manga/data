@@ -23,6 +23,18 @@
   "contentRating": "safe",
   "tags": [
    {
+    "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Traditional Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "33771934-028e-4cb3-8744-691e866a923e",
     "type": "tag",
     "attributes": {
@@ -60,9 +72,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-10-17T21:39:32+00:00",
-  "updatedAt": "2024-11-04T16:49:55+00:00"
+  "updatedAt": "2024-12-31T08:58:03+00:00"
  },
  "relationships": [
   {
@@ -118,16 +130,16 @@
    }
   },
   {
-   "id": "36f32cd0-c90a-456c-a90b-6f85551137f1",
+   "id": "6ecc1883-57c5-425a-9bcc-ec8e5ccb849a",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-04T16:49:54+00:00",
+    "createdAt": "2024-12-31T08:58:02+00:00",
     "description": "",
-    "fileName": "089b7172-3318-44b0-ab20-43e4372b18df.jpg",
+    "fileName": "25661b2b-bf85-41fc-ba02-12c567fff077.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-04T16:49:54+00:00",
+    "updatedAt": "2024-12-31T08:58:02+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "3"
    }
   },
   {

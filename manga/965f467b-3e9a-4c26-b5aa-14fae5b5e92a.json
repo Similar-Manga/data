@@ -1,0 +1,167 @@
+{
+ "id": "965f467b-3e9a-4c26-b5aa-14fae5b5e92a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "\"Something\" That Isn’t Santa Has Come"
+  },
+  "altTitles": [
+   {
+    "ja": "サンタじゃない「何か」が来る話"
+   },
+   {
+    "ja-ro": "Santa Janai \"Nani ka\" ga Kuru Hanashi"
+   }
+  ],
+  "description": {
+   "en": "8 page oneshot about a boy that sees something that he shouldn't have seen during Christmas…"
+  },
+  "links": {
+   "raw": "https://twicomi.com/manga/06yuka_21/1606591752722599937"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "4b8c177f-5de4-458e-8ac1-4d5ba75da016",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-10T11:29:18+00:00",
+  "updatedAt": "2024-12-23T20:19:28+00:00"
+ },
+ "relationships": [
+  {
+   "id": "daf6ce01-314f-44f4-82d9-907199b1c70e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamada Yuka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "daf6ce01-314f-44f4-82d9-907199b1c70e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamada Yuka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "24600675-4a4a-49b2-9169-334309a88242",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-10T11:35:04+00:00",
+    "description": "",
+    "fileName": "ee77dac8-e2af-4e9d-901f-4a0a53d0370a.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-10T11:35:04+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a692a389-14ea-41de-a061-2f447e0d4679",
+   "type": "creator"
+  }
+ ]
+}

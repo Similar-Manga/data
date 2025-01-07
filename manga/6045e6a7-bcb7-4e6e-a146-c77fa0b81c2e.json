@@ -1,0 +1,118 @@
+{
+ "id": "6045e6a7-bcb7-4e6e-a146-c77fa0b81c2e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Futari wa Koibito"
+  },
+  "altTitles": [
+   {
+    "ja": "ふたりは恋人"
+   }
+  ],
+  "description": {
+   "en": "Mimi-chan and Chojuuro-chan are a couple, and this story gently depicts their days together, following the changing seasons, sometimes sweet, sometimes bittersweet. This is a beloved classic by Taro Minamoto, known for *Fuunji-tachi*, which was serialized in *Weekly Shoujo Friend*. Released by Kodansha in 1973, it captures the beauty and subtle emotions of their relationship."
+  },
+  "links": {
+   "al": "110747",
+   "bw": "series/497616/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/120707/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "143",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 1971,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-30T23:04:16+00:00",
+  "updatedAt": "2025-01-02T19:18:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c7fbefee-1311-46bf-a896-0f9438b8f058",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-12-30T10:22:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Minamoto Taro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-12-30T10:22:36+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c7fbefee-1311-46bf-a896-0f9438b8f058",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-12-30T10:22:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Minamoto Taro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-12-30T10:22:36+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "05bf249a-e3e0-467a-ad70-df89e9eb9cd4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T23:04:18+00:00",
+    "description": "",
+    "fileName": "a6fafc1d-0c9e-4198-bfb7-3b25a40c2a95.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T23:04:18+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

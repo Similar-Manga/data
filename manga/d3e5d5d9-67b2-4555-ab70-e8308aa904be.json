@@ -1,0 +1,146 @@
+{
+ "id": "d3e5d5d9-67b2-4555-ab70-e8308aa904be",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Amelia the Level Zero Hero"
+  },
+  "description": {
+   "en": "Who needs a Class when you're already the strongest anyways? Ten years ago, Amelia woke up in a broken world where she had to fight for her survival. Now, after defeating the Void itself and escaping the abyss, she's finally found her way back into the real world. But instead of returning to Earth, she arrives in Vacuos — a fantasy world governed by a System as if it were a video game. And when rewarded with a Class befitting her accomplishments— to become a powerful [Hero] that will forever dedicate her life to protecting this world that is not her own— she only has one response. “Absolutely not. I’m going to live a normal life now, thank you very much.”"
+  },
+  "links": {
+   "engtl": "https://www.webtoons.com/en/fantasy/amelia-the-level-zero-hero/list?title_no=6912"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2025-01-02T07:42:22+00:00",
+  "updatedAt": "2025-01-02T13:32:35+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2a3baff5-5d28-422d-88e3-b61f25e792c8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-06-26T00:48:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "MelasDelta",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-06-26T00:48:34+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d9acabf7-45f8-4402-9737-46bcb25e0f5c",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "From Kisai Entertainment's Tapas page:\nWe are a comic studio who loves art and storytelling. We are offering you a variety of genres for you to munch, keep smilling and have fun reading!\n\nBased in Jakarta, Indonesia"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kisai Entertainment",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-30T16:58:32+00:00",
+    "version": 2,
+    "website": "https://www.kisaient.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3e3d9972-e367-45c6-80c7-61ff62b186bb",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-02T07:56:14+00:00",
+    "description": "",
+    "fileName": "02d1fdef-6d1a-4d57-9843-c7cbb34cd0f3.jpg",
+    "locale": "en",
+    "updatedAt": "2025-01-02T07:56:14+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "28bae6b2-a6fd-45fd-a586-50e2388b870c",
+   "type": "creator"
+  }
+ ]
+}

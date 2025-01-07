@@ -16,7 +16,10 @@
     "en": "Appetite in the Island of Demons"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "A shipwreck that occurred under dubious circumstances leaves survivors stranded on a remote, desolate island. On this island, desires begin to take root. The lucky survivors, each with their own hidden agendas, the fierce, voracious beasts, and the cannibal tribe lurking in the shadows are all enemies in the name of survival. On this forsaken, desolate island, who will be able to overcome all odds, emerge triumphant and return home?",
+   "zh": "一场充满阴谋的沉船事件，让众人流落与世隔绝的荒岛。荒岛之上，滋生欲望。人心叵测的幸存者，凶猛饥饿的野兽，虎视眈眈的食人族都是生存的敌人。与世隔绝的荒岛，谁又能披荆斩棘，称王归去。"
+  },
   "links": {
    "mu": "fzritoz",
    "raw": "https://manga.bilibili.com/detail/mc33932"
@@ -35,6 +38,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -76,9 +91,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-08-12T00:22:47+00:00",
-  "updatedAt": "2024-08-12T00:23:25+00:00"
+  "updatedAt": "2024-12-14T08:16:59+00:00"
  },
  "relationships": [
   {

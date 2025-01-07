@@ -7,7 +7,7 @@
   },
   "altTitles": [
    {
-    "en": "とどのつまりの有頂天"
+    "ja": "とどのつまりの有頂天"
    }
   ],
   "description": {
@@ -17,6 +17,7 @@
    "al": "104204",
    "amz": "https://www.amazon.co.jp/dp/B07H54ZGKH/",
    "ap": "todo-no-tsumari-no-uchouten",
+   "bw": "series/173693",
    "mal": "115960",
    "mu": "149841"
   },
@@ -25,12 +26,25 @@
   "lastChapter": "14",
   "publicationDemographic": "seinen",
   "status": "completed",
+  "year": 2017,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "52161721-4ee9-453e-a176-8ff2160bf53e",
   "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
@@ -69,9 +83,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-08-03T04:51:01+00:00",
-  "updatedAt": "2021-05-25T15:49:24+00:00"
+  "updatedAt": "2024-12-25T20:45:27+00:00"
  },
  "relationships": [
   {
@@ -127,16 +141,16 @@
    }
   },
   {
-   "id": "5bfa8485-519f-4f60-b765-5529a9129449",
+   "id": "afff50bd-f91a-4f1b-abba-594ca6d04123",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:21:23+00:00",
+    "createdAt": "2021-05-23T06:48:58+00:00",
     "description": "",
-    "fileName": "98015b6c-4057-428b-ac3c-20d1cf749d80.jpg",
+    "fileName": "71902ed0-e618-49e4-9527-cf4ef7b8a2d8.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:21:23+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:48:58+00:00",
+    "version": 2,
+    "volume": "2"
    }
   },
   {

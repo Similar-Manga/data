@@ -1,0 +1,110 @@
+{
+ "id": "f91a69a1-5e03-4a06-966c-4c600b077d8e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "LAMP LIGHTER"
+  },
+  "description": {},
+  "links": {
+   "bw": "series/505784/list"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-03T04:59:52+00:00",
+  "updatedAt": "2025-01-03T05:00:07+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5ac2bbad-0dd7-4fb0-8c21-3ff2337b9c2e",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 灯晴ほく\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/hoku_hoku_)\n- [TikTok](https://www.tiktok.com/@hokutomose)\n- [CREATORS BANK](https://creatorsbank.com/hokuhoku/profile/)"
+    },
+    "booth": null,
+    "createdAt": "2024-07-31T09:39:19+00:00",
+    "fanBox": "https://oimooisii.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tomose Hoku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/5478310",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kikaizikakeno",
+    "updatedAt": "2024-10-17T01:43:16+00:00",
+    "version": 4,
+    "website": "https://hokuhokuoimo.wixsite.com/mysite",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCvN2jGjVPkLXKoiRaC2rdow"
+   }
+  },
+  {
+   "id": "5ac2bbad-0dd7-4fb0-8c21-3ff2337b9c2e",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 灯晴ほく\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/hoku_hoku_)\n- [TikTok](https://www.tiktok.com/@hokutomose)\n- [CREATORS BANK](https://creatorsbank.com/hokuhoku/profile/)"
+    },
+    "booth": null,
+    "createdAt": "2024-07-31T09:39:19+00:00",
+    "fanBox": "https://oimooisii.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tomose Hoku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/5478310",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kikaizikakeno",
+    "updatedAt": "2024-10-17T01:43:16+00:00",
+    "version": 4,
+    "website": "https://hokuhokuoimo.wixsite.com/mysite",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCvN2jGjVPkLXKoiRaC2rdow"
+   }
+  },
+  {
+   "id": "a482ba78-74c0-4a40-a74e-1f0e2102748c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-03T05:00:04+00:00",
+    "description": "",
+    "fileName": "de908191-bbe6-45a3-938a-272491d34146.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-03T05:00:04+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

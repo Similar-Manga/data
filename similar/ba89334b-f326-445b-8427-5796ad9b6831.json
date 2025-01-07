@@ -11,15 +11,14 @@
     "en": "Hope You're Happy, Lemon"
    },
    "contentRating": "safe",
-   "score": 0.3009935,
+   "score": 0.30086213,
    "languages": [
     "es-la",
     "pt-br",
     "vi",
     "pl",
     "en",
-    "id",
-    "ar"
+    "id"
    ]
   },
   {
@@ -28,13 +27,14 @@
     "en": "Nante Nasakenai Bokura da"
    },
    "contentRating": "safe",
-   "score": 0.23456301,
+   "score": 0.23457006,
    "languages": [
     "en",
     "tr",
     "pt-br",
     "ca",
-    "zh-hk"
+    "zh-hk",
+    "id"
    ]
   },
   {
@@ -43,7 +43,7 @@
     "en": "A Silent Voice Special Movie Book"
    },
    "contentRating": "safe",
-   "score": 0.2314043,
+   "score": 0.23142199,
    "languages": [
     "en",
     "fr",
@@ -60,7 +60,7 @@
     "en": "Just Listen to the Song"
    },
    "contentRating": "safe",
-   "score": 0.22874567,
+   "score": 0.2287701,
    "languages": [
     "pt-br",
     "id",
@@ -98,10 +98,10 @@
     "en": "Mayonaka Heart Tune"
    },
    "contentRating": "safe",
-   "score": 0.20768736,
+   "score": 0.20771165,
    "languages": [
-    "en",
     "es-la",
+    "en",
     "ru",
     "id",
     "vi",
@@ -134,7 +134,7 @@
     "en": "Shuumatsu no Koe"
    },
    "contentRating": "safe",
-   "score": 0.2018975,
+   "score": 0.20190099,
    "languages": [
     "fr",
     "es-la",
@@ -150,7 +150,7 @@
     "en": "Class no Bocchi Gal wo Omochikaeri Shite Seisokei Bijin ni Shite Yatta Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.19997485,
+   "score": 0.19998278,
    "languages": [
     "es-la",
     "en",
@@ -166,32 +166,15 @@
     "en": "Multiverse no Watashi, Koishite Ii desu ka?"
    },
    "contentRating": "safe",
-   "score": 0.19945095,
+   "score": 0.19944753,
    "languages": [
     "id",
     "vi",
     "ar",
-    "pt-br",
     "en",
+    "pt-br",
     "es-la",
     "uk"
-   ]
-  },
-  {
-   "id": "ec6a3bbd-90a7-412d-aedf-15ead0ec26da",
-   "title": {
-    "en": "Amagami-san Chi no Enmusubi (Oneshot)"
-   },
-   "contentRating": "safe",
-   "score": 0.19166298,
-   "languages": [
-    "fr",
-    "it",
-    "es-la",
-    "en",
-    "ru",
-    "id",
-    "pt-br"
    ]
   },
   {
@@ -215,12 +198,29 @@
    ]
   },
   {
+   "id": "ec6a3bbd-90a7-412d-aedf-15ead0ec26da",
+   "title": {
+    "en": "Amagami-san Chi no Enmusubi (Oneshot)"
+   },
+   "contentRating": "safe",
+   "score": 0.19166298,
+   "languages": [
+    "fr",
+    "it",
+    "es-la",
+    "en",
+    "ru",
+    "id",
+    "pt-br"
+   ]
+  },
+  {
    "id": "2ae11ecf-f527-47e4-983e-8ae73c3b6a7b",
    "title": {
     "en": "Mikane and The Sea Woman"
    },
    "contentRating": "safe",
-   "score": 0.17603564,
+   "score": 0.17601562,
    "languages": [
     "pt-br",
     "en",
@@ -241,24 +241,6 @@
    ]
   },
   {
-   "id": "3da96505-f8e8-49d5-8c26-fbe4786a897f",
-   "title": {
-    "en": "Too Many Losing Heroines!"
-   },
-   "contentRating": "safe",
-   "score": 0.17496355,
-   "languages": [
-    "en",
-    "es-la",
-    "id",
-    "vi",
-    "ru",
-    "pt-br",
-    "fr",
-    "es"
-   ]
-  },
-  {
    "id": "ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
    "title": {
     "en": "Blue Box"
@@ -268,23 +250,36 @@
    "languages": [
     "vi",
     "es-la",
-    "fr",
     "pt-br",
+    "fr",
     "id",
     "tl",
     "ar",
     "uk",
     "eu",
-    "es",
     "tr",
     "ro",
-    "en",
     "th",
+    "es",
+    "en",
     "kk",
     "ru",
     "hu"
    ]
+  },
+  {
+   "id": "c10a6f2f-dd44-4be4-94b3-9cb447c4fa39",
+   "title": {
+    "en": "Missy's Geek Raising Plan"
+   },
+   "contentRating": "safe",
+   "score": 0.17496355,
+   "languages": [
+    "en",
+    "id",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-12-01T21:43:52+00:00"
+ "updatedAt": "2025-01-06T00:56:39+00:00"
 }

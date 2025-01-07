@@ -1,0 +1,136 @@
+{
+ "id": "5f69014d-a891-4d6c-84cb-78cefcf4154d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Daiya no A act II Gaiden: Teitou VS Ugumori"
+  },
+  "altTitles": [
+   {
+    "ja": "ダイヤのA actⅡの外伝 帝東VS鵜久森"
+   },
+   {
+    "en": "Ace of the Diamond Act II Side Story: Teito vs Ugumori"
+   }
+  ],
+  "description": {
+   "en": "One final match to determine who will represent East Tokyo!"
+  },
+  "links": {
+   "al": "185488",
+   "engtl": "https://kmanga.kodansha.com/title/10070/episode/309875",
+   "raw": "https://pocket.shonenmagazine.com/episode/13932016480029113058"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-26T21:19:31+00:00",
+  "updatedAt": "2024-12-26T21:26:34+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0daaf3dd-e401-4cdd-9662-43bead44fd00",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Terajima Yuuji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0daaf3dd-e401-4cdd-9662-43bead44fd00",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Terajima Yuuji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8fa5516d-f196-4578-95c2-7efc2ab0a0eb",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-26T21:19:35+00:00",
+    "description": "",
+    "fileName": "7e13f885-4a01-4e82-b414-d3eadf903176.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-26T21:19:35+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "7bb7e5ae-a784-4009-98b2-8ad4a7541548",
+   "type": "manga",
+   "related": "main_story"
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

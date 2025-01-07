@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "All About J"
+   "en": "J no Subete"
   },
   "altTitles": [
    {
     "ja": "Jの総て"
    },
    {
-    "ja-ro": "J no Subete"
+    "en": "All About J"
    }
   ],
   "description": {
@@ -18,12 +18,15 @@
   },
   "links": {
    "al": "46276",
-   "amz": "https://www.amazon.co.jp/Jの総て-1-F×COMICS-中村-明日美子/dp/4872338553",
+   "amz": "https://www.amazon.co.jp/dp/4872338553",
    "ap": "j-no-subete",
    "bw": "series/17572/list",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=J%E3%81%AE%E7%B7%8F%E3%81%A6",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/111592/",
    "kt": "2612",
    "mal": "16276",
-   "mu": "20544"
+   "mu": "20544",
+   "raw": "https://www.cmoa.jp/title/13976/"
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
@@ -32,9 +35,10 @@
   "year": 2004,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
+   "vi",
    "en"
   ],
-  "latestUploadedChapter": "c0ab495a-6d2b-4a23-a7fe-64254efca2a3",
+  "latestUploadedChapter": "1c67fd31-3408-4ad8-a87e-027363587836",
   "tags": [
    {
     "id": "33771934-028e-4cb3-8744-691e866a923e",
@@ -122,9 +126,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2018-05-24T23:53:46+00:00",
-  "updatedAt": "2022-12-08T21:28:24+00:00"
+  "updatedAt": "2024-12-08T03:19:37+00:00"
  },
  "relationships": [
   {

@@ -170,18 +170,20 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2024-05-20T08:26:58+00:00",
-  "updatedAt": "2024-06-19T03:30:48+00:00"
+  "updatedAt": "2024-12-07T15:18:17+00:00"
  },
  "relationships": [
   {
-   "id": "9d6eb87f-87a6-4966-a46d-d2b9eb6cfbc3",
+   "id": "03c70a32-2b7d-4e76-80e8-b361ac0c7322",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 三門鉄狼"
+    },
     "booth": null,
-    "createdAt": "2024-05-20T08:38:23+00:00",
+    "createdAt": "2023-02-05T10:02:53+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
@@ -193,9 +195,35 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
+    "twitter": "https://twitter.com/mikadotetsurou",
+    "updatedAt": "2024-12-07T15:19:40+00:00",
+    "version": 4,
+    "website": "http://mikadotetsurou.blog5.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9d6eb87f-87a6-4966-a46d-d2b9eb6cfbc3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-05-20T08:38:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "comeo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-05-20T08:38:23+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-07T15:18:10+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

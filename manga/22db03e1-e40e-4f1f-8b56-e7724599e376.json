@@ -3,14 +3,19 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kudan no Pistol"
+   "en": "The Pistol in Question"
   },
   "altTitles": [
    {
     "ja": "くだんのピストル"
+   },
+   {
+    "ja-ro": "Kudan no Pistol"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "The manga takes place in the tumultuous Bakumatsu era, in the final years of the Edo period. The manga centers on a mysterious boy named Kudan, who can hear the voices in people's hearts, and who gets wrapped up in the waves of history."
+  },
   "links": {
    "bw": "series/348698/list",
    "mal": "146874",
@@ -73,9 +78,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-11-06T13:39:05+00:00",
-  "updatedAt": "2024-11-06T13:40:21+00:00"
+  "updatedAt": "2024-12-09T07:22:40+00:00"
  },
  "relationships": [
   {

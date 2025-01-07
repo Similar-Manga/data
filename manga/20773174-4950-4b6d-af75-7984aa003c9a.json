@@ -1,0 +1,167 @@
+{
+ "id": "20773174-4950-4b6d-af75-7984aa003c9a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kimi to no Tsunagari"
+  },
+  "altTitles": [
+   {
+    "ja": "君とのツナガリ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "121413",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B0CQSD511P?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1735590309\u0026sr=1-1",
+   "bw": "series/393345/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/693825/",
+   "mu": "i9ytftc",
+   "raw": "https://manga.line.me/product/periodic?id=Z0000353"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "10",
+  "lastChapter": "102",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 2019,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-30T20:30:55+00:00",
+  "updatedAt": "2024-12-30T20:39:21+00:00"
+ },
+ "relationships": [
+  {
+   "id": "79a63add-e1be-4444-b135-db13c47d2389",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-30T20:30:13+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tino",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T20:30:13+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "79a63add-e1be-4444-b135-db13c47d2389",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-30T20:30:13+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tino",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T20:30:13+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "52a12ad6-59ca-4ff1-ac48-384650ae514a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T20:31:00+00:00",
+    "description": "",
+    "fileName": "1b33d58b-ab12-40b8-95ee-dd67a2be5007.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T20:31:00+00:00",
+    "version": 1,
+    "volume": "10"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

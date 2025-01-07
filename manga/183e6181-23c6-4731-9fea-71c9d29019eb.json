@@ -1,0 +1,155 @@
+{
+ "id": "183e6181-23c6-4731-9fea-71c9d29019eb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Asaokitara Tansakusha ni Natteita no de Dungeon ni Mogutte Miru"
+  },
+  "altTitles": [
+   {
+    "ja": "朝起きたら探索者になっていたのでダンジョンに潜ってみる"
+   }
+  ],
+  "description": {
+   "en": "Suddenly, \"Dungeons\" appear in the modern world, and at the same time, \"Seekers\" – those who are suited to explore these dungeons – emerge, marking a period of about 30 years. Daichi, a high school graduate working as a part-time worker, wakes up one morning to discover that he has become a \"Seeker\" of the dungeon. As he struggles through nearby dungeons, defeating monsters and exchanging the magic stones he earns for money, Daichi gradually improves both his combat skills and financial standing. One day, however, his life begins to change when he meets a beautiful senior Seeker, Kazune, and his dungeon adventures take an unexpected turn.",
+   "ja": "現代世界に突如として「ダンジョン」が生まれ、同時にダンジョン適合者である「探索者(シーカー)」が現れ約30年…。\n\n高卒フリーター・大地はある朝、自分がダンジョンの「探索者」になったことに気づく。近場のダンジョンで試行錯誤をしながらモンスターを倒し、得た魔石を換金しながら少しずつ戦闘力と経済力を得ていく大地。そんなある日、先輩探索者の美女・風音に出会ったことから彼のダンジョン生活に変化が訪れて――。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DPW3D8PJ",
+   "bw": "series/503414",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/870493",
+   "mu": "2xq9c3o",
+   "raw": "https://comic-walker.com/detail/KC_005630_S"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-28T17:28:58+00:00",
+  "updatedAt": "2025-01-02T19:08:25+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b494c916-b78e-43f0-901c-69cb3edd41e2",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ikapon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "705ad95f-ceb0-426b-93d1-a314e9d31453",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-28T17:27:09+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Oomon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-28T17:27:09+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "35128234-d4c7-4f21-851e-47419d40f1a0",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-28T17:29:07+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "eb73cdee-fe5e-44c0-a6aa-0d762688dbe0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-28T17:29:07+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

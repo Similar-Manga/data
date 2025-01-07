@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kamakura BAKEneko Club"
+   "en": "Kamakura Bakeneko Club (Pre-Serialization)"
   },
   "altTitles": [
    {
@@ -15,13 +15,19 @@
   ],
   "description": {},
   "links": {
-   "al": "154441"
+   "al": "154441",
+   "kt": "kamakura-bakeneko-club",
+   "mal": "146652"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "josei",
   "status": "completed",
   "year": 2021,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "20ecf7d6-92ce-491f-8288-fc26783fc971",
   "tags": [
    {
     "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
@@ -36,6 +42,54 @@
     }
    },
    {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -46,12 +100,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2022-09-08T02:06:47+00:00",
-  "updatedAt": "2022-09-08T02:58:08+00:00"
+  "updatedAt": "2024-12-02T22:01:14+00:00"
  },
  "relationships": [
   {
@@ -121,6 +187,11 @@
   },
   {
    "id": "2154b2af-923d-4b4f-9000-c5efd5eaf9fe",
+   "type": "manga",
+   "related": "serialization"
+  },
+  {
+   "id": "c314aabc-24f1-43b4-82b6-9601b8fa24c8",
    "type": "manga",
    "related": "serialization"
   },

@@ -3,30 +3,36 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Isekai Yuusha G-SHINE"
+   "en": "Isekai Hero G-Shine"
   },
   "altTitles": [
    {
-    "ja-ro": "Isekai Yuusha"
+    "ja": "異世界勇者ジーシャイン"
    },
    {
-    "ja-ro": "Isekai Yuusha Robo"
+    "ja-ro": "Isekai Yuusha G-Shine"
+   },
+   {
+    "en": "Otherworld Hero G-Shine"
    },
    {
     "en": "Otherworld Brave G-SHINE"
    },
    {
-    "en": "Otherworld Hero G-SHINE"
+    "ja": "異世界勇者"
    },
    {
-    "ja": "異世界勇者"
+    "ja-ro": "Isekai Yuusha"
+   },
+   {
+    "ja-ro": "Isekai Yuusha Robo"
    }
   ],
   "description": {
    "en": "In the 90s, blending old-school Super Robot anime with elements of the recently-ended Transformers series, aired the “Braves” (Yuusha) franchise. With bodies of steel, hearts of fire, and oddly handsome faces, each one from “Brave Exkaiser” (1990) to “King of Braves GaoGaiGar” (1997) stood as a selfless guardian of love, peace and courage. So when an isekai princess tries to summon a “Yuusha”, who better to answer her call?  \n  \n…wait, this is what the artist of the Knights' \u0026 Magic manga does in his spare time? Guy must really love his job."
   },
   "links": {
-   "raw": "https://twitter.com/i/events/1144599608783302658"
+   "raw": "https://x.com/i/events/1144599608783302658"
   },
   "originalLanguage": "ja",
   "lastChapter": "17.6",
@@ -63,18 +69,6 @@
     }
    },
    {
-    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Doujinshi"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -100,9 +94,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2020-11-17T08:18:42+00:00",
-  "updatedAt": "2023-08-07T20:47:16+00:00"
+  "updatedAt": "2024-12-28T04:30:59+00:00"
  },
  "relationships": [
   {
@@ -110,7 +104,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -126,8 +120,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -138,7 +132,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -154,8 +148,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null

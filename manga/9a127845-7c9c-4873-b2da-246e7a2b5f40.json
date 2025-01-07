@@ -3,24 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Choujin Sentai Jetman - Toki o Kakete"
+   "en": "Winged Squadron Jetman: Time Flies"
   },
   "altTitles": [
    {
     "en": "Bird-Man Squadron Jetman: Time Flies"
    },
    {
-    "en": "Chojin Sentai Jetman: Toki wo Kakete"
+    "ja-ro": "Chojin Sentai Jetman: Toki wo Kakete"
    },
    {
-    "en": "Choujin Sentai Jetman - Toki wo Kakete"
+    "ja-ro": "Choujin Sentai Jetman - Toki wo Kakete"
    },
    {
-    "en": "Winged Squadron Jetman: Time Flies"
+    "ja-ro": "Choujin Sentai Jetman - Toki o Kakete"
    }
   ],
   "description": {
-   "en": ""
+   "en": "Set five years after the series, it tells the story of the Jetman and their battle against the revived Dimensional War Party Vyram as well as the introduction of the manga only Sentai Ranger, Green Eagle."
   },
   "links": {
    "al": "34616",
@@ -150,9 +150,9 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 3,
   "createdAt": "2018-07-08T09:48:56+00:00",
-  "updatedAt": "2018-07-08T09:48:56+00:00"
+  "updatedAt": "2024-12-11T05:27:16+00:00"
  },
  "relationships": [
   {
@@ -222,6 +222,16 @@
   },
   {
    "id": "4f45cb6e-f8d0-46e2-a4c0-d5eb3f0a402c",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "69de2274-e7bc-4f0c-946e-54013dbad42e",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "abd5bbca-fad0-4aaf-8172-8a0b1a0a6e8c",
    "type": "manga",
    "related": "same_franchise"
   }

@@ -35,7 +35,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "e7eb1001-f9dd-4fff-a116-eddb0d84ddf6",
+  "latestUploadedChapter": "9388d188-0b13-41d7-9197-9dd2430bafa0",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -67,6 +67,18 @@
     "attributes": {
      "name": {
       "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
      },
      "description": {},
      "group": "genre",
@@ -123,9 +135,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2024-05-26T14:57:01+00:00",
-  "updatedAt": "2024-09-18T20:10:39+00:00"
+  "updatedAt": "2024-12-05T20:14:47+00:00"
  },
  "relationships": [
   {

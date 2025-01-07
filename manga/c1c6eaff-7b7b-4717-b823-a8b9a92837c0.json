@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Dragon Fall"
+   "en": "Drabon Ball - Dragon Fall (Doujinshi)"
   },
   "description": {
    "en": "Spanish parody of Dragon Ball."
@@ -12,7 +12,7 @@
    "amz": "https://www.amazon.com/dp/B0BQZ6P8PG",
    "mu": "4405"
   },
-  "originalLanguage": "ja",
+  "originalLanguage": "es",
   "status": "completed",
   "contentRating": "safe",
   "tags": [
@@ -54,9 +54,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2018-11-18T12:24:27+00:00",
-  "updatedAt": "2023-02-04T16:13:36+00:00"
+  "updatedAt": "2025-01-01T03:31:57+00:00"
  },
  "relationships": [
   {
@@ -164,17 +164,22 @@
    }
   },
   {
-   "id": "43c4d838-5c76-4f7f-9615-04449db0b933",
+   "id": "d46f66c1-4554-45f6-b6c5-5e7e981c4ab3",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:51:56+00:00",
+    "createdAt": "2025-01-01T03:29:55+00:00",
     "description": "",
-    "fileName": "a88dc947-11b7-422b-ada3-ebe70745975d.jpg",
-    "locale": "ja",
-    "updatedAt": "2021-05-24T16:51:56+00:00",
+    "fileName": "0f1517c7-9dda-45ec-ae8a-b4a40f746a9b.jpg",
+    "locale": "es",
+    "updatedAt": "2025-01-01T03:29:55+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
+  },
+  {
+   "id": "40bc649f-7b49-4645-859e-6cd94136e722",
+   "type": "manga",
+   "related": "based_on"
   }
  ]
 }

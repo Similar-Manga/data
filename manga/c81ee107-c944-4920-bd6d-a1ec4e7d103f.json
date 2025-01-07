@@ -656,7 +656,9 @@
    "id": "95bd5cdd-326e-45ce-9f97-1d9df26df478",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: たぬきち\n\n**Circle/s**:\n[Tanukichi no Yatai](https://mangadex.org/author/a212fea1-f506-4b32-b4ad-4a9ccbc34e9d) (たぬきちの屋台)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -671,8 +673,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-07T12:50:12+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -1658,7 +1660,9 @@
    "id": "95bd5cdd-326e-45ce-9f97-1d9df26df478",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: たぬきち\n\n**Circle/s**:\n[Tanukichi no Yatai](https://mangadex.org/author/a212fea1-f506-4b32-b4ad-4a9ccbc34e9d) (たぬきちの屋台)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -1673,8 +1677,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-07T12:50:12+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -2131,6 +2135,11 @@
   },
   {
    "id": "1b4ee803-f08c-4feb-83ef-dd5314690ea7",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "1c096629-862f-4438-8c17-1c18bc3fec7d",
    "type": "manga",
    "related": "same_franchise"
   },

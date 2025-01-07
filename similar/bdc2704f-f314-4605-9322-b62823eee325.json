@@ -6,20 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d9004cb9-eb74-4fdc-97d1-4dcc388a7fba",
-   "title": {
-    "en": "Twisted Sisters"
-   },
-   "contentRating": "safe",
-   "score": 0.31175193
-  },
-  {
    "id": "f6091022-e6a3-448d-8980-3e0f77bacf1d",
    "title": {
     "en": "Sabotage Summer"
    },
    "contentRating": "safe",
-   "score": 0.31093717
+   "score": 0.3109043
+  },
+  {
+   "id": "d9004cb9-eb74-4fdc-97d1-4dcc388a7fba",
+   "title": {
+    "en": "Twisted Sisters"
+   },
+   "contentRating": "safe",
+   "score": 0.31052333
   },
   {
    "id": "079fa9a3-540e-46b9-8b9e-f534145e6e73",
@@ -27,7 +27,7 @@
     "en": "Artiste"
    },
    "contentRating": "safe",
-   "score": 0.3065147,
+   "score": 0.30639312,
    "languages": [
     "en"
    ]
@@ -38,7 +38,7 @@
     "en": "Semimaru Zanjitsuroku"
    },
    "contentRating": "safe",
-   "score": 0.3056544,
+   "score": 0.30559948,
    "languages": [
     "en"
    ]
@@ -49,7 +49,7 @@
     "en": "Ujigami-sama no Consultant"
    },
    "contentRating": "safe",
-   "score": 0.30488682
+   "score": 0.30487263
   },
   {
    "id": "df63eaf9-d868-40f3-9ab4-d58be078030f",
@@ -57,7 +57,7 @@
     "en": "Happy on the Road - Kaeranai ni wa Wake ga Aru"
    },
    "contentRating": "safe",
-   "score": 0.3011086,
+   "score": 0.30109286,
    "languages": [
     "en"
    ]
@@ -68,7 +68,7 @@
     "en": "Osen"
    },
    "contentRating": "safe",
-   "score": 0.29370084,
+   "score": 0.2936906,
    "languages": [
     "en"
    ]
@@ -79,7 +79,7 @@
     "en": "The Woman who Mistook the Stars"
    },
    "contentRating": "safe",
-   "score": 0.2928951
+   "score": 0.2928794
   },
   {
    "id": "cc33d030-ba80-403d-b68c-db376163b676",
@@ -87,40 +87,7 @@
     "en": "Kabukichou no Sentakuya-san"
    },
    "contentRating": "safe",
-   "score": 0.2928438
-  },
-  {
-   "id": "2f5741ce-651c-4d53-9775-cd96ec8d32f6",
-   "title": {
-    "en": "Moriyamachu Driving School"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258
-  },
-  {
-   "id": "b8a3be2d-a2be-4e9a-b1c2-8a46aacc9aba",
-   "title": {
-    "en": "Madoromi Barmaid"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la",
-    "ru"
-   ]
-  },
-  {
-   "id": "ddf50c41-6670-4cd1-b9bb-fe4a903caaa7",
-   "title": {
-    "en": "Channel wa Sonomama!"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en"
-   ]
+   "score": 0.2928502
   },
   {
    "id": "c018d5b8-8d67-4bcd-bed6-443a3224a150",
@@ -129,17 +96,6 @@
    },
    "contentRating": "safe",
    "score": 0.2851258
-  },
-  {
-   "id": "1148e2b1-aaa7-4b4b-acfa-f62a7b3c5759",
-   "title": {
-    "en": "The Nightmare Family"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "zh"
-   ]
   },
   {
    "id": "87ebd557-8394-4f16-8afe-a8644e555ddc",
@@ -159,13 +115,51 @@
    ]
   },
   {
+   "id": "4b740a23-caab-43c8-9460-71efa9aa7bae",
+   "title": {
+    "en": "Tetsu Bon"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
+  },
+  {
    "id": "593c42c0-ea28-4c60-949d-0edc4654b820",
    "title": {
     "en": "Ane to Otouto ga Maamaa Nakayoku Kurasu Nichijou."
    },
    "contentRating": "safe",
    "score": 0.2851258
+  },
+  {
+   "id": "1148e2b1-aaa7-4b4b-acfa-f62a7b3c5759",
+   "title": {
+    "en": "The Nightmare Family"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
+   "id": "ddf50c41-6670-4cd1-b9bb-fe4a903caaa7",
+   "title": {
+    "en": "Channel wa Sonomama!"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2f5741ce-651c-4d53-9775-cd96ec8d32f6",
+   "title": {
+    "en": "Moriyamachu Driving School"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
   }
  ],
- "updatedAt": "2024-12-01T21:44:56+00:00"
+ "updatedAt": "2025-01-06T00:57:57+00:00"
 }

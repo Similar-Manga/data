@@ -19,7 +19,7 @@
     "zh": "CLAMP学院侦探团"
    },
    {
-    "en": "Đội thám tử học viện Clamp"
+    "vi": "Đội thám tử học viện Clamp"
    },
    {
     "ko": "클램프학원탐정단"
@@ -45,9 +45,10 @@
   "availableTranslatedLanguages": [
    "pl",
    "pt-br",
-   "en"
+   "en",
+   "vi"
   ],
-  "latestUploadedChapter": "6c5361b0-2db1-4414-a785-23786417e161",
+  "latestUploadedChapter": "c8dd8784-a39c-4886-bda9-d3745b4c47f1",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -99,16 +100,18 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2019-12-23T10:57:30+00:00",
-  "updatedAt": "2024-10-25T08:18:47+00:00"
+  "updatedAt": "2024-12-15T10:34:24+00:00"
  },
  "relationships": [
   {
    "id": "60bc549c-f2ac-488e-9b83-c840a76d17ce",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "CLAMP is a four-woman manga studio formed from the remaining members of the CLAMP doujinshi circle.\n\n- [Ohkawa Ageha](https://mangadex.org/author/937ca459-3e37-450f-9114-ef81a37e335f/ohkawa-ageha) (leader; story \u0026 script)\n- [Apapa Mokona](https://mangadex.org/author/259db6b3-3c79-4bbc-82f4-b65dde73e904/apapa-mokona) (lead artist; colorist)\n- [Nekoi Tsubaki](https://mangadex.org/author/3dffe29e-f96d-446b-a288-84120d4f1297/nekoi-tsubaki) (art assistant; chibi artist)\n- Igarashi Satsuki (design; art assistant)\n\nFormer Members:\nO-Kyon\nNanao Sei\n[Akiyama Tamayo](https://mangadex.org/author/e945c2df-7420-42e3-a106-e05b8475aeee/akiyama-tamayo)\n[Sei Leeza](https://mangadex.org/author/9dd0940d-4a6d-4f6e-80bf-6884c0b8a64c/sei-leeza)\nHishika Soushi\nNakamori Kazue\nOumi Shinya"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -122,19 +125,21 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/CLAMP_news",
+    "updatedAt": "2024-12-05T10:09:00+00:00",
+    "version": 3,
+    "website": "https://clamp-net.com/",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/user/CLAMPNETTV?app=desktop"
    }
   },
   {
    "id": "60bc549c-f2ac-488e-9b83-c840a76d17ce",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "CLAMP is a four-woman manga studio formed from the remaining members of the CLAMP doujinshi circle.\n\n- [Ohkawa Ageha](https://mangadex.org/author/937ca459-3e37-450f-9114-ef81a37e335f/ohkawa-ageha) (leader; story \u0026 script)\n- [Apapa Mokona](https://mangadex.org/author/259db6b3-3c79-4bbc-82f4-b65dde73e904/apapa-mokona) (lead artist; colorist)\n- [Nekoi Tsubaki](https://mangadex.org/author/3dffe29e-f96d-446b-a288-84120d4f1297/nekoi-tsubaki) (art assistant; chibi artist)\n- Igarashi Satsuki (design; art assistant)\n\nFormer Members:\nO-Kyon\nNanao Sei\n[Akiyama Tamayo](https://mangadex.org/author/e945c2df-7420-42e3-a106-e05b8475aeee/akiyama-tamayo)\n[Sei Leeza](https://mangadex.org/author/9dd0940d-4a6d-4f6e-80bf-6884c0b8a64c/sei-leeza)\nHishika Soushi\nNakamori Kazue\nOumi Shinya"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -148,12 +153,12 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/CLAMP_news",
+    "updatedAt": "2024-12-05T10:09:00+00:00",
+    "version": 3,
+    "website": "https://clamp-net.com/",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/user/CLAMPNETTV?app=desktop"
    }
   },
   {

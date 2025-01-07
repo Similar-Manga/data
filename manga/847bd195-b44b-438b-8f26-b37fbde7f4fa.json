@@ -1,0 +1,161 @@
+{
+ "id": "847bd195-b44b-438b-8f26-b37fbde7f4fa",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shadow Moon"
+  },
+  "altTitles": [
+   {
+    "ko": "그림자 달"
+   }
+  ],
+  "description": {
+   "en": "Seo Cheongjin, a genius potter in the 21st century, is possessing the body of a girl name Lee Yeong-Hwa in the Joseon Dynasty 500 years ago. Huh?!\nThe ImJin War* is happening soon?! In order to go back to the present, Lee Yeong-Hwa will need to use her knowledge of history and make connections in order to survive.\nBut why are historical figures coming closer and closer the further Yeong-Hwa is deviating from history?!\n*Japanese Invasion (1592)"
+  },
+  "originalLanguage": "ko",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "54573ecf-83bf-4562-a9e6-5d0c99e9b509",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-31T10:22:44+00:00",
+  "updatedAt": "2024-12-31T10:23:54+00:00"
+ },
+ "relationships": [
+  {
+   "id": "22fc0b1c-f24a-48f4-a797-25aad9a4958a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-31T10:22:01+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "루하",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-31T10:22:01+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "22fc0b1c-f24a-48f4-a797-25aad9a4958a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-31T10:22:01+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "루하",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-31T10:22:01+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a159307a-835a-46b4-a591-9612dabf59c5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-31T10:22:48+00:00",
+    "description": "",
+    "fileName": "63fb74ad-493a-413e-bbb0-c1b924819627.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-12-31T10:22:48+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "dabcb94b-b493-488c-8ee9-e47b5bfd303e",
+   "type": "creator"
+  }
+ ]
+}

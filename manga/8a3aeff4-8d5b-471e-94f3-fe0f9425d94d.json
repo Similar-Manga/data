@@ -1,0 +1,131 @@
+{
+ "id": "8a3aeff4-8d5b-471e-94f3-fe0f9425d94d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Zettai Shinanai Stella-hime"
+  },
+  "altTitles": [
+   {
+    "ja": "絶対死なないステラ姫"
+   }
+  ],
+  "description": {
+   "en": "Princess Stella of the Kingdom of Hillvalley has lost her father, the King, and finds herself in the midst of a fierce succession battle. Her step-sister, Ishuja, persistently tries to assassinate Stella, but each time her attempts are thwarted by strange, unexplained phenomena. And then, an astonishing truth is revealed…!?",
+   "ja": "ヒルバレー王国の王女・ステラ姫は、実父の国王を喪い、後継者争いの真っ只中にいた。義姉のイシュジアは執拗にステラを暗殺しようと狙うが、不可思議な現象によって毎回阻まれる。そして、驚愕の事実が明らかになったのだが……！？"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DPG98912",
+   "ap": "zettai-shinanai-stella-hime",
+   "bw": "series/501641",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/865126",
+   "raw": "https://comic-days.com/episode/2550912964546522828"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-30T15:30:11+00:00",
+  "updatedAt": "2025-01-02T19:07:36+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0f68e8dc-7ce6-44ab-b880-32f708cb46ca",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mitsunaga Yasunori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "461e1f85-9105-4b05-a123-c8d9bce50dd2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-30T15:27:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ootaka Ine",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T15:27:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7af19015-1e2c-48cf-b784-c024d24947e8",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T15:30:18+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "8f33e984-c7a7-4961-a25f-93d792eba00e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T15:30:18+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

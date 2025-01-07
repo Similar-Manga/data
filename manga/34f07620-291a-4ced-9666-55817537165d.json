@@ -8,6 +8,9 @@
   "altTitles": [
    {
     "ja": "放課後の悪霊"
+   },
+   {
+    "en": "The After-school Devil"
    }
   ],
   "description": {},
@@ -22,6 +25,18 @@
   "contentRating": "safe",
   "tags": [
    {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
     "type": "tag",
     "attributes": {
@@ -30,6 +45,30 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -46,6 +85,30 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
     "attributes": {
@@ -56,12 +119,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2022-02-27T16:24:01+00:00",
-  "updatedAt": "2022-02-27T20:31:07+00:00"
+  "updatedAt": "2025-01-02T21:18:45+00:00"
  },
  "relationships": [
   {

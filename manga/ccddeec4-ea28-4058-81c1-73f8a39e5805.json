@@ -3,21 +3,42 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Sister Next Door"
+   "en": "Mannamui Jogeon"
   },
   "altTitles": [
    {
+    "ko": "만남의 조건"
+   },
+   {
+    "ko-ro": "Mannamui Jogeon"
+   },
+   {
     "zh": "邻家妹妹"
+   },
+   {
+    "zh": "交往的条件"
+   },
+   {
+    "zh": "再会前任"
+   },
+   {
+    "zh": "否极泰来"
+   },
+   {
+    "en": "Sister Next Door"
    }
   ],
   "description": {
    "en": "My girlfriend was taken away by someone else. I thought my life would be at the bottom of the valley, but it ushered in new spring!"
   },
   "links": {
-   "raw": "http://www.umh8.com/book/10"
+   "al": "166171",
+   "raw": "https://toptoon.com/comic/ep_list/meet"
   },
   "originalLanguage": "ko",
-  "status": "ongoing",
+  "lastChapter": "33",
+  "status": "completed",
+  "year": 2018,
   "contentRating": "pornographic",
   "tags": [
    {
@@ -38,6 +59,18 @@
     "attributes": {
      "name": {
       "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
      },
      "description": {},
      "group": "genre",
@@ -70,13 +103,13 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2020-10-24T05:26:37+00:00",
-  "updatedAt": "2023-08-15T05:01:53+00:00"
+  "updatedAt": "2024-12-03T10:43:57+00:00"
  },
  "relationships": [
   {
-   "id": "23f36bfa-3cbf-47f2-8639-28820a0313f4",
+   "id": "5307e471-9a4e-48ad-bf70-d663adfaed17",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -86,7 +119,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Unknown",
+    "name": "Daktaryeon",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -102,17 +135,17 @@
    }
   },
   {
-   "id": "23f36bfa-3cbf-47f2-8639-28820a0313f4",
+   "id": "810b1cee-6601-4022-8c10-71e00b0ac272",
    "type": "artist",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2022-01-05T15:36:11+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Unknown",
+    "name": "E-NYONG (인용)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -120,22 +153,22 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2022-06-13T01:02:46+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "22a3f0c8-69db-4fca-93ab-ead430b2a703",
+   "id": "51b9768a-6557-4308-8517-95381ea5b9cc",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-28T23:14:52+00:00",
+    "createdAt": "2024-12-03T10:41:36+00:00",
     "description": "",
-    "fileName": "3e4abdd1-caa6-493a-bb24-48fe6327bb89.jpg",
+    "fileName": "53772e04-d44d-4927-ae28-f1a5c0b75223.png",
     "locale": "ko",
-    "updatedAt": "2021-05-28T23:14:52+00:00",
+    "updatedAt": "2024-12-03T10:41:36+00:00",
     "version": 1,
     "volume": null
    }

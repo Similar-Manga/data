@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "He's My Real Brother, Duke"
+   "en": "He's Just My Brother, Your Grace!"
   },
   "altTitles": [
    {
@@ -23,6 +23,9 @@
    },
    {
     "es-la": "Duque Él Es Mi Verdadero Hermano"
+   },
+   {
+    "en": "He's My Real Brother, Duke"
    }
   ],
   "description": {
@@ -31,12 +34,15 @@
   "links": {
    "al": "156911",
    "ap": "hes-my-real-brother-duke",
+   "engtl": "https://tapas.io/series/hes-just-my-brother-your-grace/info",
    "mu": "iij3q49",
    "nu": "hes-my-real-brother-duke",
    "raw": "https://page.kakao.com/content/60549099"
   },
   "originalLanguage": "ko",
-  "status": "ongoing",
+  "lastVolume": "2",
+  "lastChapter": "80",
+  "status": "completed",
   "year": 2022,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -143,9 +149,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2023-02-21T00:25:03+00:00",
-  "updatedAt": "2024-07-13T19:53:42+00:00"
+  "updatedAt": "2024-12-12T19:48:45+00:00"
  },
  "relationships": [
   {
@@ -201,16 +207,16 @@
    }
   },
   {
-   "id": "14718b19-7537-45d4-b67b-772e50813378",
+   "id": "70456f4e-7e3a-48f1-b584-f7beb26a4d94",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-02-21T00:25:05+00:00",
+    "createdAt": "2024-12-12T19:47:26+00:00",
     "description": "",
-    "fileName": "003ae074-cb8e-4cf7-8e12-3f0ac6f030a8.jpg",
+    "fileName": "518d8a89-0af6-4692-bc2e-151667c1ddcc.jpg",
     "locale": "ko",
-    "updatedAt": "2023-02-21T00:25:05+00:00",
+    "updatedAt": "2024-12-12T19:47:26+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

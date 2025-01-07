@@ -5,6 +5,32 @@
   "title": {
    "en": "My New Girlfriend Is Not Human?"
   },
+  "altTitles": [
+   {
+    "es-la": "¿Mi nueva novia no es humana?"
+   },
+   {
+    "de": "Meine neue Freundin ist kein Mensch?"
+   },
+   {
+    "fr": "Ma Nouvelle Copine N'est Pas Humaine ?"
+   },
+   {
+    "id": "Pacar Baruku Bukan Manusia?"
+   },
+   {
+    "pt-br": "Minha nova namorada não é humana?"
+   },
+   {
+    "tr": "Yeni kız arkadaşım insan değil mi?"
+   },
+   {
+    "uk": "Моя нова дівчина — не людина?"
+   },
+   {
+    "pl": "Moja nowa dziewczyna nie jest człowiekiem?"
+   }
+  ],
   "description": {},
   "links": {
    "engtl": "https://twitter.com/NeitheYAGI/status/1856322077244154361"
@@ -14,11 +40,17 @@
   "year": 2024,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "es-la",
+   "es",
    "en",
-   "pt-br"
+   "pt-br",
+   "fr",
+   "es-la",
+   "de",
+   "uk",
+   "id",
+   "tr"
   ],
-  "latestUploadedChapter": "04a048da-ac19-4e8e-b239-b148e647b961",
+  "latestUploadedChapter": "3ae2dd0c-483c-4a98-b17b-463c8e72c727",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -103,12 +135,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 10,
   "createdAt": "2024-11-23T07:45:06+00:00",
-  "updatedAt": "2024-11-27T07:51:32+00:00"
+  "updatedAt": "2024-12-24T23:56:06+00:00"
  },
  "relationships": [
   {
@@ -116,7 +160,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Links:**\n- [Patreon](https://www.patreon.com/YAGIarts)\n- [Webtoons](https://www.webtoons.com/p/community/u/s9plb)\n- [MANGAPlus Creators](https://medibang.com/mpc/authors/10451853/)"
+     "en": "**Links:**\n- [Bluesky](https://bsky.app/profile/neitheyagi.bsky.social)\n- [Patreon](https://www.patreon.com/YAGIarts)\n- [WEBTOONS](https://www.webtoons.com/p/community/u/s9plb)\n- [MANGAPlus Creators](https://medibang.com/mpc/authors/10451853/)\n- [Reddit](https://www.reddit.com/u/YAGIboy/)"
     },
     "booth": null,
     "createdAt": "2023-02-13T17:09:37+00:00",
@@ -132,8 +176,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/NeitheYAGI",
-    "updatedAt": "2024-11-23T16:08:45+00:00",
-    "version": 7,
+    "updatedAt": "2024-12-24T08:49:19+00:00",
+    "version": 11,
     "website": "https://linktr.ee/NeitheYAGI",
     "weibo": null,
     "youtube": "https://www.youtube.com/@NeitheYAGI"
@@ -144,7 +188,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Links:**\n- [Patreon](https://www.patreon.com/YAGIarts)\n- [Webtoons](https://www.webtoons.com/p/community/u/s9plb)\n- [MANGAPlus Creators](https://medibang.com/mpc/authors/10451853/)"
+     "en": "**Links:**\n- [Bluesky](https://bsky.app/profile/neitheyagi.bsky.social)\n- [Patreon](https://www.patreon.com/YAGIarts)\n- [WEBTOONS](https://www.webtoons.com/p/community/u/s9plb)\n- [MANGAPlus Creators](https://medibang.com/mpc/authors/10451853/)\n- [Reddit](https://www.reddit.com/u/YAGIboy/)"
     },
     "booth": null,
     "createdAt": "2023-02-13T17:09:37+00:00",
@@ -160,8 +204,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/NeitheYAGI",
-    "updatedAt": "2024-11-23T16:08:45+00:00",
-    "version": 7,
+    "updatedAt": "2024-12-24T08:49:19+00:00",
+    "version": 11,
     "website": "https://linktr.ee/NeitheYAGI",
     "weibo": null,
     "youtube": "https://www.youtube.com/@NeitheYAGI"

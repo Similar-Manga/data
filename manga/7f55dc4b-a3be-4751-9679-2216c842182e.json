@@ -1,0 +1,156 @@
+{
+ "id": "7f55dc4b-a3be-4751-9679-2216c842182e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Isekai Maid ga Yattekita ~Ihoujin Datta Koro no Maid ga Gendai no Wagaya de Ecchi na Maid-san ni~"
+  },
+  "altTitles": [
+   {
+    "ja": "異世界メイドがやってきた～異邦人だった頃のメイドが現代の我が家でエッチなメイドさんに～"
+   }
+  ],
+  "description": {
+   "ja": "勇者として異世界に召喚され、見事に魔王を倒し平和を取り戻したタカヒロ。現代に帰還し、普通の大学生としての日常を送るが、タカヒロには異世界から持ち帰った「楽しみ」があった。それは、異世界の冒険で巡り合った鬼族の少女レン。向こうの世界ではメイドとしてかいがいしく働いてくれていたが、とある縁があって一緒に現代の世界に戻ってきたのだ。濃厚で愛情たっぷりの「御奉仕」でタカヒロを癒してくれるレン。"
+  },
+  "links": {
+   "al": "176339",
+   "amz": "https://www.amazon.co.jp/dp/B0DNJ3H7BN",
+   "bw": "series/500123",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/864695",
+   "mu": "9b6pfpa"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-16T23:31:16+00:00",
+  "updatedAt": "2024-12-17T12:33:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b979a279-392f-40a3-a441-e437a03a65f5",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-16T23:29:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tateishi Tachinomi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-16T23:29:51+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bf4b0f56-b9e9-496f-a223-0b601836c4ec",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nウニドン￥１２０ "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Unidon ￥120",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-06-07T05:23:55+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f358fd8a-9ab8-4f9f-9ae8-26bd06a35cef",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-16T23:31:19+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "de42f208-c0b3-48a4-9340-1c8cdb1c9556.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-16T23:31:19+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

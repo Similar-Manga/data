@@ -29,7 +29,7 @@
   "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2024,
-  "contentRating": "suggestive",
+  "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
@@ -44,18 +44,6 @@
      },
      "description": {},
      "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Gore"
-     },
-     "description": {},
-     "group": "content",
      "version": 1
     }
    },
@@ -94,12 +82,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2024-07-14T10:20:43+00:00",
-  "updatedAt": "2024-11-02T18:57:40+00:00"
+  "updatedAt": "2024-12-08T23:27:31+00:00"
  },
  "relationships": [
   {
@@ -155,16 +155,16 @@
    }
   },
   {
-   "id": "a3472a24-2785-41fb-a5bf-b7b8ae1a837b",
+   "id": "ea6b718c-0480-4b8f-8f34-ca8d0dcb658d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-26T20:28:02+00:00",
+    "createdAt": "2024-12-20T11:02:24+00:00",
     "description": "",
-    "fileName": "c21384df-3185-4feb-a072-7ae75a486643.jpg",
+    "fileName": "978cd916-21d5-424f-b938-57e02f19ee74.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-26T20:28:02+00:00",
+    "updatedAt": "2024-12-20T11:02:24+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

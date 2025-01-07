@@ -22,6 +22,8 @@
    "raw": "https://www.peanutoon.com/ko/comic/detail/4000"
   },
   "originalLanguage": "ko",
+  "lastVolume": "1",
+  "lastChapter": "56",
   "status": "completed",
   "year": 2019,
   "contentRating": "erotica",
@@ -105,13 +107,13 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2021-03-01T15:06:41+00:00",
-  "updatedAt": "2023-03-21T15:25:19+00:00"
+  "updatedAt": "2025-01-02T02:25:12+00:00"
  },
  "relationships": [
   {
-   "id": "977e3440-fc84-4a43-bf5d-212a896d0c02",
+   "id": "ab6e9e19-63b4-4dac-a6af-531b9bbe5b91",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -121,7 +123,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "조상덕",
+    "name": "Cho Sangduck (조상덕)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -129,8 +131,34 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-02T02:24:51+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ab6e9e19-63b4-4dac-a6af-531b9bbe5b91",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Cho Sangduck (조상덕)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-02T02:24:51+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -1,0 +1,168 @@
+{
+ "id": "0f9874fc-544c-4241-9fdb-597bb5959b38",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "My Best Friend is an Eldritch Horror"
+  },
+  "description": {
+   "en": "Good things come to those who wait. Damien Vale didn't, and now he's bound to an Eldritch creature from beyond the farthest reaches of the universe. It's unfathomable, utterly evil, and likes to be called Henry. To Damien, none of that mattered. He was going to learn magic, and he'd be damned if he let something as small as this set him back."
+  },
+  "links": {
+   "engtl": "https://www.webtoons.com/en/fantasy/my-best-friend-is-an-eldritch-horror/list?title_no=6848"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-14T23:38:01+00:00",
+  "updatedAt": "2024-12-14T23:40:12+00:00"
+ },
+ "relationships": [
+  {
+   "id": "18226ff2-16e1-4515-ac4b-8764cc3e5bbb",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-21T15:13:55+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Actus",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-21T15:13:55+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c2fa61a5-b725-4604-a6e0-535991826a48",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-21T15:14:11+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Laurel Pursuit",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-21T15:14:11+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4db679e7-aae3-4983-9122-dbdf66a578cb",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-14T23:38:02+00:00",
+    "description": "",
+    "fileName": "b9861d03-5fbd-4f7f-9337-66e5d8354bf1.jpg",
+    "locale": "en",
+    "updatedAt": "2024-12-14T23:38:02+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "22d49b20-7bfd-4e2c-a14f-f57bf912f5c2",
+   "type": "creator"
+  }
+ ]
+}

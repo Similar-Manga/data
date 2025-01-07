@@ -1,0 +1,129 @@
+{
+ "id": "b92e6756-de0d-4726-a2a9-eaeb790a3c0c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "U-boat Lady"
+  },
+  "altTitles": [
+   {
+    "ja": "Ｕボート・レディ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "185678",
+   "amz": "https://www.amazon.co.jp/-/en/gp/product/B071D596H2?ref_=dbs_m_mng_rwt_calw_gp_v_tkin_2\u0026storeType=ebooks\u0026qid=1734976459\u0026sr=1-1",
+   "bw": "de26b569c5-afce-4c92-b76b-973665274469",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/308758/A001740444/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "8",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 1985,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-23T17:57:45+00:00",
+  "updatedAt": "2024-12-23T18:03:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f06fca8b-ac62-4100-b936-badec97fa4df",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-23T17:57:47+00:00",
+    "description": "",
+    "fileName": "9ae7feb8-b784-469a-b817-86c6c1aa2111.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-23T17:57:47+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

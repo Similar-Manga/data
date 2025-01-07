@@ -3,18 +3,27 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Habou no Wadachi: Kouan Chousaichou Chousakan, Haji Kuuya"
+   "en": "Habou no Wadachi ~Kouan Chousaichou Chousakan, Haji Kuuya~"
   },
   "altTitles": [
    {
-    "ja-ro": "Habou no Wadachi - Kouanchousa-chou Chousakan Haji Kuuya"
+    "ja": "ハボウの轍〜公安調査庁調査官・土師空也〜"
    },
    {
-    "ja": "ハボウの轍〜公安調査庁調査官・土師空也〜"
+    "ja-ro": "Habou no Wadachi ~Kouanchousa-chou Chousakan Haji Kuuya~"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "逮捕権も無い、拳銃も所持できない公安調査庁に疑問を持ちつつも就職面接を受けた葉月陽。ある日、尊敬する教授が過激派組織と関わりがあるという噂を耳にする。その真偽を確かめに向かった先で、ある場面に遭遇し――“情報”が日本を救う!!"
+  },
   "links": {
+   "al": "179119",
+   "amz": "https://www.amazon.co.jp/dp/B0DLDYMNNM",
+   "ap": "habou-no-wadachi-kouan-chousachou-chousakan-hase-kuuya",
+   "bw": "series/497860",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/869724",
+   "mal": "170174",
+   "mu": "82a8vvq",
    "raw": "https://ynjn.jp/title/14826"
   },
   "originalLanguage": "ja",
@@ -61,9 +70,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2024-07-08T20:03:42+00:00",
-  "updatedAt": "2024-07-08T20:45:18+00:00"
+  "updatedAt": "2025-01-03T19:08:47+00:00"
  },
  "relationships": [
   {
@@ -119,16 +128,16 @@
    }
   },
   {
-   "id": "8c318c75-982a-40d6-b57f-a07f982c1ee6",
+   "id": "b3b3fc33-a0e1-4e9a-9c53-09fdba7f0d6d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-07-08T20:03:44+00:00",
+    "createdAt": "2025-01-02T06:22:51+00:00",
     "description": "",
-    "fileName": "0498a53f-e1c9-4148-a57a-db71e61f8e4e.png",
+    "fileName": "04150699-ac71-4a7e-a003-0abcb7227066.jpg",
     "locale": "ja",
-    "updatedAt": "2024-07-08T20:03:44+00:00",
+    "updatedAt": "2025-01-02T06:22:51+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   },
   {

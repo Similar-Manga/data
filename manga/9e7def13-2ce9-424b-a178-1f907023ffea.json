@@ -1,0 +1,149 @@
+{
+ "id": "9e7def13-2ce9-424b-a178-1f907023ffea",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "My Robot Has Been Acting Strange Lately"
+  },
+  "altTitles": [
+   {
+    "ja": "最近、うちのロボの様子がおかしい"
+   },
+   {
+    "ja-ro": "Saikin, Uchi no Robo no Yousu ga Okashii"
+   },
+   {
+    "en": "My Robot Is Acting Weird Recently"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/GoHome_kun/status/1864221202245669068"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "0192ec07-f15b-48ce-a844-2a9f1cb860de",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-06T18:23:36+00:00",
+  "updatedAt": "2024-12-06T18:23:41+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e96a03f4-4ecb-4f11-ae3c-7193c7a97d33",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 御家かえる\n\n**Alias For 18+ Work:** Inonaka Kawazu (胃ノ中かわず)\n\n**Other Associated Names:**\nおうちかえる\nOie Kaeru \nGoHome_kun\n\n**Additional Sites:**\n- [Inonaka Kawazu X (18+)](https://twitter.com/kawazuchanR18)"
+    },
+    "booth": null,
+    "createdAt": "2021-10-11T14:20:17+00:00",
+    "fanBox": "https://kaeruchan.fanbox.cc/",
+    "fantia": "https://fantia.jp/fanclubs/499333",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ouchi Kaeru (御家かえる)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/18815611",
+    "skeb": "https://skeb.jp/@GoHome_kun",
+    "tumblr": null,
+    "twitter": "https://twitter.com/GoHome_kun",
+    "updatedAt": "2024-10-14T16:52:13+00:00",
+    "version": 16,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e96a03f4-4ecb-4f11-ae3c-7193c7a97d33",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 御家かえる\n\n**Alias For 18+ Work:** Inonaka Kawazu (胃ノ中かわず)\n\n**Other Associated Names:**\nおうちかえる\nOie Kaeru \nGoHome_kun\n\n**Additional Sites:**\n- [Inonaka Kawazu X (18+)](https://twitter.com/kawazuchanR18)"
+    },
+    "booth": null,
+    "createdAt": "2021-10-11T14:20:17+00:00",
+    "fanBox": "https://kaeruchan.fanbox.cc/",
+    "fantia": "https://fantia.jp/fanclubs/499333",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ouchi Kaeru (御家かえる)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/18815611",
+    "skeb": "https://skeb.jp/@GoHome_kun",
+    "tumblr": null,
+    "twitter": "https://twitter.com/GoHome_kun",
+    "updatedAt": "2024-10-14T16:52:13+00:00",
+    "version": 16,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4965e5d8-f2ce-469f-8c6c-5dc55905ab5e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-06T18:23:38+00:00",
+    "description": "",
+    "fileName": "c1583015-1337-4965-8dc3-7ad8fc0dcec5.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-06T18:23:38+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "f97a9a67-01cc-48d0-a542-59ea341174c0",
+   "type": "creator"
+  }
+ ]
+}

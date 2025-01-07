@@ -1,17 +1,42 @@
 {
  "id": "4a631208-7be4-4a93-807d-8ce49b52342d",
  "title": {
-  "en": "Kodoku no Gourmet"
+  "en": "The Solitary Gourmet"
  },
  "contentRating": "safe",
  "matches": [
+  {
+   "id": "2eff98f0-53d8-43f8-b46d-68c00c3ef841",
+   "title": {
+    "en": "Coffee Mou Ippai"
+   },
+   "contentRating": "safe",
+   "score": 0.25169778,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "title": {
+    "en": "March Comes in Like a Lion"
+   },
+   "contentRating": "safe",
+   "score": 0.25079465,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br",
+    "vi"
+   ]
+  },
   {
    "id": "9f03fd07-8012-4032-ad95-31458704b601",
    "title": {
     "en": "Oishinbo"
    },
    "contentRating": "safe",
-   "score": 0.25515985,
+   "score": 0.24380364,
    "languages": [
     "en"
    ]
@@ -22,7 +47,7 @@
     "en": "Meshinuma"
    },
    "contentRating": "safe",
-   "score": 0.25337932,
+   "score": 0.23831107,
    "languages": [
     "en",
     "vi",
@@ -30,26 +55,12 @@
    ]
   },
   {
-   "id": "0ca1627e-95dd-4118-892a-f144adf02256",
+   "id": "5accdd22-7ef4-4f7a-8681-a0a620ff4168",
    "title": {
-    "en": "March Comes in Like a Lion"
+    "en": "Wakako-Zake"
    },
    "contentRating": "safe",
-   "score": 0.24880989,
-   "languages": [
-    "en",
-    "es-la",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
-   "id": "2eff98f0-53d8-43f8-b46d-68c00c3ef841",
-   "title": {
-    "en": "Coffee Mou Ippai"
-   },
-   "contentRating": "safe",
-   "score": 0.24827142,
+   "score": 0.22320437,
    "languages": [
     "en"
    ]
@@ -60,21 +71,10 @@
     "en": "Kemutai Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.2214016,
+   "score": 0.2223024,
    "languages": [
     "en",
     "zh-hk"
-   ]
-  },
-  {
-   "id": "5accdd22-7ef4-4f7a-8681-a0a620ff4168",
-   "title": {
-    "en": "Wakako-Zake"
-   },
-   "contentRating": "safe",
-   "score": 0.22063488,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -89,7 +89,8 @@
     "en",
     "vi",
     "ru",
-    "pt-br"
+    "pt-br",
+    "id"
    ]
   },
   {
@@ -103,20 +104,8 @@
     "pt-br",
     "vi",
     "es-la",
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "3964e40a-019b-4fa3-a8c6-ad9696281fbf",
-   "title": {
-    "en": "Golden Gold"
-   },
-   "contentRating": "safe",
-   "score": 0.20735914,
-   "languages": [
-    "en",
-    "es-la"
+    "id",
+    "en"
    ]
   },
   {
@@ -162,7 +151,7 @@
     "en": "Artiste"
    },
    "contentRating": "safe",
-   "score": 0.20396236,
+   "score": 0.20552784,
    "languages": [
     "en"
    ]
@@ -173,23 +162,9 @@
     "en": "Gohoubi Gohan"
    },
    "contentRating": "safe",
-   "score": 0.20363474,
+   "score": 0.20530456,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "4573b6f1-2330-47ea-8b32-c9feaec4f21b",
-   "title": {
-    "en": "Hazukashigariya no Tsuma to Shinkon Seikatsu Hajimemashita"
-   },
-   "contentRating": "safe",
-   "score": 0.2021813,
-   "languages": [
-    "vi",
-    "en",
-    "es-la",
-    "id"
    ]
   },
   {
@@ -202,7 +177,33 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "78a664a7-2f4e-464b-b925-92984012f00c",
+   "title": {
+    "en": "Anata ga Shite Kurenakute mo"
+   },
+   "contentRating": "safe",
+   "score": 0.20161438,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi"
+   ]
+  },
+  {
+   "id": "1116ca63-ca60-46b4-8161-908749a1c2fb",
+   "title": {
+    "en": "Flowering Harbor"
+   },
+   "contentRating": "safe",
+   "score": 0.19778126,
+   "languages": [
+    "ar",
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-12-01T21:06:04+00:00"
+ "updatedAt": "2025-01-06T00:11:31+00:00"
 }

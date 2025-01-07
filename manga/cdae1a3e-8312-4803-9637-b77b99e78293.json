@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Blue Wolves of Mibu —Newly Selected Corps Arc—"
+   "en": "The Blue Wolves of Mibu: Shinsengumi Arc"
   },
   "altTitles": [
    {
@@ -22,7 +22,7 @@
   "links": {
    "al": "177470",
    "amz": "https://www.amazon.co.jp/dp/B0CYSJ3415",
-   "bw": "series/486805/list",
+   "bw": "series/486805",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/850101/",
    "mal": "173903",
    "mu": "avc44tt",
@@ -108,9 +108,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2024-10-19T23:13:45+00:00",
-  "updatedAt": "2024-10-25T20:43:13+00:00"
+  "updatedAt": "2024-12-27T22:36:43+00:00"
  },
  "relationships": [
   {
@@ -170,16 +170,16 @@
    }
   },
   {
-   "id": "477926b5-c9cd-4a79-8cb9-862ea107321a",
+   "id": "e6bf1b66-5e38-4873-b650-65aa8320ed36",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-05T12:07:25+00:00",
-    "description": "",
-    "fileName": "4f851800-1faf-48ef-aed0-1ebbf3d7ca2e.jpg",
+    "createdAt": "2024-12-27T13:09:14+00:00",
+    "description": "https://www.amazon.co.jp/dp/B0DRN4Q71P/ref=tmm_kin_swatch_0?_encoding=UTF8\u0026qid=\u0026sr=",
+    "fileName": "7e044ffd-1a79-4cd3-948e-27c408f05fa5.png",
     "locale": "ja",
-    "updatedAt": "2024-11-05T12:07:25+00:00",
+    "updatedAt": "2024-12-27T13:09:14+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "3"
    }
   },
   {

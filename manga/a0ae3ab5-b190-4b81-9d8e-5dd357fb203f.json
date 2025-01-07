@@ -1,0 +1,178 @@
+{
+ "id": "a0ae3ab5-b190-4b81-9d8e-5dd357fb203f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kantai Collection - RJ-chan ha AKUMA demo TENSHI (Doujinshi)"
+  },
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "completed",
+  "contentRating": "pornographic",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Loli"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2022-02-04T22:26:57+00:00",
+  "updatedAt": "2024-11-14T00:55:31+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7a2f050f-9bdd-4866-9ffd-d4933fd98a1d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Uousaohkoku (circle) ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-14T00:31:29+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ed9f0dac-1b76-4780-b80e-f76b4ed34dde",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Uousaoh",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7a2f050f-9bdd-4866-9ffd-d4933fd98a1d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Uousaohkoku (circle) ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-14T00:31:29+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ed9f0dac-1b76-4780-b80e-f76b4ed34dde",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Uousaoh",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0e80f9cb-dcd7-4647-a5bc-e6309e662059",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2022-02-04T22:27:00+00:00",
+    "description": "",
+    "fileName": "b07a25ec-6caf-420d-bcfa-6b1ba21b961c.jpg",
+    "locale": "ja",
+    "updatedAt": "2022-02-04T22:27:00+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "e63cc706-8d0a-421a-b32d-fac2c550f138",
+   "type": "creator"
+  }
+ ]
+}

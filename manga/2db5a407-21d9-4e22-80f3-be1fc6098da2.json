@@ -1,0 +1,160 @@
+{
+ "id": "2db5a407-21d9-4e22-80f3-be1fc6098da2",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Nipongo"
+  },
+  "altTitles": [
+   {
+    "ja": "ニポンゴ"
+   }
+  ],
+  "description": {
+   "en": "Satou Sayaka attends an international girls' high school, which is full of exchange students from different countries! This 4-koma manga follows their daily school life, focusing primarily on Japanese Satou, Russian Sasha, American Mary, and Chinese Meimei."
+  },
+  "links": {
+   "al": "109389",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B074CK32RL?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1736025311\u0026sr=1-1",
+   "bw": "series/16058/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/236387/",
+   "mal": "100164",
+   "mu": "wbsppic"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "4",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2012,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-04T21:17:44+00:00",
+  "updatedAt": "2025-01-04T21:50:58+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3d9910d9-8af5-4bcb-887a-bbccee3edc79",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "- [2nd Twitter](https://twitter.com/nu_sisa)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Egumi Sora",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/1821198",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/egumisky",
+    "updatedAt": "2023-11-23T02:52:29+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3d9910d9-8af5-4bcb-887a-bbccee3edc79",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "- [2nd Twitter](https://twitter.com/nu_sisa)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Egumi Sora",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/1821198",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/egumisky",
+    "updatedAt": "2023-11-23T02:52:29+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "67c09d19-46b2-482a-b381-e4a3777815e3",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-04T21:17:48+00:00",
+    "description": "",
+    "fileName": "e188cb98-780e-4fdd-b9f3-9d9d39dccf52.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-04T21:17:48+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

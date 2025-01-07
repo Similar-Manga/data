@@ -18,8 +18,8 @@
    "al": "159112",
    "amz": "https://www.amazon.co.jp/dp/B0BY1DF46L",
    "ap": "maimaimaigoen",
-   "bw": "series/357813",
-   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD%3A14\u0026q=%E3%81%BE%E3%81%84%E3%81%BE%E3%81%84%E3%81%BE%E3%81%84%E3%81%94%E3%81%88%E3%82%93\u0026order=reldesc\u0026opt.exclude_prx=on",
+   "bw": "series/357813/list",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD:14\u0026q=まいまいまいごえん\u0026order=reldesc\u0026opt.exclude_prx=on",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/702563/",
    "kt": "maimaimaigoen",
    "mal": "145364",
@@ -27,7 +27,9 @@
    "raw": "https://web-ace.jp/youngaceup/contents/1000191/"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "4",
+  "lastChapter": "16",
+  "status": "completed",
   "year": 2021,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -85,9 +87,9 @@
    }
   ],
   "state": "published",
-  "version": 18,
+  "version": 19,
   "createdAt": "2022-01-21T05:16:53+00:00",
-  "updatedAt": "2024-02-13T22:40:08+00:00"
+  "updatedAt": "2024-12-01T12:43:45+00:00"
  },
  "relationships": [
   {
@@ -143,16 +145,16 @@
    }
   },
   {
-   "id": "4f04c22f-cfec-4e37-9a6e-9df2f01a232d",
+   "id": "9112a91c-79bb-4d5c-996a-de35077ef3ec",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-02-13T22:40:10+00:00",
-    "description": "Volume Cover From BookWalker",
-    "fileName": "92f157cf-8705-477f-8b4c-ea6e57643056.jpg",
+    "createdAt": "2024-12-01T12:45:41+00:00",
+    "description": "",
+    "fileName": "14c79dd6-8417-4819-9252-5916963a2dae.jpg",
     "locale": "ja",
-    "updatedAt": "2024-02-13T22:40:10+00:00",
+    "updatedAt": "2024-12-01T12:45:41+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "4"
    }
   },
   {

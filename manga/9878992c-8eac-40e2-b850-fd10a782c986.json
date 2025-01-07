@@ -13,9 +13,7 @@
     "en": "新レイプ"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "links": {
    "al": "70149",
    "kt": "19975",
@@ -23,8 +21,11 @@
    "mu": "22849"
   },
   "originalLanguage": "ja",
+  "lastVolume": "4",
+  "lastChapter": "36",
   "publicationDemographic": "seinen",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2008,
   "contentRating": "safe",
   "tags": [
    {
@@ -41,9 +42,9 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2018-08-29T14:32:04+00:00",
-  "updatedAt": "2018-08-29T14:32:04+00:00"
+  "updatedAt": "2025-01-04T07:38:43+00:00"
  },
  "relationships": [
   {
@@ -99,16 +100,16 @@
    }
   },
   {
-   "id": "7450f4ff-a163-4ff3-9b99-2f8d724a0764",
+   "id": "6482597e-bb4b-4798-869e-72e35e6a59be",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:43:20+00:00",
+    "createdAt": "2025-01-04T07:40:09+00:00",
     "description": "",
-    "fileName": "bdd33aeb-c007-40af-8106-b7e25fe0f620.jpg",
+    "fileName": "f6c28c7c-0e66-4b4a-96d1-0386d538fdf7.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:43:20+00:00",
+    "updatedAt": "2025-01-04T07:40:09+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
   }
  ]

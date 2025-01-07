@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Monster Eater"
+   "en": "Mamono Kurai no Boukensha - Ore Dake Mamono wo Kuratte Tsuyoku Naru"
   },
   "altTitles": [
    {
@@ -11,6 +11,9 @@
    },
    {
     "en": "Monster Eater Adventurer"
+   },
+   {
+    "en": "Monster Eater"
    }
   ],
   "description": {
@@ -18,6 +21,7 @@
   },
   "links": {
    "mu": "j67e7gc",
+   "nu": "monster-eater",
    "raw": "https://manga.line.me/product/periodic?id=Z0003316"
   },
   "originalLanguage": "ja",
@@ -150,32 +154,34 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 7,
   "createdAt": "2024-07-19T23:43:06+00:00",
-  "updatedAt": "2024-07-31T22:18:05+00:00"
+  "updatedAt": "2024-12-21T14:44:44+00:00"
  },
  "relationships": [
   {
-   "id": "2b457d41-ca52-4b06-af9c-fa579184b68c",
+   "id": "ff392266-c7e9-42f0-b316-9c295ebe6c90",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Native name: 錬金王"
+    },
     "booth": null,
-    "createdAt": "2024-07-19T23:41:09+00:00",
+    "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "RENKIN Ou",
+    "name": "Renkinou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-07-19T23:41:09+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/renkin1214",
+    "updatedAt": "2023-07-13T03:35:03+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -192,7 +198,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "ICHIMATSU Kei",
+    "name": "Ichimatsu Kei",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -200,8 +206,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-07-19T23:41:15+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-14T13:25:33+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -219,6 +225,16 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "38cfccef-ca2a-4c66-b6d3-cf0107be9109",
+   "type": "manga",
+   "related": "alternate_version"
+  },
+  {
+   "id": "9bc64a7b-3e66-4a08-85ad-0b11e312b122",
+   "type": "manga",
+   "related": "alternate_version"
   },
   {
    "id": "01642be8-72b8-48ae-9199-d8c747946ca5",

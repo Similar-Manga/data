@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "This Man Is a Real Dog"
+   "en": "This Man's a Complete Dog"
   },
   "altTitles": [
    {
@@ -11,7 +11,7 @@
    }
   ],
   "description": {
-   "en": "The love story between Song Haohao and the CEO who can transform into a Doberman."
+   "en": "The love story between Song Hao Hao, a woman who sees lying men transform into dogs in her eyes, and a CEO who can transform into a Doberman."
   },
   "links": {
    "mu": "bfxftvi",
@@ -24,7 +24,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "b30210fb-f770-402a-a30c-88bce91103e3",
+  "latestUploadedChapter": "486aea13-7e4a-43ac-9505-0691fc672528",
   "tags": [
    {
     "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
@@ -44,6 +44,18 @@
     "attributes": {
      "name": {
       "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
      },
      "description": {},
      "group": "genre",
@@ -76,9 +88,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2024-10-27T10:28:18+00:00",
-  "updatedAt": "2024-10-27T23:27:19+00:00"
+  "updatedAt": "2024-12-14T17:04:57+00:00"
  },
  "relationships": [
   {

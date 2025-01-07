@@ -8,6 +8,12 @@
   "altTitles": [
    {
     "ja": "殺し屋、拝み屋になる"
+   },
+   {
+    "es": "El asesino profesional se vuelve en un adorador"
+   },
+   {
+    "es-la": "El asesino profesional se vuelve en un adorador"
    }
   ],
   "description": {
@@ -24,6 +30,10 @@
   "status": "completed",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "es"
+  ],
+  "latestUploadedChapter": "b75bc94b-7a43-4ff3-b3b3-97fbf382da18",
   "tags": [
    {
     "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
@@ -74,6 +84,18 @@
     }
    },
    {
+    "id": "85daba54-a71c-4554-8a28-9901a8b0afad",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mafia"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -87,9 +109,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2024-05-20T06:26:53+00:00",
-  "updatedAt": "2024-05-20T06:41:51+00:00"
+  "updatedAt": "2024-12-18T06:23:45+00:00"
  },
  "relationships": [
   {
@@ -149,16 +171,16 @@
    }
   },
   {
-   "id": "3fffbdd7-6f35-4fe2-9317-cb29baa583b4",
+   "id": "f5e055f1-e51c-4fb8-b308-28c0e2274add",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-05-20T06:26:59+00:00",
+    "createdAt": "2024-12-20T03:48:00+00:00",
     "description": "",
-    "fileName": "4ccbe892-0b7f-4ac8-8af5-432e2de99bff.png",
+    "fileName": "deddbe7c-c788-44cc-b2b5-9c2767f7400c.jpg",
     "locale": "ja",
-    "updatedAt": "2024-05-20T06:26:59+00:00",
+    "updatedAt": "2024-12-20T03:48:00+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

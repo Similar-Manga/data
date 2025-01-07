@@ -1,0 +1,146 @@
+{
+ "id": "de8288cb-6b93-43d7-9953-15e4d5858a76",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Atashi no Zaji"
+  },
+  "altTitles": [
+   {
+    "ja": "あたしのザジ"
+   },
+   {
+    "fr": "Zazie Mon Petite Amie"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/501849/list",
+   "raw": "https://comic-days.com/episode/2550912964457062393"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "15",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-04T08:33:36+00:00",
+  "updatedAt": "2025-01-04T08:34:44+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c8430be1-73b0-4a8f-ac9c-3d0d56203a57",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 灰田高鴻"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Haida Koukou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/26472086",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/couhaida",
+    "updatedAt": "2024-06-23T03:22:29+00:00",
+    "version": 3,
+    "website": "https://note.com/couhaida/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c8430be1-73b0-4a8f-ac9c-3d0d56203a57",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 灰田高鴻"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Haida Koukou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/26472086",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/couhaida",
+    "updatedAt": "2024-06-23T03:22:29+00:00",
+    "version": 3,
+    "website": "https://note.com/couhaida/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fdd44fc7-f616-4bcc-b3e6-a372bf4bc112",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-04T08:33:53+00:00",
+    "description": "",
+    "fileName": "1b83f18f-0196-4177-a0fa-dbc057106272.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-04T08:33:53+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

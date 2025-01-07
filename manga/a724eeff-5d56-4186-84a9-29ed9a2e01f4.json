@@ -1,0 +1,153 @@
+{
+ "id": "a724eeff-5d56-4186-84a9-29ed9a2e01f4",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "NON GRATA"
+  },
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/user/86506950/series/171723"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-27T18:41:12+00:00",
+  "updatedAt": "2024-12-27T19:59:24+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ab7e4bf4-e428-4874-bb9a-366cf313fe7b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-27T18:38:49+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "nelson",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/86506950",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-28T03:55:00+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ab7e4bf4-e428-4874-bb9a-366cf313fe7b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-27T18:38:49+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "nelson",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/86506950",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-28T03:55:00+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "65defb6f-feb9-450e-86cd-1f8cca792651",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-27T18:41:13+00:00",
+    "description": "",
+    "fileName": "7a2a2a34-c019-44f4-9a89-c9faa4744daa.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-27T18:41:13+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a94f07c7-ba24-4fd0-ae94-4c533d7735e2",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "id": "3464c1ac-d932-4cdc-b029-a5d92f485181",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "5Toubun no Hanayome - True Feelings and Facade (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "本音と建前"
+   },
+   {
+    "en": "True Feelings and Facade"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/asita31103/status/1132869694640218112"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2019,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "d39a81be-4048-4dbe-a0f2-b6829d1f5d1c",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-06T16:09:19+00:00",
+  "updatedAt": "2024-12-06T16:09:28+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d300767e-54fe-4565-a04c-b85e909fb24a",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Associated Names:**\nasita31103"
+    },
+    "booth": null,
+    "createdAt": "2024-12-06T15:56:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asita (明日汰)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T16:50:28+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d300767e-54fe-4565-a04c-b85e909fb24a",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated Names:**\nasita31103"
+    },
+    "booth": null,
+    "createdAt": "2024-12-06T15:56:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asita (明日汰)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T16:50:28+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ffa7b4ba-aef7-44d8-8d64-d5602645bfcf",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-06T16:09:22+00:00",
+    "description": "",
+    "fileName": "3bf0545f-c07c-41c4-aa54-60031ce21770.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-06T16:09:22+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "a2febd3e-6252-46eb-bd63-01d51deaaec5",
+   "type": "manga",
+   "related": "based_on"
+  },
+  {
+   "id": "f319d314-4310-4610-bcea-98c0128def1d",
+   "type": "creator"
+  }
+ ]
+}

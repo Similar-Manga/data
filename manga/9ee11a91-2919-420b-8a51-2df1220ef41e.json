@@ -1,0 +1,142 @@
+{
+ "id": "9ee11a91-2919-420b-8a51-2df1220ef41e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Fuji Akiko Monogatari - Ultraman Satsuei Hiwa"
+  },
+  "altTitles": [
+   {
+    "ja": "フジアキコ物語～ウルトラマン撮影秘話～"
+   },
+   {
+    "ja-ro": "Fuji Akiko Monogatari - Satsuei Hiwa"
+   },
+   {
+    "en": "Fuji Akiko Story: The Hidden Story of Filming Ultraman"
+   },
+   {
+    "en": "Fuji Akiko Story ~Ultraman's Work Unknown Episodes~"
+   }
+  ],
+  "description": {
+   "ja": "科特隊の紅一点「フジアキコ」が大活躍！?\n大人気特撮ドラマ「ウルトラマン」に、唯一登場する女性隊員「フジアキコ」。彼女と愉快な仲間たち＝科学特捜隊の日常、そして非日常をコミカルに描く！　ウルトラマンや怪獣たちの秘密も暴露、オモシロ特撮秘話満載"
+  },
+  "links": {
+   "mu": "84555df"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "9",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2005,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-11T05:55:38+00:00",
+  "updatedAt": "2024-12-12T03:52:37+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6870b2ea-fab0-4cec-bca5-ba25fc98b6aa",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-11T05:45:21+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sakurai Hiroko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-11T05:45:21+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "20bd6f18-37cd-40e6-bcf7-135cff2e66fe",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hasegawa Kouji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b53acd0b-5424-4d03-b4fa-50ca31d4dc2e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-11T05:55:40+00:00",
+    "description": "",
+    "fileName": "3d18cdeb-0d1e-4ae1-842b-19a44dce5eee.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-11T05:55:40+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "5cd8edbe-8e41-4af1-b7ae-4a29e85d53c5",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "id": "1390af0c-b5e0-4a01-8dd7-1f1a8d093de3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "10 Tsuki no Mangetsu ni Ichiban Chikai Doyobi"
+  },
+  "altTitles": [
+   {
+    "ja": "10月の満月に一番近い土曜日"
+   }
+  ],
+  "description": {
+   "en": "The romance of athletes who put their passion into the world's toughest competition - the triathlon, which combines the times from swimming, cycling, plus a full marathon!"
+  },
+  "links": {
+   "al": "160872",
+   "amz": "https://www.amazon.co.jp/-/en/%E7%9F%B3%E6%B8%A1%E6%B2%BB-ebook/dp/B009JZHXO8/ref=tmm_kin_swatch_0?_encoding=UTF8\u0026dib_tag=se\u0026dib=eyJ2IjoiMSJ9.f1ZKsen_U1UVAxblqTlIBwXB1aelrRP1-hqgCckODonGjHj071QN20LucGBJIEps.jKM3-67llt7E6oqcEHlj3opg1x35yC3Jc3W0R6nP7os\u0026qid=1735593994\u0026sr=1-1",
+   "bw": "de99972e36-d044-4919-9dde-543e5d87b15a",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/112024/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "10",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1994,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-30T21:28:16+00:00",
+  "updatedAt": "2024-12-30T21:38:24+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e9d8e666-f508-4f04-9abb-3ae84813480b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T21:28:18+00:00",
+    "description": "",
+    "fileName": "18bb2330-8574-45ca-abeb-7727cba80660.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T21:28:18+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

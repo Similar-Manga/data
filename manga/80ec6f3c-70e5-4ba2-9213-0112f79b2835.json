@@ -1,0 +1,216 @@
+{
+ "id": "80ec6f3c-70e5-4ba2-9213-0112f79b2835",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Clannad - Innocent Starter (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "innocent starter (クラナド)"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.suruga-ya.jp/product/detail/ZHONA3488"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2009,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "f3f08ed8-c99e-49ee-99b6-1dd94008562b",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 7,
+  "createdAt": "2024-12-07T05:21:01+00:00",
+  "updatedAt": "2024-12-09T02:46:40+00:00"
+ },
+ "relationships": [
+  {
+   "id": "349c66f2-dd5e-4794-975d-7882b41d9993",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 郁橋むいこ\n\n**Circle/s**:\nHarapeko Shucchoujo (はらぺこ出張所)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ikuhashi Muiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/383288",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/muiko_i",
+    "updatedAt": "2024-11-11T09:04:02+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "853f470b-7000-4f0a-a537-bfeabb492961",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: はらぺこ出張所"
+    },
+    "booth": null,
+    "createdAt": "2021-11-11T09:06:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Harapeko Shucchoujo (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-09T02:46:30+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "349c66f2-dd5e-4794-975d-7882b41d9993",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 郁橋むいこ\n\n**Circle/s**:\nHarapeko Shucchoujo (はらぺこ出張所)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ikuhashi Muiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/383288",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/muiko_i",
+    "updatedAt": "2024-11-11T09:04:02+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "853f470b-7000-4f0a-a537-bfeabb492961",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: はらぺこ出張所"
+    },
+    "booth": null,
+    "createdAt": "2021-11-11T09:06:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Harapeko Shucchoujo (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-09T02:46:30+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "086cab49-8fd8-4f54-9087-18213d4f70b9",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-07T05:21:04+00:00",
+    "description": "",
+    "fileName": "5af26f26-6642-4ab8-b2ae-d9adbfbb8a28.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-07T05:21:04+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a3f5d02e-d49b-46d9-ac54-6a7a4fd2d443",
+   "type": "manga",
+   "related": "based_on"
+  },
+  {
+   "id": "cd9b7c3b-b034-488f-802d-af40df4d1027",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "id": "5dd79712-0483-4af1-9d0a-d2d9890910f9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Bigger Mountain?"
+  },
+  "altTitles": [
+   {
+    "vi": "Đứng Núi Này Trông Núi Nọ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/adamant369/status/1873652051785519410?t=V8eh_XO37LNfg3Et0VLW0A\u0026s=19"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi"
+  ],
+  "latestUploadedChapter": "5b87c4dc-a779-4d1a-b864-fb65d2095c5c",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-05T11:38:19+00:00",
+  "updatedAt": "2025-01-05T11:39:11+00:00"
+ },
+ "relationships": [
+  {
+   "id": "776d92f8-0743-4aaa-88f9-179f38652a92",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-05T11:32:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hanasaka Houcha",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-05T11:32:56+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "776d92f8-0743-4aaa-88f9-179f38652a92",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-05T11:32:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hanasaka Houcha",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-05T11:32:56+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6daa7648-9715-43af-aafe-f9e32f98255f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-05T11:38:31+00:00",
+    "description": "",
+    "fileName": "f3eda0f8-93e5-4afc-8bbe-8ea55ca93256.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-05T11:38:31+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "eb6bd2f6-49f2-43ee-b1bd-71013d763e86",
+   "type": "creator"
+  }
+ ]
+}

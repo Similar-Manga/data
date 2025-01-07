@@ -1,0 +1,143 @@
+{
+ "id": "f5a42e6d-ae12-4759-bc28-5598a36607ab",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shinryuu Teikoku no Dragon Tamer"
+  },
+  "altTitles": [
+   {
+    "ja": "神竜帝国のドラゴンテイマー"
+   }
+  ],
+  "description": {
+   "en": "Raid, a Dragon Tamer with the unique skill to manage dragons, has been single-handedly overseeing the empire's main fighting force: the Dragon Knights and their dragons. However, one day, he is unexpectedly fired by the Emperor. Just as he is left without purpose, Luna, a dragon princess whom he once saved, appears before him.",
+   "ja": "帝国の主戦力である竜騎士とドラゴン。そして、「ドラゴンテイマー」のスキルを持つレイドは、ドラゴンたちの管理を一人でしてきた。しかし、皇帝にクビを宣言されてしまったレイドの前に以前助けた竜姫ルーナが現れる。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DJMFNYFG",
+   "ap": "kami-ryuu-teikoku-no-dragon-tamer",
+   "bw": "series/471877",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/830785",
+   "mu": "tkb8jtw"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-27T21:05:04+00:00",
+  "updatedAt": "2025-01-02T19:09:18+00:00"
+ },
+ "relationships": [
+  {
+   "id": "77065986-559a-413c-9653-5be69c89a2d4",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yasahashi Rakku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "59ecce79-1ec2-43da-a6ee-33d20d2c3058",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-27T21:03:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kishimoto Yuuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-27T21:03:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "75a4d636-26ee-4115-8485-44d9aa22571e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-27T21:05:09+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "9dcf28f3-d050-4044-8481-bab2847931d3.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-27T21:05:09+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

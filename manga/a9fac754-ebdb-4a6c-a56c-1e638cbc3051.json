@@ -3,22 +3,28 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I Love Mini"
+   "en": "Boku wa Mini ni Koi Shiteru"
   },
   "altTitles": [
    {
-    "ja-ro": "Boku wa Mini ni Koi Shiteru"
+    "ja": "僕はミニに恋してる"
    },
    {
-    "ja": "僕はミニに恋してる"
+    "en": "I Love Mini"
    }
   ],
   "description": {
-   "en": "Takawaka Ichirou is a young office worker with a crush on a fellow employee named Fukamachi Haruka, and she has some feelings for him as well. They work at a company that makes auto parts, but they're nothing compared to Ichirou's beloved Mini Cooper. When he was in college he would race his little car against super cars and win. Can he use those skills to win Haruka's heart?"
+   "en": "Takawaka Ichirou is a young office worker with a crush on a fellow employee named Fukamachi Haruka, and she has some feelings for him as well. They work at a company that makes auto parts, but they're nothing compared to Ichirou's beloved Mini Cooper. When he was in college he would race his little car against super cars and win. Can he use those skills to win Haruka's heart?",
+   "ja": "外資系スポーツ用品メーカーの営業マン・高桑一郎は、ミニをこよなく愛するごく普通のサラリーマン。ただし股間もミニサイズ・・・。同僚の深町はるかに想いを寄せ、あくせく働く毎日だが、毎回お約束の展開に！"
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/-/en/dp/B074CFW1VX?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tukn",
-   "bw": "series/379541/list",
+   "al": "120713",
+   "amz": "https://www.amazon.co.jp/dp/B074CFW1VX",
+   "ap": "boku-wa-mini-ni-koishiteru",
+   "bw": "series/379541",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/103399",
+   "kt": "45533",
+   "mal": "99970",
    "mu": "95h0i0t"
   },
   "originalLanguage": "ja",
@@ -67,9 +73,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2023-05-13T19:06:52+00:00",
-  "updatedAt": "2023-05-13T19:07:18+00:00"
+  "updatedAt": "2025-01-03T19:47:54+00:00"
  },
  "relationships": [
   {
@@ -125,14 +131,14 @@
    }
   },
   {
-   "id": "0d3aa55e-9fcf-4d3f-8f3d-0139b92be25b",
+   "id": "a05567cc-3af0-46af-a26b-c3bc05675c9e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-05-13T19:07:02+00:00",
-    "description": "",
-    "fileName": "815195a0-7d56-4232-b351-051346aafd58.png",
+    "createdAt": "2025-01-03T19:47:52+00:00",
+    "description": "Volume 6 Cover from Amazon",
+    "fileName": "456d3b61-073b-44d9-a8a4-0f08afe6f6e6.jpg",
     "locale": "ja",
-    "updatedAt": "2023-05-13T19:07:02+00:00",
+    "updatedAt": "2025-01-03T19:47:52+00:00",
     "version": 1,
     "volume": "6"
    }

@@ -3,37 +3,39 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I'm Pretending to be Neat and Tidy"
+   "en": "Seiso na Furi wo Shitemasuga"
   },
   "altTitles": [
    {
     "ja": "清楚なフリをしてますが"
    },
    {
-    "ja-ro": "Seiso na Furi wo Shitemasuga"
+    "en": "I'm Pretending to be Neat and Tidy"
    },
    {
     "es-la": "Pretendiendo ser correcta y recta"
    }
   ],
   "description": {
-   "en": "Kiyori Soyama keeps a big secret...!\n\nShe is the perfect honor student, until she suddenly fell ill and a part of her brain had to be transplanted.\nThat special bit came from a high school junior.\n\nSuddenly, her mind is filled with thoughts of her best friend and the women around her.\nDespite her struggle, it's something she just can't help...!",
-   "es-la": "¡Kiyori Soyama guarda un gran secreto...!\n\nElla brillaba como la estudiante de honor perfecta, hasta que cayó enferma repentinamente y una parte de su cerebro tuvo que ser trasplantada.\nEse pedacito especial provenía de un joven de secundaria.\n\nDe pronto, su mente se llena con pensamientos de su mejor amiga y las mujeres a su alrededor.\nA pesar de su lucha, ¡es algo que ella simplemente no puede evitar...!"
+   "en": "She is the perfect honor student, until she suddenly fell ill and a part of her brain had to be transplanted. That special bit came from a high school junior. Suddenly, her mind is filled with thoughts of her best friend and the women around her. Despite her struggle, it's something she just can't help...!",
+   "es-la": "¡Kiyori Soyama guarda un gran secreto...!\n\nElla brillaba como la estudiante de honor perfecta, hasta que cayó enferma repentinamente y una parte de su cerebro tuvo que ser trasplantada.\nEse pedacito especial provenía de un joven de secundaria.\n\nDe pronto, su mente se llena con pensamientos de su mejor amiga y las mujeres a su alrededor.\nA pesar de su lucha, ¡es algo que ella simplemente no puede evitar...!",
+   "ja": "完璧優等生だった女子高生・楚山清羅は、病に倒れ脳の一部を移植することに。移植されたのは、男子中学生の脳の一部…。途端に、親友や周囲の女性へのいやらしい想像が止まらなくなり…！？本当はイヤなのに、抑えきれない欲望。"
   },
   "links": {
    "al": "110188",
-   "amz": "https://www.amazon.co.jp/dp/B0827XBZ5N/",
+   "amz": "https://www.amazon.co.jp/dp/B08KWN9TV9",
    "ap": "seiso-na-furi-wo-shitemasu-ga",
    "bw": "series/230010",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2573637",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/571079/",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/571079",
    "mal": "124624",
    "mu": "159505",
    "raw": "https://www.sunday-webry.com/detail.php?title_id=934"
   },
   "originalLanguage": "ja",
   "lastVolume": "4",
-  "lastChapter": "36.5",
+  "lastChapter": "36",
+  "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2019,
   "contentRating": "suggestive",
@@ -69,9 +71,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 12,
   "createdAt": "2020-05-16T01:31:42+00:00",
-  "updatedAt": "2024-04-20T21:54:41+00:00"
+  "updatedAt": "2024-12-13T17:15:08+00:00"
  },
  "relationships": [
   {
@@ -131,16 +133,16 @@
    }
   },
   {
-   "id": "dd16f308-3b09-4fab-ad2b-1a12c1f1cb5d",
+   "id": "d6991a14-668e-4fca-96d5-841c2f2806d1",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:56:04+00:00",
+    "createdAt": "2021-05-23T07:28:20+00:00",
     "description": "",
-    "fileName": "4602e45c-935e-4d6d-a531-273a8586f4bc.jpg",
+    "fileName": "14554ab6-90c4-4e90-a362-1782af20cf8c.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:56:04+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T07:28:20+00:00",
+    "version": 2,
+    "volume": "4"
    }
   }
  ]

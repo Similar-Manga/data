@@ -3,14 +3,21 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Strike Witches - Official Comics a la Carte"
+   "en": "Strike Witches: Official Comic à la Carte ～We can do it more～"
   },
-  "description": {
-   "en": ""
-  },
+  "altTitles": [
+   {
+    "ja": "ストライクウィッチーズ 公式コミックアラカルト ～もっといっしょにできること～"
+   },
+   {
+    "ja-ro": "Sutoraiku Witchīzu kōshiki komikku arakaruto ～motto issho ni dekiru koto～"
+   }
+  ],
+  "description": {},
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "completed",
+  "year": 2011,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -52,12 +59,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2018-10-05T09:52:32+00:00",
-  "updatedAt": "2022-01-25T06:20:44+00:00"
+  "updatedAt": "2024-12-24T20:37:08+00:00"
  },
  "relationships": [
   {

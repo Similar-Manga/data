@@ -20,10 +20,11 @@
    }
   ],
   "description": {
-   "en": "This series parodies the events of the Record of Lodoss series with the characters in chibi form."
+   "en": "This series parodies the events of the Record of Lodoss series with the characters in chibi form.\n___\n**Additional Buy Links:**\nAmazon: [Volume 1](https://www.amazon.co.jp/dp/4047131903), [Volume 2](https://www.amazon.co.jp/dp/4047132144), [Volume 3](https://www.amazon.co.jp/dp/4047132810)"
   },
   "links": {
    "al": "42374",
+   "amz": "https://www.amazon.co.jp/dp/B002DELLKY",
    "ap": "record-of-lodoss-war-welcome-to-lodoss-island",
    "kt": "welcome-to-lodoss-island",
    "mal": "12374",
@@ -90,9 +91,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2019-04-16T20:57:25+00:00",
-  "updatedAt": "2024-07-05T02:53:09+00:00"
+  "updatedAt": "2024-12-27T10:37:50+00:00"
  },
  "relationships": [
   {
@@ -152,16 +153,16 @@
    }
   },
   {
-   "id": "e6d2670b-6b47-4fe0-b12a-1e9f89efef9e",
+   "id": "144ac03f-b209-4e0b-9867-21dbe0eac049",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:08:18+00:00",
+    "createdAt": "2024-12-27T10:22:45+00:00",
     "description": "",
-    "fileName": "e1691801-75e9-4538-b7bd-21fce2b39bfd.jpg",
+    "fileName": "672d30c5-0594-4de0-b8e1-0d5ec19d6e7e.jpg",
     "locale": "ja",
-    "updatedAt": "2024-07-05T03:11:01+00:00",
-    "version": 2,
-    "volume": "1"
+    "updatedAt": "2024-12-27T10:22:45+00:00",
+    "version": 1,
+    "volume": "3"
    }
   },
   {
@@ -172,22 +173,22 @@
   {
    "id": "11f561e7-bd75-4dee-b6b1-df1363f32e8e",
    "type": "manga",
-   "related": "adapted_from"
+   "related": "same_franchise"
   },
   {
    "id": "294e4111-9b07-4a73-a0d6-897e7500630d",
    "type": "manga",
-   "related": "adapted_from"
+   "related": "same_franchise"
   },
   {
    "id": "51fd0b61-b69a-4b1e-b9fa-fefbc738bbb7",
    "type": "manga",
-   "related": "adapted_from"
+   "related": "same_franchise"
   },
   {
    "id": "73e44d8f-fd9f-49b5-851b-7b3a9a20c62b",
    "type": "manga",
-   "related": "adapted_from"
+   "related": "same_franchise"
   },
   {
    "id": "966c910c-b502-4597-8ffe-f41afe32a3da",

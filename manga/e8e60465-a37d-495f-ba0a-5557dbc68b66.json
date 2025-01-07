@@ -1,0 +1,144 @@
+{
+ "id": "e8e60465-a37d-495f-ba0a-5557dbc68b66",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Super Rider"
+  },
+  "altTitles": [
+   {
+    "ja": "スーパーライダー"
+   }
+  ],
+  "description": {
+   "en": "The main character, Ryuichi Sakamaki, is a boy who loves motorcycles. After losing his friends at the dastardly hands of professional rider Toru Tachibana, Ryuichi decides to go pro in order to seek revenge!"
+  },
+  "links": {
+   "al": "163012",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B074CGQ7PR?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1735595585\u0026sr=1-1",
+   "bw": "series/129015/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/112016/",
+   "mu": "fescj1k"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "10",
+  "lastChapter": "89",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1981,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-30T22:02:56+00:00",
+  "updatedAt": "2024-12-30T22:05:18+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1a69ef99-32bf-425b-a315-99e99c7ac745",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T22:03:00+00:00",
+    "description": "",
+    "fileName": "7b30858a-bf2e-44b2-babd-6cb7604f6420.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T22:03:00+00:00",
+    "version": 1,
+    "volume": "10"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

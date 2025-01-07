@@ -70,7 +70,7 @@
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "hiatus",
   "year": 2020,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -89,7 +89,7 @@
    "fr",
    "uk"
   ],
-  "latestUploadedChapter": "be748e80-f83e-46a7-881f-536a1764c053",
+  "latestUploadedChapter": "ad6ab81d-903c-4a69-ae15-2b8a3e57cf29",
   "tags": [
    {
     "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
@@ -189,9 +189,9 @@
    }
   ],
   "state": "published",
-  "version": 65,
+  "version": 66,
   "createdAt": "2020-06-30T04:20:01+00:00",
-  "updatedAt": "2024-10-29T00:40:45+00:00"
+  "updatedAt": "2024-12-25T16:11:30+00:00"
  },
  "relationships": [
   {
@@ -265,6 +265,11 @@
   },
   {
    "id": "03f3f742-e2da-4f3c-b057-0bb9da6757ee",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
+   "id": "11180e45-12ba-47e4-a985-cb88c217195b",
    "type": "manga",
    "related": "doujinshi"
   },

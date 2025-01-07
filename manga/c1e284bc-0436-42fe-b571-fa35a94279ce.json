@@ -8,13 +8,33 @@
   "altTitles": [
    {
     "ja": "ドラマクイン"
+   },
+   {
+    "ru": "Драма Квин"
+   },
+   {
+    "ru": "Королева Драмы"
+   },
+   {
+    "vi": "Nữ Hoàng Drama"
+   },
+   {
+    "pt-br": "Rainha do Drama"
    }
   ],
   "description": {
-   "en": "After saving the earth, aliens have taken up residence with the humans in Japan. Nomamoto, a factory worker with an abusive alien boss, one day meets Kitami, who tells her his own family was killed by aliens. The two quickly forge a friendship, but one day Kitami does the unthinkable..."
+   "en": "After saving Earth, aliens have taken up residence with the humans in Japan. Nomamoto, a factory worker with an abusive alien boss, one day meets Kitami, who tells her his own family was killed by aliens. The two quickly forge a friendship, but one day Kitami does the unthinkable…",
+   "ja": "\u003c毎週月曜更新\u003e宇宙人が地球を救ってから、人間と宇宙人が共に住むようになった日本。工場で宇宙人の上司にこき使われるノマモトは、家族を宇宙人に殺されたという北見と出会う。仲を深める2人だが、ある日北見がとんでもないことをしてしまい…",
+   "pt-br": "Após salvar a Terra, os alienígenas passaram a viver com os humanos no Japão. Nomamoto, uma operária de fábrica com um chefe alienígena abusivo, um dia conhece Kitami, que conta que sua própria família foi morta por alienígenas. Os dois rapidamente formam uma amizade, mas um dia Kitami faz o impensável…",
+   "ru": "Пришельцы спасли Землю и обосновались с людьми в Японии. Номамото, работающая на фабрике с отвратительным боссом-пришельцем, однажды встречает Китами, который рассказывает ей, что семью его убили пришельцы. Между ними быстро возникает дружба, но однажды Китами совершает немыслимое..."
   },
   "links": {
+   "al": "185129",
+   "ap": "drama-queen",
    "engtl": "https://mangaplus.shueisha.co.jp/titles/100404",
+   "kt": "drama-queen",
+   "mal": "176798",
+   "mu": "3b1hzan",
    "raw": "https://shonenjumpplus.com/episode/17106567261425734624"
   },
   "originalLanguage": "ja",
@@ -22,7 +42,30 @@
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "de",
+   "ru",
+   "en",
+   "vi",
+   "ar",
+   "es",
+   "pt-br",
+   "es-la"
+  ],
+  "latestUploadedChapter": "5e5f5c50-8c08-425f-8b47-31b21977b5d8",
   "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
@@ -61,32 +104,34 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 15,
   "createdAt": "2024-11-30T15:45:57+00:00",
-  "updatedAt": "2024-12-01T15:11:45+00:00"
+  "updatedAt": "2024-12-13T03:57:06+00:00"
  },
  "relationships": [
   {
    "id": "57e9db87-4b73-46be-8e66-241e9fcd2930",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 市川苦楽\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/11844546810162074674)"
+    },
     "booth": null,
     "createdAt": "2024-11-30T15:44:54+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kuraku Ichikawa",
+    "name": "Ichikawa Kuraku",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-30T15:44:54+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/krk_rrr",
+    "updatedAt": "2024-12-03T19:57:25+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -96,23 +141,25 @@
    "id": "57e9db87-4b73-46be-8e66-241e9fcd2930",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 市川苦楽\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/11844546810162074674)"
+    },
     "booth": null,
     "createdAt": "2024-11-30T15:44:54+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Kuraku Ichikawa",
+    "name": "Ichikawa Kuraku",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-30T15:44:54+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/krk_rrr",
+    "updatedAt": "2024-12-03T19:57:25+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

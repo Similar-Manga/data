@@ -3,35 +3,86 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "You've Gotta Love Song"
+   "en": "You've Gotta Love Song: Torikai Akane Short Story Collection"
   },
   "altTitles": [
    {
-    "en": "You've Gotta Love Song Torikai Akane Tanpenshuu"
+    "ja": "ユー　ガッタ　ラブソング　鳥飼茜短編集"
    },
    {
-    "ja": "ユー　ガッタ　ラブソング"
+    "ja-ro": "You've Gotta Love Song - Torikai Akane Tanpenshuu"
    },
    {
-    "ja": "ユー ガッタ ラブソング 鳥飼茜短編集"
+    "ja": "いきとうと"
    },
    {
-    "ja": "ユーガッタラブソング"
+    "ja-ro": "Iki Tou to"
+   },
+   {
+    "ja-ro": "Ikitouto"
+   },
+   {
+    "en": "What If I Try To Live?"
+   },
+   {
+    "ja": "家出娘"
+   },
+   {
+    "ja-ro": "Iede Musume"
+   },
+   {
+    "en": "Runaway Girl"
+   },
+   {
+    "ja": "白鳥公園"
+   },
+   {
+    "ja-ro": "Shiratori Kouen"
+   },
+   {
+    "en": "Swan Park"
+   },
+   {
+    "en": "The Swan Park"
+   },
+   {
+    "ja": "You've gotta ラブソング"
+   },
+   {
+    "ja-ro": "You've gotta Love Song"
+   },
+   {
+    "en": "You've Gotta Love Song"
+   },
+   {
+    "ja": "家出娘鉛筆version"
+   },
+   {
+    "ja-ro": "Iede Musume Enpitsu version"
+   },
+   {
+    "en": "Runaway Girl Pencil Version"
    }
   ],
   "description": {
-   "en": "A collection of short stories."
+   "en": "**Contents:**\n​1. What If I Try To Live?\n2. Runaway Girl\n3. Swan Park\n4. You've Gotta Love Song\n4.5. Runaway Girl Pencil Version"
   },
   "links": {
    "al": "100976",
+   "amz": "https://www.amazon.co.jp/dp/B01682WAGU",
+   "ap": "youve-gotta-love-song-torikai-akane-tanpenshuu",
+   "bw": "ded34394e0-fca8-47ee-a415-e7000456ccce",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/331633/",
    "mal": "136361",
-   "mu": "125730"
+   "mu": "125730",
+   "raw": "https://kc.kodansha.co.jp/product?item=0000045558"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "4",
   "publicationDemographic": "josei",
   "status": "completed",
+  "year": 2008,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -76,16 +127,18 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 11,
   "createdAt": "2018-11-22T01:21:52+00:00",
-  "updatedAt": "2022-05-18T14:55:40+00:00"
+  "updatedAt": "2024-12-10T03:55:57+00:00"
  },
  "relationships": [
   {
    "id": "bd53c0ce-8629-4c45-b331-bedf89ac62fa",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳥飼茜\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/akanetorikai/)\n- [News X](https://x.com/torikai_news)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -99,9 +152,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/torikaiakane",
+    "updatedAt": "2024-12-07T05:28:00+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -111,7 +164,9 @@
    "id": "bd53c0ce-8629-4c45-b331-bedf89ac62fa",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳥飼茜\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/akanetorikai/)\n- [News X](https://x.com/torikai_news)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -125,25 +180,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/torikaiakane",
+    "updatedAt": "2024-12-07T05:28:00+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "c2539877-d330-4f6f-bb04-3e72b9b31dac",
+   "id": "f7b13488-3dd2-4283-8239-d73002955189",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:52:17+00:00",
+    "createdAt": "2024-12-10T01:03:34+00:00",
     "description": "",
-    "fileName": "461eb4a6-5d79-47df-b24b-e2526e8324a5.jpg",
+    "fileName": "9bcf6ad4-afd3-467c-912d-3f3ff50a5ec4.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:52:17+00:00",
+    "updatedAt": "2024-12-10T01:03:34+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

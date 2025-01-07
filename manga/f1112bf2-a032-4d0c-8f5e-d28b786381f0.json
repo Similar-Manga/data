@@ -5,6 +5,14 @@
   "title": {
    "en": "Bakemonogatari - Rouka no Musume (Doujinshi)"
   },
+  "altTitles": [
+   {
+    "en": "Girl in the Hallway (Bakemonogatari)"
+   },
+   {
+    "ja": "廊下の娘 (化物語)"
+   }
+  ],
   "description": {},
   "originalLanguage": "ja",
   "status": "ongoing",
@@ -13,7 +21,7 @@
    "en",
    "pt-br"
   ],
-  "latestUploadedChapter": "d734d86f-b317-4cdf-a8e9-b4cf8ac5cad5",
+  "latestUploadedChapter": "4b0a9dd8-c253-44f3-91c3-b973400ca2f9",
   "tags": [
    {
     "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
@@ -41,11 +49,37 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2020-12-14T12:00:00+00:00",
-  "updatedAt": "2023-08-15T08:06:21+00:00"
+  "updatedAt": "2024-12-23T09:15:26+00:00"
  },
  "relationships": [
+  {
+   "id": "681c8059-94e3-47d3-a5e0-1efc43196e37",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Itachou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "8978738d-4ec8-4bc6-98b4-69d1c256724a",
    "type": "author",
@@ -57,7 +91,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Metabo Offensive Smell Uproar",
+    "name": "Metabocafe Offensive Smell Uproar (circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -65,8 +99,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-23T09:10:58+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -99,16 +133,42 @@
    }
   },
   {
-   "id": "41d02a68-36e5-4fd1-ad6a-b9cfe8f44bfe",
+   "id": "8978738d-4ec8-4bc6-98b4-69d1c256724a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Metabocafe Offensive Smell Uproar (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-23T09:10:58+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f07f8be9-9141-453a-96e2-54120bdbdd37",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:22:55+00:00",
+    "createdAt": "2024-12-23T09:15:02+00:00",
     "description": "",
-    "fileName": "33dac1a0-7790-4f3d-b858-ead51d33e6e6.jpg",
+    "fileName": "d69abe3a-5e27-4692-a5a6-670c8cb3de1d.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:22:55+00:00",
+    "updatedAt": "2024-12-23T09:15:02+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
   },
   {

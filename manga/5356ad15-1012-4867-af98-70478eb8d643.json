@@ -3,24 +3,33 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Bouncer"
+   "en": "Bouncer -Tokyo Fist-"
   },
   "altTitles": [
    {
     "ja": "バウンサー"
+   },
+   {
+    "ja-ro": "Bouncer"
+   },
+   {
+    "en": "Bouncer"
    }
   ],
   "description": {
-   "en": "The manga centers on Jouichirou Shishido, a 19-year-old man whose frank honesty has cost him 26 part time jobs. One night, he runs into a group of muscular bodyguards who protect the streets at night, members of a private security firm known as \"Tokyo Fist,\" which ends up changing his life."
+   "en": "Jouichirou Shishido, a 19-year-old man whose frank honesty has cost him 26 part-time jobs. One night, he runs into a group of muscular bodyguards who protect the streets at night, members of a private security firm known as “Tokyo Fist”, which ends up changing his life.\n___\n**Official English:** [emaqi - United States \u0026 Canada only!](https://emaqi.com/manga/bouncer-tokyo-fist)"
   },
   "links": {
    "al": "109385",
+   "amz": "https://www.amazon.co.jp/dp/B074C4FWH8",
    "ap": "bouncer",
-   "bw": "series/44991/list",
+   "bw": "series/44991",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/312473/",
+   "engtl": "https://x.com/emaqi_official/status/1857423319236313211",
    "kt": "47608",
    "mal": "104373",
-   "mu": "115842"
+   "mu": "115842",
+   "raw": "https://www.akitashoten.co.jp/series/5045"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
@@ -31,7 +40,7 @@
    "en",
    "pt-br"
   ],
-  "latestUploadedChapter": "8b76e18f-6029-4dfb-81c6-677c9cc472cb",
+  "latestUploadedChapter": "47b828fb-a72e-4f9e-a6af-288479113b42",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -131,16 +140,18 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2019-09-26T03:15:23+00:00",
-  "updatedAt": "2024-08-06T18:50:27+00:00"
+  "updatedAt": "2024-12-11T23:28:49+00:00"
  },
  "relationships": [
   {
    "id": "d3cee9bf-8301-480e-95cc-5ce2d1c47f82",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** みずたまこと"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -154,9 +165,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/manga_mizuta",
+    "updatedAt": "2024-12-11T23:25:59+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -166,7 +177,9 @@
    "id": "d3cee9bf-8301-480e-95cc-5ce2d1c47f82",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** みずたまこと"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -180,9 +193,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/manga_mizuta",
+    "updatedAt": "2024-12-11T23:25:59+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

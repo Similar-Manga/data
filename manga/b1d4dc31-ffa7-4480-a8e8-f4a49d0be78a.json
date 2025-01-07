@@ -1,0 +1,140 @@
+{
+ "id": "b1d4dc31-ffa7-4480-a8e8-f4a49d0be78a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Death Game X Judgment X Classroom"
+  },
+  "altTitles": [
+   {
+    "ja": "学級裁判デスゲーム"
+   },
+   {
+    "ja-ro": "Gakkyū Saiban Desuge-mu"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/479688/list",
+   "raw": "https://kuragebunch.com/episode/2550689798288881417"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-03T03:59:00+00:00",
+  "updatedAt": "2025-01-03T04:01:45+00:00"
+ },
+ "relationships": [
+  {
+   "id": "cb290fce-12fd-46d2-8743-8837144a49ed",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-02T22:10:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amemiya Kie",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-02T22:10:56+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cb290fce-12fd-46d2-8743-8837144a49ed",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-02T22:10:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amemiya Kie",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-02T22:10:56+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3a11c701-fdca-40bd-b945-dd607992e17a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-03T03:59:10+00:00",
+    "description": "",
+    "fileName": "e943d724-7533-4599-8712-eaeb6f10c88c.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-03T03:59:10+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

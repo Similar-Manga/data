@@ -1,0 +1,161 @@
+{
+ "id": "93f76957-18c4-49c9-804f-55505cbecf6e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Slime Blossom: A Reincarnated Genius in a New World"
+  },
+  "description": {
+   "en": "Taiga Hiiragi, a delinquent, lived a life consumed by daily brawls. One day, Noel, a genius slime reincarnated from another world, appears before him. When Taiga finds himself in a pinch during a fight, Noel uses his intellect to help him out. Then Noel declares to Taiga, “Slimes and Yankees(delinquents) should go to Tokyo University!!” Noel claims he’s here to help Taiga pass the Tokyo University entrance exam, but…?"
+  },
+  "links": {
+   "mu": "x739b00"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "d986b241-3940-4c46-ae88-4e7b7796210d",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-24T21:28:16+00:00",
+  "updatedAt": "2024-12-24T21:38:37+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c628e45e-a4b0-478f-a4ba-80504197f672",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-16T18:37:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "IzanagiGames Tsukuyomi Studio",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-16T18:37:28+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c628e45e-a4b0-478f-a4ba-80504197f672",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-16T18:37:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "IzanagiGames Tsukuyomi Studio",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-16T18:37:28+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "687ba97f-d10c-4b78-b62a-949ba1112cb1",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-24T21:31:28+00:00",
+    "description": "",
+    "fileName": "954c8088-ad1a-4f67-963a-addcf5a1810c.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-24T21:31:28+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0b79d7be-f0b8-4c71-a8cb-bead0f91651d",
+   "type": "creator"
+  }
+ ]
+}

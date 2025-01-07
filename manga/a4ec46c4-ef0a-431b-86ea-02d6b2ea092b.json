@@ -1,0 +1,172 @@
+{
+ "id": "a4ec46c4-ef0a-431b-86ea-02d6b2ea092b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Nakimushi to Kokoa no Yuri"
+  },
+  "altTitles": [
+   {
+    "ja": "泣き虫とココアの百合"
+   },
+   {
+    "en": "Crybaby and Cocoa Yuri"
+   },
+   {
+    "en": "Yuri Between a Crybaby and a Girl Named Kokoa"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/user/92336063/series/255248"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "pt-br",
+   "tr",
+   "en",
+   "vi"
+  ],
+  "latestUploadedChapter": "721b3abe-46fb-42cd-9185-1c23983ce0a1",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-27T16:52:35+00:00",
+  "updatedAt": "2024-12-29T13:56:47+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8c3b9e81-843c-498e-aaa2-f21acb682f25",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T11:53:42+00:00",
+    "fanBox": "https://ando03uni2302.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ando Uni",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/92336063",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ando03uni2302",
+    "updatedAt": "2024-12-30T07:04:12+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8c3b9e81-843c-498e-aaa2-f21acb682f25",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T11:53:42+00:00",
+    "fanBox": "https://ando03uni2302.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ando Uni",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/92336063",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ando03uni2302",
+    "updatedAt": "2024-12-30T07:04:12+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9adde951-a550-46c1-9a37-aac085dd323d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-27T16:52:57+00:00",
+    "description": "",
+    "fileName": "197d52d5-31a9-4bb4-a22c-1036545efedc.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-27T16:52:57+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "b58899b5-f2b9-45b9-8048-16395cc30b08",
+   "type": "creator"
+  }
+ ]
+}

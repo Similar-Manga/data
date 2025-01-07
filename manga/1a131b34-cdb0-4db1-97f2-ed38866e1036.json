@@ -5,9 +5,7 @@
   "title": {
    "en": "Amagami - AMAGAMI FRONTIER (Doujinshi)"
   },
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "originalLanguage": "ja",
   "lastChapter": "3",
   "status": "completed",
@@ -31,9 +29,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-12-17T02:27:29+00:00",
-  "updatedAt": "2021-05-25T15:39:56+00:00"
+  "updatedAt": "2025-01-02T01:58:53+00:00"
  },
  "relationships": [
   {
@@ -160,6 +158,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "153eafba-1567-4f97-a54f-99a0f747b79d",
+   "type": "manga",
+   "related": "based_on"
   }
  ]
 }

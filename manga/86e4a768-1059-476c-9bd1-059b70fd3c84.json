@@ -1,0 +1,172 @@
+{
+ "id": "86e4a768-1059-476c-9bd1-059b70fd3c84",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Hakuhei Musha"
+  },
+  "altTitles": [
+   {
+    "ja": "白兵武者"
+   },
+   {
+    "ja-ro": "Hakuhei Musha: Sengoku Kinsetsu Sentou Souhei Den"
+   }
+  ],
+  "description": {
+   "en": "In 1550, on the island of Itsukushima in Aki, a mother and her child, displaced by war, arrive but soon face death due to a lack of food. The boy, Masayoshishin, is left alone but is taken in by the kind island fishermen, Kahei and Otae, who raise him. Five years later, during the first year of the Koji era, the forces of Sue Harukata from Suo attack the island in an attempt to overthrow the ruler of the region, Mori Motonari. Kahei and Otae are killed by the invaders. In his grief, Masayoshishin encounters a monk named Sakaguchi Seijun, who, using only hand-to-hand combat techniques, easily defeats the soldiers of the Sue army. Seijun’s true identity remains a mystery..."
+  },
+  "links": {
+   "al": "163016",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B074BCGX3S?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1735593694\u0026sr=1-1",
+   "bw": "series/128737/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/123823/",
+   "mal": "97167",
+   "mu": "ssqikbh"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "12",
+  "lastChapter": "130",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2003,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-30T21:24:42+00:00",
+  "updatedAt": "2025-01-02T19:19:07+00:00"
+ },
+ "relationships": [
+  {
+   "id": "cbaaf8df-3efb-4110-ac67-63d17c7b4585",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-30T21:21:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Chouno Masahiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T21:21:12+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d1cd86e1-8cac-4e4d-8c11-44de78809c13",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T21:24:46+00:00",
+    "description": "",
+    "fileName": "6eaf312c-3730-43d1-a9e0-f50823fb010d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T21:24:46+00:00",
+    "version": 1,
+    "volume": "12"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

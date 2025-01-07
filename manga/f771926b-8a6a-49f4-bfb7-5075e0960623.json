@@ -10,9 +10,16 @@
     "ja": "レタイトナイト"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "In this land sandwiched between seas, there are 4 countries. People live different lifestyles in each region. Recently, Kankan, a boy living in a village in the northern country Leteite, is not satisfied with his life. “It seems strange to make something that no one in my town can afford”.\n\nOne day, Kankan, feeling the struggling of his people and the town's stagnation, suddenly decides to venture out into the outside world.\n\nA fantasy story about the powerless finding a place to belong!\n___\n**Additional Links:**\n- [Official Guide Website](https://kayamatetsu.com/leteitnitememo/)"
+  },
   "links": {
-   "mu": "0gokghz"
+   "al": "173231",
+   "amz": "https://www.amazon.co.jp/dp/B0D84FQTFF",
+   "bw": "series/469274",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/826115/",
+   "mu": "0gokghz",
+   "raw": "https://michikusacomics.jp/product/leteitenite"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
@@ -20,6 +27,18 @@
   "year": 2023,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
@@ -31,19 +50,33 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 7,
   "createdAt": "2024-05-03T10:28:01+00:00",
-  "updatedAt": "2024-05-03T10:28:09+00:00"
+  "updatedAt": "2024-12-13T01:07:06+00:00"
  },
  "relationships": [
   {
    "id": "758412e7-3420-487f-a21b-555d83ce51e6",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 香山哲\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/kayamatetsu/)\n- [Threads](https://www.threads.net/@kayamatetsu)"
+    },
     "booth": null,
     "createdAt": "2024-05-03T10:26:44+00:00",
     "fanBox": null,
@@ -57,19 +90,21 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-05-03T10:26:44+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/kayamatetsu",
+    "updatedAt": "2024-12-13T22:00:29+00:00",
+    "version": 3,
+    "website": "https://kayamatetsu.com/",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/channel/UCn86ElSbzHCI0IUkJ4wUj1g"
    }
   },
   {
    "id": "758412e7-3420-487f-a21b-555d83ce51e6",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 香山哲\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/kayamatetsu/)\n- [Threads](https://www.threads.net/@kayamatetsu)"
+    },
     "booth": null,
     "createdAt": "2024-05-03T10:26:44+00:00",
     "fanBox": null,
@@ -83,12 +118,12 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-05-03T10:26:44+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/kayamatetsu",
+    "updatedAt": "2024-12-13T22:00:29+00:00",
+    "version": 3,
+    "website": "https://kayamatetsu.com/",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/channel/UCn86ElSbzHCI0IUkJ4wUj1g"
    }
   },
   {

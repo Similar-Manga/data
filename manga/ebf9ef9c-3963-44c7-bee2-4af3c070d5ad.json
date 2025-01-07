@@ -1,0 +1,132 @@
+{
+ "id": "ebf9ef9c-3963-44c7-bee2-4af3c070d5ad",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Joyuurei"
+  },
+  "altTitles": [
+   {
+    "ja": "女優霊"
+   },
+   {
+    "en": "Ghost Actress"
+   }
+  ],
+  "description": {
+   "en": "A young director, Murai, works with two actresses playing sisters. He clearly has a bit of a crush on Hitomi, the older actress, and keeps a photo of her by his bedside. The younger actress, Saori, is inexperienced and playful."
+  },
+  "links": {
+   "al": "55111",
+   "mal": "25111",
+   "mu": "yipilfb"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2000,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-23T17:46:57+00:00",
+  "updatedAt": "2024-12-23T18:03:11+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6d6b9ffd-a4d2-40ca-987e-bb51e0a424f6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "24e0210d-d8c5-458d-939a-c78799dae235",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motosuke Takaminato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "320d81f9-4216-4ea0-bcf5-89348baddd4c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-23T17:46:59+00:00",
+    "description": "",
+    "fileName": "bdfae979-6fae-4b81-ad03-8a5cae95a92d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-23T17:46:59+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

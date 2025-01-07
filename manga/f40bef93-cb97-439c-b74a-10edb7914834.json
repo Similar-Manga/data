@@ -1,0 +1,210 @@
+{
+ "id": "f40bef93-cb97-439c-b74a-10edb7914834",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Saint Seiya: Saint Mariya"
+  },
+  "altTitles": [
+   {
+    "ja": "聖闘士真理矢"
+   }
+  ],
+  "description": {
+   "en": "The new \"Saint Seiya\" Spin-off Manga Series \"Saint Mariya\" by Shimotsuki Seira, Masami Kurumada is on cover of the upcoming Monthly Princess issue 2/2025."
+  },
+  "links": {
+   "al": "185323"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2025,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "81c836c9-914a-4eca-981a-560dad663e73",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magical Girls"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-31T04:23:44+00:00",
+  "updatedAt": "2025-01-03T15:18:52+00:00"
+ },
+ "relationships": [
+  {
+   "id": "75c02982-6af3-4d51-86eb-0cb5fc96e4b0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kurumada Masami",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1f829df0-f7d7-4041-b7f6-b2b62852a7b0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shimotsuki Seira",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "295d421a-cfd7-4fba-9469-5eeebf326b04",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-31T04:23:48+00:00",
+    "description": "",
+    "fileName": "584e92b3-2f43-44a4-b0a6-9c89e3cd628d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-31T04:23:48+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c819fa88-22dd-47b0-aa84-8f7e1d134ee0",
+   "type": "creator"
+  }
+ ]
+}

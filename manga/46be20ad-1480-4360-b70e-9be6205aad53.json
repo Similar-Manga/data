@@ -1,0 +1,145 @@
+{
+ "id": "46be20ad-1480-4360-b70e-9be6205aad53",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Meryoku no nai Otaku Reijou wa, Jiki Koushaku-sama no Ichizu na Dekiai ni Honrousareru"
+  },
+  "altTitles": [
+   {
+    "ja": "魔力のないオタク令嬢は、次期公爵様の一途な溺愛に翻弄される"
+   }
+  ],
+  "description": {
+   "en": "Alicia, the daughter of an earl, is completely absorbed in bookkeeping and has no interest in the social scene. While her family worries about her future marriage, Alicia is secretly in a relationship with the elite nobleman, Miroslav, who is studying abroad at a prestigious foreign university. However, Alicia, who lacks magical power despite being a noble, lacks the confidence that she can truly be a match for Miroslav, the man every noblewoman admires. Then, at a ball held to celebrate Miroslav's return, Alicia is suddenly abducted by a young genius mage named Kamil...!?",
+   "ja": "伯爵令嬢のアリツィアは、帳簿付けに夢中で社交界には一切興味なし。家族からは結婚の心配をされているけれど、外国の大学に留学中のエリート貴公子・ミロスワフと密かに恋愛中なのだ。しかし貴族でありながら魔力のないアリツィアは、国中の令嬢が憧れるミロスワフと自分が釣り合うのか自信が持てずにいる。そんな中、開催されたミロスワフの帰国を祝う舞踏会で、アリツィアは突如乱入した若き天才魔力使い・カミルにさらわれてしまい――!?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CZ4H7XWY",
+   "ap": "the-non-magical-otaku-lady-is-enchanted-by-the-next-dukes-deep-devotion",
+   "bw": "series/467916",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/825476",
+   "mu": "7tpahxe"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-26T01:12:41+00:00",
+  "updatedAt": "2025-01-02T19:11:40+00:00"
+ },
+ "relationships": [
+  {
+   "id": "56bb1ad6-d1b5-4d19-889a-facbf02f6e6c",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-03-04T15:06:31+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Itoka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/itokanoitoko",
+    "updatedAt": "2023-03-12T02:10:27+00:00",
+    "version": 2,
+    "website": "https://itoka.jimdosite.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1d748dcc-cafd-45fa-b3e9-ac5a5527fcfa",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Name (in native language)\nまぶた単"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mabuta Hitoe",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-08-07T15:44:34+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "daa8a6b9-6f3c-4e44-9ffb-9623813b60ed",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-26T01:12:45+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "5def0e63-1202-4c63-8043-d739d5115a7f.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-26T01:12:45+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

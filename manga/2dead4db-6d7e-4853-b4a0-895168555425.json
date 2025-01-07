@@ -7,19 +7,22 @@
   },
   "altTitles": [
    {
-    "en": "カラミティ・ロスト"
+    "ja": "カラミティ・ロスト"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "links": {
+   "ap": "calamity-lost",
+   "bw": "series/180086",
    "mal": "120861",
    "mu": "147838"
   },
   "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "10",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2017,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -100,9 +103,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2019-03-25T12:49:52+00:00",
-  "updatedAt": "2021-05-25T15:40:51+00:00"
+  "updatedAt": "2024-12-31T21:58:47+00:00"
  },
  "relationships": [
   {
@@ -158,16 +161,16 @@
    }
   },
   {
-   "id": "105f922b-908c-4f76-ba32-713405ce9ed9",
+   "id": "9b68b8ec-3dee-478e-8cec-18d31ac7e7af",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:05:49+00:00",
-    "description": "",
-    "fileName": "25947ded-8601-410a-b45d-12d0c463e7c8.jpg",
+    "createdAt": "2024-12-31T21:28:20+00:00",
+    "description": "BookWalker",
+    "fileName": "15a6c740-98fb-4f36-9209-981694a946cd.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:05:49+00:00",
+    "updatedAt": "2024-12-31T21:28:20+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

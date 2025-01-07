@@ -1,0 +1,156 @@
+{
+ "id": "e4c27ac4-ad38-4c17-881a-65ff535ede3d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ueki Exhibition"
+  },
+  "description": {
+   "en": "One Shot published in Weekly Shonen Sunday 54"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-21T08:08:33+00:00",
+  "updatedAt": "2024-12-21T08:08:51+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8395adc6-32ee-4723-9880-5627f0b38461",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native Name**: 福地翼\n\nMangafolio: [manga-no.com/@fukuchi283/mangafolio](https://manga-no.com/@fukuchi283/mangafolio)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fukuchi Tsubasa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/18447348",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/fukuchi_tsubasa",
+    "updatedAt": "2024-05-17T20:58:08+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8395adc6-32ee-4723-9880-5627f0b38461",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native Name**: 福地翼\n\nMangafolio: [manga-no.com/@fukuchi283/mangafolio](https://manga-no.com/@fukuchi283/mangafolio)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fukuchi Tsubasa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/18447348",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/fukuchi_tsubasa",
+    "updatedAt": "2024-05-17T20:58:08+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b1161272-9cf5-4447-a277-be764b41675f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-21T08:08:39+00:00",
+    "description": "",
+    "fileName": "01865cbd-11c5-4580-8503-0d48e8752490.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-21T08:08:39+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "5deadea7-999b-483e-8467-47b6b7bcfe3c",
+   "type": "manga",
+   "related": "sequel"
+  },
+  {
+   "id": "bc06172f-8e62-4e92-84ec-2bfbd9dab255",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "6c719ec8-b88e-4a11-bb18-12f6d765c788",
+   "type": "creator"
+  }
+ ]
+}

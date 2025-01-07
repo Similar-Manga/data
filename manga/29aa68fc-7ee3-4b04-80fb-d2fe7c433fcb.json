@@ -23,10 +23,13 @@
    },
    {
     "vi": "Ma Đạo Tổ Sư"
+   },
+   {
+    "ja-ro": "Ma Dou So Shi"
    }
   ],
   "description": {
-   "en": "The Japanese manga adaptation of the mega-hit Chinese fantasy novel \"The Grandmaster of Demonic Cultivation\", which was officially published in English by Seven Seas Entertainment.\n\nAs the grandmaster who founded the Demonic Sect, Wei Wuxian roamed the world in his wanton ways, hated by millions for the chaos he created. In the end, he was back-stabbed by his dearest junior brother and killed by powerful clans that combined to overpower him. He incarnates into the body of a lunatic who was abandoned by his clan and is later, unwillingly, taken away by a famous cultivator among the clans—Lan Wangji, his archenemy.\n\nThis marks the start of a thrilling yet hilarious journey of attacking monsters, solving mysteries, and raising children. From the mutual flirtation along the way, Wei Wuxian slowly realizes that Lan Wangji, a seemingly haughty and indifferent poker-face, holds more feelings for Wei Wuxian than he is letting on."
+   "en": "In the era of the Wen clan's tyranny and people's suffering, the masters of the great immortal cultivation clans: the Lan Clan of Gusu, Jiang Clan of Yunmeng, Jin Clan of Lanling, and Nie Clan of Qinghe, joined forces in the \"Sunshot Campaign\" to defeat the Wen Clan. The Yiling Patriarch, Wei Wuxian, made great contributions to the campaign, but his path of cultivation, labeled as demonic, was so powerful that he was slandered and scorned by the people. In the end, his lair in the Burial Mounds was destroyed by the very clans he fought with.\n\nThirteen years later, Wei Wuxian is summoned into the body of a lunatic who was abandoned by his clan and family, and is found and taken away by a famous cultivator among the clans-- Lan wangji, who is known for his genius in conventional cultivation, and frequently fought with Wei Wuxian in his past life. Wei Wuxian tries to leave without revealing his true identity, but for reasons undecipherable to Wei Wuxian, Lan Wangji refuses to let him go.\n\nAs they pursue the elusive mysteries of the past, the relationship between Wei Wuxian and Lan Wangji changes and grows. The cheerful, unrestrained Wei Wuxian and the calm and disciplined Lan Wangji, the story of the two begins with their childhood encounter..."
   },
   "links": {
    "mu": "oxf9rcb",
@@ -39,10 +42,10 @@
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
-   "vi",
-   "pl"
+   "pl",
+   "vi"
   ],
-  "latestUploadedChapter": "242a88fb-812d-4ea3-95ea-1576c4753210",
+  "latestUploadedChapter": "ad6427e4-3245-4337-9abd-5e70f0cae846",
   "tags": [
    {
     "id": "33771934-028e-4cb3-8744-691e866a923e",
@@ -53,6 +56,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -110,6 +125,18 @@
     "attributes": {
      "name": {
       "en": "Wuxia"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
      },
      "description": {},
      "group": "genre",
@@ -175,12 +202,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 18,
   "createdAt": "2024-08-17T22:05:58+00:00",
-  "updatedAt": "2024-09-08T19:40:41+00:00"
+  "updatedAt": "2024-12-13T21:45:50+00:00"
  },
  "relationships": [
   {

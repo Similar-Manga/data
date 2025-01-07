@@ -7,26 +7,27 @@
   },
   "altTitles": [
    {
+    "ja": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。"
+   },
+   {
     "en": "I Became a Legend After My 10 Year-Long Last Stand"
-   },
-   {
-    "ko": "여기는 나한테 맡기고 먼저 가라고 말하고 10년이 지나 전설이 되었다"
-   },
-   {
-    "de": "Ich kämpfte zehn Jahre zwischen den Dimensionen und kehrte als Legende zurück"
-   },
-   {
-    "fr": "Légende Vivante"
    },
    {
     "en": "I Became a Legend a Decade Later After Telling my Comrades to Leave Everything to Me and Retreat First"
    },
    {
-    "ja": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。"
+    "ko": "여기는 나한테 맡기고 먼저 가라고 말하고 10년이 지나 전설이 되었다"
+   },
+   {
+    "fr": "Légende Vivante"
+   },
+   {
+    "de": "Ich kämpfte zehn Jahre zwischen den Dimensionen und kehrte als Legende zurück"
    }
   ],
   "description": {
-   "en": "“I guess I thought if I ever made it back here, we could go on adventures, just like we used to. But it's been ten years. We've all changed, in more ways than one. From this moment on, this is the first step in the life of rookie adventurer Lock!”\n\nWith no other options, Luck makes the choice to hold the line against the unending demonic hordes alone, to make sure his comrades can escape with their lives. However, through a combination of fortune, skill, and ingenuity, he holds that line for ten straight years, eventually coming out on top single-handedly. Now he has to tackle the dilemma of how to occupy himself in a world where he holds a myriad of roles: that of a legend, that of a veteran, and that of a brand new face.",
+   "en": "\"I guess I thought if I ever made it back here, we could go on adventures, just like we used to. But it's been ten years. We've all changed, in more ways than one. From this moment on, this is the first step in the life of rookie adventurer Lock!\"\n\nWith no other options, Luck makes the choice to hold the line against the unending demonic hordes alone, to make sure his comrades can escape with their lives. However, through a combination of fortune, skill, and ingenuity, he holds that line for ten straight years, eventually coming out on top single-handedly. Now he has to tackle the dilemma of how to occupy himself in a world where he holds a myriad of roles: that of a legend, that of a veteran, and that of a brand new face.",
+   "ja": "最強魔導士ラックたちのパーティーは魔神王を倒すため、激しい戦いを繰り広げていた。激しい追撃の中、ラックは仲間に叫んだ。「ここは俺に任せて先に行け！」全滅の危機を避けるため、ラックは１人敵と戦い続ける決意をする。そうして、ひたすら戦い続け、ついには魔神王をも倒したラック。しかし、街に帰る彼を待っていたのは「10年」という歳月が過ぎた世界だった――…",
    "pt-br": "O Grupo do Herói foi atacado por uma enorme quantidade de poderosos demônios. O Grupo será sem dúvida aniquilado se isso continuar."
   },
   "links": {
@@ -44,6 +45,7 @@
    "raw": "https://www.ganganonline.com/contents/koko/"
   },
   "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
   "status": "ongoing",
   "year": 2019,
   "contentRating": "safe",
@@ -156,9 +158,9 @@
    }
   ],
   "state": "published",
-  "version": 40,
+  "version": 43,
   "createdAt": "2020-02-06T07:25:53+00:00",
-  "updatedAt": "2024-10-04T13:42:23+00:00"
+  "updatedAt": "2025-01-04T22:13:17+00:00"
  },
  "relationships": [
   {
@@ -182,32 +184,6 @@
     "twitter": "https://twitter.com/ezogingitune",
     "updatedAt": "2022-07-11T10:48:24+00:00",
     "version": 2,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "03af0c62-ca0b-4aba-a24e-16b280117067",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2024-01-22T07:51:02+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Tennoji Kitsune",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-01-22T07:51:02+00:00",
-    "version": 1,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -266,16 +242,42 @@
    }
   },
   {
-   "id": "5f072ef3-550b-4b0b-8e28-0feea5aa61ba",
+   "id": "c78192cd-c8d0-4516-8f39-241671026313",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tennouji Kitsune",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9e4c5940-6a37-474d-8c35-bd6d3dbdf04e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-08T10:38:08+00:00",
-    "description": "",
-    "fileName": "f86381d2-ec9d-4208-9e33-4b2094eb7410.jpg",
+    "createdAt": "2024-12-07T15:02:05+00:00",
+    "description": "Volume 16 Cover from BookLive",
+    "fileName": "97052f6c-e281-4ca9-9f27-127bac9de013.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-08T10:38:08+00:00",
+    "updatedAt": "2024-12-07T15:02:05+00:00",
     "version": 1,
-    "volume": "15"
+    "volume": "16"
    }
   }
  ]

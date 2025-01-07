@@ -11,7 +11,7 @@
     "en": "Shinobi SS"
    },
    "contentRating": "safe",
-   "score": 0.44115475,
+   "score": 0.44098425,
    "languages": [
     "en"
    ]
@@ -22,10 +22,11 @@
     "en": "Shinobigoto"
    },
    "contentRating": "safe",
-   "score": 0.39400563,
+   "score": 0.39377657,
    "languages": [
+    "en",
     "vi",
-    "en"
+    "pt-br"
    ]
   },
   {
@@ -34,7 +35,7 @@
     "en": "Tonari no Ninja"
    },
    "contentRating": "safe",
-   "score": 0.39168164,
+   "score": 0.39135835,
    "languages": [
     "fr",
     "en",
@@ -47,7 +48,7 @@
     "en": "Dropout Ninja Rantaro"
    },
    "contentRating": "safe",
-   "score": 0.35390353,
+   "score": 0.35398978,
    "languages": [
     "en"
    ]
@@ -58,10 +59,24 @@
     "en": "Ninja to Koroshiya no Futarigurashi"
    },
    "contentRating": "safe",
-   "score": 0.33734584,
+   "score": 0.33721447,
    "languages": [
     "ru",
     "en"
+   ]
+  },
+  {
+   "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
+   "title": {
+    "en": "Naruto: Road to Ninja"
+   },
+   "contentRating": "safe",
+   "score": 0.27360806,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "ro"
    ]
   },
   {
@@ -70,7 +85,7 @@
     "en": "Yuusha Party o Kubi ni Natta Ninja, Shinobazu ni Ikimasu"
    },
    "contentRating": "safe",
-   "score": 0.2585617,
+   "score": 0.2712524,
    "languages": [
     "en"
    ]
@@ -81,83 +96,10 @@
     "en": "Rappa - Yankee Ninpuuchou"
    },
    "contentRating": "safe",
-   "score": 0.23675755,
+   "score": 0.23671433,
    "languages": [
     "vi",
     "en"
-   ]
-  },
-  {
-   "id": "6cb8e355-f34e-477c-b79e-4f387617fa41",
-   "title": {
-    "en": "29 de Bukiyou de"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
-   "title": {
-    "en": "Selling Me Softly"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
-   "title": {
-    "en": "Otter No.11"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
-   "title": {
-    "en": "CROSS"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "de"
-   ]
-  },
-  {
-   "id": "5e8714ea-bd0b-4579-86e1-5445eb4564aa",
-   "title": {
-    "en": "Worst Gaiden Dokuro"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "vi",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "6c583845-8276-4f80-b90b-902959b5d240",
-   "title": {
-    "en": "Tokyo Depato Sensou Taikenki"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en",
-    "pl",
-    "tr"
    ]
   },
   {
@@ -176,17 +118,76 @@
    ]
   },
   {
-   "id": "9f9780ca-68e1-472b-a6c5-caa8156b5d41",
+   "id": "5e8714ea-bd0b-4579-86e1-5445eb4564aa",
    "title": {
-    "en": "Naruto: Road to Ninja"
+    "en": "Worst Gaiden Dokuro"
    },
    "contentRating": "safe",
-   "score": 0.21653563,
+   "score": 0.22131334,
+   "languages": [
+    "vi",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "4c80e20b-ac9c-4268-9ac6-f5df79d4b4b4",
+   "title": {
+    "en": "Selling Me Softly"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
    "languages": [
     "en",
-    "ru",
-    "pt-br",
-    "ro"
+    "pl"
+   ]
+  },
+  {
+   "id": "6c583845-8276-4f80-b90b-902959b5d240",
+   "title": {
+    "en": "Tokyo Depato Sensou Taikenki"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en",
+    "pl",
+    "tr"
+   ]
+  },
+  {
+   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
+   "title": {
+    "en": "Otter No.11"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "6cb8e355-f34e-477c-b79e-4f387617fa41",
+   "title": {
+    "en": "29 de Bukiyou de"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
+   "title": {
+    "en": "CROSS"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en",
+    "de"
    ]
   },
   {
@@ -202,5 +203,5 @@
    ]
   }
  ],
- "updatedAt": "2024-12-01T22:01:14+00:00"
+ "updatedAt": "2025-01-06T01:18:20+00:00"
 }

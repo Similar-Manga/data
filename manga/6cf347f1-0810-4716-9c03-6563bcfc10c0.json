@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "A Classic Robot Girl"
+   "en": "A Retro Robot Girl"
   },
   "altTitles": [
    {
@@ -11,6 +11,9 @@
    },
    {
     "ja-ro": "Kotenteki Robot Shoujo"
+   },
+   {
+    "en": "A Classic Robot Girl"
    },
    {
     "ja": "古典的ロボット少女のラブコメ"
@@ -22,6 +25,12 @@
     "ja-ro": "Kotenteki Robot Shoujo no Love Comedy"
    },
    {
+    "en": "A Retro Robot Girl's Romcom"
+   },
+   {
+    "en": "A Classic Robot Girl's Romcom"
+   },
+   {
     "en": "A Classic Robogirl's Love Comedy"
    }
   ],
@@ -31,7 +40,7 @@
   "links": {
    "al": "151657",
    "mu": "162933",
-   "raw": "https://x.com/search?q=from%3A%40isiyumi%20%E5%8F%A4%E5%85%B8%E7%9A%84%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B0%91%E5%A5%B3\u0026src=typed_query\u0026f=live"
+   "raw": "https://x.com/search?q=from:@isiyumi 古典的ロボット少女\u0026f=live"
   },
   "originalLanguage": "ja",
   "lastChapter": "4",
@@ -86,9 +95,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2020-05-14T06:15:30+00:00",
-  "updatedAt": "2024-08-16T16:17:30+00:00"
+  "updatedAt": "2024-12-28T05:40:44+00:00"
  },
  "relationships": [
   {
@@ -96,7 +105,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -112,8 +121,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -124,7 +133,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -140,8 +149,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -159,6 +168,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "5418be97-515b-492b-8827-ec0590747ba9",
+   "type": "manga",
+   "related": "alternate_version"
   }
  ]
 }

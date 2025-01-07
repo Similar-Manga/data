@@ -3,11 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Intercept"
+   "en": "Interception"
   },
   "altTitles": [
    {
     "ja": "インターセプト"
+   },
+   {
+    "ja-ro": "Intercept"
+   },
+   {
+    "en": "Intercept"
    }
   ],
   "description": {},
@@ -98,9 +104,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2022-04-21T04:12:33+00:00",
-  "updatedAt": "2022-07-16T01:03:59+00:00"
+  "updatedAt": "2024-12-28T06:52:42+00:00"
  },
  "relationships": [
   {
@@ -108,7 +114,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -124,8 +130,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -136,7 +142,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -152,8 +158,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -171,6 +177,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "5418be97-515b-492b-8827-ec0590747ba9",
+   "type": "manga",
+   "related": "alternate_version"
   },
   {
    "id": "0aa08feb-94f8-4f08-b547-396c5f68b73f",

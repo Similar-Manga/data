@@ -1,0 +1,139 @@
+{
+ "id": "914cacb4-53dc-467c-b3a5-9af0421bd696",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "A Universe All Our Own"
+  },
+  "description": {},
+  "originalLanguage": "en",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-12-31T16:03:33+00:00",
+  "updatedAt": "2024-12-31T16:30:32+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d5f1dada-f280-408b-a4c3-17d8b6ec3bd6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-31T14:38:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "ArmiaStars",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-31T16:29:50+00:00",
+    "version": 2,
+    "website": "https://bsky.app/profile/armiastars.bsky.social",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5fae55b4-1c0c-47de-8b00-0fad53bdae20",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-31T14:37:57+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "KohakuAces",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-31T14:37:57+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f389bb56-15e6-40d1-963a-84bc7aabb6fb",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-31T16:19:47+00:00",
+    "description": "",
+    "fileName": "c591cc35-9356-43f0-be59-52d60af1bce8.png",
+    "locale": "en",
+    "updatedAt": "2024-12-31T16:19:47+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "5f4d89be-fdd2-4395-accb-d8cee7173494",
+   "type": "creator"
+  }
+ ]
+}

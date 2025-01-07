@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Inazuma Eleven: Ares no Tenbin"
+   "en": "Inazuma Eleven: Balance of Ares"
   },
   "altTitles": [
    {
     "en": "Inazuma Eleven Ares"
    },
    {
-    "en": "Inazuma Eleven: Balance of Ares"
+    "en": "Inazuma Eleven: Ares no Tenbin"
    },
    {
     "en": "Inazuma Eleven: Scales of Ares"
@@ -24,8 +24,10 @@
   },
   "links": {
    "al": "138858",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B0845QC1L7?binding=kindle_edition\u0026searchxofy=true\u0026sr=1-1",
    "bw": "ded1824614-55fd-4613-8323-864ed3ad6560",
-   "mu": "153758"
+   "mu": "153758",
+   "raw": "https://www.corocoro.jp/title/674"
   },
   "originalLanguage": "ja",
   "lastVolume": "4",
@@ -62,12 +64,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2019-08-27T02:26:30+00:00",
-  "updatedAt": "2023-01-27T01:45:05+00:00"
+  "updatedAt": "2024-12-23T02:33:46+00:00"
  },
  "relationships": [
   {
@@ -180,6 +194,11 @@
    "id": "be1b8107-ac37-41f3-9cd9-02fe85ac3de7",
    "type": "manga",
    "related": "prequel"
+  },
+  {
+   "id": "e6be2b4b-a914-4f98-ba0f-32b6b80c1207",
+   "type": "manga",
+   "related": "alternate_story"
   }
  ]
 }

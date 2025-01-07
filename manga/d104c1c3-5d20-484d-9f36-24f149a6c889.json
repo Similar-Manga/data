@@ -1,0 +1,174 @@
+{
+ "id": "d104c1c3-5d20-484d-9f36-24f149a6c889",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Chiikawa: Nanka Chiisakute Kawaii Yatsu (Webcomic Pages)"
+  },
+  "altTitles": [
+   {
+    "ja": "なんか小さくてかわいいやつ"
+   }
+  ],
+  "description": {
+   "en": "Follow the adventures of Chiikawa the innocent bear, Hachiware the kind cat, and Usagi the chaotic rabbit as they work their hardest to survive in a world filled with dangerous monsters, mysterious zombie knight taskmasters, and fantastical phenomena at every turn!"
+  },
+  "links": {
+   "raw": "https://twitter.com/ngntrtr"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2020,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-03T11:46:19+00:00",
+  "updatedAt": "2024-12-03T13:17:22+00:00"
+ },
+ "relationships": [
+  {
+   "id": "cc3e41ba-88c8-4c1f-bc5c-1982f85ccead",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-05-24T11:33:11+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nagano",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ngntrtr",
+    "updatedAt": "2022-05-24T11:53:10+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cc3e41ba-88c8-4c1f-bc5c-1982f85ccead",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-05-24T11:33:11+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nagano",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ngntrtr",
+    "updatedAt": "2022-05-24T11:53:10+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "21f5fcda-e22a-4f55-9b40-6346272108ae",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-03T11:46:21+00:00",
+    "description": "",
+    "fileName": "ba17c39a-452d-41c9-ba6a-c3fcd0d3a38f.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-03T11:46:21+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "260b0eaa-343d-4cc8-9bde-f544263ba96d",
+   "type": "creator"
+  }
+ ]
+}

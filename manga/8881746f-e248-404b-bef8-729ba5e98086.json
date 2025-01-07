@@ -3,26 +3,30 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tsugou No ii Hate"
+   "en": "Tsugou no Ii Hate"
   },
   "altTitles": [
    {
     "ja": "都合のいい果て"
    },
    {
-    "zh-hk": "各得其所"
-   },
-   {
     "ja": "Convenient end"
    },
    {
+    "en": "Convenient End"
+   },
+   {
     "ne": "एक सुविधाजनक परिणाम"
+   },
+   {
+    "zh-hk": "各得其所"
    }
   ],
   "description": {},
   "links": {
    "al": "154421",
-   "amz": "https://www.amazon.co.jp/-/en/dp/B0BB6GG9N7?binding=kindle_edition\u0026searchxofy=true\u0026ref_=dbs_s_aps_series_rwt_tkin\u0026qid=1729034202\u0026sr=8-1",
+   "amz": "https://www.amazon.co.jp/dp/B0BB6GG9N7",
+   "bw": "de56624a55-5c3e-48f5-a82d-884c072d0d6e",
    "mal": "163113",
    "mu": "11mvxyp",
    "raw": "https://comic-days.com/episode/3269754496815951627"
@@ -33,11 +37,12 @@
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2022,
-  "contentRating": "suggestive",
+  "contentRating": "erotica",
   "availableTranslatedLanguages": [
-   "zh-hk"
+   "zh-hk",
+   "en"
   ],
-  "latestUploadedChapter": "14f7bde1-675e-435d-aef8-8b17c88b07c6",
+  "latestUploadedChapter": "091d1b7d-2754-40d7-a8d5-6b835f53a385",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -62,24 +67,12 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Slice of Life"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 16,
   "createdAt": "2022-05-01T12:47:18+00:00",
-  "updatedAt": "2024-10-15T23:18:05+00:00"
+  "updatedAt": "2024-12-30T03:36:39+00:00"
  },
  "relationships": [
   {

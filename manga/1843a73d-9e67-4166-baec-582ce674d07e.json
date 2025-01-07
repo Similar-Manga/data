@@ -3,35 +3,39 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Quartz No Oukoku"
+   "en": "A Kingdom of Quartz"
   },
   "altTitles": [
    {
     "ja": "クオーツの王国"
    },
    {
-    "en": "A Kingdom of Quartz"
-   },
-   {
-    "es-la": "El Reino del Cuarzo"
+    "ja-ro": "Quartz no Oukoku"
    },
    {
     "ru": "Кварцевое Королевство"
    },
    {
     "ru": "Королевство Кварца"
+   },
+   {
+    "es-la": "El Reino del Cuarzo"
    }
   ],
   "description": {
    "en": "\"Angels\"... are heroes who follow the will of the Goddess and protect the Quartz Kingdom from demons. Blue, an orphan born with dark wings, lives a peaceful life, dreaming of becoming an angel. But one day, after meeting a prince, her destiny begins to change.",
    "es-la": "«Ángeles»… Aquellos que han heredado la voluntad de la diosa serán los héroes que protegerán al Reino del Cuarzo de los demonios. \n\nEn estos pacíficos días una huérfana llamada Blue que nació portando alas negras, sueña con convertirse en un ángel. Sin embargo cierto día su destino cambiará luego de encontrarse con cierto príncipe.",
+   "ja": "「天使」ーー彼らは女神の意思に従い、クオーツ王国を悪魔から守る英雄。黒い翼をもって生まれた孤児のブルーは、天使を夢見る平和な毎日を送っていた。だがとある日、とある王子との出会いを境に、彼女の運命は動き出す。",
    "ru": "«Ангелы»... это герои, следующие воле Богини и защищающие Кварцевое Королевство от демонов. Блю, сирота, родившаяся с тёмными крыльями, живет мирной жизнью, мечтая стать ангелом. Но в один день, после встречи с принцем, её судьба начинает меняться."
   },
   "links": {
+   "al": "161718",
    "amz": "https://www.amazon.co.jp/dp/B0C81QMQRY",
-   "bw": "series/416980/list",
+   "ap": "a-kingdom-of-quartz",
+   "bw": "series/416980",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/764282",
    "engtl": "https://kodansha.us/series/a-kingdom-of-quartz",
-   "kt": "quartz-no-oukoku",
+   "kt": "71887",
    "mal": "158767",
    "mu": "684elqx",
    "raw": "https://comic-days.com/episode/316190247042279720"
@@ -99,9 +103,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 13,
   "createdAt": "2023-01-31T00:35:02+00:00",
-  "updatedAt": "2024-10-26T10:13:11+00:00"
+  "updatedAt": "2024-12-23T18:14:39+00:00"
  },
  "relationships": [
   {
@@ -109,7 +113,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "[DeviantArt](https://www.deviantart.com/bomhat)"
+     "en": "**Additional Sites:**\n- [Instagram](https://www.instagram.com/mrhotcakes/)\n- [DeviantArt](https://www.deviantart.com/bomhat)"
     },
     "booth": null,
     "createdAt": "2022-12-28T18:44:08+00:00",
@@ -125,9 +129,9 @@
     "skeb": null,
     "tumblr": "https://bomhat-art.tumblr.com",
     "twitter": "https://twitter.com/BOMHAT",
-    "updatedAt": "2023-09-06T19:30:31+00:00",
-    "version": 3,
-    "website": null,
+    "updatedAt": "2024-12-04T23:38:59+00:00",
+    "version": 6,
+    "website": "https://bomhat.storenvy.com/",
     "weibo": null,
     "youtube": null
    }
@@ -137,7 +141,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "[DeviantArt](https://www.deviantart.com/bomhat)"
+     "en": "**Additional Sites:**\n- [Instagram](https://www.instagram.com/mrhotcakes/)\n- [DeviantArt](https://www.deviantart.com/bomhat)"
     },
     "booth": null,
     "createdAt": "2022-12-28T18:44:08+00:00",
@@ -153,24 +157,24 @@
     "skeb": null,
     "tumblr": "https://bomhat-art.tumblr.com",
     "twitter": "https://twitter.com/BOMHAT",
-    "updatedAt": "2023-09-06T19:30:31+00:00",
-    "version": 3,
-    "website": null,
+    "updatedAt": "2024-12-04T23:38:59+00:00",
+    "version": 6,
+    "website": "https://bomhat.storenvy.com/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "f7bfde99-3704-498b-9aef-b5521758613b",
+   "id": "5c4ca71e-4f89-4bd9-b092-1753a5fbc03f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-05-13T10:43:23+00:00",
+    "createdAt": "2024-12-14T11:59:31+00:00",
     "description": "",
-    "fileName": "c100442c-1794-4e0f-8f02-ef0f4f4610c1.jpg",
+    "fileName": "099af371-56b8-462f-86d6-ec9df760ae17.jpg",
     "locale": "ja",
-    "updatedAt": "2024-05-13T10:43:23+00:00",
+    "updatedAt": "2024-12-14T11:59:31+00:00",
     "version": 1,
-    "volume": "3"
+    "volume": "4"
    }
   },
   {

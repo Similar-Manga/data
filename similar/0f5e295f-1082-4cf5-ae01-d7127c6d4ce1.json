@@ -6,20 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "1fe45a2d-3a82-4d51-a216-1f2c26d12a3c",
-   "title": {
-    "en": "Régiment"
-   },
-   "contentRating": "safe",
-   "score": 0.3944659
-  },
-  {
    "id": "6c8bab1c-ae67-4635-a894-82ccebf1293e",
    "title": {
     "en": "Man's Poem"
    },
    "contentRating": "safe",
-   "score": 0.31228346
+   "score": 0.31251645
   },
   {
    "id": "b2717d66-80c3-48c9-a1d8-0f8c4e3951ee",
@@ -27,7 +19,15 @@
     "en": "Menhera Samurai"
    },
    "contentRating": "safe",
-   "score": 0.29096958
+   "score": 0.29082024
+  },
+  {
+   "id": "4a6268a0-e8f0-4593-8e8d-dd2e9c37405f",
+   "title": {
+    "en": "Taisho Gakusei Aisaika"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806
   },
   {
    "id": "af7b5b97-f630-4586-8e39-a395870ccaef",
@@ -43,50 +43,12 @@
    ]
   },
   {
-   "id": "4a6268a0-e8f0-4593-8e8d-dd2e9c37405f",
-   "title": {
-    "en": "Taisho Gakusei Aisaika"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806
-  },
-  {
-   "id": "28d89c43-9a5e-4754-87a2-22da9a248b07",
-   "title": {
-    "en": "Hatsukoi - Pioneers"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806
-  },
-  {
-   "id": "301c797b-e198-4f4a-88ca-41b677ca1971",
-   "title": {
-    "en": "Cecil no Joou"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "aff65f13-2478-4645-b716-3149b5a42793",
    "title": {
     "en": "Zhuge Liang"
    },
    "contentRating": "safe",
    "score": 0.23276806
-  },
-  {
-   "id": "301ab80a-b198-4858-b778-9c52da836930",
-   "title": {
-    "en": "Nami Uraraka ni, Meoto Biyori"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
   },
   {
    "id": "d1b31091-d938-4865-b157-821540db0cb5",
@@ -100,12 +62,42 @@
    ]
   },
   {
+   "id": "301ab80a-b198-4858-b778-9c52da836930",
+   "title": {
+    "en": "Nami Uraraka ni, Meoto Biyori"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "301c797b-e198-4f4a-88ca-41b677ca1971",
+   "title": {
+    "en": "Cecil no Joou"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "28d89c43-9a5e-4754-87a2-22da9a248b07",
+   "title": {
+    "en": "Hatsukoi - Pioneers"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806
+  },
+  {
    "id": "3f793858-b65a-4894-983d-d6f8659185fe",
    "title": {
     "en": "Sunset on Third Street"
    },
    "contentRating": "safe",
-   "score": 0.2241737
+   "score": 0.22418018
   },
   {
    "id": "5bee9323-5fc1-4a83-acfb-ec532079e9a0",
@@ -113,7 +105,7 @@
     "en": "Mukashi no Hanashi"
    },
    "contentRating": "safe",
-   "score": 0.2238598,
+   "score": 0.22385496,
    "languages": [
     "en"
    ]
@@ -124,7 +116,7 @@
     "en": "Keishichou Soushi -Fuutarou Meiji Gekijou-"
    },
    "contentRating": "safe",
-   "score": 0.2237212
+   "score": 0.22369467
   },
   {
    "id": "e2c8aa5f-24e1-470e-98f4-37f3d6242067",
@@ -132,7 +124,7 @@
     "en": "Chou no Michiyuki"
    },
    "contentRating": "safe",
-   "score": 0.22365157
+   "score": 0.22168998
   },
   {
    "id": "de53dc3b-9306-4f37-a5b1-ec9f8726a968",
@@ -140,19 +132,27 @@
     "ja": "Shinigami no Hatsukoi"
    },
    "contentRating": "safe",
-   "score": 0.22062945,
+   "score": 0.2206458,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7a683cfb-887f-43e5-b0d1-f0363920ffe8",
+   "id": "22db03e1-e40e-4f1f-8b56-e7724599e376",
    "title": {
-    "en": "Master Carpenter and Shrine Carpenter: Tsunekazu Nishioka"
+    "en": "The Pistol in Question"
+   },
+   "contentRating": "safe",
+   "score": 0.2191451
+  },
+  {
+   "id": "45bad135-a068-4e69-ba7a-ce8a39702cca",
+   "title": {
+    "en": "Moshimo Tokugawa Ieyasu ga Souri Daijin ni nattara - Zetsutou no Argonauts"
    },
    "contentRating": "safe",
    "score": 0.21502191
   }
  ],
- "updatedAt": "2024-12-01T20:46:24+00:00"
+ "updatedAt": "2025-01-05T23:47:56+00:00"
 }

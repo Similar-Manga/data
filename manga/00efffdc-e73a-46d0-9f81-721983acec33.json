@@ -1,0 +1,143 @@
+{
+ "id": "00efffdc-e73a-46d0-9f81-721983acec33",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Jam Jam"
+  },
+  "altTitles": [
+   {
+    "en": "Jaem Jaem"
+   },
+   {
+    "ko": "잼잼"
+   }
+  ],
+  "description": {
+   "en": "\"Joo Hae-rin, you're too sweet.\"\n\"I became convinced that you'd get tired of it quickly.\"\n\n\"I think it's best to end our relationship here.\"\n\nI held onto my unrequited love from when I was 18 as if it were a partner relationship.\nOverwhelmed by feelings that grew beyond what I could handle, I eventually ran away.\nAnyway, since you don't love me, I thought it would be fine, but…\n\n\"You said I made a bad guarantee.\nI’ll give you a special chance.\nA chance to live well.\"\n\nCan’t I just pretend not to notice? Why are you holding on to me like this?\nAs if you love me.\nChoi Do-hyun, I don't want to be swayed by your words anymore.\n\n\"I'll pay back the money. I’ve also added interest. Let’s end our relationship here.\"\n\n\"Always the same Joo Hae-rin.\nDo you think I won't be able to find you?\nIf I find you this time, I won't let it go.\""
+  },
+  "links": {
+   "mu": "l2ypcwj",
+   "raw": "https://series.naver.com/comic/detail.series?productNo=11673121"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-01T01:15:39+00:00",
+  "updatedAt": "2025-01-01T03:37:23+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a19bd217-a92f-40b7-ac19-aa8edd9a30c0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Seo Jeong Eun",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c8039f9f-7edf-4b8c-9959-fdc768e81811",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Associated Names:\n- Red Peach Studio\n- redpeach\n- 레드피치스튜디오\n\nName in native language:\n- 레드피치\n"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Red Peach Studio (레드피치)",
+    "namicomi": null,
+    "naver": "https://blog.naver.com/redpeachcomics",
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/redpeach_comics",
+    "updatedAt": "2024-11-01T20:02:40+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8e4567b9-f47b-4308-97cf-065edf375add",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-01T01:15:42+00:00",
+    "description": "",
+    "fileName": "cf330a07-3b3f-47f3-a508-0ad92714777b.jpg",
+    "locale": "ko",
+    "updatedAt": "2025-01-01T01:15:42+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0b79d7be-f0b8-4c71-a8cb-bead0f91651d",
+   "type": "creator"
+  }
+ ]
+}

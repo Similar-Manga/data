@@ -1,0 +1,166 @@
+{
+ "id": "18f68981-e8af-48a7-a806-cd92b8766ae1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Okubyou Usagi wa Otagaisama"
+  },
+  "altTitles": [
+   {
+    "ja": "おくびょうウサギはおたがいさま"
+   },
+   {
+    "en": "We Are Both Scaredy Rabbits"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "ko"
+  ],
+  "latestUploadedChapter": "6ed7fdc8-5e04-40a4-a321-73587a19a3d4",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-05T05:51:55+00:00",
+  "updatedAt": "2024-12-06T02:50:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "11722664-61e2-4f9b-b36a-68bb8287c008",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Tracking\n[MyAnimeList](https://myanimelist.net/people/45440/Ume_Umehara) \n[AniList](https://anilist.co/staff/131425/Ume-Umehara) \n[Anime-Planet](https://www.anime-planet.com/people/ume-umehara) "
+    },
+    "booth": "https://aprico.booth.pm/",
+    "createdAt": "2021-10-10T01:45:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Umehara Ume",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=1291097",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/apricoume",
+    "updatedAt": "2024-05-15T07:44:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "11722664-61e2-4f9b-b36a-68bb8287c008",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Tracking\n[MyAnimeList](https://myanimelist.net/people/45440/Ume_Umehara) \n[AniList](https://anilist.co/staff/131425/Ume-Umehara) \n[Anime-Planet](https://www.anime-planet.com/people/ume-umehara) "
+    },
+    "booth": "https://aprico.booth.pm/",
+    "createdAt": "2021-10-10T01:45:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Umehara Ume",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=1291097",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/apricoume",
+    "updatedAt": "2024-05-15T07:44:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b7a748ac-3852-4640-9950-3a3d2b285832",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-05T05:52:01+00:00",
+    "description": "",
+    "fileName": "f72e1e29-e868-4743-8dcf-e202b1b4340c.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-05T05:52:01+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "6d27972a-5468-4980-9681-18fa1c33dced",
+   "type": "creator"
+  }
+ ]
+}

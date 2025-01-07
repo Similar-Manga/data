@@ -1,0 +1,168 @@
+{
+ "id": "1ab75f3d-6e12-4b0b-9b8d-b86e77b4874f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Coronica no Nou"
+  },
+  "altTitles": [
+   {
+    "ja": "コロニカの脳"
+   }
+  ],
+  "description": {
+   "en": "Zero grew up in an orphanage. Contrary to the orphanage's philosophy of \"If you want it, believe in and fight for it,\" Zero hates competition and conflict and prefers peaceful days. However, after discovering a certain secret, Zero finds himself caught up in the whirlpool of a cruel fate...!?"
+  },
+  "links": {
+   "mu": "dt34ojn",
+   "raw": "https://shonenjumpplus.com/episode/11990162089556159078"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "23",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "70114ed1-4a4d-4099-b123-3a26935bce0d",
+  "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-24T20:50:31+00:00",
+  "updatedAt": "2024-12-25T14:53:05+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6036ff93-9526-4600-bb5b-6e5ceb91a07f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T20:12:16+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Minohashi Kou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-24T20:12:16+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6036ff93-9526-4600-bb5b-6e5ceb91a07f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T20:12:16+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Minohashi Kou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-24T20:12:16+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e119d434-2e82-4bdf-a10c-34383447d029",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-24T21:06:47+00:00",
+    "description": "",
+    "fileName": "b74441a8-e967-46b3-9b68-eab965ea6687.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-24T21:06:47+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "ea2f666f-38a7-4d5e-ba7c-c58b1b9b4c53",
+   "type": "creator"
+  }
+ ]
+}

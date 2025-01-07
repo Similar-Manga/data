@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3ff413c8-f700-4174-bed0-b11fbb14ba5f",
-   "title": {
-    "en": "Adults Who Don't Understand Love (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.2895857,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "65361a37-9f9a-4f95-92fa-d6810f0fab17",
    "title": {
     "en": "My Best Friend Who I Love Fell Completely in Love With My Vtuber Self"
@@ -31,12 +19,24 @@
    ]
   },
   {
+   "id": "3ff413c8-f700-4174-bed0-b11fbb14ba5f",
+   "title": {
+    "en": "Adults Who Don't Understand Love (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.27864265,
+   "languages": [
+    "en",
+    "es-la"
+   ]
+  },
+  {
    "id": "9b05da2e-d4cd-4b33-b668-f358ae12a3a5",
    "title": {
     "en": "Aquamarine (HA Sung-Hyun)"
    },
    "contentRating": "safe",
-   "score": 0.27738908,
+   "score": 0.27745432,
    "languages": [
     "en"
    ]
@@ -47,10 +47,10 @@
     "en": "Summer Trend"
    },
    "contentRating": "safe",
-   "score": 0.27413243,
+   "score": 0.27423853,
    "languages": [
-    "pl",
-    "en"
+    "en",
+    "pl"
    ]
   },
   {
@@ -59,7 +59,7 @@
     "en": "Yuri Brought to You Live by Mob Boys"
    },
    "contentRating": "safe",
-   "score": 0.26963225,
+   "score": 0.2696855,
    "languages": [
     "en"
    ]
@@ -70,7 +70,7 @@
     "en": "Onnagoroshiya, Intaigo no Resort Seikatsu"
    },
    "contentRating": "safe",
-   "score": 0.26589823,
+   "score": 0.2657659,
    "languages": [
     "es",
     "en",
@@ -84,21 +84,23 @@
     "en": "The Older Girl Living in Her Neighborhood"
    },
    "contentRating": "safe",
-   "score": 0.26508242,
+   "score": 0.26506904,
    "languages": [
     "en",
     "id"
    ]
   },
   {
-   "id": "c03f19cc-4dfb-4fdc-95f9-fc14d22c6086",
+   "id": "79ff4e61-ff73-48ef-b165-019a5adba2c5",
    "title": {
-    "en": "Otoriyose-shimasshi!"
+    "en": "Big Girl and Small Girl"
    },
    "contentRating": "safe",
-   "score": 0.2635446,
+   "score": 0.2649226,
    "languages": [
-    "en"
+    "en",
+    "es-la",
+    "zh"
    ]
   },
   {
@@ -107,7 +109,7 @@
     "en": "Hitotsu no Kabe"
    },
    "contentRating": "safe",
-   "score": 0.26199007,
+   "score": 0.26202542,
    "languages": [
     "en"
    ]
@@ -118,24 +120,11 @@
     "en": "Zettai Watashi no Koto Suki Daro"
    },
    "contentRating": "safe",
-   "score": 0.26151025,
+   "score": 0.26153323,
    "languages": [
     "id",
     "en",
     "ru"
-   ]
-  },
-  {
-   "id": "79ff4e61-ff73-48ef-b165-019a5adba2c5",
-   "title": {
-    "en": "Big Girl and Small Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.26109618,
-   "languages": [
-    "en",
-    "es-la",
-    "zh"
    ]
   },
   {
@@ -144,7 +133,18 @@
     "en": "A Boys' Love Author and Her Special Assistant"
    },
    "contentRating": "safe",
-   "score": 0.2586127,
+   "score": 0.25852543,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7e0b09d7-45c0-4f92-8fe6-9ddcbf63e3e2",
+   "title": {
+    "en": "Yuri Couple"
+   },
+   "contentRating": "safe",
+   "score": 0.2538638,
    "languages": [
     "en"
    ]
@@ -162,23 +162,12 @@
    ]
   },
   {
-   "id": "7e0b09d7-45c0-4f92-8fe6-9ddcbf63e3e2",
-   "title": {
-    "en": "Yuri Couple"
-   },
-   "contentRating": "safe",
-   "score": 0.2538638,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "de0f0c24-51c9-4e0b-b556-dfdcbc08b7d8",
    "title": {
     "en": "Class no Inkya Ojousama no Shitsuji ni Narimashita"
    },
    "contentRating": "safe",
-   "score": 0.25184315,
+   "score": 0.2518567,
    "languages": [
     "en",
     "id",
@@ -186,17 +175,27 @@
    ]
   },
   {
-   "id": "24b47819-83c7-4627-8b33-b35e7fc47340",
+   "id": "5c278965-095a-40c5-aa12-82bc525750a3",
    "title": {
-    "en": "Edible Flowers"
+    "en": "Let's study, shall we?"
    },
    "contentRating": "safe",
    "score": 0.25126484,
    "languages": [
-    "it",
+    "en"
+   ]
+  },
+  {
+   "id": "f2ea9cf6-2756-499f-9dee-ea1c68f630a7",
+   "title": {
+    "en": "Someone Hated, Someone Loved"
+   },
+   "contentRating": "safe",
+   "score": 0.25126484,
+   "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2024-12-01T20:50:00+00:00"
+ "updatedAt": "2025-01-05T23:52:21+00:00"
 }

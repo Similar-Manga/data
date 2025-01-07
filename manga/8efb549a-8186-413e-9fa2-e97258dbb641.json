@@ -13,16 +13,22 @@
     "ja": "メタルファイト ベイブレード"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "In the end, it is the blader's heart that decides the outcome of the battle!\n\nThe greatest hobby in history, \"Beyblade\", has finally been made into a manga. Packed with explanatory articles such as \"Beyblade Explosion Start Course\" that can only be read here. Hot Beybattles in the galaxy, 3, 2, 1, GO...Shoot"
+  },
   "links": {
    "al": "40600",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B089S8C34D?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tkin",
    "ap": "metal-fight-beyblade",
+   "bw": "series/240171/list",
    "kt": "20328",
    "mal": "10600",
-   "mu": "35449"
+   "mu": "35449",
+   "raw": "https://www.corocoro.jp/title/335"
   },
   "originalLanguage": "ja",
   "lastVolume": "11",
+  "lastChapter": "45",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2008,
@@ -32,6 +38,18 @@
   ],
   "latestUploadedChapter": "c791cd01-4f8c-4ef6-993b-55bbc82b61e6",
   "tags": [
+   {
+    "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Traditional Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
@@ -46,9 +64,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2018-11-15T12:06:53+00:00",
-  "updatedAt": "2023-07-11T19:32:24+00:00"
+  "updatedAt": "2024-12-23T07:52:22+00:00"
  },
  "relationships": [
   {
@@ -108,16 +126,16 @@
    }
   },
   {
-   "id": "cb07c751-0fdc-4f34-8528-42c4da7ed30c",
+   "id": "a88b212a-f19d-40e2-9623-9aae306ed848",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:51:36+00:00",
+    "createdAt": "2024-12-23T07:49:38+00:00",
     "description": "",
-    "fileName": "c2084782-3c33-487e-9d52-74086b39247e.jpg",
+    "fileName": "616c7ce2-185c-48b1-b2ed-08abefb0e890.png",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:51:36+00:00",
+    "updatedAt": "2024-12-23T07:49:38+00:00",
     "version": 1,
-    "volume": null
+    "volume": "11"
    }
   },
   {

@@ -35,6 +35,18 @@
     }
    },
    {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -45,12 +57,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-09-28T16:43:04+00:00",
-  "updatedAt": "2024-09-28T16:44:22+00:00"
+  "updatedAt": "2024-12-23T12:01:02+00:00"
  },
  "relationships": [
   {

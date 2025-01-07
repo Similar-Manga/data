@@ -1,0 +1,150 @@
+{
+ "id": "fd8751f8-04b1-461a-9d58-511c2eea9912",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Inada Kooni Monogatari"
+  },
+  "altTitles": [
+   {
+    "ja": "稲田小鬼物語"
+   },
+   {
+    "en": "Inada Imp Story"
+   }
+  ],
+  "description": {
+   "en": "The boy-next-door who's become so attached to me is an imp (small oni)…!? A calm and relaxed everyday life, but things are a little strange? A mysterious tale of the neighborhood!"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B00OPSAHVU",
+   "bw": "de05b6e194-12e4-49e3-a59c-890de4a24c23",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/249008/",
+   "mal": "168302",
+   "mu": "6a5a100"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2011,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-21T08:36:10+00:00",
+  "updatedAt": "2024-12-21T08:37:05+00:00"
+ },
+ "relationships": [
+  {
+   "id": "44eb1caf-7c7a-4976-81e0-9a1043d694ab",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 大石まさる\n\n**Other Romanization:** Ohishi Masaru\n\n**18+ Alias:** YUMENO-Z (夢ノ二)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ooishi Masaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ohishimasaru",
+    "updatedAt": "2024-12-20T06:00:38+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "44eb1caf-7c7a-4976-81e0-9a1043d694ab",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 大石まさる\n\n**Other Romanization:** Ohishi Masaru\n\n**18+ Alias:** YUMENO-Z (夢ノ二)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ooishi Masaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ohishimasaru",
+    "updatedAt": "2024-12-20T06:00:38+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6bd5fcb8-b8b9-4859-aa2a-200a3be29a12",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-21T08:36:20+00:00",
+    "description": "",
+    "fileName": "8f5f376d-467d-4798-b3a2-cc66961fb623.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-21T08:36:20+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

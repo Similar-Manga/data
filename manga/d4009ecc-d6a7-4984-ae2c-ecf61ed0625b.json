@@ -1,0 +1,169 @@
+{
+ "id": "d4009ecc-d6a7-4984-ae2c-ecf61ed0625b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Country Life With the Sexy Majesty"
+  },
+  "altTitles": [
+   {
+    "ko": "섹시한 폐하와 함께하는 전원생활"
+   },
+   {
+    "en": "Country Life With the Sexy Emperor"
+   }
+  ],
+  "description": {
+   "en": "The moment my engagement with my human trash fiancé was annulled, memories from my past life returned. I was formerly a hardworking agriculture researcher and a woman who went to farming college! After getting chased out of my family, I decided to stick to my strengths and live a worry-free and comfortable life while farming, but...\n\n\"That's my sword.\"\n\"No, it's my hoe?\"\n\"It's my sword!\"\n\"I told you, it's my hoe!\"\n\nSuddenly, a beautiful blond man—who looked perfectly fine on the outside—appeared to take the hoe I picked up from the ground away from me! This is the start of a farming romance where we'll meet our loved ones as well as pick mulberries (kill two birds with one stone)~"
+  },
+  "links": {
+   "mal": "177470",
+   "mu": "gu9onse",
+   "raw": "https://page.kakao.com/content/65707399"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "1b7dc685-077d-4138-9c17-8f8212363b96",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-26T14:45:54+00:00",
+  "updatedAt": "2024-12-29T20:04:42+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4a9da8c8-aa12-4de5-a0bd-2647e8e8fe9f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-26T13:48:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Lee Ru-i",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-26T13:48:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1228cd8d-5b96-4052-876e-203f3e2cbaf1",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-26T13:55:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Seollam",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-26T13:55:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2dd5c624-0085-4c90-bc9d-7ae9c18b8b60",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-26T14:45:56+00:00",
+    "description": "",
+    "fileName": "b9419632-25ba-414a-816b-ddfd176e10de.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-12-26T14:45:56+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "165d938b-5915-4ff6-9a27-a32b47af7c94",
+   "type": "creator"
+  }
+ ]
+}

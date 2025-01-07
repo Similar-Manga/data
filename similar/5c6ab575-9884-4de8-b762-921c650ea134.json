@@ -6,20 +6,15 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "dd3b2ae5-ccef-4791-bcf8-c8f2f1305902",
-   "title": {
-    "en": "Machi no Honya no Goshoyama-san"
-   },
-   "contentRating": "safe",
-   "score": 0.32698798
-  },
-  {
    "id": "b9fdf429-5cca-46d8-9022-7d84be8947ef",
    "title": {
     "en": "Otakon no Susume!"
    },
    "contentRating": "safe",
-   "score": 0.3247825
+   "score": 0.32444042,
+   "languages": [
+    "es-la"
+   ]
   },
   {
    "id": "97256c94-29ef-4a77-ac73-761728e3032d",
@@ -27,7 +22,7 @@
     "en": "Menchi Kitte, Koi."
    },
    "contentRating": "safe",
-   "score": 0.30447924
+   "score": 0.30428404
   },
   {
    "id": "c44b3e3b-a7e0-4101-b43a-6d58768e7726",
@@ -35,7 +30,7 @@
     "en": "Ten yori Takaku"
    },
    "contentRating": "safe",
-   "score": 0.29803824,
+   "score": 0.29802656,
    "languages": [
     "pt-br",
     "en"
@@ -47,7 +42,7 @@
     "en": "Comic Master J"
    },
    "contentRating": "safe",
-   "score": 0.29760385,
+   "score": 0.29747757,
    "languages": [
     "en"
    ]
@@ -58,20 +53,7 @@
     "en": "Shita no Kai ni Sundeiru Hikikomori Bishojo wa Ote Jimusho no Shinjin Vtuber Deshita"
    },
    "contentRating": "safe",
-   "score": 0.29463834
-  },
-  {
-   "id": "e2666e73-8823-403a-87c3-f89f556bc2c9",
-   "title": {
-    "en": "Kinyoubi wa Atelier de"
-   },
-   "contentRating": "safe",
-   "score": 0.29376236,
-   "languages": [
-    "en",
-    "zh-hk",
-    "pt-br"
-   ]
+   "score": 0.2927331
   },
   {
    "id": "b1a6ffb2-7dab-40ab-bc0f-908cecdc42b4",
@@ -79,7 +61,7 @@
     "en": "Nico Nicholson no Manga Doujouyaburi"
    },
    "contentRating": "safe",
-   "score": 0.29277483,
+   "score": 0.29237625,
    "languages": [
     "en"
    ]
@@ -90,7 +72,7 @@
     "en": "Wagahai no Kare wa Baka de aru"
    },
    "contentRating": "safe",
-   "score": 0.2923769,
+   "score": 0.29237396,
    "languages": [
     "en",
     "vi"
@@ -102,20 +84,31 @@
     "en": "Kasumisou no Mangaka Shibou-tachi"
    },
    "contentRating": "safe",
-   "score": 0.2858667
+   "score": 0.28548896
   },
   {
-   "id": "a010b62b-0ea6-4f7e-b7f3-3bd719a530c0",
+   "id": "79132cf3-9137-43ab-9522-41277e394f28",
    "title": {
-    "en": "Takumashi-san wa Mainichi Saikyou"
+    "en": "Himote no Gimon ni Kotaeru Hon"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "5dc5917b-01f7-4f24-baee-17b515c888f9",
+   "title": {
+    "en": "Shimokitazawa Backyard Story"
    },
    "contentRating": "safe",
    "score": 0.2851258
   },
   {
-   "id": "cf381a3d-ece9-4ae7-a693-96a49a69908a",
+   "id": "dc06f388-f2aa-4df7-96c7-82c271464e94",
    "title": {
-    "en": "Tamariba"
+    "en": "Mozuku, Walking!"
    },
    "contentRating": "safe",
    "score": 0.2851258,
@@ -135,32 +128,40 @@
    ]
   },
   {
-   "id": "1fc13c46-42b4-44af-964c-6112a58567be",
-   "title": {
-    "en": "Hadaka de Koi o Katarunaka"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258
-  },
-  {
-   "id": "79132cf3-9137-43ab-9522-41277e394f28",
-   "title": {
-    "en": "Himote no Gimon ni Kotaeru Hon"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
    "id": "08fa4925-fa3d-499c-ac5f-07025ac8438a",
    "title": {
     "en": "Sono Unmei wa Uranaenai!"
    },
    "contentRating": "safe",
    "score": 0.2851258
+  },
+  {
+   "id": "1fc13c46-42b4-44af-964c-6112a58567be",
+   "title": {
+    "en": "Hadaka de Koi o Katarunaka"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
+   "id": "672a9834-15a0-466f-85db-d8309bd0a85c",
+   "title": {
+    "en": "Amael-san mo Amaetai"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
+  },
+  {
+   "id": "a010b62b-0ea6-4f7e-b7f3-3bd719a530c0",
+   "title": {
+    "en": "Takumashi-san wa Mainichi Saikyou"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
   }
  ],
- "updatedAt": "2024-12-01T21:12:12+00:00"
+ "updatedAt": "2025-01-06T00:18:48+00:00"
 }

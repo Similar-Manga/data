@@ -10,7 +10,9 @@
    "mu": "m1qau7d"
   },
   "originalLanguage": "id",
-  "status": "ongoing",
+  "lastVolume": "9",
+  "status": "completed",
+  "year": 2010,
   "contentRating": "safe",
   "tags": [
    {
@@ -22,6 +24,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -39,9 +53,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2023-02-11T01:51:00+00:00",
-  "updatedAt": "2023-02-11T11:35:11+00:00"
+  "updatedAt": "2024-12-31T05:30:31+00:00"
  },
  "relationships": [
   {

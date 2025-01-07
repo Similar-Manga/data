@@ -1,0 +1,147 @@
+{
+ "id": "22303502-c550-4520-8946-3be11fb7eb52",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Burst Shot Bottleman G"
+  },
+  "altTitles": [
+   {
+    "ja": "爆射ボトルマンＧ"
+   },
+   {
+    "ja-ro": "Bakusha Botoruman G"
+   }
+  ],
+  "description": {
+   "en": "part of the \"Cap Revolution Bottleman God Competition Start Guide Book\" appendix of the Corocoro Comic May 2023 issue."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/コロコロコミック編集部-ebook/dp/B0C23RS8F5?_encoding=UTF8\u0026sr="
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "1",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Traditional Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-18T18:12:41+00:00",
+  "updatedAt": "2024-12-18T18:17:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "200d2d6e-8f39-483f-a93e-46aa64fce5e2",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-18T18:09:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Haruma Tomono",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-18T18:09:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "200d2d6e-8f39-483f-a93e-46aa64fce5e2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-18T18:09:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Haruma Tomono",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-18T18:09:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6ce77425-5e16-41e1-901b-e3f41c581ed5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-18T18:12:44+00:00",
+    "description": "",
+    "fileName": "413fb7fd-ed93-40ab-9174-57aea81d9bc2.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-18T18:12:44+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f6c2644f-b38a-4b98-941c-2e52308ebd80",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

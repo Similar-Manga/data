@@ -6,17 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1d7ea8d7-f924-4f0b-aebe-da4303aa4dd3",
+   "title": {
+    "en": "The Band"
+   },
+   "contentRating": "safe",
+   "score": 0.35542068,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a69377ee-b842-45f8-983b-0b523b695880",
    "title": {
     "en": "Beat \u0026 Motion"
    },
    "contentRating": "safe",
-   "score": 0.2884594,
+   "score": 0.28844348,
    "languages": [
     "vi",
+    "en",
     "fr",
     "ru",
-    "en",
     "uk"
    ]
   },
@@ -26,7 +37,7 @@
     "en": "Kono Oto Tomare!"
    },
    "contentRating": "safe",
-   "score": 0.27562425,
+   "score": 0.27557665,
    "languages": [
     "fr",
     "vi",
@@ -45,9 +56,29 @@
     "en": "Bakushin Ojou-sama Dou!"
    },
    "contentRating": "safe",
-   "score": 0.2570071,
+   "score": 0.2569772,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
+   "title": {
+    "en": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "pt-br",
+    "it",
+    "zh",
+    "pl",
+    "fr",
+    "ga",
+    "es-la",
+    "vi",
+    "es"
    ]
   },
   {
@@ -62,31 +93,12 @@
    ]
   },
   {
-   "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
-   "title": {
-    "en": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "en",
-    "pt-br",
-    "it",
-    "zh",
-    "pl",
-    "fr",
-    "es-la",
-    "vi",
-    "es"
-   ]
-  },
-  {
    "id": "92d08045-b37a-4672-9eaf-1fbdda19113f",
    "title": {
     "en": "Bowing!"
    },
    "contentRating": "safe",
-   "score": 0.2555952,
+   "score": 0.2555499,
    "languages": [
     "en"
    ]
@@ -94,10 +106,10 @@
   {
    "id": "00a28555-7446-45a4-a8e5-3df049328f37",
    "title": {
-    "en": "Gakudan!"
+    "en": "School!"
    },
    "contentRating": "safe",
-   "score": 0.24524386,
+   "score": 0.24553502,
    "languages": [
     "en"
    ]
@@ -108,7 +120,7 @@
     "en": "Welcome to the Ballroom"
    },
    "contentRating": "safe",
-   "score": 0.2416933,
+   "score": 0.24170165,
    "languages": [
     "en",
     "pt-br",
@@ -133,7 +145,8 @@
     "ru",
     "pt-br",
     "tr",
-    "fr"
+    "fr",
+    "ar"
    ]
   },
   {
@@ -142,23 +155,10 @@
     "en": "Fairway no Koe wo Kikasete"
    },
    "contentRating": "safe",
-   "score": 0.23960668,
+   "score": 0.23961115,
    "languages": [
     "zh-hk",
     "en"
-   ]
-  },
-  {
-   "id": "9eb4d865-ac1c-4bd6-a61e-2a0f583ecf52",
-   "title": {
-    "en": "Existential Unplugged"
-   },
-   "contentRating": "safe",
-   "score": 0.23804827,
-   "languages": [
-    "en",
-    "ru",
-    "es-la"
    ]
   },
   {
@@ -167,7 +167,7 @@
     "en": "Ikusaba Animation"
    },
    "contentRating": "safe",
-   "score": 0.23469798,
+   "score": 0.23469312,
    "languages": [
     "en",
     "fr"
@@ -179,7 +179,7 @@
     "en": "Zessyaka!"
    },
    "contentRating": "safe",
-   "score": 0.23403674,
+   "score": 0.23401532,
    "languages": [
     "en"
    ]
@@ -190,7 +190,7 @@
     "en": "Korogaru Kyoudai"
    },
    "contentRating": "safe",
-   "score": 0.23265,
+   "score": 0.23265752,
    "languages": [
     "en"
    ]
@@ -201,7 +201,7 @@
     "en": "Welcome to the Competitive Dance Club"
    },
    "contentRating": "safe",
-   "score": 0.23097584,
+   "score": 0.23098528,
    "languages": [
     "en"
    ]
@@ -212,7 +212,7 @@
     "en": "Hoshi ni Negai wo"
    },
    "contentRating": "safe",
-   "score": 0.23016402,
+   "score": 0.23012696,
    "languages": [
     "en",
     "pl",
@@ -223,5 +223,5 @@
    ]
   }
  ],
- "updatedAt": "2024-12-01T21:04:25+00:00"
+ "updatedAt": "2025-01-06T00:09:36+00:00"
 }

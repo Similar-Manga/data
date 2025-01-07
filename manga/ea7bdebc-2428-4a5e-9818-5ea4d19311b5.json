@@ -1,0 +1,145 @@
+{
+ "id": "ea7bdebc-2428-4a5e-9818-5ea4d19311b5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Dungeon Haishin wo Kiriwasurerta Yuumei Haishinsha wo Tasuketara, Densetsu no Tansakusha toshite Bazuri Hajimeta ~Inkya no Ore, Nazo Skill da to Omotteita \"Rule Mushi\" de Ukkari Musou~"
+  },
+  "altTitles": [
+   {
+    "ja": "ダンジョン配信を切り忘れた有名配信者を助けたら、伝説の探索者としてバズりはじめた ～陰キャの俺、謎スキルだと思っていた《ルール無視》でうっかり無双～（コミック）"
+   }
+  ],
+  "description": {
+   "ja": "高校二年生の霧島筑紫は、下級生にも馬鹿にされる生粋の陰キャ。《ルール無視》という謎スキルを授かるが、使い道がわからず、学生としても探索者としても燻っていた。ある日、彼はダンジョンで有名配信者・綾月ミルと出会う。ダンジョンに突如出現する強敵「緊急モンスター」の配信が目当てのミルは、その強さに大苦戦！命の危機に陥る。筑紫が助けに入ろうとした刹那、謎スキル《ルール無視》が覚醒し――。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DNK893HM",
+   "bw": "series/503397",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/869069",
+   "mal": "173397",
+   "mu": "yywbpr2",
+   "raw": "https://gaugau.futabanet.jp/list/work/652906cca53aefb298000001"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-03T18:53:21+00:00",
+  "updatedAt": "2025-01-03T18:53:36+00:00"
+ },
+ "relationships": [
+  {
+   "id": "981de3d2-301e-44f2-b69c-1c62cd6df312",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Native name: 昼行燈"
+    },
+    "booth": null,
+    "createdAt": "2022-06-23T14:01:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hiru Andon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/Hiruandon_sann",
+    "updatedAt": "2023-03-30T06:08:11+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d50fc492-35f1-4e64-8211-3cff8115ec03",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-03T18:48:37+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "YOUTwo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-03T18:48:37+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cbfae41d-8a08-4182-81ad-d1a491d15ddb",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-03T18:53:31+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "2800f54f-8c99-46e4-99c3-0c225bc6cee9.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-03T18:53:31+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

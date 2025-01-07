@@ -13,13 +13,29 @@
   "description": {
    "en": "a 2003 manga volume collecting 3 manga stories published from 1989 to 1991. Each story focuses on the 11 Kamen Riders with Black RX as the main character"
   },
+  "links": {
+   "raw": "https://archive.org/details/kamen-rider-senki"
+  },
   "originalLanguage": "ja",
   "lastVolume": "1",
+  "lastChapter": "40",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 1989,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
@@ -34,9 +50,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2023-03-29T21:38:08+00:00",
-  "updatedAt": "2023-03-29T21:38:21+00:00"
+  "updatedAt": "2025-01-05T05:56:55+00:00"
  },
  "relationships": [
   {

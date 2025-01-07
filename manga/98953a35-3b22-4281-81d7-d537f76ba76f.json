@@ -7,18 +7,24 @@
   },
   "altTitles": [
    {
-    "en": "Caramel Kitsch Flying Column"
+    "ja": "カラメルキッチュ遊撃隊"
    },
    {
-    "ja": "カラメルキッチュ遊撃隊"
+    "ja": "Caramel Kitsch flying column"
+   },
+   {
+    "en": "Caramel Kitsch Commando Unit"
+   },
+   {
+    "en": "Caramel Kitsch Flying Column"
    }
   ],
   "description": {
-   "en": "One day, a blue moon appeared, and all the cities and most of the people disappeared. Now the children that have been born since then are 13! The tale of the strange and slightly painful days of three middle school girls in the countryside."
+   "en": "One day, a blue moon appeared and all cities and most people disappeared. Now, the children that have been born since then are 13! The tale of the strange and slightly painful days of three middle school girls in the countryside."
   },
   "links": {
    "al": "76964",
-   "amz": "https://www.amazon.co.jp/gp/product/B074CHJMQN",
+   "amz": "https://www.amazon.co.jp/dp/B074CHJMQN",
    "ap": "caramel-kitsch-yuugekitai",
    "bw": "series/7422",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/249009/",
@@ -30,6 +36,7 @@
   "lastVolume": "3",
   "publicationDemographic": "seinen",
   "status": "completed",
+  "year": 2012,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -49,6 +56,30 @@
     }
    },
    {
+    "id": "9467335a-1b83-4497-9231-765337a00b96",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Post-Apocalyptic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -62,16 +93,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2018-06-11T12:59:13+00:00",
-  "updatedAt": "2022-02-13T18:32:51+00:00"
+  "updatedAt": "2024-12-21T07:09:13+00:00"
  },
  "relationships": [
   {
    "id": "44eb1caf-7c7a-4976-81e0-9a1043d694ab",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 大石まさる\n\n**Other Romanization:** Ohishi Masaru\n\n**18+ Alias:** YUMENO-Z (夢ノ二)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -85,9 +118,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ohishimasaru",
+    "updatedAt": "2024-12-20T06:00:38+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -97,7 +130,9 @@
    "id": "44eb1caf-7c7a-4976-81e0-9a1043d694ab",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 大石まさる\n\n**Other Romanization:** Ohishi Masaru\n\n**18+ Alias:** YUMENO-Z (夢ノ二)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -111,25 +146,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ohishimasaru",
+    "updatedAt": "2024-12-20T06:00:38+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "09f1c217-7169-4f53-98c2-e707f19c75db",
+   "id": "e1d5448c-2f6f-4c5f-a16e-798c434a9cf6",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:37:12+00:00",
+    "createdAt": "2024-12-20T15:46:29+00:00",
     "description": "",
-    "fileName": "87a3e698-21b8-4509-98d6-04a93a685b58.jpg",
+    "fileName": "e62d7f9c-c26c-4991-9b42-4475b158d940.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:37:12+00:00",
+    "updatedAt": "2024-12-20T15:46:29+00:00",
     "version": 1,
-    "volume": null
+    "volume": "3"
    }
   }
  ]

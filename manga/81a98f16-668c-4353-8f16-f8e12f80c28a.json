@@ -1,0 +1,161 @@
+{
+ "id": "81a98f16-668c-4353-8f16-f8e12f80c28a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Monochrome no Futari"
+  },
+  "altTitles": [
+   {
+    "ja": "モノクロのふたり"
+   },
+   {
+    "en": "Monochrome Days"
+   }
+  ],
+  "description": {
+   "ja": "仕事熱心なサラリーマン・不動花壱。幼少期、絵を描くことが大好きだった不動は、母を喪ったことで絵で生きていく夢を諦め仕事一筋の生活を送っていた。そんなある日、営業成績1位の先輩・若葉が、職場で倒れているところに出くわす。趣味で漫画を描いているという若葉は、睡眠不足と実力不足で限界状態。不動はそんな彼女に漫画を描くのを手伝ってほしいと迫られ…!?　諦めた夢を、ふたりでもう一度。"
+  },
+  "links": {
+   "al": "182911",
+   "amz": "https://www.amazon.co.jp/dp/B0DMTK7HD6",
+   "ap": "monochrome-days",
+   "bw": "series/497864",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/866657",
+   "kt": "73227",
+   "mal": "175237",
+   "mu": "xjm22bv",
+   "raw": "https://shonenjumpplus.com/episode/17106567255706134238"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-11T22:08:14+00:00",
+  "updatedAt": "2024-12-11T22:09:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "770ab095-0d6d-48ea-8e48-57a9ce2040b1",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-11T22:06:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Matsumoto Yosuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-11T22:06:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "770ab095-0d6d-48ea-8e48-57a9ce2040b1",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-11T22:06:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Matsumoto Yosuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-11T22:06:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a3ee2d63-e6fa-4ca5-8433-e6e061072936",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-11T22:08:19+00:00",
+    "description": "Volume 1 Cover from BookWalker",
+    "fileName": "29168e44-dcc9-480d-b0fb-e85d04b1fcea.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-11T22:08:19+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

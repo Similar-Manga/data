@@ -1,0 +1,123 @@
+{
+ "id": "77c76bcd-fe98-4ec5-9a73-028b64b11da5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Fitness Juushoku"
+  },
+  "altTitles": [
+   {
+    "en": "Temple of Gains"
+   },
+   {
+    "ja": "フィットネス住職"
+   }
+  ],
+  "description": {
+   "en": "“My shoulder feels heavy, and my body feels like something is weighing me down…? The chief priest at the temple preached about the importance of training and eating habits?! You will see the true form of muscle training…!”\n\nSource: MangaPlus"
+  },
+  "links": {
+   "engtl": "https://mangaplus.shueisha.co.jp/titles/100413",
+   "mal": "177600",
+   "raw": "https://shonenjumpplus.com/episode/17106567262008970517"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2025,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "736cfe9d-137b-4abb-ada5-ad67256a434e",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-03T23:10:08+00:00",
+  "updatedAt": "2025-01-04T16:18:28+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d3212560-cd86-410f-b2d0-1b323c22eff9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-03T23:09:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nezukuma",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-03T23:09:46+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d3212560-cd86-410f-b2d0-1b323c22eff9",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-03T23:09:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nezukuma",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-03T23:09:46+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bf183f3c-8afb-4f86-8af1-9668c4098270",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-03T23:10:11+00:00",
+    "description": "",
+    "fileName": "59a6af21-677d-43ae-a200-9fa0a6bab1ee.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-03T23:10:11+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f56aa6ad-6e44-4018-8a3d-43aaa00bc383",
+   "type": "creator"
+  }
+ ]
+}

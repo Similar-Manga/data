@@ -1,0 +1,165 @@
+{
+ "id": "e764c34e-fadd-425e-89af-36dd61837bf7",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Miss Downer Plays"
+  },
+  "altTitles": [
+   {
+    "ja": "ダウナーお姉さんは遊びたい"
+   },
+   {
+    "ja-ro": "Dauna-Onee San-na Asobi Tai"
+   }
+  ],
+  "description": {
+   "en": "\"What shall we play with today, young one?\" - with these words the worn down looking Older Woman accosts the Grade School protagonist into yet another playful game. \nWith her nostalgic Toys: From Beyblades to Yo-Yo's to modern eccentricities like Yo-Kai Watch and Duel Masters she'll one up anyone twice her junior in the ways of Play and Enjoyment, \na silly comedy about having Fun at any age!"
+  },
+  "links": {
+   "raw": "https://www.corocoro.jp/title/149"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Traditional Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Video Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-31T23:59:59+00:00",
+  "updatedAt": "2025-01-01T00:26:41+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d7b9a799-2a1e-4805-919d-b26918ac65a6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-31T23:56:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kei Yamadaka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-31T23:56:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d7b9a799-2a1e-4805-919d-b26918ac65a6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-31T23:56:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kei Yamadaka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-31T23:56:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "33b4a9d8-2460-45ee-b99a-1dfb52dbb651",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-01T00:00:02+00:00",
+    "description": "",
+    "fileName": "660d38ff-a228-4581-8e46-6d027259ef28.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-01T00:00:02+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "9a4408df-f9cc-4bca-b734-ac49fbdb81e7",
+   "type": "creator"
+  }
+ ]
+}

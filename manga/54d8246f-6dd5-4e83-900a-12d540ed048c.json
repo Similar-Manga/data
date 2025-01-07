@@ -3,16 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Shouai no Souvenir"
+   "en": "Beloved Souvenir"
   },
   "altTitles": [
    {
-    "en": "鍾愛のスーヴェニール"
+    "ja": "鍾愛のスーヴェニール"
+   },
+   {
+    "ja-ro": "Shouai no Souvenir"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "links": {
    "mu": "142455"
   },
@@ -47,9 +48,9 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2019-12-18T07:28:50+00:00",
-  "updatedAt": "2019-12-18T07:28:50+00:00"
+  "updatedAt": "2024-12-10T04:14:58+00:00"
  },
  "relationships": [
   {

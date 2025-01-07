@@ -1,0 +1,181 @@
+{
+ "id": "0852775a-a56f-4205-b7a1-007fb3850325",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Seijo Sensei no Mahou wa Susunderu!"
+  },
+  "altTitles": [
+   {
+    "ja": "聖女先生の魔法は進んでる！"
+   },
+   {
+    "en": "The Saint Teacher's Witchcraft is Progressive!"
+   }
+  ],
+  "description": {
+   "en": "Despite being the most powerful saint, Tia was accused of being a heretic and banished from the royal capital. She became the teacher for three girls who had failed as candidate saints."
+  },
+  "links": {
+   "mal": "177394"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "d2f6a2e2-dd08-4a50-9b53-ed6ded3ab7a3",
+  "tags": [
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-19T11:26:56+00:00",
+  "updatedAt": "2024-12-27T17:26:35+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a5ba0162-5882-4287-9e21-38bb7ac35dd9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Karasu Piero",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/piero_BBT",
+    "updatedAt": "2023-03-27T18:53:19+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f4162212-68f0-4c8f-a3ee-6edce1b93a70",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-19T11:19:13+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shimadzu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-19T11:19:13+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1252fb78-e4e0-427b-bfb3-b346d0ea57e1",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-26T18:57:48+00:00",
+    "description": "",
+    "fileName": "7efbe419-a066-437f-ad37-22d405392c8c.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-26T18:57:48+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "7fd02acb-c553-4de7-baa1-6cccf99e7d20",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "id": "5444f8c7-aca8-4eba-9414-0e1cfeb176c6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Iranai Akuyaku Reijō, Wagakuni de Hikitorimasu wa Yūshūna go Reijōkata o Tsuihō da Nante Orokana Mane, Kuni o Horoboshimashite yo?"
+  },
+  "altTitles": [
+   {
+    "ja": "要らない悪役令嬢、我が国で引き取りますわ　優秀なご令嬢方を追放だなんて愚かな真似、国を滅ぼしましてよ？"
+   },
+   {
+    "en": "We'll take the unwanted villainesses, and we'll take her back to our own country."
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/506174/list",
+   "raw": "https://gammaplus.takeshobo.co.jp/manga/iranai_reijo/"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "d14322ac-4d6f-4e9b-afd9-629d5f4d8a41",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Villainess"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-03T04:19:30+00:00",
+  "updatedAt": "2025-01-03T04:23:05+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6a7a176d-e803-4a33-a40e-f327b7e313c9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-03T04:16:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ryouga",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-03T04:16:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0f61c4bc-0814-4d31-9485-4e38a151429e",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nDasoku Sentaro\n蛇足せんたろう\n\n**Circle**: Dasokutei (蛇足亭)"
+    },
+    "booth": null,
+    "createdAt": "2022-04-02T15:45:21+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Dasoku Sentarou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/354276",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/s_dasoku",
+    "updatedAt": "2022-04-14T13:29:57+00:00",
+    "version": 2,
+    "website": "http://dasokutei.blog11.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5170496f-53b1-49e6-95a6-5dcdf7da648b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-03T04:19:40+00:00",
+    "description": "",
+    "fileName": "f8d89261-53ec-4eda-a35f-0721e89620ab.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-03T04:19:40+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

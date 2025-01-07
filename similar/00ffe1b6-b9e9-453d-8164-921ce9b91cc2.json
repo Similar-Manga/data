@@ -1,7 +1,7 @@
 {
  "id": "00ffe1b6-b9e9-453d-8164-921ce9b91cc2",
  "title": {
-  "en": "Suimen Zakoukou Bunkasai"
+  "en": "Mizumenza High School Cultural Festival"
  },
  "contentRating": "safe",
  "matches": [
@@ -11,11 +11,19 @@
     "en": "Aranagi-sama"
    },
    "contentRating": "safe",
-   "score": 0.343508,
+   "score": 0.36231378,
    "languages": [
     "zh",
     "en"
    ]
+  },
+  {
+   "id": "c48aadc3-ca72-4669-bc81-c5ef114f1ca5",
+   "title": {
+    "en": "Hinageshi no Nemurihime"
+   },
+   "contentRating": "safe",
+   "score": 0.349476
   },
   {
    "id": "14eafbee-119f-4f0b-89d5-f03b67820f0c",
@@ -23,41 +31,9 @@
     "en": "Material Polka"
    },
    "contentRating": "safe",
-   "score": 0.33999163,
+   "score": 0.3469165,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "b94122f9-a161-45e2-a0d0-440798cab85f",
-   "title": {
-    "en": "All Last - Willow on the Back Road -"
-   },
-   "contentRating": "safe",
-   "score": 0.3395032
-  },
-  {
-   "id": "1c64514c-ebb0-4118-a690-700ba22c2a80",
-   "title": {
-    "en": "Beautiful Place"
-   },
-   "contentRating": "safe",
-   "score": 0.33422542,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a6b7f9e1-11d8-4a76-ac77-7c37baf24be0",
-   "title": {
-    "en": "Toumei Otoko to Ningen Onna"
-   },
-   "contentRating": "safe",
-   "score": 0.33279946,
-   "languages": [
-    "en",
-    "pt-br",
-    "ru"
    ]
   },
   {
@@ -66,7 +42,7 @@
     "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.33155954,
+   "score": 0.34143803,
    "languages": [
     "vi",
     "en",
@@ -76,51 +52,110 @@
    ]
   },
   {
-   "id": "193f91a0-51ef-4653-b3d7-a3f75c42ee9b",
+   "id": "b94122f9-a161-45e2-a0d0-440798cab85f",
    "title": {
-    "en": "Ame to Kimi to"
+    "en": "All Last - Willow on the Back Road -"
    },
    "contentRating": "safe",
-   "score": 0.32797363,
+   "score": 0.33999056
+  },
+  {
+   "id": "d9f978bd-ecc7-4df7-ba56-de22fede8874",
+   "title": {
+    "en": "Turkey's Day of Food"
+   },
+   "contentRating": "safe",
+   "score": 0.33983144,
    "languages": [
-    "en",
-    "pl",
-    "ru",
-    "pt-br",
-    "id",
-    "fr",
-    "vi"
+    "tr",
+    "en"
    ]
   },
   {
-   "id": "64621c2e-54cf-49e6-a0fd-59a5aa35ddaf",
+   "id": "63274bf0-2fdb-49cc-a5a0-d737d9117043",
    "title": {
-    "en": "Child Soldier Zaza"
+    "en": "Megami no Oni"
    },
    "contentRating": "safe",
-   "score": 0.32765907
+   "score": 0.339239
   },
   {
-   "id": "9dca479b-0a9a-4128-9b88-509ff418762d",
+   "id": "1c64514c-ebb0-4118-a690-700ba22c2a80",
    "title": {
-    "en": "Greenfingers no Hakoniwa"
+    "en": "Beautiful Place"
    },
    "contentRating": "safe",
-   "score": 0.32735974,
-   "languages": [
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "87fb264d-027d-4418-91fa-473561b1bbd5",
-   "title": {
-    "en": "The Message in the Rain Shower"
-   },
-   "contentRating": "safe",
-   "score": 0.32609272,
+   "score": 0.33778843,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3848db4c-eed2-4a21-be08-0fb12c959a05",
+   "title": {
+    "en": "Kaidan"
+   },
+   "contentRating": "safe",
+   "score": 0.33742926
+  },
+  {
+   "id": "32585e76-ff5e-4383-b29e-684361dc7149",
+   "title": {
+    "en": "Touma-kun wa Neratteru"
+   },
+   "contentRating": "safe",
+   "score": 0.33386716
+  },
+  {
+   "id": "a6b7f9e1-11d8-4a76-ac77-7c37baf24be0",
+   "title": {
+    "en": "Toumei Otoko to Ningen Onna"
+   },
+   "contentRating": "safe",
+   "score": 0.3331462,
+   "languages": [
+    "en",
+    "pt-br",
+    "ru"
+   ]
+  },
+  {
+   "id": "5a9153e4-ec0d-41a8-a3f2-6d0ff4be74a4",
+   "title": {
+    "en": "Like Shooting Stars in the Twilight"
+   },
+   "contentRating": "safe",
+   "score": 0.33158648
+  },
+  {
+   "id": "bc141315-814e-4cda-a822-486185fc171b",
+   "title": {
+    "en": "TimeTuber Yukari"
+   },
+   "contentRating": "safe",
+   "score": 0.3312665
+  },
+  {
+   "id": "f0b5463c-bc2f-4808-a7f6-6efe3edd083d",
+   "title": {
+    "en": "Poca Poca Taiwan!"
+   },
+   "contentRating": "safe",
+   "score": 0.32990587,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e1d6dd1c-5ceb-44f7-bfe6-f74199288b07",
+   "title": {
+    "en": "Saint☆Young Men"
+   },
+   "contentRating": "safe",
+   "score": 0.329524,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -129,70 +164,8 @@
     "en": "Gotama"
    },
    "contentRating": "safe",
-   "score": 0.3222085
-  },
-  {
-   "id": "944e796e-4201-46aa-86d0-e02e5f510901",
-   "title": {
-    "en": "JAGUAR"
-   },
-   "contentRating": "safe",
-   "score": 0.32200432,
-   "languages": [
-    "en",
-    "ru",
-    "it",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "9ed7759e-3a3e-4850-b1ef-0b039add6f75",
-   "title": {
-    "en": "Alien 9 Complete"
-   },
-   "contentRating": "safe",
-   "score": 0.32156175,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e2ff6606-4391-4286-93db-78f78297305f",
-   "title": {
-    "en": "Captain Tsubasa - Rising Sun"
-   },
-   "contentRating": "safe",
-   "score": 0.32122928,
-   "languages": [
-    "en",
-    "tr",
-    "vi"
-   ]
-  },
-  {
-   "id": "e81ea7de-f614-4652-83ed-3c29f77acb5e",
-   "title": {
-    "en": "Vampir"
-   },
-   "contentRating": "safe",
-   "score": 0.32018444,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "704cfedf-fc43-4c0c-aa96-8dac5410bfda",
-   "title": {
-    "en": "Comic SK8 the Infinity"
-   },
-   "contentRating": "safe",
-   "score": 0.3197674,
-   "languages": [
-    "pt-br",
-    "uk",
-    "en"
-   ]
+   "score": 0.32929558
   }
  ],
- "updatedAt": "2024-12-01T20:41:38+00:00"
+ "updatedAt": "2025-01-05T23:41:50+00:00"
 }

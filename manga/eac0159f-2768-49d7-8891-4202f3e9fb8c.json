@@ -59,7 +59,7 @@
    "zh",
    "pt-br"
   ],
-  "latestUploadedChapter": "bf9edc72-ab25-42a5-ad91-422709f7459e",
+  "latestUploadedChapter": "413a9d57-5709-40cc-9012-f842bcab1dd6",
   "tags": [
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
@@ -82,6 +82,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -123,9 +135,9 @@
    }
   ],
   "state": "published",
-  "version": 20,
+  "version": 21,
   "createdAt": "2023-02-18T19:40:06+00:00",
-  "updatedAt": "2024-10-31T02:00:34+00:00"
+  "updatedAt": "2024-12-18T18:39:07+00:00"
  },
  "relationships": [
   {

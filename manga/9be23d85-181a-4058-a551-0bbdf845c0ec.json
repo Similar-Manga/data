@@ -1,0 +1,142 @@
+{
+ "id": "9be23d85-181a-4058-a551-0bbdf845c0ec",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "120 Points and Better Than You"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "Datte watashi, 120-tenda mono."
+   },
+   {
+    "ja": "だってワタシ、120点だもの。"
+   }
+  ],
+  "description": {
+   "en": "Misaki is a young woman who scores everything with points and loves to one-up others. Upon reuniting with a woman that she used to look down on as a child, the foundations of her vain, 120-point life begin to crack…"
+  },
+  "links": {
+   "engtl": "https://coolmic.me/titles/2400",
+   "raw": "https://www.dlsite.com/comic/work/=/product_id/BJ718561.html"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-11T20:59:00+00:00",
+  "updatedAt": "2024-12-12T17:44:56+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7e7cdd32-c1db-419f-b28f-833f2724a42c",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-12-07T02:43:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motoo Miyuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-12-07T02:43:54+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7e7cdd32-c1db-419f-b28f-833f2724a42c",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-12-07T02:43:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motoo Miyuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-12-07T02:43:54+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "056ebdd9-f084-49e0-a2b1-5899bff8ab3c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-11T20:59:08+00:00",
+    "description": "",
+    "fileName": "40c05219-d67b-41ff-b1e9-56458c80e7eb.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-11T20:59:08+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "e3dc2a88-5b0e-4f25-bb01-3edf6e8916f4",
+   "type": "creator"
+  }
+ ]
+}

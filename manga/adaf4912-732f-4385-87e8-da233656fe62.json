@@ -14,18 +14,18 @@
    }
   ],
   "description": {
-   "en": "From Miyagi to the bustling life of a Tokyo high school, Machi Nishina wanted anything but the ordinary. Her wish is granted in the most unexpected way when she encounters Oboro Kasumi, a classmate harboring a secret, who ends up following her home...?! A new era of friendship and youthful comedy unfolds!",
-   "ja": "平凡な人生を送る事を恐れていた仁科真知は、父の勧めで東京に出る事をこれ幸いとばかりに承諾する。東京の高校へと進学し、真知は一人暮らしを開始！　だが、自称忍者の同級生・香住朧と出会い、彼女の人生は変化して!?",
+   "en": "From Miyagi to the bustling life of a Tokyo high school, Machi Nishina wanted anything but the ordinary. Her wish is granted in the most unexpected way when she encounters Oboro Kasumi, a classmate harboring a secret, who ends up following her home...?!",
+   "ja": "平凡な人生を送る事を恐れていた仁科真知は、父の勧めで東京に出る事をこれ幸いとばかりに承諾する。東京の高校へと進学し、真知は一人暮らしを開始！だが、自称忍者の同級生・香住朧と出会い、彼女の人生は変化して!?",
    "pt-br": "De Miyagi à vida agitada de uma escola secundária de Tóquio, Machi Nishina queria tudo menos o comum. Seu desejo é atendido da forma mais inesperada quando ela encontra Oboro Kasumi, um colega de classe que guarda um segredo, que acaba seguindo sua casa...?! Uma nova era de amizade e comédia juvenil se desenrola!"
   },
   "links": {
    "al": "176954",
    "amz": "https://www.amazon.co.jp/dp/B0D1CHBFKS",
    "ap": "machi-and-oboro",
-   "bw": "series/477822/list",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/843832/",
+   "bw": "series/477822",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/843832",
    "engtl": "https://mangaplus.shueisha.co.jp/titles/100315",
-   "kt": "machi-and-oboro",
+   "kt": "71701",
    "mal": "169229",
    "mu": "9s0lq4w",
    "raw": "https://shonenjumpplus.com/episode/17106371852950441679"
@@ -40,7 +40,7 @@
    "en",
    "vi"
   ],
-  "latestUploadedChapter": "a101e0e2-b273-457b-a883-e888171ad902",
+  "latestUploadedChapter": "66ce4999-954f-41d5-b9c2-b906a8e908f5",
   "tags": [
    {
     "id": "489dd859-9b61-4c37-af75-5b18e88daafc",
@@ -77,12 +77,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 14,
+  "version": 15,
   "createdAt": "2024-04-02T16:07:18+00:00",
-  "updatedAt": "2024-11-02T11:25:45+00:00"
+  "updatedAt": "2024-12-05T00:01:10+00:00"
  },
  "relationships": [
   {
@@ -103,9 +115,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-01-15T12:50:57+00:00",
-    "version": 2,
+    "twitter": "https://twitter.com/ishitoyuhra",
+    "updatedAt": "2024-12-04T15:22:39+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -129,25 +141,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-01-15T12:50:57+00:00",
-    "version": 2,
+    "twitter": "https://twitter.com/ishitoyuhra",
+    "updatedAt": "2024-12-04T15:22:39+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "7e64f5cd-50ad-4fc7-bc08-e6b437110820",
+   "id": "4adc5c36-91bc-46a3-a4e6-d5b26d1c465f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-08-04T15:41:18+00:00",
+    "createdAt": "2024-12-04T15:20:06+00:00",
     "description": "",
-    "fileName": "3fb5c0a5-b911-48b2-bdb6-67b4afe466ec.jpg",
+    "fileName": "b3424f51-0af8-4ca5-bce4-c628d834150f.jpg",
     "locale": "ja",
-    "updatedAt": "2024-08-04T15:41:18+00:00",
+    "updatedAt": "2024-12-04T15:20:06+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

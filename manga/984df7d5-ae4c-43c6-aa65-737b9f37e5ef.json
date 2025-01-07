@@ -1,0 +1,138 @@
+{
+ "id": "984df7d5-ae4c-43c6-aa65-737b9f37e5ef",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "My Bias Gets On The Last Train"
+  },
+  "description": {
+   "en": "“Meeting her on the last train again today, if only I could talk to her!”\nCollege student Lee Yeowoon works late and takes the last train every night.\nEach time, he runs into Shin Haein, a woman carrying a guitar. As if by chance, as if by fate,\nthe two keep meeting and discover that their favorite artist is the indie musician “Long Afternoon.” They gradually grow closer and so the story began."
+  },
+  "links": {
+   "mu": "9t2tuko",
+   "raw": "https://comic.naver.com/webtoon/list?titleId=834896"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "id",
+   "en"
+  ],
+  "latestUploadedChapter": "119595e9-869a-4cd9-86a4-440c79ba7a59",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-15T10:14:39+00:00",
+  "updatedAt": "2024-12-17T19:21:10+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a61e5f5e-cb8a-4f32-b6cd-5a26b5f09d9b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-11-11T00:20:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "직씨",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-11-11T00:20:03+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a61e5f5e-cb8a-4f32-b6cd-5a26b5f09d9b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-11-11T00:20:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "직씨",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-11-11T00:20:03+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2de7bdda-2e51-420a-a7e8-c23f968a9449",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-15T10:14:40+00:00",
+    "description": "",
+    "fileName": "98bd7e38-799b-4291-ad14-778b63427108.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-12-15T10:14:40+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "49fdbc62-eeb4-46f3-8be5-71e265951d00",
+   "type": "creator"
+  }
+ ]
+}

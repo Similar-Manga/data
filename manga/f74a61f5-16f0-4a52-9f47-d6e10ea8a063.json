@@ -1,0 +1,156 @@
+{
+ "id": "f74a61f5-16f0-4a52-9f47-d6e10ea8a063",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Re:Connect - A Matching App Where Time Crosses"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "Re:Connect - Toki ga Kousa Suru Matching Appli"
+   },
+   {
+    "ja": "Re:コネクト 時が交差するマッチングアプリ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mu": "jiup1kr",
+   "raw": "https://jp.piccoma.com/web/product/171297"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "3bd15548-2b20-45f5-a6a7-4ac119071877",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-31T01:34:06+00:00",
+  "updatedAt": "2024-12-31T01:36:26+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4de7f91b-702f-4a45-b019-32ba005d1579",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-04-23T21:18:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Iamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-04-23T21:18:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4de7f91b-702f-4a45-b019-32ba005d1579",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-04-23T21:18:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Iamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-04-23T21:18:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "37ee0828-8ce1-44de-b11f-795ff1dc58a2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-31T01:34:21+00:00",
+    "description": "",
+    "fileName": "821be78b-128e-433e-905b-f70841554d9e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-31T01:34:21+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0b79d7be-f0b8-4c71-a8cb-bead0f91651d",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "A middle-aged man who returns from another world goes back to when he was 17 and becomes unbeatable"
+   "en": "A Middle-Aged Man Who Returns From Another World Goes Back to When He Was 17 and Becomes Unbeatable"
   },
   "altTitles": [
    {
@@ -11,20 +11,12 @@
    },
    {
     "ja-ro": "Isekai Kaeri no Arafour Riiman, 17-sai no Koro ni Modotte Musou suru"
-   },
-   {
-    "ja-ro": "Isekai Kaeri no Araforiman, 17-sai no Koro ni Modotte Musou Suru"
-   },
-   {
-    "ja-ro": "Isekai Kaeri no Arafo Ryman, 17-sai no Koro ni Modotte Musou suru"
-   },
-   {
-    "ja-ro": "Isekaigaeri no Around Forty Ryman, 17-sai no Koro ni Modotte Musousuru"
    }
   ],
   "description": {
-   "en": "A black company employee in his 40s, Namba Kazu, died of overwork and was reincarnated to another world. After saving the world, he returns to find himself regressed to his 17-year-old self. Kazu realizes that he can use the abilities he acquired from another world and is excited to restart his life over again. However, through the help of his childhood friend, Yui, he learns of the existence of “human eating abomination called Variant” in the world he was born in. Kazu knows from his past memories that Yui will die in the near future. In order to save Yui, who is on a mission to fight against variants, Kazu decided to throw himself into battle in this world as well.",
-   "es-la": "Kazu Nanba reencarnó después de la muerte por exceso de trabajo y salvó otro mundo. A la edad de 17 años en el otro mundo después de morir derrotando al rey demonio elije \"regresara a su mundo original\". Pensó que regresaría a su trabajo normal, pero regreso como un estudiante de secundaria de 17 años. Sin embargo ahora se entera que hay \"extrañas criaturas\" que matan humanos y donde Kazu recordara un recuerdo pasado donde su amiga de la infancia Yui morirá en un futuro cercano. Esta vez, para salvar a Yui, Kazu usará el poder de otro mundo para lanzarse también a la batalla en este mundo."
+   "en": "A black company employee in his 40s, Namba Kazu, died of overwork and was reincarnated to another world. After saving the world, he returns to find himself regressed to his 17-year-old self. \n\nKazu realizes that he can use the abilities he acquired from another world and is excited to restart his life over again. However, through the help of his childhood friend, Yui, he learns of the existence of human-eating abomination called Variant in the world he was born in. \n\nKazu knows from his past memories that Yui will die in the near future. In order to save Yui, who is on a mission to fight against variants, Kazu decided to throw himself into battle in this world as well.",
+   "es-la": "Kazu Nanba reencarnó después de la muerte por exceso de trabajo y salvó otro mundo. A la edad de 17 años en el otro mundo después de morir derrotando al rey demonio elije \"regresara a su mundo original\". Pensó que regresaría a su trabajo normal, pero regreso como un estudiante de secundaria de 17 años. Sin embargo ahora se entera que hay \"extrañas criaturas\" que matan humanos y donde Kazu recordara un recuerdo pasado donde su amiga de la infancia Yui morirá en un futuro cercano. Esta vez, para salvar a Yui, Kazu usará el poder de otro mundo para lanzarse también a la batalla en este mundo.",
+   "ja": "過労死で異世界に転生したアラフォーリーマンの難波カズ。17歳で異世界を救ったカズは、女神に「元の世界に戻してくれ」と願う。てっきり元のアラフォーリーマンに戻ると思っていたら、17歳の高校生に戻っていた。\n\nそれならばと気楽に90年代を満喫しようとしていたが、幼馴染みの由依をきっかけに『人間を喰う異形ヴァリアント』の存在を知り、カズは異世界チートを武器にこの世界でも戦いに身を投じていく…!"
   },
   "links": {
    "al": "151669",
@@ -45,9 +37,10 @@
   "year": 2022,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
+   "en",
    "es-la"
   ],
-  "latestUploadedChapter": "307c31d1-f041-4922-8a14-b8688b11b1a9",
+  "latestUploadedChapter": "e0bef42d-d525-4c6a-858c-0ddff25f4e97",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -55,6 +48,18 @@
     "attributes": {
      "name": {
       "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "292e862b-2d17-4062-90a2-0356caa4ae27",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Time Travel"
      },
      "description": {},
      "group": "theme",
@@ -183,9 +188,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 13,
   "createdAt": "2023-01-01T03:38:59+00:00",
-  "updatedAt": "2024-08-30T20:45:05+00:00"
+  "updatedAt": "2024-12-09T20:19:22+00:00"
  },
  "relationships": [
   {

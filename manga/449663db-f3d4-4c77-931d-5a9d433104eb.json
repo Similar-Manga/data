@@ -13,7 +13,9 @@
     "en": "Cute Justice"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "| Namespace | Tags |\n| :--- | :--- |\n| parody | original |\n| group | pish lover |\n| artist | amatake akewo |\n| male | ahegao, anal, big penis, blowjob, bondage, crossdressing, dark skin, exhibitionism, group, horse cock, magical girl, males only, mesuiki, mind break, monster, nakadashi, public use, rape, schoolboy uniform, shotacon, stuck in wall, tomgirl, x-ray, yaoi |\n| other | multi-work series |\n[Source](https://exhentai.org/g/579701/c48d3762b1/)"
+  },
   "links": {
    "al": "82317",
    "kt": "10989",
@@ -51,17 +53,105 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crossdressing"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "ddefd648-5140-4e5f-ba18-4eca4071d19b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Shota"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-06-24T09:13:00+00:00",
-  "updatedAt": "2023-09-05T11:51:18+00:00"
+  "updatedAt": "2024-12-14T08:10:44+00:00"
  },
  "relationships": [
   {
    "id": "2ae3c6f3-f174-4389-b104-927f2286da44",
    "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Pish Lover (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-03-11T15:08:06+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c3c8e589-16a2-4f70-bd1c-7d4a625a3df4",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amatake Akewo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2ae3c6f3-f174-4389-b104-927f2286da44",
+   "type": "artist",
    "attributes": {
     "biography": {},
     "booth": null,

@@ -1,0 +1,142 @@
+{
+ "id": "caebbccc-57c9-4f9e-b470-0a118bb4bb5c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "PuriFuri Banchou!"
+  },
+  "altTitles": [
+   {
+    "ja": "プリフリ番長！"
+   }
+  ],
+  "description": {},
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B081PDCLYH",
+   "mu": "mrn558x",
+   "raw": "https://renta.papy.co.jp/renta/sc/frm/item/167717/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Loli"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2025-01-04T08:52:46+00:00",
+  "updatedAt": "2025-01-04T08:58:02+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0f667f9d-927f-4308-bad5-2d7c07e4c1ff",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native Name:** 桜糀す甘\n\n**Associated Name:**\n- SUAMA"
+    },
+    "booth": null,
+    "createdAt": "2025-01-04T08:40:17+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sakurakouji Suama",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/suama0_0",
+    "updatedAt": "2025-01-04T08:41:37+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0f667f9d-927f-4308-bad5-2d7c07e4c1ff",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native Name:** 桜糀す甘\n\n**Associated Name:**\n- SUAMA"
+    },
+    "booth": null,
+    "createdAt": "2025-01-04T08:40:17+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sakurakouji Suama",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/suama0_0",
+    "updatedAt": "2025-01-04T08:41:37+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "db90eaf0-24dd-4a62-82c5-44369e9e9e37",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-04T08:57:24+00:00",
+    "description": "",
+    "fileName": "2439218e-b749-46f4-8dac-d2278be65367.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-04T08:57:24+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "f319d314-4310-4610-bcea-98c0128def1d",
+   "type": "creator"
+  }
+ ]
+}

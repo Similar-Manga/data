@@ -15,7 +15,8 @@
   },
   "links": {
    "amz": "https://www.amazon.co.jp/-/en/永井ゆうじ-ebook/dp/B0C4L4R3BY/ref=tmm_kin_swatch_0?_encoding=UTF8\u0026qid=\u0026sr=",
-   "bw": "de93c39158-a032-48a2-a345-7985b399c60c"
+   "bw": "de93c39158-a032-48a2-a345-7985b399c60c",
+   "raw": "https://www.corocoro.jp/title/107"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
@@ -61,9 +62,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2023-03-13T01:33:22+00:00",
-  "updatedAt": "2024-01-03T01:38:44+00:00"
+  "updatedAt": "2024-12-23T03:56:44+00:00"
  },
  "relationships": [
   {
@@ -119,17 +120,22 @@
    }
   },
   {
-   "id": "f64146a5-8b3e-4c6d-a7bb-ebb9d8a1678a",
+   "id": "fb80e4dd-33b0-4dd8-a584-5bd772cf00a9",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-01-03T01:38:43+00:00",
+    "createdAt": "2024-12-23T03:55:57+00:00",
     "description": "",
-    "fileName": "06a99b06-a233-44db-92bf-0e46e11862b8.png",
+    "fileName": "87f8bec8-1860-4fdf-b406-5c97732fbdd8.jpg",
     "locale": "ja",
-    "updatedAt": "2024-01-03T01:38:43+00:00",
+    "updatedAt": "2024-12-23T03:55:57+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "3"
    }
+  },
+  {
+   "id": "8fc14b99-0632-458a-bb63-815f35679bc6",
+   "type": "manga",
+   "related": "same_franchise"
   },
   {
    "id": "ecf379e6-bc34-42c4-b25d-63698875cdfb",

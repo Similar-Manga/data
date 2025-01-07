@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Isekai Cat and Grumpy Witch"
+   "en": "A Cat from Our World and the Forgotten Witch"
   },
   "altTitles": [
    {
@@ -13,7 +13,13 @@
     "ja-ro": "Isekai Neko to Fukigen na Majo"
    },
    {
-    "en": "A Cat from Our World and the Forgotten Witch"
+    "ja": "A Cat from our world and the Forgotten Witch"
+   },
+   {
+    "en": "The Otherworld Cat \u0026 The Grumpy Witch"
+   },
+   {
+    "en": "Isekai Cat and Grumpy Witch"
    }
   ],
   "description": {
@@ -21,8 +27,10 @@
   },
   "links": {
    "al": "138557",
-   "amz": "https://www.amazon.co.jp/-/-/dp/B0B2QP4X92",
-   "bw": "series/345087/list",
+   "amz": "https://www.amazon.co.jp/dp/B0B2QP4X92",
+   "ap": "a-cat-from-our-world-and-the-forgotten-witch",
+   "bw": "series/345087",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/689398/",
    "engtl": "https://sevenseasentertainment.com/series/a-cat-from-our-world-and-the-forgotten-witch/",
    "mal": "143297",
    "mu": "187925",
@@ -46,6 +54,18 @@
     "attributes": {
      "name": {
       "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
      },
      "description": {},
      "group": "theme",
@@ -78,9 +98,9 @@
    }
   ],
   "state": "published",
-  "version": 19,
+  "version": 21,
   "createdAt": "2022-01-19T14:10:03+00:00",
-  "updatedAt": "2024-10-31T23:58:32+00:00"
+  "updatedAt": "2024-12-12T03:17:13+00:00"
  },
  "relationships": [
   {

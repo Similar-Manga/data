@@ -79,6 +79,18 @@
     }
    },
    {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -116,9 +128,9 @@
    }
   ],
   "state": "published",
-  "version": 25,
+  "version": 26,
   "createdAt": "2023-02-28T21:40:23+00:00",
-  "updatedAt": "2024-11-28T00:48:38+00:00"
+  "updatedAt": "2024-12-12T07:11:50+00:00"
  },
  "relationships": [
   {

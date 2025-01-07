@@ -3,23 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Ace of Diamond - Act II"
+   "en": "Diamond no Ace: Act II"
   },
   "altTitles": [
    {
-    "ja-ro": "Daiya no A - Act II"
-   },
-   {
-    "ja-ro": "Diamond no Ace: Act II"
+    "ja-ro": "Daiya no A: Act II"
    },
    {
     "ru": "Путь аса - Акт II"
    },
    {
-    "ja": "ダイヤのA actⅡ"
+    "zh-hk": "鑽石王牌 actⅡ"
    },
    {
-    "zh-hk": "鑽石王牌 actⅡ"
+    "en": "Ace of the Diamond: Act II"
+   },
+   {
+    "ja": "ダイヤのA　actⅡ"
+   },
+   {
+    "ja": "ダイヤのＡ　ａｃｔ２"
    }
   ],
   "description": {
@@ -52,7 +55,7 @@
    "tr",
    "ar"
   ],
-  "latestUploadedChapter": "4cbd24d8-a409-4d81-ae67-929c59fef8db",
+  "latestUploadedChapter": "66a2409b-c2af-49e3-87b7-cdb445c993da",
   "tags": [
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
@@ -116,9 +119,9 @@
    }
   ],
   "state": "published",
-  "version": 16,
+  "version": 19,
   "createdAt": "2018-11-15T06:18:37+00:00",
-  "updatedAt": "2023-11-07T19:45:02+00:00"
+  "updatedAt": "2024-12-27T01:02:16+00:00"
  },
  "relationships": [
   {
@@ -192,6 +195,11 @@
    "related": "spin_off"
   },
   {
+   "id": "5f69014d-a891-4d6c-84cb-78cefcf4154d",
+   "type": "manga",
+   "related": "side_story"
+  },
+  {
    "id": "60879eb7-3845-4dff-b86d-5a612108053b",
    "type": "manga",
    "related": "prequel"
@@ -199,7 +207,7 @@
   {
    "id": "9eaf0db5-b3d9-4c04-b98d-2f64fb178dd6",
    "type": "manga",
-   "related": "based_on"
+   "related": "doujinshi"
   },
   {
    "id": "af4ddae5-38d6-4a2c-a909-c17655109938",
@@ -209,7 +217,7 @@
   {
    "id": "eec7f9c5-4ce3-4094-8a50-898e2811b9fc",
    "type": "manga",
-   "related": "based_on"
+   "related": "doujinshi"
   }
  ]
 }

@@ -17,11 +17,13 @@
   "links": {
    "amz": "https://www.amazon.co.jp/dp/4781622208/",
    "bw": "series/425788",
-   "mal": "174372"
+   "mal": "174372",
+   "mu": "gzgh2n5"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "6",
+  "publicationDemographic": "josei",
   "status": "completed",
   "year": 2023,
   "contentRating": "safe",
@@ -30,6 +32,30 @@
   ],
   "latestUploadedChapter": "e07646f0-80e7-4fcf-b1b2-5bbd79bff8b7",
   "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
@@ -44,9 +70,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2024-08-08T03:03:25+00:00",
-  "updatedAt": "2024-10-14T13:09:16+00:00"
+  "updatedAt": "2024-12-23T05:36:38+00:00"
  },
  "relationships": [
   {

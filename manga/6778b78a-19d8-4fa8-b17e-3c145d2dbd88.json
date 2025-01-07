@@ -92,6 +92,30 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "d14322ac-4d6f-4e9b-afd9-629d5f4d8a41",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Villainess"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
     "type": "tag",
     "attributes": {
@@ -141,9 +165,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2022-09-06T03:21:23+00:00",
-  "updatedAt": "2024-04-18T14:24:56+00:00"
+  "updatedAt": "2024-12-08T00:05:32+00:00"
  },
  "relationships": [
   {
@@ -206,9 +230,9 @@
     "description": "",
     "fileName": "070d37f5-1ab8-4ff6-8cf3-7532ff368269.png",
     "locale": "zh",
-    "updatedAt": "2022-09-06T03:28:09+00:00",
-    "version": 1,
-    "volume": "2"
+    "updatedAt": "2024-12-04T15:35:13+00:00",
+    "version": 2,
+    "volume": "1.1"
    }
   },
   {

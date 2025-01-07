@@ -3,17 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Wild and Strawberry"
+   "en": "Wild to Strawberry"
   },
   "altTitles": [
    {
     "ja-ro": "Wairudo to Sutoroberii"
    },
    {
-    "en": "Wild to Strawberry"
+    "ja": "ワイルドとストロベリー"
    },
    {
-    "ja": "ワイルドとストロベリー"
+    "en": "Wild and Strawberry"
    }
   ],
   "description": {
@@ -27,8 +27,6 @@
    "mu": "44914"
   },
   "originalLanguage": "ja",
-  "lastVolume": "1",
-  "lastChapter": "1",
   "status": "completed",
   "year": 2008,
   "contentRating": "suggestive",
@@ -89,16 +87,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-03-03T13:08:54+00:00",
-  "updatedAt": "2022-10-27T12:15:28+00:00"
+  "updatedAt": "2024-12-08T17:06:39+00:00"
  },
  "relationships": [
   {
    "id": "f4269227-161b-407d-9d29-9b67e06db230",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n鈴木ツタ\n\n[BlueSky](https://bsky.app/profile/suzukitsuta.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -109,12 +109,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/206837",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/suzukitsuta",
+    "updatedAt": "2024-12-08T16:51:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -124,7 +124,9 @@
    "id": "f4269227-161b-407d-9d29-9b67e06db230",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n鈴木ツタ\n\n[BlueSky](https://bsky.app/profile/suzukitsuta.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -135,12 +137,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/206837",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/suzukitsuta",
+    "updatedAt": "2024-12-08T16:51:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -154,20 +156,15 @@
     "description": "",
     "fileName": "50c1078a-bec6-4ea0-ae0d-51ccbefc23fb.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:03:15+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-12-08T17:06:39+00:00",
+    "version": 2,
+    "volume": "1"
    }
   },
   {
    "id": "5a969542-19a7-47e4-8319-fcc29926f8d8",
    "type": "manga",
    "related": "alternate_story"
-  },
-  {
-   "id": "5a969542-19a7-47e4-8319-fcc29926f8d8",
-   "type": "manga",
-   "related": "shared_universe"
   }
  ]
 }

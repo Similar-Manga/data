@@ -1,0 +1,160 @@
+{
+ "id": "6eed625b-a0d6-40d7-9814-14fd3abeebae",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "5Toubun no Hanayome - Halloween (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "en": "Halloween"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/asita31103/status/1185084232567148544"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2019,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "1214ec20-8b7f-4508-b572-ad9d61794c46",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-06T16:14:03+00:00",
+  "updatedAt": "2024-12-06T16:14:13+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d300767e-54fe-4565-a04c-b85e909fb24a",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Associated Names:**\nasita31103"
+    },
+    "booth": null,
+    "createdAt": "2024-12-06T15:56:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asita (明日汰)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T16:50:28+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d300767e-54fe-4565-a04c-b85e909fb24a",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated Names:**\nasita31103"
+    },
+    "booth": null,
+    "createdAt": "2024-12-06T15:56:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asita (明日汰)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T16:50:28+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "32a77216-33a2-484f-add8-34d87902e169",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-06T16:14:06+00:00",
+    "description": "",
+    "fileName": "6b969b19-cb52-4f8c-b813-b8abf88e64be.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-06T16:14:06+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "a2febd3e-6252-46eb-bd63-01d51deaaec5",
+   "type": "manga",
+   "related": "based_on"
+  },
+  {
+   "id": "f319d314-4310-4610-bcea-98c0128def1d",
+   "type": "creator"
+  }
+ ]
+}

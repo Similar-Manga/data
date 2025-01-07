@@ -11,20 +11,9 @@
     "en": "Rappa - Yankee Ninpuuchou"
    },
    "contentRating": "safe",
-   "score": 0.25522527,
+   "score": 0.25403824,
    "languages": [
     "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "fe6d0469-2f2f-4d20-ac83-5172a662e3b5",
-   "title": {
-    "en": "Kung Fu Tao"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
     "en"
    ]
   },
@@ -42,12 +31,23 @@
    ]
   },
   {
+   "id": "fe6d0469-2f2f-4d20-ac83-5172a662e3b5",
+   "title": {
+    "en": "Kung Fu Tao"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "4ec2c726-326b-4c17-93b2-8c923ecf8afc",
    "title": {
     "en": "The Crest"
    },
    "contentRating": "safe",
-   "score": 0.236052,
+   "score": 0.2360199,
    "languages": [
     "en"
    ]
@@ -76,24 +76,24 @@
     "en": "Sakamoto Days"
    },
    "contentRating": "safe",
-   "score": 0.2275692,
+   "score": 0.2273921,
    "languages": [
     "vi",
     "pt-br",
     "it",
     "ru",
     "en",
-    "es",
     "tr",
     "ar",
     "es-la",
     "sr",
-    "id",
     "fr",
     "pl",
+    "id",
     "bn",
-    "th",
-    "fa"
+    "es",
+    "fa",
+    "th"
    ]
   },
   {
@@ -102,7 +102,7 @@
     "en": "Love Attack"
    },
    "contentRating": "safe",
-   "score": 0.21831845,
+   "score": 0.21827564,
    "languages": [
     "en"
    ]
@@ -113,74 +113,7 @@
     "en": "Kinnikuman/Attack Ramenman!!: Choujin Dictionary"
    },
    "contentRating": "safe",
-   "score": 0.21805659,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
-   "title": {
-    "en": "Chingiri"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1e7a2856-14e2-49b7-86b1-d4905528ddf3",
-   "title": {
-    "en": "Sengoku Basara 3 -Roar of Dragon-"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3f8a6138-a19e-4ba0-b6f3-0b8c8badfe9f",
-   "title": {
-    "en": "Violent Path Martial Arts School"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c486de89-d9a1-48a6-889c-ecc2efc65465",
-   "title": {
-    "en": "Will"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fe8da59d-d113-41f3-9b80-bd7aa5256eca",
-   "title": {
-    "en": "PutOn"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "976322f5-4f8a-4617-b850-c054b710ff24",
-   "title": {
-    "en": "+Again"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.21798773,
    "languages": [
     "en"
    ]
@@ -208,7 +141,74 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "3f8a6138-a19e-4ba0-b6f3-0b8c8badfe9f",
+   "title": {
+    "en": "Violent Path Martial Arts School"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1e7a2856-14e2-49b7-86b1-d4905528ddf3",
+   "title": {
+    "en": "Sengoku Basara 3 -Roar of Dragon-"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c486de89-d9a1-48a6-889c-ecc2efc65465",
+   "title": {
+    "en": "Will"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "ffc451e7-54dd-47f6-b2fb-4881cef0ac59",
+   "title": {
+    "en": "Chingiri"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "976322f5-4f8a-4617-b850-c054b710ff24",
+   "title": {
+    "en": "+Again"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fe8da59d-d113-41f3-9b80-bd7aa5256eca",
+   "title": {
+    "en": "PutOn"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "ru",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-12-01T21:30:26+00:00"
+ "updatedAt": "2025-01-06T00:40:31+00:00"
 }

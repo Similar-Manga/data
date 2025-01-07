@@ -133,9 +133,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2021-12-01T13:34:31+00:00",
-  "updatedAt": "2023-01-03T17:06:55+00:00"
+  "updatedAt": "2025-01-02T11:43:33+00:00"
  },
  "relationships": [
   {
@@ -193,6 +193,34 @@
    }
   },
   {
+   "id": "535c5ca1-f7a6-4f64-b698-7781cb9f4f7d",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native Name:**\nやまさき十三\n\n**Birth:** Jun 19, 1941"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamasaki Juuzou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-02T11:48:48+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "9be55a5a-2512-447b-9847-16169e44aeaf",
    "type": "author",
    "attributes": {
@@ -240,32 +268,6 @@
     "tumblr": null,
     "twitter": null,
     "updatedAt": "2021-12-01T13:29:11+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "db22b611-ef45-4589-b9a2-adb76074810f",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Juzo Yamasaki",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
     "website": null,
     "weibo": null,

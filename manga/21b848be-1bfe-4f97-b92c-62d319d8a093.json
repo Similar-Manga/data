@@ -3,23 +3,29 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Onee-sama to Kyojin ~ Ojou-sama ga Isekai Tensei ~"
+   "en": "Sister and Giant: A Young Lady Is Reborn in Another World"
   },
   "altTitles": [
    {
-    "ja": "お姉さまと巨人 お嬢さまが異世界転生"
+    "ja": "お姉さまと巨人 ～お嬢さまが異世界転生～"
    },
    {
-    "zh": "姐姐大人和巨人(我)～大小姐转生进入异世界～"
+    "ja-ro": "Onee-sama to Watashi ~Ojou-sama ga Isekai Tensei~"
    },
    {
-    "en": "Sister and Giant: A Young Lady Is Reborn in Another World"
+    "ja-ro": "Onee-sama to Kyojin ~Ojou-sama ga Isekai Tensei~"
    },
    {
-    "en": "My Sister and Giant: A young lady is reborn in another world."
+    "ja": "MY SISTER AND GIANT: A young lady is reborn in another world."
+   },
+   {
+    "en": "My Elder Sister And Me (The Giant): A Young Lady Is Reborn In Another World"
    },
    {
     "es-la": "La hermana mayor y la Gigante (Yo): La señorita reencarnada en otro mundo"
+   },
+   {
+    "zh": "姐姐大人和巨人(我)～大小姐转生进入异世界～"
    }
   ],
   "description": {
@@ -34,11 +40,11 @@
    "ap": "onee-sama-to-kyojin-ojou-sama-ga-isekai-tensei",
    "bw": "series/352046/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/696287/",
-   "engtl": "https://yenpress.com/titles/9781975378660-sister-and-giant-a-young-lady-is-reborn-in-another-world-vol-1",
+   "engtl": "https://yenpress.com/series/sister-and-giant-a-young-lady-is-reborn-in-another-world",
    "kt": "oneesama-to-watashi-ojousama-ga-isekai-tensei",
    "mal": "146277",
    "mu": "192430",
-   "raw": "https://comic-walker.com/contents/detail/KDCW_CW01202771010000_68/"
+   "raw": "https://comic-walker.com/detail/KC_003240_S?episodeType=first"
   },
   "originalLanguage": "ja",
   "status": "ongoing",
@@ -48,7 +54,7 @@
    "en",
    "id"
   ],
-  "latestUploadedChapter": "564300e0-7617-42b0-8bea-86443dc41cc8",
+  "latestUploadedChapter": "004e5a48-c090-47ce-a8e0-7335261a8dfc",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -181,12 +187,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 29,
+  "version": 33,
   "createdAt": "2021-10-31T06:42:21+00:00",
-  "updatedAt": "2024-11-18T11:14:48+00:00"
+  "updatedAt": "2024-12-19T05:09:20+00:00"
  },
  "relationships": [
   {
@@ -246,16 +264,16 @@
    }
   },
   {
-   "id": "49ec678d-0000-4f25-a962-47b735e367d8",
+   "id": "53662c5e-a9ec-4191-9c58-d0e44809410a",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-06-18T15:14:09+00:00",
+    "createdAt": "2024-12-19T05:09:20+00:00",
     "description": "",
-    "fileName": "c0db219a-b08d-4bfe-9db8-ace3f25bbf98.jpg",
+    "fileName": "53c44700-1bfa-44e1-b1db-de6933d73c4a.jpg",
     "locale": "ja",
-    "updatedAt": "2024-06-18T15:14:09+00:00",
+    "updatedAt": "2024-12-19T05:09:20+00:00",
     "version": 1,
-    "volume": "5"
+    "volume": "6"
    }
   },
   {

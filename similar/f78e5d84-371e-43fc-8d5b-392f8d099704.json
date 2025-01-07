@@ -6,26 +6,26 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "53f2e71c-286c-437e-bb68-b84787da74e0",
-   "title": {
-    "en": "Ikoku Memoires"
-   },
-   "contentRating": "safe",
-   "score": 0.41312686,
-   "languages": [
-    "ru"
-   ]
-  },
-  {
    "id": "37ca4917-8d4a-46e9-8396-47c556d4fb20",
    "title": {
     "en": "You Didn't See Anything"
    },
    "contentRating": "safe",
-   "score": 0.40185985,
+   "score": 0.40213725,
    "languages": [
     "zh",
     "en"
+   ]
+  },
+  {
+   "id": "53f2e71c-286c-437e-bb68-b84787da74e0",
+   "title": {
+    "en": "Ikoku Memoires"
+   },
+   "contentRating": "safe",
+   "score": 0.3949879,
+   "languages": [
+    "ru"
    ]
   },
   {
@@ -34,21 +34,9 @@
     "en": "I Love Yoo"
    },
    "contentRating": "safe",
-   "score": 0.39115062,
+   "score": 0.39081293,
    "languages": [
     "pt-br"
-   ]
-  },
-  {
-   "id": "2e26cfb2-3ddf-4654-bce1-241a67955653",
-   "title": {
-    "en": "The Boys You Knew during Childhood Were Girls the Entire Time"
-   },
-   "contentRating": "safe",
-   "score": 0.39103857,
-   "languages": [
-    "en",
-    "id"
    ]
   },
   {
@@ -57,7 +45,7 @@
     "en": "MINOR"
    },
    "contentRating": "safe",
-   "score": 0.38425407,
+   "score": 0.38404828,
    "languages": [
     "en",
     "pt-br"
@@ -69,7 +57,7 @@
     "en": "Moto Saikyou Kouryakusha, Nozomanu Dungeon Haishin de Musou shite Shimasu"
    },
    "contentRating": "safe",
-   "score": 0.3748498,
+   "score": 0.37469158,
    "languages": [
     "en",
     "id"
@@ -81,7 +69,18 @@
     "en": "Daijiro Morohoshi: From the gap between the Otherworld and the Mundane World"
    },
    "contentRating": "safe",
-   "score": 0.37269968
+   "score": 0.37283358
+  },
+  {
+   "id": "8477369d-502b-4595-8ae3-c989c6c8589b",
+   "title": {
+    "en": "The Invincible Man"
+   },
+   "contentRating": "safe",
+   "score": 0.37124825,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "573af893-0973-4a06-b724-39c67ae758f4",
@@ -89,7 +88,18 @@
     "en": "Nirvana"
    },
    "contentRating": "safe",
-   "score": 0.3703006
+   "score": 0.37067002
+  },
+  {
+   "id": "b0099782-fbcb-4aec-86e7-d553e4036ba4",
+   "title": {
+    "en": "The Ladykiller in Another World"
+   },
+   "contentRating": "safe",
+   "score": 0.3699257,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "4f53d541-4c66-4f56-9b60-978e2e4b0a95",
@@ -97,7 +107,7 @@
     "en": "Three Kingdoms"
    },
    "contentRating": "safe",
-   "score": 0.36720842,
+   "score": 0.36695462,
    "languages": [
     "en",
     "es-la"
@@ -109,29 +119,7 @@
     "en": "Guai Qi Bi Ji"
    },
    "contentRating": "safe",
-   "score": 0.36529252,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "435999e3-5ecf-4761-b14c-8f0a47093965",
-   "title": {
-    "en": "Idol-sama's Favorite?!"
-   },
-   "contentRating": "safe",
-   "score": 0.365279,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "cfd9dd17-632a-45fd-b172-07dc4cb43bd6",
-   "title": {
-    "en": "Fubar"
-   },
-   "contentRating": "safe",
-   "score": 0.3652416,
+   "score": 0.36532977,
    "languages": [
     "en"
    ]
@@ -142,7 +130,7 @@
     "en": "Gamprin"
    },
    "contentRating": "safe",
-   "score": 0.36499968,
+   "score": 0.36501062,
    "languages": [
     "es"
    ]
@@ -153,10 +141,21 @@
     "en": "The Raven King"
    },
    "contentRating": "safe",
-   "score": 0.36326545,
+   "score": 0.36352652,
    "languages": [
     "pt-br",
     "tr"
+   ]
+  },
+  {
+   "id": "435999e3-5ecf-4761-b14c-8f0a47093965",
+   "title": {
+    "en": "Idol-sama's Favorite?!"
+   },
+   "contentRating": "safe",
+   "score": 0.36253133,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -165,7 +164,7 @@
     "en": "Wildcard"
    },
    "contentRating": "safe",
-   "score": 0.3623963,
+   "score": 0.36237863,
    "languages": [
     "en",
     "pt-br"
@@ -177,11 +176,12 @@
     "en": "Together During Summer, Too"
    },
    "contentRating": "safe",
-   "score": 0.3612672,
+   "score": 0.36128885,
    "languages": [
+    "pt-br",
     "en"
    ]
   }
  ],
- "updatedAt": "2024-12-01T22:04:09+00:00"
+ "updatedAt": "2025-01-06T01:22:05+00:00"
 }

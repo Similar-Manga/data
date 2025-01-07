@@ -3,28 +3,53 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Be a Master!! Pokémon BW"
+   "en": "Kiwamero!! Pokemon BW"
   },
   "altTitles": [
    {
-    "ja": "究めろ！ポケモンB・W"
+    "ja": "究めろ！！ ポケモンB・W"
+   },
+   {
+    "en": "Be a Master!! Pokémon BW"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "究めろ!!　ポケモンB・W キワメロポケモンブラックアンドホワイト 勝見直人 ポケモンバトルを究めろ！！ 大人気DSソフト『ポケットモンスターブラック・ホワイト』の舞台・イッシュ地方で、熱くポケモンバトルを究めようと冒険を続けている少年・モンタ。相棒のツタージャとともに幾多の敏腕トレーナーと激しいバトルを繰り返しながら勝利を収め少しづつポケモントレーナーとして成長していく。読むだけでポケモンの技や相性、コンボなど、実際のバトルにも役立つ知識が身につく超お役立ちまんが。モンタはポケモンバトルを究めることができるのか！？"
+  },
   "links": {
+   "al": "52576",
+   "amz": "https://www.amazon.co.jp/dp/B0C9GQTJ19",
    "ap": "kiwamero-pokemon-bw",
-   "mal": "22576"
+   "bw": "series/424743",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/771462",
+   "mal": "22576",
+   "mu": "147ic0z"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "8",
+  "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2011,
   "contentRating": "safe",
+  "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2022-10-22T19:29:08+00:00",
-  "updatedAt": "2022-11-04T22:28:54+00:00"
+  "updatedAt": "2025-01-03T21:31:15+00:00"
  },
  "relationships": [
   {
@@ -106,14 +131,14 @@
    }
   },
   {
-   "id": "50e666ec-ac89-4bc7-868c-c55c47fb066c",
+   "id": "aa9510b0-24b2-4e47-ba9d-db06e4fa6d1b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-10-22T19:39:30+00:00",
-    "description": "",
-    "fileName": "34c1371c-4671-444a-b258-dd4f97f3f59a.jpg",
+    "createdAt": "2025-01-03T21:31:14+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "1f9b61d9-b2ba-46bf-b8b8-7f441d8cb93b.jpg",
     "locale": "ja",
-    "updatedAt": "2022-10-22T19:39:30+00:00",
+    "updatedAt": "2025-01-03T21:31:14+00:00",
     "version": 1,
     "volume": "1"
    }

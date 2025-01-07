@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Boku to Kanojo no Renai Mokuroku"
+   "en": "Our List of Affections"
   },
   "altTitles": [
    {
     "en": "My Passion Catalog and Hers"
    },
    {
-    "en": "Our List of Affections"
+    "ja-ro": "Boku to Kanojo no Renai Mokuroku"
    },
    {
     "th": "แคตตาล็อกแคตตารัก"
@@ -58,6 +58,42 @@
   ],
   "latestUploadedChapter": "863c5a97-ced7-42cd-9a14-b01320732fbd",
   "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "292e862b-2d17-4062-90a2-0356caa4ae27",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Time Travel"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -119,6 +155,18 @@
     }
    },
    {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -156,9 +204,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2018-02-22T12:12:28+00:00",
-  "updatedAt": "2024-02-28T12:46:44+00:00"
+  "updatedAt": "2024-12-23T07:31:24+00:00"
  },
  "relationships": [
   {

@@ -22,7 +22,9 @@
     "ja-ro": "Nekama CirCra ♂chan 2"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Volume 1 \n| Namespace | Tags |\n| :--- | :--- |\n| parody | original |\n| group | seki sabato |\n| artist | tsukuru |\n| male | anal, anal intercourse, bbm, blood, cosplaying, crossdressing, feminization, filming, group, males only, mesuiki, mind break, rape, schoolgirl uniform, shotacon, stockings, tomgirl, twintails, virginity, yaoi |\n| other | multi-work series |\n\n---\n\nVolume 2\n| Namespace | Tags |\n| :--- | :--- |\n| parody | original |\n| group | seki sabato |\n| artist | tsukuru |\n| male | ahegao, anal, anal intercourse, bikini, blackmail, blowjob, crossdressing, double anal, feminization, filming, glasses, group, males only, mesuiki, mind break, rape, sex toys, shotacon, swimsuit, tomgirl, twintails, unusual pupils, unusual teeth, yaoi |\n| other | multi-work series |"
+  },
   "links": {
    "al": "94014",
    "kt": "34742",
@@ -75,11 +77,37 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-06-30T14:33:03+00:00",
-  "updatedAt": "2022-04-28T06:37:01+00:00"
+  "updatedAt": "2024-12-22T04:57:37+00:00"
  },
  "relationships": [
+  {
+   "id": "889d1008-8418-4d49-b1c2-94e6a7caf600",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tsukuru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "a062904c-b780-4ed7-8dac-606c8565ac74",
    "type": "author",
@@ -91,7 +119,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Seki Sabato",
+    "name": "Seki Sabato (circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -99,8 +127,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-22T04:57:49+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -133,6 +161,32 @@
    }
   },
   {
+   "id": "a062904c-b780-4ed7-8dac-606c8565ac74",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Seki Sabato (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-22T04:57:49+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "047041f3-7c45-4ff4-97fb-7aa8ca8e3d61",
    "type": "cover_art",
    "attributes": {
@@ -140,9 +194,9 @@
     "description": "",
     "fileName": "a70e2317-127a-4394-969d-27fcf5fde0f9.png",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:17:17+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-12-22T04:57:37+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

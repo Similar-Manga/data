@@ -1,0 +1,149 @@
+{
+ "id": "8fe5e798-31cc-43af-959c-e4c5b9b16b6a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Hajimari no Machi no Sodateya-san ~Tsuihousareta Bannou Ikuseishi wa Ponkotsu Boukensha wo Kakuseisasete Saikyou Slow Life wo Mezashimasu~"
+  },
+  "altTitles": [
+   {
+    "ja": "はじまりの町の育て屋さん～追放された万能育成師はポンコツ冒険者を覚醒させて最強スローライフを目指します～ THE COMIC"
+   },
+   {
+    "en": "Adventurer's Trainer for the Adventurer with Hidden Gifted in Beginners Town."
+   }
+  ],
+  "description": {
+   "en": "Alaze, the **trainer** who was deemed useless and cast out from the hero party, returned to his hometown to heal his broken heart and live a peaceful life. However, one day, a girl appeared before him, asking, **Please, train me!**",
+   "ja": "役立たずとされ勇者パーティーから追放をされてしまった「育成師」のアロゼ。傷心を癒すために故郷に帰り、穏やかな日々を暮らしていたが…、彼のもとにある日「私を育てて欲しい」という少女が現れた!?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DHLHNZCD",
+   "ap": "hajimari-no-machi-no-sodateya-san-tsuihou-sareta-bannou-ikuseishi-wa-ponkotsu-boukensha-wo-kakusei-sasete-saikyou-slow-life-wo-mezashimasu",
+   "bw": "series/500590",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/864801",
+   "mu": "7xfpo3t",
+   "raw": "https://comicride.jp/series/85a975f1753f5"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-14T23:08:20+00:00",
+  "updatedAt": "2025-01-02T20:39:43+00:00"
+ },
+ "relationships": [
+  {
+   "id": "825cf5b2-b264-4f64-a8a2-98d5b962213a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-29T12:25:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Manno Mizuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-10-29T12:25:58+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bba6f145-48ad-4fd1-93aa-9a842c429f82",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Circle**: NOI-GREN"
+    },
+    "booth": null,
+    "createdAt": "2021-11-14T19:44:55+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sakaki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/160024",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sakaki27",
+    "updatedAt": "2022-04-08T20:11:33+00:00",
+    "version": 2,
+    "website": "http://www10.big.or.jp/~no27/sakaki/index.html",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6da0527d-4d62-4a54-9ac3-1e38e0896f9e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-14T23:08:32+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "7afae164-8294-4781-bdef-2736fad0c8de.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-14T23:08:32+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

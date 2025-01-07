@@ -1,0 +1,136 @@
+{
+ "id": "773509eb-fc6c-4a24-90e0-3adab5ae030d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Aru Wakusei no Higeki ~Hiroshima Hibakusha no Kiroku~"
+  },
+  "altTitles": [
+   {
+    "ja": "ある惑星の悲劇～ヒロシマ被爆者の記録～"
+   },
+   {
+    "en": "Tragedy of a Certain Planet: Records of Hiroshima Atomic Bomb Victims"
+   },
+   {
+    "en": "Tragedy of a Planet ~Hiroshima, the Records of Atomic Bomb Victims~"
+   }
+  ],
+  "description": {
+   "ja": "昭和20年８月６日、運命の日の朝、広島の空はぬけるように高く、太陽はいつものように照りつけていた。そして、８時15分……、空襲警報のサイレンが鳴っていないなか、なぜかＢ29爆撃機のエンジン音が聞こえ……。「わたしは広島に原爆が投下されたとき爆心からわずか900メートルのところにおり、爆発のいっしゅん後にはきのこ雲のどまん中だった」。被爆者の証言をもとに原爆の悲劇を描いた漫画を収録。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/ある惑星の悲劇～ヒロシマ被爆者の記録～-草河達夫-ebook/dp/B07YYY4NZQ",
+   "bw": "de0235af46-1be8-48f3-9aff-2b69da18928d",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/730222/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "3",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1969,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-11T08:24:23+00:00",
+  "updatedAt": "2024-12-12T03:48:27+00:00"
+ },
+ "relationships": [
+  {
+   "id": "45d640b2-f9a0-4e6d-a037-46edd6479a9d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-11T08:21:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kusaka Tatsuo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-11T08:21:27+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "55395f13-11b8-4d5b-8b72-cb255520a64a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-12-15T01:10:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asaoka Koji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-12-15T01:10:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "506945bd-51ad-486c-8c00-fd774e42b1fd",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-11T08:24:26+00:00",
+    "description": "",
+    "fileName": "ad1692cb-12ad-473f-95f5-ce02b2c37796.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-11T08:24:26+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

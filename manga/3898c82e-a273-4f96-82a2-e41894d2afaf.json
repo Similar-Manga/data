@@ -1,0 +1,167 @@
+{
+ "id": "3898c82e-a273-4f96-82a2-e41894d2afaf",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mighty Jack: THE SHADOW FORCE"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "マイティジャック THE SHADOW FORCE"
+   },
+   {
+    "ja-ro": "Maiti Jakku: The Shadow Force"
+   }
+  ],
+  "description": {
+   "en": "Eleven brave warriors aboard the cutting-edge battleship Mighty, built with the pinnacle of modern science, fight against the evil organization \"Q\"!"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%83%86%E3%82%A3%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF-SHADOW-FORCE-%E5%AE%8C%E5%85%A8%E7%89%88-%E7%86%8A%E8%B0%B7%E3%82%AB%E3%82%BA%E3%83%92%E3%83%AD-ebook/dp/B0DMTMSXGD",
+   "mu": "3ujuipv"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "7",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2004,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-11T06:31:58+00:00",
+  "updatedAt": "2024-12-11T06:32:07+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ec8ab405-4260-46bf-b855-cdedeed66fe5",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kumagai Kazuhiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ec8ab405-4260-46bf-b855-cdedeed66fe5",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kumagai Kazuhiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1dfc5bf8-92b6-4932-9b02-3e895f1ee876",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-11T06:32:00+00:00",
+    "description": "",
+    "fileName": "14c5dfa9-a501-4416-860c-5e3c2ae4374f.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-11T06:32:00+00:00",
+    "version": 1,
+    "volume": "1.1"
+   }
+  },
+  {
+   "id": "08d4d8e8-3ac1-4411-922f-87d04537a973",
+   "type": "manga",
+   "related": "alternate_version"
+  },
+  {
+   "id": "40dc9382-f1da-46c4-b62a-818ce62e346d",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "76bb0b09-dd96-42b3-9ac9-770fd8340cba",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "77302d8a-0e3a-425d-9fc9-a4bf15e0a8ea",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "b5615eef-2aef-4309-97af-48b016b669bc",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "cc553372-c1a4-46d1-a9a2-6d51c460424a",
+   "type": "manga",
+   "related": "alternate_version"
+  },
+  {
+   "id": "fd8f0ea5-3cd0-4e34-979b-02e6208c2fb7",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

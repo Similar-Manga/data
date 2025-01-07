@@ -15,11 +15,28 @@
    "raw": "https://www.sunday-webry.com/episode/2550912964643247131"
   },
   "originalLanguage": "ja",
-  "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "publicationDemographic": "seinen",
+  "status": "completed",
   "year": 2024,
-  "contentRating": "suggestive",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en",
+   "id"
+  ],
+  "latestUploadedChapter": "c0056d09-5d9c-43bd-9790-810a6db69223",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -45,18 +62,6 @@
     }
    },
    {
-    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Drama"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
-   {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
@@ -67,24 +72,12 @@
      "group": "theme",
      "version": 1
     }
-   },
-   {
-    "id": "da2d50ca-3018-4cc0-ac7a-6b7d472a29ea",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Delinquents"
-     },
-     "description": {},
-     "group": "theme",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2024-10-19T04:29:42+00:00",
-  "updatedAt": "2024-10-19T08:06:43+00:00"
+  "updatedAt": "2024-12-02T07:39:15+00:00"
  },
  "relationships": [
   {

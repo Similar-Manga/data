@@ -1,0 +1,137 @@
+{
+ "id": "5871ed3f-d0a9-4162-89d5-b778d08c15e1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Soratobu Tyre"
+  },
+  "altTitles": [
+   {
+    "ja": "空飛ぶタイヤ"
+   },
+   {
+    "ja-ro": "Soratobu Tire"
+   },
+   {
+    "en": "The Flying Tire"
+   }
+  ],
+  "description": {
+   "en": "The story begins with a scene in which a trailer belonging to a small transport company, Akamatsu Transport, causes an accident caused by a tyre coming off. The company is on the verge of bankruptcy because it cannot obtain a loan from the bank. Unconvinced by the conclusion that the accident was caused by poor maintenance of the trailer, the president, Tokuro Akamatsu, wonders whether the vehicle itself that caused the accident might be defective."
+  },
+  "links": {
+   "mal": "175617",
+   "mu": "bq2d6tl"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "10",
+  "publicationDemographic": "josei",
+  "status": "completed",
+  "year": 2017,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-28T11:50:28+00:00",
+  "updatedAt": "2024-12-29T14:00:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "9b0bc435-823e-40bc-8071-274682f89f6c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 池井戸潤"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ikeido Jun",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/officeikeido",
+    "updatedAt": "2024-11-04T12:51:21+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7370eee9-fbd5-4d38-8a04-2d5b5f5bb303",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ootani Noriko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c1f7fcc7-d83f-40e8-9c1c-3c981b3b3ef2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-28T11:50:30+00:00",
+    "description": "",
+    "fileName": "430913ca-7928-4053-9a22-bfcf009837a5.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-28T11:50:30+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "ddc27fae-f41a-4618-b8dc-6cf98106fd4c",
+   "type": "creator"
+  }
+ ]
+}

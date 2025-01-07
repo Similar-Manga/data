@@ -37,7 +37,7 @@
    "en",
    "id"
   ],
-  "latestUploadedChapter": "95564e2c-f82c-41ce-bf51-9326ef7d50fd",
+  "latestUploadedChapter": "497c8d7a-2355-4778-8aa2-821cf909f3b0",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -173,9 +173,9 @@
    }
   ],
   "state": "published",
-  "version": 14,
+  "version": 15,
   "createdAt": "2022-01-17T16:35:21+00:00",
-  "updatedAt": "2024-06-21T12:52:55+00:00"
+  "updatedAt": "2025-01-02T12:49:54+00:00"
  },
  "relationships": [
   {
@@ -613,6 +613,32 @@
    }
   },
   {
+   "id": "ac8c0646-68e0-4510-b50c-738e86ce9f28",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Waira",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "c47fb787-2398-4268-ac79-9c943a14cce8",
    "type": "author",
    "attributes": {
@@ -1269,6 +1295,32 @@
    }
   },
   {
+   "id": "ac8c0646-68e0-4510-b50c-738e86ce9f28",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Waira",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "c47fb787-2398-4268-ac79-9c943a14cce8",
    "type": "artist",
    "attributes": {
@@ -1491,16 +1543,16 @@
    }
   },
   {
-   "id": "14971f4a-0ee3-4968-9fda-9a32997ab142",
+   "id": "0d93730f-993d-4feb-b6f1-671a012463a8",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-06-21T12:52:54+00:00",
+    "createdAt": "2024-12-20T11:15:45+00:00",
     "description": "",
-    "fileName": "383bf831-8db2-4fdf-bc57-4ca3fb0745ec.jpg",
+    "fileName": "4e0f1c6b-83c5-4886-985e-ae949081f7d3.jpg",
     "locale": "ja",
-    "updatedAt": "2024-06-21T12:52:54+00:00",
+    "updatedAt": "2024-12-20T11:15:45+00:00",
     "version": 1,
-    "volume": "5"
+    "volume": "6"
    }
   },
   {

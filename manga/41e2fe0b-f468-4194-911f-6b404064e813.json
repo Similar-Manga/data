@@ -1,0 +1,166 @@
+{
+ "id": "41e2fe0b-f468-4194-911f-6b404064e813",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Dragon Tamers"
+  },
+  "altTitles": [
+   {
+    "uk": "Приборкувачі драконів"
+   }
+  ],
+  "description": {
+   "en": "Meet Reiko, a little girl in a big world. She was raised by a Yakuza Father and a Dragon Tamer mother which makes her...a little dragon? So if her dad was tamed, whose gonna tame her? Oh yeah, she has a feisty sister too.",
+   "uk": "Зустрічайте Рейко, маленьку дівчинку у великому світі. Вона виросла з батьком-якуза та матір’ю-домашнім драконоломом, що робить її... маленьким драконом? Тож якщо її тато підкорився, хто підкорить її? О так, у неї також є запальна сестра."
+  },
+  "links": {
+   "raw": "https://www.webtoons.com/en/canvas/dragon-tamers/list?title_no=1008453"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "uk"
+  ],
+  "latestUploadedChapter": "e7e3b9c4-0289-414a-9bc2-5db65e884dce",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-29T07:14:24+00:00",
+  "updatedAt": "2024-12-29T07:18:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "94ae11de-b29d-47a0-a999-419b9248d783",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-29T07:12:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "pommu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-29T07:12:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "94ae11de-b29d-47a0-a999-419b9248d783",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-29T07:12:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "pommu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-29T07:12:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5c6b52ce-5409-4a10-8134-50dc907de255",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-29T07:14:33+00:00",
+    "description": "",
+    "fileName": "a4d85176-40fd-4254-a7ac-17cb056d02b8.jpg",
+    "locale": "en",
+    "updatedAt": "2024-12-29T07:14:33+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "392fd1a3-e67f-4888-bfea-e5a5df16a899",
+   "type": "creator"
+  }
+ ]
+}

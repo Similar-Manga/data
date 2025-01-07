@@ -27,6 +27,18 @@
   "latestUploadedChapter": "9cd39966-f1b2-4fac-b7ff-c67985bc7c96",
   "tags": [
    {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
     "type": "tag",
     "attributes": {
@@ -63,6 +75,42 @@
     }
    },
    {
+    "id": "8c86611e-fab7-4986-9dec-d1a2f44acdd5",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Virtual Reality"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Philosophical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
@@ -88,9 +136,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2023-08-02T07:05:27+00:00",
-  "updatedAt": "2024-11-09T05:43:42+00:00"
+  "updatedAt": "2024-12-03T13:01:20+00:00"
  },
  "relationships": [
   {
@@ -153,8 +201,8 @@
     "description": "",
     "fileName": "0941ebfd-2f37-409d-bd0c-e9736bfde322.jpg",
     "locale": "en",
-    "updatedAt": "2024-11-09T05:43:42+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-05T16:29:44+00:00",
+    "version": 3,
     "volume": "3"
    }
   },

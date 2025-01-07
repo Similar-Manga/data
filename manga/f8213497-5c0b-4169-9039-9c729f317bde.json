@@ -51,14 +51,16 @@
   "links": {
    "al": "146498",
    "ap": "i-will-take-responsibility-for-the-welfare-of-the-male-lead",
-   "engtl": "https://tapas.io/series/writing-my-male-leads-happily-ever-after",
+   "engtl": "https://tapas.io/series/writing-my-male-leads-happily-ever-after/info",
    "mal": "149301",
    "mu": "197274",
    "nu": "i-will-take-responsibility-for-the-welfare-of-the-male-lead",
    "raw": "https://page.kakao.com/home?seriesId=58799509"
   },
   "originalLanguage": "ko",
-  "status": "ongoing",
+  "lastVolume": "3",
+  "lastChapter": "119",
+  "status": "completed",
   "year": 2022,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -140,6 +142,30 @@
     }
    },
    {
+    "id": "d14322ac-4d6f-4e9b-afd9-629d5f4d8a41",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Villainess"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -165,9 +191,9 @@
    }
   ],
   "state": "published",
-  "version": 17,
+  "version": 19,
   "createdAt": "2021-03-15T00:59:53+00:00",
-  "updatedAt": "2024-11-16T14:03:22+00:00"
+  "updatedAt": "2024-12-04T19:24:50+00:00"
  },
  "relationships": [
   {
@@ -190,6 +216,86 @@
     "tumblr": null,
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "34e809fb-0182-4cb9-ad51-5ba43fa9a34f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-01-19T19:13:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yeongyeon",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-01-19T19:13:27+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1c157033-eb0a-494e-95bc-6bf98ca466ca",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\n앤트스튜디오"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ant Studio",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ANTSTUDIO3",
+    "updatedAt": "2022-04-09T22:43:12+00:00",
+    "version": 3,
+    "website": "http://www.theant.kr/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCCC1GXs2_WPa-U1N7xAQ_yg"
+   }
+  },
+  {
+   "id": "ba49b965-e1de-41f4-9873-6d8bf17a3f31",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-04T13:11:52+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "개떡",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-04T13:11:52+00:00",
     "version": 1,
     "website": null,
     "weibo": null,

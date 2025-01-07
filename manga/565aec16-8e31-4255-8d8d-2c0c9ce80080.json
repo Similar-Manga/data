@@ -3,11 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Grandpa Danger"
+   "en": "Evil Grandpa Danger"
   },
   "altTitles": [
    {
     "ja": "でんぢゃらすじーさん邪"
+   },
+   {
+    "ja-ro": "Dangerous Ji–san Ja"
+   },
+   {
+    "ja-ro": "Dangerous Jisan Ja"
+   },
+   {
+    "ja-ro": "Dangerous Jisan Jya"
    }
   ],
   "description": {
@@ -18,11 +27,12 @@
    "amz": "https://www.amazon.co.jp/dp/B074CJWRLW",
    "ap": "dangerous-jiisan-ja",
    "bw": "series/125089",
-   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD%3A14\u0026q=%E3%81%A7%E3%82%93%E3%81%A2%E3%82%83%E3%82%89%E3%81%99%E3%81%98%E3%83%BC%E3%81%95%E3%82%93%E9%82%AA\u0026order=reldesc\u0026opt.exclude_prx=on",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD:14\u0026q=でんぢゃらすじーさん邪\u0026order=reldesc\u0026opt.exclude_prx=on",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/240696/",
    "kt": "dangerous-jiisan-ja",
    "mal": "103790",
-   "mu": "moc1iq7"
+   "mu": "moc1iq7",
+   "raw": "https://www.corocoro.jp/title/314"
   },
   "originalLanguage": "ja",
   "lastVolume": "20",
@@ -46,9 +56,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2023-09-10T21:15:57+00:00",
-  "updatedAt": "2024-06-29T02:47:38+00:00"
+  "updatedAt": "2024-12-23T04:38:01+00:00"
  },
  "relationships": [
   {
@@ -115,6 +125,11 @@
     "version": 1,
     "volume": "20"
    }
+  },
+  {
+   "id": "01a44504-2bd7-4dbb-a2aa-ff169865af50",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "be31dfae-a650-4085-887f-95e26c568061",

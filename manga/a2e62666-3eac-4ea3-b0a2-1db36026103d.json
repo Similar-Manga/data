@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Grand Dwarf ~Machi Kou Shokunin, Takumi no Waza de Isekai Musou~"
+   "en": "Grand Dwarf: The Smalltown Craftsman's Skills Are Unmatched In Another World"
   },
   "altTitles": [
    {
     "ja": "グランドワーフ〜町工職人、匠の技で異世界無双〜"
    },
    {
-    "en": "Grand Dwarf: The Smalltown Craftsman's Skills Are Unmatched In Another World"
+    "ja-ro": "Grand Dwarf ~Machi Kou Shokunin, Takumi no Waza de Isekai Musou~"
    }
   ],
   "description": {
@@ -37,9 +37,10 @@
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en",
+   "pt-br",
    "id"
   ],
-  "latestUploadedChapter": "18799c10-dc62-4164-bd40-8b312f6cdf0f",
+  "latestUploadedChapter": "94cb2786-90dc-4ad2-b024-39b9983c4301",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -139,9 +140,9 @@
    }
   ],
   "state": "published",
-  "version": 21,
+  "version": 23,
   "createdAt": "2023-05-29T02:57:54+00:00",
-  "updatedAt": "2024-11-02T14:41:05+00:00"
+  "updatedAt": "2024-12-28T21:35:27+00:00"
  },
  "relationships": [
   {
@@ -201,16 +202,16 @@
    }
   },
   {
-   "id": "1c8b35a3-a425-4aa0-b587-1c993a61542a",
+   "id": "982f4212-bd65-4545-8779-73ddfa7dc121",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-23T23:11:44+00:00",
+    "createdAt": "2024-12-28T21:35:26+00:00",
     "description": "",
-    "fileName": "c6a07711-e9c1-4ecd-85e9-4e5f2556aa23.jpg",
+    "fileName": "6f44b11f-dc4c-464d-bb25-6414d607a474.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-23T23:11:44+00:00",
+    "updatedAt": "2024-12-28T21:35:26+00:00",
     "version": 1,
-    "volume": "4"
+    "volume": "5"
    }
   },
   {

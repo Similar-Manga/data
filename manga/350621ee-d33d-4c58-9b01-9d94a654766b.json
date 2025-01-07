@@ -1,0 +1,147 @@
+{
+ "id": "350621ee-d33d-4c58-9b01-9d94a654766b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Star☆Twinkle Pretty Cure - Onii-san (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "お兄さん"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/nopepe_/status/1566790721432342529"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-05T18:18:48+00:00",
+  "updatedAt": "2025-01-05T18:18:59+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ef5751f3-e1ac-470c-84ca-1cc60851ae13",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T00:29:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nopepe",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T00:29:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ef5751f3-e1ac-470c-84ca-1cc60851ae13",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T00:29:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nopepe",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T00:29:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a4d4ba97-547c-4566-a70f-cb907e95e2e5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-05T18:18:51+00:00",
+    "description": "",
+    "fileName": "932ac2d2-8e49-439b-a44f-8c9ebe44e4a3.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-05T18:18:51+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "f319d314-4310-4610-bcea-98c0128def1d",
+   "type": "creator"
+  }
+ ]
+}

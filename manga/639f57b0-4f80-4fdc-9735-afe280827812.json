@@ -3,23 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Otome Ghost Story"
+   "en": "Otome Kaidan"
   },
   "altTitles": [
    {
-    "ja-ro": "Otome Kaidan"
+    "ja": "乙女怪談"
    },
    {
-    "ja": "乙女怪談"
+    "en": "Otome Ghost Story"
    }
   ],
   "description": {
-   "en": "It seems that the maiden spirits that appear at school are collectively called \"Hanako-san\"... A cute ghost and a new hot-blooded teacher, Sakisaka, are very active!! Scary (?) Horror (?) comedy."
+   "en": "It seems that the maiden spirits that appear at school are collectively called \"Hanako-san\"... A cute ghost and a new hot-blooded teacher, Sakisaka, are very active!!",
+   "ja": "学校に現れる乙女の霊を総称して「花子さん」と呼ぶそうな… カワイイお化けと新任熱血教師・咲坂が大活躍!!"
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/乙女怪談-バンブーコミックス-楠桂-ebook/dp/B00I375Y08",
+   "amz": "https://www.amazon.co.jp/dp/B00I375Y08",
    "bw": "ded3019181-770c-4d2b-9bb6-74db0faf6226",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/147409/",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/147409",
    "mu": "zhcllxq"
   },
   "originalLanguage": "ja",
@@ -56,9 +57,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2023-04-28T02:12:43+00:00",
-  "updatedAt": "2023-04-28T02:12:51+00:00"
+  "updatedAt": "2025-01-02T22:32:08+00:00"
  },
  "relationships": [
   {
@@ -114,14 +115,14 @@
    }
   },
   {
-   "id": "40d9311d-284e-4f8c-aba3-5f424a0a84e9",
+   "id": "cf2a35de-5118-4ea0-9652-a79ad110573b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-04-28T02:12:46+00:00",
-    "description": "",
-    "fileName": "db648f9c-10f6-4d75-923a-7ece1b1cafbc.png",
+    "createdAt": "2025-01-02T22:32:07+00:00",
+    "description": "Volume 1 Cover from BookWalker",
+    "fileName": "5f7b56eb-3b6d-478f-ac1b-1536cd769ec9.jpg",
     "locale": "ja",
-    "updatedAt": "2023-04-28T02:12:46+00:00",
+    "updatedAt": "2025-01-02T22:32:07+00:00",
     "version": 1,
     "volume": "1"
    }

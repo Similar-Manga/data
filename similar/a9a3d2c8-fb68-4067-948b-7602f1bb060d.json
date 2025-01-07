@@ -11,12 +11,13 @@
     "en": "Kono Koi wo Hoshi ni wa Negawanai"
    },
    "contentRating": "safe",
-   "score": 0.18401483,
+   "score": 0.18402219,
    "languages": [
     "fr",
     "en",
     "pt-br",
-    "ru"
+    "ru",
+    "pl"
    ]
   },
   {
@@ -25,7 +26,7 @@
     "en": "\"Mi\" Seijuku"
    },
    "contentRating": "safe",
-   "score": 0.17153554,
+   "score": 0.17152311,
    "languages": [
     "ru",
     "pl",
@@ -69,25 +70,11 @@
     "en": "Hazure Potion ga Shouyu datta no de Ryouri suru koto ni shimashita"
    },
    "contentRating": "safe",
-   "score": 0.1351235,
+   "score": 0.13513279,
    "languages": [
     "en",
     "ru",
     "es-la"
-   ]
-  },
-  {
-   "id": "33e85af1-f040-44af-84ac-b9c6ecd04ccb",
-   "title": {
-    "en": "Shiota-sensei to Amai-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.13340846,
-   "languages": [
-    "en",
-    "vi",
-    "it",
-    "ru"
    ]
   },
   {
@@ -118,6 +105,20 @@
    ]
   },
   {
+   "id": "33e85af1-f040-44af-84ac-b9c6ecd04ccb",
+   "title": {
+    "en": "Shiota-sensei to Amai-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.13340846,
+   "languages": [
+    "en",
+    "vi",
+    "it",
+    "ru"
+   ]
+  },
+  {
    "id": "6e8c3b94-566d-4f61-9f21-1deb1901c739",
    "title": {
     "en": "Nakasete? Sensei"
@@ -142,18 +143,6 @@
    ]
   },
   {
-   "id": "0298d204-5a11-4e06-ba18-12d9c1d5663e",
-   "title": {
-    "en": "Te o Tsunaide Sanposhite"
-   },
-   "contentRating": "safe",
-   "score": 0.119324155,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
    "id": "b40ede21-1360-4a35-a86c-b1e7883eb243",
    "title": {
     "en": "Watashi-tachi wa Douka shiteiru"
@@ -164,6 +153,18 @@
     "pt-br",
     "ru",
     "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "0298d204-5a11-4e06-ba18-12d9c1d5663e",
+   "title": {
+    "en": "Te o Tsunaide Sanposhite"
+   },
+   "contentRating": "safe",
+   "score": 0.119324155,
+   "languages": [
+    "ru",
     "en"
    ]
   },
@@ -182,23 +183,6 @@
    ]
   },
   {
-   "id": "0d4b349e-b7a2-4d63-9ce0-f864e790c4a2",
-   "title": {
-    "en": "Veil"
-   },
-   "contentRating": "safe",
-   "score": 0.108927555,
-   "languages": [
-    "pl",
-    "en",
-    "ru",
-    "pt-br",
-    "th",
-    "ar",
-    "vi"
-   ]
-  },
-  {
    "id": "d4b5945b-0316-4a76-9392-3915ca3a07f5",
    "title": {
     "en": "Nanchatte Cinderella Oukyuu Inbou Hen Isekai de, Outaishi hi Hajimemashita."
@@ -208,6 +192,23 @@
    "languages": [
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "0d4b349e-b7a2-4d63-9ce0-f864e790c4a2",
+   "title": {
+    "en": "Veil"
+   },
+   "contentRating": "safe",
+   "score": 0.108927555,
+   "languages": [
+    "vi",
+    "pl",
+    "en",
+    "ru",
+    "pt-br",
+    "th",
+    "ar"
    ]
   },
   {
@@ -222,5 +223,5 @@
    ]
   }
  ],
- "updatedAt": "2024-12-01T21:38:12+00:00"
+ "updatedAt": "2025-01-06T00:49:53+00:00"
 }

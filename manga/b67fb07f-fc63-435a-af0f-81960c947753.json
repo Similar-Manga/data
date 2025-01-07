@@ -3,18 +3,15 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tekketsukan no Susume"
+   "en": "Azur Lane - Tekketsukan no Susume (Doujinshi)"
   },
   "altTitles": [
    {
-    "en": "鉄血艦のススメ"
-   },
-   {
-    "en": "鉄血艦のススメ (アズールレーン)"
+    "ja": "(C94) 鉄血艦のススメ (アズールレーン)"
    }
   ],
   "description": {
-   "en": "Azur Lane hentai doujin featuring straight sex between the commander, Deutschland, Admiral Hipper, and Admiral Graf Spee."
+   "en": "Azur Lane hentai doujin featuring straight sex between the commander, Deutschland, Admiral Hipper, and Admiral Graf Spee.\n\n| Namespace | Tags |\n| :--- | :--- |\n| parody | azur lane |\n| character | admiral graf spee, admiral hipper, deutschland, shikikan |\n| group | horumon curry |\n| artist | tobimura |\n| male | sleeping, sole male |\n| female | blowjob, defloration, nakadashi, unusual pupils, x-ray |\n| other | full censorship |\n[Source](https://exhentai.org/g/1320582/3d80f5224a/)"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -37,6 +34,18 @@
     }
    },
    {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
     "type": "tag",
     "attributes": {
@@ -50,11 +59,39 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-09-05T11:45:44+00:00",
-  "updatedAt": "2021-05-25T15:46:50+00:00"
+  "updatedAt": "2024-12-14T13:49:36+00:00"
  },
  "relationships": [
+  {
+   "id": "04059d59-48b1-4c46-8a5a-1b9a3bc45733",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n鳶村"
+    },
+    "booth": "https://tobimura.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://tobimura1234.fanbox.cc/",
+    "fantia": "https://fantia.jp/fanclubs/54058",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tobimura",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/15474574",
+    "skeb": "https://skeb.jp/@tobimura128",
+    "tumblr": null,
+    "twitter": "https://twitter.com/tobimura128",
+    "updatedAt": "2024-12-14T13:49:59+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "6d9f9b44-a5bc-4692-ae14-a5d5ba79d8d3",
    "type": "author",
@@ -66,7 +103,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Horumon Curry",
+    "name": "Horumon Curry (circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -74,8 +111,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-14T13:49:46+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -94,7 +131,7 @@
     "fantia": "https://fantia.jp/fanclubs/54058",
     "imageUrl": null,
     "melonBook": null,
-    "name": "tobimura",
+    "name": "Tobimura",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -102,7 +139,33 @@
     "skeb": "https://skeb.jp/@tobimura128",
     "tumblr": null,
     "twitter": "https://twitter.com/tobimura128",
-    "updatedAt": "2022-04-27T19:56:07+00:00",
+    "updatedAt": "2024-12-14T13:49:59+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6d9f9b44-a5bc-4692-ae14-a5d5ba79d8d3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Horumon Curry (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-14T13:49:46+00:00",
     "version": 2,
     "website": null,
     "weibo": null,
@@ -117,9 +180,9 @@
     "description": "",
     "fileName": "4c8b2d6a-6f1c-4990-9a0d-809e9a419833.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:25:25+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-12-14T13:49:35+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

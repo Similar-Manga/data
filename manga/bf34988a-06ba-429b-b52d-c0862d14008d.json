@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "You've Got the Wrong House, Villain"
+   "en": "This Is the Wrong House, Mr. Villain!"
   },
   "altTitles": [
    {
@@ -38,6 +38,9 @@
    },
    {
     "es-la": "Villano, estás en la casa equivocada"
+   },
+   {
+    "en": "You've Got the Wrong House, Villain"
    }
   ],
   "description": {
@@ -46,6 +49,7 @@
   "links": {
    "al": "170153",
    "ap": "youve-come-to-the-wrong-house-villain",
+   "engtl": "https://tapas.io/series/this-is-the-wrong-house-mr-villain/info",
    "mal": "163082",
    "mu": "ze5iqc3",
    "nu": "youve-got-the-wrong-house-villain",
@@ -122,6 +126,18 @@
     }
    },
    {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -147,9 +163,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-01-23T18:32:47+00:00",
-  "updatedAt": "2024-06-20T21:04:46+00:00"
+  "updatedAt": "2024-12-11T01:14:44+00:00"
  },
  "relationships": [
   {

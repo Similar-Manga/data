@@ -11,7 +11,7 @@
     "en": "Tonikaku Kawaii"
    },
    "contentRating": "safe",
-   "score": 0.3023262,
+   "score": 0.30228952,
    "languages": [
     "en",
     "vi",
@@ -35,13 +35,25 @@
     "en": "Tayutau Kemuri wa Tsukamenai"
    },
    "contentRating": "safe",
-   "score": 0.2925649,
+   "score": 0.29258645,
    "languages": [
     "pt-br",
     "vi",
     "en",
     "id",
     "es-la"
+   ]
+  },
+  {
+   "id": "8d186d3b-1076-40a7-b61b-86a3a00d43b5",
+   "title": {
+    "en": "Boku to Shishou no Himitsu Koubou"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "es-la",
+    "en"
    ]
   },
   {
@@ -61,24 +73,12 @@
    ]
   },
   {
-   "id": "8d186d3b-1076-40a7-b61b-86a3a00d43b5",
-   "title": {
-    "en": "Boku to Shishou no Himitsu Koubou"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "a4445962-32e7-4b72-b13b-a0384bf4f32a",
    "title": {
     "en": "TakuTore!"
    },
    "contentRating": "safe",
-   "score": 0.27146912,
+   "score": 0.27150452,
    "languages": [
     "pt-br",
     "it",
@@ -93,7 +93,7 @@
     "en": "Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken: After the Rain"
    },
    "contentRating": "safe",
-   "score": 0.27138925,
+   "score": 0.27131823,
    "languages": [
     "vi",
     "en",
@@ -110,11 +110,11 @@
     "en": "Kutabire Salarymen no Ore, 7nenburi ni Saikai shita Bishoujo JK to Dosei wo Hajimaru"
    },
    "contentRating": "safe",
-   "score": 0.2620464,
+   "score": 0.26202103,
    "languages": [
+    "en",
     "es-la",
-    "vi",
-    "en"
+    "vi"
    ]
   },
   {
@@ -123,13 +123,13 @@
     "en": "Boku no Kanojo wa Dekkawaii"
    },
    "contentRating": "safe",
-   "score": 0.25500992,
+   "score": 0.2550054,
    "languages": [
     "vi",
     "pl",
     "en",
-    "pt-br",
     "id",
+    "pt-br",
     "fr"
    ]
   },
@@ -156,13 +156,13 @@
    "languages": [
     "pt-br",
     "vi",
+    "en",
     "tr",
     "pl",
-    "fr",
     "id",
-    "en",
-    "ru",
-    "es-la"
+    "fr",
+    "es-la",
+    "ru"
    ]
   },
   {
@@ -173,39 +173,23 @@
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
+    "es-la",
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
+   "id": "5e29d71a-cc93-4b76-8684-938d7909c951",
    "title": {
-    "en": "Kusunoki's Flunking Her High School Glow-Up"
+    "en": "My Girlfriend's a BL Author, What Do I Do?"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
+    "pt-br",
     "en",
     "vi",
-    "es-la",
-    "pt-br",
-    "ru"
-   ]
-  },
-  {
-   "id": "28ed63af-61f8-43af-bac3-762030c72963",
-   "title": {
-    "en": "Uchi no Kaisha no Chiisai Senpai no Hanashi (Pre-Serialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en",
-    "es-la",
-    "pt-br",
-    "id",
-    "tr",
-    "ru"
+    "id"
    ]
   },
   {
@@ -228,9 +212,25 @@
    ]
   },
   {
+   "id": "28ed63af-61f8-43af-bac3-762030c72963",
+   "title": {
+    "en": "Uchi no Kaisha no Chiisai Senpai no Hanashi (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br",
+    "id",
+    "tr",
+    "ru"
+   ]
+  },
+  {
    "id": "157ab2cc-1fc7-4b29-8955-72d94a140982",
    "title": {
-    "en": "Kesa Mo Yuraretemasu"
+    "en": "Kesa mo Yuraretemasu"
    },
    "contentRating": "safe",
    "score": 0.24692619,
@@ -241,27 +241,28 @@
     "zh",
     "fr",
     "uk",
+    "es-la",
     "id"
    ]
   },
   {
-   "id": "23f2ab6b-0832-456b-9d87-35868ce34fc8",
+   "id": "c8218590-c812-4f79-9cf5-294070502ed5",
    "title": {
-    "en": "My Clueless First Friend"
+    "en": "The Closest We've Ever Been"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
+    "th",
     "en",
-    "uk",
-    "pt-br",
-    "it",
-    "ru",
     "vi",
-    "id",
-    "es-la"
+    "ru",
+    "pt-br",
+    "es-la",
+    "fr",
+    "id"
    ]
   }
  ],
- "updatedAt": "2024-12-01T21:21:25+00:00"
+ "updatedAt": "2025-01-06T00:29:54+00:00"
 }

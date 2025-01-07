@@ -11,7 +11,7 @@
     "en": "Guardian of the Scarecrow"
    },
    "contentRating": "safe",
-   "score": 0.3735147,
+   "score": 0.373832,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "BABEL"
    },
    "contentRating": "safe",
-   "score": 0.27780426,
+   "score": 0.27789637,
    "languages": [
     "en",
     "fr"
@@ -34,7 +34,7 @@
     "en": "Kami no Mezame no Gjallarhorn: Hazure Skill “Mezamashi” wa, Fuuin Kaijo no Nouryoku deshita"
    },
    "contentRating": "safe",
-   "score": 0.27422956
+   "score": 0.27420428
   },
   {
    "id": "431698a0-a500-48e0-b4c2-7aa981bb5152",
@@ -42,7 +42,7 @@
     "en": "Talli, Fille de la Lune"
    },
    "contentRating": "safe",
-   "score": 0.27368122,
+   "score": 0.27364308,
    "languages": [
     "en"
    ]
@@ -53,7 +53,7 @@
     "en": "Dragon Heroes - Crow"
    },
    "contentRating": "safe",
-   "score": 0.26605603,
+   "score": 0.26639026,
    "languages": [
     "id"
    ]
@@ -64,7 +64,15 @@
     "en": "Wind Fighters"
    },
    "contentRating": "safe",
-   "score": 0.26570174
+   "score": 0.26570097
+  },
+  {
+   "id": "8dd827e1-3aaa-40eb-b0e5-2600177abc01",
+   "title": {
+    "en": "Warcraft: Legends"
+   },
+   "contentRating": "safe",
+   "score": 0.264532
   },
   {
    "id": "6cd8ae64-94bc-4833-b596-fe1f881e8bd6",
@@ -72,7 +80,7 @@
     "en": "Crows Respect"
    },
    "contentRating": "safe",
-   "score": 0.263359,
+   "score": 0.26387677,
    "languages": [
     "en",
     "vi"
@@ -87,26 +95,26 @@
    "score": 0.26082027
   },
   {
-   "id": "cdfc9e66-e8a3-4f78-ab90-365fe32d4bcc",
-   "title": {
-    "en": "Uragirareta Touzoku, Kaitou Maou ni Natte Sekai wo Shouaku Suru"
-   },
-   "contentRating": "safe",
-   "score": 0.25721863,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "a4a10d24-149f-4f7b-8fc1-2784d377fb08",
    "title": {
     "en": "Tsuihou Bokensha no Yarinaoshi ~Yousei-kai de Kitae Naoshite Jibun no Ibasho wo Tsukuru~"
    },
    "contentRating": "safe",
-   "score": 0.2572104,
+   "score": 0.25719744,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "cdfc9e66-e8a3-4f78-ab90-365fe32d4bcc",
+   "title": {
+    "en": "Uragirareta Touzoku, Kaitou Maou ni Natte Sekai wo Shouaku Suru"
+   },
+   "contentRating": "safe",
+   "score": 0.2571573,
+   "languages": [
+    "en",
+    "id"
    ]
   },
   {
@@ -115,7 +123,7 @@
     "en": "Soara to Mamono no Ie"
    },
    "contentRating": "safe",
-   "score": 0.25575495,
+   "score": 0.25558674,
    "languages": [
     "pt-br",
     "fr",
@@ -123,36 +131,6 @@
     "en",
     "vi",
     "id"
-   ]
-  },
-  {
-   "id": "c8dfe302-2d1a-45f4-9a55-34ff4b2bd72f",
-   "title": {
-    "en": "Makyou Zankoku Roku Tonariawase no Hai to Seishun"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "84ec8c63-a314-4583-8623-55001e0871eb",
-   "title": {
-    "en": "Genie"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065
-  },
-  {
-   "id": "7775e0ea-13be-4e05-9835-7620a27045f5",
-   "title": {
-    "en": "ism/i"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -167,16 +145,35 @@
    ]
   },
   {
-   "id": "c7189944-398d-4fe1-8c79-96cf287a3749",
+   "id": "c8dfe302-2d1a-45f4-9a55-34ff4b2bd72f",
    "title": {
-    "en": "Whispers of the True King"
+    "en": "Makyou Zankoku Roku Tonariawase no Hai to Seishun"
    },
    "contentRating": "safe",
-   "score": 0.2523004,
+   "score": 0.25555065,
    "languages": [
-    "fr"
+    "en"
    ]
+  },
+  {
+   "id": "7775e0ea-13be-4e05-9835-7620a27045f5",
+   "title": {
+    "en": "ism/i"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "84ec8c63-a314-4583-8623-55001e0871eb",
+   "title": {
+    "en": "Genie"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065
   }
  ],
- "updatedAt": "2024-12-01T22:03:10+00:00"
+ "updatedAt": "2025-01-06T01:20:48+00:00"
 }

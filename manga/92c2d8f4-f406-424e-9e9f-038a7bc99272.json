@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I Met My Favorite Maid at My Transfer School"
+   "en": "Tenkousaki ni Oshi no Maid ga Ita"
   },
   "altTitles": [
    {
     "ja": "転校先に推しのメイドがいた"
    },
    {
-    "ja-ro": "Tenkousaki ni Oshi no Maid ga Ita"
+    "en": "I Met My Favorite Maid at My Transfer School"
    }
   ],
   "description": {},
@@ -22,25 +22,13 @@
   "year": 2022,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
+   "pt-br",
    "vi",
    "en",
-   "pt-br",
    "id"
   ],
-  "latestUploadedChapter": "5bd3207f-ce9f-48d7-a01f-38f863ce97a9",
+  "latestUploadedChapter": "3f2156f6-004f-42d1-ba11-ff146662a1ba",
   "tags": [
-   {
-    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Oneshot"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
    {
     "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
     "type": "tag",
@@ -103,9 +91,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 9,
   "createdAt": "2022-06-19T05:48:07+00:00",
-  "updatedAt": "2023-04-21T05:27:06+00:00"
+  "updatedAt": "2024-12-31T15:33:03+00:00"
  },
  "relationships": [
   {
@@ -165,14 +153,14 @@
    }
   },
   {
-   "id": "bdb83f6a-507f-4388-b815-9e636f2d5e4a",
+   "id": "86f1a7a7-eaf9-4756-973a-3060c4996fb0",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-06-19T05:51:55+00:00",
+    "createdAt": "2024-12-31T15:33:03+00:00",
     "description": "",
-    "fileName": "a0b2931f-07eb-4637-9142-8f1c9da3e15c.png",
+    "fileName": "e7008dff-28d1-480e-9041-d257132e406f.jpg",
     "locale": "ja",
-    "updatedAt": "2022-06-19T05:51:55+00:00",
+    "updatedAt": "2024-12-31T15:33:03+00:00",
     "version": 1,
     "volume": "1"
    }

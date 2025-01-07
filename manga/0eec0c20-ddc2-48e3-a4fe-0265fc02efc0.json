@@ -3,17 +3,47 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Otonari wa Nazrin"
+   "en": "Touhou - Otonari wa Nazrin (Doujinshi)"
   },
-  "description": {},
+  "altTitles": [
+   {
+    "ja": "(C90) おとなりはナズーリン (東方)"
+   },
+   {
+    "ja-ro": "Otonari wa Nazrin (Touhou)"
+   },
+   {
+    "en": "Nazrin Is My Neighbor (Touhou)"
+   }
+  ],
+  "description": {
+   "en": "| Namespace | Tags |\n| :- | :- |\n| parody | touhou project |\n| character | nazrin |\n| male | big penis, huge penis, prostitution, sole male, virginity |\n| female | blowjob, cumflation, gokkun, impregnation, inflation, kemonomimi, lolicon, mouse girl, nakadashi, sole female, stomach deformation, tail, x-ray |\n| other | multi-work series |\n\n---\n\nReleased at Comiket 90."
+  },
+  "links": {
+   "mu": "h25kxb6",
+   "raw": "https://www.melonbooks.co.jp/detail/detail.php?product_id=240351"
+  },
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2017,
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "643c7943-b395-4a02-adfa-54272ef4059e",
+  "latestUploadedChapter": "9b2a1d59-d1e5-4ebe-8d69-3522fa1ff3a5",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
     "type": "tag",
@@ -37,34 +67,77 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 8,
   "createdAt": "2022-02-04T08:46:37+00:00",
-  "updatedAt": "2022-02-04T08:46:50+00:00"
+  "updatedAt": "2024-07-18T11:29:06+00:00"
  },
  "relationships": [
   {
    "id": "3f67e2fe-e6c5-43ae-9e54-54b8d67eddad",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: ペソ\n\n**Circle/s**:\n[Cheese Company](https://mangadex.org/author/ac20eaeb-db14-4b85-849d-fe418b1c641e) (チーズカンパニー)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": "https://fantia.jp/8e7767e1b7",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Peso",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/216589",
+    "skeb": "https://skeb.jp/@PesPeso",
+    "tumblr": null,
+    "twitter": "https://twitter.com/PesPeso",
+    "updatedAt": "2024-07-14T17:20:32+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ac20eaeb-db14-4b85-849d-fe418b1c641e",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: チーズカンパニー\n\n**Members**:\n[Peso](https://mangadex.org/author/3f67e2fe-e6c5-43ae-9e54-54b8d67eddad)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
-    "name": "peso",
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=13215",
+    "name": "Cheese Company (Circle)",
+    "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-07-14T17:22:44+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -74,39 +147,75 @@
    "id": "3f67e2fe-e6c5-43ae-9e54-54b8d67eddad",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: ペソ\n\n**Circle/s**:\n[Cheese Company](https://mangadex.org/author/ac20eaeb-db14-4b85-849d-fe418b1c641e) (チーズカンパニー)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
-    "fantia": null,
+    "fantia": "https://fantia.jp/8e7767e1b7",
     "imageUrl": null,
     "melonBook": null,
-    "name": "peso",
+    "name": "Peso",
+    "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/en/users/216589",
+    "skeb": "https://skeb.jp/@PesPeso",
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/PesPeso",
+    "updatedAt": "2024-07-14T17:20:32+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "1ea14f2b-213c-4429-8a35-61f62b8a3ff2",
+   "id": "ac20eaeb-db14-4b85-849d-fe418b1c641e",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: チーズカンパニー\n\n**Members**:\n[Peso](https://mangadex.org/author/3f67e2fe-e6c5-43ae-9e54-54b8d67eddad)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=13215",
+    "name": "Cheese Company (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-07-14T17:22:44+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ed823133-8fb0-4bbb-8c16-83b87b285100",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-02-04T08:46:46+00:00",
+    "createdAt": "2022-02-04T08:46:45+00:00",
     "description": "",
-    "fileName": "74c17214-74f1-48e5-a2fa-ce7971857120.jpg",
+    "fileName": "3279ca45-a9e0-4d47-9151-b82f03318f51.jpg",
     "locale": "ja",
-    "updatedAt": "2022-02-04T08:46:46+00:00",
-    "version": 1,
-    "volume": "2"
+    "updatedAt": "2024-07-15T02:44:04+00:00",
+    "version": 2,
+    "volume": "1"
    }
+  },
+  {
+   "id": "1cb8c983-2c3a-4cd7-a4e8-2e76e7013e0c",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "e63cc706-8d0a-421a-b32d-fac2c550f138",

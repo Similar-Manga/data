@@ -1,0 +1,114 @@
+{
+ "id": "ee5e7aa9-38ee-408b-b5da-3766d2ca9e32",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Les anecdotes de la SD"
+  },
+  "altTitles": [
+   {
+    "fr": "Les anecdotes de la Shadows Draconis"
+   }
+  ],
+  "description": {
+   "fr": "Salutations jeunes lecteurs et lectrices parvenus dans nos contrées par curiosité. Si certains parmi vous sauront de quoi je parle d'autres non. Alors allez lire \"Akuyaku reijou no shitsuji sama drapeau hametsu wa ore ga tsubusasete itadakimasu\" car ici n'est à lire que le concentré des chaps bonus pour les rares affamés, lecteurs de ces chapitres. Le spoil, c'est le mal. Alors gardez-vous si vous n'avez pas lu l'œuvre. (Comparer au reste des œuvres où l'on sort un chap par mois. Ici sera publié 1 chapitre tous les deux semaines) Bien à vous et bonne lecture"
+  },
+  "originalLanguage": "fr",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "fr"
+  ],
+  "latestUploadedChapter": "6eb18086-b482-4037-8bf2-db2ab2dba977",
+  "tags": [
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-02T22:02:13+00:00",
+  "updatedAt": "2024-12-02T22:03:04+00:00"
+ },
+ "relationships": [
+  {
+   "id": "dd59ead9-02cc-450c-94d6-36c0f1c394e8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T12:11:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hykko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T12:11:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "dd59ead9-02cc-450c-94d6-36c0f1c394e8",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-25T12:11:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hykko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-25T12:11:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "44c71efa-69c6-4161-b514-7b6ba2e35c94",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-02T22:02:21+00:00",
+    "description": "",
+    "fileName": "d4ee7dad-579b-4d95-a6e2-1eab6c215e6e.png",
+    "locale": "fr",
+    "updatedAt": "2024-12-02T22:02:21+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a70b9dde-5149-4da1-9c48-8f10f03a5a0c",
+   "type": "creator"
+  }
+ ]
+}

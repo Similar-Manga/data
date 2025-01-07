@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Gakusou"
+   "en": "Framed"
   },
   "altTitles": [
    {
     "ja": "額装"
+   },
+   {
+    "ja-ro": "Gakusou"
    }
   ],
   "description": {
@@ -93,9 +96,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2019-02-03T12:52:49+00:00",
-  "updatedAt": "2024-07-15T23:40:37+00:00"
+  "updatedAt": "2024-12-04T04:10:21+00:00"
  },
  "relationships": [
   {

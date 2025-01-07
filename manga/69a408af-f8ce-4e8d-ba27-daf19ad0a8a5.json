@@ -1,0 +1,165 @@
+{
+ "id": "69a408af-f8ce-4e8d-ba27-daf19ad0a8a5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "My Girlfriend Always Glares at Me"
+  },
+  "altTitles": [
+   {
+    "ja": "ずっと睨んでくる彼女"
+   },
+   {
+    "ja-ro": "Zutto Nirande Kuru Kanojo"
+   },
+   {
+    "vi": "Bạn gái tôi luôn nhìn trừng trừng tôi"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/hashimotokurara/status/1792175737207951807"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "pt-br",
+   "es-la",
+   "vi",
+   "id",
+   "en"
+  ],
+  "latestUploadedChapter": "4c4f3f26-3194-4866-b4df-b48174166b85",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-16T01:17:42+00:00",
+  "updatedAt": "2024-12-16T20:32:40+00:00"
+ },
+ "relationships": [
+  {
+   "id": "10669b51-25bf-43a6-8dbe-0b9c86aed9dd",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 橋本くらら"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hashimoto Kurara",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": "http://seiga.nicovideo.jp/manga/list?user_id=26011782",
+    "pixiv": "http://www.pixiv.net/member.php?id=2974243",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hashimotokurara",
+    "updatedAt": "2024-10-24T04:34:38+00:00",
+    "version": 3,
+    "website": "http://hashimotosan.web.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "10669b51-25bf-43a6-8dbe-0b9c86aed9dd",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 橋本くらら"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hashimoto Kurara",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": "http://seiga.nicovideo.jp/manga/list?user_id=26011782",
+    "pixiv": "http://www.pixiv.net/member.php?id=2974243",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hashimotokurara",
+    "updatedAt": "2024-10-24T04:34:38+00:00",
+    "version": 3,
+    "website": "http://hashimotosan.web.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "55f07826-cb1a-42ca-a2bc-7ae816e027da",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-16T01:18:54+00:00",
+    "description": "",
+    "fileName": "3c6cd692-4333-433a-a4c4-6785cd1790b7.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-16T01:18:54+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "f97a9a67-01cc-48d0-a542-59ea341174c0",
+   "type": "creator"
+  }
+ ]
+}

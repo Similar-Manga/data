@@ -1,0 +1,145 @@
+{
+ "id": "01c52e9d-855a-448b-a6e1-a04865f472a5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Takara Shimai"
+  },
+  "altTitles": [
+   {
+    "ja": "宝姉妹"
+   },
+   {
+    "ja-ro": "Takara Shimai"
+   },
+   {
+    "zh": "中奖姐妹"
+   }
+  ],
+  "description": {
+   "ja": "小学生の姉妹・ニイナとマナは、「人生は冒険や!!」と置き手紙を残し2カ月前に姿を消した父の帰りを待ち続けている。そんなある日、父が誕生日プレゼントとして置いていった宝くじを確認した2人は、3億円を当ててしまい……。まだ小学生であることから当選金額の大きさがわからないニイナとマナは、“ぜーたく”をするためにとある店へと足を運ぶ。",
+   "zh": "两个月前，父亲留下一封写着「人生就是冒险!!」的字条，便神秘消失了，只留下小学生姐妹新奈和真奈一直在家中等候归来。然而某一天，父亲作为生日礼物留下的彩票，竟然开出了3亿日元大奖……。还只是小学生的新奈和真奈，并不明白这笔巨款的价值。为了「尽享奢华」，她们走进了一家神秘的店铺……"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "zh"
+  ],
+  "latestUploadedChapter": "c74eaa52-aa77-471a-a0d7-fb336b6e7c71",
+  "tags": [
+   {
+    "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Loli"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-04T19:00:42+00:00",
+  "updatedAt": "2025-01-04T19:01:48+00:00"
+ },
+ "relationships": [
+  {
+   "id": "00b30d73-901a-4a4d-95b0-11b574e15bb9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hisakawa Haru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/4348971",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hisakawa_haru",
+    "updatedAt": "2023-10-17T06:25:11+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "00b30d73-901a-4a4d-95b0-11b574e15bb9",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hisakawa Haru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/4348971",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hisakawa_haru",
+    "updatedAt": "2023-10-17T06:25:11+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2afc8a28-7ca9-4754-9c14-f3c9f2981cda",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-04T19:00:44+00:00",
+    "description": "",
+    "fileName": "4c640b97-e070-4916-9fa7-ec45817ab366.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-04T19:00:44+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "c300c765-a076-4fcb-824c-3f4e2fd55726",
+   "type": "creator"
+  }
+ ]
+}

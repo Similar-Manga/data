@@ -1,0 +1,188 @@
+{
+ "id": "f26a9d2a-c9f3-4cf3-8092-798ffcb8d617",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Blue Fight"
+  },
+  "altTitles": [
+   {
+    "ja": "BLUE～FIGHT～蒼き若者たちのブレイキングダウン～"
+   },
+   {
+    "ja-ro": "Blue Fight: Aoki Wakamono-tachi no Breaking Down"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mal": "174986",
+   "raw": "https://yanmaga.jp/comics/BLUE_FIGHT蒼き若者たちのブレイキングダウン"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "da2d50ca-3018-4cc0-ac7a-6b7d472a29ea",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Delinquents"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-26T08:27:29+00:00",
+  "updatedAt": "2024-12-27T13:04:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "edbc28f3-61dc-4a1f-aa97-af8f944e9ba1",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-11-23T18:27:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Gohoubi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/happyGOHOUBI",
+    "updatedAt": "2024-12-26T08:21:59+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "edbc28f3-61dc-4a1f-aa97-af8f944e9ba1",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-11-23T18:27:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Gohoubi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/happyGOHOUBI",
+    "updatedAt": "2024-12-26T08:21:59+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2b8ac74f-00f4-4815-b498-0bbe4bfe191b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-26T08:38:51+00:00",
+    "description": "",
+    "fileName": "e3e8915a-59e4-4c37-a81b-d55f9c28e496.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-26T08:38:51+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

@@ -11,10 +11,14 @@
    },
    {
     "ja-ro": "Okashi no Ie no Madam-san"
+   },
+   {
+    "en": "Madame of the Confectionery House"
    }
   ],
   "description": {
-   "en": "Tamaki, a chubby high school girl who likes to make sweets, applies for a part-time job at \"Okashi no Ie Nagamine,\" a candy shop in a desolate shopping street...this is a coming-of-age graffiti story about the 50-year age difference between a candy-addicted tsundere madam and a shy high school girl."
+   "en": "A sweet and gentle sisterhood story of a tsundere madam and a shy high school girl with a 50-year age difference. Moe, a lonely high school girl, finds a rundown candy store in a shopping district where she stops to take shelter from the rain. There she met the owner, which is a slightly scary witch-like madam...",
+   "ja": "ぼっちな女子高生の萌は、雨宿りに立ち寄った商店街でボロボロの駄菓子屋を見つける。店主はちょっと怖めな魔女みたいなマダムで…?お菓子中毒なツンデレマダムと、シャイな女子高生の、甘くやさしいシスターフッド・グラフィティ。"
   },
   "links": {
    "amz": "https://www.amazon.co.jp/おかしの家のマダムさん-1-秋田レディースコミックスDX-hara/dp/4253163912",
@@ -54,32 +58,34 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 10,
   "createdAt": "2023-09-20T21:34:32+00:00",
-  "updatedAt": "2024-11-02T18:11:00+00:00"
+  "updatedAt": "2024-12-10T09:36:10+00:00"
  },
  "relationships": [
   {
    "id": "dca1aa48-50c5-4519-8511-fb502ee77459",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Female illustrator, specializing in plus size fashion illustration.\n\n**Native name**: (はら)\n\n**Alt. names**:\nHara Atsume\n\nAdditional Links:\n[Bluesky](https://bsky.app/profile/hara-atsume.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2023-09-20T21:33:58+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "hara (III)",
+    "name": "hara (はら)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-09-20T21:33:58+00:00",
-    "version": 1,
+    "tumblr": "https://haraatsume.tumblr.com/",
+    "twitter": "https://twitter.com/hara_atsume",
+    "updatedAt": "2024-12-10T09:27:22+00:00",
+    "version": 6,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -89,37 +95,39 @@
    "id": "dca1aa48-50c5-4519-8511-fb502ee77459",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Female illustrator, specializing in plus size fashion illustration.\n\n**Native name**: (はら)\n\n**Alt. names**:\nHara Atsume\n\nAdditional Links:\n[Bluesky](https://bsky.app/profile/hara-atsume.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2023-09-20T21:33:58+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "hara (III)",
+    "name": "hara (はら)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-09-20T21:33:58+00:00",
-    "version": 1,
+    "tumblr": "https://haraatsume.tumblr.com/",
+    "twitter": "https://twitter.com/hara_atsume",
+    "updatedAt": "2024-12-10T09:27:22+00:00",
+    "version": 6,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "f1395b6f-93ee-4615-bd3b-3dc4194c5dd5",
+   "id": "1d90e7d0-1487-4a9c-b577-855684cd3e93",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-19T17:58:21+00:00",
-    "description": "",
-    "fileName": "4068b687-a4c1-4dd3-a3ee-6bc9657f6646.jpg",
+    "createdAt": "2024-12-10T09:35:31+00:00",
+    "description": "Cover from BookLive replacing the previous 1055x1500 cover",
+    "fileName": "3fa57616-4c5f-49e2-b3a8-07c03ef7b502.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-19T17:58:21+00:00",
+    "updatedAt": "2024-12-10T09:35:31+00:00",
     "version": 1,
     "volume": "1"
    }

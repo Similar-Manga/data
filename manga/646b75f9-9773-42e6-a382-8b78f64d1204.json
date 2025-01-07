@@ -1,0 +1,160 @@
+{
+ "id": "646b75f9-9773-42e6-a382-8b78f64d1204",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Senki Zesshou Symphogear - Like a Flower Lined Up to the Future (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "未来に並ぶ花のように"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2019,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "9e8280e8-ba3c-4fe0-98a9-2072fe00abb9",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-15T17:00:11+00:00",
+  "updatedAt": "2024-12-15T20:26:11+00:00"
+ },
+ "relationships": [
+  {
+   "id": "731cc77c-6e58-4a2a-8e87-28ded19eaf50",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Toratanuza",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "44f630ee-2fdf-4e93-a1b2-cd9f1d526e8b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Atori Rei",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ad3cb1f3-3d09-49af-aeb2-bf90f4e81ae9",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-15T17:00:14+00:00",
+    "description": "",
+    "fileName": "c04a0202-7f19-4c00-9210-c9aec587f3d4.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-15T17:00:14+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "6595aace-55db-4c3d-8fc9-331ae4bc5718",
+   "type": "creator"
+  }
+ ]
+}

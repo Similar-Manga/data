@@ -1,0 +1,154 @@
+{
+ "id": "ca0ea431-f7a7-4824-900c-644ff71be9ce",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Worst Generation"
+  },
+  "altTitles": [
+   {
+    "ko": "최악의 세대"
+   }
+  ],
+  "description": {
+   "en": "\"Today's kids have no manners.\"\n\n\"It's you who raised them that way.\"\n\nJung Buldo, the legendary fist, tries to start a new life after being released from prison.\n\nHowever, those close to Buldo are being harassed by the new generation of MZ gangsters.\n\nTae Eunseok, who has been watching this, tries to use Buldo for his own revenge..."
+  },
+  "links": {
+   "mal": "176974",
+   "mu": "l77su38"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "d54fa9f9-8dfd-404f-b87b-aaab3ba52de2",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-04T08:44:02+00:00",
+  "updatedAt": "2024-12-08T23:39:43+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d146ff58-71fd-46c8-9e71-5e4e990285cd",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-04T08:41:57+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Gwangsan",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-04T08:41:57+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "018cf567-93ab-4fe3-bdab-1ba123525f83",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-04T08:42:11+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "MAJOR",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-04T08:42:11+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6807cb12-1663-4880-aeba-94ebf33f8bb4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-04T08:44:07+00:00",
+    "description": "",
+    "fileName": "1035944f-8fd4-4240-8dc7-45e933c44f66.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-12-04T08:44:07+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9cdba5af-b71d-49b6-b627-0faa5aeb84cf",
+   "type": "creator"
+  }
+ ]
+}

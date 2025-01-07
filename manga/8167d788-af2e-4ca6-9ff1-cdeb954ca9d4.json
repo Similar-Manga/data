@@ -24,6 +24,30 @@
   "latestUploadedChapter": "2abc4d36-2162-4f54-892e-5877f653a65e",
   "tags": [
    {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "ddefd648-5140-4e5f-ba18-4eca4071d19b",
     "type": "tag",
     "attributes": {
@@ -37,9 +61,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2020-05-07T21:45:29+00:00",
-  "updatedAt": "2023-04-13T21:25:05+00:00"
+  "updatedAt": "2024-12-09T14:58:44+00:00"
  },
  "relationships": [
   {

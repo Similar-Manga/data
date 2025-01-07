@@ -19,7 +19,11 @@
     "ja": "アルケミスト　夢を旅した少年"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Santiago, a shepherd, believes in his dream that there is a hidden treasure waiting for him, and crosses the African desert to reach the pyramids. Through the alchemist's guidance and various encounters on his journey, he learns wisdom about life.",
+   "ja": "羊飼いのサンチャゴは、彼を待つ宝が隠されているという夢を信じ、アフリカの砂漠を越えピラミッドを目指す。錬金術師の導きと旅のさまざまな出会いのなかで、人生の知恵を学んで行く。",
+   "pt-br": "Santiago, um jovem pastor da Andaluzia, parte rumo ao Egito em busca de um tesouro escondido entre as Pirâmides. O que ele não sabe é que sua jornada o levará a riquezas muito diferentes – e mais satisfatórias – do que ele estava esperando."
+  },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B0DMQFJNMQ",
    "raw": "https://comic-walker.com/detail/KC_006112_S/episodes/KC_0061120000200011_E?episodeType=latest"
@@ -92,16 +96,18 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2024-11-27T10:02:00+00:00",
-  "updatedAt": "2024-11-27T16:35:54+00:00"
+  "updatedAt": "2024-12-07T20:29:01+00:00"
  },
  "relationships": [
   {
    "id": "d837e6be-ed2b-4778-875f-cf677c9c784a",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Paulo Coelho de Souza is a Brazilian lyricist and novelist and a member of the Brazilian Academy of Letters since 2002. His 1988 novel The Alchemist was an international best-seller. "
+    },
     "booth": null,
     "createdAt": "2024-11-27T09:47:30+00:00",
     "fanBox": null,
@@ -115,10 +121,10 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-11-27T09:47:30+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/paulocoelho",
+    "updatedAt": "2024-12-07T20:26:48+00:00",
+    "version": 2,
+    "website": "https://paulocoelhoblog.com",
     "weibo": null,
     "youtube": null
    }

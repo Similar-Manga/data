@@ -21,6 +21,8 @@
   },
   "links": {
    "al": "39987",
+   "mal": "9987",
+   "mu": "aeid5kg",
    "raw": "https://www.amazon.co.jp/大魔法峠-角川コミックス・エース-大和田-秀樹-ebook/dp/B0093G9EVS"
   },
   "originalLanguage": "ja",
@@ -48,9 +50,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-06-30T19:30:47+00:00",
-  "updatedAt": "2024-06-30T19:36:11+00:00"
+  "updatedAt": "2024-12-17T11:22:00+00:00"
  },
  "relationships": [
   {
@@ -121,6 +123,11 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "fe6616de-eb10-4408-9b34-c83caa011500",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "b6afcd7d-d124-45fb-9813-8fe441df65bb",

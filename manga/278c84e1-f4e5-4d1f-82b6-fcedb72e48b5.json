@@ -3,11 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Happy Sea World"
+   "en": "Life With My Loving In-Laws"
   },
   "altTitles": [
    {
     "ko": "해피 시월드"
+   },
+   {
+    "en": "The Happiest Marriage in History"
+   },
+   {
+    "en": "Best Wedding Ever"
+   },
+   {
+    "en": "Happy Newlyweds"
+   },
+   {
+    "en": "Happy Sea World"
+   },
+   {
+    "fr": "La plus heureuse des fiancées"
    },
    {
     "ja": "史上最幸の嫁入り"
@@ -16,16 +31,7 @@
     "ja-ro": "Shijousaikou no Yomeiri"
    },
    {
-    "en": "The happiest marriage in history"
-   },
-   {
-    "en": "Best wedding ever"
-   },
-   {
-    "fr": "La Plus Heureuse des Fiancées"
-   },
-   {
-    "en": "Happy Newlyweds"
+    "zh": "快乐婆家"
    }
   ],
   "description": {
@@ -33,6 +39,9 @@
    "es-la": "Lowell, el \"patito feo\" de los vizcondes de Linthea, es vendida en matrimonio a los duques de Hikaruel, un vampiro. Los rumores de que su socio político, el duque de Hikaruel, tiene cicatrices de quemaduras por todo el cuerpo y está lisiado, etc., la llevan al territorio de Hikaruel, donde es incapaz de ocultar sus temores. ¡Pero lo que le espera a Roel en el Ducado de Hikaruel es el Príncipe Aslan, un hermoso muchacho de pelo oscuro, y las amables gentes del Ducado de Hikaruel...! Habiendo crecido en una familia maltratadora, Lowell se siente desconcertado por el aspecto diferente del Príncipe y el ambiente cálido de la familia ducal, pero también se siente feliz. Por favor, ¡déjame quedarme aquí para siempre...!\". ¡Comienza la vida de la infeliz Lowell como la novia más feliz del mundo!"
   },
   "links": {
+   "al": "180240",
+   "ap": "life-with-my-loving-in-laws",
+   "engtl": "https://tapas.io/series/life-with-my-loving-in-laws/info",
    "mu": "cog5max",
    "raw": "https://page.kakao.com/content/63512854?tab_type=overview"
   },
@@ -42,14 +51,14 @@
   "contentRating": "safe",
   "tags": [
    {
-    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Historical"
+      "en": "Monsters"
      },
      "description": {},
-     "group": "genre",
+     "group": "theme",
      "version": 1
     }
    },
@@ -78,6 +87,18 @@
     }
    },
    {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -98,18 +119,6 @@
      },
      "description": {},
      "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
      "version": 1
     }
    },
@@ -151,9 +160,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 9,
   "createdAt": "2023-10-24T20:23:19+00:00",
-  "updatedAt": "2024-05-08T18:38:44+00:00"
+  "updatedAt": "2024-12-23T23:22:27+00:00"
  },
  "relationships": [
   {

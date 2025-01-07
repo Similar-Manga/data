@@ -24,9 +24,9 @@
   },
   "links": {
    "al": "85224",
-   "amz": "https://www.amazon.co.jp/gp/product/B074C7MXMK",
+   "amz": "https://www.amazon.co.jp/dp/B074C7MXMK",
    "ap": "immortal-hounds",
-   "bw": "series/16989/",
+   "bw": "series/16989",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/243401/",
    "engtl": "https://kodansha.us/series/immortal-hounds/",
    "kt": "16058",
@@ -40,7 +40,7 @@
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2013,
-  "contentRating": "safe",
+  "contentRating": "erotica",
   "availableTranslatedLanguages": [
    "en",
    "pt-br"
@@ -80,6 +80,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -133,9 +145,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 8,
   "createdAt": "2018-08-03T12:42:10+00:00",
-  "updatedAt": "2022-03-10T00:17:56+00:00"
+  "updatedAt": "2024-12-22T01:00:17+00:00"
  },
  "relationships": [
   {

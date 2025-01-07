@@ -11,7 +11,7 @@
    }
   ],
   "description": {
-   "en": "| Namespace | Tags |\n| :- | :- |\n| parody | touken ranbu |\n| character | heshikiri hasebe, saniwa |\n| male | anal, blowjob, crossdressing, deepthroat, dickgirl on male, impregnation, maid, muscle, pregnant, sole male |\n| female | big penis, femdom, futanari, glasses, smegma, sole dickgirl |\n| other | multi-work series |"
+   "en": "| Namespace | Tags |\n| :- | :- |\n| parody | touken ranbu |\n| character | heshikiri hasebe, saniwa |\n| male | anal, blowjob, crossdressing, deepthroat, **dickgirl on male**, **impregnation**, maid, muscle, pregnant, sole male |\n| female | big penis, femdom, **futanari**, glasses, smegma, sole dickgirl |\n| other | multi-work series |"
   },
   "links": {
    "mu": "k2lwh2h"
@@ -63,9 +63,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2019-04-30T04:12:18+00:00",
-  "updatedAt": "2024-04-05T04:42:13+00:00"
+  "updatedAt": "2024-12-26T14:36:07+00:00"
  },
  "relationships": [
   {
@@ -136,6 +136,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "ef562505-520d-40dc-a2ec-378eebefae99",
+   "type": "manga",
+   "related": "prequel"
   }
  ]
 }

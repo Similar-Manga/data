@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Guifei Jintian Ye Yao Yi Shen Si Di"
+   "en": "Once again, The Noble Consort Yields Herself to the Enemy"
   },
   "altTitles": [
    {
@@ -11,10 +11,13 @@
    },
    {
     "en": "Today the Imperial Concubine Is Also Using Herself to Raise the Enemy"
+   },
+   {
+    "zh-ro": "Guìfēi jīntiān yě yào yǐ shēn sì dí"
    }
   ],
   "description": {
-   "en": "\"I swapped bodies with my rival, and she's pregnant?!\" \n\nNow Princess Qiao is forced to go on the run while carrying Lady Ning's baby, and she's mad as hell about it. What's even more outrageous is that lying bitch Lady Ning seems to have a crush on the princess?",
+   "en": "[Airhead x Brooding Ice Queen]. \n“I exchanged bodies with my mortal foe, only to discover that she’s with child?!”\nFaced with no choice but to carry the baby on behalf of Noble Lady Ning, Noble Consort Qiao seethes with rage every day. More absurd still, this devious, conniving Noble Lady has the audacity to harbor feelings for me?!",
    "zh": "【娇蛮没头脑】X【闷骚不高兴】 “我与死对头身体互换，然后发现她身怀六甲？！”被迫替宁贵人带球跑的乔贵妃，每天都在气冲冲。 更离谱的是：这阴险狡诈的贵人，竟然暗恋本宫？"
   },
   "links": {
@@ -28,6 +31,10 @@
   "status": "completed",
   "year": 2022,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "e09fb71d-153b-4388-bada-3ea80cabe07a",
   "tags": [
    {
     "id": "33771934-028e-4cb3-8744-691e866a923e",
@@ -38,6 +45,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -90,18 +109,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
@@ -115,9 +122,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2024-09-17T15:35:48+00:00",
-  "updatedAt": "2024-09-17T15:37:43+00:00"
+  "updatedAt": "2024-12-23T17:10:53+00:00"
  },
  "relationships": [
   {

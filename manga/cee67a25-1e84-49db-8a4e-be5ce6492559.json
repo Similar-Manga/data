@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Villainess’s Guide to (Not) Falling in Love"
+   "en": "Akuyaku Reijou wa Dekiai Route ni Hairimashita!?"
   },
   "altTitles": [
    {
     "ja": "悪役令嬢は溺愛ルートに入りました！？"
    },
    {
-    "ja": "Akuyaku Reijou wa Dekiai Route ni Hairimashita!?"
+    "en": "The Villainess’s Guide to (Not) Falling in Love"
    },
    {
     "zh-hk": "反派千金進入了溺愛路線！？"
@@ -120,9 +120,9 @@
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 16,
   "createdAt": "2022-07-10T11:41:26+00:00",
-  "updatedAt": "2024-05-04T16:04:15+00:00"
+  "updatedAt": "2024-12-06T01:28:08+00:00"
  },
  "relationships": [
   {
@@ -152,17 +152,17 @@
    }
   },
   {
-   "id": "eece5361-a1ac-40a4-b366-80c37af6fe0c",
-   "type": "artist",
+   "id": "ebfe868b-8b82-4cb5-a0b2-1f92fae90a20",
+   "type": "author",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2024-12-06T01:27:25+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Ren Sakuma",
+    "name": "Sakuma Ren",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -170,7 +170,7 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "updatedAt": "2024-12-06T01:27:25+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -178,16 +178,42 @@
    }
   },
   {
-   "id": "dc9771bc-ec3a-4b6b-9ab9-f0aa2eefbc11",
+   "id": "ebfe868b-8b82-4cb5-a0b2-1f92fae90a20",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-06T01:27:25+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sakuma Ren",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-06T01:27:25+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e4844d72-ff42-4e77-a01b-1c1a917f9292",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-05-04T16:04:14+00:00",
+    "createdAt": "2024-12-06T01:28:07+00:00",
     "description": "",
-    "fileName": "8000e34b-a737-4a25-a3ef-d61fd327023c.jpg",
+    "fileName": "1d3ba4e4-e6ee-46b1-95ca-1c6f5c617a24.jpg",
     "locale": "ja",
-    "updatedAt": "2024-05-04T16:04:14+00:00",
+    "updatedAt": "2024-12-06T01:28:07+00:00",
     "version": 1,
-    "volume": "4"
+    "volume": "5"
    }
   },
   {

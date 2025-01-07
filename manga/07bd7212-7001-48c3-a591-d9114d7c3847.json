@@ -1,0 +1,140 @@
+{
+ "id": "07bd7212-7001-48c3-a591-d9114d7c3847",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Lock On"
+  },
+  "altTitles": [
+   {
+    "ja": "ロックオン"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/923disk/status/1864915691784245552"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi",
+   "en"
+  ],
+  "latestUploadedChapter": "a211f77d-d5d1-4e4b-88cf-53fd871ced11",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Police"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-20T07:38:40+00:00",
+  "updatedAt": "2024-12-20T07:39:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "76155f23-8135-456b-804f-e9ef209cf7ed",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-20T07:36:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Oni Jouro Ku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/26724588",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/923disk",
+    "updatedAt": "2024-12-20T07:37:19+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "76155f23-8135-456b-804f-e9ef209cf7ed",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-20T07:36:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Oni Jouro Ku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/26724588",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/923disk",
+    "updatedAt": "2024-12-20T07:37:19+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b3192e0f-30c1-4562-a20a-2ce358d2a67d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-20T07:38:43+00:00",
+    "description": "",
+    "fileName": "24cbea3d-5bda-4b72-ab71-e03c0af1d012.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-20T07:38:43+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "f97a9a67-01cc-48d0-a542-59ea341174c0",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Uchi no Neko ga Mata Hen na Koto Shiteru"
+   "en": "My Cat is Such a Weirdo"
   },
   "altTitles": [
    {
@@ -11,10 +11,16 @@
    },
    {
     "ja": "うちの猫がまた変なことしてる"
+   },
+   {
+    "ja-ro": "Uchi no Neko ga Mata Hen na Koto Shiteru"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Staring at you at night, putting their butts on your face, getting stuck in a box… Based on a popular blog, this full color manga shares the everyday silliness of living with cats."
+  },
   "links": {
+   "engtl": "https://sevenseasentertainment.com/series/my-cat-is-such-a-weirdo/",
    "mu": "4b04rd9"
   },
   "originalLanguage": "ja",
@@ -22,10 +28,48 @@
   "status": "ongoing",
   "year": 2016,
   "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2023-04-04T21:21:25+00:00",
-  "updatedAt": "2023-04-04T21:22:05+00:00"
+  "updatedAt": "2024-12-17T18:48:19+00:00"
  },
  "relationships": [
   {

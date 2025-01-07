@@ -3,11 +3,11 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Nihonkoku Shoukan"
+   "en": "Summoned Japan"
   },
   "altTitles": [
    {
-    "en": "Summoned Japan"
+    "ja-ro": "Nihonkoku Shoukan"
    },
    {
     "ja": "日本国召喚"
@@ -56,7 +56,7 @@
    "ru",
    "pt-br"
   ],
-  "latestUploadedChapter": "b4e8e45e-d335-4eba-a27f-821ff6a7d46b",
+  "latestUploadedChapter": "2853b674-0b53-4159-ba69-77800bd50974",
   "tags": [
    {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
@@ -192,9 +192,9 @@
    }
   ],
   "state": "published",
-  "version": 34,
+  "version": 35,
   "createdAt": "2019-07-24T07:23:35+00:00",
-  "updatedAt": "2024-11-01T16:59:21+00:00"
+  "updatedAt": "2024-12-31T06:44:08+00:00"
  },
  "relationships": [
   {
@@ -250,16 +250,16 @@
    }
   },
   {
-   "id": "fbbb5043-9934-406f-abe7-957b3fd6f937",
+   "id": "eff6d12f-8dbd-40f7-bf4f-bd7aef6be9fc",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-05-04T19:09:45+00:00",
+    "createdAt": "2024-12-18T14:42:09+00:00",
     "description": "",
-    "fileName": "6e663b72-e515-4d05-aa3e-c8b3c2c786ec.jpg",
+    "fileName": "fcec4046-da59-4688-bf99-e3d3a03c7098.jpg",
     "locale": "ja",
-    "updatedAt": "2024-05-04T19:09:45+00:00",
+    "updatedAt": "2024-12-18T14:42:09+00:00",
     "version": 1,
-    "volume": "8"
+    "volume": "9"
    }
   }
  ]

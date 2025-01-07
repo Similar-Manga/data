@@ -1,0 +1,182 @@
+{
+ "id": "4b7dcbb6-0871-4d97-99d4-cf3d2b651339",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ameku Takao no Suiri Karute: Sphere no Shitenshi"
+  },
+  "altTitles": [
+   {
+    "ja": "天久鷹央の推理カルテ スフィアの死天使"
+   }
+  ],
+  "description": {
+   "en": "Based on the hit medical mystery series which has sold over 3 million copies. This is the story of a strange encounter between two doctors who form a bond."
+  },
+  "links": {
+   "al": "185658",
+   "raw": "https://comic-days.com/episode/2550912964574960696"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "c8cbe35b-1b2b-4a3f-9c37-db84c4514856",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Medical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-04T21:23:13+00:00",
+  "updatedAt": "2025-01-04T21:51:00+00:00"
+ },
+ "relationships": [
+  {
+   "id": "45ca3a0e-c5cd-4f3c-9495-82456544910d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-11T07:20:24+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Chinen Mikito",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-10-11T07:20:24+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "70c40a92-ae6a-4d30-b949-7164a4b0c8e7",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takenashi Eri",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "70c40a92-ae6a-4d30-b949-7164a4b0c8e7",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takenashi Eri",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0a055417-b24e-47f3-bcd0-3ec91c4a104b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-04T21:23:15+00:00",
+    "description": "",
+    "fileName": "e80d84d3-1045-4611-a874-bcdddbac4072.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-04T21:23:15+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "07d32e07-f585-4e28-9fa5-7e9fe76e76ca",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

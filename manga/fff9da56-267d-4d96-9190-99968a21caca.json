@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I'll Try To End The Male Lead"
+   "en": "I'll Try to End the Male Lead"
   },
   "altTitles": [
    {
@@ -23,10 +23,16 @@
    },
    {
     "es-la": "Voy a matar al protagonista"
+   },
+   {
+    "ja": "男主人公を殺す筋書きを描いてみます"
+   },
+   {
+    "zh": "杀了病娇男主"
    }
   ],
   "description": {
-   "en": "I, Kwon Jinha, began feeling sick after reading a romance novel.\n\nI became connected to all the emotions and sensations of the female lead, Elvi.\n\nI even went to the hospital due to severe pain and sorrow but the result said there’s nothing wrong with my body.\n\nSo, I ended up sending an email to the novel’s author, begging for the male lead to stop tormenting the female lead. But instead, all I got was a happy reply...\n\n“Do your job properly, Elvi”.\n\nI found myself possessed in Elvi’s body in the novel.\n\nI got slapped by the male lead as soon as I possessed Elvi’s body, upon that, I had only one thought.\n\n“The male lead? It’s over if I kill him, right?”",
+   "en": "I, Kwon Jinha, began feeling sick after reading a romance novel.\n\nI became connected to all the emotions and sensations of the female lead, Elvi.\n\nI even went to the hospital due to severe pain and sorrow but the result said there’s nothing wrong with my body.\n\nSo, I ended up sending an email to the novel’s author, begging for the male lead to stop tormenting the female lead. But instead, all I got was a happy reply...\n\n“Do your job properly, Elvi”.\n\nI found myself possessing Elvi’s body in the novel.\n\nI got slapped by the male lead as soon as I possessed Elvi’s body, upon that, I had only one thought.\n\n“The male lead? It’s over if I kill him, right?”",
    "ko": "로판 소설을 읽고 몸이 아파오던 나 권진하.\n\n여주인공 엘비가 느끼는 감정과 감각이 모두 연결되어버렸다.\n\n끔찍한 통증과 슬픔에 병원까지 찾아갔지만 몸에는 이상무.\n\n결국 소설 작가에게 메일을 보냈다.\n\n제발 쓰레기 남주가 여주 좀 그만 괴롭히게.\n\n하지만 메일을 보냈더니 사이다 답장은커녕….\n\n“일은 똑바로 해야지, 엘비.”\n\n소설 속 엘비에게로 빙의해버렸다.\n\n빙의하자마자 뺨을 올려붙이는 남주를 보고 든 생각은 하나뿐.\n\n남주? 죽여버리면 그만이지."
   },
   "links": {
@@ -42,7 +48,7 @@
    "en",
    "es-la"
   ],
-  "latestUploadedChapter": "750456ce-1ba8-4618-8657-5bfee47ac5ed",
+  "latestUploadedChapter": "1b3d38b3-cd24-4452-a886-2d7f53457c97",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -105,18 +111,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
@@ -130,9 +124,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2024-01-07T06:38:29+00:00",
-  "updatedAt": "2024-09-23T18:11:56+00:00"
+  "updatedAt": "2024-12-16T20:28:42+00:00"
  },
  "relationships": [
   {
@@ -153,61 +147,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-01-07T06:34:01+00:00",
-    "version": 2,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "9f6b30ba-db31-46e0-b03a-444f23482633",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2024-01-07T06:33:13+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "팀 다이아닙",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-01-07T06:33:13+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "5782334b-6053-41f4-9be5-e9fe2cfead18",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2022-04-20T13:22:28+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Han Lian (한리앙)",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-01-07T06:34:01+00:00",
-    "version": 2,
+    "twitter": "https://twitter.com/jotarosarang",
+    "updatedAt": "2024-12-16T20:30:25+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -224,7 +166,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "팀 다이아닙",
+    "name": "Team. DIANIB",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -232,8 +174,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-01-07T06:33:13+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-16T20:30:01+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

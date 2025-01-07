@@ -7,10 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "エロティック・ホラー"
+    "ja": "エロティック・ホラー"
    },
    {
-    "en": "エロティック・ホラー-真夏の悪夢"
+    "ja": "エロティック・ホラー-真夏の悪夢"
    }
   ],
   "description": {
@@ -28,7 +28,7 @@
   "lastChapter": "5",
   "publicationDemographic": "shoujo",
   "status": "completed",
-  "contentRating": "erotica",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
   ],
@@ -59,6 +59,18 @@
     }
    },
    {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
@@ -83,6 +95,18 @@
     }
    },
    {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
     "type": "tag",
     "attributes": {
@@ -96,9 +120,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2018-03-08T01:15:38+00:00",
-  "updatedAt": "2021-05-25T15:45:36+00:00"
+  "updatedAt": "2024-12-19T17:09:13+00:00"
  },
  "relationships": [
   {

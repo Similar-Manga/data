@@ -7,69 +7,72 @@
   },
   "altTitles": [
    {
-    "ja-ro": "Ao Mizu Wakusei Nendaiki"
-   },
-   {
-    "en": "Aqua Planet Chronicle"
-   },
-   {
-    "en": "Aqua Planet Chronicle After"
-   },
-   {
-    "en": "Aqua Planet Chronicle Around"
-   },
-   {
-    "en": "Aqua Planet Chronicle Blue"
-   },
-   {
-    "en": "Aqua Planet Chronicle Final"
-   },
-   {
-    "en": "Aqua Planet Chronicle Jade"
-   },
-   {
-    "en": "Aqua Planet Chronicle Monthly Sachisachi"
-   },
-   {
-    "ja-ro": "Kan Mizu Wakusei Nendaiki"
-   },
-   {
-    "ja-ro": "Midori Mizu Wakusei Nendaiki"
+    "ja": "水惑星年代記"
    },
    {
     "ja-ro": "Mizu Wakusei Nendaiki"
    },
    {
-    "ja-ro": "Mizu Wakusei Nendaiki Gekkan Sachisachi"
-   },
-   {
-    "ja-ro": "Mizu Wakusei Nendaiki Getsujou (Runyan)"
+    "ja": "続水惑星年代記"
    },
    {
     "ja-ro": "Zoku Mizu Wakusei Nendaiki"
    },
    {
-    "ja": "水惑星年代記"
+    "en": "Aqua Planet Chronicle After"
    },
    {
-    "ja": "環水惑星年代記"
+    "ja": "環 水惑星年代記"
    },
    {
-    "ja": "碧水惑星年代記"
+    "ja-ro": "Kan Mizu Wakusei Nendaiki"
    },
    {
-    "ja": "続水惑星年代記"
+    "en": "Aqua Planet Chronicle Around"
    },
    {
-    "ja": "翠水惑星年代記"
+    "ja": "翠 水惑星年代記"
+   },
+   {
+    "ja-ro": "Sui Mizu Wakusei Nendaiki"
+   },
+   {
+    "en": "Aqua Planet Chronicle Jade"
+   },
+   {
+    "ja": "碧 水惑星年代記"
+   },
+   {
+    "ja-ro": "Ao Mizu Wakusei Nendaiki"
+   },
+   {
+    "en": "Aqua Planet Chronicle Blue"
+   },
+   {
+    "ja": "水惑星年代記 月娘"
+   },
+   {
+    "ja-ro": "Mizu Wakusei Nendaiki Ruunyan"
+   },
+   {
+    "en": "Aqua Planet Chronicle Final"
+   },
+   {
+    "ja": "水惑星年代記 月刊サチサチ"
+   },
+   {
+    "ja-ro": "Mizu Wakusei Nendaiki Gekkan Sachisachi"
+   },
+   {
+    "en": "Aqua Planet Chronicle Monthly Sachisachi"
    }
   ],
   "description": {
-   "en": "In the *Mizu Wakusei Nendaiki* (Aqua Planet Chronicle) series:  \n1. *Mizu Wakusei Nendaiki* (Aqua Planet Chronicle)  \n2. *Zoku Mizu Wakusei Nendaiki* (Aqua Planet Chronicle After)  \n3. *Kan Mizu Wakusei Nendaiki* (Aqua Planet Chronicle Around)  \n4. *Midori Mizu Wakusei Nendaiki* (Aqua Planet Chronicle Jade)  \n5. *Ao Mizu Wakusei Nendaiki* (Aqua Planet Chronicle Blue)  \n6. *Mizu Wakusei Nendaiki Getsujou (Runyan)* (Aqua Planet Chronicle Final)  \n7. *Mizu Wakusei Nendaiki Gekkan Sachisachi* (Aqua Planet Chronicle Monthly Sachisachi)"
+   "en": "1. Aqua Planet Chronicle\n2. Aqua Planet Chronicle After\n3. Aqua Planet Chronicle Around\n4. Aqua Planet Chronicle Jade\n5. Aqua Planet Chronicle Blue\n6. Aqua Planet Chronicle Final\n7. Aqua Planet Chronicle Monthly Sachisachi"
   },
   "links": {
    "al": "47932",
-   "amz": "https://www.amazon.co.jp/dp/B00O2ZEV0Y/",
+   "amz": "https://www.amazon.co.jp/s?k=続水惑星年代記",
    "ap": "mizu-wakusei-nendaiki",
    "bw": "search/?qcat=\u0026word=水惑星年代記",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/170388/",
@@ -101,6 +104,30 @@
     }
    },
    {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -114,16 +141,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2018-09-15T07:02:45+00:00",
-  "updatedAt": "2023-07-15T17:47:52+00:00"
+  "updatedAt": "2024-12-18T00:42:01+00:00"
  },
  "relationships": [
   {
    "id": "44eb1caf-7c7a-4976-81e0-9a1043d694ab",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 大石まさる\n\n**Other Romanization:** Ohishi Masaru\n\n**18+ Alias:** YUMENO-Z (夢ノ二)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -137,9 +166,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ohishimasaru",
+    "updatedAt": "2024-12-20T06:00:38+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -149,7 +178,9 @@
    "id": "44eb1caf-7c7a-4976-81e0-9a1043d694ab",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 大石まさる\n\n**Other Romanization:** Ohishi Masaru\n\n**18+ Alias:** YUMENO-Z (夢ノ二)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -163,26 +194,31 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ohishimasaru",
+    "updatedAt": "2024-12-20T06:00:38+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "aad0cc08-1211-4faf-8dad-09b4a61b4de4",
+   "id": "0cfce3cf-c695-474e-9df8-8d773766b905",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:44:59+00:00",
+    "createdAt": "2024-12-17T22:43:02+00:00",
     "description": "",
-    "fileName": "94437096-e0b0-4d25-9d85-37ce05e04615.jpg",
+    "fileName": "a4174b9a-9eed-4989-b102-6732e2bc6047.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:44:59+00:00",
+    "updatedAt": "2024-12-17T22:43:02+00:00",
     "version": 1,
-    "volume": null
+    "volume": "7"
    }
+  },
+  {
+   "id": "52e9cb45-e4f8-498f-bff6-4076fb4f75d4",
+   "type": "manga",
+   "related": "prequel"
   }
  ]
 }

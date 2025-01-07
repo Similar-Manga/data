@@ -1,0 +1,133 @@
+{
+ "id": "e48e73aa-5cce-4937-b4b1-f03511ba990e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Blue Archive - JAZZ's Twitter Content (Doujinshi)"
+  },
+  "description": {},
+  "links": {
+   "raw": "https://x.com/m5eistr913"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "0e7fd4c9-e2a0-4b46-8d7a-76cb43cc83ca",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 9,
+  "createdAt": "2024-12-29T16:39:06+00:00",
+  "updatedAt": "2024-12-30T18:04:12+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4641043a-18da-49d7-b189-eaae434167de",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-29T16:32:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "JAZZ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-29T16:32:42+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4641043a-18da-49d7-b189-eaae434167de",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-29T16:32:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "JAZZ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-29T16:32:42+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "59a9efe8-077a-4e2c-b24a-206d045cb061",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-29T16:41:04+00:00",
+    "description": "",
+    "fileName": "29d0c8a3-4c79-4c71-bc99-e7f810932ac7.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-29T16:41:04+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "944f9765-f86f-4642-98c6-fe39f475e604",
+   "type": "creator"
+  }
+ ]
+}

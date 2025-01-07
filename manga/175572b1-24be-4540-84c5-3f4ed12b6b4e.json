@@ -3,20 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Aikatsu Stars! - Sakuraba Rola no Joushiki (Doujinshi)"
+   "en": "Aikatsu Stars! - Sakuraba Rola no Joushiki"
   },
   "altTitles": [
    {
-    "en": "(C91)  桜庭ローラの常識 (アイカツスターズ!)"
-   },
-   {
-    "en": "(C91) Sakuraba Rola's Cluelessness"
+    "ja": "アイカツスターズ! - 桜庭ローラの常識"
    },
    {
     "en": "Aikatsu Stars! - Sakuraba Rola's Cluelessness"
    },
    {
-    "en": "アイカツスターズ! - 桜庭ローラの常識"
+    "en": "Sakuraba Rola's Cluelessness"
+   },
+   {
+    "ja": "(C91)  桜庭ローラの常識 (アイカツスターズ!)"
    }
   ],
   "description": {
@@ -24,7 +24,7 @@
   },
   "originalLanguage": "ja",
   "status": "completed",
-  "contentRating": "safe",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
   ],
@@ -43,6 +43,18 @@
     }
    },
    {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
     "type": "tag",
     "attributes": {
@@ -51,6 +63,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -68,9 +92,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-04-05T11:37:02+00:00",
-  "updatedAt": "2021-05-25T15:39:48+00:00"
+  "updatedAt": "2024-12-28T22:34:15+00:00"
  },
  "relationships": [
   {
@@ -202,6 +226,11 @@
    "id": "19138796-45e0-46f6-9548-264eb61774f6",
    "type": "manga",
    "related": "based_on"
+  },
+  {
+   "id": "b098cf8c-347b-47e3-af15-94b0f02ce4ea",
+   "type": "manga",
+   "related": "shared_universe"
   }
  ]
 }

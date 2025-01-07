@@ -1,0 +1,147 @@
+{
+ "id": "53e72fad-3871-476f-b9c0-49f96d058155",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kid Icarus - Boku wa o Kawari 2 Hai made (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "ボクはおかわり２杯まで"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/artworks/35494124"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2013,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-05T17:31:01+00:00",
+  "updatedAt": "2025-01-05T17:31:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ef5751f3-e1ac-470c-84ca-1cc60851ae13",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T00:29:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nopepe",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T00:29:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ef5751f3-e1ac-470c-84ca-1cc60851ae13",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T00:29:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nopepe",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T00:29:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7ac32e74-ad44-4293-bdc4-cf993f281903",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-05T17:31:05+00:00",
+    "description": "",
+    "fileName": "ebf2df75-6d45-41fd-970c-34a35189a2e5.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-05T17:31:05+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "f319d314-4310-4610-bcea-98c0128def1d",
+   "type": "creator"
+  }
+ ]
+}

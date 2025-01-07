@@ -1,0 +1,155 @@
+{
+ "id": "af8c4da7-05e7-4be4-8985-538f8af9a414",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Nijiiro māketto (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "虹色マーケット"
+   },
+   {
+    "en": "Rainbow-colored Market (Doujinshi)"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/en/artworks/93512281"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "0",
+  "status": "completed",
+  "year": 2021,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "652c1e08-f52d-4027-91b6-00fd231b7285",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2025-01-02T21:08:46+00:00",
+  "updatedAt": "2025-01-03T14:29:05+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e0d81b53-5154-488f-9cf0-2782cacfde31",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-02T20:52:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "あー麺",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-02T20:52:34+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e0d81b53-5154-488f-9cf0-2782cacfde31",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-02T20:52:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "あー麺",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-02T20:52:34+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e8044f19-2488-47bb-86cf-8d92ff9b8055",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-02T21:08:55+00:00",
+    "description": "",
+    "fileName": "697e8442-4a90-40a7-b252-9b56d2b0bd78.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-02T21:08:55+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "04cb3eb5-c311-4cb4-808c-b6e22da95666",
+   "type": "creator"
+  }
+ ]
+}

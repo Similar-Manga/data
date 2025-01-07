@@ -1,0 +1,179 @@
+{
+ "id": "e6823804-c367-432e-a941-6dcfd7da5cb4",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kenshou"
+  },
+  "altTitles": [
+   {
+    "en": "Verification"
+   },
+   {
+    "ja": "検証"
+   },
+   {
+    "ja": "Ichigo Kiss"
+   },
+   {
+    "ja": "苺キス"
+   },
+   {
+    "en": "Strawberry Kiss"
+   }
+  ],
+  "description": {},
+  "links": {
+   "amz": "https://www.amazon.co.jp/%E4%BE%9D%E3%80%85%E6%81%8B%E3%80%85-%E7%94%98%E5%B4%8E%E6%B0%B4%E8%8F%93-ebook/dp/B09BFKDZTQ",
+   "bw": "de79c281c4-3b5e-466e-a226-15a50cfedf53",
+   "raw": "https://x.com/amazaki_suika/status/1383787819227705350"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "1",
+  "status": "completed",
+  "year": 2021,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en",
+   "tr"
+  ],
+  "latestUploadedChapter": "b39e8e7a-5c17-4aa0-8f98-f61952abb382",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-01T02:19:15+00:00",
+  "updatedAt": "2025-01-01T02:29:25+00:00"
+ },
+ "relationships": [
+  {
+   "id": "40a2c6c7-fc78-4fff-aa89-9789fc1028b8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-11-27T09:54:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amazaki Suika",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/32890935",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/amazaki_suika",
+    "updatedAt": "2024-12-15T00:53:26+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "40a2c6c7-fc78-4fff-aa89-9789fc1028b8",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-11-27T09:54:56+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amazaki Suika",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/32890935",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/amazaki_suika",
+    "updatedAt": "2024-12-15T00:53:26+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e99b90f8-b88e-4630-9d0d-8a38b35a140c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-01T02:28:56+00:00",
+    "description": "",
+    "fileName": "00370c2b-4be3-48ea-a0b5-033b7ba24b7d.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-01T02:28:56+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "9872825c-2d06-4768-842b-09e70b0c2409",
+   "type": "creator"
+  }
+ ]
+}

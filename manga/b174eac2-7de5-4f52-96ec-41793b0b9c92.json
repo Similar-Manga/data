@@ -15,11 +15,12 @@
   },
   "links": {
    "al": "101921",
-   "amz": "https://www.amazon.co.jp/%E3%82%A4%E3%83%8A%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3GO-%E7%AC%AC1%E5%B7%BB-%E3%81%A6%E3%82%93%E3%81%A8%E3%81%86%E8%99%AB%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%82%84%E3%81%B6%E3%81%AE-%E3%81%A6%E3%82%93%E3%82%84/dp/4091413889/ref=sr_1_1?keywords=%E3%82%A4%E3%83%8A%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3GO+%E7%AC%AC1%E5%B7%BB\u0026qid=1564375528\u0026s=books\u0026sr=1-1",
-   "bw": "https://bookwalker.jp/series/125101/",
+   "amz": "https://www.amazon.co.jp/イナズマイレブンGO-第1巻-てんとう虫コロコロコミックス-やぶの-てんや/dp/4091413889/ref=sr_1_1?keywords=イナズマイレブンGO+第1巻\u0026qid=1564375528\u0026s=books\u0026sr=1-1",
+   "bw": "https://bookwalker.jp/series/125101",
    "kt": "16967",
    "mal": "37999",
-   "mu": "70247"
+   "mu": "70247",
+   "raw": "https://www.corocoro.jp/title/671"
   },
   "originalLanguage": "ja",
   "lastVolume": "7",
@@ -51,12 +52,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2019-08-27T02:58:09+00:00",
-  "updatedAt": "2019-08-27T02:58:09+00:00"
+  "updatedAt": "2024-12-23T05:50:05+00:00"
  },
  "relationships": [
   {
@@ -159,6 +172,11 @@
    "id": "d85f8bbd-73c6-403a-a66f-e9c375fb8613",
    "type": "manga",
    "related": "same_franchise"
+  },
+  {
+   "id": "e6be2b4b-a914-4f98-ba0f-32b6b80c1207",
+   "type": "manga",
+   "related": "prequel"
   }
  ]
 }

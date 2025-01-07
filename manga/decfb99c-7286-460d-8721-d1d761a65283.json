@@ -3,14 +3,19 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Zanma Kenden"
+   "en": "Demon-Slaying Sword"
   },
   "altTitles": [
    {
     "ja": "斬魔剣伝"
+   },
+   {
+    "ja-ro": "Zanma Kenden"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "During the Warring States period, a ninja sneaks into Sunpu Castle to assassinate Tokugawa Ieyasu, ordered by the wise general Sanada Yukimura. While his companions are defeated, Ragomaru reaches Ieyasu. However, there he finds a demon aiming for the \"Singer Statue\"... Published simultaneously with \"Ragoden\""
+  },
   "links": {
    "al": "50285",
    "mal": "20285",
@@ -86,9 +91,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2023-05-05T16:48:03+00:00",
-  "updatedAt": "2023-05-05T17:52:23+00:00"
+  "updatedAt": "2024-12-29T06:13:09+00:00"
  },
  "relationships": [
   {

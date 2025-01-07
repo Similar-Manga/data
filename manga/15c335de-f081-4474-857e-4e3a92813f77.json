@@ -23,11 +23,12 @@
    "cdj": "http://www.cdjapan.co.jp/product/NEOBK-1057021?s_ssid=e369765d645bb116e0",
    "kt": "28758",
    "mal": "62687",
-   "mu": "73227"
+   "mu": "73227",
+   "raw": "https://www.corocoro.jp/title/662"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
-  "lastChapter": "17",
+  "lastChapter": "16",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2011,
@@ -35,7 +36,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "821b0c3c-8ce7-4761-864a-57919fbc26e9",
+  "latestUploadedChapter": "9daddd58-0da2-4e8b-ba87-f07d7dfc4f9e",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -111,9 +112,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2020-02-22T07:35:04+00:00",
-  "updatedAt": "2024-04-12T04:02:50+00:00"
+  "updatedAt": "2024-12-23T01:58:09+00:00"
  },
  "relationships": [
   {
@@ -169,17 +170,22 @@
    }
   },
   {
-   "id": "2d3088af-4200-4f56-a901-437d9cfaace5",
+   "id": "71792b9c-7166-478e-94f3-7c6d84d7aaca",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:46:02+00:00",
+    "createdAt": "2024-12-17T03:41:50+00:00",
     "description": "",
-    "fileName": "cdc7e76d-c386-4818-9e90-346b4174219c.jpg",
+    "fileName": "fbd7094d-b789-4154-931c-570a9aea41b8.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:46:02+00:00",
+    "updatedAt": "2024-12-17T03:41:50+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
+  },
+  {
+   "id": "e6be2b4b-a914-4f98-ba0f-32b6b80c1207",
+   "type": "manga",
+   "related": "alternate_story"
   }
  ]
 }

@@ -1,0 +1,126 @@
+{
+ "id": "1d7ea8d7-f924-4f0b-aebe-da4303aa4dd3",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Band"
+  },
+  "description": {
+   "en": "The series is a new band story following a young man who sets off on a music journey when his soul is set aflame after discovering a guitar\n\n\nSource:ANN"
+  },
+  "links": {
+   "al": "185469",
+   "mal": "176901"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "5164588d-5cb2-4495-8106-3ad49d03398b",
+  "tags": [
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Music"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-27T22:56:24+00:00",
+  "updatedAt": "2024-12-30T22:46:59+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2a2210a4-2e6c-45b1-bfaf-f98cc6fc6170",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Harold Sakuishi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2a2210a4-2e6c-45b1-bfaf-f98cc6fc6170",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Harold Sakuishi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5b6fe4e4-98e9-4758-bcb7-b442df36f37d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-27T22:56:34+00:00",
+    "description": "magazine cover",
+    "fileName": "2229bacc-2cf1-4928-aa12-ef8ae9107e3d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-27T22:56:34+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "56fffe12-b089-405b-bd61-35d46d824871",
+   "type": "creator"
+  }
+ ]
+}

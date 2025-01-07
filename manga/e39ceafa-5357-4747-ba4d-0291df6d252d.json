@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Overwatch - OVERTIME!! OVERWATCH FANBOOK (Fan Colored)"
+   "en": "Overwatch - OVERTIME!! OVERWATCH FANBOOK (Doujinshi) (Fan Colored)"
   },
   "description": {},
   "originalLanguage": "ja",
@@ -27,6 +27,18 @@
     }
    },
    {
+    "id": "7b2ce280-79ef-4c09-9b58-12b7c23a9b78",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fan Colored"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
     "type": "tag",
     "attributes": {
@@ -40,9 +52,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2020-10-01T14:27:29+00:00",
-  "updatedAt": "2023-06-05T06:14:31+00:00"
+  "updatedAt": "2024-12-14T12:54:40+00:00"
  },
  "relationships": [
   {

@@ -10,8 +10,13 @@
     "ja": "ライクブルー・ライクサマー"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "《This is a story about the time I spent with that person, which was as quick as a blink of an eye, but which I will never forget.》\n\nDan was the basketball club's first-year ace and had been drawing attention from the club.\n\nHowever, with the IH approaching, he was injured and needed a month and a half to recover, and now he was in the depths of despair.\n\nHe tried to attend club activities for the first time in a while, but felt uncomfortable, and just as he was about to leave, he was harassed by some delinquents.\n\nThen, Kaito, a third-year student he had never met, suddenly appeared, helped him and asked him to come to the art club after school...!?\n\n[Innocent basketball boy x mysterious art club member], an unforgettable summer love begins, a fresh depiction of the youth and struggles of a high school boy."
+  },
   "links": {
+   "amz": "https://www.amazon.co.jp/s?k=ライクブルー・ライクサマー",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/856874/",
+   "mu": "prnb4c9",
    "raw": "https://www.cmoa.jp/title/305614/"
   },
   "originalLanguage": "ja",
@@ -29,6 +34,18 @@
     "attributes": {
      "name": {
       "en": "Boys' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
      },
      "description": {},
      "group": "genre",
@@ -61,16 +78,18 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2024-10-23T14:07:35+00:00",
-  "updatedAt": "2024-10-23T14:07:54+00:00"
+  "updatedAt": "2024-12-03T06:59:24+00:00"
  },
  "relationships": [
   {
    "id": "56248864-21e6-42ef-a2fe-0deb4179861b",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n羽月レイ"
+    },
     "booth": null,
     "createdAt": "2024-10-23T14:06:00+00:00",
     "fanBox": null,
@@ -84,9 +103,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-23T14:06:00+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/_hazuki01",
+    "updatedAt": "2024-12-03T06:58:15+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -96,7 +115,9 @@
    "id": "56248864-21e6-42ef-a2fe-0deb4179861b",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n羽月レイ"
+    },
     "booth": null,
     "createdAt": "2024-10-23T14:06:00+00:00",
     "fanBox": null,
@@ -110,9 +131,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-10-23T14:06:00+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/_hazuki01",
+    "updatedAt": "2024-12-03T06:58:15+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

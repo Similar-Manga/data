@@ -7,12 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "夏祭り"
+    "ja": "夏祭り"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "originalLanguage": "ja",
   "status": "completed",
   "contentRating": "pornographic",
@@ -58,6 +56,18 @@
     }
    },
    {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "ddefd648-5140-4e5f-ba18-4eca4071d19b",
     "type": "tag",
     "attributes": {
@@ -71,9 +81,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2019-11-18T12:28:13+00:00",
-  "updatedAt": "2021-05-25T15:39:14+00:00"
+  "updatedAt": "2024-12-11T15:56:18+00:00"
  },
  "relationships": [
   {
@@ -87,7 +97,33 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Mine Noujou",
+    "name": "Mine Noujou (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-11T15:56:29+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f6dda829-c8db-4adf-b0fd-2e12530737d7",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mine Mura",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -97,6 +133,32 @@
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0195cf2b-b43e-43c0-a2c7-12c12e330781",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mine Noujou (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-11T15:56:29+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

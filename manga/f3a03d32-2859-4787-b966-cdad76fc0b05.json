@@ -1,0 +1,128 @@
+{
+ "id": "f3a03d32-2859-4787-b966-cdad76fc0b05",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "A family that's close enough to share clothes"
+  },
+  "altTitles": [
+   {
+    "ja": "洋服もシェアできる仲良し親子"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/pensis_x/status/1871103606306550115"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "pt-br",
+   "en"
+  ],
+  "latestUploadedChapter": "aad756d8-dd4b-4d75-b2ae-f8a9924deef6",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-24T06:25:27+00:00",
+  "updatedAt": "2024-12-24T06:26:51+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1804a16a-84ed-42be-a9c8-d477078f2d68",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T06:24:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "pen姉",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/pensis_x",
+    "updatedAt": "2024-12-24T13:15:28+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1804a16a-84ed-42be-a9c8-d477078f2d68",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T06:24:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "pen姉",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/pensis_x",
+    "updatedAt": "2024-12-24T13:15:28+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "526b9dfd-6fc5-470e-ba60-27334fa1f55c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-24T06:25:46+00:00",
+    "description": "",
+    "fileName": "28d993ac-9370-43bf-98f5-43cd48bca493.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-24T06:25:46+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "085a6293-0e39-4f5d-9169-3023cc01a18b",
+   "type": "creator"
+  }
+ ]
+}

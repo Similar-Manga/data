@@ -3,28 +3,31 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Record of Ragnarok: The Legend of Lu Bu Fengxian"
+   "en": "Shuumatsu no Valkyrie Ibun - Ryo Fu Housen Hishouden"
   },
   "altTitles": [
    {
-    "en": "Shuumatsu no Valkyrie Chronicle: The Legend of Lu Bu Fengxian, the Flying General"
-   },
-   {
-    "ja-ro": "Shuumatsu no Warukyūre Ibun Ryo Fu Housen Hishou-den"
+    "en": "The Legend of Lu Bu"
    },
    {
     "ja": "終末のワルキューレ異聞 呂布奉先飛将伝"
+   },
+   {
+    "en": "Record of Ragnarok: The Legend of Lu Bu Fengxian"
+   },
+   {
+    "en": "Record of Ragnarok Strange Story: The Legend of Lu Bu Fengxian, the Flying General"
    }
   ],
   "description": {
-   "en": "A spin-off centering on Lu Bu Fengxian.",
+   "en": "A spinoff centering on Lu Bu Fengxian.",
    "pt-br": "Um spin-off de Shuumatsu no Valkyrie, centrado no primeiro campeão da humanidade, Lu Bu!"
   },
   "links": {
    "al": "112977",
    "amz": "https://www.amazon.co.jp/dp/B086PG3SGK",
    "ap": "shuumatsu-no-valkyrie-ibun-ryo-fu-housen-hishouden",
-   "bw": "series/244293/list",
+   "bw": "series/244293",
    "engtl": "https://mangahot.jp/site/works/e_R0003",
    "mal": "125764",
    "mu": "157761",
@@ -157,9 +160,9 @@
    }
   ],
   "state": "published",
-  "version": 17,
+  "version": 24,
   "createdAt": "2020-04-07T16:43:18+00:00",
-  "updatedAt": "2024-10-09T17:11:13+00:00"
+  "updatedAt": "2024-12-29T19:17:56+00:00"
  },
  "relationships": [
   {
@@ -254,9 +257,19 @@
    }
   },
   {
+   "id": "6676aef9-cf30-4950-9a20-e0382b5e7447",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
    "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
    "type": "manga",
    "related": "adapted_from"
+  },
+  {
+   "id": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+   "type": "manga",
+   "related": "shared_universe"
   }
  ]
 }

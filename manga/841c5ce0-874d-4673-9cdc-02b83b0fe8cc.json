@@ -1,0 +1,157 @@
+{
+ "id": "841c5ce0-874d-4673-9cdc-02b83b0fe8cc",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Black Jack×bj"
+  },
+  "altTitles": [
+   {
+    "ja": "ブラック・ジャック　B・J×bj"
+   }
+  ],
+  "description": {
+   "ja": "日本プロバスケットボールリーグに降臨したB・Jに手術依頼が!　迫る死の現場に現れたキリコ、そして病巣を断つB・Jのメスとは…!?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B00J02Y2AS",
+   "ap": "black-jack-bj-x-bj",
+   "bw": "series/357288",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-844450",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/219233/",
+   "kt": "black-jack-bj-x-bj",
+   "mal": "23711",
+   "mu": "zup4hww",
+   "raw": "https://www.akitashoten.co.jp/series/2647"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "6",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2010,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "c8cbe35b-1b2b-4a3f-9c37-db84c4514856",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Medical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-08T21:25:29+00:00",
+  "updatedAt": "2024-12-08T23:11:40+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2db302cf-f769-40fd-a361-c79095137aa8",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n吉富昭仁"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshitomi Akihito",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/yoshi_akihito",
+    "updatedAt": "2023-02-16T00:44:50+00:00",
+    "version": 6,
+    "website": "http://garigarieatman.la.coocan.jp/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCeySBnV71dyC-gwqapq9NwQ"
+   }
+  },
+  {
+   "id": "2db302cf-f769-40fd-a361-c79095137aa8",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n吉富昭仁"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshitomi Akihito",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/yoshi_akihito",
+    "updatedAt": "2023-02-16T00:44:50+00:00",
+    "version": 6,
+    "website": "http://garigarieatman.la.coocan.jp/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCeySBnV71dyC-gwqapq9NwQ"
+   }
+  },
+  {
+   "id": "a81aa369-1c24-465b-9f30-f00f10ad219a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-08T21:25:31+00:00",
+    "description": "",
+    "fileName": "41efbb25-7d76-4d2f-b4d0-99f6ff1e33aa.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-08T21:25:31+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "fd86eab2-f0f3-47d3-bce5-5628e97f37dc",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "cf76a880-cc1e-4bba-8634-3e5850528572",
+   "type": "creator"
+  }
+ ]
+}

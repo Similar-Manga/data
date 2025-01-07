@@ -1,0 +1,151 @@
+{
+ "id": "94b1550f-44a6-4872-b117-e72bd6509513",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Youkai Seito Series"
+  },
+  "altTitles": [
+   {
+    "ja": "妖怪生徒シリーズ"
+   },
+   {
+    "en": "Youkai Student Series"
+   },
+   {
+    "en": "Youkai Students"
+   }
+  ],
+  "description": {
+   "en": "A 4-koma about the lives of the youkai at Youkai-Academy"
+  },
+  "links": {
+   "raw": "https://www.pixiv.net/user/1001918/series/5915"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2016,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "cbe2b6d6-24db-49ce-89f1-06176c8e617b",
+  "tags": [
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-05T15:12:02+00:00",
+  "updatedAt": "2024-12-07T05:31:44+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3d984d42-016d-448c-b61b-3c4060647d61",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 宛名に文字"
+    },
+    "booth": null,
+    "createdAt": "2024-12-05T15:11:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Atena ni Moji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/1001918",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/atenanimoji",
+    "updatedAt": "2024-12-07T05:33:40+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3d984d42-016d-448c-b61b-3c4060647d61",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 宛名に文字"
+    },
+    "booth": null,
+    "createdAt": "2024-12-05T15:11:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Atena ni Moji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/1001918",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/atenanimoji",
+    "updatedAt": "2024-12-07T05:33:40+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1a3ad91d-9001-4fda-b293-377f34567c05",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-05T15:12:03+00:00",
+    "description": "",
+    "fileName": "ce54fe53-5bcd-495a-ad13-b84cb4669ce8.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-05T15:12:03+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "b58899b5-f2b9-45b9-8048-16395cc30b08",
+   "type": "creator"
+  }
+ ]
+}

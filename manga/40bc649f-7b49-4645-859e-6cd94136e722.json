@@ -104,6 +104,9 @@
    },
    {
     "eu": "Dragoi Bola"
+   },
+   {
+    "pt-br": "Dragon Ball"
    }
   ],
   "description": {
@@ -148,12 +151,13 @@
    "tr",
    "pt-br",
    "en",
-   "es",
    "uk",
    "eu",
-   "he"
+   "he",
+   "es",
+   "sr"
   ],
-  "latestUploadedChapter": "dbd58ed2-e228-4e65-abb8-1538c46eadd0",
+  "latestUploadedChapter": "d21067f9-c317-4678-989b-4d453b8ee83b",
   "tags": [
    {
     "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
@@ -252,6 +256,18 @@
     }
    },
    {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
     "type": "tag",
     "attributes": {
@@ -277,9 +293,9 @@
    }
   ],
   "state": "published",
-  "version": 42,
+  "version": 48,
   "createdAt": "2018-03-23T06:56:41+00:00",
-  "updatedAt": "2024-11-27T19:31:19+00:00"
+  "updatedAt": "2025-01-05T02:44:49+00:00"
  },
  "relationships": [
   {
@@ -287,7 +303,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "Akira Toriyama (Japanese: 鳥山 明, Hepburn: Toriyama Akira, born April 5, 1955) is a Japanese manga artist and character designer. He first achieved mainstream recognition for his highly successful manga series Dr. Slump, before going on to create Dragon Ball—his best-known work—and acting as a character designer for several popular video games such as the Dragon Quest series, Chrono Trigger and Blue Dragon. Toriyama is regarded as one of the artists that changed the history of manga, as his works are highly influential and popular, particularly Dragon Ball, which many manga artists cite as a source of inspiration.\n\nHe earned the 1981 Shogakukan Manga Award for best shōnen or shōjo manga with Dr. Slump, and it went on to sell over 35 million copies in Japan. It was adapted into a successful anime series, with a second anime created in 1997, 13 years after the manga ended. His next series, Dragon Ball, would become one of the most popular and successful manga in the world. Having sold 250–300 million copies worldwide, it is the third best-selling manga of all time and is considered to be one of the main reasons for the period when manga circulation was at its highest in the mid-1980s and mid-1990s. Overseas, Dragon Ball's anime adaptations have been more successful than the manga and are credited with boosting anime's popularity in the Western world. In 2019, Toriyama was decorated a Chevalier of the French Ordre des Arts et des Lettres for his contributions to the arts.\n\nBorn: April 5, 1955\nDied: March 1, 2024 (age 68 years)"
+     "en": "**Name In Native Language:** 鳥山明\n\nToriyama Akira (April 5, 1955 – March 1, 2024) was a Japanese manga artist and character designer. He first achieved mainstream recognition for his highly successful manga series Dr. Slump, before going on to create Dragon Ball—his best-known work—and acting as a character designer for several popular video games such as the Dragon Quest series, Chrono Trigger and Blue Dragon. Toriyama is regarded as one of the artists that changed the history of manga, as his works are highly influential and popular, particularly Dragon Ball, which many manga artists cite as a source of inspiration.\n\nHe earned the 1981 Shogakukan Manga Award for best shounen or shoujo manga with Dr. Slump, and it went on to sell over 35 million copies in Japan. It was adapted into a successful anime series, with a second anime created in 1997, 13 years after the manga ended. His next series, Dragon Ball, would become one of the most popular and successful manga in the world. Having sold 250–300 million copies worldwide, it is the third best-selling manga of all time and is considered to be one of the main reasons for the period when manga circulation was at its highest in the mid-1980s and mid-1990s. Overseas, Dragon Ball's anime adaptations have been more successful than the manga and are credited with boosting anime's popularity in the Western world. In 2019, Toriyama was decorated a Chevalier of the French Ordre des Arts et des Lettres for his contributions to the arts."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -303,8 +319,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-03-09T00:26:38+00:00",
-    "version": 4,
+    "updatedAt": "2024-12-07T07:17:05+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -315,7 +331,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "Akira Toriyama (Japanese: 鳥山 明, Hepburn: Toriyama Akira, born April 5, 1955) is a Japanese manga artist and character designer. He first achieved mainstream recognition for his highly successful manga series Dr. Slump, before going on to create Dragon Ball—his best-known work—and acting as a character designer for several popular video games such as the Dragon Quest series, Chrono Trigger and Blue Dragon. Toriyama is regarded as one of the artists that changed the history of manga, as his works are highly influential and popular, particularly Dragon Ball, which many manga artists cite as a source of inspiration.\n\nHe earned the 1981 Shogakukan Manga Award for best shōnen or shōjo manga with Dr. Slump, and it went on to sell over 35 million copies in Japan. It was adapted into a successful anime series, with a second anime created in 1997, 13 years after the manga ended. His next series, Dragon Ball, would become one of the most popular and successful manga in the world. Having sold 250–300 million copies worldwide, it is the third best-selling manga of all time and is considered to be one of the main reasons for the period when manga circulation was at its highest in the mid-1980s and mid-1990s. Overseas, Dragon Ball's anime adaptations have been more successful than the manga and are credited with boosting anime's popularity in the Western world. In 2019, Toriyama was decorated a Chevalier of the French Ordre des Arts et des Lettres for his contributions to the arts.\n\nBorn: April 5, 1955\nDied: March 1, 2024 (age 68 years)"
+     "en": "**Name In Native Language:** 鳥山明\n\nToriyama Akira (April 5, 1955 – March 1, 2024) was a Japanese manga artist and character designer. He first achieved mainstream recognition for his highly successful manga series Dr. Slump, before going on to create Dragon Ball—his best-known work—and acting as a character designer for several popular video games such as the Dragon Quest series, Chrono Trigger and Blue Dragon. Toriyama is regarded as one of the artists that changed the history of manga, as his works are highly influential and popular, particularly Dragon Ball, which many manga artists cite as a source of inspiration.\n\nHe earned the 1981 Shogakukan Manga Award for best shounen or shoujo manga with Dr. Slump, and it went on to sell over 35 million copies in Japan. It was adapted into a successful anime series, with a second anime created in 1997, 13 years after the manga ended. His next series, Dragon Ball, would become one of the most popular and successful manga in the world. Having sold 250–300 million copies worldwide, it is the third best-selling manga of all time and is considered to be one of the main reasons for the period when manga circulation was at its highest in the mid-1980s and mid-1990s. Overseas, Dragon Ball's anime adaptations have been more successful than the manga and are credited with boosting anime's popularity in the Western world. In 2019, Toriyama was decorated a Chevalier of the French Ordre des Arts et des Lettres for his contributions to the arts."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -331,24 +347,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-03-09T00:26:38+00:00",
-    "version": 4,
+    "updatedAt": "2024-12-07T07:17:05+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "c4ec48fe-8904-47fc-89f3-b052bf93ce2a",
+   "id": "e8def04b-d49d-4450-b861-96d1b31cf496",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-10-31T02:39:03+00:00",
-    "description": "Tankobon - Jump Comics",
-    "fileName": "51c0756f-a053-46d0-a405-246a78541df2.jpg",
-    "locale": "ja",
-    "updatedAt": "2024-05-29T07:43:16+00:00",
-    "version": 2,
-    "volume": "42"
+    "createdAt": "2025-01-05T02:43:43+00:00",
+    "description": "",
+    "fileName": "b8edc15e-8d93-4b8f-83ee-325abe78defe.jpg",
+    "locale": "en",
+    "updatedAt": "2025-01-05T02:43:43+00:00",
+    "version": 1,
+    "volume": "1"
    }
   },
   {
@@ -765,6 +781,11 @@
    "id": "bf5312c1-e5db-4b4e-b822-9c133ea96f4a",
    "type": "manga",
    "related": "sequel"
+  },
+  {
+   "id": "c1c6eaff-7b7b-4717-b823-a8b9a92837c0",
+   "type": "manga",
+   "related": "doujinshi"
   },
   {
    "id": "c3be71c6-014a-4bca-ba10-5137ffed90a3",

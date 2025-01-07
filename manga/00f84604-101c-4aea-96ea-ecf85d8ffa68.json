@@ -6,7 +6,7 @@
    "en": "Clamp in Wonderland EX"
   },
   "description": {
-   "en": "A short gag \"series\" that Clamp draws in various magazines. Each involves xxxHOLiC and another CLAMP title."
+   "en": "A short gag \"series\" that Clamp draws in various magazines. Each involves xxxHOLiC and another CLAMP title.\n\n1. Platinum - X \u0026 xxxHOLiC. \n2. White - Tsubasa Reservoir Chronicles \u0026 xxxHOLiC.\n3. Pastel - Kobato \u0026 xxxHOLiC.\n4. Kindai Mahjong - Legal Drug \u0026 xxxHOLiC."
   },
   "links": {
    "al": "38882",
@@ -16,6 +16,7 @@
    "mu": "6622"
   },
   "originalLanguage": "ja",
+  "lastChapter": "4",
   "status": "completed",
   "year": 2006,
   "contentRating": "safe",
@@ -25,6 +26,18 @@
   ],
   "latestUploadedChapter": "f3e94d7c-bdb3-4d83-a682-1c02e0bcb3d7",
   "tags": [
+   {
+    "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Traditional Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
@@ -36,19 +49,33 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2019-05-01T01:18:45+00:00",
-  "updatedAt": "2023-06-05T17:26:10+00:00"
+  "updatedAt": "2024-12-30T06:50:17+00:00"
  },
  "relationships": [
   {
    "id": "60bc549c-f2ac-488e-9b83-c840a76d17ce",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "CLAMP is a four-woman manga studio formed from the remaining members of the CLAMP doujinshi circle.\n\n- [Ohkawa Ageha](https://mangadex.org/author/937ca459-3e37-450f-9114-ef81a37e335f/ohkawa-ageha) (leader; story \u0026 script)\n- [Apapa Mokona](https://mangadex.org/author/259db6b3-3c79-4bbc-82f4-b65dde73e904/apapa-mokona) (lead artist; colorist)\n- [Nekoi Tsubaki](https://mangadex.org/author/3dffe29e-f96d-446b-a288-84120d4f1297/nekoi-tsubaki) (art assistant; chibi artist)\n- Igarashi Satsuki (design; art assistant)\n\nFormer Members:\nO-Kyon\nNanao Sei\n[Akiyama Tamayo](https://mangadex.org/author/e945c2df-7420-42e3-a106-e05b8475aeee/akiyama-tamayo)\n[Sei Leeza](https://mangadex.org/author/9dd0940d-4a6d-4f6e-80bf-6884c0b8a64c/sei-leeza)\nHishika Soushi\nNakamori Kazue\nOumi Shinya"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -62,12 +89,12 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/CLAMP_news",
+    "updatedAt": "2024-12-05T10:09:00+00:00",
+    "version": 3,
+    "website": "https://clamp-net.com/",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/user/CLAMPNETTV?app=desktop"
    }
   },
   {
@@ -152,7 +179,9 @@
    "id": "60bc549c-f2ac-488e-9b83-c840a76d17ce",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "CLAMP is a four-woman manga studio formed from the remaining members of the CLAMP doujinshi circle.\n\n- [Ohkawa Ageha](https://mangadex.org/author/937ca459-3e37-450f-9114-ef81a37e335f/ohkawa-ageha) (leader; story \u0026 script)\n- [Apapa Mokona](https://mangadex.org/author/259db6b3-3c79-4bbc-82f4-b65dde73e904/apapa-mokona) (lead artist; colorist)\n- [Nekoi Tsubaki](https://mangadex.org/author/3dffe29e-f96d-446b-a288-84120d4f1297/nekoi-tsubaki) (art assistant; chibi artist)\n- Igarashi Satsuki (design; art assistant)\n\nFormer Members:\nO-Kyon\nNanao Sei\n[Akiyama Tamayo](https://mangadex.org/author/e945c2df-7420-42e3-a106-e05b8475aeee/akiyama-tamayo)\n[Sei Leeza](https://mangadex.org/author/9dd0940d-4a6d-4f6e-80bf-6884c0b8a64c/sei-leeza)\nHishika Soushi\nNakamori Kazue\nOumi Shinya"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -166,25 +195,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/CLAMP_news",
+    "updatedAt": "2024-12-05T10:09:00+00:00",
+    "version": 3,
+    "website": "https://clamp-net.com/",
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/user/CLAMPNETTV?app=desktop"
    }
   },
   {
-   "id": "dfed4e8b-29d9-47d6-abe4-65cb19175c02",
+   "id": "359ed297-e8a8-4b1b-8899-a60ed7a04cb7",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-06-05T17:34:38+00:00",
+    "createdAt": "2024-12-29T16:29:48+00:00",
     "description": "",
-    "fileName": "a31b3895-7fa5-4ae0-911e-dcf5ef5d0246.jpg",
+    "fileName": "a3694099-0540-4f1f-9b93-e5b221ccca84.jpg",
     "locale": "ja",
-    "updatedAt": "2023-06-05T17:34:38+00:00",
+    "updatedAt": "2024-12-29T16:29:48+00:00",
     "version": 1,
-    "volume": "0"
+    "volume": "2"
    }
   },
   {

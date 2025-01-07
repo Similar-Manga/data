@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7a2b1149-1df6-4f73-805f-71ce29fbde4c",
+   "title": {
+    "en": "The End of This Fairytale Is One Hell of a Drama"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
    "id": "36bad9cb-6310-4048-a48e-a1ab7b7dcb3e",
    "title": {
     "en": "Demon X Angel, Can't Get Along!"
@@ -18,42 +29,6 @@
     "ru",
     "id",
     "pt-br"
-   ]
-  },
-  {
-   "id": "7a2b1149-1df6-4f73-805f-71ce29fbde4c",
-   "title": {
-    "en": "The End of This Fairytale Is One Hell of a Drama"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "vi"
-   ]
-  },
-  {
-   "id": "9de1b4d3-2939-488d-9d64-e00cbc32c532",
-   "title": {
-    "en": "Ordinary Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "ba78b8c3-b5cc-4bc7-9acd-c237b9f9b6a7",
-   "title": {
-    "en": "Sweet Robot"
-   },
-   "contentRating": "safe",
-   "score": 0.26082027,
-   "languages": [
-    "en",
-    "vi",
-    "es-la"
    ]
   },
   {
@@ -70,17 +45,15 @@
    ]
   },
   {
-   "id": "0a27e8b6-f353-4b3e-afb1-6787560d0b96",
+   "id": "9de1b4d3-2939-488d-9d64-e00cbc32c532",
    "title": {
-    "en": "The Story of the Hated Mule"
+    "en": "Ordinary Girl"
    },
    "contentRating": "safe",
-   "score": 0.24147265,
+   "score": 0.26082027,
    "languages": [
     "en",
-    "vi",
-    "tr",
-    "fr"
+    "vi"
    ]
   },
   {
@@ -93,6 +66,20 @@
    "languages": [
     "vi",
     "en"
+   ]
+  },
+  {
+   "id": "0a27e8b6-f353-4b3e-afb1-6787560d0b96",
+   "title": {
+    "en": "The Story of the Hated Mule"
+   },
+   "contentRating": "safe",
+   "score": 0.24147265,
+   "languages": [
+    "en",
+    "vi",
+    "tr",
+    "fr"
    ]
   },
   {
@@ -129,14 +116,18 @@
    ]
   },
   {
-   "id": "35ffaebf-f7e1-4a64-a258-f66f3e880391",
+   "id": "e42799d9-4829-4b4c-b898-96f3b0b45566",
    "title": {
-    "en": "Mãn Đình Phương"
+    "en": "Elf ga Gendai ni Itara: Freeter-hen (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.23882551,
+   "score": 0.22857143,
    "languages": [
-    "vi"
+    "ru",
+    "vi",
+    "id",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -163,43 +154,14 @@
    ]
   },
   {
-   "id": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
+   "id": "35ffaebf-f7e1-4a64-a258-f66f3e880391",
    "title": {
-    "en": "I Shall Master This Family"
+    "en": "Mãn Đình Phương"
    },
    "contentRating": "safe",
-   "score": 0.22513194,
+   "score": 0.22513036,
    "languages": [
-    "pl",
-    "en",
-    "es-la",
-    "fr",
-    "pt-br",
-    "uk",
-    "cs",
-    "id",
-    "ru",
     "vi"
-   ]
-  },
-  {
-   "id": "a82fe527-9e74-48d0-9c5f-a5e788c0bd4a",
-   "title": {
-    "en": "The Villainess Is a Marionette"
-   },
-   "contentRating": "safe",
-   "score": 0.22160466,
-   "languages": [
-    "id",
-    "es-la",
-    "en",
-    "fr",
-    "uk",
-    "pt-br",
-    "pl",
-    "ru",
-    "vi",
-    "mn"
    ]
   },
   {
@@ -220,6 +182,26 @@
    ]
   },
   {
+   "id": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
+   "title": {
+    "en": "I Shall Master This Family"
+   },
+   "contentRating": "safe",
+   "score": 0.21295886,
+   "languages": [
+    "pl",
+    "en",
+    "es-la",
+    "fr",
+    "pt-br",
+    "uk",
+    "cs",
+    "id",
+    "ru",
+    "vi"
+   ]
+  },
+  {
    "id": "25ce6f0e-51ae-467e-8519-fe90060586dc",
    "title": {
     "en": "From a Knight to a Lady"
@@ -234,7 +216,19 @@
     "ru",
     "fr"
    ]
+  },
+  {
+   "id": "ef7cee90-de27-4b22-8918-d4e0a13ccb43",
+   "title": {
+    "en": "Please Let Me Study Hard"
+   },
+   "contentRating": "safe",
+   "score": 0.20865622,
+   "languages": [
+    "en",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2024-12-01T21:38:20+00:00"
+ "updatedAt": "2025-01-06T00:50:02+00:00"
 }

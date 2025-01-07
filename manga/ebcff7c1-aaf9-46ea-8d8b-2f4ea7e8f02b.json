@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kenta Yarimasu!"
+   "en": "Go, Kenta!"
   },
   "altTitles": [
    {
-    "en": "Go, Kenta!"
+    "ja-ro": "Kenta Yarimasu!"
    },
    {
-    "en": "健太やります！"
+    "ja": "健太やります！"
    }
   ],
   "description": {
@@ -80,9 +80,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2020-07-10T10:14:02+00:00",
-  "updatedAt": "2022-10-27T15:10:14+00:00"
+  "updatedAt": "2024-12-15T05:13:45+00:00"
  },
  "relationships": [
   {
@@ -145,9 +145,9 @@
     "description": "",
     "fileName": "a7bafa33-4152-4102-a765-c49391c7fb3d.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:02:28+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-12-15T05:18:41+00:00",
+    "version": 2,
+    "volume": "6"
    }
   }
  ]

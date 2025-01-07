@@ -14,10 +14,14 @@
    },
    {
     "ja": "イナズマイレブン"
+   },
+   {
+    "pt-br": "Super Onze"
    }
   ],
   "description": {
-   "en": "Raimon Middle School 's soccer club captain, Endou Mamoru is in a pinch - his club is about to be destroyed! Literally! To avert the wrecking ball and disbanding of the club, his team must win against the toughest soccer team in the area - Teikoku. Will Endou and his team meet a crushing defeat or will a mysterious transfer student with a fiery kick save them from disaster?!  \n  \nWon the 34th Annual Kodansha Manga Award for Best Children's Manga."
+   "en": "Raimon Middle School 's soccer club captain, Endou Mamoru is in a pinch - his club is about to be destroyed! Literally! To avert the wrecking ball and disbanding of the club, his team must win against the toughest soccer team in the area - Teikoku. Will Endou and his team meet a crushing defeat or will a mysterious transfer student with a fiery kick save them from disaster?!  \n  \nWon the 34th Annual Kodansha Manga Award for Best Children's Manga.",
+   "pt-br": "O capitão do clube de futebol da Escola Média Raimon, Endou Mamoru, está em apuros – seu clube está prestes a ser destruído! Literalmente! Para evitar a demolição e a dissolução do clube, seu time precisa vencer a equipe de futebol mais forte da região – Teikoku. Endou e seu time sofrerão uma derrota esmagadora ou um misterioso aluno transferido com um chute ardente os salvará do desastre?!\n\nGanhou o 34º Prêmio Anual de Mangá Kodansha de Melhor Mangá Infantil."
   },
   "links": {
    "al": "49315",
@@ -27,7 +31,8 @@
    "ebj": "https://ebookjapan.yahoo.co.jp/books/201324/",
    "kt": "7428",
    "mal": "19315",
-   "mu": "31036"
+   "mu": "31036",
+   "raw": "https://www.corocoro.jp/title/668"
   },
   "originalLanguage": "ja",
   "lastVolume": "10",
@@ -41,7 +46,7 @@
    "en",
    "fr"
   ],
-  "latestUploadedChapter": "19216dcf-0a6c-400b-abcf-61d33f767902",
+  "latestUploadedChapter": "be659296-9bad-43e0-b580-ae814af77b20",
   "tags": [
    {
     "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
@@ -105,9 +110,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 7,
   "createdAt": "2018-04-30T06:15:10+00:00",
-  "updatedAt": "2023-05-05T13:50:06+00:00"
+  "updatedAt": "2024-12-25T14:35:25+00:00"
  },
  "relationships": [
   {
@@ -189,15 +194,15 @@
    }
   },
   {
-   "id": "bab4ad20-1374-4f87-988e-dfa3f2117527",
+   "id": "b32d352f-7c9a-4fe7-b581-3310df8bd72b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:04:49+00:00",
+    "createdAt": "2021-05-23T07:36:37+00:00",
     "description": "",
-    "fileName": "d3277fc1-5095-4080-9c0f-5c0aa745f879.jpg",
+    "fileName": "3c3aa2ed-7937-4095-9a6b-23f7d114ecfd.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:04:49+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-25T14:35:15+00:00",
+    "version": 3,
     "volume": null
    }
   },
@@ -235,6 +240,11 @@
    "id": "d85f8bbd-73c6-403a-a66f-e9c375fb8613",
    "type": "manga",
    "related": "same_franchise"
+  },
+  {
+   "id": "e6be2b4b-a914-4f98-ba0f-32b6b80c1207",
+   "type": "manga",
+   "related": "sequel"
   }
  ]
 }

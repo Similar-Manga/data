@@ -1,0 +1,159 @@
+{
+ "id": "29e77381-b675-4df4-a5aa-bd7742025f0f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Hi no Tama Boy"
+  },
+  "altTitles": [
+   {
+    "ja": "火の玉ボーイ"
+   },
+   {
+    "en": "Fireball Boy"
+   }
+  ],
+  "description": {
+   "en": "Set in Shonan and Yokosuka, the story follows Tamao Hino, a high school student who has guts but is usually weak in fights, as he engages in club activities and fights with his \"hungry power\", which he exerts when he gets hungry. The subtitle of each episode is taken from the title of a song, mainly domestic and international rock songs."
+  },
+  "links": {
+   "al": "163014",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B074CFFGCP?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1735594909\u0026sr=1-1",
+   "bw": "series/129125/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/276516/",
+   "mu": "mnwswb6"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "14",
+  "lastChapter": "139",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1982,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-30T21:45:34+00:00",
+  "updatedAt": "2024-12-30T22:05:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5b0280dd-086c-4ee9-bb51-dfdce9373ed6",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T21:45:40+00:00",
+    "description": "",
+    "fileName": "74b0a825-9d07-483d-b975-9f3d8e4097e0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T21:45:40+00:00",
+    "version": 1,
+    "volume": "14"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

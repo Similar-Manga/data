@@ -20,14 +20,18 @@
    },
    {
     "de": "Devil King Dante"
+   },
+   {
+    "vi": "Ma Vương Dante"
    }
   ],
   "description": {
-   "en": "The great Demon Lord Dante, exploiting the weakness of a boy exposed to his demonic influence in his dreams, is awakened from a thousand-year sleep.  \n  \nThe intent of this being, a survivor of an ancient and forgotten civilization, is to wipe out the whole human race.  \n  \nBut it's not that simple: the motivations of the demon aren't so wicked as one might think, and they will combine with the life of the boy, which hangs between nightmares and craziness.  \nIn the meanwhile, the Satanists fight against the hierarchy of the church to obtain a justice which is, as it's easy to guess, that of the Demon Lord.  \n  \nThis series didn't have an ending until it's remake in 2002. Dante's themes and design elements would appear in Nagai's following works, such as Mazinger Z, and Devilman."
+   "en": "The great Demon Lord Dante, exploiting the weakness of a boy exposed to his demonic influence in his dreams, is awakened from a thousand-year sleep.  \n  \nThe intent of this being, a survivor of an ancient and forgotten civilization, is to wipe out the whole human race.  \n  \nBut it's not that simple: the motivations of the demon aren't so wicked as one might think, and they will combine with the life of the boy, which hangs between nightmares and craziness.  \nIn the meanwhile, the Satanists fight against the hierarchy of the church to obtain a justice which is, as it's easy to guess, that of the Demon Lord.  \n  \nThis series didn't have an ending until it's remake in 2002. Dante's themes and design elements would appear in Nagai's following works, such as Mazinger Z, and Devilman.",
+   "vi": "Cậu học sinh cấp ba Utsugi Ryou hàng đêm đều mơ thấy ác mộng. Một ngày nọ, khi đang leo núi trên dãy Alps Nhật Bản, tâm trí của Ryou bị thao túng bởi tên ác quỷ ghê rợn - \"Ma Vương Dante\" - kẻ xuất hiện trong những giấc mơ của cậu, thân thể của hắn được giải thoát khỏi băng giá. Kể từ lúc ấy, số phận của Ryou trở nên xoay vần dữ dội."
   },
   "links": {
    "al": "37666",
-   "amz": "https://www.amazon.co.jp/%E9%AD%94%E7%8E%8B%E3%83%80%E3%83%B3%E3%83%86-FIRST-%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88-%EF%BC%91-%E5%BE%A9%E5%88%BB%E5%90%8D%E4%BD%9C%E6%BC%AB%E7%94%BB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/dp/4778033183/ref=monarch_sidesheet",
+   "amz": "https://www.amazon.co.jp/魔王ダンテ-FIRST-ファースト-１-復刻名作漫画シリーズ/dp/4778033183/ref=monarch_sidesheet",
    "ap": "mao-dante",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2268075",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/100599/",
@@ -351,9 +355,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2018-05-04T18:57:20+00:00",
-  "updatedAt": "2024-03-27T05:04:20+00:00"
+  "updatedAt": "2024-12-26T18:31:35+00:00"
  },
  "relationships": [
   {
@@ -456,7 +460,7 @@
   {
    "id": "38993a45-7217-4f1a-8cc3-02d49a9a021e",
    "type": "manga",
-   "related": "sequel"
+   "related": "alternate_story"
   },
   {
    "id": "3dab1d7e-959e-4059-b94c-e2be2cec0dae",
@@ -464,9 +468,14 @@
    "related": "alternate_story"
   },
   {
+   "id": "5137d635-5c9e-4ee3-a973-cffe004290b3",
+   "type": "manga",
+   "related": "based_on"
+  },
+  {
    "id": "5b5feb0b-b96a-40f9-8779-182b9bfbbdc3",
    "type": "manga",
-   "related": "spin_off"
+   "related": "same_franchise"
   },
   {
    "id": "5bf2d2a9-a21b-4596-8f31-2cd6779c7837",
@@ -477,6 +486,11 @@
    "id": "6c619969-b204-49d1-a624-834493fcce81",
    "type": "manga",
    "related": "alternate_story"
+  },
+  {
+   "id": "a06c821e-0424-4fa7-ba63-968c5084caef",
+   "type": "manga",
+   "related": "doujinshi"
   },
   {
    "id": "bb513240-0c96-415a-b8cc-974023fb7a18",

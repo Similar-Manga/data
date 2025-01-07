@@ -3,21 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Taste Of A Mature Woman"
+   "en": "Taste of a Woman"
   },
   "altTitles": [
    {
-    "en": "熟女的滋味"
+    "ko": "여자의 맛"
+   },
+   {
+    "fr": "La Saveur des Femmes"
    }
   ],
   "description": {
-   "en": "My nickname is \"Plus Pain Eagle\", and my specialty is that I can make women orgasm just by foreplay. And those mature women who have money and leisure, but are tired of their husbands, are my delicious meals. …"
+   "en": "What seemed like a high-playing job to Baechan Oh turns out to be his entry into a secret, hidden society!",
+   "fr": "Ce qui semblait n'être qu'un petit boulot lui ouvre les portes d'une société très secrète !"
   },
   "links": {
-   "raw": "http://www.no-banana.com/book/389"
+   "engtl": "https://toomics.com/en/webtoon/episode/toon/4674"
   },
   "originalLanguage": "ko",
-  "status": "ongoing",
+  "lastChapter": "24",
+  "status": "completed",
   "contentRating": "pornographic",
   "tags": [
    {
@@ -29,6 +34,30 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -58,23 +87,23 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2020-10-30T20:16:34+00:00",
-  "updatedAt": "2020-10-30T20:16:34+00:00"
+  "updatedAt": "2024-12-17T19:31:12+00:00"
  },
  "relationships": [
   {
-   "id": "89cc223c-c564-491f-9618-b9da7ae818be",
+   "id": "a257d0d8-629a-4d78-8c47-a619f865cb1d",
    "type": "author",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2024-12-17T19:28:40+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Team Spinach",
+    "name": "Meaty Fruit",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -82,7 +111,7 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "updatedAt": "2024-12-17T19:28:40+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -90,16 +119,42 @@
    }
   },
   {
-   "id": "763e5542-107d-4fff-a66d-f9d9bbe2132e",
+   "id": "a257d0d8-629a-4d78-8c47-a619f865cb1d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-17T19:28:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Meaty Fruit",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-17T19:28:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cf4a23b6-7124-46d3-99ab-bdc6bcfa7cd9",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:17:01+00:00",
+    "createdAt": "2024-12-17T19:31:11+00:00",
     "description": "",
-    "fileName": "0a11f370-8070-4635-bfec-5ba6fe7b2346.jpg",
+    "fileName": "4715628a-fa07-439a-8e1e-ad3e7c513634.jpg",
     "locale": "ko",
-    "updatedAt": "2021-05-24T18:17:01+00:00",
+    "updatedAt": "2024-12-17T19:31:11+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

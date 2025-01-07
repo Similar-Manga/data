@@ -1,0 +1,173 @@
+{
+ "id": "782eeea8-bc1b-4b23-95b5-f9ab246c54f1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kami-sama no Neglect"
+  },
+  "altTitles": [
+   {
+    "ja": "神様のネグレクト"
+   },
+   {
+    "ja-ro": "Kamisama no Neglect"
+   },
+   {
+    "en": "God's Neglect"
+   }
+  ],
+  "description": {
+   "en": "High school student Shingo prays to God every morning, as his father taught him. However, he's bullied because of his religion, and his suffering increases every day. One day, his classmates try to shakedown Shingo's father, but Shingo offers to help them…"
+  },
+  "links": {
+   "al": "163248",
+   "raw": "https://shonenjumpplus.com/episode/4856001361075294997"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-03T23:21:51+00:00",
+  "updatedAt": "2024-12-03T23:22:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "57e9db87-4b73-46be-8e66-241e9fcd2930",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 市川苦楽\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/11844546810162074674)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-30T15:44:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ichikawa Kuraku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/krk_rrr",
+    "updatedAt": "2024-12-03T19:57:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "57e9db87-4b73-46be-8e66-241e9fcd2930",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 市川苦楽\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/11844546810162074674)"
+    },
+    "booth": null,
+    "createdAt": "2024-11-30T15:44:54+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ichikawa Kuraku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/krk_rrr",
+    "updatedAt": "2024-12-03T19:57:25+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "55914cf8-12f0-4a46-bee5-c85623acb63a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-03T23:21:55+00:00",
+    "description": "",
+    "fileName": "01b7b786-e280-43e3-823a-de7355893474.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-03T23:21:55+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

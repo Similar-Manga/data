@@ -3,33 +3,27 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Saiaku no Avalon"
+   "en": "Wazawai no Avalon ~Game Saijaku no Akuyaku Debu ni Ten'i Shita kedo, Ore dake \"Yasereba Tsuyokute New Game\" na Sekai datta no de, Saisoku Level Up \u0026 Hametsu Flag Kaihi de Kage no Eiyuu o Mezashimasu~"
   },
   "altTitles": [
    {
-    "en": "Finding Avalon: The Quest of a Chaosbringer"
-   },
-   {
-    "ja-ro": "Wazawai Aku no Avalon"
-   },
-   {
-    "ja": "災悪のアヴァロン"
-   },
-   {
     "ja": "災悪のアヴァロン～ゲーム最弱の悪役デブに転移したけど、俺だけ“やせれば強くてニューゲーム”な世界だったので、最速レベルアップ＆破滅フラグ回避で影の英雄を目指します～"
+   },
+   {
+    "en": "Finding Avalon: The Quest of a Chaosbringer"
    }
   ],
   "description": {
-   "en": "The main character loves the MMORPG game called Dungeon Explorer Chronicle (Dun-Ex). During one particular day, a beta test event was announced, and he managed to beat it.\nIn exchange for clearing the event, he was granted permission to try the beta test server.\nForcing to choose different avatar and skill as the system doesn't allow his own, he eventually settled on random. However, he is transferred to a place where, as expected, he finds a fat, villainous mob character...!"
+   "en": "The main character loves the MMORPG game called Dungeon Explorer Chronicle (Dun-Ex). During one particular day, a beta test event was announced, and he managed to beat it.\nIn exchange for clearing the event, he was granted permission to try the beta test server. Forcing to choose different avatar and skill as the system doesn't allow his own, he eventually settled on random. However, he is transferred to a place where, as expected, he finds a fat, villainous mob character...!",
+   "ja": "廃人ゲーマーの会社員“俺”は、やり込んだVRMMO「ダンエク」の世界に転移した。しかし転移先は悪役のデブキャラで!?"
   },
   "links": {
    "al": "170106",
    "amz": "https://www.amazon.co.jp/dp/B0CBSC6R7Q",
    "ap": "wazawai-aku-no-avalon",
-   "bw": "series/426198/list",
-   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD:14\u0026q=災悪のアヴァロン\u0026order=reldesc\u0026opt.exclude_prx=on",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/779666/",
-   "kt": "saiaku-no-avalon",
+   "bw": "series/426198",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/779666",
+   "kt": "69883",
    "mal": "156933",
    "mu": "7nvcblg",
    "nu": "evil-avalon",
@@ -41,11 +35,11 @@
   "year": 2023,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
+   "id",
    "en",
-   "es-la",
-   "id"
+   "es-la"
   ],
-  "latestUploadedChapter": "fde58e6a-6681-4488-80db-eecaf97f9da3",
+  "latestUploadedChapter": "213c1165-82a4-47bb-9e2a-d6f7ecfa22c9",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -181,9 +175,9 @@
    }
   ],
   "state": "published",
-  "version": 18,
+  "version": 22,
   "createdAt": "2023-04-20T07:29:24+00:00",
-  "updatedAt": "2024-10-20T12:45:38+00:00"
+  "updatedAt": "2024-12-21T18:11:55+00:00"
  },
  "relationships": [
   {
@@ -213,17 +207,17 @@
    }
   },
   {
-   "id": "558e18ec-b023-4735-b90c-9ae3b392a503",
+   "id": "7e2b57f9-1028-440a-b6de-a4da57eb6c93",
    "type": "artist",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2024-12-10T21:32:46+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Keg",
+    "name": "Satou Zero",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -231,7 +225,7 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "updatedAt": "2024-12-10T21:32:46+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -239,16 +233,16 @@
    }
   },
   {
-   "id": "e6908a60-327b-403c-8fea-1a57a6ff789f",
+   "id": "46f414b5-e544-4394-a5f0-398f17f1fa4e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-23T23:05:36+00:00",
+    "createdAt": "2024-12-18T17:26:56+00:00",
     "description": "",
-    "fileName": "a0d7ea9a-8a53-4e08-9f28-41cd63f86b7e.jpg",
+    "fileName": "5dbc10c9-70b7-4dff-a8cc-5764c8567aa6.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-23T23:05:36+00:00",
+    "updatedAt": "2024-12-18T17:26:56+00:00",
     "version": 1,
-    "volume": "5"
+    "volume": "6"
    }
   },
   {

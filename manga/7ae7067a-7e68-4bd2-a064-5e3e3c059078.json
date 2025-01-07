@@ -31,7 +31,7 @@
     "ja-ro": "Wātori"
    },
    {
-    "en": "World Trigger"
+    "ja-ro": "World Trigger"
    }
   ],
   "description": {
@@ -43,6 +43,7 @@
    "amz": "https://www.amazon.co.jp/gp/product/B074C6Q8GR",
    "ap": "world-trigger",
    "bw": "series/13136/list",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2406056",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/193760/",
    "engtl": "https://mangaplus.shueisha.co.jp/titles/100028",
    "kt": "5633",
@@ -56,6 +57,7 @@
   "year": 2013,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
+   "vi",
    "en",
    "pt-br",
    "es",
@@ -63,7 +65,7 @@
    "de",
    "tr"
   ],
-  "latestUploadedChapter": "8ea914b2-4745-410b-bbe1-6f5088e0d877",
+  "latestUploadedChapter": "a92a9dce-bbc5-4553-bda1-d9523fa73298",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -175,9 +177,9 @@
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 17,
   "createdAt": "2018-07-05T07:56:23+00:00",
-  "updatedAt": "2024-05-01T19:55:35+00:00"
+  "updatedAt": "2024-12-13T00:01:59+00:00"
  },
  "relationships": [
   {
@@ -249,6 +251,11 @@
    "id": "269cd730-ace9-4acd-bee6-d369d24f0a42",
    "type": "manga",
    "related": "preserialization"
+  },
+  {
+   "id": "8d92f7b8-556b-45a2-a442-dd3a0beb0a90",
+   "type": "manga",
+   "related": "side_story"
   },
   {
    "id": "c29fb8fd-f053-4f33-90ee-331b3e112133",

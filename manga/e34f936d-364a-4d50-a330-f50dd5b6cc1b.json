@@ -1,0 +1,130 @@
+{
+ "id": "e34f936d-364a-4d50-a330-f50dd5b6cc1b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Baitosaki no Yakkaina Jouren Kyaku"
+  },
+  "altTitles": [
+   {
+    "ja": "バイト先の厄介な常連客"
+   },
+   {
+    "en": "The Bothersome Regular at My Part-Time Job"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/en/artworks/85603669"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2020,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "796cedfa-32a3-4b14-9646-d9c755a15c1a",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-24T12:06:13+00:00",
+  "updatedAt": "2025-01-02T02:03:41+00:00"
+ },
+ "relationships": [
+  {
+   "id": "956fc6e5-bd7b-4a38-bd57-55c9a64bfc2a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": "https://kuw8ra.booth.pm",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuwabara Tamotsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/4351708",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kuw8ra",
+    "updatedAt": "2023-09-20T20:27:20+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "956fc6e5-bd7b-4a38-bd57-55c9a64bfc2a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": "https://kuw8ra.booth.pm",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuwabara Tamotsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/4351708",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kuw8ra",
+    "updatedAt": "2023-09-20T20:27:20+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3bf78008-19d8-4280-b657-352334be0225",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-24T12:06:15+00:00",
+    "description": "",
+    "fileName": "3ac2f4b1-9261-42bd-8145-547bdb4d76d4.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-24T12:06:15+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c3f6efcd-13c9-4ed5-9d8d-c6a8cf1cc056",
+   "type": "creator"
+  }
+ ]
+}

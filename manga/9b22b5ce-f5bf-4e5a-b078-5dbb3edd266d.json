@@ -1,0 +1,106 @@
+{
+ "id": "9b22b5ce-f5bf-4e5a-b078-5dbb3edd266d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "1975"
+  },
+  "description": {
+   "en": "It was published in Monthly Magazine Garo (月刊漫画ガロ) on August 1973"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1973,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-08T01:20:41+00:00",
+  "updatedAt": "2024-12-10T19:12:56+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1f433da4-bbf2-4126-96d8-a085c80fbeaa",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Masumura Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1f433da4-bbf2-4126-96d8-a085c80fbeaa",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Masumura Hiroshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "12314917-5af4-4092-abee-fecaeb295190",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-08T01:20:43+00:00",
+    "description": "",
+    "fileName": "eeb204d0-04b0-4e72-8857-d8d38e781f9e.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-08T01:20:43+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "d72047ed-838b-4962-876d-523ed422764e",
+   "type": "creator"
+  }
+ ]
+}

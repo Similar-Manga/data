@@ -3,20 +3,29 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Dragon Quest: The Great Adventure of Dai"
+   "en": "Dragon Quest: The Adventure of Dai"
   },
   "altTitles": [
-   {
-    "vi": "Dấu ấn Rồng Thiêng"
-   },
-   {
-    "th": "ได ตะลุยแดนเวทย์มนต์"
-   },
    {
     "ja": "DRAGON QUEST―ダイの大冒険―"
    },
    {
-    "en": "Dragon Quest: The Adventure of Dai"
+    "ja": "ドラゴンクエスト ダイの大冒険"
+   },
+   {
+    "ja-ro": "Dragon Quest - Dai no Daibouken"
+   },
+   {
+    "en": "Dragon Quest: The Great Adventure of Dai"
+   },
+   {
+    "en": "DRAGON QUEST: Dai's Great Adventure"
+   },
+   {
+    "vi": "Dấu ấn Rồng Thiêng"
+   },
+   {
+    "vi": "Dragon Quest - Cuộc Phiêu Lưu Của Dai"
    },
    {
     "es": "Dragon Quest: Las Aventuras de Fly"
@@ -25,34 +34,32 @@
     "es-la": "Dragon Quest: La Gran Aventura de Dai"
    },
    {
-    "ja-ro": "Dragon Quest: Dai no Daibouken"
-   },
-   {
     "pt-br": "Fly O Pequeno Guerreiro"
    },
    {
     "pt-br": "Dragon Quest: A Grande Aventura de Dai"
    },
    {
-    "vi": "Dragon Quest - Cuộc Phiêu Lưu Của Dai"
+    "th": "ได ตะลุยแดนเวทย์มนต์"
    }
   ],
   "description": {
-   "en": "\"Long ago there was a brave swordsman known simply as 'the hero'. People back then had been suffering under the rule of the great demon lord. The hero and his companions challenged the devil king and, after a great battle, emerged victorious… The demon lord had fallen! \nThe monsters who were under the demon's influence were freed and setled on an isolated island and, with no humans around to stir the monsters, it became a peaceful place where everyone could live together.\"  \nOn a remote island on the southern seas lives Dai, a shipwrecked boy adopted by Brass, a lump wizard monster. Dai dreams of becoming a great hero but after years without human contact, one day a ship arrives to the island. This is the start of Dai's adventures…\n\n**Note:**\nVolume count based on the bunkoban.\n\n**Note:**\nPossibly discontinued by Viz media. The most recent release for the English edition of Dai was Volume 5 on November 8, 2022",
+   "en": "*Long ago there was a brave swordsman known simply as ‘the Hero’. Back then, people suffered under the rule of the great Demon King, but the Hero and his companions challenged the Demon King and, after a great battle, emerged victorious… The Demon King had fallen! The monsters who were under his influence were freed and settled on an isolated island and, with no humans around to stir the monsters, it became a peaceful place where everyone could live together.*\n\nOn a remote island on the southern seas lives Dai, a shipwrecked boy adopted by Brass, a lump wizard monster. Dai dreams of becoming a great hero, but after years without human contact, one day a ship arrives to the island. This is the start of Dai's adventures…\n\n**Notes:**\n- MangaDex's volume numbering goes by the small-format edition (bunkoban).\n- The official English localization of the repackaged color record edition (shinsou-sairoku-ban) by VIZ Media is possibly discontinued. The most recent release was Volume 5 on November 8, 2022.\n___\n**Supervisor:** [Horii Yuuji](https://mangadex.org/author/66e591eb-d155-446d-a2b4-7e7a6828592e)",
    "ja": "モンスターが平和に暮らすデルムリン島。その島で唯一の人間・ダイは、魔法が苦手だが勇者に憧れている少年。ある日、島を訪れた“勇者育成の家庭教師”アバンに才能を認められ、ダイは勇者になる特訓を開始! だが、そこへ復活した魔王が出現し!?",
    "pt-br": "Muito tempo atrás, as pessoas sofriam nas mãos de um poderoso e maligno demônio. Até que um dia, um jovem que ficou conhecido apenas como \"O Herói\" desafiou o demônio e junto com seus amigos finalmente puseram um fim em seu reinado de terror. Agora o mundo voltava a ser um lugar pacífico. Hoje, numa remota ilha dos mares do sul, vive um garoto chamado Dai que foi abandonado quando criança. Ele foi criado pelos monstros da ilha e cresceu um garoto bondoso e que sonha em se tornar um herói. Mas o que ele não desconfia é que talvez o dia em que ele precisará se tornar um herói esteja mais próximo do que imagina, pois certas forças misteriosas planejam trazer o Rei Demônio de volta a vida! \n\nEste é o mangá cujo anime ficou conhecido no Brasil como \"Fly O Pequeno Guerreiro\". No entanto, no lugar de Fly foi optado por usar o nome original japonês que é Dai."
   },
   "links": {
    "al": "30871",
-   "amz": "https://www.amazon.co.jp/gp/product/B0756ZS7Z4",
+   "amz": "https://www.amazon.co.jp/dp/B0756ZS7Z4",
    "ap": "dragon-quest-dai-no-daibouken",
-   "bw": "series/13073/list",
+   "bw": "series/13073",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2532074",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/141797/",
-   "engtl": "https://www.viz.com/dragon-quest",
+   "engtl": "https://www.viz.com/shonenjump/chapters/dragon-quest-the-adventure-of-dai",
    "kt": "1897",
    "mal": "871",
-   "mu": "2809"
+   "mu": "2809",
+   "raw": "https://shonenjumpplus.com/episode/13932016480029243322"
   },
   "originalLanguage": "ja",
   "lastVolume": "22",
@@ -240,9 +247,9 @@
    }
   ],
   "state": "published",
-  "version": 28,
+  "version": 30,
   "createdAt": "2018-04-26T03:02:55+00:00",
-  "updatedAt": "2024-11-07T20:34:25+00:00"
+  "updatedAt": "2024-12-24T07:02:15+00:00"
  },
  "relationships": [
   {
@@ -268,32 +275,6 @@
     "twitter": null,
     "updatedAt": "2024-11-24T01:44:46+00:00",
     "version": 2,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "f92556f5-28db-46d4-a54c-866d610ebfda",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Square Enix",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -330,11 +311,11 @@
    "type": "cover_art",
    "attributes": {
     "createdAt": "2022-05-08T21:13:07+00:00",
-    "description": "",
+    "description": "Normal-Format (Tankoubon) Volume 37 (1997)",
     "fileName": "5d20bf27-eb44-4191-82b5-cab5631625b7.jpg",
     "locale": "ja",
-    "updatedAt": "2022-05-08T21:13:07+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-24T08:52:19+00:00",
+    "version": 2,
     "volume": "37"
    }
   },

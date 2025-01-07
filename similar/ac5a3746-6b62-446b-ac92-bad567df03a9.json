@@ -6,9 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "e37a0e20-d5c3-45e5-abbe-f245c6735a04",
+   "title": {
+    "en": "Kimi no Love o Misetekure!"
+   },
+   "contentRating": "safe",
+   "score": 0.3140723,
+   "languages": [
+    "vi",
+    "pt-br",
+    "en",
+    "ru",
+    "es-la"
+   ]
+  },
+  {
    "id": "ee96e2b7-9af2-4864-9656-649f4d3b6fec",
    "title": {
-    "en": "Otaku ni Yasashii Gal wa Inai!?"
+    "en": "Gal Can't Be Kind to Otaku!?"
    },
    "contentRating": "safe",
    "score": 0.2852744,
@@ -28,7 +43,7 @@
     "en": "Kimi ni Koi wo suru Nante, Arienai Hazu Datta"
    },
    "contentRating": "safe",
-   "score": 0.27822053,
+   "score": 0.2782397,
    "languages": [
     "pt-br"
    ]
@@ -39,13 +54,13 @@
     "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
-   "score": 0.27593517,
+   "score": 0.27594134,
    "languages": [
+    "id",
     "es-la",
     "vi",
     "en",
     "ru",
-    "id",
     "pt-br"
    ]
   },
@@ -55,7 +70,7 @@
     "en": "Nemuro-kun wa Kao ga Ii!"
    },
    "contentRating": "safe",
-   "score": 0.27532107,
+   "score": 0.27534014,
    "languages": [
     "en",
     "es-la",
@@ -68,7 +83,7 @@
     "en": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
    },
    "contentRating": "safe",
-   "score": 0.2751375,
+   "score": 0.2750828,
    "languages": [
     "en",
     "pt-br"
@@ -80,7 +95,7 @@
     "en": "Hitomi-chan Is Shy With Strangers"
    },
    "contentRating": "safe",
-   "score": 0.27376223,
+   "score": 0.27380142,
    "languages": [
     "en",
     "pt-br",
@@ -99,13 +114,26 @@
     "en": "Houkago no Idol ni wa Himitsu ga aru"
    },
    "contentRating": "safe",
-   "score": 0.26923996,
+   "score": 0.2692466,
    "languages": [
     "vi",
     "en",
     "ru",
     "id",
     "pt-br"
+   ]
+  },
+  {
+   "id": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
+   "title": {
+    "en": "The Ice Princess Wants to Be Melted by a Small Patch of Sunlight"
+   },
+   "contentRating": "safe",
+   "score": 0.26507887,
+   "languages": [
+    "id",
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -119,53 +147,10 @@
     "pt-br",
     "uk",
     "en",
-    "vi",
     "es-la",
+    "vi",
     "ru",
     "tl"
-   ]
-  },
-  {
-   "id": "964d8e8a-7bcb-42f1-9651-20b1871eecac",
-   "title": {
-    "en": "Koori no Hime wa Chiisana Hidamari de Tokasaretai"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "id",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
-   "id": "ead3f958-0d01-4c1f-b605-620eacb8ead0",
-   "title": {
-    "en": "Boku no Ikezu na Konyakusha"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "pt-br",
-    "en",
-    "vi",
-    "id",
-    "pl",
-    "es-la"
-   ]
-  },
-  {
-   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
-   "title": {
-    "en": "Chigau Miyahara Omae janai!"
-   },
-   "contentRating": "safe",
-   "score": 0.2569291,
-   "languages": [
-    "vi",
-    "pt-br",
-    "es-la",
-    "en"
    ]
   },
   {
@@ -196,6 +181,31 @@
    ]
   },
   {
+   "id": "ae3736bf-dc58-40cc-b1cb-928269edf62b",
+   "title": {
+    "en": "Chigau Miyahara Omae janai!"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "vi",
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "title": {
+    "en": "Tokiwa-san to Inoue-kun no Boushin"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "348966d0-c807-45cf-9260-8adf006a9da6",
    "title": {
     "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
@@ -214,29 +224,21 @@
    ]
   },
   {
-   "id": "167a5252-5c4c-4de6-b96d-a9f39ba01d99",
+   "id": "ead3f958-0d01-4c1f-b605-620eacb8ead0",
    "title": {
-    "en": "Tokiwa-san to Inoue-kun no Boushin"
+    "en": "Boku no Ikezu na Konyakusha"
    },
    "contentRating": "safe",
    "score": 0.2569291,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "49c047a5-b5bc-4133-a61b-7598f1fd19b6",
-   "title": {
-    "en": "Katsura's Wig of the Day"
-   },
-   "contentRating": "safe",
-   "score": 0.25293308,
-   "languages": [
+    "pt-br",
     "en",
-    "es-la",
-    "fr"
+    "vi",
+    "id",
+    "pl",
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2024-12-01T21:39:06+00:00"
+ "updatedAt": "2025-01-06T00:50:57+00:00"
 }

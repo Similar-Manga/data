@@ -1,0 +1,181 @@
+{
+ "id": "016b265e-f9ed-4514-aed1-71e729e6e6ef",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kaijuu Shoujo Hana"
+  },
+  "altTitles": [
+   {
+    "ja": "怪獣少女ハナ"
+   },
+   {
+    "ja-ro": "Kaijū Shōjo Hana"
+   },
+   {
+    "en": "Kaiju Girl Hana"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/user/60646117/series/261197"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "27e16d92-d9fe-46d2-ac7e-4a47a2ae2103",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-10T16:38:09+00:00",
+  "updatedAt": "2024-12-11T08:38:03+00:00"
+ },
+ "relationships": [
+  {
+   "id": "26e903dc-afd8-46b3-9c0f-b7ad91f63781",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-10T16:30:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Matsuo Kazuyuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/60646117",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/basho87599950",
+    "updatedAt": "2024-12-11T08:38:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "26e903dc-afd8-46b3-9c0f-b7ad91f63781",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-10T16:30:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Matsuo Kazuyuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/60646117",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/basho87599950",
+    "updatedAt": "2024-12-11T08:38:57+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a71f87cd-f38d-4869-9a97-e49f88fb86ac",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-10T16:38:43+00:00",
+    "description": "",
+    "fileName": "5fbb8b42-c831-4948-8056-a953bd7614d3.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-10T16:38:43+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "b58899b5-f2b9-45b9-8048-16395cc30b08",
+   "type": "creator"
+  }
+ ]
+}

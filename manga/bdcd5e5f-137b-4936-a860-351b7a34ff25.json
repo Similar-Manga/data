@@ -1,0 +1,163 @@
+{
+ "id": "bdcd5e5f-137b-4936-a860-351b7a34ff25",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mobile Suit Crossbone Gundam Seerauber"
+  },
+  "altTitles": [
+   {
+    "ja": "機動戦士クロスボーン・ガンダムゼーロイバー"
+   }
+  ],
+  "description": {
+   "en": "The 30th anniversary feature diving deep into what it means to be a \"space pirate!\" The Crossbone saga continues with a new heroine and mecha lineup!"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "54b103e0-3313-447a-ac41-465593cffafb",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "50880a9d-5440-4732-9afb-8f457127e836",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mecha"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-26T16:20:54+00:00",
+  "updatedAt": "2024-12-26T16:21:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "daf410b0-63cd-41c5-9a0d-fe8aaca1ebf9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hasegawa Yuuichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "daf410b0-63cd-41c5-9a0d-fe8aaca1ebf9",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hasegawa Yuuichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0bf13c98-992a-4a20-8935-5fe7beedbd24",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-26T16:21:04+00:00",
+    "description": "",
+    "fileName": "5e927a1a-7508-4b21-92f4-99a8fd74e738.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-26T16:21:04+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "7db15f67-13ef-4417-b725-2b82e11329a8",
+   "type": "creator"
+  }
+ ]
+}

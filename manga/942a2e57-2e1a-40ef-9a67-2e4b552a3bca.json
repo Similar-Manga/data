@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Gakuran Hourouki"
+   "en": "Wandering Gakuran"
   },
   "altTitles": [
    {
     "ja": "ガクラン放浪"
+   },
+   {
+    "ja-ro": "Gakuran Hourouki"
    }
   ],
   "description": {
@@ -63,9 +66,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-08-23T20:06:00+00:00",
-  "updatedAt": "2024-08-23T20:19:12+00:00"
+  "updatedAt": "2024-12-15T06:55:40+00:00"
  },
  "relationships": [
   {

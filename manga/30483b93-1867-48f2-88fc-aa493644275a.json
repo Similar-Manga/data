@@ -34,13 +34,17 @@
    "amz": "https://www.amazon.co.jp/dp/B01M66LHX9/",
    "ap": "akita-imokko-ebina-chan",
    "bw": "series/94602",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2010091",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/389836/",
    "kt": "36848",
    "mal": "95652",
-   "mu": "128800"
+   "mu": "128800",
+   "raw": "https://www.shueisha.co.jp/books/search/search.html?seriesid=50911"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
-  "lastChapter": "19.5",
+  "lastChapter": "19",
+  "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2015,
   "contentRating": "safe",
@@ -102,9 +106,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2018-11-26T09:50:44+00:00",
-  "updatedAt": "2024-11-02T15:16:55+00:00"
+  "updatedAt": "2024-12-04T23:06:00+00:00"
  },
  "relationships": [
   {
@@ -182,12 +186,22 @@
    "related": "adapted_from"
   },
   {
+   "id": "63e00bb1-6325-47a6-a89a-97efc06571ba",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
    "id": "79f34a1a-d740-4a56-b8ff-85e314ec943f",
    "type": "manga",
    "related": "same_franchise"
   },
   {
    "id": "7a6b2fc3-91d6-4e0f-89dd-e667732e9d3c",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "c0be53d9-6ccd-4e0b-b6df-dc9c97da09d4",
    "type": "manga",
    "related": "same_franchise"
   }

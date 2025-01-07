@@ -1,0 +1,169 @@
+{
+ "id": "a1843fe3-9eb5-4f69-a07f-51c1c3d8ec2f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mobile Suit Dog Gundam"
+  },
+  "altTitles": [
+   {
+    "en": "MOBILE SUIT DOG-GUNDAM"
+   },
+   {
+    "ja-ro": "Inu Gundam"
+   },
+   {
+    "ja": "犬ガンダム"
+   },
+   {
+    "en": "DOG-GUNDAM"
+   }
+  ],
+  "description": {
+   "en": "A complete renewal of the masterpiece \"Mobile Suit Gundam\", which reigns supreme in the history of anime. Moreover, all the characters are dogs!"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/dp/B074CJ5NFK?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tkin",
+   "bw": "series/10593/list",
+   "mu": "0y1ny9c"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "2",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2004,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-09T08:28:50+00:00",
+  "updatedAt": "2024-12-09T08:31:16+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e7d2b9de-25ad-4466-87b1-bfead841df4a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Karasawa Nawoki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e7d2b9de-25ad-4466-87b1-bfead841df4a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Karasawa Nawoki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "264d4298-906c-4846-9663-a4d580b28442",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-09T08:28:53+00:00",
+    "description": "",
+    "fileName": "9950b076-e1aa-45c4-83aa-18ea23a8e43d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-09T08:28:53+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "37e0b2f4-6e65-46e6-b5a3-8a9a3dac1def",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "58bce0a2-1c06-4dc0-bb2c-08ec37d877fe",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "5994bd25-22ae-4879-84c8-0f7153615c58",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "87fb7461-589b-43a4-93ca-8f6783200670",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "9360a33c-77c1-4711-8f77-cb6226aa0c57",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "b0c1ae7b-69ea-444a-b637-8f81f6e03c65",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

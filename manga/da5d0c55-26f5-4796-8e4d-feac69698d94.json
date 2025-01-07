@@ -3,12 +3,9 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Useless Husband Marude"
+   "en": "Marude Dameo"
   },
   "altTitles": [
-   {
-    "ja-ro": "Maru de Dameo"
-   },
    {
     "ja": "丸出だめ夫"
    },
@@ -67,6 +64,18 @@
     }
    },
    {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -80,9 +89,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2023-06-12T23:26:20+00:00",
-  "updatedAt": "2024-10-30T02:37:26+00:00"
+  "updatedAt": "2024-12-25T22:12:45+00:00"
  },
  "relationships": [
   {

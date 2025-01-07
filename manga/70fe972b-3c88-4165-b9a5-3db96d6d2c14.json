@@ -84,7 +84,7 @@
    "pt-br",
    "id"
   ],
-  "latestUploadedChapter": "8abc9c34-f3c4-42b4-b575-53d0b35e2008",
+  "latestUploadedChapter": "0e50c8d7-1a1b-47b1-a53b-7f48ca282611",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -107,6 +107,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -195,6 +207,18 @@
     }
    },
    {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -208,9 +232,9 @@
    }
   ],
   "state": "published",
-  "version": 70,
+  "version": 71,
   "createdAt": "2019-02-20T07:30:09+00:00",
-  "updatedAt": "2024-11-29T03:56:50+00:00"
+  "updatedAt": "2024-12-27T14:52:16+00:00"
  },
  "relationships": [
   {
@@ -294,16 +318,16 @@
    }
   },
   {
-   "id": "db45eb94-2d07-49fd-b4e3-ba69259fb031",
+   "id": "01d30cda-4625-415e-a9f8-c4168655257d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-09T17:15:50+00:00",
+    "createdAt": "2024-12-10T12:06:33+00:00",
     "description": "",
-    "fileName": "71236b5b-d8ab-47dd-bd68-20bda4ef4fa0.jpg",
+    "fileName": "59686cc0-6fef-44b0-b6cf-5ad43ab6ddb3.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-09T17:15:50+00:00",
+    "updatedAt": "2024-12-10T12:06:33+00:00",
     "version": 1,
-    "volume": "28"
+    "volume": "29"
    }
   },
   {

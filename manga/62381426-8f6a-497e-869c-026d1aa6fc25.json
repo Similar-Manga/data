@@ -3,35 +3,38 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Trace: Kasouken Houi Kenkyuuin no Tsuisou"
+   "en": "Trace"
   },
   "altTitles": [
    {
-    "en": "Trace: Recollections of a Forensic Researcher"
+    "ja": "トレース 科捜研法医研究員の追想"
    },
    {
-    "ja": "トレース 科捜研法医研究員の追想"
+    "ja-ro": "Trace - Kasouken Houi Kenkyuuin no Tsuisou"
+   },
+   {
+    "en": "Trace: Recollections of a Forensic Medicine Researcher"
+   },
+   {
+    "id": "Trace: Recollections of a Forensic Researcher"
    },
    {
     "zh": "追缉线索：科搜研法医研究员的追想"
    },
    {
     "ru": "След: Воспоминания судебно-медицинского эксперта"
-   },
-   {
-    "en": "Trace: The Man from Forensics Solves the Truth!"
    }
   ],
   "description": {
-   "en": "A crime suspense story set in a forensic laboratory where specialists work to uncover clues from seemingly insignificant bits of trace evidence. The story begins when Sawaguchi Nonna, a rookie forensic researcher, meets Mano Reiji, the man who solved her parents' murder case.  \n  \n\n[TV Drama](https://www.fujitv.co.jp/trace_drama/index.html)\n\n---\nOfficial Release:\n- Indonesian release by Akasha as **Trace: Recollections of a Forensic Researcher** (2020)"
+   "en": "A crime suspense story set in a forensic laboratory where specialists work to uncover clues from seemingly insignificant bits of trace evidence. The story begins when Sawaguchi Nonna, a rookie forensic researcher, meets Mano Reiji, the man who solved her parents' murder case.\n___\n**Additional Links:**\n- Alt Official Raw: [MangaHot](https://mangahot.jp/site/works/z_R0041)\n- Alt Official English: [Comikey](https://comikey.com/comics/trace-manga/804/)\n- Live-Action TV Drama: [Fuji TV](https://www.fujitv.co.jp/trace_drama/index.html)"
   },
   "links": {
    "al": "104998",
-   "amz": "https://www.amazon.co.jp/gp/product/B074CG3JF2",
+   "amz": "https://www.amazon.co.jp/dp/B074CG3JF2",
    "ap": "trace-kasouken-houi-kenkyuuin-no-tsuisou",
    "bw": "series/78336",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/371079",
-   "engtl": "https://web.mangahot.jp/works/detail.php?work_code=e_R0019",
+   "engtl": "https://mangahot.jp/site/works/e_R0019",
    "kt": "trace-kasouken-houi-kenkyuuin-no-tsuisou",
    "mal": "106398",
    "mu": "129780",
@@ -108,19 +111,33 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 16,
+  "version": 20,
   "createdAt": "2020-07-01T20:26:15+00:00",
-  "updatedAt": "2024-02-08T19:25:29+00:00"
+  "updatedAt": "2024-12-29T10:07:30+00:00"
  },
  "relationships": [
   {
    "id": "48eb8438-b243-45b4-b985-ab5eb502ed14",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 古賀慶"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -135,8 +152,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/kkoga_",
-    "updatedAt": "2022-08-15T20:45:31+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-29T08:25:35+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -146,7 +163,9 @@
    "id": "48eb8438-b243-45b4-b985-ab5eb502ed14",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 古賀慶"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -161,8 +180,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/kkoga_",
-    "updatedAt": "2022-08-15T20:45:31+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-29T08:25:35+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

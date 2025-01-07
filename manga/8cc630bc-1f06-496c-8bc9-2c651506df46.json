@@ -10,12 +10,12 @@
     "ja": "ドラゴンクエスト ダイの大冒険 クロスブレイド"
    },
    {
-    "ja-ro": "Dragon Quest: Dai no Daibouken - Xross Blade"
+    "ja-ro": "Dragon Quest - Dai no Daibouken - Xross Blade"
    }
   ],
   "description": {},
   "links": {
-   "bw": "series/303503/list",
+   "bw": "series/303503",
    "mal": "161505",
    "mu": "kxwb4a6"
   },
@@ -110,12 +110,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 10,
   "createdAt": "2023-05-04T10:55:34+00:00",
-  "updatedAt": "2024-05-21T07:43:36+00:00"
+  "updatedAt": "2024-12-24T06:55:32+00:00"
  },
  "relationships": [
   {

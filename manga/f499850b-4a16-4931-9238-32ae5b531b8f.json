@@ -1,0 +1,140 @@
+{
+ "id": "f499850b-4a16-4931-9238-32ae5b531b8f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Prices Depreciated, and I Became the World's Richest Person"
+  },
+  "altTitles": [
+   {
+    "zh": "开局物价贬值，我成为了世界首富"
+   }
+  ],
+  "description": {
+   "en": "I woke up to find the world had changed! Prices everywhere have decreased by a million times, yet my funds remain the same, making me wealthier than the world’s richest person! How should I spend all this money…"
+  },
+  "links": {
+   "mu": "bvonnu8"
+  },
+  "originalLanguage": "zh",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "be36ab15-7abe-4411-8466-e6d11b61a09b",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-16T02:31:53+00:00",
+  "updatedAt": "2024-12-18T14:42:26+00:00"
+ },
+ "relationships": [
+  {
+   "id": "fb3f408a-9fab-42e0-b695-ac35c2446270",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-27T07:12:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "17K漫画",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-27T07:12:10+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fb3f408a-9fab-42e0-b695-ac35c2446270",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-10-27T07:12:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "17K漫画",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-27T07:12:10+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4a987c25-c131-4dda-b805-e967ebe8d0ff",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-16T02:31:55+00:00",
+    "description": "",
+    "fileName": "6350a79e-1dbb-4917-9c08-7e6d09e2068d.jpg",
+    "locale": "zh",
+    "updatedAt": "2024-12-16T02:31:55+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f3432e7e-8661-414e-bba8-5ed92b6b80dd",
+   "type": "creator"
+  }
+ ]
+}

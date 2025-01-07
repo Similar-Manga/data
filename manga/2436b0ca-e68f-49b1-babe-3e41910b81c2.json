@@ -17,7 +17,7 @@
    }
   ],
   "description": {
-   "en": "It feels like I (27 y/o) who specialized in [Training] skill was no longer necessary for the Hero’s party which had grown stronger to a certain degree. At first, I was the center of the party but in the end, the hero dismissed me from the party. However, because I had「Made a great contribution to the party until now」, I received a small「Fief」instead of retirement money. As my heart felt the loneliness of leaving the adventures front-line and heading to my territory, I thought of something after seeing the seven villages with their 2500 population. My thoughts are the following… I wonder if I train these people, won’t my territory become strong enough that could even defeat the demon lord?",
+   "en": "It feels like I (27 y/o) who specialized in [Training] skill was no longer necessary for the Hero's party which had grown stronger to a certain degree. At first, I was the center of the party but in the end, the hero dismissed me from the party. However, because I had「Made a great contribution to the party until now」, I received a small「Fief」instead of retirement money. As my heart felt the loneliness of leaving the adventures front-line and heading to my territory, I thought of something after seeing the seven villages with their 2500 population. My thoughts are the following... I wonder if I train these people, won't my territory become strong enough that could even defeat the demon lord?",
    "ja": "育成スキルはもういらないと、勇者パーティを解雇された主人公・エイガは退職金のかわりにもらった【領地】遠雲(とくも)を訪れる…。その【領地】には、とんでもない秘密があった!?",
    "pt-br": "Parece que eu (27 anos) que me especializava em habilidade de [Treinamento] não era mais necessário para o grupo do Herói, que ficou mais forte em um certo grau. No início, eu era o centro do grupo, mas no final, o herói me dispensou do grupo. No entanto, como eu 「dei uma grande contribuição para a equipe até agora」, recebi um pequeno 「feudo」 em vez do dinheiro da aposentadoria. Enquanto meu coração sentia a solidão de deixar a linha de frente das aventuras e seguir para o meu território, pensei algo depois de ver as sete aldeias com 2.500 habitantes. Meus pensamentos são os seguintes… Eu me pergunto se eu treinar essas pessoas, meu território não se tornará forte o suficiente para derrotar o lorde demônio?"
   },
@@ -25,10 +25,10 @@
    "al": "116495",
    "amz": "https://www.amazon.co.jp/dp/B08R8SKZHT",
    "ap": "ikusei-skill-wa-mou-iranai-to-yuusha-party-wo-kaiko-sareta-no-de-taishoku-kingawari-ni-moratta-ryouchi-wo-tsuyoku-shitemiru",
-   "bw": "series/263576/list",
+   "bw": "series/263576",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/604092",
    "engtl": "https://global.manga-up.com/manga/31",
-   "kt": "ikusei-skill-wa-mou-iranai-to-yuusha-party-o-kaiko-sareta-no-de-taishoku-kingawari-ni-moratta-ryouchi-o-tsuyoku-shitemiru",
+   "kt": "58110",
    "mal": "133626",
    "mu": "172980",
    "nu": "i-was-dismissed-from-the-heros-party-because-they-dont-need-my-training-skills-so-i-strengthen-my-fief-which-i-got-as-a-replacement-for-my-retirement-money",
@@ -132,11 +132,37 @@
    }
   ],
   "state": "published",
-  "version": 22,
+  "version": 24,
   "createdAt": "2020-11-15T16:12:28+00:00",
-  "updatedAt": "2024-10-04T00:15:15+00:00"
+  "updatedAt": "2024-12-07T15:33:22+00:00"
  },
  "relationships": [
+  {
+   "id": "23137ed2-cb98-4ed0-8f6d-1649f781f569",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yoshiyuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "e349da4b-8a6e-45e8-9c6e-f4d5393abce3",
    "type": "author",
@@ -190,16 +216,16 @@
    }
   },
   {
-   "id": "e99bd13d-7a50-45f5-95cf-811e4cd0bd37",
+   "id": "0e9f9ede-1239-4dcb-99ab-29fa4927dd6d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-08-03T12:16:07+00:00",
+    "createdAt": "2024-12-06T00:48:43+00:00",
     "description": "",
-    "fileName": "49817079-4e85-4918-9452-3be79fc86dfd.jpg",
+    "fileName": "7dba954d-3c28-4c2d-bcbe-67fe57dfc80c.jpg",
     "locale": "ja",
-    "updatedAt": "2024-08-03T12:16:07+00:00",
+    "updatedAt": "2024-12-06T00:48:43+00:00",
     "version": 1,
-    "volume": "10"
+    "volume": "11"
    }
   }
  ]

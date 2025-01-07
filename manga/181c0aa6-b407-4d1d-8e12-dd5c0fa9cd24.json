@@ -1,0 +1,163 @@
+{
+ "id": "181c0aa6-b407-4d1d-8e12-dd5c0fa9cd24",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Juvenile Police"
+  },
+  "altTitles": [
+   {
+    "ko": "소년경찰"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mu": "h1di4xg"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "2353dd44-78e5-4e77-96a8-db73e6213c51",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-04T16:38:13+00:00",
+  "updatedAt": "2024-12-04T18:15:02+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d371370b-8e86-4b2c-bd81-1abb05eedd75",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-04T06:45:39+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Samgang (삼갱)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-04T06:45:39+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "dae436fa-3054-4802-b4e4-d5f639f3646f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-04-09T19:53:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ji-An (지안)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-04-09T19:53:29+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b7fd030d-dc1f-4fe2-af53-fc6068635e6b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-04T16:38:23+00:00",
+    "description": "",
+    "fileName": "d53e6150-f14b-4514-8413-5f02e735fe5e.png",
+    "locale": "ko",
+    "updatedAt": "2024-12-04T16:38:23+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "165d938b-5915-4ff6-9a27-a32b47af7c94",
+   "type": "creator"
+  }
+ ]
+}

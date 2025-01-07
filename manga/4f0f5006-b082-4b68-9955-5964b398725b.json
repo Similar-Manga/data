@@ -3,38 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Gokujo. - Gokurakuin Joshikouryou Monogatari"
+   "en": "Gokujo. ~Gokurakuin Joshikouryou Monogatari~"
   },
   "altTitles": [
    {
-    "ja-ro": "Gokujo"
+    "ja": "ゴクジョッ。 ～極楽院女子高寮物語～"
    },
    {
-    "ja-ro": "Gokujou"
+    "ja-ro": "Gokujou. ~Gokurakuin Joshikouryou Monogatari~"
    },
    {
-    "ja-ro": "Gokujou - Gokurakuin Joshikouryou Monogatari"
-   },
-   {
-    "ja-ro": "Gokujyo"
-   },
-   {
-    "ja": "ゴクジョ。~極楽院女子高寮物語"
-   },
-   {
-    "zh": "极乐院女子高寮物语"
-   },
-   {
-    "ru": "Девичья Секта"
-   },
-   {
-    "ja-ro": "Gokujo~tsu.〜 Gokuraku-in Joshikō Ryō Monogatari 〜"
-   },
-   {
-    "ja": "ゴクジョッ。〜極楽院女子高寮物語〜"
-   },
-   {
-    "zh-hk": "極樂院女子高寮物語"
+    "ko": "고쿠죠 ~극락원여학교 기숙사 이야기~"
    },
    {
     "zh": "极乐女子宿舍"
@@ -43,19 +22,20 @@
     "zh-hk": "極樂女子宿舍"
    },
    {
-    "ko": "고쿠죠 ~극락원여학교 기숙사 이야기~"
+    "ru": "Девичья Секта"
    }
   ],
   "description": {
-   "en": "A story about the humorous misadventures of Akabane Aya, an arrogant high school girl who's constantly trying to outdo her classmates in everything (especially sex appeal), only to make a fool of herself in the process.  \nSince the story takes place in an all-girls school, expect lots of yuri fanservice innuendos without much seriousness."
+   "en": "A story about the humorous misadventures of Akabane Aya, an arrogant high school girl who's constantly trying to outdo her classmates in everything (especially sex appeal), only to make a fool of herself in the process. Since the story takes place in an all-girls school, expect lots of yuri fanservice innuendos without much seriousness.",
+   "ja": "飛び交う自主規制の嵐!? エロバカ女子高生ライフ!! 異性経験がなく“パギャル”の亜矢。エッチなことに興味津々で、自分の股間を鏡でのぞいたりと、ちょっと暴走気味なところも。"
   },
   "links": {
    "al": "43951",
-   "amz": "https://www.amazon.co.jp/gp/product/B074C5XN2L",
+   "amz": "https://www.amazon.co.jp/dp/B074C5XN2L",
    "ap": "gokujo-gokurakuin-joshikou-ryou-monogatari",
-   "bw": "series/12498/list",
+   "bw": "series/12498",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-659753",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/146502/",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/146502",
    "kt": "24595",
    "mal": "13951",
    "mu": "39861"
@@ -122,9 +102,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2018-05-31T18:25:21+00:00",
-  "updatedAt": "2023-05-08T19:24:40+00:00"
+  "updatedAt": "2024-12-20T13:41:06+00:00"
  },
  "relationships": [
   {
@@ -180,15 +160,15 @@
    }
   },
   {
-   "id": "8c40cf05-4abd-4f6b-966a-c5af13b47995",
+   "id": "914f59fe-5825-4fde-955a-c7d17aedbfbe",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:36:07+00:00",
-    "description": "",
-    "fileName": "322c181f-98fe-4931-87f6-70ed91e42126.png",
+    "createdAt": "2024-12-20T13:41:04+00:00",
+    "description": "Volume 10 Cover from BookLive",
+    "fileName": "c1ed0502-f69a-4185-b1c7-8e16ae41e44b.jpg",
     "locale": "ja",
-    "updatedAt": "2022-08-07T16:32:41+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-20T13:41:04+00:00",
+    "version": 1,
     "volume": "10"
    }
   }

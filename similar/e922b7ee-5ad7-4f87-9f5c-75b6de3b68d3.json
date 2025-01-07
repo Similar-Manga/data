@@ -11,18 +11,7 @@
     "en": "Brave Frontier: Flames to the Max! Vargas Chronicles"
    },
    "contentRating": "safe",
-   "score": 0.2901876,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "40dfdb77-7501-49ee-8f25-8f6a23ed893a",
-   "title": {
-    "en": "Utsukushii Bakemono"
-   },
-   "contentRating": "safe",
-   "score": 0.28002632,
+   "score": 0.2852446,
    "languages": [
     "en"
    ]
@@ -33,23 +22,7 @@
     "en": "Flower Protector King in the City"
    },
    "contentRating": "safe",
-   "score": 0.2637796
-  },
-  {
-   "id": "d4261f71-69d6-43ee-9c51-00a560d9c927",
-   "title": {
-    "en": "Nobunaga Miman: Tensei Mitsuhide ga Taosenai"
-   },
-   "contentRating": "safe",
-   "score": 0.26224402
-  },
-  {
-   "id": "af38dc80-91aa-4e2b-8cd3-06a441b5dd25",
-   "title": {
-    "en": "Monster Rancer ~Secret of the Disk Stone~"
-   },
-   "contentRating": "safe",
-   "score": 0.26097438
+   "score": 0.2613863
   },
   {
    "id": "d79fdf16-153a-4a0a-95b8-c208b1162644",
@@ -57,15 +30,22 @@
     "en": "Splatoon: Bankara!"
    },
    "contentRating": "safe",
-   "score": 0.26083016
+   "score": 0.25890368
   },
   {
-   "id": "de7202ad-57d6-4849-9f7d-e3db470929de",
+   "id": "ff5bbffe-abd3-44b2-b3aa-8c9c4c56ba94",
    "title": {
-    "en": "Yokai Boy + Green Alien + Perfect Crime Machine"
+    "en": "Digimon Adventure V-Tamer 01 ~A New Courage~"
    },
    "contentRating": "safe",
-   "score": 0.26005483
+   "score": 0.2578702,
+   "languages": [
+    "zh-hk",
+    "es-la",
+    "fr",
+    "pl",
+    "en"
+   ]
   },
   {
    "id": "a80eb8c6-ed51-4857-83c3-04fcf6c10aa2",
@@ -73,19 +53,7 @@
     "en": "Duel Masters Beginner Duema Revolution Final Complete Guide"
    },
    "contentRating": "safe",
-   "score": 0.2589532
-  },
-  {
-   "id": "5fc26352-350e-4c09-9c58-f2c041cd430d",
-   "title": {
-    "en": "The Dungeon That Kills All Adventurers"
-   },
-   "contentRating": "safe",
-   "score": 0.25793904,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
+   "score": 0.2572568
   },
   {
    "id": "4320a526-7c87-45cb-9e38-5dcdd8f5362e",
@@ -93,24 +61,7 @@
     "en": "Duel Masters Introductory Duema Revolution Start Complete Guide"
    },
    "contentRating": "safe",
-   "score": 0.25701112
-  },
-  {
-   "id": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
-   "title": {
-    "en": "I Parry Everything: What Do You Mean I’m the Strongest? I’m Not Even an Adventurer Yet!"
-   },
-   "contentRating": "safe",
-   "score": 0.25624648,
-   "languages": [
-    "pt-br",
-    "en",
-    "es-la",
-    "vi",
-    "fr",
-    "ru",
-    "id"
-   ]
+   "score": 0.25555345
   },
   {
    "id": "8e9d65c7-25bc-4bbe-b70b-a49776509161",
@@ -132,46 +83,99 @@
    ]
   },
   {
+   "id": "98cdf795-de04-45fe-94c1-4506f84d3ad3",
+   "title": {
+    "en": "Net Ghost Pipopa"
+   },
+   "contentRating": "safe",
+   "score": 0.25503334
+  },
+  {
+   "id": "af38dc80-91aa-4e2b-8cd3-06a441b5dd25",
+   "title": {
+    "en": "Monster Rancer ~Secret of the Disk Stone~"
+   },
+   "contentRating": "safe",
+   "score": 0.2503366
+  },
+  {
+   "id": "ac783473-e74c-4ed4-b3d7-89e50b171b5f",
+   "title": {
+    "en": "GALAXIAS"
+   },
+   "contentRating": "safe",
+   "score": 0.24855612,
+   "languages": [
+    "pt-br",
+    "fr",
+    "ru",
+    "vi"
+   ]
+  },
+  {
+   "id": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
+   "title": {
+    "en": "I Parry Everything: What Do You Mean I’m the Strongest? I’m Not Even an Adventurer Yet!"
+   },
+   "contentRating": "safe",
+   "score": 0.24848603,
+   "languages": [
+    "pt-br",
+    "en",
+    "es-la",
+    "vi",
+    "fr",
+    "ru",
+    "id"
+   ]
+  },
+  {
+   "id": "b298ca5d-b252-4e6e-a341-835d0536e2f2",
+   "title": {
+    "en": "Kuhiko-san"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582
+  },
+  {
+   "id": "71772ad7-505f-4180-a317-583034890a6c",
+   "title": {
+    "en": "Mudameshi Kurai Nintei Sareta node Aiso o Tsukashi, Teikoku ni Utsute Shusse Suru Ookuku no Erai Hitoni wa Sore ga Wakara no desu"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "63eceb53-39d6-4f3b-8109-add599940d21",
+   "title": {
+    "en": "Hololive - Holoearth Chronicles Side:E ~Yamato Phantasia~"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "es-la",
+    "ja",
+    "pt-br",
+    "en",
+    "id",
+    "tr"
+   ]
+  },
+  {
    "id": "ea067b7d-06c9-4a42-a9f6-12e1be2de15b",
    "title": {
     "en": "Magical Circle Guru Guru 2"
    },
    "contentRating": "safe",
-   "score": 0.25542453,
+   "score": 0.24743582,
    "languages": [
     "it"
    ]
-  },
-  {
-   "id": "258d2691-ffea-4e77-8968-ce5c24ffc6f7",
-   "title": {
-    "en": "Isekai Tensei de Kenja ni Natte Boukensha Seikatsu: \"Mahou Kairyou\" de Isekai Saikyou"
-   },
-   "contentRating": "safe",
-   "score": 0.25238383,
-   "languages": [
-    "es-la",
-    "en",
-    "pt-br",
-    "id"
-   ]
-  },
-  {
-   "id": "f81026af-1b41-465c-932b-291ce4760c00",
-   "title": {
-    "en": "Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.25192478,
-   "languages": [
-    "en",
-    "pt-br",
-    "ru",
-    "id",
-    "fr",
-    "th"
-   ]
   }
  ],
- "updatedAt": "2024-12-01T21:59:22+00:00"
+ "updatedAt": "2025-01-06T01:15:58+00:00"
 }

@@ -145,6 +145,18 @@
     }
    },
    {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
     "type": "tag",
     "attributes": {
@@ -169,6 +181,18 @@
     }
    },
    {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -182,9 +206,9 @@
    }
   ],
   "state": "published",
-  "version": 42,
+  "version": 43,
   "createdAt": "2018-01-18T17:56:28+00:00",
-  "updatedAt": "2024-10-09T14:52:29+00:00"
+  "updatedAt": "2024-12-24T00:06:59+00:00"
  },
  "relationships": [
   {

@@ -6,21 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "4a210d67-ea18-4497-8ba3-0d5537a63b3e",
-   "title": {
-    "en": "Face Genius"
-   },
-   "contentRating": "safe",
-   "score": 0.2909078,
-   "languages": [
-    "en",
-    "ru",
-    "id",
-    "fr",
-    "tr"
-   ]
-  },
-  {
    "id": "aded0ea5-b457-4001-8c95-092eae738f23",
    "title": {
     "en": "Heropie"
@@ -49,7 +34,7 @@
     "en": "Meme Girls"
    },
    "contentRating": "safe",
-   "score": 0.2470292,
+   "score": 0.24692133,
    "languages": [
     "ru",
     "en",
@@ -69,7 +54,7 @@
     "en": "Tower Into the Clouds"
    },
    "contentRating": "safe",
-   "score": 0.225675,
+   "score": 0.22539365,
    "languages": [
     "fr",
     "en",
@@ -77,6 +62,19 @@
     "id",
     "tr",
     "es-la"
+   ]
+  },
+  {
+   "id": "032b3391-2938-43b9-bf58-d62c783a41c4",
+   "title": {
+    "en": "Mosspaca Advertising Department"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "id",
+    "en",
+    "tr"
    ]
   },
   {
@@ -106,43 +104,12 @@
    ]
   },
   {
-   "id": "032b3391-2938-43b9-bf58-d62c783a41c4",
-   "title": {
-    "en": "Mosspaca Advertising Department"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "id",
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
-   "title": {
-    "en": "Aishiteru Game wo Owarasetai"
-   },
-   "contentRating": "safe",
-   "score": 0.21613379,
-   "languages": [
-    "fr",
-    "en",
-    "uk",
-    "es-la",
-    "pt-br",
-    "vi",
-    "ru",
-    "tr"
-   ]
-  },
-  {
    "id": "5ca95d5b-4aa0-4d22-96e1-6844ea7ed106",
    "title": {
     "en": "Secret Love"
    },
    "contentRating": "safe",
-   "score": 0.2112548,
+   "score": 0.21094778,
    "languages": [
     "pt-br",
     "uk",
@@ -155,14 +122,20 @@
    ]
   },
   {
-   "id": "5d24375a-bb99-4f51-aa26-87228f0bc008",
+   "id": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
    "title": {
-    "en": "The Prince in Game Is Hard to Raise"
+    "en": "Aishiteru Game wo Owarasetai"
    },
    "contentRating": "safe",
-   "score": 0.20977025,
+   "score": 0.20839427,
    "languages": [
+    "fr",
     "en",
+    "uk",
+    "es-la",
+    "pt-br",
+    "vi",
+    "ru",
     "tr"
    ]
   },
@@ -172,7 +145,7 @@
     "en": "Ranker’s Return"
    },
    "contentRating": "safe",
-   "score": 0.20816602,
+   "score": 0.20758474,
    "languages": [
     "id",
     "tr",
@@ -188,7 +161,7 @@
     "en": "Shokuba to Jitaku de Gap no Aru Papa"
    },
    "contentRating": "safe",
-   "score": 0.20284864,
+   "score": 0.20283246,
    "languages": [
     "en",
     "tr",
@@ -196,6 +169,20 @@
     "fr",
     "pt-br",
     "id"
+   ]
+  },
+  {
+   "id": "81608566-8eb5-4ced-8902-13e2eaac0929",
+   "title": {
+    "en": "Sunshine Doll"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "tr",
+    "en",
+    "uk",
+    "pl"
    ]
   },
   {
@@ -214,19 +201,6 @@
    ]
   },
   {
-   "id": "d40195b4-900a-43eb-95ff-dc79b62a9fe6",
-   "title": {
-    "en": "Boy's Dormitory 303"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
-    "tr",
-    "id"
-   ]
-  },
-  {
    "id": "f8dbced3-1eea-4547-b657-ce568fbdda0f",
    "title": {
     "en": "Operation: True Love"
@@ -239,7 +213,41 @@
     "es-la",
     "it"
    ]
+  },
+  {
+   "id": "4002af95-b501-4cce-b1bd-ccf0b21d5bdc",
+   "title": {
+    "en": "Please Take My Brother Away!"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "it",
+    "en",
+    "pt-br",
+    "fr",
+    "tr"
+   ]
+  },
+  {
+   "id": "69edf637-4258-4540-9fd2-6fa6e53ca68c",
+   "title": {
+    "en": "Stalker x Stalker"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "fr",
+    "id",
+    "tr",
+    "it",
+    "en",
+    "ru",
+    "pt-br",
+    "pl",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2024-12-01T21:51:24+00:00"
+ "updatedAt": "2025-01-06T01:05:53+00:00"
 }

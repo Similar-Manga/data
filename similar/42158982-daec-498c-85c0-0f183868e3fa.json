@@ -11,7 +11,7 @@
     "en": "My Ruined Academy"
    },
    "contentRating": "safe",
-   "score": 0.30419463,
+   "score": 0.30229262,
    "languages": [
     "en"
    ]
@@ -19,16 +19,17 @@
   {
    "id": "7f15e45c-b7fd-4164-8d8e-ede14a817f0d",
    "title": {
-    "en": "The Extra’s Academy Survival Guide"
+    "en": "The Extra's Academy Survival Guide"
    },
    "contentRating": "safe",
-   "score": 0.28716478,
+   "score": 0.28588536,
    "languages": [
     "id",
     "es-la",
+    "pt-br",
     "en",
     "fr",
-    "pt-br"
+    "it"
    ]
   },
   {
@@ -37,7 +38,7 @@
     "en": "Academy's Undercover Professor"
    },
    "contentRating": "safe",
-   "score": 0.2858078,
+   "score": 0.2849797,
    "languages": [
     "id",
     "en",
@@ -54,10 +55,23 @@
     "en": "Enrolling in the Transcendent Academy"
    },
    "contentRating": "safe",
-   "score": 0.27732277,
+   "score": 0.27540347,
    "languages": [
     "es-la",
     "en"
+   ]
+  },
+  {
+   "id": "e64b54c4-5ef4-44d3-85db-09fe0d3e513c",
+   "title": {
+    "en": "Necromancer Academy and the Genius Summoner"
+   },
+   "contentRating": "safe",
+   "score": 0.2731005,
+   "languages": [
+    "es-la",
+    "en",
+    "id"
    ]
   },
   {
@@ -66,7 +80,7 @@
     "en": "God of Knowledge"
    },
    "contentRating": "safe",
-   "score": 0.27132282,
+   "score": 0.2696693,
    "languages": [
     "en"
    ]
@@ -77,18 +91,7 @@
     "en": "The Elite Princess's Chief Guidelines"
    },
    "contentRating": "safe",
-   "score": 0.26778182
-  },
-  {
-   "id": "9963e676-b9ae-4882-8115-9798849065e4",
-   "title": {
-    "en": "The Magic Academy and the Transfer Student"
-   },
-   "contentRating": "safe",
-   "score": 0.26761115,
-   "languages": [
-    "en"
-   ]
+   "score": 0.26724377
   },
   {
    "id": "8bfa142d-c006-4b76-a6ac-3f7cff7eeed4",
@@ -96,7 +99,7 @@
     "en": "Anz"
    },
    "contentRating": "safe",
-   "score": 0.2675533,
+   "score": 0.26696044,
    "languages": [
     "fr",
     "pt-br",
@@ -105,35 +108,23 @@
    ]
   },
   {
+   "id": "9963e676-b9ae-4882-8115-9798849065e4",
+   "title": {
+    "en": "The Magic Academy and the Transfer Student"
+   },
+   "contentRating": "safe",
+   "score": 0.26646483,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "58bc907f-b0e0-4b23-98b1-a856f480f7e7",
    "title": {
     "en": "Akemia Academy"
    },
    "contentRating": "safe",
-   "score": 0.26543823,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e64b54c4-5ef4-44d3-85db-09fe0d3e513c",
-   "title": {
-    "en": "Necromancer Academy and the Genius Summoner"
-   },
-   "contentRating": "safe",
-   "score": 0.2602432,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "1703aee9-ae55-49e7-9aba-c1c55e1bbbaf",
-   "title": {
-    "en": "Identity V academy"
-   },
-   "contentRating": "safe",
-   "score": 0.25630465,
+   "score": 0.26455683,
    "languages": [
     "en"
    ]
@@ -144,7 +135,18 @@
     "en": "I'm a Level D Student"
    },
    "contentRating": "safe",
-   "score": 0.25608066
+   "score": 0.2553065
+  },
+  {
+   "id": "1703aee9-ae55-49e7-9aba-c1c55e1bbbaf",
+   "title": {
+    "en": "Identity V academy"
+   },
+   "contentRating": "safe",
+   "score": 0.25512123,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "a5453fe1-61f9-44bd-bf89-6d6a258341ee",
@@ -152,7 +154,7 @@
     "en": "Empira's Awakening"
    },
    "contentRating": "safe",
-   "score": 0.2548957,
+   "score": 0.25450638,
    "languages": [
     "en",
     "ru",
@@ -160,20 +162,12 @@
    ]
   },
   {
-   "id": "1df25b44-8889-4656-849c-ed3e8b80f610",
-   "title": {
-    "en": "Arcanus Crucis: The Witch's Tale"
-   },
-   "contentRating": "safe",
-   "score": 0.250588
-  },
-  {
    "id": "2cf89460-4b70-4d1c-b66b-123ef530f5de",
    "title": {
     "en": "Catherine's Key to a Happy Life"
    },
    "contentRating": "safe",
-   "score": 0.24944554,
+   "score": 0.24927872,
    "languages": [
     "es-la",
     "en",
@@ -187,12 +181,27 @@
     "en": "The Dragon Slayer Academy's Hotshot"
    },
    "contentRating": "safe",
-   "score": 0.24722208,
+   "score": 0.24675906,
    "languages": [
     "es-la",
     "en"
    ]
+  },
+  {
+   "id": "bf1d564b-e41a-4f55-9241-b5c7ac7f30ab",
+   "title": {
+    "en": "Despite Coming From the Abyss, I Will Save Humanity"
+   },
+   "contentRating": "safe",
+   "score": 0.24552509,
+   "languages": [
+    "en",
+    "pl",
+    "fr",
+    "id",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-12-01T21:03:21+00:00"
+ "updatedAt": "2025-01-06T00:08:20+00:00"
 }

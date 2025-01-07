@@ -1,0 +1,138 @@
+{
+ "id": "7ed14a24-1f33-4645-a59d-efef0deb98fc",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Straits of Escape"
+  },
+  "altTitles": [
+   {
+    "ja": "暗黒列島"
+   },
+   {
+    "ja": "逃亡海峡"
+   },
+   {
+    "en": "Dark Archipelago"
+   },
+   {
+    "en": "Escape Straits"
+   }
+  ],
+  "description": {
+   "en": "On September 26, 1954, the Toya Maru, a ferry connecting the Tsugaru Straits between Aomori, the northern tip of Honshu, and Hokkaido, was sucked into the dark sea, taking with it the lives of 1,504 passengers and crew. Ten years later, Taki Tetsuya, one of the surviving family members, studied hard and joined the construction of the Seikan Tunnel, determined not to let his father's death be in vain. Tetsuya worked passionately on the tunnel construction, but one day, in a fit of rage, he killed the president of a trading company who had driven his younger brother to his death in a hit-and-run, and became a fugitive...! This is a hard-boiled story about the life of Taki Tetsuya, a tragic young man who evades the police and pushes forward towards the completion of the Seikan Tunnel!"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/s?k=逃亡海峡+(マンガの金字塔)\u0026i=digital-text\u0026crid=2ISXXNV19EX1\u0026sprefix=逃亡海峡+マンガの金字塔+,digital-text,210\u0026ref=nb_sb_noss",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/643693/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "8",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1970,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-11T08:36:34+00:00",
+  "updatedAt": "2024-12-12T02:20:25+00:00"
+ },
+ "relationships": [
+  {
+   "id": "55395f13-11b8-4d5b-8b72-cb255520a64a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-12-15T01:10:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asaoka Koji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-12-15T01:10:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "55395f13-11b8-4d5b-8b72-cb255520a64a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-12-15T01:10:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asaoka Koji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-12-15T01:10:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d006db65-7f00-4363-aeb0-0f8c188922ee",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-12T02:17:23+00:00",
+    "description": "",
+    "fileName": "e6fab0a8-f8dc-4e6d-8c98-e3519ab20744.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-12T02:17:23+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "id": "5aff2ea1-7ba0-4f43-a3ad-3acb7c6905ed",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Totsuki Tooka mo Mainichi Tanoshii"
+  },
+  "altTitles": [
+   {
+    "ja": "十月十日も毎日たのしい"
+   }
+  ],
+  "description": {
+   "en": "Matsumoto Hidekichi tells all about going through pregnancy in her forties!\n\nAfter the hectic days of finishing her latest manga series, she can finally get back to a more regular lifestyle… until she finds out that she's pregnant! The road to motherhood will be full of laughter and tears!"
+  },
+  "links": {
+   "al": "185471",
+   "amz": "https://www.amazon.co.jp/-/en/%E6%9D%BE%E6%9C%AC%E3%81%B2%E3%81%A7%E5%90%89-ebook/dp/B0DLJS64WX?crid=2K4F1B1M1G1VW\u0026dib=eyJ2IjoiMSJ9.7mIdpGi8RfoEey1Q2VWZYvF9wXYHnEsxKbuUkMZTzDyRV35nA0RbWv6qunNoHrl5MdWtRWBPuDhSllKLq20CjUuP22hzUc6Ge5l_-LlV2N7qs1Baa_Kd1wHge6FPwXR-.dlAZcgNU64ZOHTM8Pb0Ke7UUhZ5avQowRCYMcZfkrEc\u0026dib_tag=se\u0026keywords=%E5%8D%81%E6%9C%88%E5%8D%81%E6%97%A5%E3%82%82%E6%AF%8E%E6%97%A5%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84\u0026qid=1734302804\u0026s=digital-text\u0026sprefix=%E5%8D%81%E6%9C%88%E5%8D%81%E6%97%A5%E3%82%82%E6%AF%8E%E6%97%A5%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%2Cdigital-text%2C710\u0026sr=1-1",
+   "bw": "de6a89259b-24d5-49f3-9810-298d5ba2db0c",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/861766/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "josei",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-15T22:48:29+00:00",
+  "updatedAt": "2024-12-15T22:48:51+00:00"
+ },
+ "relationships": [
+  {
+   "id": "be2a5dcb-5cea-41f8-9350-dd258aa11dbf",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Matsumoto Hidekichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hidekiccan",
+    "updatedAt": "2022-03-16T19:42:07+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "be2a5dcb-5cea-41f8-9350-dd258aa11dbf",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Matsumoto Hidekichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hidekiccan",
+    "updatedAt": "2022-03-16T19:42:07+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "257c3696-f7da-4a2b-ba8c-51bc999f9575",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-15T22:48:31+00:00",
+    "description": "",
+    "fileName": "0c363843-a338-43e4-9c00-ab7903f88c81.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-15T22:48:31+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "id": "6005c789-5a99-43d9-a565-f55f36c6a9f1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shunrai wa, akiramenai"
+  },
+  "altTitles": [
+   {
+    "ja": "春雷は、あきらめない"
+   },
+   {
+    "vi": "Sấm Xuân Vẫn Vang Dội"
+   }
+  ],
+  "description": {
+   "en": "Novelist Sakuya decides to live in the countryside at his grandfather's house after his death. On the day of the move, a young man appeared when he was tidying up while immersing himself in memories...?\n\n[Source](https://x.com/daria_fwinc/status/1849028007736058354)"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "erotica",
+  "availableTranslatedLanguages": [
+   "vi"
+  ],
+  "latestUploadedChapter": "ab2e0047-971a-4b0c-bc45-eb51a196534a",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Boys' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-07T21:59:24+00:00",
+  "updatedAt": "2024-12-08T14:58:00+00:00"
+ },
+ "relationships": [
+  {
+   "id": "9b563791-a18f-4f8b-b4e2-8758d57b029b",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\n紅"
+    },
+    "booth": null,
+    "createdAt": "2023-05-22T14:12:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Veni",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=1783744",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "http://twitter.com/oy2_mgmg",
+    "updatedAt": "2023-09-09T02:46:05+00:00",
+    "version": 2,
+    "website": "http://veni2.blog10.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9b563791-a18f-4f8b-b4e2-8758d57b029b",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name** (in native language)\n紅"
+    },
+    "booth": null,
+    "createdAt": "2023-05-22T14:12:51+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Veni",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=1783744",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "http://twitter.com/oy2_mgmg",
+    "updatedAt": "2023-09-09T02:46:05+00:00",
+    "version": 2,
+    "website": "http://veni2.blog10.fc2.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "55b664a8-f657-48a2-90f0-381eab856acc",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-07T21:59:27+00:00",
+    "description": "",
+    "fileName": "bd3ab113-b0b8-43c8-990a-dd963309ec88.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-07T21:59:27+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "bfd51918-2332-455b-81e8-604f1b5fdde5",
+   "type": "creator"
+  }
+ ]
+}

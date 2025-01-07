@@ -6,58 +6,28 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
+   "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
    "title": {
-    "en": "Kiba no Tabishounin - The Arms Peddler"
+    "en": "Kingdom"
    },
    "contentRating": "safe",
-   "score": 0.17662261,
+   "score": 0.1600727,
    "languages": [
-    "pt-br",
     "en",
-    "es",
-    "pl",
-    "es-la"
-   ]
-  },
-  {
-   "id": "11b74211-f4c0-4f08-b5a4-c491da0d0c0b",
-   "title": {
-    "en": "Choujin X"
-   },
-   "contentRating": "safe",
-   "score": 0.1666842,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "hu",
-    "ru",
+    "it",
     "ar",
-    "en",
-    "id",
-    "uk",
     "vi",
-    "fa",
+    "ru",
+    "uk",
     "es",
-    "mn"
-   ]
-  },
-  {
-   "id": "a1dc8c93-f83d-4410-a3e3-4051a007d83f",
-   "title": {
-    "en": "Lili-Men"
-   },
-   "contentRating": "safe",
-   "score": 0.16410206,
-   "languages": [
     "pt-br",
-    "es-la",
-    "id",
-    "en",
-    "fa",
     "pl",
-    "es",
-    "ar"
+    "es-la",
+    "tr",
+    "ro",
+    "id",
+    "de",
+    "fr"
    ]
   },
   {
@@ -73,43 +43,29 @@
    ]
   },
   {
-   "id": "077a3fed-1634-424f-be7a-9a96b7f07b78",
+   "id": "4ada20eb-085a-491a-8c49-477ab42014d7",
    "title": {
-    "en": "Kingdom"
+    "en": "The Beginning After the End"
    },
    "contentRating": "safe",
-   "score": 0.14695214,
+   "score": 0.15185438,
    "languages": [
     "en",
-    "it",
-    "vi",
-    "ar",
-    "ru",
-    "uk",
-    "es",
-    "pt-br",
+    "fa",
     "pl",
-    "es-la",
-    "tr",
-    "ro",
-    "id",
-    "de",
-    "fr"
-   ]
-  },
-  {
-   "id": "7b9d73ff-a19e-4817-9eb7-657471f4d8d5",
-   "title": {
-    "en": "Kinnikuman"
-   },
-   "contentRating": "safe",
-   "score": 0.14613223,
-   "languages": [
     "pt-br",
-    "en",
-    "es",
     "es-la",
-    "it"
+    "fr",
+    "hu",
+    "uk",
+    "de",
+    "ru",
+    "pt",
+    "it",
+    "es",
+    "tr",
+    "id",
+    "bg"
    ]
   },
   {
@@ -118,7 +74,7 @@
     "en": "Pumpkin Night Gaiden - Naoko"
    },
    "contentRating": "safe",
-   "score": 0.14393893,
+   "score": 0.14392866,
    "languages": [
     "es",
     "it"
@@ -130,7 +86,7 @@
     "en": "Beginning of the Human Age"
    },
    "contentRating": "safe",
-   "score": 0.1419329,
+   "score": 0.1419047,
    "languages": [
     "es",
     "en",
@@ -153,9 +109,27 @@
     "ms",
     "it",
     "uk",
+    "ar",
     "id",
     "no",
     "fr"
+   ]
+  },
+  {
+   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
+   "title": {
+    "en": "World Trigger"
+   },
+   "contentRating": "safe",
+   "score": 0.13673411,
+   "languages": [
+    "vi",
+    "en",
+    "pt-br",
+    "es",
+    "pl",
+    "de",
+    "tr"
    ]
   },
   {
@@ -167,6 +141,7 @@
    "score": 0.13620104,
    "languages": [
     "en",
+    "es",
     "ar",
     "es-la",
     "pt-br",
@@ -176,7 +151,6 @@
     "th",
     "ru",
     "fr",
-    "es",
     "mn",
     "id",
     "he",
@@ -191,7 +165,7 @@
     "en": "To Aru Kagaku no Railgun"
    },
    "contentRating": "safe",
-   "score": 0.13601942,
+   "score": 0.13585107,
    "languages": [
     "en",
     "zh",
@@ -205,30 +179,32 @@
    ]
   },
   {
-   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
-   "title": {
-    "en": "World Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.13521379,
-   "languages": [
-    "en",
-    "pt-br",
-    "es",
-    "pl",
-    "de",
-    "tr"
-   ]
-  },
-  {
    "id": "dcdff219-d3f5-4875-8b32-96d0101e131b",
    "title": {
     "en": "METRA-K"
    },
    "contentRating": "safe",
-   "score": 0.13371943,
+   "score": 0.13365042,
    "languages": [
     "es"
+   ]
+  },
+  {
+   "id": "a1dc8c93-f83d-4410-a3e3-4051a007d83f",
+   "title": {
+    "en": "LILI-MEN"
+   },
+   "contentRating": "safe",
+   "score": 0.1307499,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "id",
+    "en",
+    "fa",
+    "pl",
+    "es",
+    "ar"
    ]
   },
   {
@@ -245,50 +221,77 @@
    ]
   },
   {
-   "id": "4ada20eb-085a-491a-8c49-477ab42014d7",
+   "id": "5d1fc77e-706a-4fc5-bea8-486c9be0145d",
    "title": {
-    "en": "The Beginning After the End"
+    "en": "Vinland Saga"
    },
    "contentRating": "safe",
-   "score": 0.12415331,
+   "score": 0.1231228,
    "languages": [
-    "en",
-    "fa",
-    "pl",
-    "pt-br",
     "es-la",
-    "fr",
-    "hu",
-    "uk",
-    "de",
+    "en",
+    "pt-br",
     "ru",
-    "pt",
-    "it",
-    "es",
+    "ro",
+    "ar",
+    "cs",
+    "uk",
     "tr",
-    "id",
-    "bg"
+    "es",
+    "it"
    ]
   },
   {
-   "id": "3b5c0def-79ae-44e8-9d71-9aa2e83f9a9f",
+   "id": "3ee952f1-45c7-4c39-aea2-7df7676606d4",
    "title": {
-    "en": "Reincarnation no Kaben"
+    "en": "Blue Exorcist"
    },
    "contentRating": "safe",
    "score": 0.12305872,
    "languages": [
+    "pt-br",
     "es-la",
-    "en",
-    "id",
-    "es",
-    "vi",
-    "tr",
-    "pl",
     "fr",
-    "pt-br"
+    "en",
+    "tr",
+    "it",
+    "es",
+    "he"
+   ]
+  },
+  {
+   "id": "34e45b02-b5c8-4a4b-a21a-7b5059391dc8",
+   "title": {
+    "en": "To Your Eternity"
+   },
+   "contentRating": "safe",
+   "score": 0.12253731,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en",
+    "es",
+    "es-la",
+    "tr",
+    "mn",
+    "uk"
+   ]
+  },
+  {
+   "id": "8d982591-4ebb-4a48-8e6c-aca543661e06",
+   "title": {
+    "en": "Lupin III Gaiden"
+   },
+   "contentRating": "safe",
+   "score": 0.122093536,
+   "languages": [
+    "en",
+    "ru",
+    "pt-br",
+    "es",
+    "it"
    ]
   }
  ],
- "updatedAt": "2024-12-01T21:02:09+00:00"
+ "updatedAt": "2025-01-06T00:06:55+00:00"
 }

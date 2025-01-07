@@ -1,0 +1,182 @@
+{
+ "id": "8c18c0ef-3ade-4c34-85d4-7dd4bc84fad9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Stand User Homura Jojoca"
+  },
+  "altTitles": [
+   {
+    "ja": "スタンド使いほむら☆ジョジョカ"
+   },
+   {
+    "ja-ro": "Stando Tsukai Homura ☆ Jojoca"
+   }
+  ],
+  "description": {
+   "en": "As a group of magical girls fight a witch, a delinquent suddenly appears out of the blue! Afterwards, their stories begin to intersect in a bizarre way...\n\nThe plotline of Madoka Magica, with elements of a bizarre adventure!"
+  },
+  "links": {
+   "raw": "http://neet-co.com/doujin_22.html"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "8",
+  "status": "completed",
+  "year": 2013,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "7dfd8d7e-4da4-4a95-bc44-519713246af0",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "81c836c9-914a-4eca-981a-560dad663e73",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magical Girls"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 8,
+  "createdAt": "2024-12-28T04:58:55+00:00",
+  "updatedAt": "2024-12-29T16:24:30+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6b0b4f4f-03cc-4ee1-9793-1f8ecc344d57",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-28T04:56:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tanishi Tonio",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-28T04:56:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6b0b4f4f-03cc-4ee1-9793-1f8ecc344d57",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-28T04:56:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tanishi Tonio",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-28T04:56:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "54804fdd-aba7-417d-a373-98f1e0b3f982",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-28T06:20:24+00:00",
+    "description": "",
+    "fileName": "15ab83bb-5e2e-4d0a-a04f-8c62bc571ba1.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-28T06:20:24+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "b952c8f7-5b5e-47e1-8287-21633f2028cd",
+   "type": "creator"
+  }
+ ]
+}

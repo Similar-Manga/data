@@ -3,18 +3,22 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hiding a Logistics Center in the Apocalypse"
+   "en": "Hiding a Warehouse in the Apocalypse"
   },
   "altTitles": [
    {
     "ko": "아포칼립스에 물류센터를 숨김"
+   },
+   {
+    "en": "Hiding a Logistics Center in the Apocalypse"
    }
   ],
   "description": {
-   "en": "The world may have ended, but the logistics center still operates—within my own dimensional space."
+   "en": "Imagine you are stuck inside a warehouse while the world is experiencing an apocalypse. That’s exactly what’s happening to Jeong-gyeom, except he suddenly awakens a very odd but powerful ability to store anything in a parallel dimension, giving him the tools to defeat the creatures wreaking havoc on the world. But as he ventures into the ravaged city of Seoul, he realizes there is more to this apocalypse than meets the eye as he encounters other survivors and mysterious monsters on his quest to find his family."
   },
   "links": {
    "al": "183519",
+   "engtl": "https://www.webtoons.com/en/action/hiding-a-warehouse-in-the-apocalypse/list?title_no=7181",
    "mu": "cmkgwks",
    "raw": "https://comic.naver.com/webtoon/list?titleId=829743"
   },
@@ -22,6 +26,10 @@
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "4c340e72-1980-48c6-82fd-fdb357910f6a",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -60,11 +68,11 @@
     }
    },
    {
-    "id": "7b2ce280-79ef-4c09-9b58-12b7c23a9b78",
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Fan Colored"
+      "en": "Long Strip"
      },
      "description": {},
      "group": "format",
@@ -106,12 +114,36 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2024-09-28T20:40:30+00:00",
-  "updatedAt": "2024-11-02T00:09:50+00:00"
+  "updatedAt": "2024-12-15T05:51:35+00:00"
  },
  "relationships": [
   {
@@ -125,7 +157,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Geul Wang Jae deok",
+    "name": "Jaedeok Wang (왕재덕)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -133,8 +165,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-09-28T20:35:04+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-15T05:49:02+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -144,14 +176,16 @@
    "id": "8a0752e9-08c4-472c-86c5-f7236fe74c49",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "A novelist."
+    },
     "booth": null,
     "createdAt": "2024-09-28T20:35:18+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Guchae",
+    "name": "Goochae (구채)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -159,25 +193,27 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-09-28T20:35:18+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-15T05:49:56+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "7e6df396-9bca-4b1c-b11f-7029831df009",
+   "id": "1442d81a-cd22-4c09-a5a0-764c7d0e63b4",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "I've collaborated with SM Entertainment since 2016, creating album artwork and merch for artists such as EXO, SUPER M. I also worked on a comic series with Marvel in 2020. I've officially become a webcomics creator in 2022 and published my first series, \"Flame Reborn,\" on Naver WEBTOON on 2024.\n\n**Associated Names**\n- Sunggu \n- Sung Gu\n- YIM Sunggu\n\n---\n**Name (in native language):**\n성구"
+    },
     "booth": null,
-    "createdAt": "2024-09-28T20:35:33+00:00",
+    "createdAt": "2024-02-07T14:09:36+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Sunggu",
+    "name": "Saint Nine (성구)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -185,9 +221,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-09-28T20:35:33+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-12-15T05:45:57+00:00",
+    "version": 4,
+    "website": "https://www.instagram.com/by_saintnine/",
     "weibo": null,
     "youtube": null
    }
@@ -200,9 +236,9 @@
     "description": "",
     "fileName": "9e4299be-9d5c-47f1-b61a-bf42813fd81f.jpg",
     "locale": "ko",
-    "updatedAt": "2024-09-28T20:40:32+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-12-15T05:51:34+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

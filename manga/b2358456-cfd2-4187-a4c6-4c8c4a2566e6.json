@@ -1,0 +1,151 @@
+{
+ "id": "b2358456-cfd2-4187-a4c6-4c8c4a2566e6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Miss Scorpio"
+  },
+  "altTitles": [
+   {
+    "ja": "Missスコルピオ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "mu": "celp1f9"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1991,
+  "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-13T11:24:19+00:00",
+  "updatedAt": "2024-12-29T23:23:00+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1ba1cb44-3aba-4130-9eb5-6f515a2005c3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yajima Masao",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ce50cdfc-3965-42b2-9964-1fe0f421207b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanou Seisaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ce50cdfc-3965-42b2-9964-1fe0f421207b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanou Seisaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6746860d-3f01-47f3-b57b-9f6add0d54fe",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-13T11:24:22+00:00",
+    "description": "",
+    "fileName": "64bc1d9e-7978-49ef-bd16-3617a05d905c.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-13T11:24:22+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "42251ed1-3ecf-49ee-b75e-6e742a44c345",
+   "type": "creator"
+  }
+ ]
+}

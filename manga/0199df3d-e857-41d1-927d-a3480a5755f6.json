@@ -1,0 +1,194 @@
+{
+ "id": "0199df3d-e857-41d1-927d-a3480a5755f6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Katarika"
+  },
+  "altTitles": [
+   {
+    "en": "Katarika: The Curse of Ghostly Tales"
+   },
+   {
+    "ja": "カタリカ ―語り禍―"
+   }
+  ],
+  "description": {
+   "en": "The story of \"Katarika: The Curse of Ghostly Tales\" follows a group of girls trapped by a mysterious \"curse\" linked to Ghostly tales. It combines thrilling suspense and emotional depth, focusing on their friendships as they navigate this eerie phenomenon. The manga blends supernatural horror with the characters' personal struggles, unraveling a chilling tale of how stories can shape and destroy their world."
+  },
+  "links": {
+   "kt": "katarika",
+   "mal": "177386",
+   "raw": "https://webcomicgamma.takeshobo.co.jp/manga/katarika/"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "984c7f31-e5e2-4573-b067-d9ba39a006a8",
+  "tags": [
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-25T12:02:32+00:00",
+  "updatedAt": "2024-12-25T21:16:57+00:00"
+ },
+ "relationships": [
+  {
+   "id": "39062e78-4e65-4127-b077-cd7803bb51c3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-25T12:09:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aien Kien",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-25T12:09:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "875ab3fd-8054-430f-9ec8-27433e212714",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-25T11:25:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kurata Hiroyasu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-25T11:25:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6001355b-8f70-4ba8-8880-d7dc04503a6e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-25T12:30:37+00:00",
+    "description": "",
+    "fileName": "07ba7363-dc82-47fd-9c1c-f1f00fca5df4.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-25T12:30:37+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "8e3e0150-ad35-4caa-9668-2f8217b7fb86",
+   "type": "creator"
+  }
+ ]
+}

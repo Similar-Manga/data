@@ -1,0 +1,177 @@
+{
+ "id": "89d2bbc3-0bba-4d9c-b7e7-50884ace16d8",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Vermilion Stella Date Arisa"
+  },
+  "altTitles": [
+   {
+    "ja": "朱色のステラ 伊達朱里紗"
+   }
+  ],
+  "description": {
+   "en": "From voice actress to M League MVP.\nThe true story of professional Mahjong player Date Arisa who continues to fight despite many adversities.\nA tale of smiles and tears of a miraculous professional Mahjong player.",
+   "ja": "声優からMリーグMVPに。\nたくさんの逆境をはねのけて戦い続ける伊達朱里紗プロの実録ストーリー。\n奇跡のプロ雀士の笑顔と涙の物語。"
+  },
+  "links": {
+   "bw": "de3f6a2a4b-6122-420c-8bba-c8989210a270",
+   "raw": "https://x.com/sasa_ayato"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Traditional Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-02T01:32:52+00:00",
+  "updatedAt": "2025-01-02T01:34:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "bb55f2ea-fbaf-4495-a559-9ec56eb6c35f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sasakura Ayato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bb55f2ea-fbaf-4495-a559-9ec56eb6c35f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sasakura Ayato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "146eba48-3818-413f-98ea-df5b47fd7b9f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-02T01:32:53+00:00",
+    "description": "",
+    "fileName": "7fab06cf-5a8f-4f34-89d4-4fe9df86e016.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-02T01:32:53+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "6583003b-1f4a-4803-835c-2335426be838",
+   "type": "creator"
+  }
+ ]
+}

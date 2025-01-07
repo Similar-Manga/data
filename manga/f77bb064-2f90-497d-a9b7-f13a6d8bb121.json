@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kodomo no Gourmet"
+   "en": "Children's Gourmet"
   },
   "altTitles": [
    {
     "ja": "こどものグルメ"
+   },
+   {
+    "ja-ro": "Kodomo no Gourmet"
    }
   ],
   "description": {
@@ -50,9 +53,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2023-05-23T09:44:06+00:00",
-  "updatedAt": "2023-05-23T10:37:00+00:00"
+  "updatedAt": "2024-12-04T04:14:35+00:00"
  },
  "relationships": [
   {

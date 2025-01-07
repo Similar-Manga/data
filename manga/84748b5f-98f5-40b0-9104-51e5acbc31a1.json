@@ -1,0 +1,121 @@
+{
+ "id": "84748b5f-98f5-40b0-9104-51e5acbc31a1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kyoufushou Hakase: Doctor Phobia"
+  },
+  "altTitles": [
+   {
+    "ja": "恐怖症博士"
+   },
+   {
+    "ja": "恐怖症博士 ドクター・フォビア"
+   },
+   {
+    "ja-ro": "Doctor Phobia"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "185679",
+   "mu": "3rz5wou"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "19",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2002,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-23T17:52:41+00:00",
+  "updatedAt": "2024-12-23T18:03:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "53abbe4b-2856-4c14-950b-f6d5a85f9e89",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Yousuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96c3b7cd-60da-4979-9dd0-6bf0b4361eee",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-23T17:52:43+00:00",
+    "description": "",
+    "fileName": "98c8acee-ced7-41eb-93c3-4644b6c61e04.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-23T17:52:43+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

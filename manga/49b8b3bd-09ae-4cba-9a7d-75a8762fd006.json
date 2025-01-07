@@ -1,0 +1,181 @@
+{
+ "id": "49b8b3bd-09ae-4cba-9a7d-75a8762fd006",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Raided the God's Warehouse"
+  },
+  "altTitles": [
+   {
+    "ko": "마신의 창고를 털었습니다"
+   },
+   {
+    "en": "I Robbed the Storehouse of the God"
+   }
+  ],
+  "description": {
+   "en": "The Tower’s peace was shattered by the Outer invaders and the Great War of Gods and Demons, leading to the extinction of humanity. In the midst of it all, the only survivor, ‘Jeong Sewoon,’ embarks on a mission to undo everything. He discovers the Demon’s Vault, created by the Demon of Greed, within the depths of the Demonic War.\n\nInside the vault, he finds the Hourglass of Chronos, capable of turning back time!\n‘If I go back to the past, stop the Great War, ascend the Tower, and personally fend off the Outers…!’\n\nThis time, I won’t let the world fall to ruin. With the powers I took from the Demon’s Vault!\nFollow Jeong Sewoon’s expedition through the Tower as he starts again from the tutorial!"
+  },
+  "links": {
+   "mu": "el5tmzg",
+   "raw": "https://page.kakao.com/content/64855921"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "ee132bc8-0d0f-449e-8a8c-47a090e1c25d",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-21T02:05:29+00:00",
+  "updatedAt": "2024-12-21T02:05:36+00:00"
+ },
+ "relationships": [
+  {
+   "id": "373ed436-b242-4970-8565-75fac1c9d1db",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-21T02:04:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Suli Owl",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-21T02:04:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e8d70c1e-26b9-4af4-800e-2a2034e98817",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-21T02:04:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "JUNAI (Story Webtoon)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-21T02:04:46+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "790e194b-dc4f-4b3b-af25-06526caa031a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-21T02:05:33+00:00",
+    "description": "",
+    "fileName": "b6e8a284-f2a1-4f4c-950b-0d9e5be125a3.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-12-21T02:05:33+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c55f8354-ec7c-4543-afaf-71a5e7088124",
+   "type": "creator"
+  }
+ ]
+}

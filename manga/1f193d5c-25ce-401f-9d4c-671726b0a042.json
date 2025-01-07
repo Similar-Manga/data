@@ -1,0 +1,179 @@
+{
+ "id": "1f193d5c-25ce-401f-9d4c-671726b0a042",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Luke"
+  },
+  "altTitles": [
+   {
+    "ja": "ルーク"
+   }
+  ],
+  "description": {
+   "es-la": "Historia paralela del personaje Luke del manga youchien wars. mini historia el pasado de este personaje."
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "es-la"
+  ],
+  "latestUploadedChapter": "4c8c0b65-ea74-4c2e-95fd-6472a1f5fcb5",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Police"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-02T04:03:32+00:00",
+  "updatedAt": "2024-12-02T04:04:21+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0c2da5df-321e-4cc0-93ff-583d92cd2b39",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n千葉侑生"
+    },
+    "booth": null,
+    "createdAt": "2022-09-21T10:29:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Chiba Yuu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/chibayou09421",
+    "updatedAt": "2023-11-23T23:10:46+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0c2da5df-321e-4cc0-93ff-583d92cd2b39",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n千葉侑生"
+    },
+    "booth": null,
+    "createdAt": "2022-09-21T10:29:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Chiba Yuu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/chibayou09421",
+    "updatedAt": "2023-11-23T23:10:46+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "68ae0383-d0e8-4c77-8926-e93117aedb22",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-02T04:03:34+00:00",
+    "description": "",
+    "fileName": "0e9f6299-262a-4c2c-9314-469fd4f7f0f5.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-02T04:03:34+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "6b3c7d01-3d21-4492-909d-758c17120ef3",
+   "type": "creator"
+  }
+ ]
+}

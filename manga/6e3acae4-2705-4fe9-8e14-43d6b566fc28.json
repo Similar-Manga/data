@@ -3,22 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Shin Sakura Taisen the Comic"
+   "en": "New Sakura Wars the Comic"
   },
   "altTitles": [
    {
-    "en": "New Sakura Wars the Comic"
+    "ja-ro": "Shin Sakura Taisen the Comic"
    },
    {
     "ja": "新サクラ大戦 the Comic"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "In 1930, two years after the events of So Long, My Love, the Great Demon War results in the annihilation of the Imperial, Paris and New York Combat Revues' Flower Divisions. With Earth at peace and the revues' actions becoming public, the World Combat Revue Organization is formed with several international divisions; a biennial international Combat Revue tournament has been organized.\n\nTen years later in 1940, Imperial Japanese Navy captain Seijuurou Kamiyama is assigned as the captain of the new Imperial Combat Revue's Flower Division in Tokyo, which consists of: Sakura Amamiya, a swordswoman and new recruit; Hatsuho Shinonome, a shrine maiden and the most popular actress; Anastasia Palma, a newly-transferred Greek actress; Azami Mochizuki, a ninja prodigy from the Mochizuki clan; and Clarissa \"Clarise\" Snowflake, a Luxembourgian noblewoman. The division once again faces a new demon invasion and participates in the upcoming tournament—while trying to keep their home at the Imperial Theater open.\n\n(Source: Wikipedia, edited)"
+  },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B08C6TZ1S9",
    "ap": "shin-sakura-taisen-the-comic",
    "bw": "series/230014",
-   "cdj": "https://www.cdjapan.co.jp/searchuni?q=%E6%96%B0%E3%82%B5%E3%82%AF%E3%83%A9%E5%A4%A7%E6%88%A6+the+Comic\u0026opt.exclude_prx=on\u0026order=reldesc",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=新サクラ大戦+the+Comic\u0026opt.exclude_prx=on\u0026order=reldesc",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/571386/",
    "mal": "122859",
    "raw": "https://youngjump.jp/manga/sakura_taisen/"
@@ -86,9 +88,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2020-07-15T14:14:21+00:00",
-  "updatedAt": "2023-11-17T06:41:25+00:00"
+  "updatedAt": "2024-12-31T18:19:31+00:00"
  },
  "relationships": [
   {

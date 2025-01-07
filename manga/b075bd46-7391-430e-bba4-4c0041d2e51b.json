@@ -7,7 +7,7 @@
   },
   "altTitles": [
    {
-    "en": "喪失相愛"
+    "ja": "喪失相愛"
    },
    {
     "en": "Loss in Love"
@@ -74,12 +74,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2020-10-25T05:43:01+00:00",
-  "updatedAt": "2023-10-10T19:05:59+00:00"
+  "updatedAt": "2024-12-13T12:45:00+00:00"
  },
  "relationships": [
   {
@@ -202,9 +214,9 @@
     "description": "",
     "fileName": "19bc7208-435c-4886-bda4-65d0e4efcd77.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:16:27+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-12-13T12:44:59+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

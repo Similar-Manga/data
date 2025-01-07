@@ -1,0 +1,165 @@
+{
+ "id": "bd8aa78f-8cda-4a0c-9bb9-f19d3cd41280",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Gemned"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "Housekka"
+   },
+   {
+    "ja": "宝石化"
+   }
+  ],
+  "description": {
+   "en": "In a world where magic has become a myth, Erthea is racing against time before it succumbs to darkness. A century after the defeat of the Titan, the source of magic and balance, four young heroes - Gem, Nexo, Rubi, and Atoū - embark on a desperate mission. They must deliver the Destiny Gems, created by ancient heroes, before they expire. These gems grant extraordinary powers and contain the souls of the heroes. However, Nickel Krants, a once-revered hero turned powerful antagonist, seeks to steal the gems to resurrect his lost friends. The protagonists will face rival cults, demons, and adversities. Guided by the mysterious cosmic entity Theo, they must overcome their limitations and unite to save Erthea. Can they fulfill their mission before time runs out?"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "es-la",
+   "en"
+  ],
+  "latestUploadedChapter": "9c338e58-8e95-4bf8-821e-4671fe815417",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-02T23:34:51+00:00",
+  "updatedAt": "2025-01-02T23:38:28+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f0f75239-c6fe-43b9-a9b8-5e6377ed62c0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-02T16:42:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "AzzSa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-02T16:42:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f0f75239-c6fe-43b9-a9b8-5e6377ed62c0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-02T16:42:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "AzzSa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-02T16:42:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "30f32d4c-5f8c-476e-9e0b-946e1938405e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-02T23:35:44+00:00",
+    "description": "",
+    "fileName": "355b8fc2-720c-4cc0-9b24-9601c2452b94.png",
+    "locale": "en",
+    "updatedAt": "2025-01-02T23:35:44+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "e7d1317d-b9a8-4774-9bef-9062a2804956",
+   "type": "creator"
+  }
+ ]
+}

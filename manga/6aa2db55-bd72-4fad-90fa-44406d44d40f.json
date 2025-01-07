@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "ja": "Dracula Yakin!"
+   "ja": "Dracula's on the Night Shift!"
   },
   "altTitles": [
    {
@@ -11,6 +11,9 @@
    },
    {
     "en": "Graveyard Shift Dracula!"
+   },
+   {
+    "ja-ro": "Dracula Yakin!"
    }
   ],
   "description": {
@@ -23,6 +26,7 @@
    "ap": "dracula-yakin",
    "bw": "series/326320",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/665143/",
+   "engtl": "https://yenpress.com/series/dracula-s-on-the-night-shift",
    "kt": "dracula-yakin-2021",
    "mal": "135223",
    "mu": "179463",
@@ -118,9 +122,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2021-10-10T12:48:50+00:00",
-  "updatedAt": "2024-04-09T04:46:38+00:00"
+  "updatedAt": "2024-12-10T15:06:09+00:00"
  },
  "relationships": [
   {

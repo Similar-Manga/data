@@ -3,14 +3,19 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kutabare!! Namida-kun"
+   "en": "Damn You!! Namida-kun"
   },
   "altTitles": [
    {
     "ja": "くたばれ!!涙くん"
+   },
+   {
+    "ja-ro": "Kutabare!! Namida-kun"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "\"In this one ball there is joy, laughter, sadness... and tears. This drama is the story of a young blue wolf who staked his youth on this small soccer ball.\" Kazamaki Shun attends the prestigious baseball school, Aoshi High School. He hates baseball, but for some reason, the ace of the baseball team, Komuro, persistently invites Kazamaki to join the team. In fact, Kazamaki has an indelible emotional scar connected to baseball. One day, Kazamaki is faced off against the soccer team's advisor, Kiko Sayuri-sensei, in a soccer match..."
+  },
   "links": {
    "al": "179487",
    "amz": "https://www.amazon.co.jp/-/en/dp/B07KX8VF7V?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1721345852\u0026sr=1-1",
@@ -86,9 +91,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-07-18T23:42:35+00:00",
-  "updatedAt": "2024-07-19T00:12:17+00:00"
+  "updatedAt": "2024-12-15T04:19:44+00:00"
  },
  "relationships": [
   {
@@ -144,16 +149,16 @@
    }
   },
   {
-   "id": "6ceb8ee7-49df-45e7-8664-7755be91ffbb",
+   "id": "78614457-aa32-43c6-8adf-f1d02f4c0e16",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-07-18T23:42:37+00:00",
+    "createdAt": "2024-12-15T04:43:24+00:00",
     "description": "",
-    "fileName": "7c394d91-77c1-458d-a99c-efd3995839f1.jpg",
+    "fileName": "52ff8bd0-4c19-49bc-b316-dd456f6294ae.jpg",
     "locale": "ja",
-    "updatedAt": "2024-07-18T23:42:37+00:00",
+    "updatedAt": "2024-12-15T04:43:24+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "8"
    }
   },
   {

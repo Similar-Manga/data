@@ -3,17 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Sensei's White Lie"
+   "en": "Sensei's Pious Lie"
   },
   "altTitles": [
    {
     "ja": "先生の白い嘘"
    },
    {
-    "en": "Sensei's Pious Lie"
+    "ja-ro": "Sensei no Shiroi Uso"
    },
    {
-    "ja-ro": "Sensei no Shiroi Uso"
+    "en": "Sensei's White Lie"
    }
   ],
   "description": {
@@ -21,7 +21,7 @@
   },
   "links": {
    "al": "100973",
-   "amz": "https://www.amazon.co.jp/gp/product/B074CF46X8/",
+   "amz": "https://www.amazon.co.jp/dp/B074CF46X8",
    "ap": "sensei-no-shiroi-uso",
    "bw": "series/13355",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/209643/",
@@ -29,7 +29,7 @@
    "kt": "40749",
    "mal": "112933",
    "mu": "102313",
-   "raw": "http://morning.moae.jp/lineup/303"
+   "raw": "https://comic-days.com/episode/10834108156629922544"
   },
   "originalLanguage": "ja",
   "lastVolume": "8",
@@ -119,16 +119,18 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2019-03-24T03:03:34+00:00",
-  "updatedAt": "2022-07-01T21:26:10+00:00"
+  "updatedAt": "2024-12-10T04:42:53+00:00"
  },
  "relationships": [
   {
    "id": "bd53c0ce-8629-4c45-b331-bedf89ac62fa",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳥飼茜\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/akanetorikai/)\n- [News X](https://x.com/torikai_news)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -142,9 +144,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/torikaiakane",
+    "updatedAt": "2024-12-07T05:28:00+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -154,7 +156,9 @@
    "id": "bd53c0ce-8629-4c45-b331-bedf89ac62fa",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳥飼茜\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/akanetorikai/)\n- [News X](https://x.com/torikai_news)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -168,9 +172,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/torikaiakane",
+    "updatedAt": "2024-12-07T05:28:00+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

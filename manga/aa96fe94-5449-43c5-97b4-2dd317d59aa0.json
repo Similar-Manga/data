@@ -69,11 +69,37 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2023-08-18T07:39:20+00:00",
-  "updatedAt": "2023-08-18T07:40:20+00:00"
+  "updatedAt": "2024-12-12T07:49:38+00:00"
  },
  "relationships": [
+  {
+   "id": "31d879c5-357d-483a-98e9-7bf538980889",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Wada Ryou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "474caea9-c3f3-478a-8423-9da406fd1080",
    "type": "author",
@@ -97,32 +123,6 @@
     "twitter": null,
     "updatedAt": "2024-03-23T02:55:59+00:00",
     "version": 2,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "4f636082-a7b6-4b66-88a4-e17325bdffe5",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2023-08-18T07:27:41+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Wada Ryuu",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-08-18T07:27:41+00:00",
-    "version": 1,
     "website": null,
     "weibo": null,
     "youtube": null

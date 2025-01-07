@@ -1,25 +1,36 @@
 {
  "id": "8fc14b99-0632-458a-bb63-815f35679bc6",
  "title": {
-  "en": "Maizen Sisters no Bouken - Mononokai Jinja to Tamayura no Hime"
+  "en": "The Adventures of the Maizen Sisters: The Ghost Shrine and the Princess Tamayura"
  },
  "contentRating": "safe",
  "matches": [
-  {
-   "id": "8541291e-0038-4f9a-b249-99dc6f889a42",
-   "title": {
-    "en": "Mitsu no Miko to Hana no Juusha"
-   },
-   "contentRating": "safe",
-   "score": 0.27113003
-  },
   {
    "id": "224f5560-58a9-4a52-9a6a-b542a8ec599f",
    "title": {
     "en": "Ujigami-sama no Consultant"
    },
    "contentRating": "safe",
-   "score": 0.26989216
+   "score": 0.33225334
+  },
+  {
+   "id": "8541291e-0038-4f9a-b249-99dc6f889a42",
+   "title": {
+    "en": "Mitsu no Miko to Hana no Juusha"
+   },
+   "contentRating": "safe",
+   "score": 0.3006882
+  },
+  {
+   "id": "13a756d6-030b-479d-8f1b-648dfe9ab016",
+   "title": {
+    "en": "Asagiri no Miko"
+   },
+   "contentRating": "safe",
+   "score": 0.2948595,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "32ace26d-acfa-4f6d-bf4b-10f90ac4a657",
@@ -27,22 +38,9 @@
     "en": "Dekin no Mogura"
    },
    "contentRating": "safe",
-   "score": 0.24107896,
+   "score": 0.24092455,
    "languages": [
     "pt-br"
-   ]
-  },
-  {
-   "id": "245f2aac-1aee-4983-b2d5-34ea5dab460e",
-   "title": {
-    "en": "xxxHOLiC Rei"
-   },
-   "contentRating": "safe",
-   "score": 0.23344527,
-   "languages": [
-    "pt-br",
-    "en",
-    "ru"
    ]
   },
   {
@@ -63,45 +61,16 @@
    ]
   },
   {
-   "id": "939b67a7-a9c8-4215-9e75-01f6a5d2344d",
+   "id": "245f2aac-1aee-4983-b2d5-34ea5dab460e",
    "title": {
-    "en": "Black Night Parade"
+    "en": "xxxHOLiC Rei"
    },
    "contentRating": "safe",
-   "score": 0.22114757,
+   "score": 0.23260742,
    "languages": [
+    "pt-br",
     "en",
-    "it"
-   ]
-  },
-  {
-   "id": "d533df7d-4b42-431c-9e22-6f0bc6e2e426",
-   "title": {
-    "en": "Croket! Black Label"
-   },
-   "contentRating": "safe",
-   "score": 0.21910866
-  },
-  {
-   "id": "13a756d6-030b-479d-8f1b-648dfe9ab016",
-   "title": {
-    "en": "Asagiri no Miko"
-   },
-   "contentRating": "safe",
-   "score": 0.21289994,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f614e50c-ea25-481d-a959-7f772a815c13",
-   "title": {
-    "en": "Millennium Family"
-   },
-   "contentRating": "safe",
-   "score": 0.2110442,
-   "languages": [
-    "en"
+    "ru"
    ]
   },
   {
@@ -110,11 +79,19 @@
     "en": "Mob Kousei no Ore Demo Boukensha ni Nareba Riajuu ni Naremasuka?"
    },
    "contentRating": "safe",
-   "score": 0.21016382,
+   "score": 0.22628798,
    "languages": [
     "en",
     "pt-br"
    ]
+  },
+  {
+   "id": "d533df7d-4b42-431c-9e22-6f0bc6e2e426",
+   "title": {
+    "en": "Croket! Black Label"
+   },
+   "contentRating": "safe",
+   "score": 0.2221401
   },
   {
    "id": "1f6b847c-d1ba-4a1b-a5f8-b1891c4ba470",
@@ -122,15 +99,68 @@
     "en": "Vivarium de Choushoku wo"
    },
    "contentRating": "safe",
-   "score": 0.20865622,
+   "score": 0.22134298,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "45ca45e8-9044-4dde-bb2f-0e336becf3a9",
+   "id": "939b67a7-a9c8-4215-9e75-01f6a5d2344d",
    "title": {
-    "en": "Sherlock Holmes Whispers to the Shadows"
+    "en": "Black Night Parade"
+   },
+   "contentRating": "safe",
+   "score": 0.22091924,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "f614e50c-ea25-481d-a959-7f772a815c13",
+   "title": {
+    "en": "Millennium Family"
+   },
+   "contentRating": "safe",
+   "score": 0.21087536,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "139a6d98-1f6d-47ca-8a86-938657d277f9",
+   "title": {
+    "en": "Azuma-kun no Koineko"
+   },
+   "contentRating": "safe",
+   "score": 0.20630951
+  },
+  {
+   "id": "7bba4ac3-5d5c-4456-97d1-104abaa960a7",
+   "title": {
+    "en": "Jinjya no Susume"
+   },
+   "contentRating": "safe",
+   "score": 0.20571281,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "9ab08282-039c-400e-8298-6d246f002594",
+   "title": {
+    "en": "Oyozure Gojou"
+   },
+   "contentRating": "safe",
+   "score": 0.20348035,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8b44b195-d82f-487f-9f3c-5d8eadd17b9e",
+   "title": {
+    "en": "Shikigami no Shiro"
    },
    "contentRating": "safe",
    "score": 0.20203052
@@ -142,39 +172,7 @@
    },
    "contentRating": "safe",
    "score": 0.20203052
-  },
-  {
-   "id": "3cf05515-d2d4-4fd9-8781-d54b7ba6a3a3",
-   "title": {
-    "en": "S. Flight"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "294397ff-58f6-46dd-b9ce-43f1dcf519bc",
-   "title": {
-    "en": "Ryoko's Case File"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "8b44b195-d82f-487f-9f3c-5d8eadd17b9e",
-   "title": {
-    "en": "Shikigami no Shiro"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
   }
  ],
- "updatedAt": "2024-12-01T21:29:41+00:00"
+ "updatedAt": "2025-01-06T00:39:33+00:00"
 }

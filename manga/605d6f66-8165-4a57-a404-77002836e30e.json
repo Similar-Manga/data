@@ -25,7 +25,7 @@
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
-  "lastChapter": "57",
+  "lastChapter": "11",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 1990,
@@ -33,9 +33,10 @@
   "availableTranslatedLanguages": [
    "en",
    "pt-br",
-   "es-la"
+   "es-la",
+   "uk"
   ],
-  "latestUploadedChapter": "1eb3b838-024d-4dc5-af8b-23c55753baa9",
+  "latestUploadedChapter": "388259e5-8466-445e-b9f9-98f035a1757b",
   "tags": [
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
@@ -58,6 +59,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -87,11 +100,39 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2018-07-26T23:42:27+00:00",
-  "updatedAt": "2024-09-14T12:44:46+00:00"
+  "updatedAt": "2024-12-01T13:23:56+00:00"
  },
  "relationships": [
+  {
+   "id": "1a6514c3-56f5-4003-a79d-85de474df84b",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "__Alternate name:__\n- Nekojiru Y"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamano Hajime",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-29T17:52:11+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "32780b0a-45a5-490b-9cfd-c84e67012a0f",
    "type": "author",
@@ -113,6 +154,34 @@
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1a6514c3-56f5-4003-a79d-85de474df84b",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "__Alternate name:__\n- Nekojiru Y"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamano Hajime",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-29T17:52:11+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -145,15 +214,15 @@
    }
   },
   {
-   "id": "799e1431-323f-4ff5-9c2c-71138430c269",
+   "id": "7f8c2349-fedd-4dfe-97e5-c170c69863fc",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:42:15+00:00",
+    "createdAt": "2024-12-01T17:22:33+00:00",
     "description": "",
-    "fileName": "b62dbf9c-c142-4b5e-80c3-90d2f3a18518.jpg",
+    "fileName": "6c916f6c-8ce0-4d98-a946-ec486451206a.jpg",
     "locale": "ja",
-    "updatedAt": "2022-06-18T23:28:23+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-01T17:22:33+00:00",
+    "version": 1,
     "volume": "1"
    }
   },

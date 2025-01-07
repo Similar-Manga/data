@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Maizen Sisters no Bouken - Mononokai Jinja to Tamayura no Hime"
+   "en": "The Adventures of the Maizen Sisters: The Ghost Shrine and the Princess Tamayura"
   },
   "altTitles": [
    {
     "ja": "まいぜんシスターズの冒険 ～物ノ怪神社とたまゆらの姫～"
+   },
+   {
+    "ja-ro": "Maizen Sisters no Bouken - Mononokai Jinja to Tamayura no Hime"
    }
   ],
   "description": {
@@ -102,9 +105,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2023-10-23T09:59:56+00:00",
-  "updatedAt": "2024-08-16T17:57:34+00:00"
+  "updatedAt": "2024-12-23T03:49:02+00:00"
  },
  "relationships": [
   {
@@ -173,6 +176,11 @@
     "version": 1,
     "volume": "5"
    }
+  },
+  {
+   "id": "8911f1d6-c069-4861-9748-183b0badd2e1",
+   "type": "manga",
+   "related": "same_franchise"
   },
   {
    "id": "92f1689d-35c0-4fa3-ad0a-ef01bd16032e",

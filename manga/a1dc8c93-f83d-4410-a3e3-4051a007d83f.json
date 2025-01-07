@@ -3,26 +3,27 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Lili-Men"
+   "en": "LILI-MEN"
   },
   "altTitles": [
    {
-    "ja": "リリーメン"
+    "ja": "LILI-MEN"
    },
    {
-    "ja-ro": "ＬＩＬＩーＭＥＮ"
+    "ja": "リリーメン"
    }
   ],
   "description": {
-   "en": "A race of \"succubus\" that breeds human beings in the nursery, and human beings trying to eradicate them. After an eternity of time has passed since the two incompatible races began to fight, a \"king\" will be born who will end the battle.",
+   "en": "Succubi, a species that uses humans as seedbeds to reproduce, and humanity, which is set on the eradication of every single succubus. As the unrelenting war between these two incompatible groups wages on, a “king” who will bring about the end of the war is born. The one chosen for the role of king is…?! (K MANGA)\n___\n**Official English:** [K MANGA](https://kmanga.kodansha.com/title/10588/episode/356799) - United States, Japan, Canada, Australia, New Zealand, \u0026 Singapore only.",
    "ja": "人類を苗床に繁殖する種族「サキュバス」と、彼らを根絶しようとする人類。相容れない2つの種族が闘争を始めて悠久の時が流れた頃、戦いを終わらせる「王」が誕生する。王に選ばれた勝者は果たして……!?"
   },
   "links": {
    "al": "154350",
    "amz": "https://www.amazon.co.jp/dp/B0BRJLFTGD",
    "ap": "lili-men",
-   "bw": "series/391501/list",
+   "bw": "series/391501",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/739069/",
+   "engtl": "https://x.com/KMANGA_KODANSHA/status/1870121988905415009",
    "mal": "151547",
    "mu": "uwewk88",
    "raw": "https://yanmaga.jp/comics/LILIMEN"
@@ -69,6 +70,18 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -82,9 +95,9 @@
    }
   ],
   "state": "published",
-  "version": 23,
+  "version": 25,
   "createdAt": "2022-09-13T18:52:59+00:00",
-  "updatedAt": "2024-10-08T13:06:38+00:00"
+  "updatedAt": "2025-01-05T08:59:48+00:00"
  },
  "relationships": [
   {
@@ -92,7 +105,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\nTokashiki Taku\n渡嘉敷拓\n渡嘉敷拓馬"
+     "en": "**Name In Native Language:** 渡嘉敷拓馬\n\n**Formerly Known As:** Tokashiki Taku (渡嘉敷拓)\n\n**Additional Sites:**\n- [Facebook](https://www.facebook.com/takuma.tokashiki)\n\nCG artist who worked at Digital Domain on *Black Panther: Wakanda Forever*, *Doctor Strange in the Multiverse of Madness*, and *Spider-Man: No Way Home* and manga artist."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -108,8 +121,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/TakumaTokashiki",
-    "updatedAt": "2023-01-09T21:33:12+00:00",
-    "version": 2,
+    "updatedAt": "2025-01-05T09:08:01+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -120,7 +133,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\nTokashiki Taku\n渡嘉敷拓\n渡嘉敷拓馬"
+     "en": "**Name In Native Language:** 渡嘉敷拓馬\n\n**Formerly Known As:** Tokashiki Taku (渡嘉敷拓)\n\n**Additional Sites:**\n- [Facebook](https://www.facebook.com/takuma.tokashiki)\n\nCG artist who worked at Digital Domain on *Black Panther: Wakanda Forever*, *Doctor Strange in the Multiverse of Madness*, and *Spider-Man: No Way Home* and manga artist."
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -136,8 +149,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/TakumaTokashiki",
-    "updatedAt": "2023-01-09T21:33:12+00:00",
-    "version": 2,
+    "updatedAt": "2025-01-05T09:08:01+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

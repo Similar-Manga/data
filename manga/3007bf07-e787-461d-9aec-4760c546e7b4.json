@@ -37,7 +37,7 @@
    "es",
    "en"
   ],
-  "latestUploadedChapter": "b70a792d-8947-40fb-9482-da2c4b4249f0",
+  "latestUploadedChapter": "d5969435-d87e-4722-bca0-b34df23035a6",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -48,6 +48,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -101,9 +113,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2019-02-26T17:35:09+00:00",
-  "updatedAt": "2023-07-26T08:23:02+00:00"
+  "updatedAt": "2025-01-01T05:05:16+00:00"
  },
  "relationships": [
   {

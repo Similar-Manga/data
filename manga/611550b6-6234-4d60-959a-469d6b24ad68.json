@@ -3,20 +3,21 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tsuki no Shirosa wo Shirite Madoromu"
+   "en": "A Pale Moon Reverie"
   },
   "altTitles": [
    {
     "ja": "月の白さを知りてまどろむ"
    },
    {
-    "ja-ro": "Tsuki no Shirosa wo Shirite Madoromu"
+    "ja-ro": "Tsuki no Shirosa o Shirite Madoromu"
    }
   ],
   "description": {
-   "en": "In the oldest brothel that carries on the myth, a clumsy love affair begins in which the “only one in a lifetime” is chosen."
+   "en": "Irede: the world's oldest pleasure town, built as an offering to a god. Here alone, myth has endured the passing of millennia. In a townscape dyed vermilion by the light of hanging lanterns, fine wine and masterful music sate the desires of guests who travel from across the continent to experience Irede's wonders—and meet its beautiful courtesans.\n\nYet all is not well here, as shades—supernatural entities born of human desires—lurk in the shadows, their motives known only to themselves, and deep beneath the earth, something primal stirs.\n\nWhen Xixu, a straight-laced military officer, arrives from the capital to become the town's newest shadeslayer, he encounters Sari, a young courtesan with hair the color of moonlight. Thus begins a tale of love and conflict, of desire and blood, and of gods and men.\n\n(Source: J-Novel Club)"
   },
   "links": {
+   "engtl": "https://j-novel.club/series/a-pale-moon-reverie-manga",
    "mal": "174622",
    "mu": "g9tg61n"
   },
@@ -100,11 +101,37 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 8,
   "createdAt": "2024-07-28T13:47:45+00:00",
-  "updatedAt": "2024-10-01T20:15:59+00:00"
+  "updatedAt": "2024-12-10T15:04:20+00:00"
  },
  "relationships": [
+  {
+   "id": "6680214b-e086-408e-84cf-fef95735435f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-10-26T16:33:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Orishima Mishiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-01-08T12:16:00+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "67cc998a-57bc-477d-b440-9a7c632a89bd",
    "type": "author",
@@ -158,16 +185,16 @@
    }
   },
   {
-   "id": "e0984ada-c11f-4b7c-98fa-8cb625814d6b",
+   "id": "f426c14c-9805-45d0-b523-3712c9251858",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-07-28T13:47:47+00:00",
+    "createdAt": "2024-12-05T03:25:03+00:00",
     "description": "",
-    "fileName": "aa2db3b9-a3ef-43b8-842b-895b0d9b12a8.jpg",
+    "fileName": "c42a4363-9b31-49ac-b0b8-d1cb5b843027.jpg",
     "locale": "ja",
-    "updatedAt": "2024-07-28T13:47:47+00:00",
+    "updatedAt": "2024-12-05T03:25:03+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

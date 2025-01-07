@@ -3,17 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Übel Blatt II"
+   "en": "Übel Blatt II: Shiseru Ou no Kishidan"
   },
   "altTitles": [
    {
-    "ja": "Übel Blatt Ⅱ 死せる王の騎士団"
+    "ja": "Übel Blatt～ユーベルブラット～Ⅱ　死せる王の騎士団"
    },
    {
-    "ja": "Übel Blatt～ユーベルブラット～Ⅱ 死せる王の騎士団"
-   },
-   {
-    "ja-ro": "Übel Blatt II - Shiseru Ou no Kishidan"
+    "ja": "Übel Blatt Ⅱ　死せる王の騎士団"
    },
    {
     "en": "Übel Blatt II: Knights of the Fallen King"
@@ -26,6 +23,7 @@
    "al": "177816",
    "amz": "https://www.amazon.co.jp/dp/B0DL5J4952",
    "ap": "ubel-blatt-ii-knights-of-the-fallen-king",
+   "bw": "series/497084/list",
    "engtl": "https://yenpress.com/series/ubel-blatt-ii-serial",
    "mal": "167609",
    "mu": "ovl19hc",
@@ -99,9 +97,9 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 16,
   "createdAt": "2024-01-28T19:52:33+00:00",
-  "updatedAt": "2024-11-03T14:54:21+00:00"
+  "updatedAt": "2024-12-24T17:44:54+00:00"
  },
  "relationships": [
   {
@@ -161,16 +159,16 @@
    }
   },
   {
-   "id": "2188c3a4-f2dd-45cf-8e4a-1b6de81cbf64",
+   "id": "69ff28db-0895-48aa-84ea-8f8f16f9694f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-01-28T19:52:42+00:00",
+    "createdAt": "2024-12-20T07:29:30+00:00",
     "description": "",
-    "fileName": "03d02b8e-5b09-4659-a108-9820abbda02e.jpg",
+    "fileName": "b50a4aaa-1c2d-4960-b3a9-fa99a4653935.jpg",
     "locale": "ja",
-    "updatedAt": "2024-01-28T19:52:42+00:00",
+    "updatedAt": "2024-12-20T07:29:30+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   },
   {

@@ -3,17 +3,32 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "How to Steal a House Cat"
+   "en": "Kaineko no Ubaikata"
   },
   "altTitles": [
    {
-    "en": "Kai-Neko no Ubai-kata"
+    "ja": "飼い猫の奪い方"
+   },
+   {
+    "ja-ro": "Kai-Neko no Ubai-kata"
+   },
+   {
+    "en": "How to Steal a House Cat"
    }
   ],
   "description": {
    "en": "One day, Chida, who has a part-time job for building cleaning, gets caught up in the play of a bad-looking gay couple. However, the sex is so comfortable that one of the couple, Saijo, can not be forgotten. At that time, Sakiko, who should have been a boyfriend of Saito, \"Let's enjoy more?\" And he is invited to 3P play…"
   },
+  "links": {
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2051502",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/401135/",
+   "engtl": "https://www.ebookrenta.com/renta/sc/frm/item/141299/",
+   "mu": "yk2f84d",
+   "raw": "https://www.cmoa.jp/title/128039/"
+  },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "6.5",
   "status": "completed",
   "contentRating": "erotica",
   "tags": [
@@ -43,33 +58,35 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 4,
   "createdAt": "2021-03-19T06:18:47+00:00",
-  "updatedAt": "2021-03-19T06:18:47+00:00"
+  "updatedAt": "2024-12-09T11:59:02+00:00"
  },
  "relationships": [
   {
    "id": "894ab404-fe15-4433-aa75-7baa3d970072",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n由元千子\n\n**Associated Names**\nRecreate (Yoshimoto)\nYOSHIMOTO\nYoshimoto Senko\nリクリエイト (よしもと)\n요시모토 센코"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yoshimoto",
+    "name": "Yoshimoto Senco",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=2988357",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/senco_y",
+    "updatedAt": "2024-12-09T09:14:32+00:00",
+    "version": 4,
+    "website": "http://twpf.jp/ysmt801",
     "weibo": null,
     "youtube": null
    }
@@ -78,39 +95,41 @@
    "id": "894ab404-fe15-4433-aa75-7baa3d970072",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n由元千子\n\n**Associated Names**\nRecreate (Yoshimoto)\nYOSHIMOTO\nYoshimoto Senko\nリクリエイト (よしもと)\n요시모토 센코"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yoshimoto",
+    "name": "Yoshimoto Senco",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=2988357",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/senco_y",
+    "updatedAt": "2024-12-09T09:14:32+00:00",
+    "version": 4,
+    "website": "http://twpf.jp/ysmt801",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "b9b23b55-1b6e-4f77-b00e-184594190854",
+   "id": "c2eeb9a6-47c5-42e4-89be-d01bb15a0c5e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:35:32+00:00",
+    "createdAt": "2024-12-09T11:54:43+00:00",
     "description": "",
-    "fileName": "9d580736-d00d-47be-a1d6-0e857a6731df.jpg",
+    "fileName": "f00ac999-258d-4348-be03-1e9ffff46686.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:35:32+00:00",
+    "updatedAt": "2024-12-09T11:54:43+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

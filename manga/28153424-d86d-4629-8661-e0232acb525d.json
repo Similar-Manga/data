@@ -23,11 +23,21 @@
    "en": "This series takes place in a fantasy world with famous composers' music, magic, friendship and dark secrets. Our main character of this story is a young ambitious, energetic boy named Schel. (Scale, as in the musical term) Because of the general of the MagiCorps saved Schel from a Mozoku (Monsters of this world) he has a dream to become the greatest magician ever. So he travels to the capital Sforzando the magic city and enters the MagiCorps School of Magic. There he meets Great, a violin magical music user, who is also the son of the great hero Hamel, who defeated the Demon King Chestra. As Schel tries to become the greatest magician, he also holds some secrets of his own. But how will Schel survive magic school with so many rivals to compete against?"
   },
   "links": {
-   "mu": "22020"
+   "amz": "https://www.amazon.co.jp/dp/B08LYLZKGW",
+   "ap": "violinist-of-hameln-shchelkunchik",
+   "bw": "series/130354/list",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-718169",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/420979/",
+   "kt": "violinist-of-hameln-shchelkunchik",
+   "mal": "10677",
+   "mu": "22020",
+   "raw": "https://michiaki.publications.jp/products/list.php?category_id=30"
   },
   "originalLanguage": "ja",
+  "lastVolume": "8",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2008,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
@@ -85,9 +95,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2018-03-04T21:48:06+00:00",
-  "updatedAt": "2022-04-23T22:44:04+00:00"
+  "updatedAt": "2025-01-04T23:01:13+00:00"
  },
  "relationships": [
   {
@@ -109,9 +119,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2025-01-03T19:28:52+00:00",
+    "version": 2,
+    "website": "https://michiaki.publications.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -135,24 +145,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2025-01-03T19:28:52+00:00",
+    "version": 2,
+    "website": "https://michiaki.publications.jp/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "41ad5aa8-e1b9-4f98-ada8-afb529fbeafe",
+   "id": "8f5ef5f6-5cb1-4c0c-8bd9-7b23fef9d5d8",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:03:06+00:00",
+    "createdAt": "2025-01-04T23:01:12+00:00",
     "description": "",
-    "fileName": "d305c63a-1543-4c3a-814f-bf4e795131c5.jpg",
+    "fileName": "97409304-2776-453c-a660-5cc6ab303d17.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:03:06+00:00",
+    "updatedAt": "2025-01-04T23:01:12+00:00",
     "version": 1,
-    "volume": null
+    "volume": "8"
    }
   },
   {
@@ -163,12 +173,12 @@
   {
    "id": "a9a4005d-680f-41e5-9d8b-d5e77e8e4eb4",
    "type": "manga",
-   "related": "prequel"
+   "related": "shared_universe"
   },
   {
    "id": "da5fee10-bac0-4313-a39c-875e1b824ad1",
    "type": "manga",
-   "related": "prequel"
+   "related": "shared_universe"
   }
  ]
 }

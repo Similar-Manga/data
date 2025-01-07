@@ -11,7 +11,7 @@
     "en": "Hoshi ni Memai wo"
    },
    "contentRating": "safe",
-   "score": 0.33143213,
+   "score": 0.33145452,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Tama no Gohoubi"
    },
    "contentRating": "safe",
-   "score": 0.3003964,
+   "score": 0.30058098,
    "languages": [
     "pt-br",
     "en",
@@ -37,7 +37,7 @@
     "en": "Sono Omokage Shitteru"
    },
    "contentRating": "safe",
-   "score": 0.2995814,
+   "score": 0.299556,
    "languages": [
     "pt-br",
     "es",
@@ -50,7 +50,18 @@
     "en": "Kazekou Engekibu!"
    },
    "contentRating": "safe",
-   "score": 0.29720378,
+   "score": 0.29719505,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "94cf48b0-6e06-4d9b-ab64-bde70299820d",
+   "title": {
+    "en": "Kuchibiru ni Uta wo"
+   },
+   "contentRating": "safe",
+   "score": 0.2852744,
    "languages": [
     "en"
    ]
@@ -69,23 +80,12 @@
    ]
   },
   {
-   "id": "94cf48b0-6e06-4d9b-ab64-bde70299820d",
-   "title": {
-    "en": "Kuchibiru ni Uta wo"
-   },
-   "contentRating": "safe",
-   "score": 0.2852744,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "a97d50f1-eaa6-4dca-be7e-5b583bdc6434",
    "title": {
     "en": "It Was Almost As If"
    },
    "contentRating": "safe",
-   "score": 0.2810388,
+   "score": 0.2810531,
    "languages": [
     "pt-br",
     "en"
@@ -97,7 +97,7 @@
     "en": "00 Day of Summer Holiday"
    },
    "contentRating": "safe",
-   "score": 0.27958712,
+   "score": 0.2795759,
    "languages": [
     "pl",
     "bg",
@@ -111,7 +111,7 @@
     "en": "Tsugi wa Ii yo ne, Senpai"
    },
    "contentRating": "safe",
-   "score": 0.27800128,
+   "score": 0.277978,
    "languages": [
     "en"
    ]
@@ -122,9 +122,21 @@
     "en": "Gikyoudai"
    },
    "contentRating": "safe",
-   "score": 0.27690655,
+   "score": 0.2768871,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "3486d5ba-f1f5-4dc8-b20d-829e215edb89",
+   "title": {
+    "en": "Ongaku no Jikan"
+   },
+   "contentRating": "safe",
+   "score": 0.27636296,
+   "languages": [
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -133,53 +145,7 @@
     "en": "The Night We Become More Than Friends"
    },
    "contentRating": "safe",
-   "score": 0.2761897,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b0e44d2c-4f15-4230-9ad3-214f7f68b4df",
-   "title": {
-    "en": "Merry Go Round In Wonderland"
-   },
-   "contentRating": "safe",
-   "score": 0.27575868,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "fa5a3c8e-abab-47ab-8945-74e73eddcfe5",
-   "title": {
-    "en": "Tokusou Pudding Club"
-   },
-   "contentRating": "safe",
-   "score": 0.2730517,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f2b62555-1056-4996-bf3b-986ccac0b6ee",
-   "title": {
-    "en": "Yume ka Utsutsu ka"
-   },
-   "contentRating": "safe",
-   "score": 0.2725379,
-   "languages": [
-    "ru",
-    "fr",
-    "en"
-   ]
-  },
-  {
-   "id": "3b375c26-b9ef-4480-9a90-b7e4c05744b1",
-   "title": {
-    "en": "Ppoi!"
-   },
-   "contentRating": "safe",
-   "score": 0.26808715,
+   "score": 0.2761923,
    "languages": [
     "en"
    ]
@@ -190,12 +156,47 @@
     "en": "Flying Bunny"
    },
    "contentRating": "safe",
-   "score": 0.26782995,
+   "score": 0.2761223,
    "languages": [
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "b0e44d2c-4f15-4230-9ad3-214f7f68b4df",
+   "title": {
+    "en": "Merry Go Round In Wonderland"
+   },
+   "contentRating": "safe",
+   "score": 0.27575812,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fa5a3c8e-abab-47ab-8945-74e73eddcfe5",
+   "title": {
+    "en": "Tokusou Pudding Club"
+   },
+   "contentRating": "safe",
+   "score": 0.27321732,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f2b62555-1056-4996-bf3b-986ccac0b6ee",
+   "title": {
+    "en": "Yume ka Utsutsu ka"
+   },
+   "contentRating": "safe",
+   "score": 0.2725344,
+   "languages": [
+    "ru",
+    "fr",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-12-01T21:50:24+00:00"
+ "updatedAt": "2025-01-06T01:04:41+00:00"
 }

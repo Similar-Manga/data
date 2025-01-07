@@ -17,6 +17,7 @@
    "al": "165080",
    "amz": "https://www.amazon.co.jp/-/en/dp/B0CMR2KFDT?binding=kindle_edition\u0026qid=1704187178\u0026sr=1-1\u0026ref=dbs_dp_rwt_sb_pc_tukn",
    "bw": "series/445381/list",
+   "mu": "auz5gxp",
    "raw": "https://www.corocoro.jp/episode/14079602755559131822"
   },
   "originalLanguage": "ja",
@@ -25,18 +26,6 @@
   "year": 2023,
   "contentRating": "suggestive",
   "tags": [
-   {
-    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Monsters"
-     },
-     "description": {},
-     "group": "theme",
-     "version": 1
-    }
-   },
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
@@ -48,26 +37,42 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Adaptation"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 9,
   "createdAt": "2024-01-02T09:23:46+00:00",
-  "updatedAt": "2024-10-30T21:18:50+00:00"
+  "updatedAt": "2024-12-15T15:53:52+00:00"
  },
  "relationships": [
+  {
+   "id": "2b457d41-ca52-4b06-af9c-fa579184b68c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Parent company of the various Vtuber agencies related to the Nijisanji brand.\n\n* Nijisanji\n* Nijisanji EN\n* VIRTUAL TALENT ACADEMY\n* Nijisanji IN (defunct)\n* Nijisanji KR (defunct, merged into main branch)\n* Nijisanji ID (defunct, merged into main branch)\n\nFormerly known as Ichikara Inc.\n\n**Native name**: ANYCOLOR株式会社"
+    },
+    "booth": null,
+    "createdAt": "2024-07-19T23:41:09+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "ANYCOLOR Inc.",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/anycolor_inc",
+    "updatedAt": "2024-12-15T12:05:45+00:00",
+    "version": 6,
+    "website": "https://www.anycolor.co.jp/en",
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "89897f80-e0da-4715-a68e-23ddddb1d6bf",
    "type": "author",

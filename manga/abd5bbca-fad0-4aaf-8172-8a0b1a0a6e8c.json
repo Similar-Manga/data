@@ -1,0 +1,175 @@
+{
+ "id": "abd5bbca-fad0-4aaf-8172-8a0b1a0a6e8c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mahou Sentai Magiranger the Movie: Infershia no Hanayome"
+  },
+  "altTitles": [
+   {
+    "ja": "魔法戦隊マジレンジャー THE MOVIE インフェルシアの花嫁"
+   },
+   {
+    "ja-ro": "Mahō Sentai Magiranger the Movie: Infershia no Hanayome"
+   },
+   {
+    "en": "Magical Sentai Magiranger the Movie: The Bride of Infershia"
+   }
+  ],
+  "description": {
+   "ja": "超人気特撮、マジレンジャーがコミック化!\n「マジレッド=小津魁」の愛する女性「山崎さん」が「バーサーカーの王グルーム」に攫われた! グルームの目的は人間の女性と結婚して、無敵の死霊軍団を蘇らせることだ! 劇場版「マジレン」がついにコミック化!"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/魔法戦隊マジレンジャー-MOVIE-インフェルシアの花嫁-単行本コミックス―KADOKAWA-COMICS特撮A/dp/404853954X"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2006,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-12T03:35:53+00:00",
+  "updatedAt": "2024-12-12T04:36:44+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7daa2035-c28e-4c14-b857-f1f0524e689f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuroiwa Yoshihiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7daa2035-c28e-4c14-b857-f1f0524e689f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuroiwa Yoshihiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cb64a330-1197-4df6-9d18-f27d70413aa6",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-12T03:35:57+00:00",
+    "description": "",
+    "fileName": "ccb62df9-ddfc-430d-a8fc-d036578c61d2.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-12T03:35:57+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "424df4c3-ba2c-4998-b8a8-def02ac84a86",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "4f45cb6e-f8d0-46e2-a4c0-d5eb3f0a402c",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "69de2274-e7bc-4f0c-946e-54013dbad42e",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "80828324-d964-4efe-b078-cd4ecc363f83",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "9a127845-7c9c-4873-b2da-246e7a2b5f40",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "ef2b491c-c339-428e-a4d8-85bcc5dba46b",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,11 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Girls Who Get It"
+   "en": "Girls Phantasm"
   },
   "altTitles": [
    {
+    "ja": "少女想甲 ガルファン"
+   },
+   {
+    "ja-ro": "Shoujo Soukou GirlPhan"
+   },
+   {
     "ja": "わかってるガール"
+   },
+   {
+    "ja-ro": "Wakatteru Girl"
+   },
+   {
+    "en": "Girls That Get It"
+   },
+   {
+    "en": "Girls Who Get It"
    }
   ],
   "description": {
@@ -15,10 +30,12 @@
    "ja": "ある特定のジャンルに比較的理解の深いガール達の記録"
   },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0C66GJ4D4",
    "raw": "https://twitter.com/i/events/1049257701950156800"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2018,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -46,6 +63,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -87,9 +116,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 9,
   "createdAt": "2023-05-29T19:02:39+00:00",
-  "updatedAt": "2023-09-30T22:55:26+00:00"
+  "updatedAt": "2024-12-28T04:30:47+00:00"
  },
  "relationships": [
   {
@@ -97,7 +126,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -113,8 +142,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -125,7 +154,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -141,8 +170,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -160,6 +189,11 @@
     "version": 2,
     "volume": "1"
    }
+  },
+  {
+   "id": "5418be97-515b-492b-8827-ec0590747ba9",
+   "type": "manga",
+   "related": "alternate_version"
   },
   {
    "id": "4e4f1cff-887b-474a-bb2b-d0a9ae50171b",

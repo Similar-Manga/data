@@ -3,21 +3,28 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Love Live - Star Fragments (Doujinshi)"
+   "en": "Love Live - Hoshi no Kakera (Doujinshi)"
   },
   "altTitles": [
    {
-    "ja-ro": "Hoshi no Kakera"
+    "ja": "星のかけら (ラブライブ!)"
+   },
+   {
+    "ja-ro": "Hoshi no Kakera (Love Live!)"
+   },
+   {
+    "en": "Star Fragments (Love Live!)"
    }
   ],
   "description": {
-   "en": "It's Nozomi's birthday… What will she wish for?"
+   "en": "It's Nozomi's birthday… What will she wish for?\n\n---\n\nAdditional Links:\n* [Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=374540)\n* [Suruga-ya](https://www.suruga-ya.jp/product/detail/ZHORE194221)"
   },
   "links": {
    "raw": "https://www.pixiv.net/en/artworks/75127999"
   },
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2018,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -62,23 +69,25 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2020-08-08T16:34:47+00:00",
-  "updatedAt": "2022-01-24T21:06:15+00:00"
+  "updatedAt": "2024-12-11T05:04:42+00:00"
  },
  "relationships": [
   {
    "id": "6cfb5b61-d520-4998-af1a-43b9b055cefc",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**:  もりもりやま\n\n**Members**:\n[Purin (Gyuunyuu)](https://mangadex.org/author/6dcfcc74-dab8-4dd8-9bb8-1a431a1e4bcb)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
-    "name": "Morimoriyama",
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=25830",
+    "name": "Morimoriyama (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -86,8 +95,36 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-11T05:04:25+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6dcfcc74-dab8-4dd8-9bb8-1a431a1e4bcb",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: ぷりん(牛乳)\n\n**Alt. names**:\nPurin (Milk)\nPudding (Milk)\n\n**Circle/s**:\n[Morimoriyama](https://mangadex.org/author/6cfb5b61-d520-4998-af1a-43b9b055cefc) (もりもりやま)"
+    },
+    "booth": null,
+    "createdAt": "2024-05-05T06:14:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Purin (Gyuunyuu)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-11T05:11:29+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -97,14 +134,16 @@
    "id": "6cfb5b61-d520-4998-af1a-43b9b055cefc",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**:  もりもりやま\n\n**Members**:\n[Purin (Gyuunyuu)](https://mangadex.org/author/6dcfcc74-dab8-4dd8-9bb8-1a431a1e4bcb)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
-    "name": "Morimoriyama",
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=25830",
+    "name": "Morimoriyama (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -112,25 +151,58 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-11T05:04:25+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "7eb4f261-ffe6-4f08-b0d4-6192553097c1",
+   "id": "6dcfcc74-dab8-4dd8-9bb8-1a431a1e4bcb",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: ぷりん(牛乳)\n\n**Alt. names**:\nPurin (Milk)\nPudding (Milk)\n\n**Circle/s**:\n[Morimoriyama](https://mangadex.org/author/6cfb5b61-d520-4998-af1a-43b9b055cefc) (もりもりやま)"
+    },
+    "booth": null,
+    "createdAt": "2024-05-05T06:14:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Purin (Gyuunyuu)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-11T05:11:29+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "de8e611a-9492-42d9-b8cb-3ce490869a7e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:05:58+00:00",
-    "description": "",
-    "fileName": "0ad65918-79d2-4ec0-9b1e-78a65b3a6a2a.jpg",
+    "createdAt": "2024-12-11T05:05:33+00:00",
+    "description": "Cover from Pixiv:\nhttps://www.pixiv.net/en/artworks/75127999",
+    "fileName": "be9a396d-2980-4c85-a098-f9132ae1adad.jpg",
     "locale": "ja",
-    "updatedAt": "2022-01-24T21:06:15+00:00",
+    "updatedAt": "2024-12-11T05:06:12+00:00",
     "version": 2,
     "volume": "1"
    }
+  },
+  {
+   "id": "084b1a87-72ef-4bd6-b725-3c2a9a0ab5da",
+   "type": "manga",
+   "related": "based_on"
   }
  ]
 }

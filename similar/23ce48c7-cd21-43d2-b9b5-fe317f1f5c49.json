@@ -6,12 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "1515d3bb-f8d3-4154-9423-e15f9e3088be",
+   "title": {
+    "en": "Fami-res Iko."
+   },
+   "contentRating": "safe",
+   "score": 0.31060478,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "61ccc3df-77c9-4fae-ba29-7d7a3996b59f",
+   "title": {
+    "en": "Ore no Haitoku Meshi o Onedari Sezu ni Irarenai, Otonari no Top Idol-sama"
+   },
+   "contentRating": "safe",
+   "score": 0.2960216,
+   "languages": [
+    "es-la",
+    "th",
+    "id",
+    "en"
+   ]
+  },
+  {
    "id": "4710b856-0585-40d2-a87e-099fc032511f",
    "title": {
     "en": "Isekai Izakaya \"Nobu\""
    },
    "contentRating": "safe",
-   "score": 0.28852147,
+   "score": 0.28774044,
    "languages": [
     "es-la",
     "id",
@@ -26,18 +52,7 @@
     "en": "Watashi no Oniichan"
    },
    "contentRating": "safe",
-   "score": 0.28019527,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "85fe3829-0d22-46d8-96a7-bb5ed9f555d2",
-   "title": {
-    "en": "Love Live! Sunshine!! CYaRon! COMIC ANTHOLOGY"
-   },
-   "contentRating": "safe",
-   "score": 0.27479312,
+   "score": 0.280252,
    "languages": [
     "en"
    ]
@@ -48,7 +63,7 @@
     "en": "Kono Bijutsubu ni wa Mondai ga Aru!"
    },
    "contentRating": "safe",
-   "score": 0.27187276,
+   "score": 0.27991718,
    "languages": [
     "th",
     "ru",
@@ -61,12 +76,23 @@
    ]
   },
   {
+   "id": "85fe3829-0d22-46d8-96a7-bb5ed9f555d2",
+   "title": {
+    "en": "Love Live! Sunshine!! CYaRon! COMIC ANTHOLOGY"
+   },
+   "contentRating": "safe",
+   "score": 0.27482197,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "25886ab0-17f1-4801-b929-6b36fe4e5214",
    "title": {
     "en": "Minami-ke"
    },
    "contentRating": "safe",
-   "score": 0.25777984,
+   "score": 0.2578034,
    "languages": [
     "fr",
     "pt-br",
@@ -77,33 +103,6 @@
     "vi",
     "es-la",
     "it"
-   ]
-  },
-  {
-   "id": "27179c2f-72d7-4a49-a577-2fa6eaf9df4d",
-   "title": {
-    "en": "Joshikousei no Mudazukai"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en",
-    "es-la",
-    "pt-br",
-    "ru",
-    "id",
-    "it"
-   ]
-  },
-  {
-   "id": "f0b5463c-bc2f-4808-a7f6-6efe3edd083d",
-   "title": {
-    "en": "Poca Poca Taiwan!"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -119,31 +118,9 @@
    ]
   },
   {
-   "id": "5aa5b618-2634-4863-9338-9d9e5c465965",
-   "title": {
-    "en": "Uchuu Toka to Kurabetara Chippoke na Mondai desu ga"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "b053199f-8c8c-4410-a44f-e60a0d834fa9",
    "title": {
     "en": "Beshari-Gurashi"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c13517e6-49b2-4689-831f-37c305ac4f60",
-   "title": {
-    "en": "Makabe-sensei's Perfect Plan"
    },
    "contentRating": "safe",
    "score": 0.24983473,
@@ -167,9 +144,58 @@
    ]
   },
   {
+   "id": "5aa5b618-2634-4863-9338-9d9e5c465965",
+   "title": {
+    "en": "Uchuu Toka to Kurabetara Chippoke na Mondai desu ga"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "27179c2f-72d7-4a49-a577-2fa6eaf9df4d",
+   "title": {
+    "en": "Joshikousei no Mudazukai"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en",
+    "es-la",
+    "pt-br",
+    "ru",
+    "id",
+    "it"
+   ]
+  },
+  {
+   "id": "c13517e6-49b2-4689-831f-37c305ac4f60",
+   "title": {
+    "en": "Makabe-sensei's Perfect Plan"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "892ed11e-74ba-43a3-a97f-1a48d28052d1",
    "title": {
     "en": "Onii-chan wa Se ga Chiisai"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "f0b5463c-bc2f-4808-a7f6-6efe3edd083d",
+   "title": {
+    "en": "Poca Poca Taiwan!"
    },
    "contentRating": "safe",
    "score": 0.24983473,
@@ -183,39 +209,11 @@
     "en": "GIRLS und PANZER - Comic Anthology"
    },
    "contentRating": "safe",
-   "score": 0.24700545,
+   "score": 0.24703437,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "42a9a639-567d-46c0-a666-1278a4c7745a",
-   "title": {
-    "en": "Betsu ni Houridashita Waje ja Nai n Dakedo.... - Mikan no Manga ga Aru Riyuu"
-   },
-   "contentRating": "safe",
-   "score": 0.24591513,
-   "languages": [
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
-   "title": {
-    "ja-ro": "Houkago Kitaku Biyori"
-   },
-   "contentRating": "safe",
-   "score": 0.24290262,
-   "languages": [
-    "es-la",
-    "vi",
-    "en",
-    "ru",
-    "id",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2024-12-01T20:53:13+00:00"
+ "updatedAt": "2025-01-05T23:56:11+00:00"
 }

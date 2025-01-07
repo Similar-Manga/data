@@ -1,0 +1,148 @@
+{
+ "id": "cabdb87c-7c3f-4bc9-b848-7f4fbeab5bd6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tiny Drive"
+  },
+  "altTitles": [
+   {
+    "ja": "タイニードライブ"
+   }
+  ],
+  "description": {
+   "en": "Suwako, a middle school student in the countryside, suddenly finds herself with a new sister after her parents remarry! A four-panel comic about the relaxed daily life of a slightly eccentric older sister!"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B07QPC4856",
+   "bw": "series/123306",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/421055/",
+   "mal": "168304",
+   "mu": "xnd9suf"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "43",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2015,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-21T08:09:38+00:00",
+  "updatedAt": "2024-12-21T08:10:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "44eb1caf-7c7a-4976-81e0-9a1043d694ab",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 大石まさる\n\n**Other Romanization:** Ohishi Masaru\n\n**18+ Alias:** YUMENO-Z (夢ノ二)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ooishi Masaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ohishimasaru",
+    "updatedAt": "2024-12-20T06:00:38+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "44eb1caf-7c7a-4976-81e0-9a1043d694ab",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 大石まさる\n\n**Other Romanization:** Ohishi Masaru\n\n**18+ Alias:** YUMENO-Z (夢ノ二)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ooishi Masaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ohishimasaru",
+    "updatedAt": "2024-12-20T06:00:38+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9ea888a0-c230-48c7-9f78-0a5585c3f428",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-21T08:09:51+00:00",
+    "description": "",
+    "fileName": "1c2fb037-1dc3-42b9-b8a8-f5027cb37919.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-21T08:09:51+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

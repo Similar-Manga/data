@@ -1,0 +1,163 @@
+{
+ "id": "98a86761-64ed-4898-9a64-2ba09b366737",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Story of the Ugly Witch and the Blind Young Man"
+  },
+  "altTitles": [
+   {
+    "ja": "醜い魔女と、目の見えない青年の話"
+   },
+   {
+    "ja-ro": "Minikui Majo to, Me no Mienai Seinen no Hanashi"
+   },
+   {
+    "vi": "Phù thủy xấu xí và chàng mù"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/en/artworks/62254842"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2017,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en",
+   "vi",
+   "id"
+  ],
+  "latestUploadedChapter": "bcf2fa1b-9705-4ee8-9a22-12650962d5ff",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-17T23:11:08+00:00",
+  "updatedAt": "2024-12-22T09:18:06+00:00"
+ },
+ "relationships": [
+  {
+   "id": "edaf8994-5bda-4b2b-906a-4f32d17c065c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Associated Names: HANTEN Sharou, Hanten Sharou, 反転シャロウ, 한텐 샤로우, 反転邪郎"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hanten Sharoh",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=23835179",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sharoh_hanten",
+    "updatedAt": "2022-04-07T08:53:51+00:00",
+    "version": 4,
+    "website": "http://www.sharoh.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "edaf8994-5bda-4b2b-906a-4f32d17c065c",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Associated Names: HANTEN Sharou, Hanten Sharou, 反転シャロウ, 한텐 샤로우, 反転邪郎"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hanten Sharoh",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=23835179",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sharoh_hanten",
+    "updatedAt": "2022-04-07T08:53:51+00:00",
+    "version": 4,
+    "website": "http://www.sharoh.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cc3e43a6-b760-4d4b-8349-4b3ecfb2a1f6",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-17T23:13:02+00:00",
+    "description": "",
+    "fileName": "300421dd-6374-4876-a93e-1b2261203108.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-17T23:13:02+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "02c385d5-beac-4ee4-9383-20b55d7d8a50",
+   "type": "creator"
+  }
+ ]
+}

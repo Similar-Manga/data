@@ -32,6 +32,9 @@
    },
    {
     "de": "Schwarzer Dunst"
+   },
+   {
+    "fr": "Brouillard noir"
    }
   ],
   "description": {
@@ -156,23 +159,25 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 14,
   "createdAt": "2018-07-31T09:46:18+00:00",
-  "updatedAt": "2023-01-31T16:11:53+00:00"
+  "updatedAt": "2024-12-26T18:54:04+00:00"
  },
  "relationships": [
   {
    "id": "54810d24-bf4b-4703-aac0-4b641aec945a",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "- dydyddl7\n- 용용"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yong Yong",
+    "name": "Yong Yong (용용)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -180,8 +185,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-26T15:18:19+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -191,14 +196,16 @@
    "id": "54810d24-bf4b-4703-aac0-4b641aec945a",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "- dydyddl7\n- 용용"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yong Yong",
+    "name": "Yong Yong (용용)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -206,8 +213,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-26T15:18:19+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

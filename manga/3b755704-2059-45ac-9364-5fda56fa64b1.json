@@ -1,0 +1,151 @@
+{
+ "id": "3b755704-2059-45ac-9364-5fda56fa64b1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Making a Wish to Santa"
+  },
+  "altTitles": [
+   {
+    "ja": "サンタさんに願うもの"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/en/artworks/116000944"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "43b0a761-b57f-4432-9fe2-38ebef50e059",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-24T23:51:21+00:00",
+  "updatedAt": "2024-12-25T08:56:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "bbeb02f5-0be2-443f-91af-9a0e9d1fc54b",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T23:50:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hanaame Kau",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-24T23:50:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bbeb02f5-0be2-443f-91af-9a0e9d1fc54b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T23:50:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hanaame Kau",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-24T23:50:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e83c5b6e-499f-4467-a3f2-71ed6a4f2201",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-24T23:51:23+00:00",
+    "description": "",
+    "fileName": "a5339711-e3c7-4192-9656-bfa86712b5cf.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-24T23:51:23+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "49194608-9cc7-49e1-93ff-a6124e4e207a",
+   "type": "creator"
+  }
+ ]
+}

@@ -21,7 +21,7 @@
    "en",
    "it"
   ],
-  "latestUploadedChapter": "de1685fe-fdef-4b32-9c5a-ccd96eacc971",
+  "latestUploadedChapter": "0c2300a9-9dac-4e64-b880-dbd6f63a9e74",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -32,6 +32,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Official Colored"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -250,24 +262,12 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Full Color"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-11-19T17:46:25+00:00",
-  "updatedAt": "2024-11-23T17:57:59+00:00"
+  "updatedAt": "2024-12-09T06:03:41+00:00"
  },
  "relationships": [
   {

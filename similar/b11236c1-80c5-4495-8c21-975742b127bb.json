@@ -17,7 +17,8 @@
     "tr",
     "pt-br",
     "ca",
-    "zh-hk"
+    "zh-hk",
+    "id"
    ]
   },
   {
@@ -26,7 +27,7 @@
     "en": "Just Listen to the Song"
    },
    "contentRating": "safe",
-   "score": 0.15844423,
+   "score": 0.15838349,
    "languages": [
     "pt-br",
     "id",
@@ -59,7 +60,8 @@
     "ru",
     "pt-br",
     "tr",
-    "fr"
+    "fr",
+    "ar"
    ]
   },
   {
@@ -77,43 +79,17 @@
    ]
   },
   {
-   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
+   "id": "99d52813-c48c-4692-a2cf-b5028c63d556",
    "title": {
-    "en": "World Trigger"
-   },
-   "contentRating": "safe",
-   "score": 0.10794395,
-   "languages": [
-    "en",
-    "pt-br",
-    "es",
-    "pl",
-    "de",
-    "tr"
-   ]
-  },
-  {
-   "id": "30339808-f936-4f0c-a4e8-003b1af5165f",
-   "title": {
-    "en": "Night Town"
+    "en": "Jibun Kaigi: The Meeting of Myself"
    },
    "contentRating": "safe",
    "score": 0.10101526,
    "languages": [
     "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "03911f4a-33cd-4305-bf27-dd0c01aca7f8",
-   "title": {
-    "en": "Anastasia no Shinei Taichou"
-   },
-   "contentRating": "safe",
-   "score": 0.10101526,
-   "languages": [
     "en",
-    "tr"
+    "pt-br",
+    "ar"
    ]
   },
   {
@@ -137,17 +113,27 @@
    ]
   },
   {
-   "id": "99d52813-c48c-4692-a2cf-b5028c63d556",
+   "id": "03911f4a-33cd-4305-bf27-dd0c01aca7f8",
    "title": {
-    "en": "Jibun Kaigi: The Meeting of Myself"
+    "en": "Anastasia no Shinei Taichou"
+   },
+   "contentRating": "safe",
+   "score": 0.10101526,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
+   "id": "30339808-f936-4f0c-a4e8-003b1af5165f",
+   "title": {
+    "en": "Night Town"
    },
    "contentRating": "safe",
    "score": 0.10101526,
    "languages": [
     "tr",
-    "en",
-    "pt-br",
-    "ar"
+    "en"
    ]
   },
   {
@@ -156,7 +142,7 @@
     "en": "Kaiju No. 8"
    },
    "contentRating": "safe",
-   "score": 0.10022215,
+   "score": 0.10008782,
    "languages": [
     "ar",
     "uk",
@@ -170,9 +156,75 @@
     "fr",
     "tr",
     "pl",
-    "th",
     "fa",
+    "th",
     "kk"
+   ]
+  },
+  {
+   "id": "0253a165-d5af-4c53-a851-e8bd9f84c75d",
+   "title": {
+    "en": "Captain Tsubasa (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.090350784,
+   "languages": [
+    "tr",
+    "fr",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
+   "title": {
+    "en": "Moriarty the Patriot"
+   },
+   "contentRating": "safe",
+   "score": 0.090350784,
+   "languages": [
+    "en",
+    "id",
+    "vi",
+    "pt-br",
+    "ar",
+    "tr",
+    "uk",
+    "hu",
+    "ru",
+    "hr"
+   ]
+  },
+  {
+   "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
+   "title": {
+    "en": "KILLER PARENT"
+   },
+   "contentRating": "safe",
+   "score": 0.090350784,
+   "languages": [
+    "tr",
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "db1bf689-b2e7-4bdf-9aaf-9f10a8fb6384",
+   "title": {
+    "en": "Kanojo wa Itsumo Kagayaiteita"
+   },
+   "contentRating": "safe",
+   "score": 0.090350784,
+   "languages": [
+    "hu",
+    "de",
+    "en",
+    "fa",
+    "tr",
+    "id",
+    "es-la",
+    "vi",
+    "ru"
    ]
   },
   {
@@ -193,25 +245,6 @@
     "he",
     "ar",
     "tr"
-   ]
-  },
-  {
-   "id": "db1bf689-b2e7-4bdf-9aaf-9f10a8fb6384",
-   "title": {
-    "en": "Kanojo wa Itsumo Kagayaiteita"
-   },
-   "contentRating": "safe",
-   "score": 0.090350784,
-   "languages": [
-    "hu",
-    "de",
-    "en",
-    "fa",
-    "tr",
-    "id",
-    "es-la",
-    "vi",
-    "ru"
    ]
   },
   {
@@ -251,39 +284,7 @@
     "es-la",
     "fr"
    ]
-  },
-  {
-   "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
-   "title": {
-    "en": "KILLER PARENT"
-   },
-   "contentRating": "safe",
-   "score": 0.090350784,
-   "languages": [
-    "tr",
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "1d9fad4e-b81a-4498-8cce-e5ddfb1e4f03",
-   "title": {
-    "en": "Moriarty the Patriot"
-   },
-   "contentRating": "safe",
-   "score": 0.090350784,
-   "languages": [
-    "en",
-    "id",
-    "vi",
-    "ru",
-    "pt-br",
-    "ar",
-    "tr",
-    "uk",
-    "hu"
-   ]
   }
  ],
- "updatedAt": "2024-12-01T21:40:43+00:00"
+ "updatedAt": "2025-01-06T00:52:54+00:00"
 }

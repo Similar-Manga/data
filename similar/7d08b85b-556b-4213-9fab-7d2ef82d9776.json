@@ -6,29 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "93d6838a-e6e0-4b4d-adf2-54ee155cb7fa",
-   "title": {
-    "en": "Seishun Outsider"
-   },
-   "contentRating": "safe",
-   "score": 0.29422754,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e854deaf-2ac3-41d8-88e8-4ffc79472e25",
-   "title": {
-    "en": "Naisho ni Shite ne"
-   },
-   "contentRating": "safe",
-   "score": 0.284093,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "d0f286ac-9ecf-4472-a3d7-1009eb0199e2",
    "title": {
     "en": "Hirano to Kagiura"
@@ -41,6 +18,17 @@
     "es-la",
     "pt-br",
     "tr"
+   ]
+  },
+  {
+   "id": "93d6838a-e6e0-4b4d-adf2-54ee155cb7fa",
+   "title": {
+    "en": "Seishun Outsider"
+   },
+   "contentRating": "safe",
+   "score": 0.284093,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -57,24 +45,14 @@
    ]
   },
   {
-   "id": "3d96dde3-20a0-412f-b329-cbca5223ef14",
+   "id": "e854deaf-2ac3-41d8-88e8-4ffc79472e25",
    "title": {
-    "en": "Kaze no Iro made Oboeteru"
+    "en": "Naisho ni Shite ne"
    },
    "contentRating": "safe",
-   "score": 0.2729725,
+   "score": 0.284093,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1736e5c0-1132-4271-b3f4-272abc633e70",
-   "title": {
-    "en": "Michizure Encore"
-   },
-   "contentRating": "safe",
-   "score": 0.2637465,
-   "languages": [
+    "es-la",
     "en"
    ]
   },
@@ -84,7 +62,18 @@
     "en": "Koi no Tsuzuki ni Hitsuyou Nano wa"
    },
    "contentRating": "safe",
-   "score": 0.26289326,
+   "score": 0.26348573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2564194a-59c2-4dcd-83bc-311e2818169c",
+   "title": {
+    "en": "Morishita-kun wa Arimatsu-san ni Muchuu desu"
+   },
+   "contentRating": "safe",
+   "score": 0.26148063,
    "languages": [
     "en"
    ]
@@ -95,13 +84,25 @@
     "en": "Uruwashi no Yoi no Tsuki"
    },
    "contentRating": "safe",
-   "score": 0.2578647,
+   "score": 0.2594122,
    "languages": [
     "pt-br",
     "ru",
-    "en",
     "hu",
+    "en",
     "fr",
+    "es-la"
+   ]
+  },
+  {
+   "id": "22a3eb13-aaf7-46b1-9684-b3a687fa379e",
+   "title": {
+    "en": "Hoezura ni Kamitsuku Kisu"
+   },
+   "contentRating": "safe",
+   "score": 0.2541005,
+   "languages": [
+    "en",
     "es-la"
    ]
   },
@@ -128,41 +129,6 @@
    ]
   },
   {
-   "id": "ebc5702f-b6a1-4085-896f-21cc34bf245a",
-   "title": {
-    "en": "Senpai, Ore ja Dame desu ka?"
-   },
-   "contentRating": "safe",
-   "score": 0.2541005,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "22a3eb13-aaf7-46b1-9684-b3a687fa379e",
-   "title": {
-    "en": "Hoezura ni Kamitsuku Kisu"
-   },
-   "contentRating": "safe",
-   "score": 0.2541005,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "9985337e-fa25-4b62-a139-8159b8f1a783",
-   "title": {
-    "en": "Your Color"
-   },
-   "contentRating": "safe",
-   "score": 0.2541005,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "ef323a0d-9a81-4028-9c21-e85b6f318744",
    "title": {
     "en": "Sekai ga Hajimaru Asa ni Umi wo Mito"
@@ -171,19 +137,6 @@
    "score": 0.2541005,
    "languages": [
     "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "56aa452b-3c0c-4fa5-b4f6-37abd627fe9b",
-   "title": {
-    "en": "Aisaseteyo Sensei"
-   },
-   "contentRating": "safe",
-   "score": 0.2541005,
-   "languages": [
-    "en",
-    "tr",
     "vi"
    ]
   },
@@ -203,7 +156,54 @@
     "pt-br",
     "hu"
    ]
+  },
+  {
+   "id": "ebc5702f-b6a1-4085-896f-21cc34bf245a",
+   "title": {
+    "en": "Senpai, Ore ja Dame desu ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.2541005,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "9985337e-fa25-4b62-a139-8159b8f1a783",
+   "title": {
+    "en": "Your Color"
+   },
+   "contentRating": "safe",
+   "score": 0.2541005,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "56aa452b-3c0c-4fa5-b4f6-37abd627fe9b",
+   "title": {
+    "en": "Aisaseteyo Sensei"
+   },
+   "contentRating": "safe",
+   "score": 0.2541005,
+   "languages": [
+    "en",
+    "tr",
+    "vi"
+   ]
+  },
+  {
+   "id": "01b9b9f8-a480-4fba-a28f-153a198f8d07",
+   "title": {
+    "en": "Hi-Fi Rendezvous"
+   },
+   "contentRating": "safe",
+   "score": 0.25396827,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-12-01T21:23:10+00:00"
+ "updatedAt": "2025-01-06T00:32:00+00:00"
 }

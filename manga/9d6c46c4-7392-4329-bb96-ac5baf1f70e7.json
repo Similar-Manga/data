@@ -3,17 +3,31 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Villainess Just Wants To Live In Peace!"
+   "en": "The Villainess Just Wants to Live in Peace!"
   },
   "altTitles": [
    {
     "ko": "악녀는 조용히 살고 싶을 뿐인데!"
+   },
+   {
+    "ko-ro": "Angnyeoneun Joyonghi Salgosipeul Ppuninde!"
+   },
+   {
+    "en": "The Villainess Just Wants to Live Quietly!"
+   },
+   {
+    "th": "ตัวร้ายอย่างฉันขออยู่อย่างสงบ!"
+   },
+   {
+    "zh": "恶女只想安静地生活！"
    }
   ],
   "description": {
    "en": "I quit my terrible job and set off on a trip, only to die in a plane crash! I woke up to find myself reincarnated as Tanasia Breloff, the villainess of a novel I once read. Tanasia was scheming to harm her sister out of jealousy, but I’m not interested in villainy; I’m content being a beautiful, wealthy noblewoman! But wait… don’t I eventually get killed in the novel? I must prevent my death—so I can live the peaceful life I’ve dreamed of!"
   },
   "links": {
+   "al": "182012",
+   "ap": "the-villainess-just-wants-to-live-in-peace",
    "engtl": "https://www.webtoons.com/en/romance/the-villainess-just-wants-to-live-in-peace/list?title_no=6879",
    "kt": "the-villainess-just-wants-to-live-in-peace",
    "mal": "170886",
@@ -138,6 +152,18 @@
     }
    },
    {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
@@ -151,9 +177,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2024-04-01T21:29:21+00:00",
-  "updatedAt": "2024-10-15T02:34:40+00:00"
+  "updatedAt": "2024-12-14T04:23:17+00:00"
  },
  "relationships": [
   {
@@ -248,9 +274,9 @@
     "description": "",
     "fileName": "b3e114bb-2ed7-43e2-bdd6-9733ba28d78d.jpg",
     "locale": "ko",
-    "updatedAt": "2024-10-15T02:29:34+00:00",
-    "version": 2,
-    "volume": null
+    "updatedAt": "2024-12-14T04:23:17+00:00",
+    "version": 3,
+    "volume": "1"
    }
   },
   {

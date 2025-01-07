@@ -28,7 +28,7 @@
    "en",
    "id"
   ],
-  "latestUploadedChapter": "678c2c94-a7e3-4873-9e65-f7bb7299f4ee",
+  "latestUploadedChapter": "d9d2640c-1132-440f-9ce2-f90785c77401",
   "tags": [
    {
     "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
@@ -77,12 +77,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2023-05-25T06:51:29+00:00",
-  "updatedAt": "2024-11-27T20:13:03+00:00"
+  "updatedAt": "2024-12-22T18:13:20+00:00"
  },
  "relationships": [
   {

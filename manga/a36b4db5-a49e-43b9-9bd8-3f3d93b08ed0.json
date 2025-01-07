@@ -1,0 +1,132 @@
+{
+ "id": "a36b4db5-a49e-43b9-9bd8-3f3d93b08ed0",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "HAPPY MAN"
+  },
+  "altTitles": [
+   {
+    "ja": "HAPPY MAN 爆裂怒濤の桂小五郎"
+   }
+  ],
+  "description": {
+   "en": "A depiction of Katsura Kogoro."
+  },
+  "links": {
+   "al": "163015",
+   "amz": "https://www.amazon.co.jp/dp/B0753GXFGM?binding=kindle_edition\u0026ref_=ast_author_bsi",
+   "bw": "series/69021/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/108591/",
+   "mu": "a5tdi77"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "9",
+  "lastChapter": "99",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1991,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-30T21:52:54+00:00",
+  "updatedAt": "2024-12-30T22:05:16+00:00"
+ },
+ "relationships": [
+  {
+   "id": "43f4ac5d-88fb-499f-a6cb-407a514a2c5c",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-30T22:04:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nazomi Makino",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T22:04:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "15fca0a9-2700-40a7-a3f2-f8d396ff47b9",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T21:52:57+00:00",
+    "description": "",
+    "fileName": "1ed56eb4-08c7-483f-a3ec-e5f956988f97.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T21:52:57+00:00",
+    "version": 1,
+    "volume": "9"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

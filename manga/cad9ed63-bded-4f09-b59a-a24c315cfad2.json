@@ -16,6 +16,7 @@
   "description": {},
   "links": {
    "al": "177839",
+   "bw": "series/502749/list",
    "mal": "171758",
    "mu": "690nft2"
   },
@@ -37,6 +38,18 @@
     "attributes": {
      "name": {
       "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
      },
      "description": {},
      "group": "genre",
@@ -69,9 +82,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2024-07-03T14:55:28+00:00",
-  "updatedAt": "2024-09-03T16:09:17+00:00"
+  "updatedAt": "2025-01-04T10:05:19+00:00"
  },
  "relationships": [
   {
@@ -127,16 +140,16 @@
    }
   },
   {
-   "id": "a7ad18a5-e811-468a-8fea-04f590ccb2ed",
+   "id": "8795b986-4e3a-415f-b1dc-b3ede7bfbceb",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-07-03T14:55:38+00:00",
+    "createdAt": "2025-01-04T10:05:18+00:00",
     "description": "",
-    "fileName": "cde7a130-2f98-4068-acc5-ffce5a74db07.png",
+    "fileName": "7a015961-410b-4cdd-b1ea-fb82593eeb86.jpg",
     "locale": "ja",
-    "updatedAt": "2024-07-03T14:55:38+00:00",
+    "updatedAt": "2025-01-04T10:05:18+00:00",
     "version": 1,
-    "volume": "0"
+    "volume": "1"
    }
   },
   {

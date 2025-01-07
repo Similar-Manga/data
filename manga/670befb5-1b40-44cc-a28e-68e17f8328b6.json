@@ -1,0 +1,139 @@
+{
+ "id": "670befb5-1b40-44cc-a28e-68e17f8328b6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Erimo Misaki–sensei, Please Give Me Your Manuscript"
+  },
+  "altTitles": [
+   {
+    "ja": "襟裳岬先生、原稿を僕にください"
+   },
+   {
+    "ja-ro": "Erimo Misaki–sensei, Genkou o Boku ni Kudasai"
+   },
+   {
+    "ja-ro": "Erimo Misaki–sensei, Genkou wo Boku ni Kudasai"
+   }
+  ],
+  "description": {
+   "en": "A comic artist and an editor. Is their relationship one of mutual trust? Or is it an untrustful existence?\n\nPublished in the Monthly! Spirits April 2021 Issue."
+  },
+  "links": {
+   "al": "130454",
+   "amz": "https://www.amazon.co.jp/dp/B08X4NHS6Z",
+   "bw": "debc6756b2-51c2-4cf6-bbb5-acd570b5cf91",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/155727/A002536225/"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-05T20:16:05+00:00",
+  "updatedAt": "2024-12-05T20:29:26+00:00"
+ },
+ "relationships": [
+  {
+   "id": "819a6155-ab32-4efe-819c-f605ce84c2b2",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 赤井千歳\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/chitose9413)\n- [MangaFolio](https://manga-no.com/@thousandyo/mangafolio)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akai Chitose",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/qivusw5wsn7cx6t",
+    "updatedAt": "2024-12-05T05:08:17+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "819a6155-ab32-4efe-819c-f605ce84c2b2",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 赤井千歳\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/chitose9413)\n- [MangaFolio](https://manga-no.com/@thousandyo/mangafolio)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akai Chitose",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/qivusw5wsn7cx6t",
+    "updatedAt": "2024-12-05T05:08:17+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7356ab9c-48d3-44d1-8601-8b3ab6323a95",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-05T20:16:15+00:00",
+    "description": "",
+    "fileName": "bdfe128d-1ac2-4007-89d3-8dd38e3f4d0b.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-05T20:16:15+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

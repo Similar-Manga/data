@@ -6,20 +6,12 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "dd3b2ae5-ccef-4791-bcf8-c8f2f1305902",
-   "title": {
-    "en": "Machi no Honya no Goshoyama-san"
-   },
-   "contentRating": "safe",
-   "score": 0.31965482
-  },
-  {
    "id": "08fa4925-fa3d-499c-ac5f-07025ac8438a",
    "title": {
     "en": "Sono Unmei wa Uranaenai!"
    },
    "contentRating": "safe",
-   "score": 0.31266382
+   "score": 0.31263646
   },
   {
    "id": "79132cf3-9137-43ab-9522-41277e394f28",
@@ -27,7 +19,7 @@
     "en": "Himote no Gimon ni Kotaeru Hon"
    },
    "contentRating": "safe",
-   "score": 0.31086808,
+   "score": 0.3084143,
    "languages": [
     "es-la"
    ]
@@ -50,7 +42,7 @@
     "en": "Hijiri-san wa Scenario-douri ni Ikanai"
    },
    "contentRating": "safe",
-   "score": 0.3022294,
+   "score": 0.30222607,
    "languages": [
     "vi"
    ]
@@ -61,18 +53,10 @@
     "en": "Tamariba"
    },
    "contentRating": "safe",
-   "score": 0.30142665,
+   "score": 0.30047008,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "c8722371-f988-43f3-b795-2bd75a7ac619",
-   "title": {
-    "en": "Futsuu no Onnanoko ni Modoritai"
-   },
-   "contentRating": "safe",
-   "score": 0.2992121
   },
   {
    "id": "1fc13c46-42b4-44af-964c-6112a58567be",
@@ -80,15 +64,10 @@
     "en": "Hadaka de Koi o Katarunaka"
    },
    "contentRating": "safe",
-   "score": 0.2987216
-  },
-  {
-   "id": "5c6ab575-9884-4de8-b762-921c650ea134",
-   "title": {
-    "en": "Oshi Korosu"
-   },
-   "contentRating": "safe",
-   "score": 0.29463834
+   "score": 0.29869932,
+   "languages": [
+    "zh"
+   ]
   },
   {
    "id": "a010b62b-0ea6-4f7e-b7f3-3bd719a530c0",
@@ -96,15 +75,54 @@
     "en": "Takumashi-san wa Mainichi Saikyou"
    },
    "contentRating": "safe",
-   "score": 0.29446584
+   "score": 0.2944476
   },
   {
-   "id": "5dc5917b-01f7-4f24-baee-17b515c888f9",
+   "id": "5c6ab575-9884-4de8-b762-921c650ea134",
    "title": {
-    "en": "Shimokitazawa Backyard Story"
+    "en": "Oshi Korosu"
+   },
+   "contentRating": "safe",
+   "score": 0.2927331
+  },
+  {
+   "id": "4c111bd9-7039-4db1-9704-db6a5166f278",
+   "title": {
+    "en": "Wagahai no Kare wa Baka de aru"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "97256c94-29ef-4a77-ac73-761728e3032d",
+   "title": {
+    "en": "Menchi Kitte, Koi."
    },
    "contentRating": "safe",
    "score": 0.2851258
+  },
+  {
+   "id": "b3459517-f680-425f-ac22-4950937ee3a1",
+   "title": {
+    "en": "Mukukano: Muku de Mukuchi na Shokunin Kanojo to, Shizuka de Nigiyakana Futarigurashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
+  },
+  {
+   "id": "dc06f388-f2aa-4df7-96c7-82c271464e94",
+   "title": {
+    "en": "Mozuku, Walking!"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "7bba4ac3-5d5c-4456-97d1-104abaa960a7",
@@ -118,39 +136,6 @@
    ]
   },
   {
-   "id": "97256c94-29ef-4a77-ac73-761728e3032d",
-   "title": {
-    "en": "Menchi Kitte, Koi."
-   },
-   "contentRating": "safe",
-   "score": 0.2851258
-  },
-  {
-   "id": "fbe1d7d2-f4b5-415a-9cb7-b4e9c819e8b8",
-   "title": {
-    "en": "Kyou mo Veranda de"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "vi",
-    "en",
-    "ru",
-    "uk",
-    "fr",
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "b9fdf429-5cca-46d8-9022-7d84be8947ef",
-   "title": {
-    "en": "Otakon no Susume!"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258
-  },
-  {
    "id": "b72aaa4b-ad74-40cf-889b-9cf0a9bed5f0",
    "title": {
     "en": "The Picky Eater Wants to Fill Her Stomach With Love"
@@ -160,7 +145,26 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b9fdf429-5cca-46d8-9022-7d84be8947ef",
+   "title": {
+    "en": "Otakon no Susume!"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "672a9834-15a0-466f-85db-d8309bd0a85c",
+   "title": {
+    "en": "Amael-san mo Amaetai"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
   }
  ],
- "updatedAt": "2024-12-01T22:01:10+00:00"
+ "updatedAt": "2025-01-06T01:18:15+00:00"
 }

@@ -3,28 +3,27 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Jun and Kaoru (Webcomic)"
+   "en": "Jun and Kaoru (Pre-Serialization)"
   },
   "altTitles": [
    {
-    "ja": "純とかおる (Pre-Serialization)"
+    "ja": "純とかおる"
    },
    {
-    "ja-ro": "Jun to Kaoru (Pre-Serialization)"
-   },
-   {
-    "en": "Jun and Kaoru (Pre-Serialization)"
+    "ja-ro": "Jun to Kaoru"
    }
   ],
   "description": {
-   "en": "Jun and Kaoru are childhood friends with a secret everyone knows about… New series from the author of [Kanojo wa Rokurokubi](https://mangadex.com/manga/15728/kanojo-wa-rokurokubi). Released in rough drafts via [Pixiv](http://www.pixiv.net/member.php?id=4007677), now serialized in Bessatsu Shounen Magazine.  \n  \nEdit: Although the series got serialised he is still sharing his drafts once in a while and currently (June '19) only one out of 6 has been scanlated. This series is not completed in japanese nor here."
+   "en": "Jun and Kaoru are childhood friends with a secret everyone knows about…"
   },
   "links": {
    "al": "101236",
-   "raw": "https://www.pixiv.net/member_illust.php?id=4007677"
+   "raw": "https://www.pixiv.net/user/4007677/series/37114"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastChapter": "6",
+  "status": "completed",
+  "year": 2018,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -105,17 +104,19 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2019-03-19T05:23:10+00:00",
-  "updatedAt": "2024-05-09T03:39:29+00:00"
+  "updatedAt": "2024-12-04T09:51:19+00:00"
  },
  "relationships": [
   {
    "id": "e635b661-9523-4c69-9c25-43fa6656d15f",
    "type": "author",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Name In Native Language:** 二駅ずい\n\n**Additional Sites:**\n- [Sub X](https://x.com/mueki_z)"
+    },
+    "booth": "https://nieki459459459.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
@@ -125,13 +126,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": "http://www.pixiv.net/member.php?id=4007677",
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/users/4007677",
+    "skeb": "https://skeb.jp/@nieki_z",
     "tumblr": null,
     "twitter": "https://twitter.com/nieki_z",
-    "updatedAt": "2022-03-19T15:39:20+00:00",
-    "version": 2,
-    "website": "https://www.nieki.net/",
+    "updatedAt": "2024-12-04T09:46:09+00:00",
+    "version": 3,
+    "website": "https://9306257794.amebaownd.com/",
     "weibo": null,
     "youtube": null
    }
@@ -140,8 +141,10 @@
    "id": "e635b661-9523-4c69-9c25-43fa6656d15f",
    "type": "artist",
    "attributes": {
-    "biography": {},
-    "booth": null,
+    "biography": {
+     "en": "**Name In Native Language:** 二駅ずい\n\n**Additional Sites:**\n- [Sub X](https://x.com/mueki_z)"
+    },
+    "booth": "https://nieki459459459.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
@@ -151,13 +154,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": "http://www.pixiv.net/member.php?id=4007677",
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/users/4007677",
+    "skeb": "https://skeb.jp/@nieki_z",
     "tumblr": null,
     "twitter": "https://twitter.com/nieki_z",
-    "updatedAt": "2022-03-19T15:39:20+00:00",
-    "version": 2,
-    "website": "https://www.nieki.net/",
+    "updatedAt": "2024-12-04T09:46:09+00:00",
+    "version": 3,
+    "website": "https://9306257794.amebaownd.com/",
     "weibo": null,
     "youtube": null
    }

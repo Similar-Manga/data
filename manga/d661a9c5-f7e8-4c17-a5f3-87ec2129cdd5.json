@@ -1,0 +1,159 @@
+{
+ "id": "d661a9c5-f7e8-4c17-a5f3-87ec2129cdd5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Me Being Searched at the Airport Security Check"
+  },
+  "altTitles": [
+   {
+    "ja": "空港の手荷物検査で調べられちゃうボク"
+   },
+   {
+    "ja-ro": "Kuukou no Tenimotsu Kensa de Shiraberarechau Boku"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/unpocooo/status/1786682226492772745/"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "pt-br",
+   "en"
+  ],
+  "latestUploadedChapter": "56fc2fd9-c531-4bc1-92b8-2185fac84ed6",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-06T14:57:56+00:00",
+  "updatedAt": "2024-12-07T06:13:22+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2c5caaa3-a151-4f6d-b6ad-648ef148f651",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Native name: ウンポーコ\n\nAssociated names:\nPocoration (Unpoco)\nUnpooko\nポーコレーション (ウンポーコ)\n\nCircle: Pocoration"
+    },
+    "booth": null,
+    "createdAt": "2021-09-02T02:38:32+00:00",
+    "fanBox": "https://unpocooo.fanbox.cc/",
+    "fantia": "https://fantia.jp/unpocooo",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Unpoco",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/3312251",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/unpocooo",
+    "updatedAt": "2025-01-04T13:44:26+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2c5caaa3-a151-4f6d-b6ad-648ef148f651",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Native name: ウンポーコ\n\nAssociated names:\nPocoration (Unpoco)\nUnpooko\nポーコレーション (ウンポーコ)\n\nCircle: Pocoration"
+    },
+    "booth": null,
+    "createdAt": "2021-09-02T02:38:32+00:00",
+    "fanBox": "https://unpocooo.fanbox.cc/",
+    "fantia": "https://fantia.jp/unpocooo",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Unpoco",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/3312251",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/unpocooo",
+    "updatedAt": "2025-01-04T13:44:26+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a832495f-a6fd-4daa-a75f-c95e6de97619",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-06T14:58:00+00:00",
+    "description": "",
+    "fileName": "5edeee72-9523-4d51-9708-ce64630fce43.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-06T14:58:00+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "02c385d5-beac-4ee4-9383-20b55d7d8a50",
+   "type": "creator"
+  }
+ ]
+}

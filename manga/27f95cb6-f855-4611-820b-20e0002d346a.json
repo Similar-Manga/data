@@ -7,14 +7,14 @@
   },
   "altTitles": [
    {
-    "en": "Yume Yume Okirukoto Nakare"
+    "ja-ro": "Yume Yume Okirukoto Nakare"
    },
    {
-    "en": "ゆめゆめ起きることなかれ"
+    "ja": "ゆめゆめ起きることなかれ"
    }
   ],
   "description": {
-   "en": "Included in the Motto Musunde, Hiraite Hayaku tankoubon release."
+   "en": "Included in the [Motto Musunde, Hiraite Hayaku](https://mangadex.org/title/7bd9e0ae-194a-49ba-9b09-a216d7efd30b/motto-musunde-hiraite-hayaku) tankoubon release."
   },
   "links": {
    "al": "99522",
@@ -24,6 +24,7 @@
   "originalLanguage": "ja",
   "lastChapter": "2",
   "status": "completed",
+  "year": 2016,
   "contentRating": "erotica",
   "availableTranslatedLanguages": [
    "en"
@@ -43,6 +44,18 @@
     }
    },
    {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -56,16 +69,18 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 4,
   "createdAt": "2019-01-21T14:36:10+00:00",
-  "updatedAt": "2019-01-21T14:36:10+00:00"
+  "updatedAt": "2024-12-22T09:39:06+00:00"
  },
  "relationships": [
   {
    "id": "6e7dd620-b4e2-4433-845c-fd0f6f7d9419",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nなりた晴ノ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -76,12 +91,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=1164322",
     "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "tumblr": "http://nariharu.tumblr.com/",
+    "twitter": "https://twitter.com/nary_33",
+    "updatedAt": "2024-12-20T17:43:42+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -91,7 +106,9 @@
    "id": "6e7dd620-b4e2-4433-845c-fd0f6f7d9419",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\nなりた晴ノ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -102,12 +119,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=1164322",
     "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "tumblr": "http://nariharu.tumblr.com/",
+    "twitter": "https://twitter.com/nary_33",
+    "updatedAt": "2024-12-20T17:43:42+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -121,9 +138,9 @@
     "description": "",
     "fileName": "edcb4e15-6a68-43a0-8442-df95b0a8b50e.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:58:36+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-12-20T17:51:02+00:00",
+    "version": 2,
+    "volume": "1"
    }
   },
   {

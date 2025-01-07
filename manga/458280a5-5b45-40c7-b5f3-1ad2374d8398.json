@@ -8,20 +8,28 @@
   "altTitles": [
    {
     "ja": "たあいないのうりょく"
-   },
-   {
-    "ja-ro": "Taaiinai Nouryoku"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "あなたの超～たあいない～能力は！？相手のお腹を空かせる、ハンコが綺麗に押せる、紙を均等に折れる・・・誰もがちょっと特別な才能「異能」を持つ世界のワーキングコメディ！"
+  },
   "links": {
-   "mu": "js1ac3q"
+   "amz": "https://www.amazon.co.jp/dp/B0DQ7X3HLV",
+   "ap": "taainai-nouryoku",
+   "bw": "series/504182",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/869535",
+   "mu": "js1ac3q",
+   "raw": "https://storia.takeshobo.co.jp/manga/taainainouryoku"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "josei",
   "status": "ongoing",
   "year": 2023,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "id"
+  ],
+  "latestUploadedChapter": "d15e361c-ffd0-4d1f-8865-e22bdd301877",
   "tags": [
    {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
@@ -46,12 +54,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2023-10-29T23:48:03+00:00",
-  "updatedAt": "2023-10-29T23:54:28+00:00"
+  "updatedAt": "2024-12-19T16:58:05+00:00"
  },
  "relationships": [
   {
@@ -111,17 +131,22 @@
    }
   },
   {
-   "id": "7e3bb5f3-0788-4bdd-bd25-969bc08666e1",
+   "id": "55efbd97-c425-4c8a-b2ea-158920cab994",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-10-29T23:48:04+00:00",
-    "description": "",
-    "fileName": "fbff1120-cf7d-4d60-af5e-df0f8895f155.jpg",
+    "createdAt": "2024-12-19T16:58:03+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "6763958a-1383-45b8-a48a-faae17914d01.jpg",
     "locale": "ja",
-    "updatedAt": "2023-10-29T23:48:04+00:00",
+    "updatedAt": "2024-12-19T16:58:03+00:00",
     "version": 1,
-    "volume": "0"
+    "volume": "1"
    }
+  },
+  {
+   "id": "6c0dee9e-12a5-4000-9833-f2912c6b6d18",
+   "type": "manga",
+   "related": "shared_universe"
   },
   {
    "id": "132c7600-c1bd-4263-bcaf-c0e0c1a644ab",

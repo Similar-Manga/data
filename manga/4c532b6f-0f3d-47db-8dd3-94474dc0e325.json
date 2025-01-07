@@ -10,12 +10,22 @@
     "ko": "아마도 무적불패"
    },
    {
-    "es-la": "¿Probablemente...? Invencible"
+    "es-la": "Probablemente... invencible?"
+   },
+   {
+    "pt-br": "Talvez...? Invencível?"
    }
   ],
   "description": {
    "en": "Yu Hyeol, a third-rate warrior infamously nicknamed *“The Star of the Dark Arts”* due to his menacing appearance, lived a life plagued by false rumors and endless misunderstandings. One day, Seolhwa—the woman he once vowed his future to—reappears before him, no longer the gentle figure he remembered but a formidable master of martial arts.  \n\nFrom that moment, his name becomes entangled with the lives of countless warriors, spiraling his already infamous reputation. As his so-called “notoriety” spreads, the Murim Alliance, the Demon Cult, and even the royal court take notice of him.  \n\n*\"No, really… it’s all just a big misunderstanding!\"*  \n\nBut can he convince the world otherwise? Or will he unintentionally become the legend he never aimed to be?",
-   "es-la": "Yoo Hyeol, un guerrero de tercera categoría apodado infamemente “La Estrella de las Artes Oscuras” debido a su apariencia amenazante, vivió una vida plagada de falsos rumores y malentendidos sin fin. Un día, Seolhwa, la mujer a la que una vez le prometió su futuro, reaparece ante él, ya no es la figura gentil que recordaba, sino una formidable maestra de las artes marciales. A partir de ese momento, su nombre se enreda con las vidas de innumerables guerreros, lo que hace que su ya infame reputación se vuelva cada vez más complicada. A medida que su supuesta “notoriedad” se extiende, la Alianza Murim, el Culto del Demonio e incluso la corte real se fijan en él. \"No, en serio... ¡todo es solo un gran malentendido!\" Pero, ¿podrá convencer al mundo de lo contrario? ¿O se convertirá involuntariamente en la leyenda que nunca quiso ser?"
+   "es-la": "Yoo Hyeol, un guerrero de tercera categoría apodado infamemente “La Estrella de las Artes Oscuras” debido a su apariencia amenazante, vivió una vida plagada de falsos rumores y malentendidos sin fin. Un día, Seolhwa, la mujer a la que una vez le prometió su futuro, reaparece ante él, ya no es la figura gentil que recordaba, sino una formidable maestra de las artes marciales. A partir de ese momento, su nombre se enreda con las vidas de innumerables guerreros, lo que hace que su ya infame reputación se vuelva cada vez más complicada. A medida que su supuesta “notoriedad” se extiende, la Alianza Murim, el Culto del Demonio e incluso la corte real se fijan en él. \"No, en serio... ¡todo es solo un gran malentendido!\" Pero, ¿podrá convencer al mundo de lo contrario? ¿O se convertirá involuntariamente en la leyenda que nunca quiso ser?",
+   "pt-br": "Yoo Hyeol, um guerreiro de terceira categoria infamemente apelidado de “A Estrela das Artes Sombrias” devido à sua aparência intimidadora, viveu uma vida atormentada por falsos rumores e constantes mal-entendidos. Um dia, Seolhwa — a mulher a quem ele uma vez prometeu seu futuro — reaparece diante dele, já não sendo a figura gentil que ele lembrava, mas uma formidável mestre em artes marciais.\n\nA partir desse momento, o nome de Yoo Hyeol se entrelaça com as vidas de incontáveis guerreiros, ampliando ainda mais sua já notória reputação. À medida que sua “fama” se espalha, até mesmo a Aliança Murim, o Culto Demoníaco e a corte real começam a prestar atenção nele.\n\n“Não, sério… tudo isso é só um grande mal-entendido!”\n\nMas será que ele conseguirá convencer o mundo do contrário? Ou acabará se tornando, sem querer, a lenda que nunca almejou ser?"
+  },
+  "links": {
+   "ap": "perhaps-invincible",
+   "mal": "176975",
+   "mu": "95qutv7",
+   "raw": "https://comic.naver.com/webtoon/list?titleId=834396"
   },
   "originalLanguage": "ko",
   "status": "ongoing",
@@ -23,20 +33,21 @@
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
+   "pt-br",
    "es-la",
    "id"
   ],
-  "latestUploadedChapter": "8b21591d-aef3-4dab-b2ff-d534806abb61",
+  "latestUploadedChapter": "be5bfacc-fe7f-459d-b9d4-b065b509fab5",
   "tags": [
    {
-    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Official Colored"
+      "en": "Action"
      },
      "description": {},
-     "group": "format",
+     "group": "genre",
      "version": 1
     }
    },
@@ -77,6 +88,18 @@
     }
    },
    {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
     "type": "tag",
     "attributes": {
@@ -113,11 +136,11 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Web Comic"
+      "en": "Full Color"
      },
      "description": {},
      "group": "format",
@@ -126,9 +149,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2024-11-23T14:55:15+00:00",
-  "updatedAt": "2024-11-29T23:59:21+00:00"
+  "updatedAt": "2024-12-17T12:24:33+00:00"
  },
  "relationships": [
   {

@@ -107,11 +107,15 @@
    },
    {
     "th": "มหาเวทย์ผนึกมาร"
+   },
+   {
+    "bg": "Магическа Битка"
    }
   ],
   "description": {
-   "en": "For some strange reason, Yuji Itadori, despite his insane athleticism would rather just hang out with the Occult Club. However, her soon finds out that the occult is as real as it gets when his fellow club members are attacked!\n\nMeanwhile, the mysterious Megumi Fushiguro is tracking down a special-grade cursed object, and his search leads him to Itadori...",
+   "en": "For some strange reason, Yuji Itadori, despite his insane athleticism would rather just hang out with the Occult Club. However, he soon finds out that the occult is as real as it gets when his fellow club members are attacked!\n\nMeanwhile, the mysterious Megumi Fushiguro is tracking down a special-grade cursed object, and his search leads him to Itadori...",
    "fr": "Yuuji est un jeune étudiant qui excelle dans le sport, notamment dans l'athlétisme, mais qui a un immense poil dans la main. Du coup, au lieu de parfaire ses capacités physiques qui pourraient lui permettre de devenir le meilleur de l'établissement, il s'est inscrit au club de recherches occultes du lycée. Son petit train-train va changer du tout au tout lorsqu'un véritable esprit malfaiteur vient menacer son école…\n\n---\n\nMaison d'édition FR : **Ki-oon**",
+   "ja": "類稀な身体能力を持つ高校生・虎杖悠仁（いたどりゆうじ）は、病床に伏せる祖父の見舞いを日課にしていた。だがある日学校に眠る「呪物」の封印が解かれ、化物が現れてしまう。取り残された先輩を救う為、校舎へ乗り込む虎杖だが!?",
    "pt-br": "Itadori Yuuji, um estudante do colegial com uma capacidade física única, tem como rotina visitar seu avô que está hospitalizado. Porém, um dia, o selo de um \"objeto amaldiçoado\" escondido em sua escola é rompido, fazendo surgir criaturas assustadoras. Para salvar seus colegas ele parte em direção ao colégio, quando algo inesperado acontece...!",
    "ru": "Юдзи гений на поле! Вот только школьная активность его мало чем привлекает. Став частью клуба оккультных исследований он решает зажить тихой жизнью, но все меняется, когда в школе объявляются духи.",
    "tr": "Yuuji bir atletizm dehasıdır ama koşuya hiç ilgisi yoktur. Bilinmezleri Araştırma Kulübünde çok mutludur. Her ne kadar kulüpte eğlencesine bulunsa bile, okulda gerçek bir ruh ortaya çıkınca işler ciddiye biner! Hayat, Sugisawa Şehrindeki 3 Numaralı Lisedeki çocuklar için tuhaflaşmaya başlamak üzere!",
@@ -121,7 +125,7 @@
    "al": "101517",
    "amz": "https://www.amazon.co.jp/dp/B07H3TPZR9",
    "ap": "jujutsu-kaisen",
-   "bw": "series/163351",
+   "bw": "series/163351/list",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2655626",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/464912",
    "engtl": "https://mangaplus.shueisha.co.jp/titles/100034",
@@ -160,9 +164,10 @@
    "pt",
    "mn",
    "ms",
-   "tr"
+   "tr",
+   "bg"
   ],
-  "latestUploadedChapter": "4ecfec87-6a32-4b5e-a47c-363016845b47",
+  "latestUploadedChapter": "680a448b-9e3b-40c8-92c5-86ada38fea4c",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -310,9 +315,9 @@
    }
   ],
   "state": "published",
-  "version": 87,
+  "version": 92,
   "createdAt": "2019-06-17T23:08:00+00:00",
-  "updatedAt": "2024-11-17T16:46:11+00:00"
+  "updatedAt": "2024-12-31T09:12:56+00:00"
  },
  "relationships": [
   {
@@ -372,15 +377,15 @@
    }
   },
   {
-   "id": "025f2769-b885-4166-ac18-3bb76682be0d",
+   "id": "bb93bec9-3791-4fe5-b258-afcc553ad2b4",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-17T16:46:10+00:00",
-    "description": "Twitter (replace it asap)",
-    "fileName": "30359c3a-f612-43ea-866e-e8c46e9659a8.jpg",
+    "createdAt": "2024-12-31T09:32:34+00:00",
+    "description": "",
+    "fileName": "7dc752c3-8c90-468e-8c75-6903e38d7c7f.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-17T16:54:28+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-31T09:32:34+00:00",
+    "version": 1,
     "volume": "30"
    }
   },
@@ -751,6 +756,11 @@
   },
   {
    "id": "d60fceda-e3c8-4194-b214-a0d790769652",
+   "type": "manga",
+   "related": "doujinshi"
+  },
+  {
+   "id": "d9ef31b4-8076-4f76-959a-0413b1f31654",
    "type": "manga",
    "related": "doujinshi"
   },

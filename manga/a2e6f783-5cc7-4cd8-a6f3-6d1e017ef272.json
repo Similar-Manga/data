@@ -17,7 +17,11 @@
    "en": "A special oneshot which serves as a sequel to the original Hameln no Violin Hiki manga series and as a prequel to the new series Hameln no Violin Hiki - Shchelkunchik."
   },
   "links": {
-   "mu": "38661"
+   "ap": "violinist-of-hameln-gaiden-sorekara",
+   "kt": "hameln-no-violin-hiki-gaiden-sorekara",
+   "mal": "13296",
+   "mu": "38661",
+   "raw": "https://michiaki.publications.jp/products/detail.php?product_id=2178"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
@@ -68,9 +72,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2022-04-23T22:43:03+00:00",
-  "updatedAt": "2022-04-23T22:43:33+00:00"
+  "updatedAt": "2025-01-04T23:16:43+00:00"
  },
  "relationships": [
   {
@@ -92,9 +96,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2025-01-03T19:28:52+00:00",
+    "version": 2,
+    "website": "https://michiaki.publications.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -118,9 +122,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2025-01-03T19:28:52+00:00",
+    "version": 2,
+    "website": "https://michiaki.publications.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -133,9 +137,9 @@
     "description": "",
     "fileName": "2534ac08-ef40-4acb-8a42-5a83c2521134.gif",
     "locale": "ja",
-    "updatedAt": "2022-04-23T22:43:05+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2025-01-04T23:15:16+00:00",
+    "version": 2,
+    "volume": "0"
    }
   },
   {
@@ -144,9 +148,14 @@
    "related": "sequel"
   },
   {
-   "id": "da5fee10-bac0-4313-a39c-875e1b824ad1",
+   "id": "a9a4005d-680f-41e5-9d8b-d5e77e8e4eb4",
    "type": "manga",
    "related": "prequel"
+  },
+  {
+   "id": "da5fee10-bac0-4313-a39c-875e1b824ad1",
+   "type": "manga",
+   "related": "shared_universe"
   },
   {
    "id": "c55f8354-ec7c-4543-afaf-71a5e7088124",

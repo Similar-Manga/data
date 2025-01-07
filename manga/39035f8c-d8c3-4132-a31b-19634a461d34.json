@@ -3,17 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I Really Want To Live Here."
+   "en": "Koko ni Sumitai"
   },
   "altTitles": [
    {
     "ja": "ここに住みたい"
    },
    {
-    "pt-br": "Eu Quero Viver Aqui"
+    "en": "I Really Want To Live Here."
    },
    {
     "fr": "J’ai vraiment envie de vivre ici."
+   },
+   {
+    "pt-br": "Eu Quero Viver Aqui"
    }
   ],
   "description": {
@@ -84,59 +87,63 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2022-07-02T18:13:36+00:00",
-  "updatedAt": "2022-12-22T22:18:50+00:00"
+  "updatedAt": "2024-12-26T15:44:52+00:00"
  },
  "relationships": [
   {
-   "id": "7152c227-c22b-48c5-aa95-d660ae5aaa0c",
+   "id": "40cb7591-95e0-4dab-be0f-b66c31bd1670",
    "type": "author",
    "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2022-07-02T18:03:49+00:00",
-    "fanBox": null,
+    "biography": {
+     "en": "**Native name**: 40原\n\n**Alt. names**:\n40hara\n\n**Circle/s**:\nAnimal Machine (アニマルマシーン)\n\n**Additional Links**:\n[Alt Twitter](https://twitter.com/iyapan40)\n[Patreon](https://www.patreon.com/40hara)"
+    },
+    "booth": "https://40hara.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://hfbw3ube.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
-    "name": "40 Hara",
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=25088",
+    "name": "Shimahara",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/554102",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-07-02T18:03:49+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/40hara",
+    "updatedAt": "2024-12-26T15:52:08+00:00",
+    "version": 4,
+    "website": "http://animachine.main.jp/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "7152c227-c22b-48c5-aa95-d660ae5aaa0c",
+   "id": "40cb7591-95e0-4dab-be0f-b66c31bd1670",
    "type": "artist",
    "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2022-07-02T18:03:49+00:00",
-    "fanBox": null,
+    "biography": {
+     "en": "**Native name**: 40原\n\n**Alt. names**:\n40hara\n\n**Circle/s**:\nAnimal Machine (アニマルマシーン)\n\n**Additional Links**:\n[Alt Twitter](https://twitter.com/iyapan40)\n[Patreon](https://www.patreon.com/40hara)"
+    },
+    "booth": "https://40hara.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://hfbw3ube.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
-    "name": "40 Hara",
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=25088",
+    "name": "Shimahara",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/554102",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-07-02T18:03:49+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/40hara",
+    "updatedAt": "2024-12-26T15:52:08+00:00",
+    "version": 4,
+    "website": "http://animachine.main.jp/",
     "weibo": null,
     "youtube": null
    }

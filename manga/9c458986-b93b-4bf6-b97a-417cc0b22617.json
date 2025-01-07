@@ -1,0 +1,160 @@
+{
+ "id": "9c458986-b93b-4bf6-b97a-417cc0b22617",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sekai wo Teki ni Mawashitemo Neko wo Aishiteru"
+  },
+  "altTitles": [
+   {
+    "ja": "世界を敵に回してもねこを愛してる"
+   },
+   {
+    "en": "I'll Always Love Cats, Even if it Turns the World Against Me"
+   }
+  ],
+  "description": {
+   "en": "A comic essay about the author's love for cats and her daily life with her 3 cats."
+  },
+  "links": {
+   "mal": "177156",
+   "mu": "4sbwhc5",
+   "raw": "https://bookwalker.jp/de74d78951-78c3-483b-9f40-857fc01d4b45/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "publicationDemographic": "josei",
+  "status": "completed",
+  "year": 2020,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "7f27f0ac-7689-4e3a-92da-842e7c0cfe83",
+  "tags": [
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-17T13:18:22+00:00",
+  "updatedAt": "2024-12-17T23:16:37+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3dcaf006-e936-4dff-9e25-5c6c6cf516df",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://sekaneko13.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sekaneko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/6255004",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sekaneko13",
+    "updatedAt": "2023-06-20T14:06:07+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3dcaf006-e936-4dff-9e25-5c6c6cf516df",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://sekaneko13.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sekaneko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/6255004",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/sekaneko13",
+    "updatedAt": "2023-06-20T14:06:07+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f389d095-bde3-4faf-9d48-32d4fe712e72",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-17T13:18:25+00:00",
+    "description": "",
+    "fileName": "fa2d6799-69c5-4643-87f7-8b9f58b76e86.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-17T13:18:25+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c318ee15-380b-4fb8-a849-48ee3194ec4e",
+   "type": "creator"
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "id": "87b831d9-5849-490f-a31e-777989f025ef",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Black Jack Girl"
+  },
+  "altTitles": [
+   {
+    "ja": "ブラック・ジャック ガール"
+   }
+  ],
+  "description": {
+   "ja": "もし、ブラック・ジャックがただの弱い少女だったら…。傷ついた人を前に、彼はどうするのだろう――？\n\nブラック・ジャックが女子中学生に!?ピノコが男の子に!?キリコが中二病高校生に!?\nあべこべ世界で不条理な現実に立ち向かう小さな体のB・Jキャラクター達。\n七野ワビせんの改名後初単行本は、本家とは違った心温まるストーリー。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0899GG29B",
+   "ap": "black-jack-girl",
+   "bw": "series/249999",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2484717",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/591203/",
+   "mal": "130616",
+   "mu": "ojglfls",
+   "raw": "https://tezucomi.net/comics/c_17.html"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2020,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-08T22:02:25+00:00",
+  "updatedAt": "2024-12-09T01:47:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "c8a34bf4-9e84-436e-8eec-5e2f6102a304",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nanano Wabisen",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c8a34bf4-9e84-436e-8eec-5e2f6102a304",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nanano Wabisen",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "72e928fd-9a30-429b-9aa7-c8769a5c9585",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-08T22:02:35+00:00",
+    "description": "",
+    "fileName": "db6fd254-ebdf-44b1-aedd-213f9c7fdd99.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-08T22:02:35+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "fd86eab2-f0f3-47d3-bce5-5628e97f37dc",
+   "type": "manga",
+   "related": "adapted_from"
+  },
+  {
+   "id": "cf76a880-cc1e-4bba-8634-3e5850528572",
+   "type": "creator"
+  }
+ ]
+}

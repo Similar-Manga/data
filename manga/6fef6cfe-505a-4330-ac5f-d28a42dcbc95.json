@@ -1,0 +1,173 @@
+{
+ "id": "6fef6cfe-505a-4330-ac5f-d28a42dcbc95",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Washi Jijii, Yowai Rokujuu Ni Shite Tenpu No Sai Ni Kizuku"
+  },
+  "altTitles": [
+   {
+    "ja": "わしジジイ 、齢六十にして天賦の才に気付く"
+   }
+  ],
+  "description": {
+   "en": "In a world where special abilities called \"skills\" manifest, sixty-year-old Diru suddenly gains power one day. Unfortunately, it's a combat-focused ability that he struggles to handle now that his physical strength has declined. \"I’m already an old man...,\" he says, but despite his age, he’s filled with determination to make the most of his second chance. With his natural talent for charming people and his slightly overzealous sense of justice and kindness, he embarks on a new life, savoring it to the fullest. A man over sixty begins his second life—a life that's not fast but not too slow, gentle yet intense!"
+  },
+  "links": {
+   "al": "163245",
+   "amz": "https://www.amazon.co.jp/dp/B0C28B8ZMD",
+   "bw": "series/404898",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?q=わしジジイ+、齢六十にして天賦の才に気付く\u0026order=reldesc",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/754441/",
+   "mal": "151201",
+   "mu": "9tll0e6",
+   "raw": "https://comic-walker.com/detail/KC_003853_S"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2022,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "5bcd11af-f9d9-41c8-b56d-5126f3173ac5",
+  "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 7,
+  "createdAt": "2025-01-03T03:17:46+00:00",
+  "updatedAt": "2025-01-04T05:41:53+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7fa6b0d1-7c3a-4c30-9679-228464463d85",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-03T03:23:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yutaka Kitago",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-03T03:23:53+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8237d9fb-c253-4ab0-83e7-7cb0c1e1e5d1",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-03T03:23:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshitake",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-03T03:23:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "41813eb0-8ee3-4343-8214-51fd2b58b254",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-04T05:41:50+00:00",
+    "description": "Volume Cover From BookLive",
+    "fileName": "a0c1fa47-62d5-4562-bc55-f945f14d5a2f.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-04T05:41:50+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "31587917-e2a3-498e-b470-af5b07157bd3",
+   "type": "creator"
+  }
+ ]
+}

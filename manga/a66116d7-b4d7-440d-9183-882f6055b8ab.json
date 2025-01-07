@@ -42,7 +42,7 @@
    "en",
    "id"
   ],
-  "latestUploadedChapter": "043faa11-766e-48da-9c02-c8d7a7746017",
+  "latestUploadedChapter": "fdfdc919-22e1-49af-85da-18a7c06a482f",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -77,6 +77,18 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -118,9 +130,9 @@
    }
   ],
   "state": "published",
-  "version": 16,
+  "version": 17,
   "createdAt": "2022-07-31T14:20:30+00:00",
-  "updatedAt": "2024-11-21T11:56:28+00:00"
+  "updatedAt": "2024-12-02T04:46:04+00:00"
  },
  "relationships": [
   {
@@ -178,16 +190,16 @@
    }
   },
   {
-   "id": "f090ccb5-23af-441a-b578-32741f2d3b8a",
+   "id": "85ee2e73-500f-4c1d-b6af-8c8cde7b7a0c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-02T14:36:24+00:00",
+    "createdAt": "2024-12-20T18:11:21+00:00",
     "description": "",
-    "fileName": "62aa7032-c685-4ebf-a905-ae048347a0e5.jpg",
+    "fileName": "3e7d54cc-9695-4ef5-80d7-9c82128675fa.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-02T14:36:24+00:00",
+    "updatedAt": "2024-12-20T18:11:21+00:00",
     "version": 1,
-    "volume": "3"
+    "volume": "4"
    }
   },
   {

@@ -3,22 +3,33 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Blessed Battleship Hausgeist"
+   "en": "Auspicious Battleship Hausgeist"
   },
   "altTitles": [
    {
     "ja": "僥倖戦艦ハオスガイスト"
+   },
+   {
+    "ja-ro": "Gyoukou Senkan Hausgeist"
+   },
+   {
+    "en": "Lucky Battleship Hausgeist"
+   },
+   {
+    "en": "Blessed Battleship Hausgeist"
    }
   ],
   "description": {
-   "en": "Zashiki-warashi... in SPAAAACE!!!\r\nHausgeist = \"House Spirit\" = German translation for \"Zashiki-warashi\". (They also have their own house spirits)"
+   "en": "Zashiki-warashi in SPAAAACE!!!\n\nNote: “hausgeist” is the German word for “house spirit”."
   },
   "links": {
    "mu": "185039",
    "raw": "https://twitter.com/isiyumi/status/1383382899823505408"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastChapter": "2",
+  "status": "completed",
+  "year": 2021,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -87,9 +98,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 9,
   "createdAt": "2021-10-31T16:09:51+00:00",
-  "updatedAt": "2022-08-13T23:41:33+00:00"
+  "updatedAt": "2024-12-28T08:51:03+00:00"
  },
  "relationships": [
   {
@@ -97,7 +108,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -113,8 +124,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -125,7 +136,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -141,25 +152,30 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "49826b93-52b9-4ff1-8033-4305bd28fa04",
+   "id": "366a1ae6-6578-4fa7-bf63-4ca8048b1b0f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-10-31T16:09:55+00:00",
+    "createdAt": "2024-12-28T01:37:13+00:00",
     "description": "",
-    "fileName": "a14937ef-b623-4c51-819b-bd04511265d3.png",
+    "fileName": "cca0d27a-5365-4623-b3d2-f2c08be4fc3a.jpg",
     "locale": "ja",
-    "updatedAt": "2021-10-31T16:09:55+00:00",
+    "updatedAt": "2024-12-28T01:37:13+00:00",
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "5418be97-515b-492b-8827-ec0590747ba9",
+   "type": "manga",
+   "related": "alternate_version"
   },
   {
    "id": "4e4f1cff-887b-474a-bb2b-d0a9ae50171b",

@@ -1,0 +1,110 @@
+{
+ "id": "5ccf5e6c-cb87-428b-9323-42efda48634f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mitsusou"
+  },
+  "altTitles": [
+   {
+    "ja": "蜜葬～mitsusou～"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/464169/list"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-04T07:35:02+00:00",
+  "updatedAt": "2025-01-04T07:35:18+00:00"
+ },
+ "relationships": [
+  {
+   "id": "cc3c5f40-aa6f-4d04-8506-69178a72b4ec",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sakabe Shuuichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cc3c5f40-aa6f-4d04-8506-69178a72b4ec",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sakabe Shuuichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "917d926f-ae19-4525-8ebf-0efcda11c155",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-04T07:35:13+00:00",
+    "description": "",
+    "fileName": "2875af11-c672-4791-a3c5-ce57c4609ba1.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-04T07:35:13+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

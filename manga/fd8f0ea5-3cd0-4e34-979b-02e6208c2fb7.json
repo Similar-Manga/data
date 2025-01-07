@@ -5,6 +5,11 @@
   "title": {
    "en": "Mighty Jack"
   },
+  "altTitles": [
+   {
+    "ja": "マイティジャック"
+   }
+  ],
   "description": {
    "en": "Comment from Hideaki Anno (Special Effects Fan)\nFull of charm Mighty Jack\nAt the time of its original broadcast, the 1-hour special effects program that started at 8:00 a.m. was a huge shock to elementary school students who were 8 years old.\nThe allure of a versatile battleship built with the best of modern science.\nThe visual appeal of groundbreaking mechanical design and beauty of form.\nAn attractive worldview with an adult feel.\nI am very grateful that I was able to discover this program."
   },
@@ -41,9 +46,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2023-10-17T04:36:20+00:00",
-  "updatedAt": "2023-10-17T04:41:12+00:00"
+  "updatedAt": "2024-12-11T06:32:36+00:00"
  },
  "relationships": [
   {
@@ -117,6 +122,21 @@
    "related": "alternate_story"
   },
   {
+   "id": "3898c82e-a273-4f96-82a2-e41894d2afaf",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "40dc9382-f1da-46c4-b62a-818ce62e346d",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "76bb0b09-dd96-42b3-9ac9-770fd8340cba",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
    "id": "77302d8a-0e3a-425d-9fc9-a4bf15e0a8ea",
    "type": "manga",
    "related": "alternate_story"
@@ -127,7 +147,17 @@
    "related": "sequel"
   },
   {
+   "id": "b5615eef-2aef-4309-97af-48b016b669bc",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
    "id": "cc553372-c1a4-46d1-a9a2-6d51c460424a",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "ece2b0f1-44ee-4067-a273-e6bfab652585",
    "type": "manga",
    "related": "alternate_story"
   },

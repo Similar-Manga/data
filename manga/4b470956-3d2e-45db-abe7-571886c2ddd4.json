@@ -29,6 +29,30 @@
   "contentRating": "safe",
   "tags": [
    {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Philosophical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -51,26 +75,38 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-09-07T12:49:14+00:00",
-  "updatedAt": "2024-09-09T14:15:06+00:00"
+  "updatedAt": "2024-12-07T11:51:56+00:00"
  },
  "relationships": [
   {
-   "id": "14ba8cfe-1fe9-43cf-a9f2-172654487e2c",
+   "id": "36acfa53-446c-4a8c-973b-a3c400454bcd",
    "type": "author",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2023-01-25T17:45:41+00:00",
+    "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Fumino Nagi",
+    "name": "Fuminonagi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -78,7 +114,7 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2023-01-25T17:45:41+00:00",
+    "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -86,17 +122,17 @@
    }
   },
   {
-   "id": "14ba8cfe-1fe9-43cf-a9f2-172654487e2c",
+   "id": "36acfa53-446c-4a8c-973b-a3c400454bcd",
    "type": "artist",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2023-01-25T17:45:41+00:00",
+    "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Fumino Nagi",
+    "name": "Fuminonagi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -104,7 +140,7 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2023-01-25T17:45:41+00:00",
+    "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
     "website": null,
     "weibo": null,

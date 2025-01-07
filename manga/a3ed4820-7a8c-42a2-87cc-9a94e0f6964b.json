@@ -10,11 +10,15 @@
     "ja": "戦花"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "魔法使いに誰でもなれるようになった現代。高校生の茜花は、妹の晴花と共に魔法使いであること隠して生きていた。しかし、小さなきっかけから、その秘密を政府に知られてしまい・・・・？\n\n「他の全てを捨ててでも――　妹を必ず守り抜く。」"
+  },
   "links": {
    "al": "153048",
    "amz": "https://www.amazon.co.jp/dp/B0BQYXGBL1",
-   "bw": "series/389877/list",
+   "ap": "senka",
+   "bw": "series/389877",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/733801",
    "mal": "149540",
    "mu": "suetc2b",
    "raw": "https://yanmaga.jp/comics/戦花"
@@ -40,6 +44,18 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -53,9 +69,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2024-04-22T21:46:31+00:00",
-  "updatedAt": "2024-11-08T21:46:36+00:00"
+  "updatedAt": "2024-12-04T23:18:44+00:00"
  },
  "relationships": [
   {

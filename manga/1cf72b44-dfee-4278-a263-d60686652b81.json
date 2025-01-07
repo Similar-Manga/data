@@ -3,10 +3,18 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kaya-chan wa Kowakunai Extras"
+   "en": "Kaya-chan Isn’t Scary - Twitter Extras"
   },
+  "altTitles": [
+   {
+    "ja": "カヤちゃんはコワくない"
+   },
+   {
+    "ja-ro": "Kaya-chan wa Kowakunai Extras"
+   }
+  ],
   "description": {
-   "en": "This is an assortment of extra content of \"Kaya-chan wa Kowakunai\" posted by the author on her Twitter account. This includes announcement images, shorts, and info pages."
+   "en": "An assortment of extra content posted by the author on her Twitter account. Includes announcement images, shorts, and info pages."
   },
   "links": {
    "raw": "https://twitter.com/yuritaro_0316"
@@ -70,9 +78,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2023-04-20T08:32:28+00:00",
-  "updatedAt": "2023-11-19T13:19:53+00:00"
+  "updatedAt": "2024-12-20T13:03:39+00:00"
  },
  "relationships": [
   {

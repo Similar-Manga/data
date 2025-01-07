@@ -16,13 +16,17 @@
     "zh": "危機四伏的家庭生活"
    },
    {
-    "zh": "달콤한 동거"
+    "ko": "달콤한 동거"
+   },
+   {
+    "fr": "La Coloc de Rêve"
    }
   ],
   "description": {
    "en": "Those girls aren’t family! They’re gold diggers!\nI’m not gonna let them mess with me."
   },
   "links": {
+   "engtl": "https://toomics.com/en/webtoon/episode/toon/5210",
    "mu": "161653"
   },
   "originalLanguage": "ko",
@@ -31,6 +35,18 @@
   "year": 2020,
   "contentRating": "erotica",
   "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -56,11 +72,47 @@
     }
    },
    {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
      "name": {
       "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
      },
      "description": {},
      "group": "genre",
@@ -81,9 +133,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 9,
   "createdAt": "2022-04-25T16:18:16+00:00",
-  "updatedAt": "2023-08-01T10:58:30+00:00"
+  "updatedAt": "2024-12-22T04:44:20+00:00"
  },
  "relationships": [
   {
@@ -136,6 +188,19 @@
     "website": null,
     "weibo": null,
     "youtube": null
+   }
+  },
+  {
+   "id": "8924f1a9-62f2-4fd1-b0a8-5e22a3ec81fa",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-14T17:55:44+00:00",
+    "description": "",
+    "fileName": "e3c9c7aa-246b-4447-a405-f9cb83237260.jpg",
+    "locale": "en",
+    "updatedAt": "2024-12-14T17:55:44+00:00",
+    "version": 1,
+    "volume": "1"
    }
   },
   {

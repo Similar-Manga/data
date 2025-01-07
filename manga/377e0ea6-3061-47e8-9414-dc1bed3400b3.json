@@ -3,25 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Killed Again, Mr. Detective"
+   "en": "Mata Korosarete Shimatta no desu ne, Tantei-sama"
   },
   "altTitles": [
    {
-    "en": "Mata Korosarete Shimatta no desu ne, Tantei-sama"
+    "ja": "また殺されてしまったのですね、探偵様"
    },
    {
-    "ja": "また殺されてしまったのですね、探偵様"
+    "en": "Killed Again, Mr. Detective"
    }
   ],
   "description": {
-   "en": "High school student Sakuya Otsuki, whose father is a legendary detective, works as a half-baked detective alongside his beautiful and talented assistant Lilithea. However, due to Sakuya's \"special constitution\" and a request that comes in one day, they become embroiled in a major incident, and their fates change dramatically."
+   "en": "High school student Sakuya Otsuki, whose father is a legendary detective, works as a half-baked detective alongside his beautiful and talented assistant Lilithea. However, due to Sakuya's \"special constitution\" and a request that comes in one day, they become embroiled in a major incident, and their fates change dramatically.",
+   "ja": "伝説の名探偵を父に持つ高校生・追月朔也は、助手の少女・リリテアと2人で探偵業に勤しんでいた。しかし、朔也に宿る“特殊体質”、そして一つの依頼が、彼らをやがて大きな事件に巻き込んでいく――。"
   },
   "links": {
    "al": "151749",
-   "amz": "https://www.amazon.co.jp/-/en/てにをは/dp/404074831X",
+   "amz": "https://www.amazon.co.jp/dp/B0BYJY4GHP",
    "ap": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
-   "bw": "series/402521/list",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/751425/",
+   "bw": "series/402521",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/751425",
    "mal": "157157",
    "mu": "bd81uav",
    "nu": "killed-again-mr-detective",
@@ -30,13 +31,14 @@
   "originalLanguage": "ja",
   "lastVolume": "2",
   "lastChapter": "14",
+  "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2022,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "f36c8666-4a30-4978-8c6e-0c8f3602fdb0",
+  "latestUploadedChapter": "8cbb0fd8-22b7-4fcb-bc04-6ca49b40900a",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -61,12 +63,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 10,
   "createdAt": "2024-10-24T06:59:33+00:00",
-  "updatedAt": "2024-10-26T11:07:52+00:00"
+  "updatedAt": "2024-12-06T23:14:23+00:00"
  },
  "relationships": [
   {

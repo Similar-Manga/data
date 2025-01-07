@@ -1,0 +1,168 @@
+{
+ "id": "9e9fdc7c-1132-4f9d-bd5c-9c95dcd881e2",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Umi wa Aredomo, Kaze wa Kuku"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "Umi wa Aredomo, Kaze wa Kuku"
+   },
+   {
+    "ja": "海は荒れども、風は吹く"
+   },
+   {
+    "en": "Though the Sea Is Rough, the Wind Still Blows"
+   }
+  ],
+  "description": {
+   "en": "Pink hair. Cup yakisoba for lunch. To other students, high school girl Lisa Kouda seems to be living without a care in the world. The fact that she knows they think of her like that... And the one she met behind the school building, who makes her heart feel restless... A striking one-shot that portrays a lively yet troubling youth!",
+   "ja": "ピンクの髪色。 お昼ご飯にカップ焼きそば。 他の生徒から見たら自由に生きているように見える女子高生・香田リサ。 周りにそう思われていることはわかっていて、少し心がザワつく彼女が校舎裏で出会ったのは…？ 瑞々しくも悩ましい青春を描き出す衝撃読み切り‼"
+  },
+  "links": {
+   "raw": "https://championcross.jp/series/701179c397505/"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-12-02T09:40:32+00:00",
+  "updatedAt": "2024-12-22T10:36:22+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f2acfaf4-df62-40b5-94e6-7b7dee92eafa",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-02T09:18:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ryou Moriguchi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-02T09:18:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f2acfaf4-df62-40b5-94e6-7b7dee92eafa",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-02T09:18:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ryou Moriguchi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-02T09:18:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "75b7425c-2d76-4eb9-a018-418b06d046db",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-02T09:40:37+00:00",
+    "description": "",
+    "fileName": "47fa2580-3c02-4992-bbc5-1123ccfda257.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-02T09:40:37+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "d7539782-19b0-4482-9f11-a70280c1d632",
+   "type": "creator"
+  }
+ ]
+}

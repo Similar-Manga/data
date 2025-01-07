@@ -1,0 +1,137 @@
+{
+ "id": "118abffa-ff66-4bc5-bc86-9dc778807f99",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mō Shinde mo ii Desu ka ? Seishinka Kyūkyū no Genba Kara"
+  },
+  "altTitles": [
+   {
+    "ja": "もう死んでもいいですか？～精神科救急の現場から～"
+   }
+  ],
+  "description": {
+   "ja": "命の危機と隣り合わせの、精神科“救急”病棟の物語――。\n精神科医・鈴井は、重い精神疾患を抱え身体的にも早急に入院治療が必要な患者たちと日々向き合っている。強制入院や隔離室での孤独な治療に苦しむのは、患者本人だけでなく、その家族たちもだ。鈴井は考え続ける――。どうすれば患者が「生きたい」と思える未来を作れるかを。"
+  },
+  "links": {
+   "bw": "series/502922/list"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "c8cbe35b-1b2b-4a3f-9c37-db84c4514856",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Medical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2025-01-03T04:31:51+00:00",
+  "updatedAt": "2025-01-03T04:34:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3ba4c265-126f-4a2e-a621-c9f3f5dfabfa",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-08-27T20:19:24+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshihiro Ands",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/andsyoshihiro",
+    "updatedAt": "2022-08-27T20:20:37+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3ba4c265-126f-4a2e-a621-c9f3f5dfabfa",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-08-27T20:19:24+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshihiro Ands",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/andsyoshihiro",
+    "updatedAt": "2022-08-27T20:20:37+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8774835a-7f37-4179-a15e-92c67ac43924",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-03T04:32:01+00:00",
+    "description": "",
+    "fileName": "9cbd3a9f-5739-4007-9ee9-9741b8df8b61.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-03T04:32:01+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

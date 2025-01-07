@@ -3,20 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Record of Ragnarok: The Apocalypse of the Gods"
+   "en": "Shuumatsu no Valkyrie Kinden - Kamigami no Apocalypse"
   },
   "altTitles": [
    {
     "ja": "終末のワルキューレ禁伝 神々の黙示録"
    },
    {
-    "ja-ro": "Shuumatsu no Valkyrie Kinden Kamigami no Apocalypse"
-   },
-   {
-    "ja-ro": "Shuumatsu no Warukyuure Kinden Kamigami no Apokaripusu"
-   },
-   {
     "fr": "L'Apocalypse des dieux"
+   },
+   {
+    "en": "Record of Ragnarok Forbidden Side-Story: Gods' Apocalypse"
+   },
+   {
+    "en": "Record of Ragnarok: The Apocalypse of the Gods"
    }
   ],
   "description": {
@@ -24,9 +24,10 @@
   },
   "links": {
    "al": "179444",
-   "bw": "series/491285/list",
+   "bw": "series/491285",
    "mal": "171448",
-   "mu": "smv6v8i"
+   "mu": "smv6v8i",
+   "raw": "https://comic-zenon.com/episode/2550912964673992617"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
@@ -39,7 +40,7 @@
    "fr",
    "pt-br"
   ],
-  "latestUploadedChapter": "ec290c8e-41b6-4ef0-897b-d4e05db13542",
+  "latestUploadedChapter": "95d081a5-d955-4984-a4c0-2f26f1ff0b84",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -76,12 +77,36 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "9467335a-1b83-4497-9231-765337a00b96",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Post-Apocalyptic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 14,
   "createdAt": "2024-06-25T22:15:39+00:00",
-  "updatedAt": "2024-11-15T13:33:03+00:00"
+  "updatedAt": "2024-12-29T19:14:58+00:00"
  },
  "relationships": [
   {
@@ -150,9 +175,19 @@
    }
   },
   {
+   "id": "a4ba84a7-2e74-4c91-afb4-9b81ef8c1650",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
    "id": "b5b21ca1-bba5-4b9a-8cd1-6248f731650b",
    "type": "manga",
    "related": "main_story"
+  },
+  {
+   "id": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+   "type": "manga",
+   "related": "shared_universe"
   },
   {
    "id": "31c99b0b-2ec8-4fe9-bce2-d13be6ce7272",

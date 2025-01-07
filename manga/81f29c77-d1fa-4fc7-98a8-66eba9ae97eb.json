@@ -1,0 +1,116 @@
+{
+ "id": "81f29c77-d1fa-4fc7-98a8-66eba9ae97eb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sozoro Gennai"
+  },
+  "altTitles": [
+   {
+    "ja": "そぞろ源内"
+   },
+   {
+    "ja": "そぞろ源内 大江戸さぐり控え帳"
+   }
+  ],
+  "description": {},
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/%E5%8F%B6%E7%B2%BE%E4%BD%9C-ebook/dp/B0CZXFYD2J/",
+   "mu": "tjzzsr3"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-10-12T18:36:29+00:00",
+  "updatedAt": "2024-12-22T22:10:48+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8449e060-3ca8-4641-b937-92d246707b59",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-05-07T19:20:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amasawa Akira",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-05-23T22:39:37+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ce50cdfc-3965-42b2-9964-1fe0f421207b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanou Seisaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8d2a4fe2-8253-4bfa-8f12-9fbe265752bf",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-12T18:36:32+00:00",
+    "description": "",
+    "fileName": "8f9c651d-c654-4d71-902f-c1d5cd806423.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-12T18:36:32+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "42251ed1-3ecf-49ee-b75e-6e742a44c345",
+   "type": "creator"
+  }
+ ]
+}

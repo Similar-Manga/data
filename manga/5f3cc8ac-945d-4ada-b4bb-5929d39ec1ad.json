@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "A Romcom Protagonist Who Knows How to Handle Himself"
+   "en": "A Romcom Protagonist with Some Moves"
   },
   "altTitles": [
    {
@@ -14,6 +14,9 @@
    },
    {
     "ja-ro": "Sabaku no ga Umai RabuKome Shujinkou"
+   },
+   {
+    "en": "A Romcom Protagonist Who Knows How to Handle Himself"
    }
   ],
   "description": {},
@@ -22,7 +25,8 @@
    "raw": "https://twitter.com/isiyumi/status/1363421137418350593"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastChapter": "6",
+  "status": "completed",
   "year": 2021,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -94,9 +98,9 @@
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 11,
   "createdAt": "2021-02-28T00:03:46+00:00",
-  "updatedAt": "2024-08-16T18:01:04+00:00"
+  "updatedAt": "2024-12-28T06:04:55+00:00"
  },
  "relationships": [
   {
@@ -104,7 +108,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -120,8 +124,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -132,7 +136,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -148,8 +152,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -167,6 +171,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "5418be97-515b-492b-8827-ec0590747ba9",
+   "type": "manga",
+   "related": "alternate_version"
   }
  ]
 }

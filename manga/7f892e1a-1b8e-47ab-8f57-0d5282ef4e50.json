@@ -1,0 +1,168 @@
+{
+ "id": "7f892e1a-1b8e-47ab-8f57-0d5282ef4e50",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Death of a Crescent Moon"
+  },
+  "description": {
+   "en": "Johan Kim is an ordinary 19 year old who loves basketball and hanging out with friends though there is one unique thing about him, his family are all exorcists and demons are real. But they have been hiding this from Johan his entire life. When his parents die suddenly and his grandpa confesses the truth to Yono he goes running and gets attacked by demons. Now that Johan has realized this other world, will he accept his destiny and fight for humanity to ignore and go back to living his normal life."
+  },
+  "links": {
+   "raw": "https://globalcomix.com/c/death-of-a-crescent-moon-1/chapters/en/1/1"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-12-11T02:57:01+00:00",
+  "updatedAt": "2024-12-11T18:32:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0c71c388-e36d-4147-80f1-479fe22dbf07",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-11T02:54:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kkazart",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-11T02:54:34+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0c71c388-e36d-4147-80f1-479fe22dbf07",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-11T02:54:34+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kkazart",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-11T02:54:34+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3ef07344-a309-42d9-a960-ad9894b0e4fa",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-11T02:57:08+00:00",
+    "description": "",
+    "fileName": "9a26cd70-9030-4a48-8d3e-ea4eac175559.png",
+    "locale": "en",
+    "updatedAt": "2024-12-11T02:57:08+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "606076fd-1d2d-4fb6-bd3a-fbb29dbd9a96",
+   "type": "creator"
+  }
+ ]
+}

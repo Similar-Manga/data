@@ -1,0 +1,154 @@
+{
+ "id": "ec55f4fa-9ba4-4031-bcfa-02208fc955b8",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Even Though I’m Part of the Onee-Shota Faction, I’m Being Attacked by a Shota"
+  },
+  "altTitles": [
+   {
+    "ja": "おねショタ派なのに、ショタに攻められるお姉さん"
+   },
+   {
+    "ja-ro": "Onee-Shota Ha Nano ni, Shota ni Semeraru Onee-san"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/unpocooo/status/1810964244902597002"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-06T15:05:57+00:00",
+  "updatedAt": "2024-12-07T06:16:49+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2c5caaa3-a151-4f6d-b6ad-648ef148f651",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Native name: ウンポーコ\n\nAssociated names:\nPocoration (Unpoco)\nUnpooko\nポーコレーション (ウンポーコ)\n\nCircle: Pocoration"
+    },
+    "booth": null,
+    "createdAt": "2021-09-02T02:38:32+00:00",
+    "fanBox": "https://unpocooo.fanbox.cc/",
+    "fantia": "https://fantia.jp/unpocooo",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Unpoco",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/3312251",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/unpocooo",
+    "updatedAt": "2025-01-04T13:44:26+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2c5caaa3-a151-4f6d-b6ad-648ef148f651",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Native name: ウンポーコ\n\nAssociated names:\nPocoration (Unpoco)\nUnpooko\nポーコレーション (ウンポーコ)\n\nCircle: Pocoration"
+    },
+    "booth": null,
+    "createdAt": "2021-09-02T02:38:32+00:00",
+    "fanBox": "https://unpocooo.fanbox.cc/",
+    "fantia": "https://fantia.jp/unpocooo",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Unpoco",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/3312251",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/unpocooo",
+    "updatedAt": "2025-01-04T13:44:26+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7f97ae72-a763-4bf5-bb43-1ef16376c2eb",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-06T15:06:00+00:00",
+    "description": "",
+    "fileName": "b991e2a9-045b-47ea-92cb-3aae612c4af0.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-06T15:06:00+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "02c385d5-beac-4ee4-9383-20b55d7d8a50",
+   "type": "creator"
+  }
+ ]
+}

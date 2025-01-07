@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Buttobi Spinner Kimeru!!"
+   "en": "Flying Spinner Kimeru!!"
   },
   "altTitles": [
    {
@@ -11,16 +11,24 @@
    },
    {
     "ja": "ぶっとびスピナー キメル!!"
+   },
+   {
+    "ja-ro": "Buttobi Spinner Kimeru!!"
    }
   ],
   "description": {
-   "en": "The buttobi yo-yo manga has come to an end!!"
+   "en": "The Hyper Yo-Yo Manga enters its junior high school chapter!!\n\nAfter his outstanding performance in the Spinners Cup yo-yo tournament, Kimeru Tohriku appears as a junior high school student in a new location, Ryufu City!! However, yo-yos are banned at his school!? He's in a sudden big pinch...!! New rivals join the fray one after another, and a crazy school story begins!!"
   },
   "links": {
-   "mu": "hz2xcd1"
+   "amz": "https://www.amazon.co.jp/-/en/dp/B0DBFRG71F?binding=kindle_edition",
+   "bw": "series/479739/list",
+   "mu": "hz2xcd1",
+   "raw": "https://www.corocoro.jp/title/326"
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
+  "lastChapter": "15",
+  "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2012,
   "contentRating": "safe",
@@ -51,9 +59,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2023-03-13T05:41:29+00:00",
-  "updatedAt": "2023-03-13T05:41:33+00:00"
+  "updatedAt": "2024-12-23T03:32:35+00:00"
  },
  "relationships": [
   {
@@ -124,7 +132,7 @@
   {
    "id": "70aff5b2-f5ed-4d97-b3a8-9580ef581595",
    "type": "manga",
-   "related": "main_story"
+   "related": "prequel"
   },
   {
    "id": "ecf379e6-bc34-42c4-b25d-63698875cdfb",

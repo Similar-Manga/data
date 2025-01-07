@@ -10,14 +10,20 @@
   },
   "links": {
    "al": "106630",
+   "amz": "https://www.amazon.co.jp/dp/4041047986/",
    "ap": "wakatte-kudasai",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1976339",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/373876/",
    "kt": "38013",
    "mal": "97571",
-   "mu": "131600"
+   "mu": "131600",
+   "raw": "https://www.cmoa.jp/title/117885/"
   },
   "originalLanguage": "ja",
-  "lastChapter": "1",
+  "lastVolume": "1",
+  "lastChapter": "5.5",
   "status": "completed",
+  "year": 2016,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -62,33 +68,35 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2018-12-22T08:30:41+00:00",
-  "updatedAt": "2021-05-25T15:39:48+00:00"
+  "updatedAt": "2024-12-09T11:43:32+00:00"
  },
  "relationships": [
   {
    "id": "894ab404-fe15-4433-aa75-7baa3d970072",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n由元千子\n\n**Associated Names**\nRecreate (Yoshimoto)\nYOSHIMOTO\nYoshimoto Senko\nリクリエイト (よしもと)\n요시모토 센코"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yoshimoto",
+    "name": "Yoshimoto Senco",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=2988357",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/senco_y",
+    "updatedAt": "2024-12-09T09:14:32+00:00",
+    "version": 4,
+    "website": "http://twpf.jp/ysmt801",
     "weibo": null,
     "youtube": null
    }
@@ -97,39 +105,41 @@
    "id": "894ab404-fe15-4433-aa75-7baa3d970072",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n由元千子\n\n**Associated Names**\nRecreate (Yoshimoto)\nYOSHIMOTO\nYoshimoto Senko\nリクリエイト (よしもと)\n요시모토 센코"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yoshimoto",
+    "name": "Yoshimoto Senco",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=2988357",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/senco_y",
+    "updatedAt": "2024-12-09T09:14:32+00:00",
+    "version": 4,
+    "website": "http://twpf.jp/ysmt801",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "a427bcf2-ccf7-4fc9-ae0f-adba3d9e38c1",
+   "id": "e3767f1b-c3e1-4065-afea-0e91c1964eaa",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:55:19+00:00",
+    "createdAt": "2024-12-09T11:43:31+00:00",
     "description": "",
-    "fileName": "e994a59d-4bc9-4cff-af58-81f071324bf1.jpg",
+    "fileName": "d97e6976-323e-4583-bee0-609de47fc523.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:55:19+00:00",
+    "updatedAt": "2024-12-09T11:43:31+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

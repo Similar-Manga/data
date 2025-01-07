@@ -10,7 +10,7 @@
     "en": "A Strange And Mystifying Story"
    },
    {
-    "ja": "この世 異聞 其ノ四"
+    "ja": "この世 異聞"
    },
    {
     "ru": "Странная Мистическая История"
@@ -23,17 +23,21 @@
   },
   "links": {
    "al": "32729",
+   "amz": "https://www.amazon.co.jp/dp/4862630588/",
    "ap": "a-strange-and-mystifying-story",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/22978/",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?term.media_format=\u0026q=%E3%81%93%E3%81%AE%E4%B8%96+%E7%95%B0%E8%81%9E",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/123143/",
    "engtl": "https://www.sublimemanga.com/reader/739",
    "kt": "5715",
    "mal": "2729",
-   "mu": "6236"
+   "mu": "6236",
+   "raw": "https://www.cmoa.jp/title/62974/"
   },
   "originalLanguage": "ja",
   "lastVolume": "7",
   "lastChapter": "38",
   "status": "completed",
+  "year": 2005,
   "contentRating": "erotica",
   "availableTranslatedLanguages": [
    "pl",
@@ -151,16 +155,18 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2018-09-23T02:54:03+00:00",
-  "updatedAt": "2022-10-03T10:54:49+00:00"
+  "updatedAt": "2024-12-08T17:13:01+00:00"
  },
  "relationships": [
   {
    "id": "f4269227-161b-407d-9d29-9b67e06db230",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n鈴木ツタ\n\n[BlueSky](https://bsky.app/profile/suzukitsuta.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -171,12 +177,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/206837",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/suzukitsuta",
+    "updatedAt": "2024-12-08T16:51:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -186,7 +192,9 @@
    "id": "f4269227-161b-407d-9d29-9b67e06db230",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n鈴木ツタ\n\n[BlueSky](https://bsky.app/profile/suzukitsuta.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -197,28 +205,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/206837",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/suzukitsuta",
+    "updatedAt": "2024-12-08T16:51:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "caa64ae8-60b9-4ff6-85fc-5223e79bba10",
+   "id": "4f3e9cdf-4b1f-4f2e-91f7-072e60529d88",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:45:49+00:00",
+    "createdAt": "2021-05-23T05:40:33+00:00",
     "description": "",
-    "fileName": "905b01ca-e515-48d9-b57c-f5475946bf17.jpg",
+    "fileName": "40ce962f-45ee-4390-ac7d-de6cffe0ceb7.png",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:45:49+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T05:40:33+00:00",
+    "version": 2,
+    "volume": "7"
    }
   },
   {

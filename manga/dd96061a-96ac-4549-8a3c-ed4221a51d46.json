@@ -3,23 +3,85 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Asura no Sata"
+   "en": "Asura’s Verdict"
   },
   "altTitles": [
    {
     "ja": "アスラの沙汰"
+   },
+   {
+    "ja-ro": "Asura no Sata"
+   },
+   {
+    "ru": "Вердикт Асуры"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "\"Only do good deeds.\"—Asura follows his late mother's teachings and always strives to do good in life. No matter how much he is bullied, he goes on with a smile, firmly believing that evildoers will receive divine punishment. Until one day, an ominous old man offers him a key that can open the doors to hell...",
+   "pt-br": "\"Faça apenas boas ações\". — Asura segue os ensinamentos de sua falecida mãe e sempre se esforça para fazer o bem. Não importa o quanto seja zoado, continua com um sorriso, acreditando firmemente que os malfeitores receberão uma punição divina. Até que, certo dia, um velho agourento lhe oferece uma chave que pode abrir os Portões do Inferno..."
+  },
+  "links": {
+   "al": "185376",
+   "ap": "asuras-verdict",
+   "engtl": "https://mangaplus.shueisha.co.jp/titles/100405",
+   "kt": "asura-no-sata",
+   "mal": "176870",
+   "mu": "cyryfj1",
+   "raw": "https://shonenjumpplus.com/episode/17106567261425739175"
+  },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en",
+   "pt-br",
+   "vi"
+  ],
+  "latestUploadedChapter": "27429a78-0b2a-4f2a-96ab-c14ff1e55806",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 2,
+  "version": 9,
   "createdAt": "2024-11-30T15:51:42+00:00",
-  "updatedAt": "2024-11-30T15:51:47+00:00"
+  "updatedAt": "2024-12-11T14:51:56+00:00"
  },
  "relationships": [
   {
@@ -33,7 +95,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Unohana Sora",
+    "name": "Unohana Utsugi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -41,8 +103,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-30T15:51:22+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-04T15:05:21+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -59,7 +121,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Unohana Sora",
+    "name": "Unohana Utsugi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -67,22 +129,22 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-11-30T15:51:22+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-04T15:05:21+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "139f06e8-2146-4ac3-8b57-2a9ab3905c8d",
+   "id": "00b78a81-7b03-4253-b2e9-a928e5ae9e3c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-30T15:51:44+00:00",
+    "createdAt": "2024-12-04T15:01:20+00:00",
     "description": "",
-    "fileName": "7fb36e60-9c2b-4877-9d04-8ee49ce1e15c.jpg",
+    "fileName": "b1dc1c9d-4d58-42eb-b567-725cb1a9eb25.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-30T15:51:44+00:00",
+    "updatedAt": "2024-12-04T15:01:20+00:00",
     "version": 1,
     "volume": null
    }

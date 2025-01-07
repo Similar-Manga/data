@@ -14,13 +14,16 @@
    }
   ],
   "description": {
-   "en": "Who is \"I\"?   \n  \n\"I\", who has lived like a machine, receives the name \"Itou\" from the prostitute named Kyousuke.  \n  \nThis is the beginning of their story."
+   "en": "1-3 I Episode 0\n**Who is \"I\" ?**\n\n\"I\" who has lived like a machine gets the name \"Ito\" from the prostitute named Kyousuke.\n\nThis is the beginning story of \"Ito\" and \"Kyousuke\" -.\n\n4. **Refrain**\n\n5. **Parallel World**\n\n6. **Never Gone**\n\nTakes place before and then picks up after the events of [Itou-san](https://mangadex.org/title/8fb6c812-63fc-49e8-bdba-149a20d3d2dd/itou-san)."
   },
   "links": {
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/340273/",
+   "al": "98253",
+   "amz": "https://www.amazon.co.jp/dp/4863496621/",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/340273/A001826939/",
    "kt": "52059",
    "mal": "111546",
-   "mu": "135999"
+   "mu": "135999",
+   "raw": "https://www.cmoa.jp/title/106445/vol/2/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -29,9 +32,10 @@
   "year": 2016,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
+   "vi",
    "en"
   ],
-  "latestUploadedChapter": "e7e4729c-36f7-4c76-aea4-4628b209138d",
+  "latestUploadedChapter": "b8fd0e2b-3245-4e14-997a-4cbfc3c5ccf4",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -83,16 +87,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2019-01-19T01:23:30+00:00",
-  "updatedAt": "2023-11-28T19:40:58+00:00"
+  "updatedAt": "2025-01-04T06:53:31+00:00"
  },
  "relationships": [
   {
    "id": "ddce0146-2cfe-47e7-b358-7420e02b785f",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n冥花すゐ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -107,9 +113,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-12-02T07:16:32+00:00",
+    "version": 2,
+    "website": "http://vanitas-mode.blog.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -118,7 +124,9 @@
    "id": "ddce0146-2cfe-47e7-b358-7420e02b785f",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n冥花すゐ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -133,30 +141,30 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-12-02T07:16:32+00:00",
+    "version": 2,
+    "website": "http://vanitas-mode.blog.jp/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "2f350b8e-ffe3-4fa1-aa20-2a86d0175523",
+   "id": "ccb449af-57b6-4fcb-a2c1-d79a319a84ca",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:58:20+00:00",
+    "createdAt": "2021-05-23T06:14:07+00:00",
     "description": "",
-    "fileName": "69e2211b-907d-48e8-90f9-bb096e5f736f.jpg",
+    "fileName": "82fbe318-b1c0-4b4e-88c2-258b62334a6a.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:58:20+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:14:08+00:00",
+    "version": 2,
+    "volume": "1"
    }
   },
   {
    "id": "8fb6c812-63fc-49e8-bdba-149a20d3d2dd",
    "type": "manga",
-   "related": "sequel"
+   "related": "prequel"
   }
  ]
 }

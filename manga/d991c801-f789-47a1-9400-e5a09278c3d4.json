@@ -3,11 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Black ★ Rock Shooter the Game - MagiCu 4koma"
+   "en": "Magi-Cu 4-koma: Black Rock Shooter the Game"
   },
   "altTitles": [
    {
-    "ja": "マジキュー4コマ ブラック★ロックシューター THE GAME, Majikyū Yonkoma Burakku Rokku Shūtā THE GAME"
+    "ja": "マジキュー4コマ ブラック★ロックシューター THE GAME"
+   },
+   {
+    "ja-ro": "Magi-Cu Yonkoma Black ★ Rock Shooter THE GAME"
+   },
+   {
+    "ja-ro": "Magical Cute 4-Koma: Black ★ Rock Shooter the Game"
+   },
+   {
+    "en": "Black ★ Rock Shooter the Game 4-koma Magic"
    }
   ],
   "description": {
@@ -58,18 +67,6 @@
      },
      "description": {},
      "group": "format",
-     "version": 1
-    }
-   },
-   {
-    "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Video Games"
-     },
-     "description": {},
-     "group": "theme",
      "version": 1
     }
    },
@@ -132,24 +129,12 @@
      "group": "theme",
      "version": 1
     }
-   },
-   {
-    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Adaptation"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2024-01-23T11:58:18+00:00",
-  "updatedAt": "2024-01-23T20:21:04+00:00"
+  "updatedAt": "2024-12-09T06:42:47+00:00"
  },
  "relationships": [
   {

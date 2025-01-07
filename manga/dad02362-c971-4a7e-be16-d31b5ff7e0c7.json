@@ -3,26 +3,34 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "the great kimodameshi test!"
+   "en": "Beyblade Burst - The Great Kimodameshi Test! (Doujinshi)"
   },
   "altTitles": [
    {
-    "ja": "きもだめし大作戦！！"
+    "ja": "ベイブレードバースト - きもだめし大作戦！！ (Doujinshi)"
    }
   ],
-  "description": {
-   "en": "a doujinshi of \"beyblade burst\"."
-  },
+  "description": {},
   "links": {
-   "raw": "https://www.pixiv.net/en/artworks/71487231"
+   "raw": "https://www.pixiv.net/artworks/71487231"
   },
   "originalLanguage": "ja",
-  "lastVolume": "0",
-  "lastChapter": "1",
   "status": "completed",
   "year": 2017,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
     "type": "tag",
@@ -97,9 +105,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2024-09-17T08:21:58+00:00",
-  "updatedAt": "2024-09-17T10:58:41+00:00"
+  "updatedAt": "2024-12-02T16:57:29+00:00"
  },
  "relationships": [
   {
@@ -113,7 +121,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "sairen ayame",
+    "name": "Sairen Ayame",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -121,8 +129,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-09-17T08:04:14+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-02T16:57:40+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -139,7 +147,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "sairen ayame",
+    "name": "Sairen Ayame",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -147,22 +155,22 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-09-17T08:04:14+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-02T16:57:40+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "252e94b2-03a0-4062-b479-08e82127a23b",
+   "id": "3b41e443-e281-4203-8f89-9f67c9b9ac58",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-17T08:35:38+00:00",
+    "createdAt": "2024-12-02T16:57:28+00:00",
     "description": "",
-    "fileName": "9d2faf8e-72c8-4f3d-a776-8353fbdb1335.jpg",
+    "fileName": "a84742d9-3430-4d40-ac19-be7ab6c08fac.png",
     "locale": "ja",
-    "updatedAt": "2024-09-17T08:35:38+00:00",
+    "updatedAt": "2024-12-02T16:57:28+00:00",
     "version": 1,
     "volume": "1"
    }

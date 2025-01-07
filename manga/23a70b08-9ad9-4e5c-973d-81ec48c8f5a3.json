@@ -3,17 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I'm a Curse Crafter, and I Don't Need an S-Rank Party!"
+   "en": "S-Rank Party Kara Kaikosareta [Jugushi] ~\"Noroi no Item\" Shika Tsukuremasen ga, Sono Seinou wa Artifact-kyuu nari......!~"
   },
   "altTitles": [
    {
     "ja": "Ｓランクパーティから解雇された【呪具師】～『呪いのアイテム』しか作れませんが、その性能はアーティファクト級なり……！～"
    },
    {
-    "en": "My S-Rank Party Fired Me for Being a Cursificer: I Can Only Make “Cursed Items”, but They're Artifact Class!"
+    "en": "I'm a Curse Crafter, and I Don't Need an S-Rank Party!"
    },
    {
-    "ja-ro": "S-Rank Party Kara Kaikosareta [Jugushi] ~\"Noroi no Item\" Shika Tsukuremasen ga, Sono Seinou wa Artifact-kyuu nari......!~"
+    "en": "My S-Rank Party Fired Me for Being a Cursificer: I Can Only Make “Cursed Items”, but They're Artifact Class!"
    },
    {
     "vi": "Chỉ biết chế tạo trang bị nguyền rủa, tôi bị đuổi khỏi tổ đội cấp S"
@@ -32,7 +32,8 @@
    "bw": "series/340731/list",
    "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD:14\u0026q=Ｓランクパーティから解雇された【呪具師】～『呪いのアイテム』しか作れませんが、その性能はアーティファクト級なり……！～\u0026order=reldesc\u0026opt.exclude_prx=on",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/679297/",
-   "engtl": "https://www.animenewsnetwork.com/news/2024-07-19/k-manga-licenses-im-a-curse-crafter-and-i-dont-need-an-s-rank-party-manga-for-simulpub/.213394",
+   "engtl": "https://kmanga.kodansha.com/title/10581/episode/352988",
+   "kt": "68472",
    "mal": "146793",
    "mu": "200397",
    "nu": "my-s-rank-party-fired-me-for-being-a-curse-artificer-i-can-only-make-cursed-items-but-theyre-artifact-class",
@@ -45,9 +46,10 @@
   "availableTranslatedLanguages": [
    "vi",
    "en",
-   "pt-br"
+   "pt-br",
+   "fr"
   ],
-  "latestUploadedChapter": "b9d6ebb0-adc5-4ba2-abf6-0a3324303d4e",
+  "latestUploadedChapter": "6283ff4b-f5fa-4b48-8138-6262116e68ab",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -58,6 +60,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -122,6 +136,18 @@
     }
    },
    {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -135,9 +161,9 @@
    }
   ],
   "state": "published",
-  "version": 37,
+  "version": 39,
   "createdAt": "2022-05-07T12:35:40+00:00",
-  "updatedAt": "2024-11-03T01:03:24+00:00"
+  "updatedAt": "2024-12-06T17:39:48+00:00"
  },
  "relationships": [
   {

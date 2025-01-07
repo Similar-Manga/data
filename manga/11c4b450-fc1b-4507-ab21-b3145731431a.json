@@ -8,9 +8,16 @@
   "altTitles": [
    {
     "ja": "魔族のペットになりまして"
+   },
+   {
+    "vi": "THÚ CƯNG CỦA QUỶ DỮ"
+   },
+   {
+    "id": "Menjadi hewan peliharaan iblis"
    }
   ],
   "description": {
+   "en": "A slightly exciting, fantastic love comedy in which an ordinary high school student falls in love (?) with a demon girl!\nOne day, Takafumi Ayanokoji, an ordinary high school boy, is warned by a suspicious fortune teller that he is in trouble with women. Immediately after that, along with heavy rain and lightning, a beautiful girl with blonde hair and red eyes appeared. The girl follows Takafumi to his house and says she wants to keep him as a pet, but...! ?",
    "es-la": "Una comedia romántica fantástica y ligeramente estimulante en la que un estudiante de preparatoria común se enamora (?) de una chica demonio. Un día, el estudiante de preparatoria común, Takafumi, es advertido por un sospechoso adivino de que tiene una \"señal de problemas con las mujeres\". Inmediatamente después, una hermosa rubia de ojos rojos aparece junto con una fuerte lluvia y un rayo. La chica sigue a Takafumi hasta su casa y dice que quiere mantenerlo como su mascota, pero... ¡¿!?",
    "ja": "普通の高校生が魔族の女の子と恋に落ちる（？）、ちょっぴり刺激的なファンタスティック・ラブコメディ！\n\n普通の男子高校生・綾小路貴文は、ある日、怪しい占い師に『女難の相』が出ていると警告される。 その直後、豪雨と落雷と共に金髪赤眼の美少女が現れた。 少女は貴文の家までついてきて、貴文をペットにしたいと言うのだが――！？"
   },
@@ -21,11 +28,13 @@
   "originalLanguage": "ja",
   "status": "ongoing",
   "year": 2024,
-  "contentRating": "erotica",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
+   "vi",
+   "id",
    "es-la"
   ],
-  "latestUploadedChapter": "f716b3b9-0c56-4cc1-9f4d-b8546d0d7298",
+  "latestUploadedChapter": "9232787f-fffb-44ef-a908-06db75002cb6",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -52,6 +61,66 @@
     }
    },
    {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "d7d1730f-6eb0-4ba6-9437-602cac38664c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Vampires"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
@@ -62,12 +131,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2024-09-04T13:14:28+00:00",
-  "updatedAt": "2024-09-04T13:15:24+00:00"
+  "updatedAt": "2024-12-21T01:19:51+00:00"
  },
  "relationships": [
   {

@@ -3,20 +3,25 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "M.F.C Mine Fujiko Company"
+   "en": "M.F.C - Onna Dorobou Gaisha Mine Fujiko Company"
   },
   "altTitles": [
    {
     "ja": "M.F.C 女泥棒会社峰不二子カンパニー"
    },
    {
-    "ja-ro": "M.F.C : Onna Dorobou Gaisha Mine Fujiko Company"
+    "en": "M.F.C Mine Fujiko Company"
    }
   ],
   "description": {
-   "en": "Fujiko Mine is the president and founder of M.F.C, a \"thief company\", which she established for her own purposes. The story follows Sachiko Yamada, the 19 year old newcomer employee and her colleagues, Hiroko and Junko under the charge of Manager Eriko"
+   "en": "Fujiko Mine is the president and founder of M.F.C, a \"thief company\", which she established for her own purposes. The story follows Sachiko Yamada, the 19 year old newcomer employee and her colleagues, Hiroko and Junko under the charge of Manager Eriko",
+   "ja": "峰不二子が社長をつとめる泥棒専門会社「M.F.C」に、そうとは知らず入社した山田幸子の不幸な物語。もちろん、峰不二子本人も、大活躍するよ。"
   },
   "links": {
+   "al": "158027",
+   "amz": "https://www.amazon.co.jp/dp/B074CB7XFB",
+   "bw": "series/56371",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/336337",
    "mu": "48892"
   },
   "originalLanguage": "ja",
@@ -65,39 +70,11 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2022-03-07T22:54:48+00:00",
-  "updatedAt": "2022-05-17T14:28:38+00:00"
+  "updatedAt": "2025-01-03T23:39:50+00:00"
  },
  "relationships": [
-  {
-   "id": "3a0d515a-3a6a-4c2c-a4cc-476d036f6997",
-   "type": "author",
-   "attributes": {
-    "biography": {
-     "en": "**Circles:**\nHatchiware / Hachiware (ハチワレ)"
-    },
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Suzuki Izo (鈴木イゾ)",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/178088",
-    "skeb": null,
-    "tumblr": "https://suzukiizo.tumblr.com/",
-    "twitter": "http://twitter.com/izosan",
-    "updatedAt": "2024-03-01T17:27:29+00:00",
-    "version": 3,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
   {
    "id": "61f2a43e-81ed-478e-8070-d035e8950fbc",
    "type": "author",
@@ -153,14 +130,14 @@
    }
   },
   {
-   "id": "f0bdd22a-08d5-42fb-be61-44b89786906d",
+   "id": "1e078cd9-e75f-4bdf-bd25-6c19d72a811e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-03-07T22:54:51+00:00",
-    "description": "",
-    "fileName": "6767a5b0-b0c2-4074-8332-bcbab6d26c8f.jpg",
+    "createdAt": "2025-01-03T23:37:04+00:00",
+    "description": "Volume 2 Cover from BookWalker",
+    "fileName": "02ed16c7-67b3-4b4b-90d7-6a3525d7df9b.jpg",
     "locale": "ja",
-    "updatedAt": "2022-03-07T22:54:51+00:00",
+    "updatedAt": "2025-01-03T23:37:04+00:00",
     "version": 1,
     "volume": "2"
    }

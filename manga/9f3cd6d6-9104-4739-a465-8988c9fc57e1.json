@@ -1,0 +1,140 @@
+{
+ "id": "9f3cd6d6-9104-4739-a465-8988c9fc57e1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Love Game"
+  },
+  "altTitles": [
+   {
+    "ja": "ラブ・ゲーム"
+   }
+  ],
+  "description": {
+   "en": "A collection of BL short stories by Matsuzaki Akemi.\n\n- Love Game in MyBoy 1996. \n- Futari dake Carnival (二人だけの謝肉祭（カーニバル）) in Bessatsu Nakayoshi 1974.\n- Ame no ni Hoi ga Suki (雨のにほいが好き) in Bessatsu Nakayoshi 1976.\n- Kanzakura (寒桜) in Papermoon 1980.\n- Omonomura (鬼面村) in Gekkan Halloween 1986.\n- Adieu (アデュー) in June 2/1979.\n- Gervaise (ジェルベーズ) in June 2/1979."
+  },
+  "links": {
+   "mu": "pawcbie"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "7",
+  "publicationDemographic": "josei",
+  "status": "completed",
+  "year": 1997,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Boys' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-05T18:56:15+00:00",
+  "updatedAt": "2025-01-05T18:56:50+00:00"
+ },
+ "relationships": [
+  {
+   "id": "196806ed-1382-4e86-b9f4-a06821f82e16",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-04-24T12:25:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Matsuzaki Akemi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-04-24T12:25:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "196806ed-1382-4e86-b9f4-a06821f82e16",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-04-24T12:25:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Matsuzaki Akemi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-04-24T12:25:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f7101f70-3032-48f4-b82d-a3bc807d272e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-05T18:56:22+00:00",
+    "description": "",
+    "fileName": "4acbc830-08d3-402e-92be-66a155d9eb34.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-05T18:56:22+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "396ee075-b695-4361-b8d5-0b9a2ae29152",
+   "type": "creator"
+  }
+ ]
+}

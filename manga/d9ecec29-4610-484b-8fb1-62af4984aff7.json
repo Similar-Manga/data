@@ -1,0 +1,162 @@
+{
+ "id": "d9ecec29-4610-484b-8fb1-62af4984aff7",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "I Pulled Out Excalibur"
+  },
+  "altTitles": [
+   {
+    "ko": "엑스칼리버 뽑습니다"
+   }
+  ],
+  "description": {
+   "en": "A vow was made in a place where stars are not visible, to carve one’s own star into that night sky. Promotional comic for the novel."
+  },
+  "originalLanguage": "ko",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "16711836-4d9b-4d26-be2d-7266353fdea5",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-09T02:14:31+00:00",
+  "updatedAt": "2024-12-09T02:15:10+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6f23a75c-154e-4c99-8c87-7f48f64ba0fe",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-29T17:17:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "NariaTa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/nariata7",
+    "updatedAt": "2023-11-10T18:10:31+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6f23a75c-154e-4c99-8c87-7f48f64ba0fe",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-29T17:17:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "NariaTa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/nariata7",
+    "updatedAt": "2023-11-10T18:10:31+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2872d7e5-3c6f-4e54-80df-52136e1ab454",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-09T02:15:07+00:00",
+    "description": "",
+    "fileName": "e9d25d56-dc89-4642-85ae-d359a7f8aea1.png",
+    "locale": "ko",
+    "updatedAt": "2024-12-09T02:15:07+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c55f8354-ec7c-4543-afaf-71a5e7088124",
+   "type": "creator"
+  }
+ ]
+}

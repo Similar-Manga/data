@@ -17,12 +17,14 @@
    }
   ],
   "description": {
-   "en": "A “cursed song” that you should never listen to, drawn by the queen of the horror world. When you spin that sound, something will happen! Have a sleepless night. About 10 years ago, at a girls' high school, students were talking about a ``curse song'' related to the school. Now, when the school's chorus club is looking for a song unique to the region in order to win the district competition, they come across old sheet music in the storage room in the music room. That was the beginning of a \"terrible curse\"..."
+   "en": "A dozen years ago, students at a certain girls' high school were talking about a \"cursed song\" related to the school. Now, when the school's chorus club is searching for a song unique to the area to win the regional competition, they find some old sheet music in the music room's storage. That was the beginning of the \"terrible curse\"..."
   },
   "links": {
    "raw": "https://www.sukima.me/book/title/BT0001533841/"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "9",
   "publicationDemographic": "josei",
   "status": "completed",
   "contentRating": "safe",
@@ -48,6 +50,18 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -86,12 +100,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Music"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2024-03-22T13:27:19+00:00",
-  "updatedAt": "2024-07-31T01:02:43+00:00"
+  "updatedAt": "2024-12-15T16:51:12+00:00"
  },
  "relationships": [
   {
@@ -147,16 +173,16 @@
    }
   },
   {
-   "id": "4d1faabb-9cd7-4a8a-b153-062b31264e89",
+   "id": "6407374f-acc4-4640-a976-eb36c9f07050",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-03-22T13:27:20+00:00",
+    "createdAt": "2024-12-15T16:51:11+00:00",
     "description": "",
-    "fileName": "23afc686-7d6e-4a7f-8a3e-db6d59f84c55.jpg",
+    "fileName": "d0e8e48b-f5cd-4904-bd67-53778efd01d3.jpg",
     "locale": "ja",
-    "updatedAt": "2024-03-22T13:27:20+00:00",
+    "updatedAt": "2024-12-15T16:51:11+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "1.2"
    }
   },
   {

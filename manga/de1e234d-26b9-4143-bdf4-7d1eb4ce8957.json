@@ -20,10 +20,14 @@
    "en": "Sometimes people make decisions that lead them down a dark path, and before long it seems like there's no way out except to commit a crime. A mysterious woman, called Aika, appears just when someone opens the door to crime, and she helps them to close that dangerous door."
   },
   "links": {
+   "bw": "series/220631",
    "mu": "29896"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "1",
+  "lastChapter": "6.2",
+  "status": "completed",
+  "year": 2005,
   "contentRating": "safe",
   "tags": [
    {
@@ -88,13 +92,13 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 5,
   "createdAt": "2018-12-22T04:49:03+00:00",
-  "updatedAt": "2018-12-22T04:49:03+00:00"
+  "updatedAt": "2025-01-04T07:42:02+00:00"
  },
  "relationships": [
   {
-   "id": "7101b528-cdb3-44ea-aa24-314b39e18b22",
+   "id": "cc3c5f40-aa6f-4d04-8506-69178a72b4ec",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -104,7 +108,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Sakabe Shuichi",
+    "name": "Sakabe Shuuichi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -120,7 +124,7 @@
    }
   },
   {
-   "id": "7101b528-cdb3-44ea-aa24-314b39e18b22",
+   "id": "cc3c5f40-aa6f-4d04-8506-69178a72b4ec",
    "type": "artist",
    "attributes": {
     "biography": {},
@@ -130,7 +134,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Sakabe Shuichi",
+    "name": "Sakabe Shuuichi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -146,16 +150,16 @@
    }
   },
   {
-   "id": "67bd82ce-8e7f-4faf-9283-d3c5b2f9b5f8",
+   "id": "bedd5a0d-b3d3-4036-a311-febd8f1646b7",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:55:17+00:00",
+    "createdAt": "2025-01-04T07:42:55+00:00",
     "description": "",
-    "fileName": "76efded0-9e4c-4489-99f5-9be91923d116.jpg",
+    "fileName": "62e5ff85-f853-4321-aaca-8c7fff008539.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:55:17+00:00",
+    "updatedAt": "2025-01-04T07:42:55+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

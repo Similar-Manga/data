@@ -10,6 +10,9 @@
     "ja": "ブラックピンク"
    },
    {
+    "ja-ro": "Black Pink"
+   },
+   {
     "ja-ro": "Burakku Pinku"
    },
    {
@@ -17,7 +20,7 @@
    }
   ],
   "description": {
-   "en": "Momo is a dreamy girl who wants to fall in love and get married to the man she loves. But behind that face, she is the daughter of a large conglomerate and the strongest contract killer that even killers can't get close to!! In order to get married to Mah-kun, her boyfriend whom she has finally found, the girl will go through a sea of blood...!"
+   "en": "Momo is a dreamy girl who wants to fall in love and get married to the man she loves. But behind that face, she is the daughter of a large conglomerate and the strongest contract killer that even killers can't get close to!! In order to get married to Maa-kun, her boyfriend whom she has finally found, the girl will go through a sea of blood…!\n\nWon the Silver Rookie Award of August 2022.\n___\n**Alt Official Raw:** [Jump Rookie!](https://rookie.shonenjump.com/series/pGBIkZlGIvM)"
   },
   "links": {
    "raw": "https://shonenjumpplus.com/episode/316112896867410063"
@@ -34,6 +37,18 @@
     "attributes": {
      "name": {
       "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Award Winning"
      },
      "description": {},
      "group": "format",
@@ -111,19 +126,33 @@
      "group": "content",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 9,
   "createdAt": "2022-09-25T18:05:24+00:00",
-  "updatedAt": "2024-04-13T02:55:44+00:00"
+  "updatedAt": "2024-12-04T09:20:47+00:00"
  },
  "relationships": [
   {
    "id": "3c9d1aa0-fb91-4691-b9b0-f5770c3407bf",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 宮海朝隆\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/1609047349019114039)\n- [Jump+](https://shonenjumpplus.com/search?q=%E5%AE%AE%E6%B5%B7%E6%9C%9D%E9%9A%86)"
+    },
     "booth": null,
     "createdAt": "2022-09-25T18:02:27+00:00",
     "fanBox": null,
@@ -134,12 +163,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/31901394",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-09-25T18:02:27+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/miyaumitomotaka",
+    "updatedAt": "2024-12-04T09:30:08+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -149,7 +178,9 @@
    "id": "3c9d1aa0-fb91-4691-b9b0-f5770c3407bf",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 宮海朝隆\n\n**Additional Sites:**\n- [Jump Rookie!](https://rookie.shonenjump.com/users/1609047349019114039)\n- [Jump+](https://shonenjumpplus.com/search?q=%E5%AE%AE%E6%B5%B7%E6%9C%9D%E9%9A%86)"
+    },
     "booth": null,
     "createdAt": "2022-09-25T18:02:27+00:00",
     "fanBox": null,
@@ -160,12 +191,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/31901394",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-09-25T18:02:27+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/miyaumitomotaka",
+    "updatedAt": "2024-12-04T09:30:08+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -179,9 +210,9 @@
     "description": "",
     "fileName": "23799913-97a5-43db-a79f-c55e9f163b5b.jpg",
     "locale": "ja",
-    "updatedAt": "2022-09-25T18:05:28+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-12-04T09:20:46+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

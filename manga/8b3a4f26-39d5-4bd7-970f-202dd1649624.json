@@ -1,0 +1,139 @@
+{
+ "id": "8b3a4f26-39d5-4bd7-970f-202dd1649624",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "If You Can Hold It in for 100 Days, You Can Use This Condom with Me"
+  },
+  "description": {},
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 10,
+  "createdAt": "2024-12-23T09:23:09+00:00",
+  "updatedAt": "2024-12-26T15:34:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3e47d0eb-e1be-4757-87e9-e4f6cd8ece69",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-23T08:58:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motto\u0026Notto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-23T08:58:19+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3e47d0eb-e1be-4757-87e9-e4f6cd8ece69",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-23T08:58:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motto\u0026Notto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-23T08:58:19+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3f56c754-601a-405b-ad0d-4892fb010e65",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-23T09:23:12+00:00",
+    "description": "",
+    "fileName": "7b051d57-741f-4ca8-ba85-fedef392821d.jpg",
+    "locale": "en",
+    "updatedAt": "2024-12-23T09:23:12+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "39680ae4-cbb4-4270-a44c-72cbd1125d87",
+   "type": "creator"
+  }
+ ]
+}

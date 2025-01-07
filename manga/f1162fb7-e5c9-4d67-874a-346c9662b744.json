@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "It’s A Misunderstanding That I’m Dating The Villain"
+   "en": "It's a Misunderstanding That I'm Dating the Villain"
   },
   "altTitles": [
    {
@@ -14,7 +14,10 @@
    "en": "In my 24th year of reincarnation, I was living a peaceful life as an insignificant knight commander barely mentioned in the original story. Content with my uneventful existence, I avoided meddling in the main plot.\n\nBut during an undercover investigation, I accidentally stumbled upon the villain in the act.\n\n\"Sir Clara, have you been waiting for this opportunity? Clever, very clever.\"\n\"No, no! I swear to the gods, I have no intention of exposing your identity!\"\n\"Hah, and what reason do I have to trust you?\"\n\nThat’s how the shadowy mastermind decided to keep me under his watchful eye.\n\n\"Here, take this. I bought it just for you.\"\n\"Why would I accept this...?\"\n\"The flower matches the color of your hair. And now that I see it, it suits you perfectly.\"\n\nWait... why does everyone think the villain is pursuing me out of affection?\nThis was not part of the plan!"
   },
   "links": {
-   "mu": "5whiagt"
+   "mal": "177555",
+   "mu": "5whiagt",
+   "nu": "its-a-misunderstanding-that-im-dating-the-villain",
+   "raw": "https://page.kakao.com/content/65366477"
   },
   "originalLanguage": "ko",
   "status": "ongoing",
@@ -26,14 +29,14 @@
   "latestUploadedChapter": "d4255a49-16b4-421a-b52b-51d2c947de1f",
   "tags": [
    {
-    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Official Colored"
+      "en": "Reincarnation"
      },
      "description": {},
-     "group": "format",
+     "group": "theme",
      "version": 1
     }
    },
@@ -62,6 +65,30 @@
     }
    },
    {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -74,11 +101,23 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Web Comic"
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
      },
      "description": {},
      "group": "format",
@@ -87,9 +126,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2024-11-28T13:22:38+00:00",
-  "updatedAt": "2024-11-29T19:42:34+00:00"
+  "updatedAt": "2025-01-01T16:01:42+00:00"
  },
  "relationships": [
   {

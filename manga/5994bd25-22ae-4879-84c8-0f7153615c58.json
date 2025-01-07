@@ -1,0 +1,137 @@
+{
+ "id": "5994bd25-22ae-4879-84c8-0f7153615c58",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mobile Suit Fat Gundam"
+  },
+  "altTitles": [
+   {
+    "ja": "機動戦士ぶよガンダム"
+   },
+   {
+    "ja-ro": "Kidou Senshi Buyo Gundam"
+   }
+  ],
+  "description": {
+   "en": "A fat Zeon Zaku appears. Fat Amuro gets into the fat Gundam, but he's too fat to fit into the cockpit... Amuro, Char, and Sayla are all fat, heavy, fat, and oppressive in this Gundam parody manga."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/dp/B074CKT89X?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tkin",
+   "bw": "series/10591",
+   "mu": "2sh7780"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2007,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-09T08:38:49+00:00",
+  "updatedAt": "2024-12-09T08:38:57+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e7d2b9de-25ad-4466-87b1-bfead841df4a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Karasawa Nawoki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e7d2b9de-25ad-4466-87b1-bfead841df4a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Karasawa Nawoki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ee5fc2fb-ccca-4dc2-903a-59c069f3ade1",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-09T08:38:51+00:00",
+    "description": "",
+    "fileName": "83fc3a6b-a9eb-43b4-8cc0-6404d5745196.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-09T08:38:51+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "a1843fe3-9eb5-4f69-a07f-51c1c3d8ec2f",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

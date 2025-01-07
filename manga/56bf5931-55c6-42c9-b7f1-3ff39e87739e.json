@@ -3,11 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Definite Kokkuri-san"
+   "en": "Guaranteed Fortune Telling"
   },
   "altTitles": [
    {
     "ja": "さだめてコックリさん"
+   },
+   {
+    "ja-ro": "Sadamete Kokkuri-san"
+   },
+   {
+    "en": "Certain Kokkuri-san"
+   },
+   {
+    "en": "Definite Kokkuri-san"
    }
   ],
   "description": {},
@@ -73,9 +82,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2022-06-26T12:15:34+00:00",
-  "updatedAt": "2024-01-09T11:40:52+00:00"
+  "updatedAt": "2024-12-28T05:46:01+00:00"
  },
  "relationships": [
   {
@@ -83,7 +92,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -99,8 +108,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -111,7 +120,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Name In Native Language:** 加藤拓弐\n\n**Other Associated Names:**\nKato Takuji\nKato Tazuki\nいしゆみ\nisiyumi\nishiyumi"
+     "en": "**Name In Native Language:** 加藤拓弐\n\n**Also Known As:** isiyumi (いしゆみ) (ishiyumi)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -127,8 +136,8 @@
     "skeb": "https://skeb.jp/@isiyumi",
     "tumblr": null,
     "twitter": "https://twitter.com/isiyumi",
-    "updatedAt": "2024-08-15T20:33:22+00:00",
-    "version": 6,
+    "updatedAt": "2024-12-27T11:54:10+00:00",
+    "version": 7,
     "website": "http://newrp.blog34.fc2.com/",
     "weibo": null,
     "youtube": null
@@ -142,10 +151,15 @@
     "description": "",
     "fileName": "af9a1340-5f78-43e4-91db-c538d17b89ab.png",
     "locale": "ja",
-    "updatedAt": "2022-06-26T12:15:38+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2024-12-28T05:46:01+00:00",
+    "version": 2,
+    "volume": null
    }
+  },
+  {
+   "id": "5418be97-515b-492b-8827-ec0590747ba9",
+   "type": "manga",
+   "related": "alternate_version"
   },
   {
    "id": "5690663d-d01a-4451-b899-f17bc0211f84",

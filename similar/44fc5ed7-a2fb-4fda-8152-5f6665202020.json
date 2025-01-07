@@ -6,40 +6,30 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "fd2d7c3e-87ab-4775-a1e3-17403994043b",
-   "title": {
-    "en": "The Witch and the Mercenary"
-   },
-   "contentRating": "safe",
-   "score": 0.3678593,
-   "languages": [
-    "vi",
-    "th",
-    "fr",
-    "es-la",
-    "id"
-   ]
-  },
-  {
    "id": "c58d2ef0-c5b6-4c4b-938c-15db1914d393",
    "title": {
     "en": "SIRIUS"
    },
    "contentRating": "safe",
-   "score": 0.3619378,
+   "score": 0.40543297,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ed300649-6c3b-4d93-9960-c737935314ac",
+   "id": "fd2d7c3e-87ab-4775-a1e3-17403994043b",
    "title": {
-    "en": "Shuuen no Majo to Sekai no Tabi"
+    "en": "The Witch and the Mercenary"
    },
    "contentRating": "safe",
-   "score": 0.35621014,
+   "score": 0.37935472,
    "languages": [
-    "es-la"
+    "vi",
+    "th",
+    "fr",
+    "es-la",
+    "id",
+    "ar"
    ]
   },
   {
@@ -48,7 +38,7 @@
     "en": "Brainless Witch"
    },
    "contentRating": "safe",
-   "score": 0.3475164,
+   "score": 0.37650338,
    "languages": [
     "en",
     "id",
@@ -57,20 +47,34 @@
    ]
   },
   {
+   "id": "ed300649-6c3b-4d93-9960-c737935314ac",
+   "title": {
+    "en": "Shuuen no Majo to Sekai no Tabi"
+   },
+   "contentRating": "safe",
+   "score": 0.3473163,
+   "languages": [
+    "id",
+    "es-la"
+   ]
+  },
+  {
    "id": "dea77c2d-dbaa-434a-b0af-0c116642434c",
    "title": {
     "en": "Ichi the Witch"
    },
    "contentRating": "safe",
-   "score": 0.32924306,
+   "score": 0.34543937,
    "languages": [
-    "ar",
     "vi",
-    "en",
+    "ar",
     "pt-br",
     "fr",
+    "es",
     "ru",
-    "es-la"
+    "es-la",
+    "en",
+    "id"
    ]
   },
   {
@@ -79,7 +83,7 @@
     "en": "HUNTER x HUNTER (Official Colored)"
    },
    "contentRating": "safe",
-   "score": 0.32074448,
+   "score": 0.3175588,
    "languages": [
     "en",
     "vi",
@@ -92,34 +96,12 @@
    ]
   },
   {
-   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
-   "title": {
-    "en": "HUNTER x HUNTER"
-   },
-   "contentRating": "safe",
-   "score": 0.29298362,
-   "languages": [
-    "pl",
-    "en",
-    "pt-br",
-    "vi",
-    "es-la",
-    "ru",
-    "it",
-    "fa",
-    "ar",
-    "es",
-    "fr",
-    "tr"
-   ]
-  },
-  {
    "id": "1eda8411-e7d5-406d-89ab-f5d6fcf1e8ab",
    "title": {
     "en": "Hoshi no Witch - The witch in the ARTEMIS"
    },
    "contentRating": "safe",
-   "score": 0.2802082,
+   "score": 0.27918,
    "languages": [
     "vi"
    ]
@@ -130,35 +112,10 @@
     "en": "My Life as a Player"
    },
    "contentRating": "safe",
-   "score": 0.272044,
+   "score": 0.2718476,
    "languages": [
     "es-la",
     "en"
-   ]
-  },
-  {
-   "id": "f67cd21c-ecc2-49b8-818e-9ea501904bf1",
-   "title": {
-    "en": "Ghost Hunter"
-   },
-   "contentRating": "safe",
-   "score": 0.26162928,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8bfa142d-c006-4b76-a6ac-3f7cff7eeed4",
-   "title": {
-    "en": "Anz"
-   },
-   "contentRating": "safe",
-   "score": 0.25492546,
-   "languages": [
-    "fr",
-    "pt-br",
-    "en",
-    "es-la"
    ]
   },
   {
@@ -167,10 +124,43 @@
     "en": "Monster Hunter"
    },
    "contentRating": "safe",
-   "score": 0.2546529,
+   "score": 0.26299682,
    "languages": [
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "f67cd21c-ecc2-49b8-818e-9ea501904bf1",
+   "title": {
+    "en": "Ghost Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.2616281,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "90142bf9-4c6b-4683-acf0-be2fcd0990c3",
+   "title": {
+    "en": "Ghost Hunter"
+   },
+   "contentRating": "safe",
+   "score": 0.2616281
+  },
+  {
+   "id": "8bfa142d-c006-4b76-a6ac-3f7cff7eeed4",
+   "title": {
+    "en": "Anz"
+   },
+   "contentRating": "safe",
+   "score": 0.25456733,
+   "languages": [
+    "fr",
+    "pt-br",
+    "en",
+    "es-la"
    ]
   },
   {
@@ -179,7 +169,7 @@
     "en": "Story of The White Phoenix"
    },
    "contentRating": "safe",
-   "score": 0.25463185,
+   "score": 0.25411126,
    "languages": [
     "en"
    ]
@@ -190,7 +180,18 @@
     "en": "The Witch of Ice and Snow Has No Time For ××"
    },
    "contentRating": "safe",
-   "score": 0.25435477,
+   "score": 0.2533607,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "979803e0-9f06-49a7-bd09-98daabbbddec",
+   "title": {
+    "en": "The Witch at the End of the World"
+   },
+   "contentRating": "safe",
+   "score": 0.2470613,
    "languages": [
     "en"
    ]
@@ -201,24 +202,12 @@
     "en": "Evil Hunter"
    },
    "contentRating": "safe",
-   "score": 0.24636397,
+   "score": 0.24619769,
    "languages": [
     "en",
     "es-la"
    ]
-  },
-  {
-   "id": "bcffb5d4-05c6-4f2f-92c4-25ddda595805",
-   "title": {
-    "en": "Ghost and Witch"
-   },
-   "contentRating": "safe",
-   "score": 0.2428826,
-   "languages": [
-    "ru",
-    "en"
-   ]
   }
  ],
- "updatedAt": "2024-12-01T21:04:18+00:00"
+ "updatedAt": "2025-01-06T00:09:28+00:00"
 }

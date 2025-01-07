@@ -1,0 +1,147 @@
+{
+ "id": "0bfecfc4-d2cd-4230-b7d2-e038d3e5473f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shuumatsu Rock 'n' Girl"
+  },
+  "altTitles": [
+   {
+    "ja": "終末ロッキンガール"
+   },
+   {
+    "en": "Rock 'n' Girl of the End"
+   }
+  ],
+  "description": {
+   "ja": "亡くなった息子の代わりに孫の光を育てることになった初老の元軍人・雷蔵と亡き父の夢を叶えるためギターを手にする盲目の少女・光。突如襲来した宇宙人たちの攻撃により光たちの暮らす街は一瞬で焼け野原となってしまう・・・。生存者を排除するため侵攻を続ける宇宙人に追い詰められる雷蔵を救ったのは、光の奏でるギターの音・・・！？果たして『音楽』の力で宇宙人を打ち倒すことは出来るのか――！？"
+  },
+  "links": {
+   "al": "174283",
+   "amz": "https://www.amazon.co.jp/dp/B0D7955M65",
+   "ap": "shuumatsu-rock-n-girl",
+   "bw": "series/475256",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/834895",
+   "mal": "165765",
+   "raw": "https://webcomicgamma.takeshobo.co.jp/manga/syumatsurockingirl/"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f42fbf9e-188a-447b-9fdc-f19dc1e4d685",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Music"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-13T16:31:26+00:00",
+  "updatedAt": "2024-12-13T18:31:52+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6f2f266e-8df1-4a5c-8f89-63108b622f87",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-12-18T09:59:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiyama Riichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-12-18T09:59:28+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6f2f266e-8df1-4a5c-8f89-63108b622f87",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-12-18T09:59:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiyama Riichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-12-18T09:59:28+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "044514f6-a047-4694-86a5-de1c5f997706",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-13T16:31:37+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "bd321483-5399-48ea-8cf9-1b8e4a42e658.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-13T16:31:37+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

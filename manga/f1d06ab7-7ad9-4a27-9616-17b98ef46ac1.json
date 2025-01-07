@@ -1,0 +1,191 @@
+{
+ "id": "f1d06ab7-7ad9-4a27-9616-17b98ef46ac1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Lunacy (Kie)"
+  },
+  "altTitles": [
+   {
+    "ko": "월광"
+   },
+   {
+    "en": "Moonlight (Kie)"
+   }
+  ],
+  "description": {
+   "en": "\"Luce Kaisel is commander of the 3rd regiment of the Crimson Knights. But it has been a tough road to get to this position for him. Being the son of a woman of ill repute, Luce had always wanted to escape the judging gaze of his family and succeed on his own terms.\nOne day, he is thrust into the position of serving Ayle Linus, the Crown Prince. Luce is commanded to play the part of Ayle’s lover, but just for a short while. But what was supposed to be a fake affair, may create even more madness than anticipated...\""
+  },
+  "links": {
+   "ap": "lunacy-kie",
+   "engtl": "https://www.lezhinus.com/en/comic/lunacy",
+   "mu": "l4y5zoh",
+   "raw": "https://www.lezhin.com/ko/comic/moon_insane"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Boys' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-12-17T17:25:27+00:00",
+  "updatedAt": "2024-12-17T23:40:43+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f302cefc-f48b-41e6-98d5-a1a073ee24ed",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-12-16T10:18:31+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kie",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-12-16T10:18:31+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1e241a2a-4bf0-4e0f-b567-bb5e8eb148b8",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-17T17:28:13+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Seonagi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-17T17:28:13+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4368ecb8-77ed-4236-a315-4bd5e5075c45",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-17T17:25:29+00:00",
+    "description": "",
+    "fileName": "63a6a5e2-2782-4c03-80ec-1c250bb66524.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-12-17T17:29:28+00:00",
+    "version": 2,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "90f82ed1-f270-4960-9452-abff48f1a26d",
+   "type": "creator"
+  }
+ ]
+}

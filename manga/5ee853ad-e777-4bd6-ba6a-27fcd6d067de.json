@@ -1,0 +1,130 @@
+{
+ "id": "5ee853ad-e777-4bd6-ba6a-27fcd6d067de",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "SSS-kyuu Skill Haifu Shinkan no Henkyou Second Life ~Sasen Saki no Murabito-tachi ni Aisare Nagara Saikou no Mura o Tsukurimasu!~"
+  },
+  "altTitles": [
+   {
+    "ja": "ＳＳＳ級スキル配布神官の辺境セカンドライフ～左遷先の村人たちに愛されながら最高の村をつくります！～"
+   }
+  ],
+  "description": {
+   "en": "Rido, a priest serving in the church of the royal capital, is suddenly ordered by Archbishop Golbert to be transferred to the remote village of Rasutara. The reason? He supposedly granted a meaningless skill to the daughter of a duke. Despite Rido's attempts to explain the usefulness of the skill, Golbert refuses to listen. Reluctantly, Rido is exiled to the frontier with his beloved cat, Silky. However, this marks the beginning of a legendary story. Golbert, who orchestrated Rido's exile, was unaware of Rido's true strength—that he was capable of defeating dragons, the most powerful creatures, all on his own. Furthermore, Rido possessed an extraordinary ability to distribute legendary-level skills at will.",
+   "ja": "王都の教会で神官として従事していたリドは、突然大司教ゴルベールからラストア村へ左遷を命じられてしまう。その理由が「公爵家の令嬢に意味不明なスキルを授与したから左遷を命じる」というもので、リドは授与したスキルの有用性を説くが、ゴルベールには聞いてもらえなかった。愛猫のシルキーと共に辺境の地へと追いやられることになったリドだったが、これが伝説の始まりだった。リドを左遷したゴルベールは知らなかったのだ。リドがたった一人で最強種であるドラゴンを討伐できるほどの実力を持っていたことを。そして、伝説級のスキルを思うがままに配布できる規格外の能力を持っていたことを。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DP3CTN74",
+   "bw": "series/500122",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/864696",
+   "mu": "3xz5aq3"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-27T17:20:31+00:00",
+  "updatedAt": "2025-01-02T19:10:06+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f27c270a-8553-475a-9593-b950fe285c8c",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-09-06T03:40:33+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amaike Nozomu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-17T21:16:33+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "41e7140e-4106-445d-af6a-d696a88c4c86",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-12-11T02:52:24+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sudou Yuka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-12-11T02:52:24+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b4d97f68-0363-4459-b378-c2af9f1d2690",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-27T17:21:31+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "455d1e75-79c0-4cfb-a73b-d77e7a3fd7cf.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-27T17:21:31+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

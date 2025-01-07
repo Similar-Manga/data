@@ -3,14 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Koibito Play"
+   "en": "Lover Play"
   },
   "altTitles": [
    {
-    "en": "Koibito Purei"
+    "ja-ro": "Koibito Purei"
    },
    {
-    "en": "恋人プレイ"
+    "ja": "恋人プレイ"
+   },
+   {
+    "ja-ro": "Koibito Play"
    }
   ],
   "description": {
@@ -59,9 +62,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2018-05-25T01:28:45+00:00",
-  "updatedAt": "2022-01-23T20:13:01+00:00"
+  "updatedAt": "2024-12-10T04:31:55+00:00"
  },
  "relationships": [
   {

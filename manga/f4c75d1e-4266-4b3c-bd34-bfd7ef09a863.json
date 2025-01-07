@@ -51,6 +51,30 @@
   "latestUploadedChapter": "5421c6e9-6a3f-4296-8e04-e334b0fb8378",
   "tags": [
    {
+    "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Loli"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
     "attributes": {
@@ -63,14 +87,14 @@
     }
    },
    {
-    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Comedy"
+      "en": "Sexual Violence"
      },
      "description": {},
-     "group": "genre",
+     "group": "content",
      "version": 1
     }
    },
@@ -112,9 +136,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2018-02-06T06:15:01+00:00",
-  "updatedAt": "2024-08-31T03:13:01+00:00"
+  "updatedAt": "2024-12-10T21:11:31+00:00"
  },
  "relationships": [
   {

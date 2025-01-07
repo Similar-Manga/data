@@ -29,6 +29,12 @@
    "en": "Ao-ko Nagisa is a brand new teacher. She's posted to a tiny island on the edge of Japanese territory called Kotoko Island, 30 HOURS by boat from Tokyo. The island is so small there are only five students at the school. Everday becomes an adventure as Ao-ko gets to know her students, the other islanders and the island itself (including dolphins and other assorted wildlife.)"
   },
   "links": {
+   "al": "47170",
+   "amz": "https://www.amazon.co.jp/dp/4797339373",
+   "ap": "kotokoto-ko-to-kotou",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-396567",
+   "kt": "4227",
+   "mal": "17170",
    "mu": "12870"
   },
   "originalLanguage": "ja",
@@ -36,6 +42,10 @@
   "status": "completed",
   "year": 2007,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "d9d76d4c-2176-4aae-8dba-585d95b8a5e9",
   "tags": [
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
@@ -50,22 +60,22 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Web Comic"
+      "en": "Slice of Life"
      },
      "description": {},
-     "group": "format",
+     "group": "genre",
      "version": 1
     }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 7,
   "createdAt": "2018-06-12T05:20:43+00:00",
-  "updatedAt": "2023-12-26T15:22:04+00:00"
+  "updatedAt": "2024-12-15T08:15:00+00:00"
  },
  "relationships": [
   {
@@ -121,16 +131,16 @@
    }
   },
   {
-   "id": "f1915584-0bed-4f85-bdd7-2b1863034a7e",
+   "id": "bb68a51b-2368-4938-866b-ffb8690b58d6",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:37:19+00:00",
-    "description": "",
-    "fileName": "b3804257-592c-4b8a-8ac3-207b0765d3ed.png",
+    "createdAt": "2024-12-07T23:53:39+00:00",
+    "description": "Volume 4 Cover from Amazon",
+    "fileName": "8ae2a9e7-2d15-4cc8-9db3-e926c3337336.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:37:19+00:00",
+    "updatedAt": "2024-12-07T23:53:39+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
   }
  ]

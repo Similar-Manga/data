@@ -1,0 +1,116 @@
+{
+ "id": "23361212-099d-438c-b488-d166529d631e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Nopepe’s Kid Icarus Comics"
+  },
+  "description": {
+   "en": "Short comics that feature characters from Kid Icarus Uprising and Super Smash Brothers"
+  },
+  "originalLanguage": "ja",
+  "status": "hiatus",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-31T20:38:22+00:00",
+  "updatedAt": "2025-01-01T00:34:30+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ef5751f3-e1ac-470c-84ca-1cc60851ae13",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T00:29:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nopepe",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T00:29:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ef5751f3-e1ac-470c-84ca-1cc60851ae13",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T00:29:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nopepe",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T00:29:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "366c42e8-25ff-43d9-89df-a19f160cc31b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-01T00:33:03+00:00",
+    "description": "",
+    "fileName": "fb91842a-3ee4-4523-a582-30817c72fe77.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-01T00:33:03+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "37311d1c-aeec-440b-a48e-42753f9a4a1f",
+   "type": "creator"
+  }
+ ]
+}

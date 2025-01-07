@@ -16,7 +16,7 @@
   "links": {
    "ap": "second-home",
    "mu": "148780",
-   "raw": "http://webtoon.daum.net/webtoon/view/SecondHome"
+   "raw": "https://webtoon.kakao.com/content/%EB%91%90%EB%B2%88%EC%A7%B8-%EC%A7%91/1358?tab=episode"
   },
   "originalLanguage": "ko",
   "publicationDemographic": "josei",
@@ -25,7 +25,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "291a65c0-3319-41a2-b908-52277bc340f8",
+  "latestUploadedChapter": "892635d4-49b7-4b2a-9fc0-f0007c5b840c",
   "tags": [
    {
     "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
@@ -36,6 +36,18 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -89,9 +101,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-06-04T16:24:46+00:00",
-  "updatedAt": "2021-05-25T15:47:14+00:00"
+  "updatedAt": "2024-12-12T00:20:51+00:00"
  },
  "relationships": [
   {

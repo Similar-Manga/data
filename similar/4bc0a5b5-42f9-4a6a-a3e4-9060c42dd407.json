@@ -6,60 +6,42 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "7eecb3fd-52ad-4e19-bc16-884e59dfe8db",
+   "title": {
+    "en": "Tsundere na Watakushi ga Kawaii Nante Shouki Desu ka?"
+   },
+   "contentRating": "safe",
+   "score": 0.31323195,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "326b4c72-6216-494a-a9c6-1f0172543615",
+   "title": {
+    "en": "Taisho Kazoku-sama to Kekkon shite Yonaoshi shimasu!"
+   },
+   "contentRating": "safe",
+   "score": 0.2968063
+  },
+  {
    "id": "a488a1d0-cb4e-4abf-8c0d-6a4eccd42bc4",
    "title": {
-    "en": "N.Y. Komachi"
+    "en": "Belle of New York"
    },
    "contentRating": "safe",
-   "score": 0.29269695
+   "score": 0.2950355
   },
   {
-   "id": "b08d1c88-9973-48d1-8b59-f1f314cadd94",
+   "id": "f5a6063b-75bc-4051-af17-9427392ea64a",
    "title": {
-    "en": "Ukiyo Hatsukoi Emaki"
+    "en": "Mitsuba Ouji to Ibara no Shukujo"
    },
    "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "4f850f58-3727-49fa-9e47-ac30bb3533c8",
-   "title": {
-    "en": "Taishou Cinderella - Himitsu no Koi wa Kami ga Nobiru made"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "4b41397b-be8d-4fab-b036-39ff9c3688af",
-   "title": {
-    "en": "Koi ka Yamai ka"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "1f758a9d-258a-4c88-8d57-08e6bd81824c",
-   "title": {
-    "en": "Hiou Shirabyoushi"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "aab684cb-4cc0-4b24-9b15-9f2a27e6959a",
-   "title": {
-    "en": "Asuka no Oujo"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "251ad0c4-9ef2-4d71-bd48-16fd106543ce",
-   "title": {
-    "en": "The Pearl Grudge"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
+   "score": 0.2943833,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "4a4b1fa3-a11e-49c3-b363-7b3c812b2acf",
@@ -67,7 +49,7 @@
     "en": "Nan Chan Qiao Gu Niang"
    },
    "contentRating": "safe",
-   "score": 0.28508148
+   "score": 0.29357192
   },
   {
    "id": "fb8bc016-9afe-4011-a4ac-b42d87592815",
@@ -75,12 +57,25 @@
     "en": "Qing You Du Zhong"
    },
    "contentRating": "safe",
-   "score": 0.28508148
+   "score": 0.29303288
   },
   {
-   "id": "326b4c72-6216-494a-a9c6-1f0172543615",
+   "id": "0dfe9335-5d55-4565-b189-3acc6cfc6195",
    "title": {
-    "en": "Taisho Kazoku-sama to Kekkon shite Yonaoshi shimasu!"
+    "en": "Alpine Rose"
+   },
+   "contentRating": "safe",
+   "score": 0.29265034,
+   "languages": [
+    "tr",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "4f850f58-3727-49fa-9e47-ac30bb3533c8",
+   "title": {
+    "en": "Taishou Cinderella - Himitsu no Koi wa Kami ga Nobiru made"
    },
    "contentRating": "safe",
    "score": 0.28508148
@@ -102,6 +97,38 @@
    "score": 0.28508148
   },
   {
+   "id": "aab684cb-4cc0-4b24-9b15-9f2a27e6959a",
+   "title": {
+    "en": "Asuka no Oujo"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "b08d1c88-9973-48d1-8b59-f1f314cadd94",
+   "title": {
+    "en": "Ukiyo Hatsukoi Emaki"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "4b41397b-be8d-4fab-b036-39ff9c3688af",
+   "title": {
+    "en": "Koi ka Yamai ka"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "1f758a9d-258a-4c88-8d57-08e6bd81824c",
+   "title": {
+    "en": "Hiou Shirabyoushi"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
    "id": "a8425329-9950-401c-a5e8-2fbd75ad8f48",
    "title": {
     "en": "Qi Dan Qu"
@@ -110,37 +137,13 @@
    "score": 0.28508148
   },
   {
-   "id": "64c4a190-7c4e-477e-a48d-394e5c73626d",
+   "id": "251ad0c4-9ef2-4d71-bd48-16fd106543ce",
    "title": {
-    "en": "Soleil"
+    "en": "The Pearl Grudge"
    },
    "contentRating": "safe",
-   "score": 0.26548818,
-   "languages": [
-    "en",
-    "bg",
-    "pl"
-   ]
-  },
-  {
-   "id": "41566ebb-bd85-4402-b20a-ef9f66edfb07",
-   "title": {
-    "en": "Love Beyond Time"
-   },
-   "contentRating": "safe",
-   "score": 0.26157,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "32e29db4-95ec-4347-bdca-dd17e429b705",
-   "title": {
-    "en": "Maribelle"
-   },
-   "contentRating": "safe",
-   "score": 0.25559738
+   "score": 0.28508148
   }
  ],
- "updatedAt": "2024-12-01T21:06:32+00:00"
+ "updatedAt": "2025-01-06T00:12:04+00:00"
 }

@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Shima Kousaku no Jikenbo"
+   "en": "Kousaku Shima Case Files"
   },
   "altTitles": [
    {
     "ja": "島耕作の事件簿"
+   },
+   {
+    "ja-ro": "Shima Kousaku no Jikenbo"
    }
   ],
   "description": {
@@ -15,7 +18,7 @@
   },
   "links": {
    "al": "127724",
-   "amz": "https://www.amazon.co.jp/-/en/%E6%A8%B9%E6%9E%97%E4%BC%B8-ebook/dp/B07918VDHY/ref=sr_1_1?dib=eyJ2IjoiMSJ9.FGwrkO5NxQCLxPU2XHqvoXfwGceoZu09txCjZisFTDPGjHj071QN20LucGBJIEps.EIWInSUfxgrN1ySOPOVgvSHGkk0LpED-W5rmBZ5iJ1M\u0026dib_tag=se\u0026keywords=%E5%B3%B6%E8%80%95%E4%BD%9C%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF\u0026qid=1724442659\u0026s=digital-text\u0026sr=1-1",
+   "amz": "https://www.amazon.co.jp/-/en/樹林伸-ebook/dp/B07918VDHY/ref=sr_1_1?dib=eyJ2IjoiMSJ9.FGwrkO5NxQCLxPU2XHqvoXfwGceoZu09txCjZisFTDPGjHj071QN20LucGBJIEps.EIWInSUfxgrN1ySOPOVgvSHGkk0LpED-W5rmBZ5iJ1M\u0026dib_tag=se\u0026keywords=島耕作の事件簿\u0026qid=1724442659\u0026s=digital-text\u0026sr=1-1",
    "bw": "de257d9a1a-cc3a-437e-88b9-4f6c38ba4160",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/434852/",
    "mal": "117861",
@@ -68,9 +71,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2024-08-23T19:56:30+00:00",
-  "updatedAt": "2024-08-23T20:19:10+00:00"
+  "updatedAt": "2024-12-15T07:02:29+00:00"
  },
  "relationships": [
   {
@@ -141,6 +144,11 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "79aea528-7cb7-4fbb-a65c-1271d23b7395",
+   "type": "manga",
+   "related": "adapted_from"
   },
   {
    "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",

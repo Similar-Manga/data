@@ -3,14 +3,18 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Mijissou no Last Boss-tachi ga Nakama ni narimashita."
+   "en": "The Unimplemented Overlords Have Joined the Party!"
   },
   "altTitles": [
    {
     "ja": "未実装のラスボス達が仲間になりました。"
+   },
+   {
+    "ja-ro": "Mijissou no Last Boss-tachi ga Nakama ni narimashita."
    }
   ],
   "description": {
+   "en": "Young gamer Shuutarou is among the lucky few chosen to playtest Eternity, the latest VRMMORPG, and he wastes no time in activating his unique Create Dungeon skill…at the exact moment the game glitches! Now he and his fellow playtesters are trapped, and their lives are at stake. Shuutarou happens to end up in the one area that has yet to be patched into the game: the final-boss lair where the six Evil Overlords lurk. They promptly declare him their master— and with Eternity’s strongest baddies on his team, Shuutarou is up for any adventures this new life throws at him! (Yen Press)\n\n[Official English Light Novel](https://yenpress.com/series/the-unimplemented-overlords-have-joined-the-party)",
    "ja": "新型VRMMO《eternity》の無料枠に選ばれた主人公・修太郎は、ランダムスキルで得た《ダンジョン生成》をさっそく発動――しかし時を同じくして「mother AI」の暴走によりプレイヤーたちはゲーム内に閉じ込められ、ゲームの死=現実の死となるデスゲーム世界になってしまった…。スキルの効果で気がつくと修太郎は謎のエリア《ロス・マオラ城》へと転移していた。そこは恐るべき力を持つ６人の魔王たちの居城で、修太朗は命の危機を感じるのだった……。しかしそんな彼の心配をよそに、魔王の１人が口を開く――「修太朗様……我が王よ、我らがあなた様の盾となり矛となりましょう」"
   },
   "links": {
@@ -34,6 +38,18 @@
     "attributes": {
      "name": {
       "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
      },
      "description": {},
      "group": "genre",
@@ -75,12 +91,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-11-18T22:51:24+00:00",
-  "updatedAt": "2024-11-18T22:52:17+00:00"
+  "updatedAt": "2024-12-26T08:58:41+00:00"
  },
  "relationships": [
   {

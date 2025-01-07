@@ -1,0 +1,156 @@
+{
+ "id": "40fcaf75-87fc-4b92-8dc2-543862b3b4f5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mobile Suit Gundam Sidestory DEAD ZONE"
+  },
+  "description": {},
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1997,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "97c4d61e-bea0-424a-97d4-6ac339a94644",
+  "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "50880a9d-5440-4732-9afb-8f457127e836",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mecha"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-05T15:46:27+00:00",
+  "updatedAt": "2025-01-05T15:46:43+00:00"
+ },
+ "relationships": [
+  {
+   "id": "60b33c19-3a1b-4aeb-863d-d50c1e71bb55",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Baba Yasushi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/88yasushi",
+    "updatedAt": "2022-06-01T12:55:19+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "60b33c19-3a1b-4aeb-863d-d50c1e71bb55",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Baba Yasushi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/88yasushi",
+    "updatedAt": "2022-06-01T12:55:19+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a9a7d38a-9da7-48f2-9fb4-5a02f24d9485",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-05T15:46:36+00:00",
+    "description": "",
+    "fileName": "dae817c6-42ff-48af-b886-a18f5eae36e1.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-05T15:46:36+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "7db15f67-13ef-4417-b725-2b82e11329a8",
+   "type": "creator"
+  }
+ ]
+}

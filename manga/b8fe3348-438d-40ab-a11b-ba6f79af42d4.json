@@ -3,17 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Personal Circumstances of the Twins"
+   "en": "Futago-tachi no Shojijou"
   },
   "altTitles": [
    {
     "ja": "双子たちの諸事情"
    },
    {
-    "ja-ro": "Futago-tachi no Shojijou"
-   },
-   {
-    "ja": "The personal circumstances of the twins."
+    "en": "The Personal Circumstances of the Twins"
    },
    {
     "en": "The Twins' Circumstances"
@@ -24,6 +21,7 @@
   ],
   "description": {
    "en": "Kouki and Nao are twin brother and sister. As a matter of fact, the two have mutual feelings of love for each other, but “twin” love mustn't be permitted.\nBut then, their mother reveals a shocking truth.\n\n120% pure romcom, grandly start!",
+   "ja": "双子の兄妹である紅基(こうき)と那青(なお)。実は両想い同士のふたりだが、“双子”の恋など許されるはずもない。そんなとき、母から衝撃の事実を告げられる。",
    "pt-br": "Kouki e Nao são irmãos gêmeos que nutrem sentimentos um pelo outro, apesar de não conseguirem expressar esses sentimentos devido ao fato de crescerem como irmãos gêmeos. Entretanto, sua mãe revela um segredo sobre Kouki."
   },
   "links": {
@@ -31,7 +29,8 @@
    "amz": "https://www.amazon.co.jp/dp/B09NNX5QHW",
    "ap": "futago-tachi-no-shojijou",
    "bw": "series/273329",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/612321/",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/612321",
+   "kt": "59058",
    "mal": "127131",
    "mu": "166843",
    "raw": "https://twitter.com/mada_tetsukazu"
@@ -104,9 +103,9 @@
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 16,
   "createdAt": "2020-07-07T09:56:28+00:00",
-  "updatedAt": "2024-09-13T07:39:23+00:00"
+  "updatedAt": "2024-12-20T16:26:10+00:00"
  },
  "relationships": [
   {
@@ -114,7 +113,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Native In Name Language:** 鉄一"
+     "en": "**Native In Name Language:** 鉄一\n\n**Additional Sites:**\n- [Bluesky](https://bsky.app/profile/mada-tetsukazu.bsky.social)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -130,8 +129,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/mada_tetsukazu",
-    "updatedAt": "2024-09-13T06:47:11+00:00",
-    "version": 7,
+    "updatedAt": "2024-12-11T23:02:23+00:00",
+    "version": 8,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -142,7 +141,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Native In Name Language:** 鉄一"
+     "en": "**Native In Name Language:** 鉄一\n\n**Additional Sites:**\n- [Bluesky](https://bsky.app/profile/mada-tetsukazu.bsky.social)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -158,8 +157,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/mada_tetsukazu",
-    "updatedAt": "2024-09-13T06:47:11+00:00",
-    "version": 7,
+    "updatedAt": "2024-12-11T23:02:23+00:00",
+    "version": 8,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -3,10 +3,18 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Chiisana Hiroba"
+   "en": "Small Square"
   },
+  "altTitles": [
+   {
+    "ja": "ちいさな広場"
+   },
+   {
+    "ja-ro": "Chiisana Hiroba"
+   }
+  ],
   "description": {
-   "en": ""
+   "en": "This is a one volume series depicting self-contained stories about people relying on a particular app or web-site in order to change their lives."
   },
   "links": {
    "al": "84295",
@@ -16,17 +24,20 @@
    "mu": "74661"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "7",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2012,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "55c6bf42-0d95-4d2f-99f1-f6d7f4deec62",
   "state": "published",
-  "version": 1,
+  "version": 3,
   "createdAt": "2019-04-01T11:03:05+00:00",
-  "updatedAt": "2019-04-01T11:03:05+00:00"
+  "updatedAt": "2024-12-31T06:22:26+00:00"
  },
  "relationships": [
   {

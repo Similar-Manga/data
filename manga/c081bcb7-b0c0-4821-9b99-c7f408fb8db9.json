@@ -1,0 +1,109 @@
+{
+ "id": "c081bcb7-b0c0-4821-9b99-c7f408fb8db9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Thank you for  erecting for me"
+  },
+  "altTitles": [
+   {
+    "pt-br": "Obrigada por estar comigo"
+   }
+  ],
+  "description": {
+   "pt-br": "Você parece ser a única que consegue me deixar duro. Foi uma confissão inacreditável que ele me fez enquanto me pressionava contra a parede. Eu tinha perdido toda a minha confiança como mulher, mas agora..."
+  },
+  "originalLanguage": "pt-br",
+  "status": "ongoing",
+  "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-04T23:11:54+00:00",
+  "updatedAt": "2025-01-04T23:12:31+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4a02b895-ad62-4b79-b672-45a4757f2c97",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-01-29T05:24:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "TAKIZAWA Rinen",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-01-29T05:24:28+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4a02b895-ad62-4b79-b672-45a4757f2c97",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-01-29T05:24:28+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "TAKIZAWA Rinen",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-01-29T05:24:28+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1443c3d4-fac6-4558-9460-6d104cf75843",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-04T23:12:05+00:00",
+    "description": "",
+    "fileName": "727d3050-d1fb-47fc-9ffa-28358fac83d8.png",
+    "locale": "pt-br",
+    "updatedAt": "2025-01-04T23:12:05+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c33790c7-c946-44e2-8522-743d85020040",
+   "type": "creator"
+  }
+ ]
+}

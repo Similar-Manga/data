@@ -3,15 +3,27 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Foreign Object was Me"
+   "en": "The Foreign Object Was Me"
   },
   "altTitles": [
    {
     "ko": "이물질은 나였다"
+   },
+   {
+    "en": "The Foreign Body Was Me"
+   },
+   {
+    "vi": "Tôi Không Thuộc Về Nơi Này"
    }
   ],
   "description": {
-   "en": "I was once a candidate to become a saint, but I fell victim to a wicked scheme. Falsely accused of bringing down the duke's family, my only ally, and attempting to poison my rival, Diana, I met a miserable end. *\"What is this? Am I some throwaway character in a third-rate novel?\"* To my shock, I realized I had actually reincarnated as a minor character in a novel!  \n\nWhen I woke up again, I miraculously found myself back in my childhood. This time, I vowed to live a righteous life. By mending my ways, I unexpectedly won the duke’s favor, befriended his eldest son—who had once met an untimely death because of me—and even healed the terminally ill younger son.  \n\n*\"Great! Now all I need is to avoid any death flags!\"* But as I tried to steer away from the original plot, I kept getting entangled with potential male leads... And Diana, once known as the kind-hearted heroine, started acting strangely hostile.  \n\n*\"I can’t feel a pulse,\"* they said. To make matters worse, my heart went missing! Can I ever find peace in this life?"
+   "en": "I was once a candidate to become a saint, but I fell victim to a wicked scheme. Falsely accused of bringing down the duke’s family, my only ally, and attempting to poison my rival, Diana, I met a miserable end. \n\n*”What is this? Am I some throwaway character in a third-rate novel?”* \n\nTo my shock, I realized I had actually reincarnated as a minor character in a novel!\n\nWhen I woke up again, I miraculously found myself back in my childhood. This time, I vowed to live a righteous life. By mending my ways, I unexpectedly won the duke’s favor, befriended his eldest son—who had once met an untimely death because of me—and even healed the terminally-ill younger son.\n\n*”Great! Now all I need is to avoid any death flags!”* \n\nBut as I tried to steer away from the original plot, I kept getting entangled with potential male leads… And Diana, once known as the kind-hearted heroine, started acting strangely hostile.\n\n*”I can’t feel a pulse,”* \n\nTo make matters worse, my heart went missing! Can I ever find peace in this life?"
+  },
+  "links": {
+   "ap": "the-foreign-object-was-me",
+   "mu": "a5q01jm",
+   "nu": "the-foreign-object-was-me",
+   "raw": "https://page.kakao.com/content/65516244"
   },
   "originalLanguage": "ko",
   "status": "ongoing",
@@ -23,14 +35,14 @@
   "latestUploadedChapter": "d5c41af1-2caf-4000-9a65-97d695bfd74a",
   "tags": [
    {
-    "id": "320831a8-4026-470b-94f6-8353740e6f04",
+    "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Official Colored"
+      "en": "Reincarnation"
      },
      "description": {},
-     "group": "format",
+     "group": "theme",
      "version": 1
     }
    },
@@ -59,6 +71,30 @@
     }
    },
    {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -71,11 +107,23 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Web Comic"
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
      },
      "description": {},
      "group": "format",
@@ -84,9 +132,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-11-23T14:58:44+00:00",
-  "updatedAt": "2024-11-23T14:59:00+00:00"
+  "updatedAt": "2024-12-30T20:53:48+00:00"
  },
  "relationships": [
   {

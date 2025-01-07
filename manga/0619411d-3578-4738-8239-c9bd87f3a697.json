@@ -8,6 +8,9 @@
   "altTitles": [
    {
     "ja": "恐怖 目の怪"
+   },
+   {
+    "en": "The Abominable Eye Abomination"
    }
   ],
   "description": {},
@@ -20,6 +23,18 @@
   "status": "completed",
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "51d83883-4103-437c-b4b1-731cb73d786c",
     "type": "tag",
@@ -45,6 +60,30 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "cdad7e68-1419-41dd-bdce-27753074a640",
     "type": "tag",
     "attributes": {
@@ -58,9 +97,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2022-03-01T01:41:46+00:00",
-  "updatedAt": "2022-05-29T15:25:25+00:00"
+  "updatedAt": "2025-01-02T21:17:36+00:00"
  },
  "relationships": [
   {

@@ -1,0 +1,171 @@
+{
+ "id": "711c31a8-2722-44be-8fbf-cc828e695c93",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Zaika no Grimm"
+  },
+  "altTitles": [
+   {
+    "ja": "罪科のグリム"
+   },
+   {
+    "en": "Grimm of a Crime"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "112397",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B07C9RS7V7?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tkin",
+   "bw": "series/118211/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/412514/",
+   "mal": "113583",
+   "mu": "51qe1zg",
+   "raw": "https://pocket.shonenmagazine.com/episode/3269754496762579913"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "14",
+  "publicationDemographic": "josei",
+  "status": "completed",
+  "year": 2016,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-04T21:26:59+00:00",
+  "updatedAt": "2025-01-04T21:51:02+00:00"
+ },
+ "relationships": [
+  {
+   "id": "eb2907c3-0362-4611-b7d1-53e2fc7045c3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aozaki Ritsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "eb2907c3-0362-4611-b7d1-53e2fc7045c3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aozaki Ritsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9b8840a6-a4a7-4940-a8c4-93256cf89f93",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-04T21:27:03+00:00",
+    "description": "",
+    "fileName": "86e91cb2-a370-41a6-91d6-ccdbc266878a.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-04T21:27:03+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

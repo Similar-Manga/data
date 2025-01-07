@@ -3,20 +3,29 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Otome Sensou Gaiden II - Hi wo Tsugu Monotachi"
+   "en": "Dívčí Válka Gaiden II - Hi o Tsugu Mono-tachi"
   },
   "altTitles": [
    {
-    "en": "Dívčí Válka Gaiden II - Hi wo Tsugu Monotachi"
+    "ja": "乙女戦争外伝II 火を継ぐ者たち"
    },
    {
-    "en": "Divci Valka Gaiden II - Hi wo Tsugu Monotachi"
+    "ja-ro": "Dívčí Válka Gaiden II - Hi wo Tsugu Mono-tachi"
+   },
+   {
+    "ja-ro": "Divci Valka Gaiden II - Hi wo Tsugu Monotachi"
+   },
+   {
+    "ja-ro": "Otome Sensou Gaiden II - Hi o Tsugu Mono-tachi"
+   },
+   {
+    "ja-ro": "Otome Sensou Gaiden II - Hi wo Tsugu Mono-tachi"
+   },
+   {
+    "en": "The Maidens' War Side Story II: Those Who Inherit The Fire"
    },
    {
     "en": "Maiden War Gaiden II Those Who Inherit the Fire"
-   },
-   {
-    "en": "乙女戦争外伝II 火を継ぐ者たち"
    }
   ],
   "description": {
@@ -24,7 +33,10 @@
   },
   "links": {
    "al": "120942",
+   "amz": "https://www.amazon.co.jp/dp/B08X36Z179",
    "ap": "otome-sensou-gaiden-ii-hi-wo-tsugu-sha-tachi",
+   "bw": "series/242959",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/588479/",
    "mal": "127762",
    "mu": "169128",
    "raw": "https://comic-action.com/episode/13933686331699129987"
@@ -32,7 +44,9 @@
   "originalLanguage": "ja",
   "lastVolume": "2",
   "lastChapter": "10",
+  "publicationDemographic": "seinen",
   "status": "completed",
+  "year": 2020,
   "contentRating": "safe",
   "tags": [
    {
@@ -73,9 +87,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2020-08-14T20:51:31+00:00",
-  "updatedAt": "2021-11-13T15:56:03+00:00"
+  "updatedAt": "2024-12-11T08:55:35+00:00"
  },
  "relationships": [
   {
@@ -83,7 +97,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "Writes hentai under the pseudonym AZUMA Kenji\n\nFormer assistant of [Hoshino Yukinobu](https://mangadex.org/author/706826f2-20a1-413f-a874-706f1b1f64f0/hoshino-yukinobu). "
+     "en": "**Name In Native Language:** 大西巷一 (Oonishi Kouichi)\n\n**Hentai Alias:** Azuma Kenji (東犬二)\n\n**Additional Sites:**\n- [Azuma Kenji pixiv](https://www.pixiv.net/users/1083386)\n\nFormer assistant of [Hoshino Yukinobu](https://mangadex.org/author/706826f2-20a1-413f-a874-706f1b1f64f0). "
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -95,12 +109,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/6944",
+    "pixiv": "https://www.pixiv.net/users/6944",
     "skeb": null,
     "tumblr": null,
     "twitter": "http://twitter.com/kouichi_ohnishi",
-    "updatedAt": "2022-01-24T04:40:48+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-11T09:13:16+00:00",
+    "version": 4,
     "website": "http://ohnishikoichi.jimdo.com/",
     "weibo": null,
     "youtube": null
@@ -111,7 +125,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "Writes hentai under the pseudonym AZUMA Kenji\n\nFormer assistant of [Hoshino Yukinobu](https://mangadex.org/author/706826f2-20a1-413f-a874-706f1b1f64f0/hoshino-yukinobu). "
+     "en": "**Name In Native Language:** 大西巷一 (Oonishi Kouichi)\n\n**Hentai Alias:** Azuma Kenji (東犬二)\n\n**Additional Sites:**\n- [Azuma Kenji pixiv](https://www.pixiv.net/users/1083386)\n\nFormer assistant of [Hoshino Yukinobu](https://mangadex.org/author/706826f2-20a1-413f-a874-706f1b1f64f0). "
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -123,12 +137,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": "https://www.pixiv.net/en/users/6944",
+    "pixiv": "https://www.pixiv.net/users/6944",
     "skeb": null,
     "tumblr": null,
     "twitter": "http://twitter.com/kouichi_ohnishi",
-    "updatedAt": "2022-01-24T04:40:48+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-11T09:13:16+00:00",
+    "version": 4,
     "website": "http://ohnishikoichi.jimdo.com/",
     "weibo": null,
     "youtube": null
@@ -146,6 +160,11 @@
     "version": 1,
     "volume": "2"
    }
+  },
+  {
+   "id": "29d486b5-8722-4b01-b2f0-2eaf0a69cb2f",
+   "type": "manga",
+   "related": "shared_universe"
   },
   {
    "id": "7b3a1a2a-b19f-4d6b-ba8e-dde594d45d53",

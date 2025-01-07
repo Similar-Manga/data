@@ -3,24 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "My Not-So-Fair Lady Is Doomed! (but Not If I Can Help It)"
+   "en": "Uchi no Ojou-sama ga Hametsu End shika nai Akuyaku Reijou no you na no de, Ore ga Kyuusei shitai to Omoimasu"
   },
   "altTitles": [
-   {
-    "ja-ro": "Uchi no Ojou-sama ga Hametsu End shika nai Akuyaku Reijou no you na no de, Ore ga Kyuusei shitai to Omoimasu"
-   },
    {
     "ja": "うちのお嬢様が破滅エンドしかない悪役令嬢のようなので俺が救済したいと思います。"
    },
    {
-    "zh": "我家大小姐只有身为反派千金的破灭END"
+    "en": "My Not-So-Fair Lady Is Doomed! (but Not If I Can Help It)"
    },
    {
     "en": "It Seems My Lady Is the Villainess with Only a Bad End, so I'm Thinking of Saving Her"
+   },
+   {
+    "zh": "我家大小姐只有身为反派千金的破灭END"
    }
   ],
   "description": {
-   "en": "I, Vincent, a butler of a count’s daughter, suddenly remembered that the world I'm currently living in is part of an Otome game I’ve played in my past life! On top of that, my beloved lady is the villainess who will end up dying a violent death…?! What the hell! I’ll DEFINITELY save my lady from her bad endings!!! A peppy, isekai comedy, where the butler, Vincent “I Love My Lady” Serenade (a love interest), sprints around snapping all of his dear villainess’ death flags."
+   "en": "I, Vincent, a butler of a count’s daughter, suddenly remembered that the world I'm currently living in is part of an Otome game I’ve played in my past life! On top of that, my beloved lady is the villainess who will end up dying a violent death…?! What the hell! I’ll DEFINITELY save my lady from her bad endings!!! A peppy, isekai comedy, where the butler, Vincent “I Love My Lady” Serenade (a love interest), sprints around snapping all of his dear villainess’ death flags.\n\n(Source: Manga UP! Global)"
   },
   "links": {
    "al": "124586",
@@ -33,8 +33,10 @@
    "raw": "https://magazine.jp.square-enix.com/mangaup/original/ojousama_akuyaku/"
   },
   "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "16",
   "publicationDemographic": "shoujo",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2020,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -140,9 +142,9 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 15,
   "createdAt": "2020-06-22T13:13:39+00:00",
-  "updatedAt": "2024-10-30T00:34:36+00:00"
+  "updatedAt": "2024-12-06T00:56:14+00:00"
  },
  "relationships": [
   {
@@ -172,8 +174,8 @@
    }
   },
   {
-   "id": "325d8dd8-1b33-4df4-bd72-210a51b422be",
-   "type": "artist",
+   "id": "e482dcdb-7585-4d72-9b0d-467b4652dba0",
+   "type": "author",
    "attributes": {
     "biography": {},
     "booth": null,
@@ -182,7 +184,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Momoshiki",
+    "name": "Mizuguchi Too",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -224,16 +226,16 @@
    }
   },
   {
-   "id": "a27654dd-a467-4fcb-a85d-cf45f1487eb1",
+   "id": "2a204ba6-90af-4995-a3d1-1a7ab7e7d1b5",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-30T00:34:38+00:00",
+    "createdAt": "2024-12-05T19:14:43+00:00",
     "description": "",
-    "fileName": "f7149fe2-c4a8-4ac9-bd18-be981fb29589.jpg",
+    "fileName": "4c9b6127-06c1-4c9c-9864-1b9a3ff8d3a4.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-30T00:34:38+00:00",
+    "updatedAt": "2024-12-05T19:14:43+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "3"
    }
   }
  ]

@@ -1,0 +1,127 @@
+{
+ "id": "72eec90b-f3fb-4482-bf05-fa1cfb76463f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Surechi Koi"
+  },
+  "altTitles": [
+   {
+    "ja": "すれち恋"
+   }
+  ],
+  "description": {
+   "en": "The only things I know about love I learned from shoujo manga—\n\nMiran Koudouzono, a very sheltered high school girl, is going to meet the man of her dreams when she walks around that corner. The man she meets is, to her surprise, 〇○○…!? This is the latest work by the gag manga prodigy, Hatohana Tsurun, and it is a totally unique kind of shoujo manga!"
+  },
+  "links": {
+   "al": "185938",
+   "raw": "https://comic.pixiv.net/store/products/1745685"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-31T15:33:54+00:00",
+  "updatedAt": "2024-12-31T15:34:24+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0ec0f5cd-aaa2-4708-b4ef-2e26d866fcb4",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hatomune Tsurun",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hatomune_tsurun",
+    "updatedAt": "2023-06-24T16:54:09+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0ec0f5cd-aaa2-4708-b4ef-2e26d866fcb4",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hatomune Tsurun",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hatomune_tsurun",
+    "updatedAt": "2023-06-24T16:54:09+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b11df59c-afa1-4874-b091-a94e707c0782",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-31T15:33:57+00:00",
+    "description": "",
+    "fileName": "4a39a88c-c2ae-4ddb-b941-2f212eb56cf4.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-31T15:33:57+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

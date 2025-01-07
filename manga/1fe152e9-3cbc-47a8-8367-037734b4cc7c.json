@@ -5,18 +5,25 @@
   "title": {
    "en": "Nanatsu Boshi Tea Time"
   },
-  "description": {
-   "en": ""
-  },
+  "altTitles": [
+   {
+    "ja": "ななつぼしティータイム"
+   }
+  ],
+  "description": {},
   "links": {
    "al": "86525",
    "ap": "nanatsu-boshi-tea-time",
+   "bw": "de86ea60d5-ff66-4727-8efb-d0ae104b0642",
    "kt": "36639",
    "mal": "93286",
    "mu": "124688"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "13",
   "status": "completed",
+  "year": 2015,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -85,9 +92,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2018-11-19T17:25:48+00:00",
-  "updatedAt": "2021-05-25T15:40:12+00:00"
+  "updatedAt": "2024-12-31T05:45:32+00:00"
  },
  "relationships": [
   {
@@ -147,16 +154,16 @@
    }
   },
   {
-   "id": "3f9dd1d3-6b2d-4fa8-85d2-2b6d862e054d",
+   "id": "81fe66a6-69bd-4468-915c-72248bb1fd8d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:52:03+00:00",
+    "createdAt": "2024-12-31T05:45:32+00:00",
     "description": "",
-    "fileName": "d4e29468-350d-44c9-a747-997233350208.jpg",
+    "fileName": "a9dbe7a8-00f9-49da-9b6f-4e3dce1d8596.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:52:03+00:00",
+    "updatedAt": "2024-12-31T05:45:32+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

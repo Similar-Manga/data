@@ -3,32 +3,48 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tsuma ka Shi ka - Haisen Koku no Onnatachi"
+   "en": "Tsuma ka Shi ka ~Haisen Koku no Onnatachi~"
   },
   "altTitles": [
    {
     "ja": "妻か死か～敗戦国の女たち～"
    },
    {
-    "ja-ro": "Tsuma ka Shi ka ~Haisen Koku no Onnatachi~"
-   },
-   {
-    "en": "Marry or Die - Women of Defeated Countries"
+    "en": "Marry or Die: Women of Defeated Countries"
    },
    {
     "en": "Become a Wife or Die: The Women of Defeated Countries"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "異世界の侵略国家・アングロ帝国。この帝国に侵略された国の女には２つの選択肢が。帝国民に選ばれ妻になるか、殺されるか！ 帝国王宮に集められた美女たちが、王子の妻の座を狙って、セクシー＆バイオレントな闘いを展開！"
+  },
   "links": {
-   "bw": "series/487932/list",
-   "raw": "https://championcross.jp/episodes/74d8c9b6779a7/"
+   "amz": "https://www.amazon.co.jp/dp/B0DHLJJMZT",
+   "bw": "series/487932",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/863728",
+   "mal": "169402",
+   "mu": "tgcfpad",
+   "raw": "https://championcross.jp/episodes/74d8c9b6779a7"
   },
   "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2024,
   "contentRating": "erotica",
   "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
     "type": "tag",
@@ -79,9 +95,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-11-15T13:52:07+00:00",
-  "updatedAt": "2024-11-16T03:26:47+00:00"
+  "updatedAt": "2024-12-03T15:56:16+00:00"
  },
  "relationships": [
   {

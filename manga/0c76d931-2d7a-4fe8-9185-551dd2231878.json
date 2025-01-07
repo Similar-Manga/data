@@ -161,11 +161,37 @@
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 13,
   "createdAt": "2022-12-19T20:36:41+00:00",
-  "updatedAt": "2024-08-08T21:36:03+00:00"
+  "updatedAt": "2024-12-06T01:35:14+00:00"
  },
  "relationships": [
+  {
+   "id": "74d41e22-828d-4c1e-890f-7245fb4a3a95",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kaidouj1",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "88dd2f3b-1b53-41f0-9694-9fcc93b9fb78",
    "type": "author",
@@ -245,16 +271,16 @@
    }
   },
   {
-   "id": "66007c94-b14e-4688-9ebb-9cd44d7e7e6b",
+   "id": "40486d55-58cd-4b74-a553-ad578ffc2748",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-02-04T22:29:50+00:00",
-    "description": "Volume Cover From Amazon",
-    "fileName": "2976be95-7b99-483f-b291-c2298a0f788f.jpg",
+    "createdAt": "2024-12-06T01:35:13+00:00",
+    "description": "",
+    "fileName": "584d6795-15c4-4131-b869-66152daf62db.jpg",
     "locale": "ja",
-    "updatedAt": "2024-02-04T22:29:50+00:00",
+    "updatedAt": "2024-12-06T01:35:13+00:00",
     "version": 1,
-    "volume": "4"
+    "volume": "5"
    }
   },
   {

@@ -1,0 +1,137 @@
+{
+ "id": "0c5ed24c-d7ed-49b1-a889-fb0b2f085d84",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Aoba Jitenshaten to Ikouyo!"
+  },
+  "altTitles": [
+   {
+    "ja": "アオバ自転車店といこうよ！"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/148463/list",
+   "mu": "yp5zscj"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2017,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-04T08:40:56+00:00",
+  "updatedAt": "2025-01-04T08:41:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b639952f-591c-4f8e-ab15-1eb6fadd4d75",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Miyao Gaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b639952f-591c-4f8e-ab15-1eb6fadd4d75",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Miyao Gaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5a2464e8-fc3c-4a8f-b11e-489be3ee5436",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-04T08:45:10+00:00",
+    "description": "",
+    "fileName": "f8f46639-eb9c-488c-b56b-063439131b57.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-04T08:45:10+00:00",
+    "version": 1,
+    "volume": "14"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

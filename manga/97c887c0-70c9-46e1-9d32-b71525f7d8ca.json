@@ -1,0 +1,153 @@
+{
+ "id": "97c887c0-70c9-46e1-9d32-b71525f7d8ca",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "As the Witch Says"
+  },
+  "altTitles": [
+   {
+    "ko": "마녀말하는대로"
+   }
+  ],
+  "description": {
+   "en": "In a world where magic and might clash, Isoc dreams of becoming a wizard despite his muscular build. Raised by Father Kay, a priest who insists he become a fighter, Isoc faces constant pressure to follow a path he doesn't desire.\n\nDesperate to pursue his magical aspirations, Isoc ventures into the treacherous Dark Forest. There, he's attacked and nearly killed by a curse-eaten monster. At the brink of death, he's saved by a mysterious figure known only as the Witch.\n\nHowever, salvation comes at a price. The Witch, seeing potential in Isoc, forcefully binds him into a magical contract. \"I'll give you a curse, so make a contract with me!\" she declares, insisting that Isoc now owes her his life."
+  },
+  "links": {
+   "mu": "3tuckuw"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "aba8c721-1de2-4d0d-86f7-a3718fa80028",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-04T10:59:51+00:00",
+  "updatedAt": "2024-12-05T00:07:03+00:00"
+ },
+ "relationships": [
+  {
+   "id": "fe9093af-66bc-4dc4-a5f0-b9ed66232256",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-04T09:34:35+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Easel",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-04T09:34:35+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fe9093af-66bc-4dc4-a5f0-b9ed66232256",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-04T09:34:35+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Easel",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-04T09:34:35+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "870ea008-b75d-4c77-8c7b-30fff275e597",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-04T11:00:08+00:00",
+    "description": "",
+    "fileName": "c1eecbae-907b-4182-abf0-bdbcf00fef29.png",
+    "locale": "ko",
+    "updatedAt": "2024-12-04T11:00:08+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9cdba5af-b71d-49b6-b627-0faa5aeb84cf",
+   "type": "creator"
+  }
+ ]
+}

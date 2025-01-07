@@ -1,0 +1,149 @@
+{
+ "id": "7b2a7548-d2fd-4821-8a23-e5e89f7690c4",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kid Icarus - Hitode Fusoku (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "人手不足"
+   }
+  ],
+  "description": {
+   "en": "**Link:**\n- Alternative Official Raw - [Pixiv](https://www.pixiv.net/artworks/72393492) (Page 1 only, Artist compiled it with their other work and illustrations)"
+  },
+  "links": {
+   "raw": "https://x.com/nopepe_/status/1038620224789012480"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2018,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-05T17:15:10+00:00",
+  "updatedAt": "2025-01-05T17:15:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ef5751f3-e1ac-470c-84ca-1cc60851ae13",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T00:29:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nopepe",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T00:29:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ef5751f3-e1ac-470c-84ca-1cc60851ae13",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-01T00:29:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nopepe",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-01T00:29:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cb5cf16d-41d7-4582-a838-bf84d0b2bcc7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-05T17:15:13+00:00",
+    "description": "",
+    "fileName": "81d6423e-860c-407a-84df-5ac5380a59af.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-05T17:15:13+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "f319d314-4310-4610-bcea-98c0128def1d",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "A Second Goodbye To You."
+   "en": "Kimi ni Nidome no Sayonara wo."
   },
   "altTitles": [
    {
@@ -17,6 +17,9 @@
    },
    {
     "en": "A second goodbye to you."
+   },
+   {
+    "fr": "Un second au revoir"
    }
   ],
   "description": {
@@ -27,7 +30,7 @@
    "amz": "https://www.amazon.co.jp/dp/B0BJKN23G4",
    "ap": "kimi-ni-nidome-no-sayonara-wo",
    "bw": "series/374901",
-   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD%3A14\u0026q=%E5%90%9B%E3%81%AB%E4%BA%8C%E5%BA%A6%E7%9B%AE%E3%81%AE%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%92%E3%80%82\u0026order=reldesc\u0026opt.exclude_prx=on",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD:14\u0026q=君に二度目のさよならを。\u0026order=reldesc\u0026opt.exclude_prx=on",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/726292/",
    "kt": "kimi-ni-nidome-no-sayonara-wo",
    "mal": "147559",
@@ -120,9 +123,9 @@
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 16,
   "createdAt": "2023-01-07T22:37:09+00:00",
-  "updatedAt": "2024-03-27T12:18:00+00:00"
+  "updatedAt": "2024-12-22T15:56:18+00:00"
  },
  "relationships": [
   {

@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Neo Demon Lord Dante"
+   "en": "New Demon Lord Dante"
   },
   "altTitles": [
    {
@@ -14,6 +14,9 @@
    },
    {
     "ja": "新魔王ダンテ"
+   },
+   {
+    "vi": "Tân Ma Vương Dante"
    }
   ],
   "description": {
@@ -184,9 +187,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2019-02-06T20:33:38+00:00",
-  "updatedAt": "2024-09-02T00:27:16+00:00"
+  "updatedAt": "2024-12-26T18:33:45+00:00"
  },
  "relationships": [
   {
@@ -264,6 +267,16 @@
    "related": "alternate_story"
   },
   {
+   "id": "5137d635-5c9e-4ee3-a973-cffe004290b3",
+   "type": "manga",
+   "related": "based_on"
+  },
+  {
+   "id": "5b5feb0b-b96a-40f9-8779-182b9bfbbdc3",
+   "type": "manga",
+   "related": "alternate_version"
+  },
+  {
    "id": "5bf2d2a9-a21b-4596-8f31-2cd6779c7837",
    "type": "manga",
    "related": "alternate_story"
@@ -271,7 +284,12 @@
   {
    "id": "60fed225-5318-471f-8251-ebb0b3c1c6c1",
    "type": "manga",
-   "related": "prequel"
+   "related": "alternate_story"
+  },
+  {
+   "id": "6c619969-b204-49d1-a624-834493fcce81",
+   "type": "manga",
+   "related": "alternate_story"
   }
  ]
 }

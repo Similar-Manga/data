@@ -1,0 +1,158 @@
+{
+ "id": "199a4cdf-d807-4e3d-ae80-61e4fbc3c50e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "KISEKAE NINGYOU DE CHU♡"
+  },
+  "altTitles": [
+   {
+    "ja": "着せ替え人形でchu♡"
+   },
+   {
+    "ja-ro": "KISEKAE NINGYOU DE CHU♡"
+   },
+   {
+    "ja-ro": "Bisque Doll de Chu♡"
+   }
+  ],
+  "description": {
+   "en": "The spin-off of \"My Dress-Up Darling\", [Kisekae Ningyou de Chu ♡], has started serialization with a chaotic yet cute vibe"
+  },
+  "links": {
+   "mal": "177215"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "ru",
+   "vi",
+   "es-la",
+   "en"
+  ],
+  "latestUploadedChapter": "484842cf-adf8-471b-bdf5-911832acec2e",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-12-24T12:21:44+00:00",
+  "updatedAt": "2025-01-04T12:59:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4bba09c3-40c4-4cd6-9089-c47f73d5e1eb",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nFukuda Shin'ichi\n福田晋一"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fukuda Shinichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/fukudashin1",
+    "updatedAt": "2023-01-10T23:47:52+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "50a4e9ca-312f-43a9-a95d-2d8b6b153967",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T12:15:24+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "CHOBORA UNYOBOMI",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-24T12:15:24+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c991284d-fb1b-4170-940c-f8949e89bd70",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-24T12:21:54+00:00",
+    "description": "",
+    "fileName": "142cd998-ffe7-4c04-935c-5ac66d066686.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-24T12:21:54+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "aa6c76f7-5f5f-46b6-a800-911145f81b9b",
+   "type": "manga",
+   "related": "main_story"
+  },
+  {
+   "id": "fca42d9d-b00c-4b52-8966-c3e1061fca4e",
+   "type": "creator"
+  }
+ ]
+}

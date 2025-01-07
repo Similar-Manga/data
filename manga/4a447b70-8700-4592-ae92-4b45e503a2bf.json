@@ -1,0 +1,134 @@
+{
+ "id": "4a447b70-8700-4592-ae92-4b45e503a2bf",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Saikai Shita Osananajimi ga Watashi o Suki da Nante Kiitenai!"
+  },
+  "altTitles": [
+   {
+    "ja": "再会した幼馴染が私を好きだなんて聞いてない!"
+   },
+   {
+    "en": "I Never Heard That My Childhood Friend, Whom I Reunited With, Likes Me!"
+   }
+  ],
+  "description": {
+   "en": "Nao, a first-year university student, is quietly enjoying her campus life. The school is buzzing with talk about her handsome classmate and model, “Sho,” but she assumes such a glamorous world has nothing to do with her plain self. However, to her surprise, her crybaby and clumsy childhood friend turns out to be “Sho”! Not only that, but they suddenly start living together in secret from everyone…?! A love story between two people who can’t be honest with their feelings begins to unfold after their reunion."
+  },
+  "links": {
+   "mu": "egwa4fi",
+   "raw": "https://mechacomic.jp/books/198701?attribution_token=nQHwnAoMCK2vxbsGEOaNsf4BEAEaJDY3OGQ5NGFjLTAwMDAtMjFmZS1hNmYyLTI0MDU4ODc4NTgxYyobR0ExLjIuMTc0NDg5MTY3MC4xNzM0NDU4MzA5MjCc1rcto4CXIsLwnhXUsp0Vjr6dFajlqi23t4wtxcvzF5D3sjCf1rctjpHJMJruxjA6DmRlZmF1bHRfc2VhcmNoQAFoAXoCc2k"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "f88d27f2-186f-4e6d-8d30-54417c058e1b",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-30T23:27:17+00:00",
+  "updatedAt": "2025-01-01T13:05:16+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5e6aefcf-24b9-4cf7-9739-59ec01998834",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-30T23:21:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshikawa (よしかわ)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T23:21:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5e6aefcf-24b9-4cf7-9739-59ec01998834",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-30T23:21:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yoshikawa (よしかわ)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T23:21:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7176bd14-9eb3-48ca-ad73-a131a78da598",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T23:27:22+00:00",
+    "description": "",
+    "fileName": "1f8b0692-c60c-47a3-b5f9-e4347c4bba73.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T23:27:22+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "2e048289-ec5b-4cbe-91a4-090307761e6c",
+   "type": "creator"
+  }
+ ]
+}

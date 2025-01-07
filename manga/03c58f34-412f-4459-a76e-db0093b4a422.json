@@ -5,8 +5,14 @@
   "title": {
    "en": "That One Classmate Makes Me Question My Own Masculinity"
   },
+  "altTitles": [
+   {
+    "uk": "Моя однокласниця змушує мене сумніватися у власній маскулінности"
+   }
+  ],
   "description": {
-   "en": "Just a story of a strong boy and an even stronger girl. Everyone want to be protected, right?"
+   "en": "Just a story of a strong boy and an even stronger girl. Everyone want to be protected, right?",
+   "uk": "Проста історія сильного хлопця і ще сильнішої дівчини. Кожному ж подобається, коли його захищають, чи не так?"
   },
   "links": {
    "engtl": "https://x.com/WhjteDragonfly/status/1816049297059897431"
@@ -19,9 +25,11 @@
   "availableTranslatedLanguages": [
    "en",
    "pt-br",
-   "hu"
+   "uk",
+   "hu",
+   "id"
   ],
-  "latestUploadedChapter": "10044d08-9a67-4274-bc83-16ff9a1d42bc",
+  "latestUploadedChapter": "b830d23e-809c-4456-a6b3-e0d3dca5e459",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -97,9 +105,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2024-07-23T14:00:07+00:00",
-  "updatedAt": "2024-08-26T17:03:08+00:00"
+  "updatedAt": "2024-12-04T19:17:40+00:00"
  },
  "relationships": [
   {
@@ -132,7 +140,9 @@
    "id": "9a670171-b356-4961-bfd9-1529f5ee688a",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "A normal artist. "
+    },
     "booth": null,
     "createdAt": "2023-10-09T14:53:42+00:00",
     "fanBox": null,
@@ -147,8 +157,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/WhjteDragonfly",
-    "updatedAt": "2024-07-22T15:25:02+00:00",
-    "version": 2,
+    "updatedAt": "2025-01-04T16:18:01+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -158,7 +168,9 @@
    "id": "9a670171-b356-4961-bfd9-1529f5ee688a",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "A normal artist. "
+    },
     "booth": null,
     "createdAt": "2023-10-09T14:53:42+00:00",
     "fanBox": null,
@@ -173,8 +185,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/WhjteDragonfly",
-    "updatedAt": "2024-07-22T15:25:02+00:00",
-    "version": 2,
+    "updatedAt": "2025-01-04T16:18:01+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null

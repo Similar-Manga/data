@@ -1,0 +1,131 @@
+{
+ "id": "95e119ab-d5b6-4bff-bed6-e3116ad91a71",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Madougushi Dahlia wa Utsumukanai ~Ouritsu Koutou Gakuin-hen~"
+  },
+  "altTitles": [
+   {
+    "ja": "魔導具師ダリヤはうつむかない ～王立高等学院編～"
+   }
+  ],
+  "description": {
+   "en": "Dahlia Rosetti, who graduated from the primary academy alongside her friends, including Lucia, is set on following in the footsteps of her father, a magical artisan. Enrolling in the Magic Tools Department of the Royal Academy, Dahlia begins to explore her passion. Through interactions with her classmates and hands-on training in crafting magical devices, she gradually uncovers her extraordinary talent for creating magical tools.\n\nThis is the origin story of Dahlia, the magical artisan who brings happiness to the people of another world while enjoying a carefree craftsman’s life. A tale of her beginnings, driven by creativity and the joy of making.",
+   "ja": "友人のルチアたちとともに初等学院を卒業したダリヤ・ロセッティは、魔導具師である父と同じ道を歩むため、王立高等学院の魔導具科に入学する。クラスメイトとの交流や魔導具科での実習を通じ、やがてダリヤは魔導具づくりの非凡な才能を開花させていくのだった――。自由気ままなものづくりで、職人ライフを楽しみながら、異世界の人々を幸せにしていく魔導具師ダリヤ誕生のきっかけとなる前日譚。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CZSYZV7V",
+   "ap": "madougushi-dahlia-wa-utsumukanai-ouritsu-koutougakuin-hen",
+   "bw": "series/471024",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/829322",
+   "mu": "acrbdq8"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-23T01:10:21+00:00",
+  "updatedAt": "2025-01-02T20:33:37+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3ab2f101-2af8-490d-82b7-83659016286d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amagishi Hisaya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/amagishihisaya",
+    "updatedAt": "2022-09-07T17:45:16+00:00",
+    "version": 2,
+    "website": "https://mypage.syosetu.com/1300935/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a2baf723-b149-48f3-a16b-18dc7b5bd4df",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Akabane Nina",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/member.php?id=43522491",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/akabanenina",
+    "updatedAt": "2022-12-07T01:58:13+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "75423ff4-a2e5-4c55-bb1c-0ce71ac7ab4a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-23T01:10:24+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "aefd503a-4223-4f3c-947b-7674b19ba097.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-23T01:10:24+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

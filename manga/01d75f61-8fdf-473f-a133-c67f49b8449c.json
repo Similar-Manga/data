@@ -8,10 +8,16 @@
   "altTitles": [
    {
     "en": "Arisu's Holy Night Wish"
+   },
+   {
+    "ja-ro": "Arisu no Seiya no Negaigoto (THE IDOLM@STER CINDERELLA GIRLS)"
+   },
+   {
+    "ja": "(C91) ありすの聖夜の願い事 (アイドルマスター シンデレラガールズ)"
    }
   ],
   "description": {
-   "en": "Part of [THE iDOLM@STER](https://mangadex.org/?page=search\u0026title=iDOLM%40STER) series."
+   "en": "| Namespace | Tags |\n| :--- | :--- |\n| parody | the idolmaster |\n| character | arisu tachibana, producer |\n| group | re barna |\n| artist | uraho an |\n| male | sole male |\n| female | lolicon, sole female |\n[Source](https://exhentai.org/g/1197338/229edfc743/)"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -21,6 +27,18 @@
   ],
   "latestUploadedChapter": "5c57807c-b282-43be-89fa-3f8b092b1468",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
     "type": "tag",
@@ -47,9 +65,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-03-23T21:46:57+00:00",
-  "updatedAt": "2021-05-25T15:38:47+00:00"
+  "updatedAt": "2024-12-26T03:33:49+00:00"
  },
  "relationships": [
   {
@@ -72,6 +90,32 @@
     "tumblr": null,
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cf7f1aa8-c24d-40e5-a707-a8d7ff7c7e9a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-26T03:31:16+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "re:barna (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-26T03:31:16+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -105,6 +149,32 @@
    }
   },
   {
+   "id": "cf7f1aa8-c24d-40e5-a707-a8d7ff7c7e9a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-26T03:31:16+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "re:barna (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-26T03:31:16+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "4b6c3bb3-3e0d-4f98-bdf1-692fb4c3ff70",
    "type": "cover_art",
    "attributes": {
@@ -116,6 +186,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "99ecc886-a9e8-4dd7-9979-bac2f5bd68c6",
+   "type": "manga",
+   "related": "based_on"
   }
  ]
 }

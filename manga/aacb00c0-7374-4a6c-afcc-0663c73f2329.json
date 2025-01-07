@@ -33,7 +33,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "15329de7-8db3-4386-b158-06349ea57372",
+  "latestUploadedChapter": "da4148f9-ff82-4984-8ad3-98386dfd9663",
   "tags": [
    {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
@@ -48,14 +48,14 @@
     }
    },
    {
-    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Ghosts"
+      "en": "Comedy"
      },
      "description": {},
-     "group": "theme",
+     "group": "genre",
      "version": 1
     }
    },
@@ -118,12 +118,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2024-05-18T12:28:26+00:00",
-  "updatedAt": "2024-11-20T10:46:07+00:00"
+  "updatedAt": "2024-12-09T13:03:55+00:00"
  },
  "relationships": [
   {
@@ -190,6 +202,11 @@
     "version": 1,
     "volume": "1.1"
    }
+  },
+  {
+   "id": "fe89bc3d-24fb-41f8-b684-a896463984b4",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "a692a389-14ea-41de-a061-2f447e0d4679",

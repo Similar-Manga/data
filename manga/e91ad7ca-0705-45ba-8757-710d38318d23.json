@@ -1,0 +1,175 @@
+{
+ "id": "e91ad7ca-0705-45ba-8757-710d38318d23",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Woman in the Red Room"
+  },
+  "altTitles": [
+   {
+    "ja": "都市伝説「赤い部屋（赤い目？）」"
+   },
+   {
+    "ja-ro": "Toshi Densetsu \"Akai Heya (Akai Me?)\""
+   },
+   {
+    "en": "Urban Legend \"Red Room (Red Eyes?)\""
+   },
+   {
+    "ja": "赤い部屋の女"
+   },
+   {
+    "ja-ro": "Akai Heya no Onna"
+   },
+   {
+    "en": "White with Red"
+   }
+  ],
+  "description": {
+   "en": "Based on the urban legend \"Akai Heya\" (not the creepypasta about a torture site), which is known in english as \"White with Red\""
+  },
+  "links": {
+   "raw": "https://ameblo.jp/osanaikokoronomamade/entry-11479966991.html?frm=theme"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-03T14:23:16+00:00",
+  "updatedAt": "2024-12-04T10:42:19+00:00"
+ },
+ "relationships": [
+  {
+   "id": "da98c074-2976-4701-8ab4-b13698bb70e0",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-03T14:21:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Meigenkyo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-03T14:21:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "da98c074-2976-4701-8ab4-b13698bb70e0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-03T14:21:50+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Meigenkyo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-03T14:21:50+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cf9413e7-1ea1-4884-b56d-1c8adf846a8f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-03T14:23:19+00:00",
+    "description": "",
+    "fileName": "7e271c31-9f89-446e-a581-f7e8216d7911.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-03T14:23:19+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a692a389-14ea-41de-a061-2f447e0d4679",
+   "type": "creator"
+  }
+ ]
+}

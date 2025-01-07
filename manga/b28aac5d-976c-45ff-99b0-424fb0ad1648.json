@@ -1,0 +1,138 @@
+{
+ "id": "b28aac5d-976c-45ff-99b0-424fb0ad1648",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "GoGo Sentai Bokenger"
+  },
+  "altTitles": [
+   {
+    "ja": "轟轟戦隊ボウケンジャー"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2007,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-12T07:03:22+00:00",
+  "updatedAt": "2024-12-12T07:09:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3690f113-c87a-4c2e-87d9-151022808083",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tsushima Naoto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/763853",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/naototsushima",
+    "updatedAt": "2023-04-16T00:30:15+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3690f113-c87a-4c2e-87d9-151022808083",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tsushima Naoto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/763853",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/naototsushima",
+    "updatedAt": "2023-04-16T00:30:15+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8bd0ac33-faf5-47bf-a591-613115a14758",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-12T07:03:23+00:00",
+    "description": "",
+    "fileName": "91b850c5-a27b-4d37-8f06-91af07f7971d.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-12T07:03:23+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "42e27030-434a-423c-8ba9-02d7a2a34a0d",
+   "type": "manga",
+   "related": "alternate_version"
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

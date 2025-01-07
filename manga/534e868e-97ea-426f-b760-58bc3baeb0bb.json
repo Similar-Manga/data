@@ -7,26 +7,45 @@
   },
   "altTitles": [
    {
-    "en": "たそがれ、君に会いに行く"
+    "ja": "たそがれ、君に会いに行く"
    },
    {
-    "en": "傍晚时分，我将去见你"
+    "zh": "傍晚时分，我将去见你"
    }
   ],
   "description": {
-   "en": "A compilation of short stories.   \n  \n1-2. Tasogare, Kimi ni Ai ni Iku  \n3. Tomodachi no Aida  \n4. Atokata (Traces)  \n5. Hoshizora Randevú"
+   "en": "A compilation of short stories.   \n  \n1-2. **Tasogare, Kimi ni Ai ni Iku**\n3. **Tomodachi no Aida**\n4. **Atokata** (Traces)\n\"It was during the summer of my 3rd year in middle school; when I happened to see something I probably shouldn't have.\"\n\nAnno sees a boy in the changing room and on his back is a \"beautiful\" tattoo.\n5. **Hoshizora Randevú**"
   },
   "links": {
-   "mu": "132598"
+   "amz": "https://www.amazon.co.jp/dp/4861348749/",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1941493",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/363135/",
+   "mu": "132598",
+   "raw": "https://www.cmoa.jp/title/113644/"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "5",
   "status": "completed",
+  "year": 2016,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "ad9cabc2-f85f-45ce-bb96-6c56949cef26",
   "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
     "type": "tag",
@@ -50,12 +69,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2020-09-12T15:35:43+00:00",
-  "updatedAt": "2021-05-25T15:42:24+00:00"
+  "updatedAt": "2024-12-21T15:36:01+00:00"
  },
  "relationships": [
   {
@@ -115,16 +146,16 @@
    }
   },
   {
-   "id": "06c28165-7385-4f69-a055-9cd0c665ae02",
+   "id": "21562946-f316-4f9f-9d76-34dd7db26c67",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:10:03+00:00",
+    "createdAt": "2021-05-23T07:41:38+00:00",
     "description": "",
-    "fileName": "4eee9fd4-d851-47ec-896c-8e64f284cb50.jpg",
+    "fileName": "c64534d3-8225-47a2-8f93-66960eeb9b88.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:10:03+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T07:41:39+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

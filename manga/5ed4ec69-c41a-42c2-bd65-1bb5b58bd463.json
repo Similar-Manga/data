@@ -1,0 +1,131 @@
+{
+ "id": "5ed4ec69-c41a-42c2-bd65-1bb5b58bd463",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Neko no Tame ni Konkatsu Hajimemashita"
+  },
+  "altTitles": [
+   {
+    "ja": "猫のために婚活はじめました"
+   }
+  ],
+  "description": {
+   "en": "Hatsue was enjoying a happy life with her beloved cat, Mook, when a casual conversation with her mother sparked a realization: \"I can't leave Mook behind and die alone!\" Determined to find someone who could care for Mook in the future, she decided to dive into the world of matchmaking. Luckily, she discovered a *Cat Matchmaking* event hosted by a pet shop and bravely decided to join. There, she met Ikeda, a handsome man inexplicably adored by cats. While Hatsue hoped to grow closer to Ikeda for Mook's sake, he quickly saw through her true intentions for joining the matchmaking event—what will happen next?",
+   "ja": "愛猫ムックとの幸せな毎日をエンジョイしていた初枝だが、母親との何気ない会話をきっかけに「ムックを残して孤独死するわけにはいかない！」と、ムックのお世話をしてくれる人を探すため婚活を決意！　幸運にもペットショップが企画する「猫婚活」を発見し、思い切って参加してみることに。そこで出会ったのは、なぜか猫に愛されるイケメン・池田さん。ムックのために、池田さんと仲良くなりたい初枝だったが、彼に婚活の本当の目的を見透かされてしまい――!?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CFYBLHJG",
+   "bw": "series/429736",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/776326",
+   "mu": "xzvvb1i",
+   "raw": "https://manga-park.com/title/75277"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-23T00:13:58+00:00",
+  "updatedAt": "2025-01-02T20:34:48+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8aa7bc35-a0c4-4bc8-afcf-cf928eaff751",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-23T00:12:25+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Munba",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-23T00:12:25+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8aa7bc35-a0c4-4bc8-afcf-cf928eaff751",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-23T00:12:25+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Munba",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-23T00:12:25+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3b140ed0-169f-4c7b-83aa-0e6d2ce0c007",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-23T00:14:12+00:00",
+    "description": "Volume 4 Cover from BookLive",
+    "fileName": "117537da-9ae7-4def-b0dc-c8b495fccf85.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-23T00:14:12+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

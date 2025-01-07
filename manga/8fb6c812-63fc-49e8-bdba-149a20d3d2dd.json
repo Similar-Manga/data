@@ -7,7 +7,7 @@
   },
   "altTitles": [
    {
-    "en": "イトウさん"
+    "ja": "イトウさん"
    }
   ],
   "description": {
@@ -16,11 +16,14 @@
   },
   "links": {
    "al": "95730",
+   "amz": "https://www.amazon.co.jp/dp/4863495064/",
    "ap": "itou-san-sui-kuraka",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/340273/",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1797369",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/340273/A001593095/",
    "kt": "36796",
    "mal": "91968",
-   "mu": "122696"
+   "mu": "122696",
+   "raw": "https://www.cmoa.jp/title/106445/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -30,9 +33,10 @@
   "availableTranslatedLanguages": [
    "tr",
    "en",
+   "vi",
    "pl"
   ],
-  "latestUploadedChapter": "cfe11b0c-b1d0-4d5f-ae23-9a1d8c0e98ce",
+  "latestUploadedChapter": "d8ba703c-75ff-4649-8982-dd011ada5f1f",
   "tags": [
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
@@ -120,16 +124,18 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2018-12-02T12:00:49+00:00",
-  "updatedAt": "2021-05-25T15:45:05+00:00"
+  "updatedAt": "2024-12-02T07:28:08+00:00"
  },
  "relationships": [
   {
    "id": "ddce0146-2cfe-47e7-b358-7420e02b785f",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n冥花すゐ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -144,9 +150,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-12-02T07:16:32+00:00",
+    "version": 2,
+    "website": "http://vanitas-mode.blog.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -155,7 +161,9 @@
    "id": "ddce0146-2cfe-47e7-b358-7420e02b785f",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n冥花すゐ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -170,30 +178,30 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2024-12-02T07:16:32+00:00",
+    "version": 2,
+    "website": "http://vanitas-mode.blog.jp/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "e23843e0-1cbf-4f71-a088-12849c863436",
+   "id": "84c080aa-0978-4f5a-8c72-6188bb99d64a",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:53:26+00:00",
+    "createdAt": "2021-05-23T06:01:00+00:00",
     "description": "",
-    "fileName": "c3f8bab3-b5c8-4917-aa6b-2b5763229d55.jpg",
+    "fileName": "11b40067-2aec-42ff-aaf8-e1fc9056e884.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:53:26+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:01:00+00:00",
+    "version": 2,
+    "volume": "1"
    }
   },
   {
    "id": "cd116229-3224-472d-a491-9f88a1793823",
    "type": "manga",
-   "related": "prequel"
+   "related": "sequel"
   }
  ]
 }

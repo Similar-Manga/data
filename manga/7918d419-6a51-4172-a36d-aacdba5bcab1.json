@@ -1,0 +1,120 @@
+{
+ "id": "7918d419-6a51-4172-a36d-aacdba5bcab1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Yume Densetsu = Peter Rice"
+  },
+  "altTitles": [
+   {
+    "ja": "石渡治傑作集 夢・伝説＝ピーター・ライス"
+   }
+  ],
+  "description": {
+   "en": "Do you know who Peter Pan is? I am not bread, I am Peter Rice. But I can turn sad tears into smiles and light a little light in a darkened heart. Come on, let's have a good dream with me!"
+  },
+  "links": {
+   "al": "163011",
+   "amz": "https://www.amazon.co.jp/-/en/%E7%9F%B3%E6%B8%A1%E6%B2%BB-ebook/dp/B010PII6GG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.XVmCkaBknLhiRYB_UnWQ7K0AJXjkChO35Frm-ktbdDXGjHj071QN20LucGBJIEps.NuyP-w1zlWShgIhpqaR8b-bLJF2RjMmjp4WLu1xoWLc\u0026dib_tag=se\u0026keywords=%E7%9F%B3%E6%B8%A1%E6%B2%BB%E5%82%91%E4%BD%9C%E9%9B%86+%E5%A4%A2%E3%83%BB%E4%BC%9D%E8%AA%AC%EF%BC%9D%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%A9%E3%82%A4%E3%82%B9\u0026qid=1735594264\u0026s=digital-text\u0026sr=1-1",
+   "bw": "de4323fa4e-7e5d-49a6-8c54-30d870ab5508",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/112007/",
+   "mu": "hdzxqke"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "6",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1987,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-30T21:34:10+00:00",
+  "updatedAt": "2024-12-30T21:38:26+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4c657ec7-2fd2-4661-8c94-a899103455e6",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-18T15:48:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishiwata Osamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-18T15:48:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2761f244-bc61-4027-b23f-e1c33760f8e3",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T21:34:12+00:00",
+    "description": "",
+    "fileName": "48131da6-fc56-456e-af0d-f77b460465e4.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T21:34:12+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

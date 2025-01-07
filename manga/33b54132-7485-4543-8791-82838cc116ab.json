@@ -1,0 +1,122 @@
+{
+ "id": "33b54132-7485-4543-8791-82838cc116ab",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Recycled Paper Fortress"
+  },
+  "altTitles": [
+   {
+    "ja": "再生紙の砦"
+   },
+   {
+    "ja-ro": "Saiseishi no Toride"
+   }
+  ],
+  "description": {
+   "en": "A collection of short comics.\n___\n**Additional Buy Links:**\n- [Suruga-ya](https://www.suruga-ya.jp/product/detail/ZHORO34893)\n- [MANDARAKE](https://order.mandarake.co.jp/order/detailPage/item?itemCode=1149954610)\n- [TACO ché](https://taco.shop-pro.jp/?pid=89524510)"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/s?k=%E5%86%8D%E7%94%9F%E7%B4%99%E3%81%AE%E7%A0%A6",
+   "raw": "http://binthef.com/JPN/manga/kayama_toride00.html"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "status": "completed",
+  "year": 2008,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-13T23:02:32+00:00",
+  "updatedAt": "2024-12-13T23:09:23+00:00"
+ },
+ "relationships": [
+  {
+   "id": "758412e7-3420-487f-a21b-555d83ce51e6",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 香山哲\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/kayamatetsu/)\n- [Threads](https://www.threads.net/@kayamatetsu)"
+    },
+    "booth": null,
+    "createdAt": "2024-05-03T10:26:44+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kayama Tetsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kayamatetsu",
+    "updatedAt": "2024-12-13T22:00:29+00:00",
+    "version": 3,
+    "website": "https://kayamatetsu.com/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCn86ElSbzHCI0IUkJ4wUj1g"
+   }
+  },
+  {
+   "id": "758412e7-3420-487f-a21b-555d83ce51e6",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 香山哲\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/kayamatetsu/)\n- [Threads](https://www.threads.net/@kayamatetsu)"
+    },
+    "booth": null,
+    "createdAt": "2024-05-03T10:26:44+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kayama Tetsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kayamatetsu",
+    "updatedAt": "2024-12-13T22:00:29+00:00",
+    "version": 3,
+    "website": "https://kayamatetsu.com/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCn86ElSbzHCI0IUkJ4wUj1g"
+   }
+  },
+  {
+   "id": "56755f4d-1531-4c5c-bec6-b824b20b8f0b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-13T23:02:41+00:00",
+    "description": "digital cover",
+    "fileName": "07f481d2-f1cf-4217-bc06-4bced69b2b54.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-13T23:02:41+00:00",
+    "version": 1,
+    "volume": "1.1"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

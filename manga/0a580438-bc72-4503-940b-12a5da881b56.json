@@ -7,16 +7,16 @@
   },
   "altTitles": [
    {
-    "en": "You are a Four Leaf Clover"
-   },
-   {
-    "vi": "Cậu là cỏ 4 lá"
-   },
-   {
     "ja": "きみは四葉のクローバー"
    },
    {
+    "en": "You are a Four Leaf Clover"
+   },
+   {
     "zh": "恋人手中四叶草"
+   },
+   {
+    "vi": "Cậu là cỏ 4 lá"
    }
   ],
   "description": {
@@ -27,7 +27,10 @@
   },
   "links": {
    "al": "180647",
-   "bw": "series/494989/list",
+   "amz": "https://www.amazon.co.jp/dp/B0DMTJ78CF",
+   "ap": "kimi-wa-yotsuba-no-clover",
+   "bw": "series/494989",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/867189",
    "mal": "172247",
    "mu": "3fv0my9",
    "raw": "https://championcross.jp/series/f744ef1a6decb"
@@ -38,11 +41,13 @@
   "year": 2024,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
+   "es-la",
    "zh",
+   "id",
    "vi",
-   "id"
+   "en"
   ],
-  "latestUploadedChapter": "27178ad2-6ea6-4569-a8ad-77e15f733e7c",
+  "latestUploadedChapter": "edbbb646-32dd-422e-8157-7d02325068d1",
   "tags": [
    {
     "id": "292e862b-2d17-4062-90a2-0356caa4ae27",
@@ -106,9 +111,9 @@
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 11,
   "createdAt": "2024-10-06T05:54:24+00:00",
-  "updatedAt": "2024-11-14T23:54:43+00:00"
+  "updatedAt": "2024-12-27T23:06:37+00:00"
  },
  "relationships": [
   {
@@ -126,12 +131,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/3568137",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/kousikyun",
+    "updatedAt": "2024-12-23T14:12:26+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -152,28 +157,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/3568137",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/kousikyun",
+    "updatedAt": "2024-12-23T14:12:26+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "aa8f0080-10cf-4aef-a93c-0712366c48bc",
+   "id": "b5a779a1-beff-482b-a708-9fcaffdf68ad",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-12T03:25:50+00:00",
+    "createdAt": "2024-12-27T17:42:41+00:00",
     "description": "",
-    "fileName": "e09b4033-bb8c-430b-b08e-5d77d2229bf6.jpg",
+    "fileName": "a57a5f83-d4b8-4ad4-bdbe-37c72e82876d.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-12T03:25:50+00:00",
+    "updatedAt": "2024-12-27T17:42:41+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

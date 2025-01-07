@@ -3,39 +3,40 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Sukinako ga Megane wo Wasureta - Pixiv Side Stories"
+   "en": "The Girl I Like Forgot Her Glasses - pixiv Side Stories"
   },
   "altTitles": [
-   {
-    "id": "Gebetanku Lupa Kacamatanya"
-   },
-   {
-    "ja-ro": "Sukinako ga Ie no Kagi wo Wasureta -  Pixiv Side Stories"
-   },
-   {
-    "en": "The Girl I Like Forgot Her Glasses -  Pixiv Side Stories"
-   },
    {
     "ja": "好きな子が家のカギを忘れた"
    },
    {
-    "pt-br": "A Garota Que Eu Gosto Vive Esquecendo Os Óculos - Histórias Paralelas do Pixiv"
+    "ja-ro": "Suki na Ko ga Megane o Wasureta - pixiv Side Stories"
    },
    {
-    "en": "Suki na Ko ga Megane wo Wasureta - Pixiv Side Stories"
+    "ja-ro": "Suki na Ko ga Megane wo Wasureta - pixiv Side Stories"
+   },
+   {
+    "ja-ro": "Sukinako ga Megane wo Wasureta - pixiv Side Stories"
+   },
+   {
+    "id": "Gebetanku Lupa Kacamatanya"
+   },
+   {
+    "pt-br": "A Garota Que Eu Gosto Vive Esquecendo Os Óculos - Histórias Paralelas do Pixiv"
    }
   ],
   "description": {
-   "en": "Side stories and Illustrations of Sukinako ga Megane wo Wasureta from the author's Pixiv.  \n  \n---\n**Note:**\n- May have common chapters with the parent manga.",
+   "en": "Side stories and illustrations from the author's pixiv.",
    "pt-br": "Histórias paralelas e ilustrações de Sukinako ga Megane wo Wasureta do Pixiv do autor.\n\n- **Nota:** Pode ter capítulos comuns com o mangá da historia principal."
   },
   "links": {
    "al": "114452",
    "mu": "157595",
-   "raw": "https://www.pixiv.net/en/artworks/77070859"
+   "raw": "https://www.pixiv.net/artworks/77070859"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastChapter": "14",
+  "status": "completed",
   "year": 2019,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -73,18 +74,6 @@
     }
    },
    {
-    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Doujinshi"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
@@ -110,9 +99,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 13,
   "createdAt": "2020-03-18T02:48:38+00:00",
-  "updatedAt": "2024-07-04T15:11:37+00:00"
+  "updatedAt": "2024-12-20T12:52:39+00:00"
  },
  "relationships": [
   {
@@ -120,7 +109,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\n藤近小梅"
+     "en": "**Name In Native Language:** 藤近小梅"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -136,8 +125,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/hujiume",
-    "updatedAt": "2023-07-05T23:38:33+00:00",
-    "version": 4,
+    "updatedAt": "2024-12-20T13:18:32+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -148,7 +137,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\n藤近小梅"
+     "en": "**Name In Native Language:** 藤近小梅"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
@@ -164,8 +153,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/hujiume",
-    "updatedAt": "2023-07-05T23:38:33+00:00",
-    "version": 4,
+    "updatedAt": "2024-12-20T13:18:32+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -179,20 +168,25 @@
     "description": "",
     "fileName": "b3f5a375-9d4c-4c6d-9093-3f23da861dc4.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-23T07:20:14+00:00",
-    "version": 2,
-    "volume": "1"
+    "updatedAt": "2024-12-20T12:50:23+00:00",
+    "version": 3,
+    "volume": null
    }
   },
   {
    "id": "43541d36-7996-472b-aefb-72f640c29eda",
    "type": "manga",
-   "related": "main_story"
+   "related": "shared_universe"
   },
   {
    "id": "6d6d9fda-5cd3-40ac-948b-776b1a1a0eb1",
    "type": "manga",
    "related": "main_story"
+  },
+  {
+   "id": "8cb045fe-2f2a-4688-b303-0de6247e2701",
+   "type": "manga",
+   "related": "same_franchise"
   }
  ]
 }

@@ -6,12 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "cad9ed63-bded-4f09-b59a-a24c315cfad2",
+   "title": {
+    "en": "Sakamoto Holidays"
+   },
+   "contentRating": "safe",
+   "score": 0.2569291,
+   "languages": [
+    "en",
+    "pt-br",
+    "ar"
+   ]
+  },
+  {
    "id": "3bcbfa49-6d0b-4130-868b-86897af19d45",
    "title": {
     "en": "Minecraft: Journey to the World's End"
    },
    "contentRating": "safe",
-   "score": 0.2413067,
+   "score": 0.24125251,
    "languages": [
     "en"
    ]
@@ -42,25 +55,12 @@
    ]
   },
   {
-   "id": "cad9ed63-bded-4f09-b59a-a24c315cfad2",
-   "title": {
-    "en": "Sakamoto Holidays"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en",
-    "pt-br",
-    "ar"
-   ]
-  },
-  {
    "id": "6d8a2637-c260-45d9-9b24-bfc6da33c911",
    "title": {
     "en": "Kunimitsu no Matsuri"
    },
    "contentRating": "safe",
-   "score": 0.21721372,
+   "score": 0.21718676,
    "languages": [
     "en"
    ]
@@ -71,13 +71,26 @@
     "en": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita"
    },
    "contentRating": "safe",
-   "score": 0.21304421,
+   "score": 0.2128446,
    "languages": [
     "es-la",
     "id",
     "vi",
     "en",
     "ru"
+   ]
+  },
+  {
+   "id": "b70113a5-32a3-44e8-a28f-0e88392808ba",
+   "title": {
+    "en": "One Piece Academy"
+   },
+   "contentRating": "safe",
+   "score": 0.20978172,
+   "languages": [
+    "vi",
+    "en",
+    "id"
    ]
   },
   {
@@ -99,25 +112,12 @@
    ]
   },
   {
-   "id": "b70113a5-32a3-44e8-a28f-0e88392808ba",
-   "title": {
-    "en": "One Piece Academy"
-   },
-   "contentRating": "safe",
-   "score": 0.20978172,
-   "languages": [
-    "vi",
-    "en",
-    "id"
-   ]
-  },
-  {
    "id": "adce0aea-3f6d-4fd2-9902-1107f59f94da",
    "title": {
     "en": "Arafoo Kenja no Isekai Seikatsu Nikki"
    },
    "contentRating": "safe",
-   "score": 0.20736524,
+   "score": 0.20729904,
    "languages": [
     "en",
     "pt-br",
@@ -131,7 +131,7 @@
     "en": "Bullet 6mm"
    },
    "contentRating": "safe",
-   "score": 0.20401801,
+   "score": 0.20400457,
    "languages": [
     "en"
    ]
@@ -142,7 +142,7 @@
     "en": "The Legend of Zelda - Ocarina of Time 3D"
    },
    "contentRating": "safe",
-   "score": 0.2024558,
+   "score": 0.20239615,
    "languages": [
     "es-la",
     "de",
@@ -151,15 +151,26 @@
    ]
   },
   {
-   "id": "6c079564-363d-4d95-9410-4a841e6a33fb",
+   "id": "4fd144b8-fc47-4cf4-afc7-9191d88dcc4a",
    "title": {
-    "en": "Sekai Saikyou no Majo, Hajimemashita ~Watashi Dake \"Kouryaku Saito\" o Miseru Sekai de Jiyuu ni Ikimasu~"
+    "en": "Kutabire Salarymen no Ore, 7nenburi ni Saikai shita Bishoujo JK to Dosei wo Hajimaru"
    },
    "contentRating": "safe",
-   "score": 0.19735138,
+   "score": 0.19491173,
    "languages": [
-    "th",
-    "id",
+    "en",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "5c9eb7c2-2c2f-4368-aa31-df310c6387a9",
+   "title": {
+    "en": "Nekomaki"
+   },
+   "contentRating": "safe",
+   "score": 0.19491173,
+   "languages": [
     "en"
    ]
   },
@@ -175,30 +186,6 @@
    ]
   },
   {
-   "id": "5c9eb7c2-2c2f-4368-aa31-df310c6387a9",
-   "title": {
-    "en": "Nekomaki"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "4fd144b8-fc47-4cf4-afc7-9191d88dcc4a",
-   "title": {
-    "en": "Kutabire Salarymen no Ore, 7nenburi ni Saikai shita Bishoujo JK to Dosei wo Hajimaru"
-   },
-   "contentRating": "safe",
-   "score": 0.19491173,
-   "languages": [
-    "es-la",
-    "vi",
-    "en"
-   ]
-  },
-  {
    "id": "5a68b16e-bb1c-4a48-a705-2ec7e5652488",
    "title": {
     "en": "The Homeless Saint in the Abandoned Park"
@@ -208,7 +195,18 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "7df6b14b-16b1-4835-bd22-58dccf59808b",
+   "title": {
+    "en": "Tank Tankuro"
+   },
+   "contentRating": "safe",
+   "score": 0.19422014,
+   "languages": [
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2024-12-01T21:47:32+00:00"
+ "updatedAt": "2025-01-06T01:01:09+00:00"
 }

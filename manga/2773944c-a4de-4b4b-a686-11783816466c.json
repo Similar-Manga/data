@@ -3,37 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Night Out 2"
+   "en": "Night Out"
   },
   "altTitles": [
    {
-    "ja-ro": "Koushoku Shounen Vol. 02"
-   },
-   {
-    "ja": "好色少年 Vol.02"
+    "ja": "night out"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Note: Published in Koushoku Shounen Vol. 01~02"
+  },
   "originalLanguage": "ja",
+  "lastChapter": "2",
   "status": "completed",
+  "year": 2012,
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "799e306b-13ff-46a7-b4ad-14b43b933ef1",
+  "latestUploadedChapter": "512be07e-dd59-44cb-aef3-091c13dd237b",
   "tags": [
-   {
-    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Oneshot"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
    {
     "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
     "type": "tag",
@@ -48,9 +37,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-04-26T09:26:37+00:00",
-  "updatedAt": "2024-03-20T21:43:47+00:00"
+  "updatedAt": "2024-12-31T09:56:44+00:00"
  },
  "relationships": [
   {
@@ -106,16 +95,16 @@
    }
   },
   {
-   "id": "1fec85d0-23b6-4fb7-b05f-7cfc0b704ba3",
+   "id": "94202cb7-b565-4619-b073-dbd8ee6beb10",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:09:35+00:00",
+    "createdAt": "2024-12-31T09:56:44+00:00",
     "description": "",
-    "fileName": "bee06957-51f0-466a-8189-d80bc18c5f3a.jpg",
+    "fileName": "1c747404-211e-400c-91ce-7c11e641b086.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:09:35+00:00",
+    "updatedAt": "2024-12-31T09:56:44+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

@@ -1,0 +1,164 @@
+{
+ "id": "4c311d47-948d-4c33-8ea0-795554d30a76",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Princess of the Never-ending Castle"
+  },
+  "altTitles": [
+   {
+    "fr": "La Princesse du château sans fin"
+   },
+   {
+    "ja": "無限の城のプリンセス"
+   }
+  ],
+  "description": {
+   "en": "This is a story about a world that splits into billions of endless worlds just like the classic science fiction trope \"parallel worlds.\"\n\nAlthough stories of parallel worlds have been written in many mediums (novels, movies, manga, etc.) in the past, I consider this story, “the Princess of the Never-ending Castle,\" presents a new way to show parallel worlds in which I’ve never seen before.\n\nAt the same time, this graphic novel also includes experiments of manga expressions. Please enjoy this work that features new challenges in various parts.\"",
+   "fr": "C'est l'histoire d'un monde qui se divise en millions de petits mondes infinis, comme dans un thème classique de la science fiction : les mondes parallèles. Bien que des histoires de mondes parallèles ont été écrites à travers de nombreux médiums, La Princesse du Château sans Fin propose une nouvelle manière de montrer ces mondes superposés, par le prisme du château médiéval, symbole de la puissance des shoguns. On y retrouve les éléments forts des mangas de Kago : virtuosité de la composition, sexe grotesque et gore, réécriture d'événements historiques, dessins et décors totalement fous. Ce manga graphique , dérangeant et fascinant installe Shintaro Kago comme un maitre de la narration et du récit d'horreur."
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2022,
+  "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-21T16:03:50+00:00",
+  "updatedAt": "2024-12-21T19:53:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ab61e894-a0cb-4bbe-b554-785fc75c5964",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kago Shintaro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ab61e894-a0cb-4bbe-b554-785fc75c5964",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kago Shintaro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "01c71860-d70c-47e2-a1cb-861c755af1a4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-21T16:05:22+00:00",
+    "description": "",
+    "fileName": "615aef19-7ad0-47be-9f71-f9f4049e7669.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-21T16:05:22+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c2f43aef-75f1-49bf-8232-2b4bcc695a47",
+   "type": "creator"
+  }
+ ]
+}

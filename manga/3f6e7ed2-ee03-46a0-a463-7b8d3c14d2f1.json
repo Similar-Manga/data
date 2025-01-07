@@ -10,15 +10,16 @@
     "en": "Pink Scrap"
    },
    {
-    "en": "ピンクスクラップ"
+    "ja": "ピンクスクラップ"
    }
   ],
   "description": {
-   "en": ""
+   "en": "A special edition/side story of the popular series \"Namaikizakari.\" (Cheeky Brat) featuring the couple Tono-kun and Ami-chan! They've been dating for a year, but they still haven't progressed beyond kissing. What will become of their \"first time\"?! This collection of short stories also includes the elusive first one-shot version of \"Namaikizakari\"."
   },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/B07DPGWQ87/",
-   "ap": "pink-scrap"
+   "ap": "pink-scrap",
+   "bw": "de03fb4369-ffa4-4442-9d0b-6704e7c49be7"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shoujo",
@@ -51,9 +52,9 @@
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 4,
   "createdAt": "2019-07-01T22:12:43+00:00",
-  "updatedAt": "2019-07-01T22:12:43+00:00"
+  "updatedAt": "2025-01-02T04:36:00+00:00"
  },
  "relationships": [
   {
@@ -120,6 +121,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "787a9f0c-6f48-401c-8edc-d6ee07516c4f",
+   "type": "manga",
+   "related": "side_story"
   }
  ]
 }

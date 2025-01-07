@@ -1,0 +1,130 @@
+{
+ "id": "fdcccbf2-4b15-424d-8cca-ea99bf24ad6b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Soyokaze Takeoff"
+  },
+  "altTitles": [
+   {
+    "ja": "そよ風テイクオフ"
+   },
+   {
+    "ja-ro": "Soyokaze Take Off"
+   },
+   {
+    "ko": "산들바람 테이크오프"
+   }
+  ],
+  "description": {
+   "ja": "「私といっしょなら、飛べるでしょっ？」あの大空に憧れて、人力飛行機を作る「飛行部」を設立した紅羽たち。大会に向けて、より遠く飛ぶ機体完成を目標に、日々製作に励みます！CFRP？リブ製作？初めては皆で解決！ゆるふわっと飛行機作りが今、テイクオフ！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/そよ風テイクオフ-１巻-まんがタイムKRコミックス-うみのとも-ebook/dp/B0151GZKM0",
+   "bw": "de10a8234d-1e62-4167-b303-7042944491eb",
+   "mu": "3ewj9p4",
+   "raw": "https://comic-fuz.com/book/700"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "ko"
+  ],
+  "latestUploadedChapter": "a532b42f-1784-42c5-a6c0-ff033be51c8c",
+  "tags": [
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 7,
+  "createdAt": "2024-12-03T10:22:43+00:00",
+  "updatedAt": "2024-12-04T05:35:21+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b1e3bcfe-2ea8-48d4-9dc2-e6a125b31884",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 海野智\n\n**Alt. names**:\nうみのとも\nUmi no Tomo"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Umino Tomo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-04T05:33:56+00:00",
+    "version": 3,
+    "website": "http://chaton.sblo.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b1e3bcfe-2ea8-48d4-9dc2-e6a125b31884",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 海野智\n\n**Alt. names**:\nうみのとも\nUmi no Tomo"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Umino Tomo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-04T05:33:56+00:00",
+    "version": 3,
+    "website": "http://chaton.sblo.jp/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b98fec1a-a313-4cc8-9dce-933ed9d138af",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-03T10:27:22+00:00",
+    "description": "",
+    "fileName": "b45bfefa-6a37-439c-936a-46b3095190f0.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-03T10:27:22+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "374707ca-0b6d-44bd-808b-da9e6477fa99",
+   "type": "creator"
+  }
+ ]
+}

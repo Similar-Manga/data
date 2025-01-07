@@ -1,0 +1,187 @@
+{
+ "id": "69de2274-e7bc-4f0c-946e-54013dbad42e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tokusou Sentai Dekaranger the Movie: Full Blast Action"
+  },
+  "altTitles": [
+   {
+    "ja": "特捜戦隊デカレンジャー THE MOVIE フルブラスト・アクション"
+   },
+   {
+    "ja-ro": "Tokusō Sentai Dekaranger the Movie: Full Blast Action"
+   }
+  ],
+  "description": {
+   "ja": "惑星レスリーを死の星に変えた「ガスドリンカーズ」に対し、レスリーのデカレンジャー「マリー」と、地球を守るデカレンジャーの6人が協力して平和を守る！　人気絶好調の特撮ヒーロードラマの劇場版コミック化！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/%E7%89%B9%E6%8D%9C%E6%88%A6%E9%9A%8A%E3%83%87%E3%82%AB%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BCTHE-MOVIE-%E3%83%95%E3%83%AB%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-%E5%8D%98%E8%A1%8C%E6%9C%AC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9D%B1%E6%98%A0/dp/4048538632"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2005,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Police"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-11T05:15:06+00:00",
+  "updatedAt": "2024-12-12T04:43:55+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3dead130-6108-457c-a497-d6b587860168",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takeyama Yuusuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3dead130-6108-457c-a497-d6b587860168",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takeyama Yuusuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c26c87a7-b00a-4c06-bf2a-9d272d4e5e43",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-11T05:15:10+00:00",
+    "description": "",
+    "fileName": "63c4a2ca-c716-4430-836c-268caf3118ba.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-11T05:15:10+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "00e2872c-e89c-4a27-bae4-f51786c48bb9",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "10cf3bcf-4f5c-4ee4-9f00-f395d979351e",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "424df4c3-ba2c-4998-b8a8-def02ac84a86",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "4f45cb6e-f8d0-46e2-a4c0-d5eb3f0a402c",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "80828324-d964-4efe-b078-cd4ecc363f83",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "9a127845-7c9c-4873-b2da-246e7a2b5f40",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "abd5bbca-fad0-4aaf-8172-8a0b1a0a6e8c",
+   "type": "manga",
+   "related": "sequel"
+  },
+  {
+   "id": "d1d3082f-3df4-4cd1-a614-4606d4a7c87a",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "ef2b491c-c339-428e-a4d8-85bcc5dba46b",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

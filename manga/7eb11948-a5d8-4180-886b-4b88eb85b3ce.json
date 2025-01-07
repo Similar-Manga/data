@@ -3,16 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Pokémon - Me, Too (Doujinshi)"
+   "en": "Pokémon Sun and Moon - Watashi mo (Doujnshi)"
   },
   "altTitles": [
    {
     "en": "(C95) Me, Too (Pokemon Sun \u0026 Moon)"
+   },
+   {
+    "en": "Pokémon - Me, Too (Doujinshi)"
    }
   ],
-  "description": {
-   "en": ""
-  },
+  "description": {},
   "originalLanguage": "ja",
   "status": "completed",
   "contentRating": "safe",
@@ -59,11 +60,37 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2019-11-06T13:56:19+00:00",
-  "updatedAt": "2021-05-25T15:44:18+00:00"
+  "updatedAt": "2025-01-02T11:56:27+00:00"
  },
  "relationships": [
+  {
+   "id": "792570d9-1738-43f8-8dcb-533987e782f8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "TORIYA (Circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
   {
    "id": "c89228c0-5cfd-4c20-a6f0-b60adf1a279e",
    "type": "author",
@@ -76,6 +103,32 @@
     "imageUrl": null,
     "melonBook": null,
     "name": "Notori D",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "792570d9-1738-43f8-8dcb-533987e782f8",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "TORIYA (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,

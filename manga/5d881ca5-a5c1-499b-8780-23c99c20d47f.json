@@ -10,15 +10,22 @@
     "ja": "ダッフルコートアーミー"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "ある高校に同じ日に転校してきた6人の少女たち。 放課後はカラオケに集まって青春を満喫……と思いきや、女子トークの中身は学校爆破を防ぐ作戦会議でーー。"
+  },
   "links": {
+   "al": "173232",
+   "amz": "https://www.amazon.co.jp/dp/B0DP87DFBQ",
    "ap": "duffle-coat-army",
+   "bw": "series/501367",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/867768",
    "mu": "x8zljji",
-   "raw": "https://comic-walker.com/detail/KC_005739_S?episodeType=first"
+   "raw": "https://comic-walker.com/detail/KC_005739_S"
   },
   "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
   "status": "ongoing",
-  "year": 2023,
+  "year": 2024,
   "contentRating": "safe",
   "tags": [
    {
@@ -44,12 +51,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2024-11-01T11:30:02+00:00",
-  "updatedAt": "2024-11-01T11:30:09+00:00"
+  "updatedAt": "2024-12-23T12:12:37+00:00"
  },
  "relationships": [
   {
@@ -105,16 +124,16 @@
    }
   },
   {
-   "id": "41951218-f212-4213-a7b8-fca71a8cce09",
+   "id": "bb0328cd-3b2a-4972-a0ef-c2369da81a0e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-01T11:30:04+00:00",
-    "description": "",
-    "fileName": "2c6f56f8-50f7-4a54-951e-b563ebb05ef6.png",
+    "createdAt": "2024-12-16T17:25:43+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "70adc410-e0d4-4317-a9fe-d0912c9a7b82.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-01T11:30:04+00:00",
+    "updatedAt": "2024-12-16T17:25:43+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

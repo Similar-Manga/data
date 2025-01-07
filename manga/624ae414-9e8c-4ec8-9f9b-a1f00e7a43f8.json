@@ -3,24 +3,35 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kaitou Shounen Jokers"
+   "en": "Mysterious Boy Jokers"
   },
   "altTitles": [
    {
     "ja": "怪盗少年ジョーカーズ"
+   },
+   {
+    "ja-ro": "Kaitou Shounen Jokers"
+   },
+   {
+    "ja-ro": "Kaitou Boy Jokers"
    }
   ],
   "description": {
    "en": "Kaitou Shounen Jokers introduces J and his friend Kai, who follow in the footsteps of J's famous father, Kaitou Joker."
   },
   "links": {
+   "amz": "https://www.amazon.co.jp/-/en/dp/B07XD68FP1?binding=kindle_edition",
    "ap": "kaitou-shounen-jokers",
+   "bw": "series/147093/list",
    "kt": "50710",
-   "mal": "109372"
+   "mal": "109372",
+   "raw": "https://www.corocoro.jp/title/356"
   },
   "originalLanguage": "ja",
+  "lastVolume": "5",
+  "lastChapter": "30",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "completed",
   "contentRating": "safe",
   "tags": [
    {
@@ -70,12 +81,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2019-10-04T14:56:31+00:00",
-  "updatedAt": "2024-06-21T08:41:45+00:00"
+  "updatedAt": "2024-12-23T05:29:03+00:00"
  },
  "relationships": [
   {

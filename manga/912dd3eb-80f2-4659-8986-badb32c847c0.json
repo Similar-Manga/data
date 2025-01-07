@@ -80,7 +80,7 @@
    "id",
    "ru"
   ],
-  "latestUploadedChapter": "b7f76ce7-2fac-4ffd-a25b-bd6707f9cb20",
+  "latestUploadedChapter": "717d5755-b076-4677-beb4-7d6052b2a35a",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -103,6 +103,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -132,9 +144,9 @@
    }
   ],
   "state": "published",
-  "version": 27,
+  "version": 28,
   "createdAt": "2023-03-27T04:20:57+00:00",
-  "updatedAt": "2024-11-14T16:46:11+00:00"
+  "updatedAt": "2024-12-05T05:57:45+00:00"
  },
  "relationships": [
   {

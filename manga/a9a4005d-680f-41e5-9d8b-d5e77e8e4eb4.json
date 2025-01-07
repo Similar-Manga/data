@@ -10,17 +10,24 @@
     "en": "Continued Violinist of Hameln"
    },
    {
-    "en": "Zoku Violinist of Hameln"
+    "ja-ro": "Zoku Violinist of Hameln"
    },
    {
     "ja": "続 ハーメルンのバイオリン弾き"
    }
   ],
   "description": {
-   "en": "In a dreamworld-turned-reality, the 5 Great Hopes from the original Violinist of Hameln series find themselves in the grimdark nightmare world governed by the Fairy King Balalaika. They discover an alternate story of themselves as well as their past memories from the original prequel."
+   "en": "In a dreamworld-turned-reality, the 5 Great Hopes from the original Violinist of Hameln series find themselves in the grimdark nightmare world governed by the Fairy King Balalaika. They discover an alternate story of themselves as well as their past memories from the original prequel.\n\n---\nLinks:\n* [Alternative official raw](https://michiaki.publications.jp/products/list.php?category_id=14)"
   },
   "links": {
-   "mu": "vwb7zf8"
+   "amz": "https://www.amazon.co.jp/dp/B075V4ZWCK",
+   "ap": "zoku-hameln-no-violin-hiki",
+   "bw": "series/16201/list",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1543483",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/203360/",
+   "mal": "116662",
+   "mu": "vwb7zf8",
+   "raw": "https://michiaki.publications.jp/products/list.php?category_id=12"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
@@ -118,9 +125,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2021-01-16T19:58:02+00:00",
-  "updatedAt": "2023-07-02T19:59:25+00:00"
+  "updatedAt": "2025-01-04T23:39:05+00:00"
  },
  "relationships": [
   {
@@ -142,9 +149,9 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2025-01-03T19:28:52+00:00",
+    "version": 2,
+    "website": "https://michiaki.publications.jp/",
     "weibo": null,
     "youtube": null
    }
@@ -168,28 +175,33 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "updatedAt": "2025-01-03T19:28:52+00:00",
+    "version": 2,
+    "website": "https://michiaki.publications.jp/",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "f8466956-2156-4f68-a2ba-1dda4fc2b80d",
+   "id": "bb053009-85e4-4b68-bddd-67cc4f04ff2b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:27:32+00:00",
+    "createdAt": "2025-01-04T23:39:47+00:00",
     "description": "",
-    "fileName": "53279dd8-ea45-4cf5-8bf3-1f081c9218db.jpg",
+    "fileName": "e7298b98-4d0a-4182-83c2-a32ed8e7593f.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:27:32+00:00",
+    "updatedAt": "2025-01-04T23:39:47+00:00",
     "version": 1,
-    "volume": null
+    "volume": "21"
    }
   },
   {
    "id": "28153424-d86d-4629-8661-e0232acb525d",
+   "type": "manga",
+   "related": "shared_universe"
+  },
+  {
+   "id": "a2e6f783-5cc7-4cd8-a6f3-6d1e017ef272",
    "type": "manga",
    "related": "sequel"
   },

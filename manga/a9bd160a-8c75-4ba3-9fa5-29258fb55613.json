@@ -11,6 +11,9 @@
    },
    {
     "ja-ro": "Mukuchina Sensei ni Zenryoku Kokuhaku Shitara Manzarade mo Nakatta Ken"
+   },
+   {
+    "en": "When I confessed my feelings to my shy teacher, she didn't seem to mind at all."
    }
   ],
   "description": {},
@@ -39,6 +42,30 @@
     }
    },
    {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
     "type": "tag",
     "attributes": {
@@ -49,12 +76,36 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2024-06-11T16:04:25+00:00",
-  "updatedAt": "2024-11-16T00:56:09+00:00"
+  "updatedAt": "2025-01-02T17:04:34+00:00"
  },
  "relationships": [
   {

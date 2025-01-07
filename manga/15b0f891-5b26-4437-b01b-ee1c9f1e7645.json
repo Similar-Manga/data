@@ -1,0 +1,123 @@
+{
+ "id": "15b0f891-5b26-4437-b01b-ee1c9f1e7645",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mercury Column"
+  },
+  "altTitles": [
+   {
+    "ja": "水銀柱"
+   },
+   {
+    "ja-ro": "Suiginchuu"
+   }
+  ],
+  "description": {
+   "en": "This is a record of “Mercury”, Kayama Tetsu's first solo art exhibition. It carefully describes how he prepared, how he dealt with anxiety, and the process from the opening of the exhibition to its end. Photos and explanations of the actual works exhibited are also included."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B084NT1ZV4",
+   "bw": "series/233317",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/473615/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "status": "completed",
+  "year": 2018,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-16T04:16:20+00:00",
+  "updatedAt": "2024-12-16T04:19:50+00:00"
+ },
+ "relationships": [
+  {
+   "id": "758412e7-3420-487f-a21b-555d83ce51e6",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 香山哲\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/kayamatetsu/)\n- [Threads](https://www.threads.net/@kayamatetsu)"
+    },
+    "booth": null,
+    "createdAt": "2024-05-03T10:26:44+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kayama Tetsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kayamatetsu",
+    "updatedAt": "2024-12-13T22:00:29+00:00",
+    "version": 3,
+    "website": "https://kayamatetsu.com/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCn86ElSbzHCI0IUkJ4wUj1g"
+   }
+  },
+  {
+   "id": "758412e7-3420-487f-a21b-555d83ce51e6",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 香山哲\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/kayamatetsu/)\n- [Threads](https://www.threads.net/@kayamatetsu)"
+    },
+    "booth": null,
+    "createdAt": "2024-05-03T10:26:44+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kayama Tetsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kayamatetsu",
+    "updatedAt": "2024-12-13T22:00:29+00:00",
+    "version": 3,
+    "website": "https://kayamatetsu.com/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCn86ElSbzHCI0IUkJ4wUj1g"
+   }
+  },
+  {
+   "id": "0a8b1689-5cc5-4ee0-8254-43f006ab8222",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-16T04:16:26+00:00",
+    "description": "",
+    "fileName": "392de7d2-12c6-4571-b6ed-312360ef0adb.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-16T04:16:26+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

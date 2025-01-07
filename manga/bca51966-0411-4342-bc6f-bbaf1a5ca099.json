@@ -3,22 +3,38 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - My Cute Little Sister Book (Doujinshi)"
+   "en": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Ore no Imouto ga Kawaii Hon (Doujinshi)"
   },
   "altTitles": [
    {
-    "en": "Ore no Imouto ga Kawaii Hon"
+    "en": "My Cute Little Sister Book"
+   },
+   {
+    "ja": "俺の妹が可愛い本 (俺の妹がこんなに可愛いわけがない)"
    }
   ],
   "description": {},
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2010,
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en"
   ],
   "latestUploadedChapter": "27c6c53f-a762-4ad6-8db3-911c10e7f3f3",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "5bd0e105-4481-44ca-b6e7-7544da56b1a3",
     "type": "tag",
@@ -42,12 +58,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-09-27T23:03:14+00:00",
-  "updatedAt": "2022-02-24T23:31:58+00:00"
+  "updatedAt": "2025-01-02T05:51:31+00:00"
  },
  "relationships": [
   {

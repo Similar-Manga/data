@@ -3,25 +3,26 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "After-school Secret Club"
+   "en": "Houkago Himitsu Club"
   },
   "altTitles": [
    {
     "ja": "放課後ひみつクラブ"
    },
    {
-    "ja-ro": "Houkago Himitsu Club"
+    "en": "After-School Secret Club"
    }
   ],
   "description": {
-   "en": "Yuichi Nekota enters the giant school city \"Private Eucalyptus Leaf Academy\". Excited about his new life, he meets Chitose Arikasaki, a girl who investigates the mysteries of the school! The two form the 'After School Secret Club', and today they continue their search for the truth!"
+   "en": "Yuichi Nekota enters the giant school city \"Private Eucalyptus Leaf Academy\". Excited about his new life, he meets Chitose Arikasaki, a girl who investigates the mysteries of the school! The two form the 'After School Secret Club', and today they continue their search for the truth!",
+   "ja": "「私立ユーカリの葉学園」に入学した新一年生・猫田悠一くん、部活は何にしようか思案中、不可解なクイズと不思議な美少女に出くわす。彼女の名は蟻ケ崎千歳、『放課後ひみつクラブ』の部長と名乗る。学園の隠された謎を解き明かすのが使命なんだとか…。何か放っておけない気持ちになった猫田くんは入部を即決、真実を求め、二人だけのクラブ活動開始へ…!?"
   },
   "links": {
    "al": "155873",
-   "amz": "https://www.amazon.co.jp/dp/B0BNL3TT4M",
+   "amz": "https://www.amazon.co.jp/dp/B0BSL69HHY",
    "ap": "houkago-himitsu-club",
-   "bw": "series/388497/list",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/740966/",
+   "bw": "series/388497",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/740966",
    "mal": "152848",
    "mu": "j32sz3l",
    "raw": "https://shonenjumpplus.com/episode/316112896941522424"
@@ -75,16 +76,18 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 14,
   "createdAt": "2023-04-03T17:49:44+00:00",
-  "updatedAt": "2024-06-04T15:49:11+00:00"
+  "updatedAt": "2024-12-11T22:15:23+00:00"
  },
  "relationships": [
   {
    "id": "9bbb11e4-b3f4-49f7-9dba-b0db7a981c7f",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n福島鉄平"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -98,9 +101,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/FukushimaTeppei",
+    "updatedAt": "2024-12-20T18:14:23+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -110,7 +113,9 @@
    "id": "9bbb11e4-b3f4-49f7-9dba-b0db7a981c7f",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n福島鉄平"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -124,25 +129,25 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/FukushimaTeppei",
+    "updatedAt": "2024-12-20T18:14:23+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "88aebca1-b6f5-43ee-a9b9-bef612cae569",
+   "id": "13706ef9-e943-4a47-b7ed-3f683642c66c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-04T17:45:02+00:00",
+    "createdAt": "2024-12-04T15:35:48+00:00",
     "description": "",
-    "fileName": "e976d280-451a-4939-a504-ff4034f56067.jpg",
+    "fileName": "eeed70e3-f917-4f50-9eeb-1a14e4e66170.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-04T17:45:02+00:00",
+    "updatedAt": "2024-12-04T15:35:48+00:00",
     "version": 1,
-    "volume": "6"
+    "volume": "7"
    }
   },
   {

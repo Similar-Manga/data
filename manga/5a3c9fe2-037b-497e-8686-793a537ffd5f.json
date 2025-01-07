@@ -32,6 +32,10 @@
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "591840d3-97d1-4bd7-9a50-5a29d871e917",
   "tags": [
    {
     "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
@@ -54,6 +58,18 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -83,9 +99,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 12,
   "createdAt": "2024-03-21T23:00:47+00:00",
-  "updatedAt": "2024-11-25T23:08:17+00:00"
+  "updatedAt": "2024-12-29T11:49:04+00:00"
  },
  "relationships": [
   {

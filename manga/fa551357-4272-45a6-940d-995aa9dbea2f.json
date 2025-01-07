@@ -1,0 +1,156 @@
+{
+ "id": "fa551357-4272-45a6-940d-995aa9dbea2f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Pokemon - Someday, Under the Sea of Falling Stars (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "いつか星の降る海で"
+   },
+   {
+    "ja-ro": "Itsuka Hoshi no Furu Umi De"
+   }
+  ],
+  "description": {
+   "en": "A fateful encounter between the coddled princess of an undersea kingdom and a rebellious commoner with a mysterious past."
+  },
+  "links": {
+   "raw": "https://www.pixiv.net/user/120029/series/9958"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2016,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "52e8f72a-2e32-452c-9a30-8a520d2f1603",
+  "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-04T12:08:38+00:00",
+  "updatedAt": "2025-01-04T12:21:34+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6407e7eb-a729-4028-8092-805661ea225a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-04T11:39:37+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yura Inaho",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-04T11:39:37+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6407e7eb-a729-4028-8092-805661ea225a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-04T11:39:37+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yura Inaho",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-04T11:39:37+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a00b81e1-3915-4d61-92a3-f0d6b0a8417e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-04T12:08:48+00:00",
+    "description": "",
+    "fileName": "a5fbd697-e027-45ec-a0c0-f3385d0ec77c.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-04T12:08:48+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "8b649750-a39f-4384-b82c-1c478741cd71",
+   "type": "creator"
+  }
+ ]
+}

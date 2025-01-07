@@ -1,0 +1,127 @@
+{
+ "id": "a3d9532a-27cb-4ebc-ac4d-e2ee7df79757",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The COP"
+  },
+  "altTitles": [
+   {
+    "ja": "ザ・コップ"
+   },
+   {
+    "ja": "ザ・コップ－特殺官－"
+   },
+   {
+    "en": "The Glass"
+   },
+   {
+    "ja-ro": "Za Koppu"
+   },
+   {
+    "ja-ro": "Za Koppu - Tokusatsukan -"
+   }
+  ],
+  "description": {},
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/gp/product/B016CS1JQC",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/102340/",
+   "mu": "mks4p64"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "7",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1982,
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Police"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-10-12T17:31:50+00:00",
+  "updatedAt": "2024-12-22T22:10:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "cfef575e-bedc-44f7-9161-2b326662b03a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-02-12T06:54:02+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kobori You",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-02-12T06:54:02+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ce50cdfc-3965-42b2-9964-1fe0f421207b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanou Seisaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ca0070c3-4192-48c9-beae-6ed867a3fc4c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-12T17:31:54+00:00",
+    "description": "",
+    "fileName": "e419d4b1-7f7f-48c9-b52d-13930e50b074.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-12T17:31:54+00:00",
+    "version": 1,
+    "volume": "10"
+   }
+  },
+  {
+   "id": "42251ed1-3ecf-49ee-b75e-6e742a44c345",
+   "type": "creator"
+  }
+ ]
+}

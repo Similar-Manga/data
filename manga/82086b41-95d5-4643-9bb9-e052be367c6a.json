@@ -1,0 +1,148 @@
+{
+ "id": "82086b41-95d5-4643-9bb9-e052be367c6a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "To Coda"
+  },
+  "altTitles": [
+   {
+    "ja": "トゥ コーダ"
+   }
+  ],
+  "description": {
+   "en": "A cheater heroine who crosses time and space?! A time leap love comedy with beautiful illustrations!",
+   "es": "¿Una heroína tramposa que cruza el tiempo y el espacio? ¡Una comedia de amor con saltos en el tiempo y hermosas ilustraciones!"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "292e862b-2d17-4062-90a2-0356caa4ae27",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Time Travel"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-29T02:24:27+00:00",
+  "updatedAt": "2024-12-29T16:24:33+00:00"
+ },
+ "relationships": [
+  {
+   "id": "44a1fa2d-8466-4f42-ba5e-90b233a2ca81",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-29T02:21:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takashi Akiyama",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-29T02:21:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "44a1fa2d-8466-4f42-ba5e-90b233a2ca81",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-29T02:21:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takashi Akiyama",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-29T02:21:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a7979b63-aff5-491e-b3e3-b698e434ae91",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-29T02:24:37+00:00",
+    "description": "",
+    "fileName": "3dc696a5-54bb-4354-8faf-e6ca2bdbfa4b.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-29T02:24:37+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "9ea2d301-5b3b-4f79-b741-2704bb572f4e",
+   "type": "creator"
+  }
+ ]
+}

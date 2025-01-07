@@ -1,0 +1,147 @@
+{
+ "id": "2ead73d3-0885-4cd0-88f8-81a114141bb6",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Rinrin D.I.Y"
+  },
+  "altTitles": [
+   {
+    "ja": "りんりんD・I・Y"
+   },
+   {
+    "en": "Rinrin DIY"
+   },
+   {
+    "en": "Rin Rin D.I.Y"
+   }
+  ],
+  "description": {
+   "en": "Now in middle school, Rin-chan establishes a DIY Club with her relative Karin."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B077L51GC9",
+   "bw": "series/56686",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/337645/",
+   "mal": "98977",
+   "mu": "no6gcba"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "41",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2001,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-20T09:06:25+00:00",
+  "updatedAt": "2024-12-21T07:23:57+00:00"
+ },
+ "relationships": [
+  {
+   "id": "44eb1caf-7c7a-4976-81e0-9a1043d694ab",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 大石まさる\n\n**Other Romanization:** Ohishi Masaru\n\n**18+ Alias:** YUMENO-Z (夢ノ二)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ooishi Masaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ohishimasaru",
+    "updatedAt": "2024-12-20T06:00:38+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "44eb1caf-7c7a-4976-81e0-9a1043d694ab",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 大石まさる\n\n**Other Romanization:** Ohishi Masaru\n\n**18+ Alias:** YUMENO-Z (夢ノ二)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ooishi Masaru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ohishimasaru",
+    "updatedAt": "2024-12-20T06:00:38+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ed03df56-90dc-4639-b212-739408965b2a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-20T09:06:31+00:00",
+    "description": "",
+    "fileName": "5ec6b0cb-1437-429d-b475-922506863db8.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-20T09:06:31+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "48dbc55c-4153-449a-818f-a2f368577422",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

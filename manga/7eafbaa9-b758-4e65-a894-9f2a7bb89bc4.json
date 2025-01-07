@@ -1,0 +1,148 @@
+{
+ "id": "7eafbaa9-b758-4e65-a894-9f2a7bb89bc4",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tanuma-dono to Gennai-san ~Tokidoki Tokugawa Family~"
+  },
+  "altTitles": [
+   {
+    "ja": "田沼殿と源内さん～ときどき徳川ファミリー～"
+   }
+  ],
+  "description": {
+   "en": "Hiraga Gennai, the genius inventor known for developing the elekiter, relied on none other than the extraordinary politician Tanuma Okitsugu, who rose from a humble foot soldier to the esteemed position of senior councilor. What unfolds between these two remarkable figures as Gennai strives to continue his groundbreaking inventions?",
+   "ja": "エレキテルの開発者として知られる天才発明家・平賀源内。源内が発明を続けるために頼ったのは、足軽から老中まで登り詰めた稀代の政治家・田沼意次…!?"
+  },
+  "links": {
+   "al": "168227",
+   "amz": "https://www.amazon.co.jp/dp/B0CQYD41GZ",
+   "ap": "tanuma-dono-to-gennai-san-tokidoki-tokugawa-family",
+   "bw": "series/453666",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/812798",
+   "mal": "157608",
+   "mu": "s8jtkve",
+   "raw": "https://shonenjumpplus.com/episode/9324074615349455709"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "40",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-23T01:02:43+00:00",
+  "updatedAt": "2025-01-02T20:33:57+00:00"
+ },
+ "relationships": [
+  {
+   "id": "561ee893-c52e-4429-b57a-ee9cc7f6d646",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-23T00:52:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamada Shiita",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-23T00:52:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "561ee893-c52e-4429-b57a-ee9cc7f6d646",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-23T00:52:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamada Shiita",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-23T00:52:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "23ef72b7-71e6-49f2-9eba-7345c84efd7a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-23T01:02:45+00:00",
+    "description": "Volume 2 Cover from BookWalker",
+    "fileName": "f44ab419-f2fc-44ae-a6c5-bb17d48d3dce.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-23T01:02:45+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

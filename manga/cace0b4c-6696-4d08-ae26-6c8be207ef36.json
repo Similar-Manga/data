@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I Am A Sukeban"
+   "en": "I Am Sukeban"
   },
   "altTitles": [
    {
@@ -39,7 +39,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "804d1b85-1f0f-47e6-91b3-b2a9ffa2aafb",
+  "latestUploadedChapter": "7dc7320a-8830-4de6-8f14-996b910f6ca7",
   "tags": [
    {
     "id": "2d1f5d56-a1e5-4d0d-a961-2193588b08ec",
@@ -198,6 +198,18 @@
     }
    },
    {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
     "type": "tag",
     "attributes": {
@@ -307,9 +319,9 @@
    }
   ],
   "state": "published",
-  "version": 28,
+  "version": 30,
   "createdAt": "2021-03-14T01:15:08+00:00",
-  "updatedAt": "2024-10-30T20:05:39+00:00"
+  "updatedAt": "2024-12-18T19:15:35+00:00"
  },
  "relationships": [
   {

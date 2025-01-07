@@ -28,7 +28,8 @@
   "links": {
    "amz": "https://www.amazon.co.jp/-/en/dp/B074CHTRR2?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tukn",
    "bw": "series/125104/list",
-   "mu": "it4thcs"
+   "mu": "it4thcs",
+   "raw": "https://www.corocoro.jp/title/254"
   },
   "originalLanguage": "ja",
   "lastVolume": "14",
@@ -100,9 +101,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2023-03-16T23:35:57+00:00",
-  "updatedAt": "2023-04-13T10:49:15+00:00"
+  "updatedAt": "2024-12-23T04:03:51+00:00"
  },
  "relationships": [
   {
@@ -169,6 +170,11 @@
     "version": 1,
     "volume": "14"
    }
+  },
+  {
+   "id": "992278da-2af0-4ab3-9372-32d6463de4b0",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "ecf379e6-bc34-42c4-b25d-63698875cdfb",

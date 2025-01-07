@@ -1,0 +1,129 @@
+{
+ "id": "44f2ff15-ede9-463c-90cc-15cec19df83b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Bingo O Gato"
+  },
+  "description": {
+   "pt-br": "Acompanhe as aventuras de Bingo, um gato de 10 anos ao lado de seus amigos, se metendo em várias confusões"
+  },
+  "originalLanguage": "pt-br",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 6,
+  "createdAt": "2024-12-24T12:55:36+00:00",
+  "updatedAt": "2024-12-25T14:53:18+00:00"
+ },
+ "relationships": [
+  {
+   "id": "cf1547f3-2c70-4422-8a62-92939459fc1d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T12:35:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Luiz-Extreme",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-24T12:35:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cf1547f3-2c70-4422-8a62-92939459fc1d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T12:35:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Luiz-Extreme",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-24T12:35:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "aa46b04d-5752-4ac2-9394-6dfacccf824f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-24T12:56:30+00:00",
+    "description": "",
+    "fileName": "600ab69d-d063-48ba-b233-043bc0651fff.png",
+    "locale": "pt-br",
+    "updatedAt": "2024-12-24T12:56:30+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f0b0ef87-fabd-42c8-ad26-21530bbb3b03",
+   "type": "creator"
+  }
+ ]
+}

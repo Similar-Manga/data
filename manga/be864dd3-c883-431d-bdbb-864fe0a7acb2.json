@@ -22,16 +22,31 @@
     "en": "Strange! Slug Girl"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "\"At night, Etsuko's best friend Sumiko appears in her bedroom, transforming into the \"Slug Girl\" and attacking her.\n　The next day, Etsuko follows Sumiko on her way home from school.\n　Sumiko goes further and further into the forest in the opposite direction to her house, but this is a trap set by the \"Slug Girl\". Sumiko\n　pushes Etsuko into a hole full of slugs and she faints.\n　When she comes to, she finds herself lying down at the house of her male friend Kazuo.\n　Her relief is short-lived as a giant slug attacks her.\n　However, Kazuo's quick thinking allows\n　them to kill the giant slug, revealing that it is actually Sumiko. Sumiko regains her senses and tells Etsuko and Kazuo where the slugs live, but...\n　What is the giant slug's true identity...?"
+  },
   "links": {
    "mu": "akxdkiz"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
   "publicationDemographic": "shoujo",
   "status": "completed",
   "year": 1974,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
     "type": "tag",
@@ -45,14 +60,14 @@
     }
    },
    {
-    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Anthology"
+      "en": "Drama"
      },
      "description": {},
-     "group": "format",
+     "group": "genre",
      "version": 1
     }
    },
@@ -94,9 +109,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2024-02-18T17:49:46+00:00",
-  "updatedAt": "2024-05-14T19:19:02+00:00"
+  "updatedAt": "2024-12-31T15:20:41+00:00"
  },
  "relationships": [
   {

@@ -11,16 +11,21 @@
    },
    {
     "ja": "ストーリー・オブ デュエル マスターズ アウトレイジ"
+   },
+   {
+    "ja": "ストーリーオブデュエルマスターズ"
    }
   ],
   "description": {
-   "en": "The trump cards are rampaging in"
+   "en": "The world of the cards in the popular TCG, Duel Masters, has been completely turned into a manga by Shigekatsu Ihara! The creatures that appear on the cards unfold a passionate story!!"
   },
   "links": {
-   "mu": "6fc038o"
+   "mu": "6fc038o",
+   "raw": "https://www.corocoro.jp/title/455"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
+  "lastChapter": "11",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2013,
@@ -52,9 +57,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2023-01-31T08:18:56+00:00",
-  "updatedAt": "2023-01-31T08:19:41+00:00"
+  "updatedAt": "2024-12-23T01:05:18+00:00"
  },
  "relationships": [
   {
@@ -131,6 +136,11 @@
    "id": "3ebd2a2f-6c41-4215-a654-9592099f7ae1",
    "type": "manga",
    "related": "same_franchise"
+  },
+  {
+   "id": "7347b742-b130-4607-8963-c1331d2156c8",
+   "type": "manga",
+   "related": "side_story"
   },
   {
    "id": "eb82c265-b4bc-4d28-aa86-a3a755fbdfb5",

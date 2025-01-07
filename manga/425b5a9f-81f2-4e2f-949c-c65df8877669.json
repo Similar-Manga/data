@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Trait Hoarder"
+   "en": "Ultimate Tutorial Warrior"
   },
   "altTitles": [
    {
@@ -11,14 +11,19 @@
    },
    {
     "ko": "특성 쌓는 김전사"
+   },
+   {
+    "en": "Trait Hoarder"
    }
   ],
   "description": {
-   "en": "Kim Joonsoo, a free-to-play ranker in the mobile game Arcane Seoul, possessed the tutorial character, Warrior Kim! He has to survive in a merciless world as a basic character. \n\nAll he has to trust is his game knowledge as a ranker and Warrior Kim's ability to swap out traits indefinitely!",
+   "en": "Junsu is an ordinary college student who spends an extraordinary amount of time trying to beat a pay-to-win hero collector game called Arcane Seoul. All his hours of painstaking gameplay finally pays off when he lands Cheonma, one of the ultimate SS-ranked characters in the game, seconds before a truck runs him over. Now, he finds himself as Jeonsa Kim, a basic tutorial-stage character who can learn any skill. Can he use his gaming knowledge to survive the godforsaken, magic-driven, and monster-ridden alternate world of Arcane Seoul?",
    "ko": "모바일 게임 ‘아케인서울’의 무과금 랭커 김준수.게임 속 튜토리얼 캐릭터 ‘김전사’에 빙의해버렸다!?\n\n약육강식의 게임 세계에서 기본캐 김전사로 살아남아야 하는 상황.믿을 건 무과금으로 랭커가 된 준수의 엄청난 게임 지식과나약하지만 무제한으로 특성을 바꿔 낄 수 있는 김전사의 육체다."
   },
   "links": {
+   "engtl": "https://www.webtoons.com/en/action/ultimate-tutorial-warrior/list?title_no=7179",
    "mal": "174442",
+   "mu": "693zimt",
    "raw": "https://comic.naver.com/webtoon/list?titleId=832562"
   },
   "originalLanguage": "ko",
@@ -47,6 +52,30 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Video Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -100,9 +129,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2024-09-20T18:48:26+00:00",
-  "updatedAt": "2024-09-23T23:11:49+00:00"
+  "updatedAt": "2025-01-03T00:35:02+00:00"
  },
  "relationships": [
   {
@@ -144,7 +173,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "San Hocho",
+    "name": "sanhocho",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -152,8 +181,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-09-20T18:47:55+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-03T00:34:48+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -193,9 +222,9 @@
     "description": "",
     "fileName": "95ecbace-c91d-4a0d-ba70-6a3286b9158a.png",
     "locale": "ko",
-    "updatedAt": "2024-09-23T23:11:49+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2025-01-03T00:33:49+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {

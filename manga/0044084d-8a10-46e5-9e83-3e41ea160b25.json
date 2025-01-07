@@ -1,0 +1,138 @@
+{
+ "id": "0044084d-8a10-46e5-9e83-3e41ea160b25",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ultra Q: Zen Kaijuu Dai Kessen: Kaijuu Rettou"
+  },
+  "altTitles": [
+   {
+    "ja": "ウルトラQ全怪獣大決戦怪獣列島"
+   },
+   {
+    "en": "Ultra Q: All Monsters Big Decisive Battle: Monster Islands"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 1967,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-11T08:50:54+00:00",
+  "updatedAt": "2024-12-12T03:45:31+00:00"
+ },
+ "relationships": [
+  {
+   "id": "55395f13-11b8-4d5b-8b72-cb255520a64a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-12-15T01:10:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asaoka Koji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-12-15T01:10:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "55395f13-11b8-4d5b-8b72-cb255520a64a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-12-15T01:10:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asaoka Koji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-12-15T01:10:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "13c1704a-c7fc-4fe2-bef1-a69c0aee9184",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-11T08:50:56+00:00",
+    "description": "",
+    "fileName": "f2151d97-bb8a-4409-82be-c11231031409.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-11T08:50:56+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "4d31b0e9-d8c0-4976-a724-5c7c75a1f303",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "c5c58dcd-b331-4423-bde5-1b42e042274f",
+   "type": "manga",
+   "related": "adapted_from"
+  },
+  {
+   "id": "c68f5c60-e3fa-45d4-8786-fbd05653f303",
+   "type": "manga",
+   "related": "alternate_story"
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

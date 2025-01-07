@@ -6,14 +6,25 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
+   "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
    "title": {
-    "en": "Taiyou no Yuki"
+    "en": "Nageku Shinigami"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "pl",
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "18bec826-74b1-4a28-8854-cb9005933009",
+   "title": {
+    "en": "Shoujo Hachi Gatsu no"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
     "en"
    ]
   },
@@ -29,26 +40,15 @@
    ]
   },
   {
-   "id": "18bec826-74b1-4a28-8854-cb9005933009",
+   "id": "35a7a2c0-0bf2-4276-9cc4-155a58d3060c",
    "title": {
-    "en": "Shoujo Hachi Gatsu no"
+    "en": "Taiyou no Yuki"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "pl",
     "en"
-   ]
-  },
-  {
-   "id": "757edfab-484e-45a1-bd79-ff14064e6d5e",
-   "title": {
-    "en": "Nageku Shinigami"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl"
    ]
   },
   {
@@ -63,27 +63,27 @@
    ]
   },
   {
-   "id": "dd2fd269-4294-466c-8346-31fecf49e286",
-   "title": {
-    "en": "18 Years Old, We Got Married"
-   },
-   "contentRating": "safe",
-   "score": 0.271939,
-   "languages": [
-    "pl",
-    "fr"
-   ]
-  },
-  {
    "id": "ac975a3f-b951-4cfe-aa74-47d0852884ec",
    "title": {
     "en": "Winter Flowers"
    },
    "contentRating": "safe",
-   "score": 0.27069515,
+   "score": 0.2754828,
    "languages": [
     "pl",
     "en"
+   ]
+  },
+  {
+   "id": "dd2fd269-4294-466c-8346-31fecf49e286",
+   "title": {
+    "en": "18 Years Old, We Got Married"
+   },
+   "contentRating": "safe",
+   "score": 0.27172202,
+   "languages": [
+    "pl",
+    "fr"
    ]
   },
   {
@@ -92,7 +92,7 @@
     "en": "Saigo no Negai ~Last Pray~"
    },
    "contentRating": "safe",
-   "score": 0.2686099,
+   "score": 0.26860946,
    "languages": [
     "en",
     "it"
@@ -104,9 +104,22 @@
     "en": "Dana's Garden"
    },
    "contentRating": "safe",
-   "score": 0.26337498,
+   "score": 0.26335862,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "9dd93586-af52-4b35-971f-8150bae3c222",
+   "title": {
+    "en": "World End Garden"
+   },
+   "contentRating": "safe",
+   "score": 0.26082027,
+   "languages": [
+    "en",
+    "fr",
+    "pl"
    ]
   },
   {
@@ -127,39 +140,16 @@
    ]
   },
   {
-   "id": "9dd93586-af52-4b35-971f-8150bae3c222",
+   "id": "6eff7a67-84a9-4355-8fb0-aa44c6913165",
    "title": {
-    "en": "World End Garden"
+    "en": "Eikyuu Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.26082027,
+   "score": 0.25555065,
    "languages": [
     "en",
-    "fr",
+    "pt-br",
     "pl"
-   ]
-  },
-  {
-   "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
-   "title": {
-    "en": "a cup of..."
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "06749feb-aa8d-4eb0-a027-120137839eea",
-   "title": {
-    "en": "Ao to Umibe no Nostalgia"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "pl",
-    "en"
    ]
   },
   {
@@ -175,16 +165,14 @@
    ]
   },
   {
-   "id": "6eff7a67-84a9-4355-8fb0-aa44c6913165",
+   "id": "e1eb1b29-71d1-469a-bbf7-3a78417bf5d6",
    "title": {
-    "en": "Eikyuu Shoujo"
+    "en": "a cup of..."
    },
    "contentRating": "safe",
    "score": 0.25555065,
    "languages": [
-    "en",
-    "pt-br",
-    "pl"
+    "en"
    ]
   },
   {
@@ -200,7 +188,19 @@
     "ru",
     "de"
    ]
+  },
+  {
+   "id": "06749feb-aa8d-4eb0-a027-120137839eea",
+   "title": {
+    "en": "Ao to Umibe no Nostalgia"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
+   "languages": [
+    "pl",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2024-12-01T20:57:31+00:00"
+ "updatedAt": "2025-01-06T00:01:27+00:00"
 }

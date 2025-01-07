@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kaitou Joker"
+   "en": "Mysterious Joker"
   },
   "altTitles": [
    {
     "ja-ro": "Kaito Joker"
    },
    {
-    "en": "Mysterious Joker"
+    "ja-ro": "Kaitou Joker"
    },
    {
     "ja": "怪盗ジョーカー"
@@ -43,7 +43,8 @@
    "ebj": "https://ebookjapan.yahoo.co.jp/books/164864/",
    "kt": "26782",
    "mal": "74267",
-   "mu": "24792"
+   "mu": "24792",
+   "raw": "https://www.corocoro.jp/title/353"
   },
   "originalLanguage": "ja",
   "lastVolume": "26",
@@ -115,12 +116,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 9,
   "createdAt": "2019-06-20T11:17:21+00:00",
-  "updatedAt": "2023-08-21T18:14:16+00:00"
+  "updatedAt": "2024-12-23T05:24:41+00:00"
  },
  "relationships": [
   {

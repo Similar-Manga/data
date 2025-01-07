@@ -27,13 +27,14 @@
   },
   "links": {
    "al": "30882",
-   "amz": "https://www.amazon.co.jp/gp/product/4063056279",
+   "amz": "https://www.amazon.co.jp/dp/B074CKW6CJ",
    "ap": "break-shot",
    "bw": "series/20141/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/259536/",
    "kt": "1922",
    "mal": "882",
-   "mu": "826"
+   "mu": "826",
+   "raw": "https://kc.kodansha.co.jp/title?code=1000001328"
   },
   "originalLanguage": "ja",
   "lastVolume": "16",
@@ -43,9 +44,10 @@
   "year": 1987,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
+   "vi",
    "en"
   ],
-  "latestUploadedChapter": "e5e3cc41-63a1-4623-9076-c1ebfc5b6582",
+  "latestUploadedChapter": "2c50276d-5d4c-4062-bdc1-534007a48758",
   "tags": [
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
@@ -121,9 +123,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2018-05-31T05:45:29+00:00",
-  "updatedAt": "2023-05-10T20:30:15+00:00"
+  "updatedAt": "2024-12-01T22:04:09+00:00"
  },
  "relationships": [
   {
@@ -179,16 +181,16 @@
    }
   },
   {
-   "id": "81c646c0-453e-4fb7-87b4-0c32a7ccecd8",
+   "id": "56f8cc74-8b42-4ba0-929e-9a732ac9c702",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:36:01+00:00",
+    "createdAt": "2024-12-01T21:43:57+00:00",
     "description": "",
-    "fileName": "4bdc0395-1e44-437d-8e90-bc69f07274cc.jpg",
+    "fileName": "646994c9-f3ec-4c69-9954-3e49344df5b7.jpg",
     "locale": "ja",
-    "updatedAt": "2022-09-19T15:11:58+00:00",
-    "version": 2,
-    "volume": "16"
+    "updatedAt": "2024-12-01T21:43:57+00:00",
+    "version": 1,
+    "volume": "8.8"
    }
   }
  ]

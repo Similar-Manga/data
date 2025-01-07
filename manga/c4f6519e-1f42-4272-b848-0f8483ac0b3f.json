@@ -7,11 +7,14 @@
   },
   "altTitles": [
    {
-    "en": "Ever Since (Touhou Project)"
+    "ja": "ever since (東方Project)"
    }
   ],
   "description": {
-   "en": ""
+   "en": "| Namespace | Tags |\n| :--- | :--- |\n| parody | touhou project |\n| character | marisa kirisame, reimu hakurei |\n| group | hachibusaki |\n| artist | toyosaki shu |\n| female | females only, tribadism, yuri |\n[Source](https://exhentai.org/g/1207332/0a01e9522c/)"
+  },
+  "links": {
+   "raw": "https://www.melonbooks.co.jp/detail/detail.php?product_id=214444"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -21,6 +24,18 @@
   ],
   "latestUploadedChapter": "b6624cef-956f-483e-8925-1f9579543df5",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
     "type": "tag",
@@ -47,19 +62,21 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2020-02-15T19:55:05+00:00",
-  "updatedAt": "2021-05-25T15:47:30+00:00"
+  "updatedAt": "2024-12-23T08:46:28+00:00"
  },
  "relationships": [
   {
    "id": "16b51b0e-f785-47b6-9a13-b2c1a79291c5",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Nagasaki, Japan\n\n[Alternative Twitter Accounts](https://x.com/otono_saki)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://toyosaki.fanbox.cc",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -67,12 +84,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/7710679",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/_toyosak1",
+    "updatedAt": "2024-12-23T08:50:29+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -108,10 +125,12 @@
    "id": "16b51b0e-f785-47b6-9a13-b2c1a79291c5",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Nagasaki, Japan\n\n[Alternative Twitter Accounts](https://x.com/otono_saki)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://toyosaki.fanbox.cc",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
@@ -119,12 +138,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/7710679",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/_toyosak1",
+    "updatedAt": "2024-12-23T08:50:29+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

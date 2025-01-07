@@ -1,0 +1,148 @@
+{
+ "id": "6838fc3d-abc1-45a5-a5e7-23583d4b6eff",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kemomimi Miko-san"
+  },
+  "altTitles": [
+   {
+    "ja": "けもみみみこさん"
+   },
+   {
+    "ja-ro": "Kemomimi Mikosan"
+   },
+   {
+    "en": "Monster Girl Shrine Maidens"
+   },
+   {
+    "en": "Animal-Eared Shrine Maidens"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/user/100364893/series/220611"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "d04e18c4-fe52-4648-bb49-99ae1f85e8a1",
+  "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-29T12:56:03+00:00",
+  "updatedAt": "2024-12-29T13:53:01+00:00"
+ },
+ "relationships": [
+  {
+   "id": "dd322e6f-c9d6-4871-a081-820cd131f5c1",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-29T12:54:24+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "soragoa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-29T12:54:24+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "dd322e6f-c9d6-4871-a081-820cd131f5c1",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-29T12:54:24+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "soragoa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-29T12:54:24+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "77caeec0-4633-4dfe-aafd-9cc4fdbf97b4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-29T12:56:23+00:00",
+    "description": "",
+    "fileName": "912fd9d8-4999-447f-80a7-2ae1419ae6a6.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-29T12:56:23+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "b58899b5-f2b9-45b9-8048-16395cc30b08",
+   "type": "creator"
+  }
+ ]
+}

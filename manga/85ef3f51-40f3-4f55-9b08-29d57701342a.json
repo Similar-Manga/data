@@ -1,0 +1,138 @@
+{
+ "id": "85ef3f51-40f3-4f55-9b08-29d57701342a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Strider Hiryu Gaiden"
+  },
+  "altTitles": [
+   {
+    "ja": "ストライダー飛竜外伝"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1988,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "489dd859-9b61-4c37-af75-5b18e88daafc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ninja"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-13T08:32:18+00:00",
+  "updatedAt": "2024-12-13T08:32:26+00:00"
+ },
+ "relationships": [
+  {
+   "id": "429fcbcc-41a1-4da6-b37c-a4207af3966f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-13T08:26:41+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shiba Tetsuo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-13T08:26:41+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b7abb74c-c526-4dbf-ad67-d9d3311b0618",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Wada Tatsumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "03932b4e-1996-43e8-ac59-ddbd3b6aeb2c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-13T08:32:20+00:00",
+    "description": "",
+    "fileName": "4628a009-0ad7-46de-b7d7-f0aa98a4c96a.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-13T08:32:20+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "206bdb87-3163-4510-9f4d-5a9fa6421d73",
+   "type": "manga",
+   "related": "main_story"
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

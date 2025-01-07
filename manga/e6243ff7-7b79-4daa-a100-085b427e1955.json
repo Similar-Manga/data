@@ -7,10 +7,13 @@
   },
   "altTitles": [
    {
-    "ja": "この恋を忘れない"
+    "ja": "この恋を忘れない。"
    },
    {
-    "ja-ro": "Kono Koi wo Wasurenai"
+    "ja-ro": "Kono Koi o Wasurenai."
+   },
+   {
+    "ja-ro": "Kono Koi wo Wasurenai."
    }
   ],
   "description": {
@@ -18,10 +21,12 @@
   },
   "links": {
    "al": "46812",
+   "amz": "https://www.amazon.co.jp/dp/406341504X",
    "ap": "kono-koi-wo-wasurenai",
    "kt": "3567",
    "mal": "16812",
-   "mu": "12093"
+   "mu": "12093",
+   "raw": "https://kc.kodansha.co.jp/product?item=0000037141"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -85,9 +90,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2018-02-22T04:17:33+00:00",
-  "updatedAt": "2023-12-04T04:29:46+00:00"
+  "updatedAt": "2024-12-09T06:03:32+00:00"
  },
  "relationships": [
   {
@@ -200,7 +205,9 @@
    "id": "bd53c0ce-8629-4c45-b331-bedf89ac62fa",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳥飼茜\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/akanetorikai/)\n- [News X](https://x.com/torikai_news)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -214,9 +221,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/torikaiakane",
+    "updatedAt": "2024-12-07T05:28:00+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -358,7 +365,9 @@
    "id": "bd53c0ce-8629-4c45-b331-bedf89ac62fa",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 鳥飼茜\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/akanetorikai/)\n- [News X](https://x.com/torikai_news)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -372,9 +381,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/torikaiakane",
+    "updatedAt": "2024-12-07T05:28:00+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -414,9 +423,9 @@
     "description": "",
     "fileName": "d3005e7a-56ed-4163-af37-52e22f332074.png",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:53:05+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-12-09T06:03:31+00:00",
+    "version": 2,
+    "volume": "1"
    }
   },
   {

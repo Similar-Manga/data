@@ -3,26 +3,40 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Isegure - Isekai Cheat Musou Ore TUEEE-kei Ikiri Tenseisha ni Kamaseinu ni sare Tsuzuketa Elite Kishi, Chou Gureru."
+   "en": "IseGure - Isekai Cheat Musou Ore TUEEE-kei Ikiri Tenseisha ni Kamaseinu ni sare Tsuzuketa Elite Kishi, Chou Gureru."
   },
   "altTitles": [
    {
-    "ja": "イセグレ 異世界チート無双 俺TUEEE系イキリ転生者に かませ犬にされ続けたエリート騎士、超グレる。"
+    "ja": "イセグレ　異世界チート無双　俺ＴＵＥＥＥ系イキリ転生者にかませ犬にされ続けたエリート騎士、超グレる。"
    },
    {
-    "ja-ro": "Isegure: Isekai Cheat Musou Ore Tsueee-kei Ikiri Tenseisha ni Kamaseinu ni sare Tsuzuketa Elite Kishi, Chou Gureru."
+    "ja-ro": "IseGure - Isekai Cheat Musou Ore Tsueee-kei Ikiri Tenseisha ni Kamaseinu ni sare Tsuzuketa Elite Kishi, Chou Gureru."
+   },
+   {
+    "en": "IseGure: After Constantly Being Used as a Foil for OP Isekai Protagonists, The Elite Knight Has Finally Had It."
    }
   ],
-  "description": {},
+  "description": {
+   "en": "“I'm not just a foil!”\n\nIn order to stop more people from reincarnating into his world, the former elite knight leader sets out on a mission!\n\nAn unprecedented comedy about preventing any and all reincarnation is about to begin!"
+  },
   "links": {
-   "bw": "series/462299/list",
-   "raw": "https://arc.akitashoten.co.jp/comics/isegure/1"
+   "al": "181699",
+   "amz": "https://www.amazon.co.jp/dp/B0CZ279VLW",
+   "bw": "series/462299",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/827051",
+   "mal": "176835",
+   "mu": "140x9it",
+   "raw": "https://championcross.jp/series/bed580d32ce06"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "9c3b7da8-2726-464d-8ac6-b58c6ace7462",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -98,16 +112,18 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 13,
   "createdAt": "2024-05-11T17:32:38+00:00",
-  "updatedAt": "2024-05-12T06:50:01+00:00"
+  "updatedAt": "2024-12-10T18:24:14+00:00"
  },
  "relationships": [
   {
    "id": "b942d777-cfac-4bbb-91b7-aedd669ec51b",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** いづみかつき\n\n**Other Romanization:** Idzumi Katsuki"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -122,8 +138,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/katsukiman00",
-    "updatedAt": "2023-05-06T17:50:59+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-03T19:17:55+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -133,7 +149,9 @@
    "id": "b942d777-cfac-4bbb-91b7-aedd669ec51b",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** いづみかつき\n\n**Other Romanization:** Idzumi Katsuki"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -148,24 +166,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": "https://twitter.com/katsukiman00",
-    "updatedAt": "2023-05-06T17:50:59+00:00",
-    "version": 2,
+    "updatedAt": "2024-12-03T19:17:55+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "80347f4a-5488-4548-ac13-ff70e4c30e0e",
+   "id": "3559d964-77af-4e9f-beca-230244b85d3f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-05-11T17:32:41+00:00",
+    "createdAt": "2024-12-03T19:13:17+00:00",
     "description": "",
-    "fileName": "bd14dfaa-ab92-4f56-a2ef-54c54ea75db8.jpg",
+    "fileName": "ed86da33-b979-4554-8f8a-1db33688df63.jpg",
     "locale": "ja",
-    "updatedAt": "2024-05-11T17:32:41+00:00",
+    "updatedAt": "2024-12-03T19:13:17+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

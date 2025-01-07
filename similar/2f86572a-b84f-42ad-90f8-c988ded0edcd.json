@@ -6,35 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d506d463-288a-4a2f-b85b-4bb92f022a36",
-   "title": {
-    "en": "Uso ni mo Koi ga Iru"
-   },
-   "contentRating": "safe",
-   "score": 0.36869803
-  },
-  {
    "id": "e668e628-9d4d-44d2-b95b-edf87a369712",
    "title": {
     "en": "Flower"
    },
    "contentRating": "safe",
-   "score": 0.36840013,
+   "score": 0.37647656,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "82b69e6e-538f-41d8-abd7-aa0158fa86f3",
+   "id": "d506d463-288a-4a2f-b85b-4bb92f022a36",
    "title": {
-    "en": "Him and Me, and Her"
+    "en": "Uso ni mo Koi ga Iru"
    },
    "contentRating": "safe",
-   "score": 0.35735855,
-   "languages": [
-    "en",
-    "pl"
-   ]
+   "score": 0.372922
   },
   {
    "id": "4f5daaf1-5b2e-4d3b-85d7-268442666b64",
@@ -42,15 +30,19 @@
     "en": "My Brother, Boyfriend, and He"
    },
    "contentRating": "safe",
-   "score": 0.3535678
+   "score": 0.36630937
   },
   {
-   "id": "181c0c7f-ec61-4a10-a887-c9a1f2a7c04e",
+   "id": "82b69e6e-538f-41d8-abd7-aa0158fa86f3",
    "title": {
-    "en": "Momoiro Renka"
+    "en": "Him and Me, and Her"
    },
    "contentRating": "safe",
-   "score": 0.3473201
+   "score": 0.36103398,
+   "languages": [
+    "en",
+    "pl"
+   ]
   },
   {
    "id": "858f38db-a567-4930-aa37-c3f906c90fdf",
@@ -58,11 +50,19 @@
     "en": "Namae mo Shiranai"
    },
    "contentRating": "safe",
-   "score": 0.3456853,
+   "score": 0.35315925,
    "languages": [
     "pt-br",
     "en"
    ]
+  },
+  {
+   "id": "181c0c7f-ec61-4a10-a887-c9a1f2a7c04e",
+   "title": {
+    "en": "Momoiro Renka"
+   },
+   "contentRating": "safe",
+   "score": 0.35040957
   },
   {
    "id": "c78fafbb-de7b-433a-a73c-a3e010544057",
@@ -70,7 +70,7 @@
     "en": "Cream"
    },
    "contentRating": "safe",
-   "score": 0.34472367,
+   "score": 0.34958112,
    "languages": [
     "en"
    ]
@@ -81,31 +81,9 @@
     "en": "Megane Danshi na Kare."
    },
    "contentRating": "safe",
-   "score": 0.34245574,
+   "score": 0.34526008,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "7e62b59e-7464-4c61-99f7-8e83638dc53c",
-   "title": {
-    "en": "Saint Haipaa Keibitai"
-   },
-   "contentRating": "safe",
-   "score": 0.32889596
-  },
-  {
-   "id": "7eabe852-5454-48a1-976a-9aaa2b9ca7b0",
-   "title": {
-    "en": "Kimi no Yokogao o Miteita"
-   },
-   "contentRating": "safe",
-   "score": 0.32704797,
-   "languages": [
-    "en",
-    "vi",
-    "fr",
-    "es-la"
    ]
   },
   {
@@ -114,11 +92,63 @@
     "en": "Yume ka Utsutsu ka"
    },
    "contentRating": "safe",
-   "score": 0.3265175,
+   "score": 0.33039826,
    "languages": [
     "ru",
     "fr",
     "en"
+   ]
+  },
+  {
+   "id": "26dc223a-7ba0-4c5c-9523-91223c85846c",
+   "title": {
+    "en": "Gal to Kouhensachi Danshi ga Yobikou de Koisuru Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.32999018,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e4f7b4a3-71b4-4bcc-a043-f1ce97b8e6be",
+   "title": {
+    "en": "Senpai Kirai"
+   },
+   "contentRating": "safe",
+   "score": 0.3296355
+  },
+  {
+   "id": "2d6b76b9-b692-470e-9085-487deda5cf20",
+   "title": {
+    "en": "Shining!"
+   },
+   "contentRating": "safe",
+   "score": 0.3295631
+  },
+  {
+   "id": "fda53d28-10d2-41f7-a73d-991ffcab26b4",
+   "title": {
+    "en": "Kimi ga Ashita Kono Sekai kara Kieru Mae ni"
+   },
+   "contentRating": "safe",
+   "score": 0.32946786,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7eabe852-5454-48a1-976a-9aaa2b9ca7b0",
+   "title": {
+    "en": "Kimi no Yokogao o Miteita"
+   },
+   "contentRating": "safe",
+   "score": 0.32907915,
+   "languages": [
+    "en",
+    "vi",
+    "fr",
+    "es-la"
    ]
   },
   {
@@ -127,46 +157,16 @@
     "en": "Sixteen Syndrome"
    },
    "contentRating": "safe",
-   "score": 0.32596034
+   "score": 0.32797876
   },
   {
-   "id": "fda53d28-10d2-41f7-a73d-991ffcab26b4",
+   "id": "342a8173-2f34-46f6-bb96-62ec796bc601",
    "title": {
-    "en": "Kimi ga Ashita Kono Sekai kara Kieru Mae ni"
+    "en": "Girl (Jeon Young Hui)"
    },
    "contentRating": "safe",
-   "score": 0.32447138,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2d6b76b9-b692-470e-9085-487deda5cf20",
-   "title": {
-    "en": "Shining!"
-   },
-   "contentRating": "safe",
-   "score": 0.32267532
-  },
-  {
-   "id": "50de54db-2c69-4953-96f9-30b038001ac3",
-   "title": {
-    "en": "Ai no Kotoba"
-   },
-   "contentRating": "safe",
-   "score": 0.32051113,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "65d80cdc-f18a-482d-ae90-99fe95eb2784",
-   "title": {
-    "en": "Koi wo suru nara Kimi Igai"
-   },
-   "contentRating": "safe",
-   "score": 0.3190626
+   "score": 0.3274365
   }
  ],
- "updatedAt": "2024-12-01T20:57:04+00:00"
+ "updatedAt": "2025-01-06T00:00:55+00:00"
 }

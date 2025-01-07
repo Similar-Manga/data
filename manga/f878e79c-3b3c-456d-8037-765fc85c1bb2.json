@@ -33,14 +33,38 @@
    "en",
    "id"
   ],
-  "latestUploadedChapter": "4bdb0ebc-a570-4845-b831-b186518ca0ba",
+  "latestUploadedChapter": "660caeb3-828a-4d9c-9009-437be91f5e4a",
   "tags": [
+   {
+    "id": "2bd2e8d0-f146-434a-9b51-fc9ff2c5fe6a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Genderswap"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "33771934-028e-4cb3-8744-691e866a923e",
     "type": "tag",
     "attributes": {
      "name": {
       "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
      },
      "description": {},
      "group": "genre",
@@ -97,9 +121,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 13,
   "createdAt": "2020-07-08T13:22:51+00:00",
-  "updatedAt": "2024-04-27T22:14:44+00:00"
+  "updatedAt": "2024-12-30T05:40:27+00:00"
  },
  "relationships": [
   {

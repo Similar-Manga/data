@@ -1,0 +1,143 @@
+{
+ "id": "6ce413ca-39f6-47a6-90c8-30454fd1cc4c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Hitomebore Princess"
+  },
+  "altTitles": [
+   {
+    "ja": "一目惚れプリンセス"
+   },
+   {
+    "ja-ro": "Hitomebore Purinsesu"
+   },
+   {
+    "en": "Love at First Sight Princess"
+   }
+  ],
+  "description": {
+   "en": "A story about a girl who falls in love with a coffee shop worker at first sight."
+  },
+  "links": {
+   "raw": "https://ichijin-plus.com/comics/176524046058016"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-30T17:32:55+00:00",
+  "updatedAt": "2025-01-01T02:22:01+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6936bd1e-94ac-40d5-a872-af561cb90089",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-30T17:22:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hattori Suzume",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T17:22:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6936bd1e-94ac-40d5-a872-af561cb90089",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-30T17:22:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hattori Suzume",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-30T17:22:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2ab8fd69-6294-4e18-9e97-5aaa2198d7af",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-30T17:32:57+00:00",
+    "description": "",
+    "fileName": "c8920751-ced1-440b-9c50-082e29d99748.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-30T17:32:57+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "5daa186d-dccf-4aad-a0df-c63ca24af995",
+   "type": "creator"
+  }
+ ]
+}

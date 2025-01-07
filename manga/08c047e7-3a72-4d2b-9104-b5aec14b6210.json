@@ -3,14 +3,20 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Crossing the Thin Line Between Neighbors to LoversThe Beautiful Slit-eyed Sister Next Door Was Really Lewd and Always After Me"
+   "en": "Tonari no Kirei na Itome Onee-chan wa Hontou wa Dosukebe de Itsumo Boku no Koto o Neratte Ita"
   },
   "altTitles": [
    {
-    "ja-ro": "Tonari no Kirei na Itome Onee-chan wa Hontou wa Dosukebe de Itsumo Boku no Koto o Neratte Ita"
+    "en": "The Beautiful Slit-eyed Sister Next Door Was Really Lewd and Always After Me"
    },
    {
     "ja": "隣の綺麗な糸目お姉ちゃんは本当はどスケベでいつも僕の事を狙っていた"
+   },
+   {
+    "pt-br": "Passando dos Limites De Vizinhos Para Amantes"
+   },
+   {
+    "en": "Crossing the Thin Line Between Neighbors to Lovers"
    }
   ],
   "description": {
@@ -24,13 +30,53 @@
   "status": "completed",
   "contentRating": "pornographic",
   "availableTranslatedLanguages": [
+   "pt-br",
+   "en",
    "ar"
   ],
-  "latestUploadedChapter": "edb8823c-3cd5-4bac-84e8-a2ade75e0459",
+  "latestUploadedChapter": "0bfc4736-7b55-41c3-ad85-b0647ad5d0ce",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "ddefd648-5140-4e5f-ba18-4eca4071d19b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Shota"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 4,
+  "version": 7,
   "createdAt": "2021-02-14T12:03:56+00:00",
-  "updatedAt": "2023-10-16T16:17:44+00:00"
+  "updatedAt": "2025-01-04T12:40:02+00:00"
  },
  "relationships": [
   {
@@ -44,7 +90,33 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "kitsunekopandanuki",
+    "name": "kitsunekopandanuki (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-04T12:37:20+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8cd234b4-d742-4317-ac6a-9e7bf664bc33",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "pandanuki",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -54,6 +126,32 @@
     "twitter": null,
     "updatedAt": "2021-04-19T21:59:45+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4e1597c7-e830-4230-903b-060a8c891fa2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "kitsunekopandanuki (circle)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-04T12:37:20+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -1,0 +1,137 @@
+{
+ "id": "8d92f7b8-556b-45a2-a442-dd3a0beb0a90",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "World Trigger Border Briefing File"
+  },
+  "altTitles": [
+   {
+    "ja": "ワールドトリガー オフィシャルデータブック BORDER BRIEFING FILE"
+   },
+   {
+    "ja-ro": "World Trigger Official Data Book Border Briefing File"
+   }
+  ],
+  "description": {
+   "en": "Official World Trigger data book consisting of the following sections, which are preceeded by an illustration collection:\n1. Border Data Base\n2. Border Development Section\n3. Neighbors Special Management Office \n4. Reader Rank War\n5. Black Box\n\nAdditionally, it includes the oneshot [Jitsuryokuha Elite Jin](https://mangadex.org/title/c29fb8fd-f053-4f33-90ee-331b3e112133) alongside a special interview with the author.",
+   "ja": "オフィシャルデータブック　BORDER BRIEFING FILE登場!!\n葦原大介先生秘蔵のデータを大量掲載!!\n130名を超える隊員のデータを一挙収録!!\nここでしか読めない隊員のデータが満載!!\n8項目にわたるパラメーター＆家族構成＆装備トリガー一覧を公開!!\n※一部キャラクターは伏せているデータもあります。\n質問箱DX　作品にまつわる303の質問に葦原先生が回答!!\n圧巻の美麗カラーイラストギャラリー!!\n特別読切「実力派エリート迅」収録!!\n葦原先生描き下ろし「知りたいデータグラフ」を8つ掲載!!\n海外版「SHONEN JUMP」に掲載された葦原大介先生インタビュー初収録!!\n読者ランク戦結果発表完全版!!"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B01EH9SLSM",
+   "bw": "de656eac90-9845-44e5-a5b2-d16c0bcb5e93",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1916038",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/361224/",
+   "raw": "https://www.shueisha.co.jp/books/items/contents.html?isbn=978-4-08-880704-1"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "5",
+  "status": "completed",
+  "year": 2016,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi"
+  ],
+  "latestUploadedChapter": "236e1d66-ec0a-4f22-87d3-98f9f6f85ce0",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2024-12-09T23:23:02+00:00",
+  "updatedAt": "2024-12-12T20:13:47+00:00"
+ },
+ "relationships": [
+  {
+   "id": "57767ced-894c-4d46-a847-b2c2694392bb",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ashihara Daisuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "57767ced-894c-4d46-a847-b2c2694392bb",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ashihara Daisuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1dc81afe-6c20-4064-a6c7-1d49424ed648",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-09T23:23:11+00:00",
+    "description": "",
+    "fileName": "cee8a457-786c-4778-8aa3-cbd6f2d1352e.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-09T23:23:11+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "7ae7067a-7e68-4bd2-a064-5e3e3c059078",
+   "type": "manga",
+   "related": "main_story"
+  },
+  {
+   "id": "c29fb8fd-f053-4f33-90ee-331b3e112133",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "cf76a880-cc1e-4bba-8634-3e5850528572",
+   "type": "creator"
+  }
+ ]
+}

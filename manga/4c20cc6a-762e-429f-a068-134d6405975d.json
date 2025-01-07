@@ -16,7 +16,9 @@
     "fr": "L'Étrange Petite Tatari"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Kamino Tatari, known as Tatari-chan gets bullied everyday for her odd appearance but she has strange magical powers that help her in her daily life.\n\nNote: Kamino Tatari is pronounced the same way as 神のたたり which means \"God's Curse\". \nHer classmate, Noroi Kakeru's name is pronounced the same as \"Put a curse on\""
+  },
   "links": {
    "mu": "b6h53ki",
    "raw": "https://www.sukima.me/book/title/BT0001051051/"
@@ -28,6 +30,18 @@
   "year": 1991,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
@@ -65,6 +79,18 @@
     }
    },
    {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -90,9 +116,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2023-04-02T14:53:23+00:00",
-  "updatedAt": "2024-03-27T23:57:58+00:00"
+  "updatedAt": "2024-12-14T21:12:47+00:00"
  },
  "relationships": [
   {

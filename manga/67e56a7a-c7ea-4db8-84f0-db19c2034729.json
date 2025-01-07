@@ -44,7 +44,7 @@
    "fr",
    "pt-br"
   ],
-  "latestUploadedChapter": "0c61d850-2eaa-42e5-b8a5-c62ce2b3c138",
+  "latestUploadedChapter": "865a50da-89aa-4bde-9a27-7395120599fe",
   "tags": [
    {
     "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
@@ -129,12 +129,24 @@
      "group": "format",
      "version": 1
     }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 16,
   "createdAt": "2020-08-22T19:52:47+00:00",
-  "updatedAt": "2024-07-29T16:18:11+00:00"
+  "updatedAt": "2024-12-16T07:31:24+00:00"
  },
  "relationships": [
   {
@@ -205,7 +217,7 @@
   {
    "id": "29ca9de0-b633-4756-b4f3-c3bef1ee4f9e",
    "type": "manga",
-   "related": "based_on"
+   "related": "sequel"
   }
  ]
 }

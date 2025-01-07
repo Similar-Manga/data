@@ -1,0 +1,133 @@
+{
+ "id": "62edc295-9182-4ef2-b66e-a960a3f1ea5f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Piri Fuwa Tsu-n"
+  },
+  "altTitles": [
+   {
+    "ja": "ぴりふわつーん"
+   }
+  ],
+  "description": {
+   "ja": "ぴりりと辛く、ふわっと香り、つーんとしみる…小さいけれどニクいやつ。見なれたメニューを格上げする秘策はスパイス＆ハーブにあり！ 「香りカプセル」搭載の柚子、「香辛料の王」黒胡椒、「柑橘」と相性良しな生姜。身近に思えて意外と知らない「名脇役」の世界をご案内します。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0753HZ88Q",
+   "bw": "series/109883",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/404473",
+   "kt": "50499",
+   "mal": "109010",
+   "mu": "8fqb3sp"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "4",
+  "lastChapter": "30",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2016,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-06T19:20:46+00:00",
+  "updatedAt": "2024-12-06T19:21:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b1033dbc-cc31-499f-9a4d-b5fedfef8812",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-03-09T11:58:38+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aoki Sachiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-03-09T11:58:38+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b1033dbc-cc31-499f-9a4d-b5fedfef8812",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-03-09T11:58:38+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aoki Sachiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-03-09T11:58:38+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "00d2d965-a3f2-43cf-89d8-a4ff7829af97",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-06T19:21:04+00:00",
+    "description": "Volume 4 Cover from BookLive",
+    "fileName": "7d4a4071-4d76-4a47-993c-02d03a9bfcb1.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-06T19:21:04+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

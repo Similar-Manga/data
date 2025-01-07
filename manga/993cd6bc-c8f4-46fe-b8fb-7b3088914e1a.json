@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Fumin Otoko to Kuufuku Onna"
+   "en": "The Insomniac Man and the Hungry Woman"
   },
   "altTitles": [
    {
     "ja": "不眠男と空腹女"
+   },
+   {
+    "ja-ro": "Fumin Otoko to Kuufuku Onna"
    }
   ],
   "description": {},
@@ -19,6 +22,30 @@
   "year": 2023,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
     "type": "tag",
@@ -33,9 +60,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2023-05-11T18:23:11+00:00",
-  "updatedAt": "2023-06-09T18:56:08+00:00"
+  "updatedAt": "2024-12-28T22:29:37+00:00"
  },
  "relationships": [
   {

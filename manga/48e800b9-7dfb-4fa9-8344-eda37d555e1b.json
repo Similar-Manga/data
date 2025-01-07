@@ -26,17 +26,19 @@
    "raw": "https://comic-walker.com/detail/KC_003917_S"
   },
   "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "19",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2023,
-  "contentRating": "erotica",
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
+   "en",
    "es-la",
    "vi",
-   "en",
    "id"
   ],
-  "latestUploadedChapter": "5fd738dc-db71-4113-b9ba-5d1892db0579",
+  "latestUploadedChapter": "48e17077-ad9c-40ad-bbbf-9afa4c50aeaa",
   "tags": [
    {
     "id": "2bd2e8d0-f146-434a-9b51-fc9ff2c5fe6a",
@@ -47,6 +49,18 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -100,9 +114,9 @@
    }
   ],
   "state": "published",
-  "version": 13,
+  "version": 14,
   "createdAt": "2023-03-14T11:00:17+00:00",
-  "updatedAt": "2024-09-30T17:19:02+00:00"
+  "updatedAt": "2024-12-18T19:45:51+00:00"
  },
  "relationships": [
   {

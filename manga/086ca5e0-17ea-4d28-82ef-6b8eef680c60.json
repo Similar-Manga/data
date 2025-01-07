@@ -36,7 +36,7 @@
    "es-la",
    "en"
   ],
-  "latestUploadedChapter": "9da7cbc4-cf96-4712-b657-7dfe50ec22bb",
+  "latestUploadedChapter": "c15695fe-c765-4866-958f-16496771fa3d",
   "tags": [
    {
     "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
@@ -44,6 +44,30 @@
     "attributes": {
      "name": {
       "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
      },
      "description": {},
      "group": "theme",
@@ -92,6 +116,18 @@
     "attributes": {
      "name": {
       "en": "Virtual Reality"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Video Games"
      },
      "description": {},
      "group": "theme",
@@ -172,9 +208,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2023-10-26T08:42:08+00:00",
-  "updatedAt": "2024-09-18T14:12:14+00:00"
+  "updatedAt": "2024-12-18T12:34:13+00:00"
  },
  "relationships": [
   {

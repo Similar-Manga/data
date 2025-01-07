@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Matsuri Kenbunroku"
+   "en": "Record of Festivals"
   },
   "altTitles": [
    {
@@ -13,23 +13,26 @@
     "ja-ro": "Matsuri Kenbunroku"
    },
    {
-    "en": "Record of Festivals"
+    "ja": "Record of festivals"
    }
   ],
   "description": {
-   "en": "Theora is a traveler who visits mysterious festivals all over Japan. At the festival she visits this time, where \"girls search for a bell out of a large amount of food,\" unexpected turmoil ensues...?"
+   "en": "Teora is a traveler who visits mysterious festivals all over Japan. At the festival she visits this time, where “girls search for a bell out of a large amount of food”, unexpected turmoil ensues…?\n___\n**Individual Chapter Buy Links:**\n- [BOOK☆WALKER](https://bookwalker.jp/series/458551/)\n- [Amazon](https://www.amazon.co.jp/dp/B0CW18SYNQ)\n- [ebookjapan](https://ebookjapan.yahoo.co.jp/books/815092/)"
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/%E3%81%BE%E3%81%A4%E3%82%8A%E8%A6%8B%E8%81%9E%E9%8C%B2%E3%80%90%E5%8D%98%E8%A9%B1%E3%80%91%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%CE%B1-%E7%B7%92%E5%B7%9D%E3%81%BF%E3%81%AE%E3%82%8B-ebook/dp/B0CVLBQ9PL",
-   "bw": "series/458551",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/815092/A004906135/",
+   "al": "181613",
+   "amz": "https://www.amazon.co.jp/dp/B0D7PQCSF4",
+   "bw": "de12f9f5df-a9e8-4b66-948b-001a9eefe33d",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/839679/",
    "mu": "8m0qdb6",
    "raw": "https://flowercomics.jp/title/672"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "5",
   "publicationDemographic": "shoujo",
-  "status": "ongoing",
-  "year": 2023,
+  "status": "completed",
+  "year": 2024,
   "contentRating": "safe",
   "tags": [
    {
@@ -94,16 +97,18 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 10,
   "createdAt": "2024-04-23T10:09:28+00:00",
-  "updatedAt": "2024-04-25T03:56:50+00:00"
+  "updatedAt": "2024-12-16T07:44:43+00:00"
  },
  "relationships": [
   {
    "id": "db2082fd-d20f-4916-8941-9c6c0126543c",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 緒川みのる"
+    },
     "booth": null,
     "createdAt": "2024-04-23T10:09:00+00:00",
     "fanBox": null,
@@ -118,8 +123,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-04-23T10:09:00+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-06T20:21:33+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -129,7 +134,9 @@
    "id": "db2082fd-d20f-4916-8941-9c6c0126543c",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 緒川みのる"
+    },
     "booth": null,
     "createdAt": "2024-04-23T10:09:00+00:00",
     "fanBox": null,
@@ -144,23 +151,23 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-04-23T10:09:00+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-06T20:21:33+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "c9ea0981-3abf-4934-ae43-43142aa56bc4",
+   "id": "d0fea8e2-0246-4f48-8984-96f856cace12",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-04-23T10:09:31+00:00",
-    "description": "",
-    "fileName": "b3f6d94a-cdbf-4408-9e4a-70e3e7e5ce7c.jpg",
+    "createdAt": "2024-12-06T20:26:59+00:00",
+    "description": "Volume cover",
+    "fileName": "05696381-651c-444f-8528-fe622f7bdd49.jpg",
     "locale": "ja",
-    "updatedAt": "2024-04-23T10:09:31+00:00",
-    "version": 1,
+    "updatedAt": "2024-12-06T20:33:28+00:00",
+    "version": 2,
     "volume": "1"
    }
   },

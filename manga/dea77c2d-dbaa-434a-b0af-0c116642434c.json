@@ -35,7 +35,9 @@
   },
   "links": {
    "al": "180752",
+   "amz": "https://www.amazon.co.jp/dp/B0DPF11S4B",
    "ap": "ichi-the-witch",
+   "bw": "series/502759/list",
    "engtl": "https://mangaplus.shueisha.co.jp/titles/100348",
    "kt": "madan-no-ichi",
    "mal": "173944",
@@ -48,15 +50,17 @@
   "year": 2024,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "ar",
    "vi",
-   "en",
+   "ar",
    "pt-br",
    "fr",
+   "es",
    "ru",
-   "es-la"
+   "es-la",
+   "en",
+   "id"
   ],
-  "latestUploadedChapter": "cb480380-9f0a-4590-bab7-482966300686",
+  "latestUploadedChapter": "5cb38000-6cb2-43a7-9bfe-1e4a800def12",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -120,9 +124,9 @@
    }
   ],
   "state": "published",
-  "version": 25,
+  "version": 28,
   "createdAt": "2024-09-05T21:37:13+00:00",
-  "updatedAt": "2024-11-13T03:59:00+00:00"
+  "updatedAt": "2024-12-31T09:42:59+00:00"
  },
  "relationships": [
   {
@@ -182,16 +186,16 @@
    }
   },
   {
-   "id": "ff69bc14-e0fc-49f3-a834-e4be9b82aee0",
+   "id": "bf4a1181-d6ad-4c01-8ae7-53e193d8fe11",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-08T18:42:56+00:00",
-    "description": "MANGA Plus thumbnail",
-    "fileName": "4df6c888-7074-4727-bf9a-7ef91eceef04.jpg",
+    "createdAt": "2024-12-16T10:35:09+00:00",
+    "description": "",
+    "fileName": "7d6f5669-a487-40f6-beaf-bb74a7e250c1.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-09T01:39:24+00:00",
-    "version": 2,
-    "volume": "0.2"
+    "updatedAt": "2024-12-16T10:35:09+00:00",
+    "version": 1,
+    "volume": "1"
    }
   },
   {

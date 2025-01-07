@@ -1,0 +1,155 @@
+{
+ "id": "e83295e7-ffff-4d28-abb7-b0f8a1bbf1df",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "A Story Where Everyone Except Momotaro-kun Is an Onee-san"
+  },
+  "altTitles": [
+   {
+    "ja": "桃太郎くん以外全員おねえさんの話"
+   },
+   {
+    "ja-ro": "Momotarou-kun Igai Zen'in Onee-san no Hanashi"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/unpocooo/status/1792116876820316446"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "2",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-12-06T15:00:48+00:00",
+  "updatedAt": "2024-12-07T06:19:06+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2c5caaa3-a151-4f6d-b6ad-648ef148f651",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Native name: ウンポーコ\n\nAssociated names:\nPocoration (Unpoco)\nUnpooko\nポーコレーション (ウンポーコ)\n\nCircle: Pocoration"
+    },
+    "booth": null,
+    "createdAt": "2021-09-02T02:38:32+00:00",
+    "fanBox": "https://unpocooo.fanbox.cc/",
+    "fantia": "https://fantia.jp/unpocooo",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Unpoco",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/3312251",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/unpocooo",
+    "updatedAt": "2025-01-04T13:44:26+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2c5caaa3-a151-4f6d-b6ad-648ef148f651",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Native name: ウンポーコ\n\nAssociated names:\nPocoration (Unpoco)\nUnpooko\nポーコレーション (ウンポーコ)\n\nCircle: Pocoration"
+    },
+    "booth": null,
+    "createdAt": "2021-09-02T02:38:32+00:00",
+    "fanBox": "https://unpocooo.fanbox.cc/",
+    "fantia": "https://fantia.jp/unpocooo",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Unpoco",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/3312251",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/unpocooo",
+    "updatedAt": "2025-01-04T13:44:26+00:00",
+    "version": 5,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "05b89d73-2ee1-4662-ad46-0d1c9b476fff",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-06T15:00:53+00:00",
+    "description": "",
+    "fileName": "3b152e5d-4757-441f-bed2-2842f33ce723.png",
+    "locale": "ja",
+    "updatedAt": "2024-12-06T15:00:53+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "02c385d5-beac-4ee4-9383-20b55d7d8a50",
+   "type": "creator"
+  }
+ ]
+}

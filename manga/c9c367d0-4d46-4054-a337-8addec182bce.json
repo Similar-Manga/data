@@ -3,17 +3,30 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Manga Time Kirara SUN(Manga Time Kirara Exhibition Final Limited Edition)"
+   "en": "Manga Time Kirara Ten FINAL Kikaku Hon SUN"
   },
   "altTitles": [
    {
     "ja": "まんがタイムきらら展FINAL企画本 SUN"
    },
    {
+    "en": "Manga Time Kirara Exhibition Final Project Book: SUN"
+   },
+   {
+    "en": "Manga Time Kirara Exhibition Final Limited Edition"
+   },
+   {
     "ko": "망가타임 키라라전 FINAL 기획본 SUN"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "A \"project book\" once sold in Comiket at the Kirara booth, \"Manga Time Kirara Exhibition FINAL\" returns as merchandise after 7 years!\n\nThe magazine's characters visit the final Kirara Exhibition in this comic anthology book with all newly-written chapters!\n\n(Source: Kiraraten)",
+   "ja": "かつてコミックマーケットのきららブースで販売されていた「企画本」。「まんがタイムきらら展FINAL」のグッズとして、7年ぶりの登場です！キャラクター達が「きらら展」に訪れる様子を描く、オール描き下ろしコミック！\n\n執筆作家：はまじあき、荒井チェリー、鴻巣覚、大熊らすこ、浜弓場 双、海法紀光（ニトロプラス）／千葉サドル、優しい内臓、うちのまいこ、篤見唯子、ミナミト、黒田bb、おみなえし、カヅホ、はりかも、きゆづきさとこ"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/きらら展-まんがタイムきらら展FINAL-コミックマーケット-オール描き下ろしコミック-「SUN」/dp/B0DHPCZNKB?source=ps-sl-shoppingads-lpcontext\u0026ref_=fplfs\u0026ref_=fplfs\u0026psc=1\u0026smid=A2068MEWJWHIIB",
+   "raw": "https://www.kiraraten.jp/goods.html"
+  },
   "originalLanguage": "ja",
   "lastVolume": "1",
   "lastChapter": "15",
@@ -21,10 +34,23 @@
   "year": 2024,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "ko"
+   "ko",
+   "en"
   ],
-  "latestUploadedChapter": "39536636-8402-4d39-a2b8-aa7566ef3b20",
+  "latestUploadedChapter": "508e3bd6-9abc-43e3-b65f-4e17480a3aff",
   "tags": [
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
     "type": "tag",
@@ -51,9 +77,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 7,
   "createdAt": "2024-09-25T15:57:54+00:00",
-  "updatedAt": "2024-09-25T15:58:05+00:00"
+  "updatedAt": "2024-12-08T05:17:26+00:00"
  },
  "relationships": [
   {

@@ -3,15 +3,27 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I Became A Squirrel Seeking For The Villain"
+   "en": "I Became a Squirrel Seeking the Villain"
   },
   "altTitles": [
    {
     "ko": "악당을 구하는 다람쥐가 되었다"
+   },
+   {
+    "en": "I Became a Squirrel Searching for the Villain"
+   },
+   {
+    "en": "I Have Become a Squirrel That Saves Villains"
    }
   ],
   "description": {
    "en": "Wait, am I… a squirrel? How, when, why?!\" I opened my eyes and found myself… as a squirrel. Not just any squirrel, but a divine beast known as the \"Sacred Squirrel,\" treasured for its ability to soothe a wizard's magical power. But hold on—I was human! To return to my human form, I need to steadily accumulate magical energy."
+  },
+  "links": {
+   "ap": "i-became-a-squirrel-seeking-for-the-villain",
+   "mu": "z4xh1wm",
+   "nu": "i-became-a-squirrel-seeking-for-the-villain",
+   "raw": "https://page.kakao.com/content/65360889"
   },
   "originalLanguage": "ko",
   "status": "ongoing",
@@ -22,6 +34,18 @@
   ],
   "latestUploadedChapter": "681774ef-f672-4596-bb9b-ed2e25b28f62",
   "tags": [
+   {
+    "id": "0bc90acb-ccc1-44ca-a34a-b9f3a73259d0",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Reincarnation"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
     "type": "tag",
@@ -47,6 +71,18 @@
     }
    },
    {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -59,11 +95,11 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Web Comic"
+      "en": "Adaptation"
      },
      "description": {},
      "group": "format",
@@ -84,9 +120,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-11-16T14:21:37+00:00",
-  "updatedAt": "2024-11-16T14:21:54+00:00"
+  "updatedAt": "2024-12-31T17:17:15+00:00"
  },
  "relationships": [
   {

@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Everyday Life with a Succubus Slave"
+   "en": "Succubus Dorei to no Nichijou"
   },
   "altTitles": [
    {
@@ -14,6 +14,9 @@
    },
    {
     "uk": "Повсякденне життя з рабинею-суккубом"
+   },
+   {
+    "en": "My Life with a Succubus Slave"
    }
   ],
   "description": {},
@@ -22,7 +25,7 @@
    "raw": "https://www.pixiv.net/user/40050442/series/256858"
   },
   "originalLanguage": "ja",
-  "lastChapter": "14",
+  "lastChapter": "15",
   "status": "completed",
   "year": 2024,
   "contentRating": "safe",
@@ -31,11 +34,11 @@
    "es-la",
    "pt-br",
    "ru",
+   "en",
    "vi",
-   "uk",
-   "en"
+   "uk"
   ],
-  "latestUploadedChapter": "e02d51f1-590e-4e4d-bb21-39e20fe86a75",
+  "latestUploadedChapter": "414f3303-14ca-423c-802d-44f14263589a",
   "tags": [
    {
     "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
@@ -46,6 +49,30 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -99,9 +126,9 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2024-10-28T12:40:31+00:00",
-  "updatedAt": "2024-11-25T09:55:45+00:00"
+  "updatedAt": "2024-12-27T19:18:32+00:00"
  },
  "relationships": [
   {

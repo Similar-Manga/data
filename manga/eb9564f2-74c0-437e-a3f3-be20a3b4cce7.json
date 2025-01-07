@@ -10,7 +10,7 @@
     "en": "Agent Nanako"
    },
    {
-    "en": "Matahari Nanako"
+    "ja-ro": "Matahari Nanako"
    },
    {
     "ja": "00ななこ"
@@ -45,6 +45,30 @@
     }
    },
    {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
     "type": "tag",
     "attributes": {
@@ -55,12 +79,24 @@
      "group": "content",
      "version": 1
     }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2020-07-18T09:15:18+00:00",
-  "updatedAt": "2024-03-09T12:06:00+00:00"
+  "updatedAt": "2024-12-30T20:36:08+00:00"
  },
  "relationships": [
   {

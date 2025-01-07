@@ -8,6 +8,9 @@
   "altTitles": [
    {
     "ja": "遊びで一回キスしてみたい"
+   },
+   {
+    "ja-ro": "Asobi de Ikkai Kiss Shite Mitai"
    }
   ],
   "description": {},
@@ -18,14 +21,16 @@
   },
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2020,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
+   "pt-br",
    "it",
    "en",
    "fr",
    "id"
   ],
-  "latestUploadedChapter": "3c4b73ee-c4ed-4f8c-a22a-14b63c3c9c3b",
+  "latestUploadedChapter": "05f6dc17-aa25-45e8-b9b0-2ad5fe1edfad",
   "tags": [
    {
     "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
@@ -64,18 +69,6 @@
     }
    },
    {
-    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Doujinshi"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
@@ -101,9 +94,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2020-07-28T07:46:03+00:00",
-  "updatedAt": "2024-11-01T00:43:25+00:00"
+  "updatedAt": "2024-12-02T03:02:58+00:00"
  },
  "relationships": [
   {
@@ -163,16 +156,16 @@
    }
   },
   {
-   "id": "c794f49c-4cb7-4f61-b074-a698aa9ace67",
+   "id": "ab02f332-1216-4c4b-a1d8-509d7f381d9d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:04:35+00:00",
+    "createdAt": "2024-12-02T02:57:46+00:00",
     "description": "",
-    "fileName": "70687d92-024d-4650-a9d6-4cc86d81a35f.jpg",
+    "fileName": "d9b49e7c-4979-4579-b731-15d05c0a765d.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:04:35+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-12-02T03:02:57+00:00",
+    "version": 2,
+    "volume": "0"
    }
   }
  ]

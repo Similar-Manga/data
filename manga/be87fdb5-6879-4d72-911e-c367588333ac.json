@@ -3,28 +3,72 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tensei Saiyuuki ~Son Gokuu, Isekai Nite Binbou Kizoku no Atotori to Naru.~"
+   "en": "Reincarnated Journey to the West ~ Son Goku Becomes the Heir to a Poor Noble Family in Another World. ~"
   },
   "altTitles": [
    {
     "ja": "転生西遊記〜孫悟空、異世界にて貧乏貴族の跡取りとなる。〜"
+   },
+   {
+    "ja-ro": "Tensei Saiyuuki ~Son Gokuu, Isekai Nite Binbou Kizoku no Atotori to Naru.~"
    }
   ],
   "description": {
+   "en": "Son Goku, the rampaging monkey with unrivaled power. He was supposed to be sealed away in the Five Elements Mountain by Shakyamuni, but when he woke up he found himself in the Gogyo Kingdom in another world! In this other world where magic is everything, he aims to conquer the world using the arts of the fairy...",
    "ja": "天下無双の力を持つ暴れ猿・孫悟空。釈迦によって五行山に封印されるはずが、目覚めた時には異世界のゴギョウ王国だった!? 魔力がすべての異世界で、仙術を武器に世界征服を目指す…。"
   },
   "links": {
-   "amz": "https://www.amazon.co.jp/dp/4785978465"
+   "amz": "https://www.amazon.co.jp/dp/B0DPJJHT49",
+   "bw": "series/506085",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/871855/"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2024,
-  "contentRating": "safe",
+  "contentRating": "suggestive",
+  "tags": [
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 3,
+  "version": 7,
   "createdAt": "2024-08-28T22:46:12+00:00",
-  "updatedAt": "2024-11-24T23:04:28+00:00"
+  "updatedAt": "2025-01-04T04:58:11+00:00"
  },
  "relationships": [
   {
@@ -80,16 +124,16 @@
    }
   },
   {
-   "id": "d3c34f82-231d-4668-bde9-f454a492183a",
+   "id": "7d09faea-7f39-4298-8a67-150d954ee2e1",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-08-28T22:46:14+00:00",
-    "description": "",
-    "fileName": "dbda2ea7-cc90-40e7-b67c-03c982f4de9f.jpg",
+    "createdAt": "2024-12-26T01:52:50+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "6386f6c7-005b-46e4-a911-9a34dd866553.jpg",
     "locale": "ja",
-    "updatedAt": "2024-08-28T22:46:14+00:00",
+    "updatedAt": "2024-12-26T01:52:50+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   },
   {

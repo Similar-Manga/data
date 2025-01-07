@@ -1,0 +1,202 @@
+{
+ "id": "91e0d4e7-5758-4b60-a840-1802be876ad9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Lovers of the Red Sky"
+  },
+  "altTitles": [
+   {
+    "ko": "홍천기"
+   },
+   {
+    "en": "Hong-Cheon Gi"
+   }
+  ],
+  "description": {
+   "en": "On a Winter night, the painter Hong Cheon Gi, clashes with a man who falls from the sky.\nShe believe this beautiful looking man--who does not seem to be from this world--is her destined man because of this encounter.\nHa Ram is a man who became blind after being caught up in an unknown accident as a child.\nAlthough he can only see red, after meeting Cheon Gi, he learns the secret surrounding his eyes..."
+  },
+  "originalLanguage": "ko",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "51475352-e245-4535-a12a-679cb95414ca",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-31T23:01:02+00:00",
+  "updatedAt": "2024-12-31T23:04:27+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6b3d1ba3-d2d6-4ce5-ab23-337cc83a0fe9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-31T23:00:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jeong Eun-Gueol",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-31T23:00:03+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2afa853b-de20-4790-b03e-3561c7fdf360",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Hello! We are studio LICO. We create a variety of digital content such as webcomics, animation, and more. We wish to connect with our readers through entertaining and relatable stories!\n\n**Associated Names**\nLICO\nLife Is Comic\nLife With Content\nStudio LICO\n스튜디오 리코\n리코"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "LICO",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/studiolico",
+    "updatedAt": "2024-06-16T06:20:13+00:00",
+    "version": 5,
+    "website": "https://www.instagram.com/studiolico/",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/c/STUDIOLICO"
+   }
+  },
+  {
+   "id": "cb2d4e06-3c36-42e5-b0fc-98b138983dc1",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-31T23:01:04+00:00",
+    "description": "",
+    "fileName": "47219de2-8665-4aaa-9cc9-a1d51d6ae310.jpg",
+    "locale": "ko",
+    "updatedAt": "2024-12-31T23:01:04+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "dabcb94b-b493-488c-8ee9-e47b5bfd303e",
+   "type": "creator"
+  }
+ ]
+}

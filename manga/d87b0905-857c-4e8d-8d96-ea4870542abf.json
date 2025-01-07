@@ -1,0 +1,131 @@
+{
+ "id": "d87b0905-857c-4e8d-8d96-ea4870542abf",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "TRANCE GIRL TRANS"
+  },
+  "description": {},
+  "links": {
+   "raw": "https://x.com/TAKE1127/status/1144805548635766784"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2006,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "81c836c9-914a-4eca-981a-560dad663e73",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magical Girls"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2024-12-12T07:11:54+00:00",
+  "updatedAt": "2024-12-12T07:12:10+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3dead130-6108-457c-a497-d6b587860168",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takeyama Yuusuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3dead130-6108-457c-a497-d6b587860168",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takeyama Yuusuke",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5f14ea1e-3905-4252-8e0c-d188584bc440",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-12-12T07:11:58+00:00",
+    "description": "",
+    "fileName": "9b7d1f84-24dd-4f35-b1aa-7b1ac4efe9ff.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-12-12T07:11:58+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,32 +3,33 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kuchibeta Shokudou"
+   "en": "Restaurant of the Awkward People"
   },
   "altTitles": [
    {
     "ja": "くちべた食堂"
    },
    {
-    "en": "Restaurant of the Awkward People"
+    "ja-ro": "Kuchibeta Shokudou"
    }
   ],
   "description": {
-   "en": "For five years, she's been eating at the set-meal restaurant but didn't feel comfortable saying anything more, and the waitress at the restaurant who wanted to talk to that regular customer but couldn't get the words out. Their feelings are leaking out, but they just couldn't express their love for each other in many ways.\n\n---\n- **Note:**\n*Kuchibeta Shokudou*, originally released under the title *Otagai Iitai Koto ga Ienai Tenin Okyakusan no Manga* (お互い言いたいことが言えない店員とお客さんの漫画), is a web manga released on the [author's Twitter account](https://twitter.com/i/events/1378283683996528643) since February 15, 2019, and it was picked up for commercial publication on December 10, 2021.\n---\n- [\u003cComicWalker\u003e](https://comic-walker.com/contents/detail/KDCW_EB01202726010000_68/)\n- [\u003cPixiv Comic\u003e](https://comic.pixiv.net/works/8121)",
-   "ja": "５年間、入りたいと思ってもなかなか定食屋さんに入れなかったお客さんと\n入ってほしいと願いつつも、なかなか入ってもらえなかった、ほんの少しお客さんの少ない定食屋の店員さん。\n心の声はダダ漏れですが、お互い色んな意味で好意を伝えきれません。\nじれったいふたりの関係は、友情？ それとも……？"
+   "en": "For five years, she's been eating at the set-meal restaurant but didn't feel comfortable saying anything more, and the waitress at the restaurant who wanted to talk to that regular customer but couldn't get the words out. Their feelings are leaking out, but they just couldn't express their love for each other in many ways.\n___\n- **Note:**\n*Kuchibeta Shokudou*, originally released under the title *Otagai Iitai Koto ga Ienai Tenin Okyakusan no Manga* (お互い言いたいことが言えない店員とお客さんの漫画), is a web manga released on the [author's Twitter account](https://twitter.com/i/events/1378283683996528643) since February 15, 2019, and it was picked up for commercial publication on December 10, 2021.",
+   "ja": "５年間、入りたいと思ってもなかなか定食屋さんに入れなかったお客さんと入ってほしいと願いつつも、なかなか入ってもらえなかった、ほんの少しお客さんの少ない定食屋の店員さん。心の声はダダ漏れですが、お互い色んな意味で好意を伝えきれません。じれったいふたりの関係は、友情？ それとも…恋……？"
   },
   "links": {
    "al": "143147",
    "amz": "https://www.amazon.co.jp/dp/B0BBFW4ZR2",
    "ap": "kuchibeta-shokudou",
-   "bw": "series/331306/list",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/670673/",
-   "kt": "haru-to-ao-no-obentoubako",
+   "bw": "series/331306",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/670673",
+   "kt": "53113",
    "mal": "144453",
    "mu": "gtln8jh",
-   "raw": "https://www.pixiv.net/user/5092/series/129989"
+   "raw": "https://comic-walker.com/contents/detail/KDCW_EB01202726010000_68"
   },
   "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2021,
   "contentRating": "safe",
@@ -37,6 +38,18 @@
   ],
   "latestUploadedChapter": "ff7d5171-5239-454d-a7ad-f321b33bfdcf",
   "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
     "type": "tag",
@@ -87,9 +100,9 @@
    }
   ],
   "state": "published",
-  "version": 16,
+  "version": 18,
   "createdAt": "2022-01-12T08:16:00+00:00",
-  "updatedAt": "2024-11-04T13:29:53+00:00"
+  "updatedAt": "2024-12-31T06:23:55+00:00"
  },
  "relationships": [
   {
@@ -145,16 +158,16 @@
    }
   },
   {
-   "id": "978f06e5-e639-48f7-b845-8d6160293e58",
+   "id": "2a30649b-cb2a-40c8-a97b-4a723bec94d3",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-04-13T20:25:41+00:00",
+    "createdAt": "2024-12-05T20:15:13+00:00",
     "description": "",
-    "fileName": "20bb49a4-a905-4836-ab48-50557112b266.jpg",
+    "fileName": "058bb366-f9c1-42b9-b4ec-de2f1a540e75.jpg",
     "locale": "ja",
-    "updatedAt": "2024-04-13T20:25:41+00:00",
+    "updatedAt": "2024-12-05T20:15:13+00:00",
     "version": 1,
-    "volume": "4"
+    "volume": "5"
    }
   },
   {

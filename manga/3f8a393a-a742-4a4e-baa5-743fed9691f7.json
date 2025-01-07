@@ -1,0 +1,160 @@
+{
+ "id": "3f8a393a-a742-4a4e-baa5-743fed9691f7",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Battle of Genryu: Origin"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "Genryuu Butouden: Origin"
+   },
+   {
+    "ja": "源流武闘伝 -ORIGIN-"
+   }
+  ],
+  "description": {
+   "en": "Jin is a typical high school kid who lives with his chiropractor dad and homebody sister. But one day he discovers that he has abnormal martial arts powers (great fighting, leaping and running skills). Mysteriously, however, he only has these powers one day a month.\n\nJin has a core group of friends: an attractive girl named Fusano (who likes Jin but would never admit it) who's also good at martial arts; former bad boy Choji; and brainy computer nerd Tomonori. After school one day, Jin and his friends go to an arcade, where he is called outside by some tough guys posing as cops. It seems they were hired to test his abilities, but unfortunately he doesn't have any of his special powers on this day, so they beat him up until his friends come to help him.\n\nAlmost more mysterious than his occasional powers is the truth about the gang of bullies...who were hired by his estranged older brother."
+  },
+  "links": {
+   "mal": "11757",
+   "mu": "otjbzzr"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "15",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 2006,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-02T20:02:52+00:00",
+  "updatedAt": "2025-01-02T20:03:46+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d307cd92-fcc3-4389-a621-3ae94b3632a6",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Japanese mangaka.\n\nFrom her Pixiv:\nI am currently serializing the webtoon manga \"Makki\" weekly on an overseas website under the name FUKI Choco. In the Japanese version, it is written under the name FUKAKI Shoko.\n\n**Associated Names**\n- FUKI Choco"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fukaki Shoko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/1660901",
+    "skeb": null,
+    "tumblr": "https://fukaking-books.tumblr.com/",
+    "twitter": "https://twitter.com/fukaking",
+    "updatedAt": "2024-06-14T07:06:40+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d307cd92-fcc3-4389-a621-3ae94b3632a6",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Japanese mangaka.\n\nFrom her Pixiv:\nI am currently serializing the webtoon manga \"Makki\" weekly on an overseas website under the name FUKI Choco. In the Japanese version, it is written under the name FUKAKI Shoko.\n\n**Associated Names**\n- FUKI Choco"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fukaki Shoko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/1660901",
+    "skeb": null,
+    "tumblr": "https://fukaking-books.tumblr.com/",
+    "twitter": "https://twitter.com/fukaking",
+    "updatedAt": "2024-06-14T07:06:40+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "323afa5f-1395-4d91-a315-8aaa9306ef4d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-02T20:02:55+00:00",
+    "description": "",
+    "fileName": "a10f5d20-c098-445c-8149-199e8a3c70d5.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-02T20:02:55+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "ddc27fae-f41a-4618-b8dc-6cf98106fd4c",
+   "type": "creator"
+  }
+ ]
+}

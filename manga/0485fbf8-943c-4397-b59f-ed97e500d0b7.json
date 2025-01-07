@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hand Which"
+   "en": "hand which"
   },
   "altTitles": [
    {
-    "en": "The Hand Which"
+    "ja": "ハンド ウィッチ"
    },
    {
-    "ja": "牵你的手"
+    "zh": "牵你的手"
    }
   ],
   "description": {
@@ -19,10 +19,14 @@
   },
   "links": {
    "al": "32730",
+   "amz": "https://www.amazon.co.jp/dp/4812464625/",
    "ap": "hand-which",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-31036",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/118668/",
    "kt": "5719",
    "mal": "2730",
-   "mu": "6137"
+   "mu": "6137",
+   "raw": "https://www.cmoa.jp/title/5612/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -86,16 +90,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2018-02-17T07:40:29+00:00",
-  "updatedAt": "2023-02-22T08:05:36+00:00"
+  "updatedAt": "2024-12-08T17:19:07+00:00"
  },
  "relationships": [
   {
    "id": "f4269227-161b-407d-9d29-9b67e06db230",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n鈴木ツタ\n\n[BlueSky](https://bsky.app/profile/suzukitsuta.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -106,12 +112,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/206837",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/suzukitsuta",
+    "updatedAt": "2024-12-08T16:51:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -121,7 +127,9 @@
    "id": "f4269227-161b-407d-9d29-9b67e06db230",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n鈴木ツタ\n\n[BlueSky](https://bsky.app/profile/suzukitsuta.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -132,12 +140,12 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/en/users/206837",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/suzukitsuta",
+    "updatedAt": "2024-12-08T16:51:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -151,9 +159,9 @@
     "description": "",
     "fileName": "f3e30fac-e9a9-4b66-991f-b819a497c838.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:48:57+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2024-12-08T17:17:11+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

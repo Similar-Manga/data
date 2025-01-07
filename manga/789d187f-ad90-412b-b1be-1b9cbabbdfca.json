@@ -1,0 +1,128 @@
+{
+ "id": "789d187f-ad90-412b-b1be-1b9cbabbdfca",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Other Day"
+  },
+  "altTitles": [
+   {
+    "ja": "いつか僕らが死ぬ前に"
+   },
+   {
+    "ja-ro": "Itsuka Bokura Ga Shinu Mae Ni"
+   }
+  ],
+  "description": {
+   "ja": "弟とのすれ違い、旧友との対立を乗り越え、獣人族を助けたことエヴァン。\n仲間から一緒に村で暮らさないかと誘いを受ける。\n村に入れば弟は差別されず過ごせるが、村にいてはこの世界の不条理から逃げるだけだと痛感する。\n幸せな生活と引き換えに弟の人生を守るため、冷たい生家へと戻る決意をした……。"
+  },
+  "links": {
+   "bw": "series/323062/list",
+   "raw": "https://mangahack.com/comics/7215"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-03T03:23:23+00:00",
+  "updatedAt": "2025-01-03T03:23:38+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f5925747-0ff6-4d08-9b15-83eaff3534a8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-03T03:19:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aikawa Uoo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-03T03:19:36+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f5925747-0ff6-4d08-9b15-83eaff3534a8",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-03T03:19:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aikawa Uoo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-03T03:19:36+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e9313f8e-da2d-475a-be8b-f4774c193090",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-03T03:25:17+00:00",
+    "description": "",
+    "fileName": "55fa05d2-c1de-451c-9a87-a78f14ca3f81.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-03T03:25:17+00:00",
+    "version": 1,
+    "volume": "7"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}
