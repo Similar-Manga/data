@@ -11,7 +11,7 @@
     "en": "Enma Gavel"
    },
    "contentRating": "safe",
-   "score": 0.29993814,
+   "score": 0.29820177,
    "languages": [
     "id",
     "ru",
@@ -28,9 +28,21 @@
     "en": "RULE ~ Criminal Boy"
    },
    "contentRating": "safe",
-   "score": 0.2856859,
+   "score": 0.2822428,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "ade53973-bde5-4b9d-a57a-a370dd2358a7",
+   "title": {
+    "en": "Gakuen Sousei Nekoten!"
+   },
+   "contentRating": "safe",
+   "score": 0.25866157,
+   "languages": [
+    "en",
+    "de"
    ]
   },
   {
@@ -39,7 +51,7 @@
     "en": "The Negatibrain"
    },
    "contentRating": "safe",
-   "score": 0.25860354,
+   "score": 0.2583627,
    "languages": [
     "pl",
     "fr",
@@ -52,7 +64,7 @@
     "en": "Child Hazard"
    },
    "contentRating": "safe",
-   "score": 0.25849563,
+   "score": 0.2583135,
    "languages": [
     "en",
     "fr"
@@ -66,18 +78,6 @@
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "82ef4d95-51f9-4e31-9991-52749b24b02e",
-   "title": {
-    "en": "Teleport Revolution"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pl",
     "en"
    ]
   },
@@ -98,7 +98,7 @@
     "en": "Torikago Gakkyuu"
    },
    "contentRating": "safe",
-   "score": 0.23001605,
+   "score": 0.22976531,
    "languages": [
     "de",
     "en"
@@ -110,7 +110,7 @@
     "en": "Blood Type V"
    },
    "contentRating": "safe",
-   "score": 0.22393563,
+   "score": 0.22377752,
    "languages": [
     "it",
     "en",
@@ -124,73 +124,7 @@
     "en": "HERALD"
    },
    "contentRating": "safe",
-   "score": 0.22111632,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "1cd0b1ff-beb6-414f-b873-db9e76a8966d",
-   "title": {
-    "en": "Obake Life"
-   },
-   "contentRating": "safe",
-   "score": 0.21597971,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "09bb0c92-82bb-48a7-b131-bff8c20ba541",
-   "title": {
-    "en": "Bake Kitsune no Shuushin"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "d2f840c6-146a-46df-9d22-8e1d33f2a1cc",
-   "title": {
-    "en": "Tsutsunuke Kemomimi"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "id",
-    "zh",
-    "en"
-   ]
-  },
-  {
-   "id": "96c166e4-37cb-4554-bbdd-a4ed6a25566a",
-   "title": {
-    "en": "Permanent God"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "id",
-    "pl",
-    "pt-br",
-    "bg",
-    "hu",
-    "it",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "74dc13ca-e270-4339-a156-8842f9721894",
-   "title": {
-    "en": "School Youkai Traveler's Guide"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
+   "score": 0.21989058,
    "languages": [
     "en"
    ]
@@ -209,7 +143,65 @@
     "tr",
     "en"
    ]
+  },
+  {
+   "id": "d2f840c6-146a-46df-9d22-8e1d33f2a1cc",
+   "title": {
+    "en": "Tsutsunuke Kemomimi"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "id",
+    "zh",
+    "en"
+   ]
+  },
+  {
+   "id": "09bb0c92-82bb-48a7-b131-bff8c20ba541",
+   "title": {
+    "en": "Bake Kitsune no Shuushin"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "74dc13ca-e270-4339-a156-8842f9721894",
+   "title": {
+    "en": "School Youkai Traveler's Guide"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c65b77c8-5597-4445-a26e-d0121f9ae035",
+   "title": {
+    "en": "Surviving Demon"
+   },
+   "contentRating": "safe",
+   "score": 0.20617649,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "4747d2ad-ba21-4b25-974d-d3ebc4e89dcf",
+   "title": {
+    "en": "Signal All Red"
+   },
+   "contentRating": "safe",
+   "score": 0.2041525,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2025-01-06T00:25:21+00:00"
+ "updatedAt": "2025-01-08T00:46:22+00:00"
 }

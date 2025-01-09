@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "278e5d70-00b9-42ea-9cf4-fdcd24615772",
-   "title": {
-    "en": "Family Plan"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "9ef6e461-033b-4976-b222-943856c94a97",
    "title": {
     "en": "Smiley"
@@ -42,12 +31,23 @@
    ]
   },
   {
+   "id": "278e5d70-00b9-42ea-9cf4-fdcd24615772",
+   "title": {
+    "en": "Family Plan"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "a4054c29-3fee-407c-992e-f3d1b8bcdbfb",
    "title": {
     "en": "Good Night, Stray Sheep"
    },
    "contentRating": "safe",
-   "score": 0.21659072,
+   "score": 0.21659105,
    "languages": [
     "en"
    ]
@@ -58,7 +58,7 @@
     "en": "Sherlock"
    },
    "contentRating": "safe",
-   "score": 0.21391623,
+   "score": 0.21392086,
    "languages": [
     "en",
     "tr"
@@ -70,7 +70,7 @@
     "en": "AGAPE"
    },
    "contentRating": "safe",
-   "score": 0.21262048,
+   "score": 0.2126193,
    "languages": [
     "en"
    ]
@@ -81,9 +81,24 @@
     "en": "Island Of The Black Shrine"
    },
    "contentRating": "safe",
-   "score": 0.20618254,
+   "score": 0.20618446,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "5d4c8918-75b0-48ca-b74b-a39c20f1abab",
+   "title": {
+    "en": "I Love You, Kyouko-san."
+   },
+   "contentRating": "safe",
+   "score": 0.20566131,
+   "languages": [
+    "en",
+    "zh-hk",
+    "id",
+    "it",
+    "pt-br"
    ]
   },
   {
@@ -92,7 +107,7 @@
     "en": "Ultra Heaven"
    },
    "contentRating": "safe",
-   "score": 0.200905,
+   "score": 0.20090523,
    "languages": [
     "en",
     "vi",
@@ -113,16 +128,14 @@
    ]
   },
   {
-   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
+   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
    "title": {
-    "en": "Steins;Gate 0"
+    "en": "Cloud"
    },
    "contentRating": "safe",
    "score": 0.19166298,
    "languages": [
-    "es-la",
-    "en",
-    "pt-br"
+    "en"
    ]
   },
   {
@@ -137,14 +150,16 @@
    ]
   },
   {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
+   "id": "158e8c61-8146-45fc-b945-d8d08a405477",
    "title": {
-    "en": "Cloud"
+    "en": "Steins;Gate 0"
    },
    "contentRating": "safe",
    "score": 0.19166298,
    "languages": [
-    "en"
+    "es-la",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -153,7 +168,7 @@
     "en": "Kowloon Generic Romance"
    },
    "contentRating": "safe",
-   "score": 0.1834758,
+   "score": 0.18343842,
    "languages": [
     "pt-br",
     "zh-hk",
@@ -167,22 +182,9 @@
     "en": "Sayonara Diamond"
    },
    "contentRating": "safe",
-   "score": 0.18108378,
+   "score": 0.18108828,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "951b95f7-986b-4fd4-89e7-dfc9dfb75e12",
-   "title": {
-    "en": "Shadowman"
-   },
-   "contentRating": "safe",
-   "score": 0.18070157,
-   "languages": [
-    "pt-br",
-    "es",
-    "it"
    ]
   },
   {
@@ -197,5 +199,5 @@
    ]
   }
  ],
- "updatedAt": "2025-01-06T00:31:09+00:00"
+ "updatedAt": "2025-01-08T00:53:16+00:00"
 }

@@ -6,20 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "2e7b879e-af6c-4dea-8f23-6461c734c0ed",
-   "title": {
-    "en": "I Want You to Say I'm Cool!"
-   },
-   "contentRating": "safe",
-   "score": 0.23817438,
-   "languages": [
-    "en",
-    "pt-br",
-    "id",
-    "fr"
-   ]
-  },
-  {
    "id": "dd56b39e-bc8f-4b8b-a839-8a2916901ebc",
    "title": {
     "en": "Why, Nanda-san?"
@@ -34,12 +20,26 @@
    ]
   },
   {
+   "id": "2e7b879e-af6c-4dea-8f23-6461c734c0ed",
+   "title": {
+    "en": "I Want You to Say I'm Cool!"
+   },
+   "contentRating": "safe",
+   "score": 0.23817438,
+   "languages": [
+    "en",
+    "pt-br",
+    "id",
+    "fr"
+   ]
+  },
+  {
    "id": "3acfb83e-afbc-46a5-98ac-6846f18855a7",
    "title": {
     "en": "Kimi to Barairo no Hibi"
    },
    "contentRating": "safe",
-   "score": 0.22944494,
+   "score": 0.22944687,
    "languages": [
     "es-la",
     "en",
@@ -54,7 +54,7 @@
     "en": "Momose Akira no Hatsukoi Hatan-chuu."
    },
    "contentRating": "safe",
-   "score": 0.22374213,
+   "score": 0.22374119,
    "languages": [
     "pt-br",
     "vi",
@@ -73,50 +73,10 @@
     "en": "Renai Kyoutei"
    },
    "contentRating": "safe",
-   "score": 0.21842994,
+   "score": 0.21843328,
    "languages": [
     "fr",
     "en"
-   ]
-  },
-  {
-   "id": "bddb8634-b87b-481f-991b-0d1c6cdcd630",
-   "title": {
-    "en": "My Childhood Friend Teaches Me Everything"
-   },
-   "contentRating": "safe",
-   "score": 0.21742247,
-   "languages": [
-    "fr",
-    "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
-   "id": "6ba5c5b9-4d55-43ff-8311-26a905f78d84",
-   "title": {
-    "en": "Love Begins With a Voice"
-   },
-   "contentRating": "safe",
-   "score": 0.21742247,
-   "languages": [
-    "fr",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "3fa6b379-05ac-47df-84d5-39bea2cdad8b",
-   "title": {
-    "en": "Rain and a Slow Runner"
-   },
-   "contentRating": "safe",
-   "score": 0.21742247,
-   "languages": [
-    "en",
-    "fr",
-    "tr"
    ]
   },
   {
@@ -136,27 +96,20 @@
    ]
   },
   {
-   "id": "43131083-173d-4915-a397-db2b7446d453",
+   "id": "c9146d61-80d0-48f6-a794-de56d728171b",
    "title": {
-    "en": "Shakaijin Kareshi to Daigakusei Kanojo"
+    "en": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
    },
    "contentRating": "safe",
    "score": 0.21742247,
    "languages": [
+    "pt-br",
     "en",
-    "vi",
-    "fr"
-   ]
-  },
-  {
-   "id": "8fac7af4-c206-42bd-a733-70618bd0ec5a",
-   "title": {
-    "en": "Je me suis lié d'amitié avec une Gal"
-   },
-   "contentRating": "safe",
-   "score": 0.21742247,
-   "languages": [
-    "fr"
+    "uk",
+    "id",
+    "fr",
+    "ms",
+    "vi"
    ]
   },
   {
@@ -171,6 +124,44 @@
     "pt-br",
     "en",
     "pl"
+   ]
+  },
+  {
+   "id": "6ba5c5b9-4d55-43ff-8311-26a905f78d84",
+   "title": {
+    "en": "Love Begins With a Voice"
+   },
+   "contentRating": "safe",
+   "score": 0.21742247,
+   "languages": [
+    "fr",
+    "en",
+    "vi"
+   ]
+  },
+  {
+   "id": "bddb8634-b87b-481f-991b-0d1c6cdcd630",
+   "title": {
+    "en": "My Childhood Friend Teaches Me Everything"
+   },
+   "contentRating": "safe",
+   "score": 0.21742247,
+   "languages": [
+    "fr",
+    "en",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "8fac7af4-c206-42bd-a733-70618bd0ec5a",
+   "title": {
+    "en": "Je me suis lié d'amitié avec une Gal"
+   },
+   "contentRating": "safe",
+   "score": 0.21742247,
+   "languages": [
+    "fr"
    ]
   },
   {
@@ -193,58 +184,60 @@
    ]
   },
   {
-   "id": "c9146d61-80d0-48f6-a794-de56d728171b",
+   "id": "43131083-173d-4915-a397-db2b7446d453",
    "title": {
-    "en": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+    "en": "Shakaijin Kareshi to Daigakusei Kanojo"
    },
    "contentRating": "safe",
    "score": 0.21742247,
    "languages": [
-    "pt-br",
     "en",
-    "uk",
+    "vi",
+    "fr"
+   ]
+  },
+  {
+   "id": "3fa6b379-05ac-47df-84d5-39bea2cdad8b",
+   "title": {
+    "en": "Rain and a Slow Runner"
+   },
+   "contentRating": "safe",
+   "score": 0.21742247,
+   "languages": [
+    "en",
+    "fr",
+    "tr"
+   ]
+  },
+  {
+   "id": "92a6b94e-f205-46b5-b522-c135c20a7aa4",
+   "title": {
+    "en": "Tsuki no Oki ni Mesu mama"
+   },
+   "contentRating": "safe",
+   "score": 0.21450901,
+   "languages": [
+    "en",
+    "th",
+    "es-la",
     "id",
-    "fr",
-    "ms",
-    "vi"
-   ]
-  },
-  {
-   "id": "b24d2c22-5b28-44d4-a77f-0e920cd960a6",
-   "title": {
-    "en": "Wolf-chan wa Sumashitai"
-   },
-   "contentRating": "safe",
-   "score": 0.21450901,
-   "languages": [
-    "es-la",
-    "fr",
     "pt-br",
-    "pl",
-    "he",
-    "en",
-    "vi",
-    "id"
+    "fr"
    ]
   },
   {
-   "id": "f6aebf39-07b8-4959-ba73-fa852b96913b",
+   "id": "eccca788-db66-44cb-8f8d-c85c51605449",
    "title": {
-    "en": "Koiseyo Mayakashi Tenshi-domo"
+    "en": "The Strongest Legend"
    },
    "contentRating": "safe",
    "score": 0.21450901,
    "languages": [
-    "ru",
-    "vi",
-    "es",
-    "uk",
+    "it",
     "en",
-    "fr",
-    "es-la",
-    "pt-br"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2025-01-06T00:17:51+00:00"
+ "updatedAt": "2025-01-08T00:38:40+00:00"
 }

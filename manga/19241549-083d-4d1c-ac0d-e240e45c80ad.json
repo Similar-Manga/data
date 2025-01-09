@@ -1,0 +1,182 @@
+{
+ "id": "19241549-083d-4d1c-ac0d-e240e45c80ad",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mobile Fighter G Gundam: 7th Fight"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "Kidou Butou Gaiden - Gundam Fight 7th"
+   },
+   {
+    "ja": "機動武闘外伝ガンダムファイト7th"
+   }
+  ],
+  "description": {
+   "en": "The story parallels the Mobile Fighter G Gundam TV anime series, taking place during the 7th Gundam Fight and features Master Asia piloting the GF7-013NJ Yamato Gundam, representing Neo Japan. It also showcases how he became known as the King of Hearts, as well as his work as part of the Shuffle Alliance."
+  },
+  "links": {
+   "mu": "v7o2cnk"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "7",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1996,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "50880a9d-5440-4732-9afb-8f457127e836",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mecha"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Military"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-06T05:55:07+00:00",
+  "updatedAt": "2025-01-06T05:55:27+00:00"
+ },
+ "relationships": [
+  {
+   "id": "5378ca20-3ecc-4cd6-94bd-9cbdf16952b7",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-06T05:32:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ototoi Kitarou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-06T05:32:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5378ca20-3ecc-4cd6-94bd-9cbdf16952b7",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-06T05:32:59+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ototoi Kitarou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-06T05:32:59+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6336e794-03ef-4de3-9793-47a5622fb72d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-06T05:55:09+00:00",
+    "description": "",
+    "fileName": "d0e58dad-2d62-4c4b-97a3-573ae3478f18.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-06T05:55:09+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "8f643470-9d1c-4120-bfa7-4a36d192bb73",
+   "type": "manga",
+   "related": "main_story"
+  },
+  {
+   "id": "d1167a72-63a9-43c7-b475-d89f1d25b904",
+   "type": "manga",
+   "related": "main_story"
+  },
+  {
+   "id": "d43913d8-869f-4735-b0f3-89b2ee5b09b1",
+   "type": "manga",
+   "related": "adapted_from"
+  },
+  {
+   "id": "2fccb02f-ba27-4b0b-8a92-993e0b602524",
+   "type": "creator"
+  }
+ ]
+}

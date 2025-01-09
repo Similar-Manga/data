@@ -11,9 +11,26 @@
     "en": "Love Attack"
    },
    "contentRating": "safe",
-   "score": 0.25696677,
+   "score": 0.30984402,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "1b920c57-b359-422c-8d6d-1022c79cc8bb",
+   "title": {
+    "en": "Can You Fall in Love With the Skeleton?"
+   },
+   "contentRating": "safe",
+   "score": 0.25663733,
+   "languages": [
+    "en",
+    "fr",
+    "it",
+    "es-la",
+    "pt-br",
+    "tr",
+    "vi"
    ]
   },
   {
@@ -22,7 +39,7 @@
     "en": "LOVE THE WARZ"
    },
    "contentRating": "safe",
-   "score": 0.2554783,
+   "score": 0.25474158,
    "languages": [
     "en",
     "pt-br",
@@ -35,47 +52,11 @@
     "en": "CROSS"
    },
    "contentRating": "safe",
-   "score": 0.24540375,
+   "score": 0.23804097,
    "languages": [
     "en",
     "de"
    ]
-  },
-  {
-   "id": "1b920c57-b359-422c-8d6d-1022c79cc8bb",
-   "title": {
-    "en": "Can You Fall in Love With the Skeleton?"
-   },
-   "contentRating": "safe",
-   "score": 0.23208793,
-   "languages": [
-    "en",
-    "fr",
-    "it",
-    "es-la",
-    "pt-br",
-    "tr",
-    "vi"
-   ]
-  },
-  {
-   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
-   "title": {
-    "en": "Foo Fighter Fuji"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "2d69d419-1e3e-48ca-ace4-9d867cd10f7a",
-   "title": {
-    "en": "Celebi: The Voice of the Forest"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573
   },
   {
    "id": "6790bf03-de51-4dfe-9915-2e6ab4f6f1a8",
@@ -89,24 +70,9 @@
    ]
   },
   {
-   "id": "8ff5119a-1bd4-4f07-a34c-5a891356e009",
+   "id": "d0ac19fe-815f-4eca-9d65-2911989a48ae",
    "title": {
-    "en": "I Spy"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "pt-br",
-    "ru",
-    "id",
-    "en",
-    "th"
-   ]
-  },
-  {
-   "id": "b120f8d9-643b-4e89-8364-fe5525ca3db5",
-   "title": {
-    "en": "Onigoroki"
+    "en": "Foo Fighter Fuji"
    },
    "contentRating": "safe",
    "score": 0.21428573,
@@ -126,17 +92,6 @@
    ]
   },
   {
-   "id": "d1d993bf-3655-49c3-bb79-c019c4ba900b",
-   "title": {
-    "en": "Garakuta-Hime to Tsukumo-san"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "es-la"
-   ]
-  },
-  {
    "id": "748db5ec-de42-4083-bcb6-ea2d99cd0e84",
    "title": {
     "en": "Love You"
@@ -148,42 +103,85 @@
    ]
   },
   {
-   "id": "5057b3ed-5f7f-47a5-bebd-b8e1aae646ad",
+   "id": "d1d993bf-3655-49c3-bb79-c019c4ba900b",
    "title": {
-    "en": "Keros × Change"
+    "en": "Garakuta-Hime to Tsukumo-san"
    },
    "contentRating": "safe",
-   "score": 0.20430046
-  },
-  {
-   "id": "c4ec5d29-1f7a-4428-9a7e-58e3eb4630a9",
-   "title": {
-    "en": "Remnants of the First Snow"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "51bdaebd-d3b6-4ca2-941e-f41f624863ea",
-   "title": {
-    "en": "The Fight"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "025c4e6a-4636-4c7d-a2d0-281674ad080d",
-   "title": {
-    "en": "Little War"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
+   "score": 0.21428573,
    "languages": [
-    "fr",
-    "pt-br",
+    "es-la"
+   ]
+  },
+  {
+   "id": "b120f8d9-643b-4e89-8364-fe5525ca3db5",
+   "title": {
+    "en": "Onigoroki"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
     "en"
    ]
+  },
+  {
+   "id": "2d69d419-1e3e-48ca-ace4-9d867cd10f7a",
+   "title": {
+    "en": "Celebi: The Voice of the Forest"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573
+  },
+  {
+   "id": "8ff5119a-1bd4-4f07-a34c-5a891356e009",
+   "title": {
+    "en": "I Spy"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "pt-br",
+    "ru",
+    "id",
+    "en",
+    "th"
+   ]
+  },
+  {
+   "id": "816b8429-118d-46bd-9cdc-9554c816bde1",
+   "title": {
+    "en": "No Strategy, No Bullshit."
+   },
+   "contentRating": "safe",
+   "score": 0.21154079,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1cdc63e6-89c5-48b0-81da-5084bb87c891",
+   "title": {
+    "en": "Gunman-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
+  },
+  {
+   "id": "5eb94ba5-8f1f-4de6-80fc-290a052e5aad",
+   "title": {
+    "en": "Yadokari no Kuni"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
+  },
+  {
+   "id": "c1f21072-a89e-4998-8ecc-100f55ce22de",
+   "title": {
+    "en": "Gun \u0026 Punch"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
   }
  ],
- "updatedAt": "2025-01-06T00:33:54+00:00"
+ "updatedAt": "2025-01-08T00:56:39+00:00"
 }

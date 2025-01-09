@@ -18,8 +18,11 @@
   },
   "links": {
    "al": "33002",
-   "amz": "https://www.amazon.co.jp/gp/product/B0749R5GTD/",
+   "amz": "https://www.amazon.co.jp/dp/B0749R5GTD/",
    "ap": "paniponi-dash",
+   "bw": "series/2170",
+   "cdj": "https://www.cdjapan.co.jp/searchuni?fq.category=UD:14:02\u0026q=ぱにぽに\u0026order=reldesc\u0026opt.exclude_prx=on",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/154731/",
    "kt": "6405",
    "mal": "3002",
    "mu": "1810"
@@ -35,7 +38,7 @@
    "en",
    "ru"
   ],
-  "latestUploadedChapter": "6b551c02-bf23-489d-ad1c-22a14a1a4310",
+  "latestUploadedChapter": "6232070d-8e13-48ed-9c3f-b89eccdb2d30",
   "tags": [
    {
     "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
@@ -75,9 +78,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 7,
   "createdAt": "2018-06-26T16:33:38+00:00",
-  "updatedAt": "2023-01-13T11:24:50+00:00"
+  "updatedAt": "2025-01-07T04:20:44+00:00"
  },
  "relationships": [
   {
@@ -133,16 +136,16 @@
    }
   },
   {
-   "id": "da4d9df1-a806-4f2a-a204-12a33d3239ac",
+   "id": "13d099bc-0c3e-4815-9cfd-db44c6266c2b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:38:49+00:00",
-    "description": "",
-    "fileName": "d037bbc8-0900-4df1-9294-659cc3c2516f.jpg",
+    "createdAt": "2025-01-07T04:14:37+00:00",
+    "description": "Volume Cover From BookLive",
+    "fileName": "077fddab-ed21-4db1-945b-97a3496fadaf.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:38:49+00:00",
+    "updatedAt": "2025-01-07T04:14:37+00:00",
     "version": 1,
-    "volume": null
+    "volume": "17"
    }
   },
   {

@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "I’m Not the Villain"
+   "en": "Ore wa Akutou de wa Arimasen"
   },
   "altTitles": [
    {
     "ja": "俺は悪党ではありません"
+   },
+   {
+    "en": "I’m Not the Villain"
    }
   ],
   "description": {
@@ -20,6 +23,10 @@
   "status": "ongoing",
   "year": 2025,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "0f95b692-6d01-442e-9423-3c410a87779c",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -83,9 +90,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2025-01-05T20:55:42+00:00",
-  "updatedAt": "2025-01-05T20:55:54+00:00"
+  "updatedAt": "2025-01-06T00:43:30+00:00"
  },
  "relationships": [
   {

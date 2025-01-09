@@ -6,15 +6,16 @@
  "contentRating": "suggestive",
  "matches": [
   {
-   "id": "16e5c5fa-3422-4a7d-a8c4-95a59decd212",
+   "id": "4294a016-684b-4a86-8c6f-cc0e8bb2a669",
    "title": {
-    "en": "Tokyo Murder School"
+    "en": "Baki Gaiden: Hana no Chiharu"
    },
    "contentRating": "suggestive",
-   "score": 0.23305632,
+   "score": 0.22311293,
    "languages": [
     "en",
-    "fr"
+    "pt-br",
+    "ar"
    ]
   },
   {
@@ -34,25 +35,35 @@
    ]
   },
   {
-   "id": "4294a016-684b-4a86-8c6f-cc0e8bb2a669",
-   "title": {
-    "en": "Baki Gaiden: Hana no Chiharu"
-   },
-   "contentRating": "suggestive",
-   "score": 0.22311293,
-   "languages": [
-    "en",
-    "pt-br",
-    "ar"
-   ]
-  },
-  {
    "id": "0bfd9934-e738-44c0-adcf-dc7962f7d76c",
    "title": {
     "en": "Vaia'n Maiden"
    },
    "contentRating": "suggestive",
-   "score": 0.22056058,
+   "score": 0.21757467,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "16e5c5fa-3422-4a7d-a8c4-95a59decd212",
+   "title": {
+    "en": "Tokyo Murder School"
+   },
+   "contentRating": "suggestive",
+   "score": 0.21621513,
+   "languages": [
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "deeec123-ca9e-4777-af5d-53f887034436",
+   "title": {
+    "en": "Streaming War"
+   },
+   "contentRating": "suggestive",
+   "score": 0.20894368,
    "languages": [
     "en"
    ]
@@ -63,7 +74,7 @@
     "en": "Leveling Murder ~Shuu ni Ichido Hito wo Korosanai to Jibun ga Shinde Shimau no de, Sore Nara Isso Kanzenchoaku Shiyou to Omoimasu~"
    },
    "contentRating": "suggestive",
-   "score": 0.21868412,
+   "score": 0.20850393,
    "languages": [
     "pt-br",
     "en"
@@ -75,21 +86,10 @@
     "en": "The Battle for Dominance"
    },
    "contentRating": "suggestive",
-   "score": 0.2166862,
+   "score": 0.19928166,
    "languages": [
     "zh-hk",
     "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "deeec123-ca9e-4777-af5d-53f887034436",
-   "title": {
-    "en": "Streaming War"
-   },
-   "contentRating": "suggestive",
-   "score": 0.21558243,
-   "languages": [
     "en"
    ]
   },
@@ -99,56 +99,7 @@
     "en": "Reversibleman"
    },
    "contentRating": "suggestive",
-   "score": 0.19920297,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3eaabe03-d2bd-43f3-af71-bd1db4ab564a",
-   "title": {
-    "en": "Isekai Executioner: The Serial Killer in Another World"
-   },
-   "contentRating": "suggestive",
-   "score": 0.19333734,
-   "languages": [
-    "en",
-    "es-la",
-    "fr",
-    "vi",
-    "pt-br",
-    "ar"
-   ]
-  },
-  {
-   "id": "273933f5-7db4-463b-a704-29da253c517e",
-   "title": {
-    "en": "Crime Game - A World Without Laws"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18834327,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "c1318a89-bbc0-45ed-a327-7ea292b2cd1e",
-   "title": {
-    "en": "RED Es"
-   },
-   "contentRating": "suggestive",
-   "score": 0.18656716,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "702b78cb-0155-4449-8abf-4078d4af83a7",
-   "title": {
-    "en": "Tasogare no Utsuwagami"
-   },
-   "contentRating": "suggestive",
-   "score": 0.17824295,
+   "score": 0.18115489,
    "languages": [
     "en"
    ]
@@ -165,48 +116,89 @@
    ]
   },
   {
+   "id": "702b78cb-0155-4449-8abf-4078d4af83a7",
+   "title": {
+    "en": "Tasogare no Utsuwagami"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17824295,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "3eaabe03-d2bd-43f3-af71-bd1db4ab564a",
+   "title": {
+    "en": "Isekai Executioner: The Serial Killer in Another World"
+   },
+   "contentRating": "suggestive",
+   "score": 0.17745002,
+   "languages": [
+    "en",
+    "es-la",
+    "fr",
+    "vi",
+    "pt-br",
+    "ar"
+   ]
+  },
+  {
+   "id": "c1318a89-bbc0-45ed-a327-7ea292b2cd1e",
+   "title": {
+    "en": "RED Es"
+   },
+   "contentRating": "suggestive",
+   "score": 0.1709757,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "273933f5-7db4-463b-a704-29da253c517e",
+   "title": {
+    "en": "Crime Game - A World Without Laws"
+   },
+   "contentRating": "suggestive",
+   "score": 0.16870409,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "de928b04-2a7f-43b2-b33e-04e1073415c3",
    "title": {
     "en": "Black Joke"
    },
    "contentRating": "suggestive",
-   "score": 0.17806871,
+   "score": 0.16279753,
    "languages": [
     "pt-br",
     "en"
    ]
   },
   {
-   "id": "04fe6d31-460f-41f3-b56a-5e4f7659afa5",
+   "id": "5f972df9-c757-4ac1-934d-980d1bee5f70",
    "title": {
-    "en": "Machigatta Ko wo Mahou Shoujo ni Shite Shimatta"
+    "en": "Fist of the Blue Sky: Regenesis"
    },
    "contentRating": "suggestive",
-   "score": 0.16549982,
+   "score": 0.16271281,
    "languages": [
-    "tr",
-    "en",
-    "es-la",
-    "ru",
-    "id",
-    "pt-br"
+    "en"
    ]
   },
   {
-   "id": "a6c63ce1-359e-498d-aabf-2b5ce4d02a02",
+   "id": "340273ab-6f5a-4eb8-abdf-269343213e4e",
    "title": {
-    "en": "Kiba no Tabishounin ~The Arms Peddler~"
+    "en": "Gekikou Kamen"
    },
    "contentRating": "suggestive",
-   "score": 0.16276446,
+   "score": 0.16271281,
    "languages": [
-    "pt-br",
     "en",
-    "es",
-    "pl",
-    "es-la"
+    "fr"
    ]
   }
  ],
- "updatedAt": "2025-01-06T00:12:11+00:00"
+ "updatedAt": "2025-01-08T00:32:30+00:00"
 }

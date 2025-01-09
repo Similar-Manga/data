@@ -6,25 +6,38 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "530309ba-26b4-4290-a15d-ced331a83ea9",
-   "title": {
-    "en": "Galaxy Gangs"
-   },
-   "contentRating": "safe",
-   "score": 0.2908514,
-   "languages": [
-    "de",
-    "es-la",
-    "en"
-   ]
-  },
-  {
    "id": "a8a9cc7e-f9ab-4886-ab1b-e01fbbccc98c",
    "title": {
     "en": "Murahagane"
    },
    "contentRating": "safe",
    "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "a14176d9-9832-43d2-b98a-f16fa4e82021",
+   "title": {
+    "en": "Jump Super Stars"
+   },
+   "contentRating": "safe",
+   "score": 0.26041684,
+   "languages": [
+    "pt-br",
+    "pl",
+    "en",
+    "it",
+    "hu"
+   ]
+  },
+  {
+   "id": "c1cb567a-a4e8-41ef-a520-095324fb0d77",
+   "title": {
+    "en": "Sand Storm Boarders"
+   },
+   "contentRating": "safe",
+   "score": 0.25555065,
    "languages": [
     "en"
    ]
@@ -41,71 +54,20 @@
    ]
   },
   {
-   "id": "c1cb567a-a4e8-41ef-a520-095324fb0d77",
-   "title": {
-    "en": "Sand Storm Boarders"
-   },
-   "contentRating": "safe",
-   "score": 0.25555065,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "a14176d9-9832-43d2-b98a-f16fa4e82021",
-   "title": {
-    "en": "Jump Super Stars"
-   },
-   "contentRating": "safe",
-   "score": 0.25517455,
-   "languages": [
-    "pt-br",
-    "pl",
-    "en",
-    "it",
-    "hu"
-   ]
-  },
-  {
-   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
-   "title": {
-    "en": "Otter No.11"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "ce2d29a0-0851-4eff-9ab0-c9f4e64c9b5a",
-   "title": {
-    "en": "Dr. Haido's Experiment Note"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
-   "title": {
-    "en": "CROSS"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "de"
-   ]
-  },
-  {
    "id": "5d832a4c-e8b6-4d96-858f-b9ab7ae204a6",
    "title": {
     "en": "Parasite B"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "7a69f87e-4848-49b2-9823-5ab66ef38ea5",
+   "title": {
+    "en": "Z-XL Dai"
    },
    "contentRating": "safe",
    "score": 0.24743582,
@@ -137,14 +99,15 @@
    ]
   },
   {
-   "id": "7a69f87e-4848-49b2-9823-5ab66ef38ea5",
+   "id": "3fdf6014-eb15-4cb9-9bd4-3605d6b0d10d",
    "title": {
-    "en": "Z-XL Dai"
+    "en": "CROSS"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "en"
+    "en",
+    "de"
    ]
   },
   {
@@ -161,26 +124,26 @@
    ]
   },
   {
-   "id": "1b1a09b0-1a2b-48fb-afac-ae81156f40df",
+   "id": "ce2d29a0-0851-4eff-9ab0-c9f4e64c9b5a",
    "title": {
-    "en": "Hungry Joker (Pre-Serialization)"
+    "en": "Dr. Haido's Experiment Note"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24743582,
    "languages": [
     "en",
-    "th",
-    "pt-br"
+    "pl"
    ]
   },
   {
-   "id": "fc28aef6-ea63-4d26-97be-feef21c993cb",
+   "id": "93a2e28d-fb62-4de0-8835-48d08c4f9af4",
    "title": {
-    "en": "Mischief Makers Story Outline \u0026 Opening Manga"
+    "en": "Otter No.11"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24743582,
    "languages": [
+    "pl",
     "en"
    ]
   },
@@ -195,7 +158,43 @@
     "en",
     "pl"
    ]
+  },
+  {
+   "id": "fc28aef6-ea63-4d26-97be-feef21c993cb",
+   "title": {
+    "en": "Mischief Makers Story Outline \u0026 Opening Manga"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1b1a09b0-1a2b-48fb-afac-ae81156f40df",
+   "title": {
+    "en": "Hungry Joker (Pre-Serialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "th",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "8412400c-c524-4261-b6d6-7cb10abd68b3",
+   "title": {
+    "en": "Chrono Mansion"
+   },
+   "contentRating": "safe",
+   "score": 0.23284768,
+   "languages": [
+    "en",
+    "fr"
+   ]
   }
  ],
- "updatedAt": "2025-01-05T23:44:08+00:00"
+ "updatedAt": "2025-01-07T23:59:50+00:00"
 }

@@ -11,26 +11,7 @@
     "en": "Guman Oujo deshita ga Kokoro wo Irekaeta no de Mou Warui Koto wa shimasen, Tabun"
    },
    "contentRating": "safe",
-   "score": 0.28037593
-  },
-  {
-   "id": "61c6de9c-e8b0-4d44-aaa8-1f724f8fd6b9",
-   "title": {
-    "en": "Chiteikai Kidan"
-   },
-   "contentRating": "safe",
-   "score": 0.24435182
-  },
-  {
-   "id": "146fb52e-70d8-45f8-840b-362853476e88",
-   "title": {
-    "en": "Roads of Ryo"
-   },
-   "contentRating": "safe",
-   "score": 0.2389358,
-   "languages": [
-    "en"
-   ]
+   "score": 0.28039762
   },
   {
    "id": "6854b343-ccf9-45af-a64c-caf5a0898b8c",
@@ -48,6 +29,25 @@
    ]
   },
   {
+   "id": "146fb52e-70d8-45f8-840b-362853476e88",
+   "title": {
+    "en": "Roads of Ryo"
+   },
+   "contentRating": "safe",
+   "score": 0.2306501,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "61c6de9c-e8b0-4d44-aaa8-1f724f8fd6b9",
+   "title": {
+    "en": "Chiteikai Kidan"
+   },
+   "contentRating": "safe",
+   "score": 0.2294503
+  },
+  {
    "id": "70e55f28-fcba-4f4c-9984-42b4cce4079a",
    "title": {
     "en": "Dorara"
@@ -61,9 +61,9 @@
    ]
   },
   {
-   "id": "5dc5421b-8209-49a0-b783-f0afecf4c0d0",
+   "id": "91dcca67-938f-40a5-84ae-6746619107b2",
    "title": {
-    "en": "Freedoomers"
+    "en": "Dragon Hunter"
    },
    "contentRating": "safe",
    "score": 0.22587697,
@@ -72,9 +72,9 @@
    ]
   },
   {
-   "id": "91dcca67-938f-40a5-84ae-6746619107b2",
+   "id": "5dc5421b-8209-49a0-b783-f0afecf4c0d0",
    "title": {
-    "en": "Dragon Hunter"
+    "en": "Freedoomers"
    },
    "contentRating": "safe",
    "score": 0.22587697,
@@ -96,22 +96,9 @@
     "en": "Kyoshinki Senki"
    },
    "contentRating": "safe",
-   "score": 0.22340102,
+   "score": 0.22340144,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "cdbf50ae-91e4-4ede-81c3-69fdc390cca5",
-   "title": {
-    "en": "Mugen Sekai no Amadeus"
-   },
-   "contentRating": "safe",
-   "score": 0.21930113,
-   "languages": [
-    "en",
-    "es-la",
-    "pt-br"
    ]
   },
   {
@@ -120,9 +107,22 @@
     "en": "Amarimono Isekaijin no Jiyuu Seikatsu: Yuusha ja Nai no de Katteni Yarasete Moraimasu"
    },
    "contentRating": "safe",
-   "score": 0.21923168,
+   "score": 0.2193901,
    "languages": [
     "en",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "cdbf50ae-91e4-4ede-81c3-69fdc390cca5",
+   "title": {
+    "en": "Mugen Sekai no Amadeus"
+   },
+   "contentRating": "safe",
+   "score": 0.21929546,
+   "languages": [
+    "en",
+    "es-la",
     "pt-br"
    ]
   },
@@ -132,7 +132,7 @@
     "en": "Cluster - 12 world adventure story"
    },
    "contentRating": "safe",
-   "score": 0.21643229
+   "score": 0.21643002
   },
   {
    "id": "f6c93749-7f96-4f3b-8b98-6e48aea28bc8",
@@ -140,29 +140,10 @@
     "en": "The Legendary Annu'rin"
    },
    "contentRating": "safe",
-   "score": 0.2154694,
+   "score": 0.21545851,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "3042eb60-ad79-4fe8-94f0-ad67f51ddb8b",
-   "title": {
-    "en": "Antumbra"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8f5099c5-dca5-421f-be40-47e86c3aab51",
-   "title": {
-    "en": "Il Chevalier Mesfais (The Knight who Sinned)"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573
   },
   {
    "id": "09a5f228-f6b2-42a0-9d37-f661ebc6ad35",
@@ -176,7 +157,26 @@
     "pl",
     "es-la"
    ]
+  },
+  {
+   "id": "8f5099c5-dca5-421f-be40-47e86c3aab51",
+   "title": {
+    "en": "Il Chevalier Mesfais (The Knight who Sinned)"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573
+  },
+  {
+   "id": "3042eb60-ad79-4fe8-94f0-ad67f51ddb8b",
+   "title": {
+    "en": "Antumbra"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2025-01-06T00:24:43+00:00"
+ "updatedAt": "2025-01-08T00:45:43+00:00"
 }

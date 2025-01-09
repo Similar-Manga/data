@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "68054bff-ab52-4ea9-bdd5-9eb9b4abde54",
-   "title": {
-    "en": "Koukou Jihen"
-   },
-   "contentRating": "safe",
-   "score": 0.21793433,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "6e11edac-eb6c-46d5-9cd4-04e1e817e1ba",
    "title": {
     "en": "Ousama Game - Rinjou"
@@ -28,17 +17,28 @@
    ]
   },
   {
-   "id": "c96ee60f-32a0-4d9d-8cfa-0a2ef6bdfb38",
+   "id": "68054bff-ab52-4ea9-bdd5-9eb9b4abde54",
    "title": {
-    "en": "Shiganbana"
+    "en": "Koukou Jihen"
    },
    "contentRating": "safe",
-   "score": 0.20100756
+   "score": 0.21793433,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "5a29d829-f47a-4607-a40a-69416fea364f",
    "title": {
     "en": "Abakiya"
+   },
+   "contentRating": "safe",
+   "score": 0.20100756
+  },
+  {
+   "id": "c96ee60f-32a0-4d9d-8cfa-0a2ef6bdfb38",
+   "title": {
+    "en": "Shiganbana"
    },
    "contentRating": "safe",
    "score": 0.20100756
@@ -64,28 +64,15 @@
    ]
   },
   {
-   "id": "50d72fbd-4313-48c7-aca9-ab30ed1305b7",
+   "id": "d61ff895-dee4-43ea-94a5-318e84385062",
    "title": {
-    "en": "Planaria Ningen"
-   },
-   "contentRating": "safe",
-   "score": 0.19929099
-  },
-  {
-   "id": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
-   "title": {
-    "en": "Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo"
+    "en": "The Kurosagi Corpse Delivery Service"
    },
    "contentRating": "safe",
    "score": 0.1989459,
    "languages": [
     "en",
-    "es-la",
-    "fr",
-    "zh-hk",
-    "pt-br",
-    "id",
-    "uk"
+    "zh"
    ]
   },
   {
@@ -100,6 +87,23 @@
    ]
   },
   {
+   "id": "f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8",
+   "title": {
+    "en": "Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo"
+   },
+   "contentRating": "safe",
+   "score": 0.1989459,
+   "languages": [
+    "en",
+    "es-la",
+    "fr",
+    "zh-hk",
+    "pt-br",
+    "uk",
+    "id"
+   ]
+  },
+  {
    "id": "54059360-008c-49fe-a511-c5e23bc49242",
    "title": {
     "en": "Sumi Nigori"
@@ -111,24 +115,12 @@
    ]
   },
   {
-   "id": "d61ff895-dee4-43ea-94a5-318e84385062",
-   "title": {
-    "en": "The Kurosagi Corpse Delivery Service"
-   },
-   "contentRating": "safe",
-   "score": 0.1989459,
-   "languages": [
-    "en",
-    "zh"
-   ]
-  },
-  {
    "id": "ba3e4b3c-99d0-4e60-b007-8bd1e14ff940",
    "title": {
     "en": "The Song of the Voiceless Bird"
    },
    "contentRating": "safe",
-   "score": 0.18887582,
+   "score": 0.18971725,
    "languages": [
     "pt-br",
     "pl",
@@ -136,9 +128,9 @@
    ]
   },
   {
-   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
+   "id": "94da1904-19fc-46f0-ad94-5b693d62d834",
    "title": {
-    "en": "Mashira"
+    "en": "Watashi no Kazoku Shiiku Nikki"
    },
    "contentRating": "safe",
    "score": 0.1841881,
@@ -155,15 +147,23 @@
    "score": 0.1841881
   },
   {
-   "id": "94da1904-19fc-46f0-ad94-5b693d62d834",
+   "id": "0f33b256-7e50-4b35-baf4-963c44b6bdb5",
    "title": {
-    "en": "Watashi no Kazoku Shiiku Nikki"
+    "en": "Mashira"
    },
    "contentRating": "safe",
    "score": 0.1841881,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "5d2f50a2-563c-4cfe-8c01-2d839a7aba7c",
+   "title": {
+    "en": "Higumaguma"
+   },
+   "contentRating": "safe",
+   "score": 0.17259106
   },
   {
    "id": "bd9144b1-8602-4efb-bdb3-3dd08dbab521",
@@ -174,5 +174,5 @@
    "score": 0.17259106
   }
  ],
- "updatedAt": "2025-01-06T00:45:03+00:00"
+ "updatedAt": "2025-01-08T01:09:12+00:00"
 }

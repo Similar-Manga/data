@@ -1,0 +1,145 @@
+{
+ "id": "5458d03d-7322-4f18-ad76-3171a63a3b97",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Jutchu ni hamaru"
+  },
+  "altTitles": [
+   {
+    "vi": "Bài Xoay Thế Giới"
+   },
+   {
+    "ja": "術中にはまる"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/hamita1220/status/1873785569127624844?t=b2gcBrfeSseB7nNtm0KNNQ\u0026s=19"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi"
+  ],
+  "latestUploadedChapter": "44616c58-b637-4d25-93d5-0921e343a42c",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-06T13:23:09+00:00",
+  "updatedAt": "2025-01-06T13:26:06+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3d3dc3e4-97d5-4e07-9ebe-4490eabe1257",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** ハミタ\n\n**Additional Sites:**\n- [Bluesky](https://bsky.app/profile/hamita1220.bsky.social)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://www.fanbox.cc/@hamita1220",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hamita",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": "https://www.nicovideo.jp/user/39393503",
+    "pixiv": "https://www.pixiv.net/users/6667588",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hamita1220",
+    "updatedAt": "2024-12-26T06:15:50+00:00",
+    "version": 8,
+    "website": null,
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCp9hTcWw62un10cM-CvK9BQ"
+   }
+  },
+  {
+   "id": "3d3dc3e4-97d5-4e07-9ebe-4490eabe1257",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** ハミタ\n\n**Additional Sites:**\n- [Bluesky](https://bsky.app/profile/hamita1220.bsky.social)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://www.fanbox.cc/@hamita1220",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hamita",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": "https://www.nicovideo.jp/user/39393503",
+    "pixiv": "https://www.pixiv.net/users/6667588",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/hamita1220",
+    "updatedAt": "2024-12-26T06:15:50+00:00",
+    "version": 8,
+    "website": null,
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCp9hTcWw62un10cM-CvK9BQ"
+   }
+  },
+  {
+   "id": "69347801-4cf0-476d-9322-0c4ae638c88f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-06T13:23:15+00:00",
+    "description": "",
+    "fileName": "cdc9b3a8-0468-4e6c-b3a1-28a049387a47.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-06T13:23:15+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "eb6bd2f6-49f2-43ee-b1bd-71013d763e86",
+   "type": "creator"
+  }
+ ]
+}

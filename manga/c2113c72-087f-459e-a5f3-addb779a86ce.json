@@ -3,48 +3,36 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "A Long-Distance Girlfriend Who Loves Her Senpai So Much She Came All the Way to See Him"
+   "en": "My Long Distance Girlfriend Came to Visit me."
   },
   "altTitles": [
    {
-    "ja": "先輩のことが好きすぎてはるばる会いに来ちゃった遠距離彼女ちゃん"
+    "ja": "遠距離彼女が会いにきた。"
    },
    {
-    "ja-ro": "Senpai no Koto ga Suki Sugite Harubaru Ai ni Kichatta Enkyori Kanojochan"
-   },
-   {
-    "ja-ro": "Senpai no Koto ga Suki Sugite Harubaru Ai ni Kichatta Enkyori Kanojo-chan"
+    "ja-ro": "Enkyori Kanojo ga ainikita."
    }
   ],
   "description": {
-   "en": "A oneshot by Niichi posted on X on the 6th of December, 2024."
+   "en": "A short story by Niichi for Comiket 101."
   },
   "links": {
+   "mal": "177717",
    "raw": "https://x.com/niichi021/status/1864988385481511348"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "12",
   "status": "completed",
-  "year": 2024,
+  "year": 2022,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
    "id",
    "vi"
   ],
-  "latestUploadedChapter": "fd987bd2-1a2c-4c6e-8617-9774f3efed66",
+  "latestUploadedChapter": "c9cd1d16-4e3d-4d1e-99f1-4ef41e6df22a",
   "tags": [
-   {
-    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Oneshot"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -54,6 +42,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -68,12 +68,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 10,
   "createdAt": "2024-12-07T04:32:21+00:00",
-  "updatedAt": "2024-12-10T04:00:49+00:00"
+  "updatedAt": "2025-01-07T06:59:59+00:00"
  },
  "relationships": [
   {
@@ -133,15 +145,15 @@
    }
   },
   {
-   "id": "6c6d4ffd-fbd7-4c34-b9db-cd16dcf25ac2",
+   "id": "d1be3ba6-df04-4d66-bb7f-1eaa6c4a40e2",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-12-07T04:32:23+00:00",
+    "createdAt": "2025-01-07T03:38:28+00:00",
     "description": "",
-    "fileName": "a69a3e51-26c0-41c8-98ce-939e45912d17.jpg",
+    "fileName": "1cb01ff8-d379-4975-9eb6-6394d8e06441.jpg",
     "locale": "ja",
-    "updatedAt": "2024-12-07T04:32:23+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-07T07:01:12+00:00",
+    "version": 2,
     "volume": "1"
    }
   },

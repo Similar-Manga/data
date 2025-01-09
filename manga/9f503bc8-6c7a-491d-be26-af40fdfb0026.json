@@ -21,8 +21,10 @@
    "amz": "https://www.amazon.co.jp/dp/B0BKLS8Y11",
    "ap": "thunder-3",
    "bw": "series/354665/list",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-3007691",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/724453/",
    "engtl": "https://kodansha.us/series/thunder-3/",
+   "kt": "thunder-3",
    "mal": "147563",
    "mu": "arlttfn",
    "raw": "https://pocket.shonenmagazine.com/episode/3269754496897846337"
@@ -56,6 +58,18 @@
     "attributes": {
      "name": {
       "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
      },
      "description": {},
      "group": "genre",
@@ -112,9 +126,9 @@
    }
   ],
   "state": "published",
-  "version": 16,
+  "version": 18,
   "createdAt": "2022-05-05T20:09:17+00:00",
-  "updatedAt": "2024-11-17T12:47:27+00:00"
+  "updatedAt": "2025-01-05T22:19:32+00:00"
  },
  "relationships": [
   {
@@ -170,16 +184,16 @@
    }
   },
   {
-   "id": "431fceae-bf66-471c-a3ec-229509b914f9",
+   "id": "3b779c0a-ce9b-4029-b6d0-35be011956c5",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-09-04T15:44:15+00:00",
-    "description": "",
-    "fileName": "2a37a694-754c-4124-af58-33656f588798.jpg",
+    "createdAt": "2025-01-05T22:11:46+00:00",
+    "description": "https://bookwalker.jp/ded1194c4c-e94d-486a-b920-d0e766dc5647/",
+    "fileName": "3bce3e46-6896-4224-ad3f-30f9a94cabd7.jpg",
     "locale": "ja",
-    "updatedAt": "2024-09-04T15:44:15+00:00",
+    "updatedAt": "2025-01-05T22:11:46+00:00",
     "version": 1,
-    "volume": "7"
+    "volume": "8"
    }
   },
   {

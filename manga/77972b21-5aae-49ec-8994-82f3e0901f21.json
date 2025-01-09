@@ -1,0 +1,148 @@
+{
+ "id": "77972b21-5aae-49ec-8994-82f3e0901f21",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tsuihō Sareta Girudo Shokuin wa, Sekai Saikyō no Shōkan Shi"
+  },
+  "altTitles": [
+   {
+    "ja": "追放されたギルド職員は、世界最強の召喚士"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/476320/list",
+   "raw": "https://magcomi.com/episode/11341664176551924094"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-06T11:17:01+00:00",
+  "updatedAt": "2025-01-06T11:18:08+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0aaf12e5-7f52-49d6-b184-32c19c87bd33",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shuichi Tsukishima",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0aaf12e5-7f52-49d6-b184-32c19c87bd33",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shuichi Tsukishima",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7339ab97-5aa9-4b81-9727-83cc1c86dd9b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-06T11:17:13+00:00",
+    "description": "",
+    "fileName": "afbdbafe-f37b-446d-8f57-f90069c146b0.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-06T11:17:13+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

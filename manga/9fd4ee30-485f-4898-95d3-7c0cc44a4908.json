@@ -3,35 +3,45 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Zuba The Barbarian"
+   "en": "ZubaBan"
   },
   "altTitles": [
    {
     "ja": "ズバ蛮"
    },
    {
-    "ja-ro": "ZubaBan"
+    "ja-ro": "Zubaban"
    },
    {
     "ja-ro": "Zuba-Ban"
+   },
+   {
+    "en": "Slashing Barbarian"
+   },
+   {
+    "en": "Barbarian Zuba"
    }
   ],
   "description": {
-   "en": "It is the Sengoku period. Zubaban, a wild child who is unbeatable in physical strength, easily swings around his giant sword and cuts down the hordes of enemies! Then, suddenly, Jeanne d'Arc, a knight clad in Western armor, appears, along with Kanchohi, who came from China (?), and the invincible warrior Golongo. This colorful punch joins forces to unite Japan! Zubaban is unbeatable in hand-to-hand combat, but soon the gears of strange fate turn...!? A thrilling, super-period drama depicted on a grand scale!"
+   "en": "It is the Sengoku period. ZubaBan is a wild child who is unbeatable in physical strength, he can easily swing around his giant sword and cut down hordes of enemies! Then, suddenly, Jeanne d'Arc, a knight clad in western armor appears, along with Kanchohi, who came from China (?), and the invincible warrior Golongo. This colorful punch joins forces in hopes of uniting Japan! Zubaban is unbeatable in hand-to-hand combat, but soon the gears of strange fate turn...!? A thrilling, super-period drama depicted on a grand scale!"
   },
   "links": {
    "al": "149899",
+   "ap": "zubaban",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/100594/A000001919/",
    "mal": "112476",
    "mu": "85880"
   },
   "originalLanguage": "ja",
-  "lastVolume": "3",
-  "lastChapter": "18",
+  "lastVolume": "2",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 1971,
   "contentRating": "suggestive",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "d3436d32-72c1-4408-8a18-a069e8d8f245",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -39,6 +49,18 @@
     "attributes": {
      "name": {
       "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
      },
      "description": {},
      "group": "genre",
@@ -54,6 +76,30 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -130,6 +176,18 @@
     }
    },
    {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -143,9 +201,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 21,
   "createdAt": "2020-03-03T19:17:21+00:00",
-  "updatedAt": "2025-01-03T19:36:02+00:00"
+  "updatedAt": "2025-01-06T20:11:25+00:00"
  },
  "relationships": [
   {
@@ -205,16 +263,44 @@
    }
   },
   {
-   "id": "d5094121-1186-48a4-8a95-bd7cef982e92",
+   "id": "cb94f9d0-af59-4e1e-b134-80a291b91ae7",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Thanks to the success of Harenchi Gakuen, Dynamic Productions (ダイナミックプロダクション, also known as Dynamic Production or Dynamic Pro, ダイナミックプロ), was founded by [Go Nagai](https://mangadex.org/author/1a76535a-b389-4e42-9130-a71d0ec94611/nagai-go) with his brothers in April 1969. Meant to be a group to help him with his works, as a consequence Harenchi Gakuen, where he derived almost no royalties from the TV series, films, or related merchandise, Dynamic Productions became a company established to manage Nagai's relations and contractual rights of his work. Dynamic became one of the first companies to require publishers sign contracts (even today many manga are created and published only on the basis of verbal agreements).\n\n(Source: Wiki)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Dynamic Pro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/Dynamicpro_info",
+    "updatedAt": "2023-01-21T14:27:56+00:00",
+    "version": 3,
+    "website": "http://www.dynamicproduction.co.jp",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a82e4bd9-cafc-41e5-8185-9f59928e49bf",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2022-04-07T11:46:52+00:00",
+    "createdAt": "2025-01-05T11:17:17+00:00",
     "description": "",
-    "fileName": "066317d8-1918-4610-a037-ad5b79025f58.jpg",
+    "fileName": "4fd60a11-f24f-4081-b702-a9e4c2eebafe.jpg",
     "locale": "ja",
-    "updatedAt": "2022-04-07T11:46:52+00:00",
+    "updatedAt": "2025-01-05T11:17:17+00:00",
     "version": 1,
-    "volume": "2.1"
+    "volume": "1.3"
    }
   },
   {

@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "aad826a4-07b6-4717-af59-ee6f45a24312",
-   "title": {
-    "en": "Kimi ni Sasageru Otokomae"
-   },
-   "contentRating": "safe",
-   "score": 0.2589826,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "cf1a4be2-5288-405e-930f-d4e79699470f",
    "title": {
     "en": "Knocked Up Boys"
@@ -28,23 +17,23 @@
    ]
   },
   {
+   "id": "aad826a4-07b6-4717-af59-ee6f45a24312",
+   "title": {
+    "en": "Kimi ni Sasageru Otokomae"
+   },
+   "contentRating": "safe",
+   "score": 0.25008538,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "f366ece8-f260-4bb5-8ec4-89e5b14cc9ea",
    "title": {
     "en": "Musou Cinderella Romance"
    },
    "contentRating": "safe",
-   "score": 0.24937253
-  },
-  {
-   "id": "99f7458e-c881-4544-ae05-59701b226988",
-   "title": {
-    "en": "The Otaku Love Connection"
-   },
-   "contentRating": "safe",
-   "score": 0.23295441,
-   "languages": [
-    "zh-hk"
-   ]
+   "score": 0.2392955
   },
   {
    "id": "1f9ad059-f7a8-4016-86e3-edc7407483eb",
@@ -55,14 +44,14 @@
    "score": 0.23280422
   },
   {
-   "id": "239371c0-33d0-4308-996d-a3da9a98be09",
+   "id": "99f7458e-c881-4544-ae05-59701b226988",
    "title": {
-    "en": "Kazane-sensei wa Hida-kun ga Wakaranai"
+    "en": "The Otaku Love Connection"
    },
    "contentRating": "safe",
-   "score": 0.2312006,
+   "score": 0.2300401,
    "languages": [
-    "vi"
+    "zh-hk"
    ]
   },
   {
@@ -71,7 +60,7 @@
     "en": "Kagaya Jichou, Nerawaretemasu!"
    },
    "contentRating": "safe",
-   "score": 0.23030455
+   "score": 0.22970124
   },
   {
    "id": "851e8acb-f00e-4637-8484-9940796d76ef",
@@ -79,23 +68,7 @@
     "en": "Oi Oi Piitan!!"
    },
    "contentRating": "safe",
-   "score": 0.22857185
-  },
-  {
-   "id": "266c5af1-1579-464f-89a7-5c0d2a51074c",
-   "title": {
-    "en": "Look at Me Mukai-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.22337037
-  },
-  {
-   "id": "7992f0fa-ad44-4f4f-9ccd-307e14ada4e5",
-   "title": {
-    "en": "Shinkyu Chie no Neko Bitashi"
-   },
-   "contentRating": "safe",
-   "score": 0.22335562
+   "score": 0.22512484
   },
   {
    "id": "ffcdd90b-2f8e-4ae9-b4b0-3abb1ddb6407",
@@ -117,16 +90,31 @@
    "score": 0.21994297
   },
   {
-   "id": "7ee3bb68-0a67-4f61-8924-adaed7be5bf0",
+   "id": "239371c0-33d0-4308-996d-a3da9a98be09",
    "title": {
-    "en": "Koisuru Hotaru to Kurashiteru"
+    "en": "Kazane-sensei wa Hida-kun ga Wakaranai"
    },
    "contentRating": "safe",
-   "score": 0.21816893,
+   "score": 0.21896827,
    "languages": [
-    "en",
-    "it"
+    "vi"
    ]
+  },
+  {
+   "id": "266c5af1-1579-464f-89a7-5c0d2a51074c",
+   "title": {
+    "en": "Look at Me Mukai-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.21718964
+  },
+  {
+   "id": "7992f0fa-ad44-4f4f-9ccd-307e14ada4e5",
+   "title": {
+    "en": "Shinkyu Chie no Neko Bitashi"
+   },
+   "contentRating": "safe",
+   "score": 0.2148455
   },
   {
    "id": "33e85af1-f040-44af-84ac-b9c6ecd04ccb",
@@ -134,7 +122,7 @@
     "en": "Shiota-sensei to Amai-chan"
    },
    "contentRating": "safe",
-   "score": 0.21531323,
+   "score": 0.21337219,
    "languages": [
     "en",
     "vi",
@@ -143,21 +131,33 @@
    ]
   },
   {
-   "id": "472804ec-4896-49cd-9f41-fa787e71911c",
-   "title": {
-    "en": "Shiritsu T Joshi Gakuen"
-   },
-   "contentRating": "safe",
-   "score": 0.21329112
-  },
-  {
    "id": "209aefb0-3d89-4da8-b190-1cd484a991c9",
    "title": {
     "en": "Kirishima Gakuen Seitokai Shikkou-bu"
    },
    "contentRating": "safe",
-   "score": 0.21231833
+   "score": 0.21169263
+  },
+  {
+   "id": "7ee3bb68-0a67-4f61-8924-adaed7be5bf0",
+   "title": {
+    "en": "Koisuru Hotaru to Kurashiteru"
+   },
+   "contentRating": "safe",
+   "score": 0.21036649,
+   "languages": [
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "7ffee11b-0033-4b25-87ee-f767f07f2f7c",
+   "title": {
+    "en": "Onna no Hashori Michi"
+   },
+   "contentRating": "safe",
+   "score": 0.2100708
   }
  ],
- "updatedAt": "2025-01-06T00:04:10+00:00"
+ "updatedAt": "2025-01-08T00:23:49+00:00"
 }

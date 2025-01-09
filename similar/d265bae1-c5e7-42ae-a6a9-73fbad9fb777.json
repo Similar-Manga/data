@@ -6,6 +6,18 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "24856a89-229a-4cca-9fae-8c70ee1eebd9",
+   "title": {
+    "en": "Nyan-Nyan Oratorio"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "pl",
+    "en"
+   ]
+  },
+  {
    "id": "99d5a551-f53c-438f-8bac-ffffbf04fac2",
    "title": {
     "en": "Shuumatsu wa Aoi Haru"
@@ -19,24 +31,12 @@
    ]
   },
   {
-   "id": "24856a89-229a-4cca-9fae-8c70ee1eebd9",
-   "title": {
-    "en": "Nyan-Nyan Oratorio"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "pl",
-    "en"
-   ]
-  },
-  {
    "id": "94e16845-0eb8-4f5d-9971-9ace1b6c1df6",
    "title": {
     "en": "I Love You More Than Ever"
    },
    "contentRating": "safe",
-   "score": 0.21365662,
+   "score": 0.21365671,
    "languages": [
     "en"
    ]
@@ -57,18 +57,6 @@
     "id",
     "es-la",
     "vi",
-    "ru"
-   ]
-  },
-  {
-   "id": "f40ba66d-8ff3-48b2-af48-6cc9ff476832",
-   "title": {
-    "en": "Juu-gatsu no Hanabi"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052,
-   "languages": [
-    "en",
     "ru"
    ]
   },
@@ -99,12 +87,24 @@
    ]
   },
   {
+   "id": "f40ba66d-8ff3-48b2-af48-6cc9ff476832",
+   "title": {
+    "en": "Juu-gatsu no Hanabi"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "7e1fc7a1-f644-4f4c-a0c2-d3738b6aef9b",
    "title": {
     "en": "Wilted Flower"
    },
    "contentRating": "safe",
-   "score": 0.19779615,
+   "score": 0.197798,
    "languages": [
     "ru",
     "en",
@@ -117,9 +117,38 @@
     "en": "Rebirth: Giving You My Exclusive Affection"
    },
    "contentRating": "safe",
-   "score": 0.19673489,
+   "score": 0.19673459,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "195991a7-68c9-4130-8a27-1f64114de8d2",
+   "title": {
+    "en": "Ilya"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "es-la",
+    "vi",
+    "hu",
+    "id",
+    "pt-br",
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "384cf11b-bb14-4ee2-84f8-eca78b3e62c9",
+   "title": {
+    "en": "Seijo no Chi"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -155,41 +184,12 @@
    ]
   },
   {
-   "id": "195991a7-68c9-4130-8a27-1f64114de8d2",
-   "title": {
-    "en": "Ilya"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "es-la",
-    "vi",
-    "hu",
-    "id",
-    "pt-br",
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "384cf11b-bb14-4ee2-84f8-eca78b3e62c9",
-   "title": {
-    "en": "Seijo no Chi"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "es-la",
-    "pt-br"
-   ]
-  },
-  {
    "id": "1103f1e8-ff0f-4a71-969e-d11167f76b40",
    "title": {
     "en": "I Don't Want to Be Bullied by Girls"
    },
    "contentRating": "safe",
-   "score": 0.18725985,
+   "score": 0.18726274,
    "languages": [
     "en",
     "pt-br"
@@ -201,7 +201,7 @@
     "en": "Rebirth of the Emperor in the Reverse World"
    },
    "contentRating": "safe",
-   "score": 0.18347666,
+   "score": 0.1843735,
    "languages": [
     "en",
     "pt-br"
@@ -213,7 +213,7 @@
     "en": "Sensei no Yasashii Koroshikata"
    },
    "contentRating": "safe",
-   "score": 0.179613,
+   "score": 0.17960553,
    "languages": [
     "en",
     "pt-br",
@@ -221,5 +221,5 @@
    ]
   }
  ],
- "updatedAt": "2025-01-06T01:06:21+00:00"
+ "updatedAt": "2025-01-08T01:32:32+00:00"
 }

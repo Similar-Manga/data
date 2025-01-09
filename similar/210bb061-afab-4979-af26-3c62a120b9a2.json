@@ -6,20 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "e36c959b-f739-4b37-a74c-070cc0f0d057",
-   "title": {
-    "en": "Tsukiyogarasu to Seinaru Yoru: Shikkoku no Kiseki"
-   },
-   "contentRating": "safe",
-   "score": 0.15294383,
-   "languages": [
-    "en",
-    "pl",
-    "tr",
-    "de"
-   ]
-  },
-  {
    "id": "93da08f2-553f-462d-a15e-bb15c5430909",
    "title": {
     "en": "Fugitto Amor"
@@ -34,12 +20,26 @@
    ]
   },
   {
+   "id": "e36c959b-f739-4b37-a74c-070cc0f0d057",
+   "title": {
+    "en": "Tsukiyogarasu to Seinaru Yoru: Shikkoku no Kiseki"
+   },
+   "contentRating": "safe",
+   "score": 0.15294383,
+   "languages": [
+    "en",
+    "pl",
+    "tr",
+    "de"
+   ]
+  },
+  {
    "id": "3edfc01a-a4a0-473c-a0d1-5ffd265e7034",
    "title": {
     "en": "Boys'n Girl"
    },
    "contentRating": "safe",
-   "score": 0.13245325,
+   "score": 0.14095567,
    "languages": [
     "pl",
     "de",
@@ -58,6 +58,19 @@
     "en",
     "de",
     "pl"
+   ]
+  },
+  {
+   "id": "23036c3f-4e61-4dd1-8414-58fe14f9ad8b",
+   "title": {
+    "en": "Koi suru 1/4"
+   },
+   "contentRating": "safe",
+   "score": 0.108331785,
+   "languages": [
+    "pt-br",
+    "de",
+    "en"
    ]
   },
   {
@@ -111,16 +124,17 @@
    ]
   },
   {
-   "id": "23036c3f-4e61-4dd1-8414-58fe14f9ad8b",
+   "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
    "title": {
-    "en": "Koi suru 1/4"
+    "en": "Tsuki no Kanon"
    },
    "contentRating": "safe",
-   "score": 0.09365858,
+   "score": 0.09161554,
    "languages": [
-    "pt-br",
-    "de",
-    "en"
+    "fr",
+    "en",
+    "ru",
+    "de"
    ]
   },
   {
@@ -135,6 +149,20 @@
     "it",
     "pt-br",
     "de"
+   ]
+  },
+  {
+   "id": "04e54c8b-9d31-4868-a6ce-18b80cc1762d",
+   "title": {
+    "en": "Akuma wa Sasayaku"
+   },
+   "contentRating": "safe",
+   "score": 0.07647192,
+   "languages": [
+    "fr",
+    "en",
+    "de",
+    "pt-br"
    ]
   },
   {
@@ -156,26 +184,12 @@
    ]
   },
   {
-   "id": "04e54c8b-9d31-4868-a6ce-18b80cc1762d",
-   "title": {
-    "en": "Akuma wa Sasayaku"
-   },
-   "contentRating": "safe",
-   "score": 0.07647192,
-   "languages": [
-    "fr",
-    "en",
-    "de",
-    "pt-br"
-   ]
-  },
-  {
    "id": "12a2f716-8f0f-40e7-8a4a-4ebe6f76f9ba",
    "title": {
     "en": "Red House"
    },
    "contentRating": "safe",
-   "score": 0.069431365,
+   "score": 0.06932211,
    "languages": [
     "fr",
     "ro",
@@ -183,20 +197,6 @@
     "en",
     "de",
     "pl"
-   ]
-  },
-  {
-   "id": "f7af5e40-5636-470e-8714-3c14be9ee8e1",
-   "title": {
-    "en": "Tsuki no Kanon"
-   },
-   "contentRating": "safe",
-   "score": 0.066226624,
-   "languages": [
-    "fr",
-    "en",
-    "ru",
-    "de"
    ]
   },
   {
@@ -242,5 +242,5 @@
    ]
   }
  ],
- "updatedAt": "2025-01-05T23:55:05+00:00"
+ "updatedAt": "2025-01-08T00:14:00+00:00"
 }

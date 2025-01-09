@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "cce6ac2e-96c3-4b7a-b81d-69bc5be8a2c9",
-   "title": {
-    "en": "Arcana 12 - Demons"
-   },
-   "contentRating": "safe",
-   "score": 0.16495723,
-   "languages": [
-    "fr",
-    "en",
-    "it"
-   ]
-  },
-  {
    "id": "879ce2f1-a8da-47ed-b70b-5483f98f774e",
    "title": {
     "en": "Arcana 07 - Wizard / Magician"
@@ -32,12 +19,25 @@
    ]
   },
   {
+   "id": "cce6ac2e-96c3-4b7a-b81d-69bc5be8a2c9",
+   "title": {
+    "en": "Arcana 12 - Demons"
+   },
+   "contentRating": "safe",
+   "score": 0.16495723,
+   "languages": [
+    "fr",
+    "en",
+    "it"
+   ]
+  },
+  {
    "id": "1e2abe58-293a-4f92-8a05-d816a279d066",
    "title": {
     "en": "Dream Vendor"
    },
    "contentRating": "safe",
-   "score": 0.14716949,
+   "score": 0.14716934,
    "languages": [
     "it",
     "pl",
@@ -62,21 +62,9 @@
     "en": "Jijou Ari Undead"
    },
    "contentRating": "safe",
-   "score": 0.100647606,
+   "score": 0.10065609,
    "languages": [
     "pt-br",
-    "en",
-    "it"
-   ]
-  },
-  {
-   "id": "7980ff2e-0e78-4830-bf9e-f18fc2d15600",
-   "title": {
-    "en": "Our Time of Dawn"
-   },
-   "contentRating": "safe",
-   "score": 0.095238104,
-   "languages": [
     "en",
     "it"
    ]
@@ -108,17 +96,15 @@
    ]
   },
   {
-   "id": "2748775c-1362-4df6-a820-eb222aa7958f",
+   "id": "7980ff2e-0e78-4830-bf9e-f18fc2d15600",
    "title": {
-    "en": "Otona-Najimi"
+    "en": "Our Time of Dawn"
    },
    "contentRating": "safe",
-   "score": 0.08247861,
+   "score": 0.095238104,
    "languages": [
     "en",
-    "it",
-    "es-la",
-    "pt-br"
+    "it"
    ]
   },
   {
@@ -134,17 +120,17 @@
    ]
   },
   {
-   "id": "317e1022-e40a-4887-8735-7e0a8db119a4",
+   "id": "2748775c-1362-4df6-a820-eb222aa7958f",
    "title": {
-    "en": "Long Past That Summer"
+    "en": "Otona-Najimi"
    },
    "contentRating": "safe",
-   "score": 0.07377111,
+   "score": 0.08247861,
    "languages": [
     "en",
-    "vi",
-    "id",
-    "it"
+    "it",
+    "es-la",
+    "pt-br"
    ]
   },
   {
@@ -157,6 +143,20 @@
    "languages": [
     "it",
     "en"
+   ]
+  },
+  {
+   "id": "317e1022-e40a-4887-8735-7e0a8db119a4",
+   "title": {
+    "en": "Long Past That Summer"
+   },
+   "contentRating": "safe",
+   "score": 0.07377111,
+   "languages": [
+    "en",
+    "vi",
+    "id",
+    "it"
    ]
   },
   {
@@ -228,5 +228,5 @@
    ]
   }
  ],
- "updatedAt": "2025-01-06T00:28:09+00:00"
+ "updatedAt": "2025-01-08T00:49:27+00:00"
 }

@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "The Demon Maid Only Wants to Be Bullied by the Villainess"
+   "en": "The Demon Maid Only Wants to Be Bullied by the Villainess Noble Lady"
   },
   "altTitles": [
    {
@@ -13,23 +13,25 @@
     "zh-ro": "Èmó nǚpū zhǐ xiǎng bèi è yì qiānjīn qīfù"
    },
    {
-    "en": "The Demon Maid Only Wants to Be Bullied by the Villainess Noble Lady"
+    "en": "The Demon Maid Only Wants to Be Bullied by the Villainess"
    }
   ],
   "description": {
    "en": "The Noble Lady binds Tentacle Maid\n\nSharan, a pious girl, has secured a well-paying job as a maid. Her mission is to serve a prideful, sadistic noble lady named Lynette. However, her job won't simply be that easy...."
   },
   "links": {
-   "raw": "https://manga.bilibili.com/m/detail/mc36250?showop=X_XX461EA425D9425066AD5AC2E79143A585414_1732568009"
+   "mu": "81f4j14",
+   "raw": "https://manga.bilibili.com/detail/mc36250"
   },
   "originalLanguage": "zh",
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "en"
+   "en",
+   "fr"
   ],
-  "latestUploadedChapter": "8b5844ae-17a7-4a2d-a6f0-665c72d0eb25",
+  "latestUploadedChapter": "d5648a81-1393-452c-9f8a-c60c0c2f3a96",
   "tags": [
    {
     "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
@@ -68,6 +70,42 @@
     }
    },
    {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "81c836c9-914a-4eca-981a-560dad663e73",
     "type": "tag",
     "attributes": {
@@ -85,6 +123,18 @@
     "attributes": {
      "name": {
       "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
      },
      "description": {},
      "group": "genre",
@@ -141,9 +191,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 8,
   "createdAt": "2024-11-26T00:35:02+00:00",
-  "updatedAt": "2025-01-01T02:50:28+00:00"
+  "updatedAt": "2025-01-06T21:04:32+00:00"
  },
  "relationships": [
   {

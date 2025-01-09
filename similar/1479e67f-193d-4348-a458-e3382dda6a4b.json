@@ -11,7 +11,7 @@
     "en": "Arte"
    },
    "contentRating": "safe",
-   "score": 0.19043297,
+   "score": 0.1862963,
    "languages": [
     "en",
     "pt-br",
@@ -25,40 +25,12 @@
     "en": "Einen Koyou wa Kanou deshou ka"
    },
    "contentRating": "safe",
-   "score": 0.18769513,
+   "score": 0.185233,
    "languages": [
     "en",
     "vi",
     "es-la",
     "pl"
-   ]
-  },
-  {
-   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
-   "title": {
-    "en": "Skip and Loafer"
-   },
-   "contentRating": "safe",
-   "score": 0.18250301,
-   "languages": [
-    "pt-br",
-    "uk",
-    "en",
-    "es-la",
-    "vi",
-    "ru",
-    "tl"
-   ]
-  },
-  {
-   "id": "e59fbe4d-5efe-4fc6-93ed-41809659a928",
-   "title": {
-    "en": "Hijiri-san wa Scenario-douri ni Ikanai"
-   },
-   "contentRating": "safe",
-   "score": 0.18144369,
-   "languages": [
-    "vi"
    ]
   },
   {
@@ -78,14 +50,13 @@
    ]
   },
   {
-   "id": "4c111bd9-7039-4db1-9704-db6a5166f278",
+   "id": "e59fbe4d-5efe-4fc6-93ed-41809659a928",
    "title": {
-    "en": "Wagahai no Kare wa Baka de aru"
+    "en": "Hijiri-san wa Scenario-douri ni Ikanai"
    },
    "contentRating": "safe",
    "score": 0.18144369,
    "languages": [
-    "en",
     "vi"
    ]
   },
@@ -99,6 +70,7 @@
    "languages": [
     "es-la",
     "vi",
+    "pt-br",
     "th"
    ]
   },
@@ -116,15 +88,14 @@
    ]
   },
   {
-   "id": "ac99bb12-c788-4f7d-95c1-1264d0d943b4",
+   "id": "4c111bd9-7039-4db1-9704-db6a5166f278",
    "title": {
-    "en": "Maid Skater"
+    "en": "Wagahai no Kare wa Baka de aru"
    },
    "contentRating": "safe",
-   "score": 0.17621894,
+   "score": 0.18144369,
    "languages": [
     "en",
-    "pt-br",
     "vi"
    ]
   },
@@ -134,7 +105,7 @@
     "en": "Otoyomegatari"
    },
    "contentRating": "safe",
-   "score": 0.17555617,
+   "score": 0.17975663,
    "languages": [
     "vi",
     "ru",
@@ -147,12 +118,29 @@
    ]
   },
   {
+   "id": "244c9d4f-e5fb-4590-9b96-4da191977b33",
+   "title": {
+    "en": "Skip and Loafer"
+   },
+   "contentRating": "safe",
+   "score": 0.17175698,
+   "languages": [
+    "pt-br",
+    "uk",
+    "en",
+    "es-la",
+    "vi",
+    "ru",
+    "tl"
+   ]
+  },
+  {
    "id": "fc0a7b86-992e-4126-b30f-ca04811979bf",
    "title": {
     "en": "The Unrivaled Mememori-kun"
    },
    "contentRating": "safe",
-   "score": 0.17409167,
+   "score": 0.17091365,
    "languages": [
     "en",
     "vi",
@@ -168,44 +156,14 @@
     "ja-ro": "Houkago Kitaku Biyori"
    },
    "contentRating": "safe",
-   "score": 0.17256495,
+   "score": 0.1696721,
    "languages": [
     "id",
-    "es-la",
     "vi",
+    "es-la",
     "en",
     "ru",
     "pt-br"
-   ]
-  },
-  {
-   "id": "96338481-0531-4a25-b209-152e4178684b",
-   "title": {
-    "en": "Radiation House"
-   },
-   "contentRating": "safe",
-   "score": 0.16896579,
-   "languages": [
-    "es-la",
-    "vi",
-    "fr",
-    "en",
-    "ru",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "84b8110c-b14f-42fe-bd95-72d821ac489d",
-   "title": {
-    "ja": "Sensei, Kongetsu Dou Desu ka"
-   },
-   "contentRating": "safe",
-   "score": 0.16571839,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi",
-    "es-la"
    ]
   },
   {
@@ -233,17 +191,65 @@
    ]
   },
   {
+   "id": "96338481-0531-4a25-b209-152e4178684b",
+   "title": {
+    "en": "Radiation House"
+   },
+   "contentRating": "safe",
+   "score": 0.16364007,
+   "languages": [
+    "es-la",
+    "vi",
+    "fr",
+    "en",
+    "ru",
+    "pt-br"
+   ]
+  },
+  {
+   "id": "ac99bb12-c788-4f7d-95c1-1264d0d943b4",
+   "title": {
+    "en": "Maid Skater"
+   },
+   "contentRating": "safe",
+   "score": 0.16014977,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi"
+   ]
+  },
+  {
    "id": "be36e5cf-465a-4456-8c08-ae8e70565b77",
    "title": {
     "en": "Kaika Apartment"
    },
    "contentRating": "safe",
-   "score": 0.16228224,
+   "score": 0.1600911,
    "languages": [
     "vi",
     "en"
    ]
+  },
+  {
+   "id": "6cc0f7c2-0db6-432b-8189-fcedbcdda888",
+   "title": {
+    "en": "Hitomi-chan Is Shy With Strangers"
+   },
+   "contentRating": "safe",
+   "score": 0.15713485,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "fr",
+    "ru",
+    "ar",
+    "id",
+    "hi",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2025-01-05T23:50:01+00:00"
+ "updatedAt": "2025-01-08T00:06:19+00:00"
 }

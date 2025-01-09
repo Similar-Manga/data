@@ -81,13 +81,13 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-11-09T14:22:30+00:00",
-  "updatedAt": "2024-11-09T16:47:52+00:00"
+  "updatedAt": "2025-01-05T11:29:38+00:00"
  },
  "relationships": [
   {
-   "id": "22fae822-8aa0-4050-a52c-580b39386467",
+   "id": "d14ad710-de05-4655-98bc-aeda93c9c275",
    "type": "author",
    "attributes": {
     "biography": {},
@@ -97,16 +97,16 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Shishamo",
+    "name": "Quantum",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/quantum44_nj",
+    "updatedAt": "2022-01-17T09:22:18+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -131,8 +131,36 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-05T11:33:16+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "46acb0bb-b93c-4c38-a958-eb9de90a84ae",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Circle**: [Current Storage](https://mangadex.org/author/6e176a40-f90d-4207-bdbc-5c4c74d5e928/current-storage)\n\n**Trackers:** \n- [Anilist](https://anilist.co/staff/117955/momi)\n- [MangaUpdates](https://www.mangaupdates.com/author/ayfsmuy/momi)"
+    },
+    "booth": "https://currentstorage.booth.pm/",
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "momi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/momi_current",
+    "updatedAt": "2024-09-07T13:15:32+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

@@ -6,18 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "e51c97d7-0ef9-4edb-9b3f-3a6feb21d18e",
-   "title": {
-    "en": "Mahou Shounen X"
-   },
-   "contentRating": "safe",
-   "score": 0.24832407,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
    "id": "893a6989-50af-42be-a5bd-0acdf78824ef",
    "title": {
     "en": "Kokodake no Himitsu"
@@ -32,6 +20,18 @@
    ]
   },
   {
+   "id": "e51c97d7-0ef9-4edb-9b3f-3a6feb21d18e",
+   "title": {
+    "en": "Mahou Shounen X"
+   },
+   "contentRating": "safe",
+   "score": 0.22800915,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "9efc93e7-437b-4d93-89db-6a01214bec16",
    "title": {
     "en": "Gishinanki o Shozu"
@@ -40,6 +40,33 @@
    "score": 0.22800915,
    "languages": [
     "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "7811e3db-e509-40a1-9c88-2031179b9d6a",
+   "title": {
+    "en": "ANIMORED!!"
+   },
+   "contentRating": "safe",
+   "score": 0.22167556,
+   "languages": [
+    "en",
+    "es-la",
+    "fr"
+   ]
+  },
+  {
+   "id": "56ae9929-41bf-4d18-9f64-bcb727c24503",
+   "title": {
+    "en": "Divorce Concilation"
+   },
+   "contentRating": "safe",
+   "score": 0.22167556,
+   "languages": [
+    "en",
+    "fr",
+    "pt-br",
     "pl"
    ]
   },
@@ -68,39 +95,12 @@
    ]
   },
   {
-   "id": "56ae9929-41bf-4d18-9f64-bcb727c24503",
-   "title": {
-    "en": "Divorce Concilation"
-   },
-   "contentRating": "safe",
-   "score": 0.22167556,
-   "languages": [
-    "en",
-    "fr",
-    "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "7811e3db-e509-40a1-9c88-2031179b9d6a",
-   "title": {
-    "en": "ANIMORED!!"
-   },
-   "contentRating": "safe",
-   "score": 0.22167556,
-   "languages": [
-    "en",
-    "es-la",
-    "fr"
-   ]
-  },
-  {
    "id": "640e1d1f-d4e3-446a-8f54-0e7b2dba1ae7",
    "title": {
     "en": "Yuuyami Tokkoutai"
    },
    "contentRating": "safe",
-   "score": 0.22073254,
+   "score": 0.21854237,
    "languages": [
     "en"
    ]
@@ -111,7 +111,7 @@
     "en": "Fermer Mardi"
    },
    "contentRating": "safe",
-   "score": 0.21702427,
+   "score": 0.21536227,
    "languages": [
     "en"
    ]
@@ -122,22 +122,10 @@
     "en": "Cremators"
    },
    "contentRating": "safe",
-   "score": 0.21276924,
+   "score": 0.21070461,
    "languages": [
     "en",
     "pt-br",
-    "pl"
-   ]
-  },
-  {
-   "id": "ced8a7bd-e531-442a-acfd-eea268ebef10",
-   "title": {
-    "en": "Jeep and Wagon"
-   },
-   "contentRating": "safe",
-   "score": 0.20814292,
-   "languages": [
-    "en",
     "pl"
    ]
   },
@@ -153,29 +141,15 @@
    ]
   },
   {
-   "id": "06699512-31e2-4f74-a905-2189867995af",
+   "id": "ced8a7bd-e531-442a-acfd-eea268ebef10",
    "title": {
-    "en": "Yosame Hakuro wa Korosenai"
+    "en": "Jeep and Wagon"
    },
    "contentRating": "safe",
-   "score": 0.20535578,
+   "score": 0.20814292,
    "languages": [
-    "th",
-    "fr",
     "en",
-    "es-la",
-    "vi"
-   ]
-  },
-  {
-   "id": "16f7e26d-d4d7-4d8f-bdd9-bdbbafd54a9b",
-   "title": {
-    "en": "My Baby"
-   },
-   "contentRating": "safe",
-   "score": 0.2053538,
-   "languages": [
-    "en"
+    "pl"
    ]
   },
   {
@@ -190,6 +164,32 @@
    ]
   },
   {
+   "id": "16f7e26d-d4d7-4d8f-bdd9-bdbbafd54a9b",
+   "title": {
+    "en": "My Baby"
+   },
+   "contentRating": "safe",
+   "score": 0.2053538,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "06699512-31e2-4f74-a905-2189867995af",
+   "title": {
+    "en": "Yosame Hakuro wa Korosenai"
+   },
+   "contentRating": "safe",
+   "score": 0.20279133,
+   "languages": [
+    "th",
+    "fr",
+    "en",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
    "id": "6d527dff-3370-4891-92af-c4e754393d3e",
    "title": {
     "en": "Trim the Fat"
@@ -201,5 +201,5 @@
    ]
   }
  ],
- "updatedAt": "2025-01-06T00:15:02+00:00"
+ "updatedAt": "2025-01-08T00:35:32+00:00"
 }

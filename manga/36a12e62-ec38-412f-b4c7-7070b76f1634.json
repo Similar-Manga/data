@@ -1,0 +1,90 @@
+{
+ "id": "36a12e62-ec38-412f-b4c7-7070b76f1634",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "King's Road"
+  },
+  "description": {
+   "en": "A young boxer squares off against his idol who is nearing retirement. The winner gets a shot at the world title. Who will walk the road of kings?"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "contentRating": "safe",
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-06T18:03:52+00:00",
+  "updatedAt": "2025-01-06T18:06:37+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0daaf3dd-e401-4cdd-9662-43bead44fd00",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Terajima Yuuji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0daaf3dd-e401-4cdd-9662-43bead44fd00",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Terajima Yuuji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d78811b6-0fe5-4934-91d9-7978630db8c7",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-06T18:04:01+00:00",
+    "description": "",
+    "fileName": "c4656407-82d8-40b9-b4a5-900aab4a9db9.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-06T18:04:01+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a496735a-51ad-48d7-8b8e-b3f17b954dd7",
+   "type": "creator"
+  }
+ ]
+}

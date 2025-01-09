@@ -11,7 +11,7 @@
     "en": "I Can't Look Into Your Eyes"
    },
    "contentRating": "safe",
-   "score": 0.3053748
+   "score": 0.31402555
   },
   {
    "id": "328af8b9-a561-4b12-9962-079fe1b2a21a",
@@ -19,7 +19,7 @@
     "en": "Hadaka no Taiyou"
    },
    "contentRating": "safe",
-   "score": 0.30325463,
+   "score": 0.30322838,
    "languages": [
     "en"
    ]
@@ -30,7 +30,7 @@
     "en": "Hageruya!"
    },
    "contentRating": "safe",
-   "score": 0.29618728,
+   "score": 0.30164507,
    "languages": [
     "en"
    ]
@@ -41,7 +41,7 @@
     "en": "Kimi no Risou no Maid ni Naru!"
    },
    "contentRating": "safe",
-   "score": 0.29598314,
+   "score": 0.2972228,
    "languages": [
     "pt-br",
     "vi",
@@ -56,7 +56,7 @@
     "en": "AniKoi"
    },
    "contentRating": "safe",
-   "score": 0.2950043,
+   "score": 0.29498717,
    "languages": [
     "en"
    ]
@@ -67,18 +67,22 @@
     "en": "Hana to Harinezumi"
    },
    "contentRating": "safe",
-   "score": 0.2943835,
+   "score": 0.29437014,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "339e757b-4b69-4ee6-82e0-aa1d695b0fa9",
+   "id": "ba75f3e6-56c4-4c76-8ee5-f25428d3fd62",
    "title": {
-    "en": "Donkey High School"
+    "en": "The Maiden With Zero Love Experience"
    },
    "contentRating": "safe",
-   "score": 0.286385
+   "score": 0.2923369,
+   "languages": [
+    "ru",
+    "en"
+   ]
   },
   {
    "id": "9adaaa1a-0c5f-48fc-89e8-5ff22d38d44e",
@@ -86,7 +90,7 @@
     "en": "Brand New School Day"
    },
    "contentRating": "safe",
-   "score": 0.2861849,
+   "score": 0.28612387,
    "languages": [
     "fr",
     "ru",
@@ -97,26 +101,18 @@
    ]
   },
   {
-   "id": "ba75f3e6-56c4-4c76-8ee5-f25428d3fd62",
+   "id": "955c730a-9304-4f82-ae96-af48ff5eaa0c",
    "title": {
-    "en": "The Maiden With Zero Love Experience"
-   },
-   "contentRating": "safe",
-   "score": 0.28610095,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a",
-   "title": {
-    "en": "Sweety"
+    "en": "Kurai Anoko to Shitai koto"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en"
+    "en",
+    "es-la",
+    "pt-br",
+    "id",
+    "th"
    ]
   },
   {
@@ -129,6 +125,19 @@
    "languages": [
     "en",
     "es-la"
+   ]
+  },
+  {
+   "id": "808dc5fa-0c7f-466e-b9e4-eea271f60a13",
+   "title": {
+    "en": "Ponko Tsundere na Osananajimi"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "es-la",
+    "ko"
    ]
   },
   {
@@ -149,34 +158,6 @@
    ]
   },
   {
-   "id": "955c730a-9304-4f82-ae96-af48ff5eaa0c",
-   "title": {
-    "en": "Kurai Anoko to Shitai koto"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "es-la",
-    "pt-br",
-    "id",
-    "th"
-   ]
-  },
-  {
-   "id": "808dc5fa-0c7f-466e-b9e4-eea271f60a13",
-   "title": {
-    "en": "Ponko Tsundere na Osananajimi"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "es-la",
-    "ko"
-   ]
-  },
-  {
    "id": "b8c4873d-fe4e-4636-9cdf-638065c98542",
    "title": {
     "en": "Koe ga Kikitai Kodaira-kun"
@@ -185,17 +166,43 @@
    "score": 0.2857143
   },
   {
+   "id": "5c14ef0d-35da-42f3-9f13-2c4bd2b1f86a",
+   "title": {
+    "en": "Sweety"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "5d4de0de-110f-421f-a991-33f25b6abac0",
    "title": {
     "en": "Houkago☆Idol"
    },
    "contentRating": "safe",
-   "score": 0.27904522,
+   "score": 0.27899355,
    "languages": [
     "es-la",
     "en"
    ]
+  },
+  {
+   "id": "6233aed2-2f42-4308-a2b9-7d37b836cc33",
+   "title": {
+    "en": "Kusunoki's Flunking Her High School Glow-Up"
+   },
+   "contentRating": "safe",
+   "score": 0.27194315,
+   "languages": [
+    "en",
+    "vi",
+    "es-la",
+    "pt-br",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2025-01-06T01:01:49+00:00"
+ "updatedAt": "2025-01-08T01:27:55+00:00"
 }

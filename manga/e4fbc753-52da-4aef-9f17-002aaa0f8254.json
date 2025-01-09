@@ -25,6 +25,10 @@
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "809ed940-8a06-4eb4-b7a6-0d5a247fa3bd",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -64,16 +68,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2025-01-05T15:16:39+00:00",
-  "updatedAt": "2025-01-05T16:12:16+00:00"
+  "updatedAt": "2025-01-06T13:03:43+00:00"
  },
  "relationships": [
   {
    "id": "a7b783a2-eea9-4f9b-9caa-ebdf36d460f3",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Alternate names: Yazuki Tomuka"
+    },
     "booth": null,
     "createdAt": "2024-05-08T08:12:37+00:00",
     "fanBox": null,
@@ -88,34 +94,34 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2024-05-08T08:12:37+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-07T09:42:50+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "a7b783a2-eea9-4f9b-9caa-ebdf36d460f3",
+   "id": "64c1cd88-022b-48b6-832d-46261a856cfa",
    "type": "artist",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2024-05-08T08:12:37+00:00",
+    "createdAt": "2025-01-06T13:03:41+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yadzuki Tomuka",
+    "name": "Himuro Ryou",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-05-08T08:12:37+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/hxxxryoh",
+    "updatedAt": "2025-01-06T13:04:22+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

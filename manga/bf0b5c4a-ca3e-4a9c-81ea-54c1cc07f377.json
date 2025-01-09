@@ -1,0 +1,147 @@
+{
+ "id": "bf0b5c4a-ca3e-4a9c-81ea-54c1cc07f377",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Honto wa motto, shitai dake"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "ほんとはもっと、したいだけ"
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "97893a4c-12af-4dac-b6be-0dffb353568e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-06T18:20:38+00:00",
+  "updatedAt": "2025-01-07T16:13:16+00:00"
+ },
+ "relationships": [
+  {
+   "id": "7aefc843-adfb-4d66-8777-3fdd4da75c33",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n竹嶋えく\n\n**Circle**: [Oeuf](https://mangadex.org/author/afba08d0-e147-42ec-8ea3-e2a831610a61)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takeshima Eku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/9665274",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/takeshimaxfj",
+    "updatedAt": "2023-03-23T20:19:15+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7aefc843-adfb-4d66-8777-3fdd4da75c33",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n竹嶋えく\n\n**Circle**: [Oeuf](https://mangadex.org/author/afba08d0-e147-42ec-8ea3-e2a831610a61)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takeshima Eku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/9665274",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/takeshimaxfj",
+    "updatedAt": "2023-03-23T20:19:15+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a26f1ffc-8672-48a7-b32c-15ca95a0c1e2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-06T18:23:03+00:00",
+    "description": "",
+    "fileName": "d4f4b6d2-59af-44be-b2f7-278e6a75d6fa.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-06T18:23:03+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "6d44e8b9-5769-4de8-beaa-b23cdf9de109",
+   "type": "creator"
+  }
+ ]
+}

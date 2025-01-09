@@ -1,0 +1,147 @@
+{
+ "id": "61bdbcc5-40cf-43d9-b424-b67db3a6fccb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Boku to Eve no Muikakan"
+  },
+  "altTitles": [
+   {
+    "ja": "僕とイヴの六日間"
+   },
+   {
+    "en": "My Six Days With Eve"
+   },
+   {
+    "en": "Six Days of Me and Eve"
+   }
+  ],
+  "description": {
+   "en": "Leopold, a young boy, wakes up from a frightening dream to find himself alone with the maid Eve in a dark, spacious mansion.\n\nHe lives his life in the mansion, keeping the mysterious promise he made with Eve, but gradually mysterious events begin to take hold of Leopold."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0C64PMST3",
+   "bw": "series/416677",
+   "mu": "wr3p98h"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "2",
+  "publicationDemographic": "josei",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2025-01-07T02:15:16+00:00",
+  "updatedAt": "2025-01-07T03:16:24+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ca0af37d-fa71-4c90-8f7c-3367a7c9a8e3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Morino Ion",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/morinoionn",
+    "updatedAt": "2023-03-16T11:52:11+00:00",
+    "version": 2,
+    "website": "http://mypage.syosetu.com/426945/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "16c24764-4065-4ca8-bcc3-307bc2b92d31",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-07T02:11:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yanase Izuru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-07T02:11:10+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f061b2d7-1ec0-4020-8e89-8b14cc717f22",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-07T02:15:19+00:00",
+    "description": "",
+    "fileName": "d387b2e6-d806-4855-81ef-6a0afd4cbb07.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-07T02:15:19+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "5cb141ba-25b7-48a3-a815-362de5846020",
+   "type": "creator"
+  }
+ ]
+}

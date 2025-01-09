@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "35731f33-27fa-4794-b6ee-3b60da8b994d",
-   "title": {
-    "en": "Jujutsu Kaisen (Official Colored)"
-   },
-   "contentRating": "safe",
-   "score": 0.33501235,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "979920eb-5a86-4536-bc9a-8decd889eec1",
    "title": {
     "en": "Jujutsu Kaisen (Fan Colored)"
    },
    "contentRating": "safe",
-   "score": 0.31126133,
+   "score": 0.34596658,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "35731f33-27fa-4794-b6ee-3b60da8b994d",
+   "title": {
+    "en": "Jujutsu Kaisen (Official Colored)"
+   },
+   "contentRating": "safe",
+   "score": 0.33237427,
    "languages": [
     "en"
    ]
@@ -33,7 +33,7 @@
     "en": "Jujutsu Kaisen Official Fan Book"
    },
    "contentRating": "safe",
-   "score": 0.29501662,
+   "score": 0.29241744,
    "languages": [
     "es-la"
    ]
@@ -55,7 +55,7 @@
     "en": "D.Gray-man"
    },
    "contentRating": "safe",
-   "score": 0.23439729,
+   "score": 0.23400344,
    "languages": [
     "pl",
     "en",
@@ -73,30 +73,12 @@
    ]
   },
   {
-   "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
-   "title": {
-    "en": "Thus Spoke Rohan Kishibe"
-   },
-   "contentRating": "safe",
-   "score": 0.2343746,
-   "languages": [
-    "fr",
-    "en",
-    "es-la",
-    "it",
-    "pt-br",
-    "id",
-    "ru",
-    "zh"
-   ]
-  },
-  {
    "id": "26102334-1f7b-4a5b-a64f-107c5c24a70f",
    "title": {
     "en": "Mao"
    },
    "contentRating": "safe",
-   "score": 0.23148346,
+   "score": 0.23131418,
    "languages": [
     "en",
     "pt-br",
@@ -114,9 +96,28 @@
     "en": "Strange Moon"
    },
    "contentRating": "safe",
-   "score": 0.22454251,
+   "score": 0.22358063,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
+   "title": {
+    "en": "The Legend of Dororo and Hyakkimaru"
+   },
+   "contentRating": "safe",
+   "score": 0.22331573,
+   "languages": [
+    "ru",
+    "tr",
+    "pt-br",
+    "es-la",
+    "en",
+    "it",
+    "zh-hk",
+    "ar",
+    "id"
    ]
   },
   {
@@ -131,6 +132,28 @@
    ]
   },
   {
+   "id": "db692d58-4b13-4174-ae8c-30c515c0689c",
+   "title": {
+    "en": "HUNTER x HUNTER"
+   },
+   "contentRating": "safe",
+   "score": 0.21229143,
+   "languages": [
+    "pl",
+    "en",
+    "pt-br",
+    "vi",
+    "es-la",
+    "ru",
+    "fr",
+    "it",
+    "fa",
+    "ar",
+    "es",
+    "tr"
+   ]
+  },
+  {
    "id": "c5ad95e7-e734-4f69-bd87-8fd5aeb27973",
    "title": {
     "en": "Shin Megami Tensei (OGISHIMA Chiaki)"
@@ -139,21 +162,6 @@
    "score": 0.21132159,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "003097c2-c8ee-4eda-908f-7c427f417245",
-   "title": {
-    "en": "Nikai Bongai Barabarujura"
-   },
-   "contentRating": "safe",
-   "score": 0.20569916,
-   "languages": [
-    "ru",
-    "vi",
-    "en",
-    "fr",
-    "pt-br"
    ]
   },
   {
@@ -175,12 +183,27 @@
    ]
   },
   {
+   "id": "003097c2-c8ee-4eda-908f-7c427f417245",
+   "title": {
+    "en": "Nikai Bongai Barabarujura"
+   },
+   "contentRating": "safe",
+   "score": 0.20510632,
+   "languages": [
+    "ru",
+    "vi",
+    "en",
+    "fr",
+    "pt-br"
+   ]
+  },
+  {
    "id": "0386ed2f-7817-4706-8e5c-360b635bcfb6",
    "title": {
     "en": "Munou na Nana"
    },
    "contentRating": "safe",
-   "score": 0.20280048,
+   "score": 0.20264037,
    "languages": [
     "it",
     "id",
@@ -192,22 +215,21 @@
    ]
   },
   {
-   "id": "51faffdd-bdc5-41fb-a230-d377f0bd2f33",
+   "id": "b9553cd6-ac35-41a0-b7fd-6efaf029760f",
    "title": {
-    "en": "The Legend of Dororo and Hyakkimaru"
+    "en": "Thus Spoke Rohan Kishibe"
    },
    "contentRating": "safe",
-   "score": 0.20163457,
+   "score": 0.19468212,
    "languages": [
-    "ru",
-    "tr",
-    "pt-br",
-    "es-la",
+    "fr",
     "en",
+    "es-la",
     "it",
-    "zh-hk",
-    "ar",
-    "id"
+    "pt-br",
+    "id",
+    "ru",
+    "zh"
    ]
   },
   {
@@ -216,7 +238,7 @@
     "en": "Wistoria: Wand and Sword"
    },
    "contentRating": "safe",
-   "score": 0.19334227,
+   "score": 0.1930502,
    "languages": [
     "es-la",
     "id",
@@ -226,20 +248,7 @@
     "pt-br",
     "ru"
    ]
-  },
-  {
-   "id": "f1652fc3-5774-4f7a-90ef-a35a182f09ac",
-   "title": {
-    "en": "Zatch Bell!! Gaiden: Friend"
-   },
-   "contentRating": "safe",
-   "score": 0.19126648,
-   "languages": [
-    "it",
-    "en",
-    "pt-br"
-   ]
   }
  ],
- "updatedAt": "2025-01-06T00:37:41+00:00"
+ "updatedAt": "2025-01-08T01:00:43+00:00"
 }

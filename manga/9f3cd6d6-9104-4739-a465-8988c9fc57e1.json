@@ -11,10 +11,14 @@
    }
   ],
   "description": {
-   "en": "A collection of BL short stories by Matsuzaki Akemi.\n\n- Love Game in MyBoy 1996. \n- Futari dake Carnival (二人だけの謝肉祭（カーニバル）) in Bessatsu Nakayoshi 1974.\n- Ame no ni Hoi ga Suki (雨のにほいが好き) in Bessatsu Nakayoshi 1976.\n- Kanzakura (寒桜) in Papermoon 1980.\n- Omonomura (鬼面村) in Gekkan Halloween 1986.\n- Adieu (アデュー) in June 2/1979.\n- Gervaise (ジェルベーズ) in June 2/1979."
+   "en": "A collection of BL short stories by Matsuzaki Akemi.\n\n- Love Game in MyBoy 1996. \n- Futari dake Carnival (二人だけの謝肉祭（カーニバル）) in Bessatsu Nakayoshi 1974.\n- Ame no ni Hoi ga Suki (雨のにほいが好き) in Bessatsu Nakayoshi 1976.\n- Kanzakura (寒桜) in Papermoon 1980.\n- Omonomura (鬼面村) in Gekkan Halloween 1986.\n- Adieu (アデュー) in June 3/1979.\n- Gervaise (ジェルベーズ) in June 2/1979."
   },
   "links": {
-   "mu": "pawcbie"
+   "amz": "https://www.amazon.co.jp/dp/B0BMKN3W25/",
+   "bw": "dea5197d4e-6971-45f9-afbf-1dd985bcd023",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/739674/",
+   "mu": "pawcbie",
+   "raw": "https://www.cmoa.jp/title/259758/"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
@@ -23,7 +27,23 @@
   "status": "completed",
   "year": 1997,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "9e8cab24-000d-48b8-9e7c-d947aab51e58",
   "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
     "type": "tag",
@@ -49,6 +69,18 @@
     }
    },
    {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
     "type": "tag",
     "attributes": {
@@ -62,9 +94,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 5,
   "createdAt": "2025-01-05T18:56:15+00:00",
-  "updatedAt": "2025-01-05T18:56:50+00:00"
+  "updatedAt": "2025-01-06T15:16:02+00:00"
  },
  "relationships": [
   {

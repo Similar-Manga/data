@@ -1,0 +1,862 @@
+{
+ "id": "55563b9f-89d5-4437-bf1c-e42f84e3a0fc",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Horror Specialist"
+  },
+  "altTitles": [
+   {
+    "ja": "ザ・ホラー・スペシャリスト"
+   }
+  ],
+  "description": {
+   "en": "Anthology of stories from the most popular horror mangaka of the 90s!\n\nVolume 1: Curses\n\n• Kanako Inuki + Hideshi Hino Gallery\n• Yoshimi Seki's Kyouhan Gensou (共犯幻想, The Illusion of Complicity)\n• Kaburagi Saiko's Kagami no Naka he Youkoso (鏡の中へようこそ, Welcome to the Mirror's Inside)\n• Kanda Mori's 37564 Gakuen: Gold Finger (ゴールドフィンガー)\n• Kuro's Shin-Boku (神木, The Sacred Tree)\n• Kuro's Mori (森, Forest)\n• Tanima Yumeji's Kaiki Noroi ga Ippai (怪奇  呪いがいっぱい, Bizarre: Curse Ridden)\n• Ochazukenori's Douki: Noroi no Toire(童鬼: 呪いのトイレ, Douki: The Cursed Toilet)\n• Ochazukenori's Douki: Henshin-Eki (童鬼: 変身液, Douki: The Transformation Liquid)\n• Hideshi Hino's Taiji Ihen: Watashi no Aka-chan (胎児異変: わたしの赤ちゃん, Fetal Abnormality: My Baby)\n• Hideshi Hino's Ningyo (人魚, Mermaids)",
+   "ja": "第1巻『呪』\n\n「共犯幻想」関よしみ\n「鏡の中へようこそ」蕪木彩子\n「ゴールドフィンガー」神田森莉\n「逢魔が刻のさそう手」東里桐子\n「神木」空路\n「森」空路\n「怪奇 呪いがいっぱい」谷間夢路\n「童鬼（呪いのトイレ）」御茶漬海苔\n「童鬼（変身液）」御茶漬海苔\n「胎児異変 わたしの赤ちゃん」日野日出志\n「人魚」日野日出志\n\n第2巻『怨』\n\n「百面相サーカス」千之ナイフ\n「百面相サーカス 殺人者の夢」千之ナイフ\n「百面相サーカス 墓場の幽霊ロボ」千之ナイフ\n「奇譚学園」空路\n「奇譚学園 炎の記憶」空路\n「伝染」児島都\n「血だらけロミオとジュリエット」神田森莉\n「美しくなりたい」蕪木彩子\n「暗黒辞典 闇子ちゃん」御茶漬海苔\n「生首手毬唄」日野日出志\n「漂泊する人々」谷間夢路\n「恐怖の呪禁道」谷間夢路\n「私のうしろに誰かいる」谷間夢路\n\n第3巻『怪』\n\n「ハッピーエンドじゃ終われない」服部あゆみ\n「endless」千之ナイフ\n「おとな地獄」児島都\n「怪奇 電気グモの城」神田森莉\n「怪談はいかが」蕪木彩子\n「夢魔」空路\n「外人墓地の怪」谷間夢路\n「元日の朝」日野日出志\n「暗黒辞典 サンタクロース」御茶漬海苔\n「暗黒辞典 ミンチマン」御茶漬海苔\n「暗黒辞典 毛鬼」御茶漬海苔"
+  },
+  "links": {
+   "al": "140523",
+   "mu": "so2iy89"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "35",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 1997,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "51d83883-4103-437c-b4b1-731cb73d786c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Anthology"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Tragedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 7,
+  "createdAt": "2025-01-07T13:41:50+00:00",
+  "updatedAt": "2025-01-07T14:08:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "10d675b6-dccc-41b8-a650-080f196eb079",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Seki Yoshimi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1712434e-e534-4766-b424-6d959d3a3bac",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inuki Kanako",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1f3334fd-5e93-4785-9e18-94cb546fd78a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Higashizato Kirico",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2e6fa737-43ab-464c-8469-5e650e6994ba",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nKuuro"
+    },
+    "booth": null,
+    "createdAt": "2023-11-06T19:52:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuro (空路)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-11-06T19:54:19+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "347e4dc6-b4ed-4b0f-905e-4def97f5f7f3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-05-11T03:52:02+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hattori Ayumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-05-11T03:52:02+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6497c309-9e28-40b3-9576-139ac150e2ff",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kojima Miyako",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96e59554-bbe6-4187-bf35-1161874926f3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hino Hideshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c33f02c8-174e-4005-9a49-4f3cd027cac8",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Birth:** Sep 5, 1960\n**Age:** 64\n**Gender:** Male\n**Debut Pen Name:** Yamamoto Kazuto (山本和都)\n\nSenno Knife (千之ナイフ) is a talented manga-ka who debuted with Yukihime (Snow Princess) published in 1981 in Comic Lemon People #1 (Cover Date: 1982.02.01... It hit the shops around 15 December 1981) on pages 179-186. Since then he has created a fairly large variety of stories in a multitude of genres. Two genres that he shines in are adult manga and horror, and as of late, he's been doing much more in the horror genre. Formerly an assistant of [Matsumoto Leiji](https://mangadex.org/author/be228b76-d5cf-46ff-9b64-38c1a012574d/matsumoto-leiji), He is married to mangaka/musician [Nekoi Rutoto (猫井るとと)](https://mangadex.org/author/cb5164bc-e34c-415b-a447-089c0b36d808/nekoi-rutoto).\n\n(Source: MU)\n\n**Trackers:** \n\n- [AniList](https://anilist.co/staff/99382/Senno-Knife) \n- [MangaUpdates](https://www.mangaupdates.com/author/00b73tv/senno-knife) \n- [MyAnimeList](https://myanimelist.net/people/4382/Senno_Knife) "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Senno Knife",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-05T12:41:49+00:00",
+    "version": 3,
+    "website": "http://www.ceres.dti.ne.jp/~nekoi/SENNO/SENfirst.html",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c621e617-bc21-4dc2-9341-b592210a6539",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Alt names:\nOchazukenori"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ochazuke Nori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-04-07T23:43:54+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d597c257-e8f0-4bd6-84c4-0cd71f15ff81",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-05-12T15:34:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanda Mori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-05-12T15:34:42+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "de765a6a-7751-49f1-b012-565715fb31ef",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Alternative names:\nKaburagi Psycho\n\nSomewhat similar to Nishioka Kyoudai, Kaburagi Saiko is the pseudonym of a duo of friends, Kaburagi Baku (Male), who is charge of the stories and Hiura Natsuki (Female), who does the composition and Illustrations"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kaburagi Saiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-07T20:08:12+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e349c2ae-9ea3-45b8-aa13-469fadd79550",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tanima Yumeji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "10d675b6-dccc-41b8-a650-080f196eb079",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Seki Yoshimi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1712434e-e534-4766-b424-6d959d3a3bac",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Inuki Kanako",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1f3334fd-5e93-4785-9e18-94cb546fd78a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Higashizato Kirico",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2e6fa737-43ab-464c-8469-5e650e6994ba",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nKuuro"
+    },
+    "booth": null,
+    "createdAt": "2023-11-06T19:52:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuro (空路)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-11-06T19:54:19+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "347e4dc6-b4ed-4b0f-905e-4def97f5f7f3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-05-11T03:52:02+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hattori Ayumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-05-11T03:52:02+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6497c309-9e28-40b3-9576-139ac150e2ff",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kojima Miyako",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "96e59554-bbe6-4187-bf35-1161874926f3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hino Hideshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c33f02c8-174e-4005-9a49-4f3cd027cac8",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Birth:** Sep 5, 1960\n**Age:** 64\n**Gender:** Male\n**Debut Pen Name:** Yamamoto Kazuto (山本和都)\n\nSenno Knife (千之ナイフ) is a talented manga-ka who debuted with Yukihime (Snow Princess) published in 1981 in Comic Lemon People #1 (Cover Date: 1982.02.01... It hit the shops around 15 December 1981) on pages 179-186. Since then he has created a fairly large variety of stories in a multitude of genres. Two genres that he shines in are adult manga and horror, and as of late, he's been doing much more in the horror genre. Formerly an assistant of [Matsumoto Leiji](https://mangadex.org/author/be228b76-d5cf-46ff-9b64-38c1a012574d/matsumoto-leiji), He is married to mangaka/musician [Nekoi Rutoto (猫井るとと)](https://mangadex.org/author/cb5164bc-e34c-415b-a447-089c0b36d808/nekoi-rutoto).\n\n(Source: MU)\n\n**Trackers:** \n\n- [AniList](https://anilist.co/staff/99382/Senno-Knife) \n- [MangaUpdates](https://www.mangaupdates.com/author/00b73tv/senno-knife) \n- [MyAnimeList](https://myanimelist.net/people/4382/Senno_Knife) "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Senno Knife",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-10-05T12:41:49+00:00",
+    "version": 3,
+    "website": "http://www.ceres.dti.ne.jp/~nekoi/SENNO/SENfirst.html",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c621e617-bc21-4dc2-9341-b592210a6539",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Alt names:\nOchazukenori"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ochazuke Nori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-04-07T23:43:54+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d597c257-e8f0-4bd6-84c4-0cd71f15ff81",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-05-12T15:34:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanda Mori",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-05-12T15:34:42+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "de765a6a-7751-49f1-b012-565715fb31ef",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Alternative names:\nKaburagi Psycho\n\nSomewhat similar to Nishioka Kyoudai, Kaburagi Saiko is the pseudonym of a duo of friends, Kaburagi Baku (Male), who is charge of the stories and Hiura Natsuki (Female), who does the composition and Illustrations"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kaburagi Saiko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-07T20:08:12+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e349c2ae-9ea3-45b8-aa13-469fadd79550",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tanima Yumeji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7192cb58-4fac-441f-af57-5966c600c7f2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-07T13:45:23+00:00",
+    "description": "",
+    "fileName": "0afc736e-c16d-4102-986f-847dcc1ac2c6.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-07T13:45:23+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "a692a389-14ea-41de-a061-2f447e0d4679",
+   "type": "creator"
+  }
+ ]
+}

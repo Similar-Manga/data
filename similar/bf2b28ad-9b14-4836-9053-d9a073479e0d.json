@@ -11,7 +11,7 @@
     "en": "Ijou Shitai Kaibou File"
    },
    "contentRating": "safe",
-   "score": 0.2339483,
+   "score": 0.23395102,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Koukou Jihen"
    },
    "contentRating": "safe",
-   "score": 0.20696718,
+   "score": 0.20696168,
    "languages": [
     "en"
    ]
@@ -33,15 +33,15 @@
     "en": "Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo"
    },
    "contentRating": "safe",
-   "score": 0.19903556,
+   "score": 0.19903007,
    "languages": [
     "en",
     "es-la",
     "fr",
     "zh-hk",
     "pt-br",
-    "id",
-    "uk"
+    "uk",
+    "id"
    ]
   },
   {
@@ -56,14 +56,6 @@
    ]
   },
   {
-   "id": "078c4c8f-ada0-407f-8098-16b111808932",
-   "title": {
-    "en": "Kyoujou"
-   },
-   "contentRating": "safe",
-   "score": 0.19088544
-  },
-  {
    "id": "e95a7130-933a-4d31-b812-5ff476c1c5a7",
    "title": {
     "en": "Sherlock"
@@ -76,12 +68,20 @@
    ]
   },
   {
+   "id": "078c4c8f-ada0-407f-8098-16b111808932",
+   "title": {
+    "en": "Kyoujou"
+   },
+   "contentRating": "safe",
+   "score": 0.19088544
+  },
+  {
    "id": "d61ff895-dee4-43ea-94a5-318e84385062",
    "title": {
     "en": "The Kurosagi Corpse Delivery Service"
    },
    "contentRating": "safe",
-   "score": 0.1871104,
+   "score": 0.18711129,
    "languages": [
     "en",
     "zh"
@@ -93,7 +93,15 @@
     "en": "Fukushuu no Ouji-sama"
    },
    "contentRating": "safe",
-   "score": 0.18074106
+   "score": 0.18074399
+  },
+  {
+   "id": "5a29d829-f47a-4607-a40a-69416fea364f",
+   "title": {
+    "en": "Abakiya"
+   },
+   "contentRating": "safe",
+   "score": 0.17996852
   },
   {
    "id": "c96ee60f-32a0-4d9d-8cfa-0a2ef6bdfb38",
@@ -112,33 +120,9 @@
    "score": 0.17996852
   },
   {
-   "id": "5a29d829-f47a-4607-a40a-69416fea364f",
-   "title": {
-    "en": "Abakiya"
-   },
-   "contentRating": "safe",
-   "score": 0.17996852
-  },
-  {
-   "id": "73be335c-bcdf-4668-b757-3730010932e2",
-   "title": {
-    "en": "Oninbo and the Bugs from Hell"
-   },
-   "contentRating": "safe",
-   "score": 0.1784316
-  },
-  {
    "id": "4d433709-be4f-4c44-9de3-7301b7f915fb",
    "title": {
     "en": "Rock Iron Case File"
-   },
-   "contentRating": "safe",
-   "score": 0.1784316
-  },
-  {
-   "id": "50d72fbd-4313-48c7-aca9-ab30ed1305b7",
-   "title": {
-    "en": "Planaria Ningen"
    },
    "contentRating": "safe",
    "score": 0.1784316
@@ -156,6 +140,14 @@
    ]
   },
   {
+   "id": "73be335c-bcdf-4668-b757-3730010932e2",
+   "title": {
+    "en": "Oninbo and the Bugs from Hell"
+   },
+   "contentRating": "safe",
+   "score": 0.1784316
+  },
+  {
    "id": "54059360-008c-49fe-a511-c5e23bc49242",
    "title": {
     "en": "Sumi Nigori"
@@ -165,7 +157,31 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
+   "title": {
+    "en": "Bungou Stray Dogs"
+   },
+   "contentRating": "safe",
+   "score": 0.17378537,
+   "languages": [
+    "tr",
+    "pt-br",
+    "en",
+    "id",
+    "fr",
+    "pl",
+    "es-la",
+    "it",
+    "vi",
+    "de",
+    "ru",
+    "et",
+    "ar",
+    "uk"
+   ]
   }
  ],
- "updatedAt": "2025-01-06T00:58:29+00:00"
+ "updatedAt": "2025-01-08T01:24:32+00:00"
 }
