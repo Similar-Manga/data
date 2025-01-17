@@ -1,0 +1,157 @@
+{
+ "id": "af836935-e250-47fe-b01e-af253e87babb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tanuki Chanto Shippo"
+  },
+  "altTitles": [
+   {
+    "ja": "狸ちゃんとしっぽ"
+   },
+   {
+    "vi": "Câu chuyện về đuôi của bé chồn"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://twitter.com/SORAji34/status/1870041066067615987"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "vi"
+  ],
+  "latestUploadedChapter": "b51e70bf-bd33-4a75-b6c5-b9593e8110a8",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2025-01-11T14:34:00+00:00",
+  "updatedAt": "2025-01-13T04:04:23+00:00"
+ },
+ "relationships": [
+  {
+   "id": "57d8ee6c-fced-458b-ae77-521b361862dd",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 空次郎"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sorajirou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/SORAji34",
+    "updatedAt": "2025-01-13T04:04:05+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "57d8ee6c-fced-458b-ae77-521b361862dd",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 空次郎"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sorajirou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/SORAji34",
+    "updatedAt": "2025-01-13T04:04:05+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ce0a7b0f-f4c1-4cdf-91e5-c8e00540d603",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-11T14:34:52+00:00",
+    "description": "",
+    "fileName": "a1372f6d-0d12-403a-bd20-05487a4a20ee.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-11T14:34:52+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "eb6bd2f6-49f2-43ee-b1bd-71013d763e86",
+   "type": "creator"
+  }
+ ]
+}

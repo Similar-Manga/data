@@ -3,14 +3,19 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Daiboshatsu no Ten"
+   "en": "Baggy Shirt Heaven"
   },
   "altTitles": [
    {
     "ja": "ダボシャツの天"
+   },
+   {
+    "ja-ro": "Daiboshatsu no Ten"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Matsuda Ten, 17 years old, aims to become the number one gangster in Japan. In an attempt to win over his admired big brother, Centipede Nishikizo, a member of the Kamigata-kai, he offers up his runaway daughter, Natsu, but is found out by Nishikizo's older sister and fails. He is forced to start a gang war with Natsu, but is then found out and beaten up by the young men of the Oichi-gumi, which is in an antagonistic relationship with the Kamigata-kai. When Ten finally becomes a member of the Kamigata-kai, Nishikizo is killed by the Oichi-gumi's subordinates due to his pathological womanizing. The Kamigata-kai and Oichi-gumi enter into an all-out war. On his first visit, Ten and Nishikizo storm into the mistress' house of the head of the Oichi-gumi, but his clumsiness misses the life of Oichi..."
+  },
   "links": {
    "al": "180506",
    "amz": "https://www.amazon.co.jp/-/en/dp/B07DYD2ZQV?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1724443950\u0026sr=1-1",
@@ -23,8 +28,20 @@
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 1974,
-  "contentRating": "safe",
+  "contentRating": "suggestive",
   "tags": [
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
     "type": "tag",
@@ -63,9 +80,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-08-23T20:18:23+00:00",
-  "updatedAt": "2024-08-23T20:19:16+00:00"
+  "updatedAt": "2025-01-13T08:06:24+00:00"
  },
  "relationships": [
   {

@@ -25,7 +25,9 @@
    "mu": "ia1z5tk"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "3",
+  "lastChapter": "28",
+  "status": "completed",
   "year": 2023,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -33,6 +35,18 @@
   ],
   "latestUploadedChapter": "63545a76-4ba6-4541-b7dc-e0986027bbca",
   "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
@@ -71,9 +85,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2023-03-03T09:18:50+00:00",
-  "updatedAt": "2025-01-03T16:16:52+00:00"
+  "updatedAt": "2025-01-13T15:17:20+00:00"
  },
  "relationships": [
   {
@@ -131,16 +145,16 @@
    }
   },
   {
-   "id": "59505583-3c5e-48b6-ac28-02911cf48258",
+   "id": "4ba32c64-a306-4bd3-8a05-20a90dfaf0f9",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-04-30T21:11:33+00:00",
+    "createdAt": "2025-01-13T15:17:19+00:00",
     "description": "",
-    "fileName": "b3642581-3274-40c1-b0a0-66bf55989927.jpg",
+    "fileName": "f26dbd70-46c4-49bd-a34a-b01aeba671d9.jpg",
     "locale": "ja",
-    "updatedAt": "2024-04-30T21:11:33+00:00",
+    "updatedAt": "2025-01-13T15:17:19+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "3"
    }
   },
   {

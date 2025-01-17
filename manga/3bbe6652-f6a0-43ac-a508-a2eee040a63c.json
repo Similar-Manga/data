@@ -1,0 +1,141 @@
+{
+ "id": "3bbe6652-f6a0-43ac-a508-a2eee040a63c",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Itazura na Kimi ni Mask-goshi demo Koi wo Uchinukareta"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "Itazurana Kimi ni Masuku-goshi Demo Koi O Uchinukareta"
+   },
+   {
+    "ja": "いたずらな君にマスク越しでも恋を撃ち抜かれた"
+   }
+  ],
+  "description": {
+   "en": "“Did you just fall in love with me?”\n\nA mischievous, teasing, but innocent girl in an agonizingly sweet adolescent love comedy, hidden behind a mask."
+  },
+  "links": {
+   "al": "142384",
+   "ap": "itazura-na-kimi-ni-mask-koshi-demo-koi-wo-uchinukareta",
+   "mal": "156975"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-15T18:39:32+00:00",
+  "updatedAt": "2025-01-15T18:39:45+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ab41dfe0-2283-49ef-b75b-be66442c3489",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Seisou Natsume",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "88876654-37a3-4be5-9f70-e65a68101e64",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-15T14:41:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Motokazu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-15T14:41:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a9eaeab5-90f0-460d-9cb0-2fe55fd78c78",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-15T18:39:42+00:00",
+    "description": "",
+    "fileName": "3b851ce9-2168-45f9-8109-6ea795412088.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-15T18:39:42+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "68d62155-85fa-4851-94af-37402bf16252",
+   "type": "creator"
+  }
+ ]
+}

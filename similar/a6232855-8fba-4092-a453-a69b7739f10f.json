@@ -6,12 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "0bbd2af0-39ff-4d67-a85a-deb75b34886c",
+   "title": {
+    "en": "Kami-sama no Susume"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605
+  },
+  {
    "id": "f2c1ed03-3582-4002-8eec-af07b03c8334",
    "title": {
     "en": "Choko Beast!!"
    },
    "contentRating": "safe",
-   "score": 0.27483907
+   "score": 0.27481788
   },
   {
    "id": "fd0638a8-2bf3-4e9c-85c2-2e5d72bf34fd",
@@ -19,7 +27,7 @@
     "en": "Youkai Apartment no Yuuga na Nichijou"
    },
    "contentRating": "safe",
-   "score": 0.26302522,
+   "score": 0.2630242,
    "languages": [
     "en",
     "pl",
@@ -32,15 +40,7 @@
     "en": "Ouma Kurashi no Yakkosan"
    },
    "contentRating": "safe",
-   "score": 0.258278
-  },
-  {
-   "id": "c7138005-ceec-4600-af78-fad356064661",
-   "title": {
-    "en": "Let's La Gon"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473
+   "score": 0.2582685
   },
   {
    "id": "ed858b7a-af3f-4446-80f7-f9c14ddeee70",
@@ -62,12 +62,20 @@
    ]
   },
   {
+   "id": "c7138005-ceec-4600-af78-fad356064661",
+   "title": {
+    "en": "Let's La Gon"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473
+  },
+  {
    "id": "0bf65fdb-395d-43dc-b32b-184dc0b741fb",
    "title": {
     "en": "Nainai-dou: Tanuki Oshou no Magagoto Jou"
    },
    "contentRating": "safe",
-   "score": 0.23607586
+   "score": 0.23606274
   },
   {
    "id": "32146f74-cc75-48ae-83a5-359a34d41ad9",
@@ -75,7 +83,7 @@
     "en": "Hoshikuzu no Ouji-sama"
    },
    "contentRating": "safe",
-   "score": 0.22927994
+   "score": 0.22927839
   },
   {
    "id": "3dda9dc7-be06-4f27-af07-670786ceee4e",
@@ -83,16 +91,16 @@
     "en": "Shibuya Near Family"
    },
    "contentRating": "safe",
-   "score": 0.21718088,
+   "score": 0.21719831,
    "languages": [
     "en",
     "pt-br"
    ]
   },
   {
-   "id": "375b2866-13ca-4df0-98e6-23c75b566e2c",
+   "id": "5eed8b4c-1965-43df-a3c5-74a5f58a7283",
    "title": {
-    "en": "Beast of Things"
+    "en": "Bakuman.: Age 13, Age 14"
    },
    "contentRating": "safe",
    "score": 0.2163632,
@@ -107,26 +115,6 @@
    },
    "contentRating": "safe",
    "score": 0.2163632
-  },
-  {
-   "id": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
-   "title": {
-    "en": "Yotsuba\u0026!"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "vi",
-    "pt-br",
-    "ru",
-    "en",
-    "zh-hk",
-    "tr",
-    "es-la",
-    "uk",
-    "id",
-    "es"
-   ]
   },
   {
    "id": "014b8ceb-3a47-4004-9677-4a87c6186cac",
@@ -153,26 +141,45 @@
    ]
   },
   {
-   "id": "d02d1f56-53f3-4702-8191-6d261c318166",
+   "id": "58be6aa6-06cb-4ca5-bd20-f1392ce451fb",
    "title": {
-    "en": "Shinigami no Hanayome"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632
-  },
-  {
-   "id": "6b8ab373-d2cc-4f01-b37a-7f142ac2f16c",
-   "title": {
-    "en": "Gokumane!"
+    "en": "Yotsuba\u0026!"
    },
    "contentRating": "safe",
    "score": 0.2163632,
    "languages": [
-    "fr",
+    "vi",
+    "pt-br",
+    "ru",
+    "en",
+    "zh-hk",
+    "tr",
     "es-la",
-    "en"
+    "uk",
+    "id",
+    "es"
+   ]
+  },
+  {
+   "id": "e182b09f-09ab-4201-8f37-0ced6822eb39",
+   "title": {
+    "en": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "en",
+    "pt-br",
+    "it",
+    "zh",
+    "pl",
+    "es-la",
+    "fr",
+    "ga",
+    "vi",
+    "es"
    ]
   }
  ],
- "updatedAt": "2025-01-08T01:13:08+00:00"
+ "updatedAt": "2025-01-16T00:30:45+00:00"
 }

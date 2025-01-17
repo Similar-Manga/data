@@ -3,21 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "My Recently Hired Maid Is Suspicious (Webcomic)"
+   "en": "The Maid I Hired Recently Is Mysterious (Webcomic)"
   },
   "altTitles": [
    {
-    "pl": "Moja Nowa Pokojówka Jest Podejrzana"
+    "ja": "最近雇ったメイドが怪しい"
    },
    {
     "ja-ro": "Saikin Yatotta Maid ga Ayashii"
    },
    {
-    "ja": "最近雇ったメイドが怪しい"
+    "en": "My Recently Hired Maid Is Suspicious"
+   },
+   {
+    "pl": "Moja Nowa Pokojówka Jest Podejrzana"
    }
   ],
   "description": {
-   "en": "The Young Master treads carefully, as his new maid is doing stuff for him that makes him flustered and uncomfortable. What is this teasing woman scheming!? …Is it love!?\n\n(Series on Hiatus/Cancelled since 2022 so that the author can focus on the Serialized version. All prior webcomic Raw pages have been removed from their official Twitter account.)",
+   "en": "The Young Master treads carefully, as his new maid is doing stuff for him that makes him flustered and uncomfortable. What is this teasing woman scheming!? … Is it love!?",
    "pt-br": "Eu contratei uma empregada, mas tem algo suspeito sobre ela. Claro, ela é linda e cozinha fabulosamente, mas tem algo sobre ela que não parece certo. O que será que aquela mulher está tramando? ...Será que é amor?"
   },
   "links": {
@@ -28,7 +31,7 @@
    "raw": "https://twitter.com/i/events/1193137753388531712"
   },
   "originalLanguage": "ja",
-  "status": "hiatus",
+  "status": "completed",
   "year": 2019,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
@@ -103,9 +106,9 @@
    }
   ],
   "state": "published",
-  "version": 16,
+  "version": 18,
   "createdAt": "2020-03-25T06:18:27+00:00",
-  "updatedAt": "2024-11-27T13:24:08+00:00"
+  "updatedAt": "2025-01-13T12:20:40+00:00"
  },
  "relationships": [
   {
@@ -165,17 +168,22 @@
    }
   },
   {
-   "id": "c67f04f0-60d5-4faf-b3af-20dc4ed7cf9e",
+   "id": "e6f54e7c-e4b0-4a0f-99ff-75cd26560aa4",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-23T07:21:21+00:00",
+    "createdAt": "2025-01-13T11:57:29+00:00",
     "description": "",
-    "fileName": "276d260a-56eb-4859-b306-6b4fcc2e26d4.jpg",
+    "fileName": "e3e5c444-b950-4049-bacb-18875932b297.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-23T07:21:21+00:00",
-    "version": 2,
-    "volume": "3"
+    "updatedAt": "2025-01-13T11:57:29+00:00",
+    "version": 1,
+    "volume": null
    }
+  },
+  {
+   "id": "1f366545-bf36-4f83-b3c1-f65021320a6e",
+   "type": "manga",
+   "related": "serialization"
   },
   {
    "id": "d73077f0-2355-4314-a907-9dddf04c4d4b",

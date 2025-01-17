@@ -3,14 +3,21 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Fukushū Sengen Yarareta Urami wa 100 Bai Kaeshi"
+   "en": "Fukushuu Sengen: Yarareta Urami wa Hyakubaigaeshi"
   },
   "altTitles": [
    {
     "ja": "復讐宣言～やられた恨みは100倍返し～"
+   },
+   {
+    "ja-ro": "Fukushuu Sengen ~Yarareta Urami wa 100 Bai Kaeshi~"
+   },
+   {
+    "en": "A Declaration of Vengeance: The Victims Will Pay Back Their Grudges a Hundredfold"
    }
   ],
   "description": {
+   "en": "An anthology of revenge stories against complete and utter scum! It will be a satisfying read, make no mistake.  Contains 5 oneshots per volume.\n\n#### Volume 1\n- Cover art by Hisaishi Rai\n\n1. **The Price of Life: I Was Forced to Have an Abortion, and I Will Have My Revenge** / Inochi no Daishou ~Datai Saserareta Watashi wa Fukushuu Shimasu~ (命の代償～堕胎させられた私は復讐します～) by Hisaishi Rai\n2. **Heaven and Hell: The Revenge of a Music Teacher Who Became Unable to Play the Piano** / Tengoku to Jigoku ~Piano o Hikenakunatta Ongaku Kyoushi no Fukushuu~ (天国と地獄～ピアノを弾けなくなった音楽教師の復讐～) by Sasaki Yuusaku\n3. **Murderer’s Dice: The Revenge Method You Get Will Be Decided by the Roll of a Dice** / Satsujin Dice ~Anata e no Fukushuu Houhou wa Deta Me de Kimeru~ (殺人ダイス～あなたへの復讐方法は出た目で決める～) by Neko Karintou\n4. **Revenge on Toxic Parents: I Will Be Watching Until the End, OK?** / Doku Oya Fukushuu ~Watashi ga Saigo Made Mitete Ageru Kara ne~ (毒親復讐 ～私が最期まで見ててあげるからね～」雛瀬かぐや) by Hinase Kaguya\n5. **Becoming a Vigilante: The Lies Told by a Husband Who Ran over and Killed His Wife** / Shikei o Shikkoushimasu ~Tsuma o Hikikorosareta Otto ga Tsuita Uso~  (私刑を執行します～妻をひき殺された夫がついた嘘～) by Oohira Kouta\n\n#### Volume 2\n- Cover art by Kitaoka Tomo\n\n1. **Bad Father: Revenge on My Alcoholic Dad** / Bad Father ~Sakegurui Oyaji ni Fukushuu o~ (バッドファーザー～酒狂い親父に復讐を～) by Tamiya Tsuyoshi\n2. **Money Scumbag: I Will Clear My Father's Regrets** / Money no Kuzu ~Chichi no Munen o Harashite Yaru~ (マネーの屑～父の無念を晴らしてやる～) by Takizawa Izumi\n3. **Capital Punishment for My Mother-in-Law: Judgment from a Mother Who Lost Her Daughter** / Doku Shuutou e Kyoukkei o ~Musume o Nakushita Haha no Sabaki~ (毒姑へ極刑を～娘を亡くした母の裁き～) by Takai Yuito\n4. **Livestreaming Revenge: Bullying Videos Will Be Exposed** / Fukushuu Nama Haishin ~Ijime Douga, Bakuro Shimasu~ (復讐ナマ配信～いじめ動画、暴露します～) by Aoyama Rokurou\n5. **Revenge on Land Speculators: The Man Who Lost His Beloved Wife** / Chiageya ni Fukushuu o ~Aisuru Tsuma o Nakushita Otoko~ (地上げ屋に復讐を～愛する妻を亡くした男～) by Kitaoka Tomo",
    "ja": "圧倒的クズへの復讐ストーリー!これを読んだらスカッと間違いなし!!読み切り５作品を収録。＜収録作品＞カバーイラスト：久石らい／「命の代償～堕胎させられた私は復讐します～」久石らい／「天国と地獄～ピアノを弾けなくなった音楽教師の復讐～」ささきゆうさく／「殺人ダイス～あなたへの復讐方法は出た目で決める～」猫かりんとう／「毒親復讐 ～私が最期まで見ててあげるからね～」雛瀬かぐや／「私刑を執行します～妻をひき殺された夫がついた嘘～」オオヒラ航多"
   },
   "links": {
@@ -84,23 +91,25 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2025-01-03T04:42:06+00:00",
-  "updatedAt": "2025-01-03T04:43:30+00:00"
+  "updatedAt": "2025-01-09T10:20:45+00:00"
  },
  "relationships": [
   {
-   "id": "6b3e25cf-8d0d-4abb-b75e-7960fcad2ff6",
+   "id": "16698b7a-e351-4ad7-a683-09ac9d64229d",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Native name**: 滝沢いづみ"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Anthology",
+    "name": "Takizawa Izumi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -108,7 +117,115 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "updatedAt": "2025-01-09T09:56:54+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1f5596b2-5ca2-4eb6-9830-4923980e6004",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-02-11T20:18:52+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kitaoka Tomo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T10:20:14+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3d897826-4593-4bbe-a441-2fa1d08d32ca",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 雛瀬かぐや"
+    },
+    "booth": null,
+    "createdAt": "2025-01-02T22:56:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hinase Kaguya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T09:38:28+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "607df7ac-1c50-41a2-bbd1-5b0d7e71d708",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 青山六郎"
+    },
+    "booth": null,
+    "createdAt": "2024-11-14T17:30:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aoyama Rokurou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T10:02:47+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8382b4a7-8f98-4e55-b081-7f9090f1c16e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-01T11:24:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hisaishi Rai",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-01T11:24:29+00:00",
     "version": 1,
     "website": null,
     "weibo": null,
@@ -116,17 +233,43 @@
    }
   },
   {
-   "id": "6b3e25cf-8d0d-4abb-b75e-7960fcad2ff6",
-   "type": "artist",
+   "id": "8d43bb6c-3327-4f9f-9a87-046db9faa084",
+   "type": "author",
    "attributes": {
     "biography": {},
     "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
+    "createdAt": "2021-10-10T14:11:01+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Anthology",
+    "name": "Oohira Kouta",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kota211293",
+    "updatedAt": "2024-12-04T19:13:35+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a0bdf7f7-523f-46aa-a6b7-f3775be24ed2",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-04-27T20:02:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamiya Tsuyoshi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -134,8 +277,360 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "updatedAt": "2025-01-09T09:53:00+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a9ffff6f-4c63-4fc6-83c2-352b3541e9b3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-19T16:54:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Neko Karintou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-19T19:22:47+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ad28073f-3e94-41f4-b27f-ba5d137e5826",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 高井唯人"
+    },
+    "booth": null,
+    "createdAt": "2022-04-08T04:07:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takai Yuito",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T09:58:46+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f174c734-8f52-4b9b-a2f6-905897e16596",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: ささきゆうさく"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sasaki Yuusaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T09:37:10+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "16698b7a-e351-4ad7-a683-09ac9d64229d",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 滝沢いづみ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takizawa Izumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T09:56:54+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1f5596b2-5ca2-4eb6-9830-4923980e6004",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-02-11T20:18:52+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kitaoka Tomo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T10:20:14+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3d897826-4593-4bbe-a441-2fa1d08d32ca",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 雛瀬かぐや"
+    },
+    "booth": null,
+    "createdAt": "2025-01-02T22:56:46+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hinase Kaguya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T09:38:28+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "607df7ac-1c50-41a2-bbd1-5b0d7e71d708",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 青山六郎"
+    },
+    "booth": null,
+    "createdAt": "2024-11-14T17:30:36+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aoyama Rokurou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T10:02:47+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8382b4a7-8f98-4e55-b081-7f9090f1c16e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-11-01T11:24:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hisaishi Rai",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-11-01T11:24:29+00:00",
     "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8d43bb6c-3327-4f9f-9a87-046db9faa084",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-10T14:11:01+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Oohira Kouta",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kota211293",
+    "updatedAt": "2024-12-04T19:13:35+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a0bdf7f7-523f-46aa-a6b7-f3775be24ed2",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-04-27T20:02:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamiya Tsuyoshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T09:53:00+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a9ffff6f-4c63-4fc6-83c2-352b3541e9b3",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-19T16:54:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Neko Karintou",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-19T19:22:47+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ad28073f-3e94-41f4-b27f-ba5d137e5826",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 高井唯人"
+    },
+    "booth": null,
+    "createdAt": "2022-04-08T04:07:58+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takai Yuito",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T09:58:46+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f174c734-8f52-4b9b-a2f6-905897e16596",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: ささきゆうさく"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sasaki Yuusaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T09:37:10+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

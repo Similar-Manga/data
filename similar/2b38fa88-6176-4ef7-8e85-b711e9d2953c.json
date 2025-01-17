@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
-   "title": {
-    "en": "Lion Books"
-   },
-   "contentRating": "safe",
-   "score": 0.23583192
-  },
-  {
    "id": "a0244b8e-380c-40ba-a138-feb6b440ab09",
    "title": {
     "en": "Shiden Kai Hawk"
@@ -27,7 +19,7 @@
     "en": "The Legend of Heroes VI: Trails of Cold Steel"
    },
    "contentRating": "safe",
-   "score": 0.22345869,
+   "score": 0.22349147,
    "languages": [
     "en"
    ]
@@ -38,7 +30,7 @@
     "en": "The Mysterious Underground Men (Official Colored)"
    },
    "contentRating": "safe",
-   "score": 0.22044708,
+   "score": 0.22048844,
    "languages": [
     "en"
    ]
@@ -52,12 +44,20 @@
    "score": 0.22026087
   },
   {
+   "id": "6e685173-d07a-48cc-899d-ee0c8b8eb5fd",
+   "title": {
+    "en": "Lion Books"
+   },
+   "contentRating": "safe",
+   "score": 0.21944553
+  },
+  {
    "id": "5ea2954b-bf41-441a-93bc-ecd4d9ae037d",
    "title": {
     "en": "Dr. Thrill"
    },
    "contentRating": "safe",
-   "score": 0.21453813
+   "score": 0.21460623
   },
   {
    "id": "b6a5d154-7845-4129-b473-ba0aec3deffd",
@@ -77,9 +77,9 @@
    ]
   },
   {
-   "id": "1a82e7d2-3ea7-412c-aa7e-08f7f66fe4d0",
+   "id": "089f98f7-a607-474b-9388-f6d84ff19c67",
    "title": {
-    "en": "The Thief of Shanghai"
+    "en": "Cyborg 009 (SHIMAMOTO Kazuhiko)"
    },
    "contentRating": "safe",
    "score": 0.20766395,
@@ -88,9 +88,9 @@
    ]
   },
   {
-   "id": "089f98f7-a607-474b-9388-f6d84ff19c67",
+   "id": "1a82e7d2-3ea7-412c-aa7e-08f7f66fe4d0",
    "title": {
-    "en": "Cyborg 009 (SHIMAMOTO Kazuhiko)"
+    "en": "The Thief of Shanghai"
    },
    "contentRating": "safe",
    "score": 0.20766395,
@@ -112,7 +112,7 @@
     "en": "Yamato Takeru (WATSUKI Nobuhiro)"
    },
    "contentRating": "safe",
-   "score": 0.2041725,
+   "score": 0.20419034,
    "languages": [
     "en"
    ]
@@ -142,17 +142,6 @@
    ]
   },
   {
-   "id": "49e9273f-0a3b-4928-996f-5ab951a3b510",
-   "title": {
-    "en": "Mobile Suit Collection Manga SECRET FORMULA"
-   },
-   "contentRating": "safe",
-   "score": 0.19700731,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "21b18592-8925-466b-b909-071b52676a38",
    "title": {
     "en": "Teiden Shoujo to Hanemushi no Orchestra"
@@ -160,6 +149,18 @@
    "contentRating": "safe",
    "score": 0.19329016,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "49c033b0-621b-43bf-b478-45725ea0d47f",
+   "title": {
+    "en": "∀ Gundam - ∀ “Korokoro”"
+   },
+   "contentRating": "safe",
+   "score": 0.1878391,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -172,5 +173,5 @@
    "score": 0.1878391
   }
  ],
- "updatedAt": "2025-01-08T00:18:24+00:00"
+ "updatedAt": "2025-01-15T23:31:13+00:00"
 }

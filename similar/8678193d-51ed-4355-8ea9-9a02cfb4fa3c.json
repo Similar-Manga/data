@@ -11,7 +11,7 @@
     "en": "Sayuri Hime"
    },
    "contentRating": "safe",
-   "score": 0.27827206,
+   "score": 0.27833617,
    "languages": [
     "it",
     "tr",
@@ -26,12 +26,25 @@
     "en": "Born This Way"
    },
    "contentRating": "safe",
-   "score": 0.25100318,
+   "score": 0.25102013,
    "languages": [
     "fr",
     "tr",
     "pt-br",
     "uk"
+   ]
+  },
+  {
+   "id": "3329e169-ce23-447d-9e24-194b5afdd1ef",
+   "title": {
+    "en": "Chocolate-Covered Almonds"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "tr",
+    "pt-br",
+    "en"
    ]
   },
   {
@@ -58,107 +71,16 @@
    ]
   },
   {
-   "id": "3329e169-ce23-447d-9e24-194b5afdd1ef",
-   "title": {
-    "en": "Chocolate-Covered Almonds"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328,
-   "languages": [
-    "tr",
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "96478e7c-452b-4731-93d7-95a089535d17",
    "title": {
     "en": "Bound Love"
    },
    "contentRating": "safe",
-   "score": 0.22292785,
+   "score": 0.22295897,
    "languages": [
     "en",
     "tr",
     "pt-br"
-   ]
-  },
-  {
-   "id": "02dfdfbf-8b72-48c8-9854-5d44ae1ddb25",
-   "title": {
-    "en": "Rainy Song"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "en",
-    "pl",
-    "de",
-    "tr"
-   ]
-  },
-  {
-   "id": "9031254b-142e-4341-a88a-ae025aecd2e3",
-   "title": {
-    "en": "Baby Lips"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "en",
-    "tr"
-   ]
-  },
-  {
-   "id": "f6ac7bb1-4d1d-49a4-9487-2e348bb48632",
-   "title": {
-    "en": "Akaneiro Confiture"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "tr"
-   ]
-  },
-  {
-   "id": "f01ae8cb-d39d-44ab-94bc-7038823eaa80",
-   "title": {
-    "en": "Bridesmaid"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "de",
-    "tr"
-   ]
-  },
-  {
-   "id": "3e342d67-2c50-4c1f-b872-7831eb9c48d2",
-   "title": {
-    "en": "A Cruel God"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "tr",
-    "en"
-   ]
-  },
-  {
-   "id": "0375994e-445d-4c7c-aa05-888996ad11a7",
-   "title": {
-    "en": "Lost Girl"
-   },
-   "contentRating": "safe",
-   "score": 0.20047042,
-   "languages": [
-    "ru",
-    "pt-br",
-    "en",
-    "tr",
-    "es-la",
-    "pl",
-    "fr"
    ]
   },
   {
@@ -196,6 +118,30 @@
    ]
   },
   {
+   "id": "3e342d67-2c50-4c1f-b872-7831eb9c48d2",
+   "title": {
+    "en": "A Cruel God"
+   },
+   "contentRating": "safe",
+   "score": 0.20047042,
+   "languages": [
+    "tr",
+    "en"
+   ]
+  },
+  {
+   "id": "c301a43a-c651-4578-b73a-6e6651631591",
+   "title": {
+    "en": "Fortune Ring"
+   },
+   "contentRating": "safe",
+   "score": 0.20047042,
+   "languages": [
+    "en",
+    "tr"
+   ]
+  },
+  {
    "id": "38b4bcd8-36a1-4c5d-9ba0-cce62630c7a2",
    "title": {
     "en": "Yakusoku no Yubi"
@@ -206,7 +152,61 @@
     "it",
     "tr"
    ]
+  },
+  {
+   "id": "0375994e-445d-4c7c-aa05-888996ad11a7",
+   "title": {
+    "en": "Lost Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.20047042,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en",
+    "tr",
+    "es-la",
+    "pl",
+    "fr"
+   ]
+  },
+  {
+   "id": "f6ac7bb1-4d1d-49a4-9487-2e348bb48632",
+   "title": {
+    "en": "Akaneiro Confiture"
+   },
+   "contentRating": "safe",
+   "score": 0.20047042,
+   "languages": [
+    "tr"
+   ]
+  },
+  {
+   "id": "f01ae8cb-d39d-44ab-94bc-7038823eaa80",
+   "title": {
+    "en": "Bridesmaid"
+   },
+   "contentRating": "safe",
+   "score": 0.20047042,
+   "languages": [
+    "de",
+    "tr"
+   ]
+  },
+  {
+   "id": "02dfdfbf-8b72-48c8-9854-5d44ae1ddb25",
+   "title": {
+    "en": "Rainy Song"
+   },
+   "contentRating": "safe",
+   "score": 0.20047042,
+   "languages": [
+    "en",
+    "pl",
+    "de",
+    "tr"
+   ]
   }
  ],
- "updatedAt": "2025-01-08T00:58:28+00:00"
+ "updatedAt": "2025-01-16T00:15:15+00:00"
 }

@@ -32,6 +32,7 @@
    "bw": "series/2294/list",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2470459",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/323631/",
+   "engtl": "https://ablaze.net/products?p=G9781684972388",
    "kt": "birdman-anthology",
    "mal": "11415",
    "mu": "48776",
@@ -253,6 +254,30 @@
     }
    },
    {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "ee968100-4191-4968-93d3-f82d72be7e46",
     "type": "tag",
     "attributes": {
@@ -278,9 +303,9 @@
    }
   ],
   "state": "published",
-  "version": 18,
+  "version": 21,
   "createdAt": "2021-01-25T02:54:13+00:00",
-  "updatedAt": "2024-12-27T12:52:59+00:00"
+  "updatedAt": "2025-01-13T21:13:15+00:00"
  },
  "relationships": [
   {

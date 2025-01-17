@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Daiku Joshi to Shota Chibi da Nuki no i Sekai Kojima Suro-Raifu"
+   "en": "Daiku Joshi to Shota Chibidanuki no Isekai Kojima Slow Life"
   },
   "altTitles": [
    {
@@ -19,6 +19,18 @@
   "year": 2024,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
@@ -45,9 +57,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2025-01-03T04:54:03+00:00",
-  "updatedAt": "2025-01-03T04:54:16+00:00"
+  "updatedAt": "2025-01-08T08:21:27+00:00"
  },
  "relationships": [
   {

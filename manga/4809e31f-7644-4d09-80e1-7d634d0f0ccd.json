@@ -3,9 +3,15 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Ii Orc no Hi"
+   "en": "Good Orc Day"
   },
   "altTitles": [
+   {
+    "ja": "いいオークの日"
+   },
+   {
+    "ja-ro": "Ii Orc no Hi"
+   },
    {
     "en": "A Friendly Orc's Daily Life"
    },
@@ -14,24 +20,22 @@
    },
    {
     "es": "La Vida Diaria del Orco Amigable"
-   },
-   {
-    "ja": "いいオークの日"
    }
   ],
   "description": {
-   "en": "A friendly, deadpan orc meets a horny, adorable elf. Hilarity ensues.",
+   "en": "A friendly, deadpan orc meets a horny, adorable elf. Hilarity ensues.\n___\n**Alt Official Raw:** [niconico Manga](https://manga.nicovideo.jp/comic/11377)\n**Buy:**\n- [DLsite](https://www.dlsite.com/home/fsr/=/title_id/SRI0000025116/order/release_d/from/maker_profile.series)\n- [Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=256444)",
    "pl": "Króciutka przygoda stoickiego orka i namolnej, trochę zbyt zboczonej elfki…"
   },
   "links": {
    "al": "85720",
    "ap": "ii-orc-no-hi",
+   "engtl": "https://www.dlsite.com/home/circle/profile/=/maker_id/RG10115.html/options[0]/ENG",
    "kt": "ii-orc-no-hi",
    "mu": "112858",
    "raw": "https://www.pixiv.net/user/25259/series/14912"
   },
   "originalLanguage": "ja",
-  "status": "hiatus",
+  "status": "ongoing",
   "year": 2014,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
@@ -42,6 +46,42 @@
   ],
   "latestUploadedChapter": "1018e37a-883b-40ce-bd98-f78ac1826494",
   "tags": [
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "39730448-9a5f-48a2-85b0-a70db87b1233",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Demons"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -79,6 +119,18 @@
     }
    },
    {
+    "id": "dd1f77c5-dea9-4e2b-97ae-224af09caf99",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monster Girls"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
     "type": "tag",
     "attributes": {
@@ -92,9 +144,9 @@
    }
   ],
   "state": "published",
-  "version": 11,
+  "version": 14,
   "createdAt": "2018-09-14T12:34:37+00:00",
-  "updatedAt": "2024-11-18T01:21:26+00:00"
+  "updatedAt": "2025-01-12T12:43:31+00:00"
  },
  "relationships": [
   {
@@ -102,14 +154,14 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\nmugenjin\n\n**Circle**: [Koppamijin](https://mangadex.org/author/b950ec7a-42fe-4557-b308-5c77e9ff2ee5) (コッパミジン)"
+     "en": "**Also Known As:** mugenjin\n\n**Circle:** [KOPPAMIJIN](https://mangadex.org/author/b950ec7a-42fe-4557-b308-5c77e9ff2ee5) (コッパミジン)\n\n**Additional Sites:**\n- [DLsite](https://www.dlsite.com/home/circle/profile/=/maker_id/RG10115.html)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": "https://mugenjin.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=99006761",
     "name": "jin",
     "namicomi": null,
     "naver": null,
@@ -118,8 +170,8 @@
     "skeb": "https://skeb.jp/@mugenjin",
     "tumblr": null,
     "twitter": "https://twitter.com/mugenjin",
-    "updatedAt": "2023-06-30T23:32:07+00:00",
-    "version": 4,
+    "updatedAt": "2025-01-12T12:35:30+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -130,14 +182,14 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Alt names**:\nmugenjin\n\n**Circle**: [Koppamijin](https://mangadex.org/author/b950ec7a-42fe-4557-b308-5c77e9ff2ee5) (コッパミジン)"
+     "en": "**Also Known As:** mugenjin\n\n**Circle:** [KOPPAMIJIN](https://mangadex.org/author/b950ec7a-42fe-4557-b308-5c77e9ff2ee5) (コッパミジン)\n\n**Additional Sites:**\n- [DLsite](https://www.dlsite.com/home/circle/profile/=/maker_id/RG10115.html)"
     },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": "https://mugenjin.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=99006761",
     "name": "jin",
     "namicomi": null,
     "naver": null,
@@ -146,24 +198,24 @@
     "skeb": "https://skeb.jp/@mugenjin",
     "tumblr": null,
     "twitter": "https://twitter.com/mugenjin",
-    "updatedAt": "2023-06-30T23:32:07+00:00",
-    "version": 4,
+    "updatedAt": "2025-01-12T12:35:30+00:00",
+    "version": 5,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "7f4d4124-367f-4fc4-a6c1-4256d1b1033c",
+   "id": "5ea212dc-fc10-4483-9813-0dd7ca3a3f9c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:44:55+00:00",
+    "createdAt": "2025-01-12T12:33:32+00:00",
     "description": "",
-    "fileName": "2fbccd2e-1d11-4211-901b-eb84efdbbde1.jpg",
+    "fileName": "97980c59-2b25-4b88-85e9-a970d7ddd535.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:44:55+00:00",
+    "updatedAt": "2025-01-12T12:33:32+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
   }
  ]

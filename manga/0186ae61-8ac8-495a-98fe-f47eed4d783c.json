@@ -3,25 +3,40 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Gyuges no Futari"
+   "en": "Gyges no Futari"
   },
   "altTitles": [
-   {
-    "ja-ro": "Gyges no Futari"
-   },
    {
     "ja": "ギュゲスのふたり"
    },
    {
+    "ja": "ギュゲスのふたり －透明な能力者たちの破滅譚－"
+   },
+   {
+    "ja-ro": "Gyuges no Futari"
+   },
+   {
+    "ja-ro": "Gyges no Futari -Toumei na Nouryukusha-tachi no Hametsutan-"
+   },
+   {
+    "en": "Gyges Pair"
+   },
+   {
+    "en": "Gyges Pair -The Transparent Ability Wielders' Tale Of Destruction-"
+   },
+   {
     "ru": "Кольца Гига"
+   },
+   {
+    "it": "Two Psychics of Gyges"
    }
   ],
   "description": {
-   "en": "Todo, a manga artist, and Hinata, an assistant, have a common problem - a bad deal with the editor in charge. \nWhen such two people return home from the interview, they awaken to each other's abilities..."
+   "en": "Todo, a manga artist, and Hinata, an assistant, have a common problem - a bad deal with the editor in charge. \nWhen such two people return home from the interview, they awaken to each other's abilities…"
   },
   "links": {
    "al": "157529",
-   "amz": "https://www.amazon.co.jp/-/en/dp/B0BNY7K5VJ?binding=kindle_edition\u0026searchxofy=true\u0026qid=1671484291\u0026sr=1-1",
+   "amz": "https://www.amazon.co.jp/dp/B0BNY7K5VJ",
    "ap": "gyuges-no-futari",
    "bw": "series/387680/list",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2800357",
@@ -37,9 +52,10 @@
   "year": 2022,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "zh-hk"
+   "zh-hk",
+   "en"
   ],
-  "latestUploadedChapter": "8941b4fd-cb79-4644-a8dd-f4d6ba497b42",
+  "latestUploadedChapter": "70c806c0-9b0b-4034-87cf-0baa2ca9f487",
   "tags": [
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
@@ -90,18 +106,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -127,32 +131,34 @@
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 23,
   "createdAt": "2022-06-22T11:40:22+00:00",
-  "updatedAt": "2024-10-08T16:22:47+00:00"
+  "updatedAt": "2025-01-13T14:59:06+00:00"
  },
  "relationships": [
   {
    "id": "f97d6811-8494-473b-9978-1d651f8c9c94",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** カトウタカヒロ\n\n**Circle:** Mogu-mogu Abura-age (モグモグアブラアゲ)\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/oiign)\n- [Bluesky](https://bsky.app/profile/ogitaka96.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=125158",
     "name": "Katou Takahiro",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/1962168",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ogitaka96",
+    "updatedAt": "2025-01-09T13:30:34+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -162,23 +168,25 @@
    "id": "f97d6811-8494-473b-9978-1d651f8c9c94",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** カトウタカヒロ\n\n**Circle:** Mogu-mogu Abura-age (モグモグアブラアゲ)\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/oiign)\n- [Bluesky](https://bsky.app/profile/ogitaka96.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=125158",
     "name": "Katou Takahiro",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/1962168",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ogitaka96",
+    "updatedAt": "2025-01-09T13:30:34+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

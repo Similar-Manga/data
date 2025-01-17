@@ -6,20 +6,20 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "b08822d7-3b48-4528-aee2-863b6106d773",
-   "title": {
-    "en": "Mizuchidou Houfukuroku"
-   },
-   "contentRating": "safe",
-   "score": 0.29396904
-  },
-  {
    "id": "a1edc429-75ac-4326-8e4a-8c6d7bc8d971",
    "title": {
     "en": "I Won't Get Married"
    },
    "contentRating": "safe",
-   "score": 0.2907264
+   "score": 0.29895929
+  },
+  {
+   "id": "b08822d7-3b48-4528-aee2-863b6106d773",
+   "title": {
+    "en": "Mizuchidou Houfukuroku"
+   },
+   "contentRating": "safe",
+   "score": 0.29449543
   },
   {
    "id": "974dafe0-921e-45d6-90a0-693bf63c687c",
@@ -27,7 +27,15 @@
     "en": "Gisou Shussan - Dekinai Fuufu wa Oso wo Tsuku"
    },
    "contentRating": "safe",
-   "score": 0.29009652
+   "score": 0.29421782
+  },
+  {
+   "id": "39eac2ab-541a-4db8-a89d-f4d9ddbee395",
+   "title": {
+    "en": "Shiitagerare Reijou to Kegare Koushaku"
+   },
+   "contentRating": "safe",
+   "score": 0.2860483
   },
   {
    "id": "5b38a1ae-c340-4bbf-b9f5-a3573abedbee",
@@ -41,20 +49,12 @@
    ]
   },
   {
-   "id": "39eac2ab-541a-4db8-a89d-f4d9ddbee395",
-   "title": {
-    "en": "Shiitagerare Reijou to Kegare Koushaku"
-   },
-   "contentRating": "safe",
-   "score": 0.28376353
-  },
-  {
    "id": "e4fbc753-52da-4aef-9f17-002aaa0f8254",
    "title": {
-    "en": "Dragon priestess in the birdcage"
+    "en": "Kago no Naka no Ryuu Seijo"
    },
    "contentRating": "safe",
-   "score": 0.2829579,
+   "score": 0.28467336,
    "languages": [
     "en"
    ]
@@ -65,7 +65,7 @@
     "en": "Shiroi Veil wa Itsuwari no Iro"
    },
    "contentRating": "safe",
-   "score": 0.27300802
+   "score": 0.27879298
   },
   {
    "id": "84784670-646d-4165-a35e-b224084d01b1",
@@ -73,7 +73,7 @@
     "en": "Karisome Tsuma wa Enman na Rien wo Shomou Shimasu! - Kouri no Kishi no Dekiai wa Wakarizurai"
    },
    "contentRating": "safe",
-   "score": 0.27101958
+   "score": 0.27553567
   },
   {
    "id": "152cfd18-e543-4386-9357-2e3773d66044",
@@ -81,50 +81,10 @@
     "en": "Muku Na Princess"
    },
    "contentRating": "safe",
-   "score": 0.2698804,
+   "score": 0.27430853,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "69c6351c-7e9a-4f12-9960-8abb99a3f7ab",
-   "title": {
-    "en": "Hanayome Shuugyou wo Yametakute, Reitetsu Koushaku no 13-banme no Konyakusha ni narimasu"
-   },
-   "contentRating": "safe",
-   "score": 0.261643
-  },
-  {
-   "id": "26126ff9-e7a6-4b4b-b1b3-25f8ca5791ba",
-   "title": {
-    "en": "Trial Fuufu - Tsuma no Otto no Shiyou Kikan"
-   },
-   "contentRating": "safe",
-   "score": 0.26075062
-  },
-  {
-   "id": "95f4c999-5baf-49c9-aa00-e06499edc169",
-   "title": {
-    "en": "Anatouuru Seiden"
-   },
-   "contentRating": "safe",
-   "score": 0.2586028
-  },
-  {
-   "id": "064e18e4-985c-4df3-9378-b3ad90a75788",
-   "title": {
-    "en": "Suiyoubi, Watashi no Otto ni Dakarete kudasai"
-   },
-   "contentRating": "safe",
-   "score": 0.25807464
-  },
-  {
-   "id": "878d86ca-e77b-4a34-ad51-ed6614aad9fa",
-   "title": {
-    "en": "Kateikyoushi no Ouji-sama - Seiryaku Kekkon ka to Omottara, Naze ka Dekiaisarete Shimaimashita"
-   },
-   "contentRating": "safe",
-   "score": 0.25736094
   },
   {
    "id": "5e59a712-3910-463a-b41b-b3eaa7811438",
@@ -132,7 +92,47 @@
     "en": "Makai no Ouji to Hanayome"
    },
    "contentRating": "safe",
-   "score": 0.25590208
+   "score": 0.2652748
+  },
+  {
+   "id": "26126ff9-e7a6-4b4b-b1b3-25f8ca5791ba",
+   "title": {
+    "en": "Trial Fuufu - Tsuma no Otto no Shiyou Kikan"
+   },
+   "contentRating": "safe",
+   "score": 0.26456392
+  },
+  {
+   "id": "69c6351c-7e9a-4f12-9960-8abb99a3f7ab",
+   "title": {
+    "en": "Hanayome Shuugyou wo Yametakute, Reitetsu Koushaku no 13-banme no Konyakusha ni narimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.26256505
+  },
+  {
+   "id": "e0738c1c-339c-438c-a052-c4316888ce7b",
+   "title": {
+    "en": "Sekka Hiden ~Rantei Koukyuu Shimatsuki~"
+   },
+   "contentRating": "safe",
+   "score": 0.2615845
+  },
+  {
+   "id": "878d86ca-e77b-4a34-ad51-ed6614aad9fa",
+   "title": {
+    "en": "Kateikyoushi no Ouji-sama - Seiryaku Kekkon ka to Omottara, Naze ka Dekiaisarete Shimaimashita"
+   },
+   "contentRating": "safe",
+   "score": 0.26020014
+  },
+  {
+   "id": "95f4c999-5baf-49c9-aa00-e06499edc169",
+   "title": {
+    "en": "Anatouuru Seiden"
+   },
+   "contentRating": "safe",
+   "score": 0.259321
   },
   {
    "id": "6260015c-005f-4106-9528-f9ddb666309f",
@@ -140,11 +140,11 @@
     "en": "Ikenie Akujo no Shiroi Kekkon"
    },
    "contentRating": "safe",
-   "score": 0.25584713,
+   "score": 0.2593161,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2025-01-08T00:02:37+00:00"
+ "updatedAt": "2025-01-15T23:16:47+00:00"
 }

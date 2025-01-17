@@ -17,14 +17,14 @@
    "mu": "wcmta40"
   },
   "originalLanguage": "ja",
-  "lastChapter": "1",
   "status": "completed",
   "year": 2017,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
-   "pt-br"
+   "pt-br",
+   "en"
   ],
-  "latestUploadedChapter": "8873aed6-199e-4727-b785-6d4688f21068",
+  "latestUploadedChapter": "99c15beb-2858-436f-8a83-2da1c4d59405",
   "tags": [
    {
     "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
@@ -35,6 +35,18 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -64,23 +76,53 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 11,
   "createdAt": "2024-06-15T16:49:17+00:00",
-  "updatedAt": "2024-07-15T19:41:33+00:00"
+  "updatedAt": "2025-01-09T12:39:39+00:00"
  },
  "relationships": [
   {
-   "id": "d6ffd3ac-cb79-4200-a487-6c8ecb59087e",
+   "id": "2770e58c-bb15-43a8-a1cc-c55fda5ce74c",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Associated names**\nこだか和麻 (name in native language)\nKAZU/Kazu\nКОДАКА Кадзума\n小鷹和麻\n\n**Circles**\nK2Company\n\n[Alt Twitter 1](https://x.com/kazu_k_yv)\n[Alt Twitter 2](https://x.com/kazu_k_el)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "K2Company (Kodaka Kazuma)",
+    "name": "Kodaka Kazuma",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=3399644",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kodaka_kazuma",
+    "updatedAt": "2025-01-09T12:47:50+00:00",
+    "version": 6,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d6ffd3ac-cb79-4200-a487-6c8ecb59087e",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Members:**\nKodaka Kazuma (こだか和麻)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "K2Company (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -88,8 +130,36 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-09T09:39:35+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2770e58c-bb15-43a8-a1cc-c55fda5ce74c",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names**\nこだか和麻 (name in native language)\nKAZU/Kazu\nКОДАКА Кадзума\n小鷹和麻\n\n**Circles**\nK2Company\n\n[Alt Twitter 1](https://x.com/kazu_k_yv)\n[Alt Twitter 2](https://x.com/kazu_k_el)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kodaka Kazuma",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "http://www.pixiv.net/member.php?id=3399644",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kodaka_kazuma",
+    "updatedAt": "2025-01-09T12:47:50+00:00",
+    "version": 6,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -99,14 +169,16 @@
    "id": "d6ffd3ac-cb79-4200-a487-6c8ecb59087e",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Members:**\nKodaka Kazuma (こだか和麻)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "K2Company (Kodaka Kazuma)",
+    "name": "K2Company (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -114,8 +186,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-09T09:39:35+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -133,6 +205,11 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "6def4767-6bf0-40dc-9fd1-f05c125fec6d",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "e15d620c-8b72-4ad1-81b6-58e1ab0deb7d",

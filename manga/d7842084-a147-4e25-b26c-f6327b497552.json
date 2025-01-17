@@ -3,17 +3,21 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "North Snow Love Story"
+   "en": "Frozen Hearts"
   },
   "altTitles": [
    {
     "ko": "북설애담"
+   },
+   {
+    "ko-ro": "Bugseol-Aedam"
    }
   ],
   "description": {
-   "en": "Seolha, a snow woman who hides her true identity and lives as a human, marries the Northern General, known for ruthlessly killing yokai! Can Seolha keep her secret and lead a happy married life without being discovered as a yokai?"
+   "en": "Hiding her identity as a Snow Maiden demon, Seolha has carved out a life in disguise among humans. However, her life changes forever when she catches the interest of the Northern Prince, a man known for hunting down and killing demons, and agrees to become his bride. Will those two be able to overcome their differences and live happily ever after?"
   },
   "links": {
+   "engtl": "https://www.webtoons.com/en/fantasy/frozen-hearts/list?title_no=7293",
    "mal": "177552",
    "mu": "1yts8jk",
    "raw": "https://comic.naver.com/webtoon/list?titleId=827578"
@@ -65,6 +69,18 @@
     }
    },
    {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
     "type": "tag",
     "attributes": {
@@ -90,63 +106,11 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2024-07-06T15:35:20+00:00",
-  "updatedAt": "2025-01-01T16:01:01+00:00"
+  "updatedAt": "2025-01-09T15:44:30+00:00"
  },
  "relationships": [
-  {
-   "id": "2aa34689-cc95-43e4-ac1a-f1b26283c558",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Hwiyo",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "2aa34689-cc95-43e4-ac1a-f1b26283c558",
-   "type": "artist",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Hwiyo",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
   {
    "id": "b57f8d78-3450-4164-b4c5-472720200a69",
    "type": "cover_art",

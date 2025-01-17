@@ -5,36 +5,79 @@
   "title": {
    "en": "Koakuma-kun no Smartphone-chan"
   },
-  "description": {
-   "en": ""
-  },
+  "altTitles": [
+   {
+    "ja": "小悪魔くんのスマホちゃん"
+   }
+  ],
+  "description": {},
   "links": {
    "al": "98749",
    "ap": "konyaku-0-nichi-kon-wa-dou-desu-ka",
    "kt": "47000",
-   "mal": "103110"
+   "mal": "103110",
+   "raw": "https://mechacomic.jp/books/94793"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shoujo",
   "status": "ongoing",
   "contentRating": "safe",
   "state": "published",
-  "version": 1,
+  "version": 3,
   "createdAt": "2019-03-06T19:14:43+00:00",
-  "updatedAt": "2019-03-06T19:14:43+00:00"
+  "updatedAt": "2025-01-10T10:13:30+00:00"
  },
  "relationships": [
   {
-   "id": "61c634d1-1538-4fe0-b42e-c5cfd931432b",
-   "type": "cover_art",
+   "id": "a5f7aec4-b1c9-4b51-b21e-047ac5c11cd4",
+   "type": "author",
    "attributes": {
-    "createdAt": "2021-05-24T17:03:39+00:00",
-    "description": "",
-    "fileName": "6083dfda-d643-4265-858e-7cb7eb866ac1.jpg",
-    "locale": "ja",
-    "updatedAt": "2021-05-24T17:03:39+00:00",
-    "version": 1,
-    "volume": null
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Eringo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/E_RiNGO_apple",
+    "updatedAt": "2022-05-18T17:54:17+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a5f7aec4-b1c9-4b51-b21e-047ac5c11cd4",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Eringo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/E_RiNGO_apple",
+    "updatedAt": "2022-05-18T17:54:17+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
    }
   }
  ]

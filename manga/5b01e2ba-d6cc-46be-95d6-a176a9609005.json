@@ -1,0 +1,166 @@
+{
+ "id": "5b01e2ba-d6cc-46be-95d6-a176a9609005",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Blue Blossom"
+  },
+  "altTitles": [
+   {
+    "ja": "ブルーブロッサム (宍尾)"
+   }
+  ],
+  "description": {
+   "en": "Today, Earth is put up for auction.” Nino, an utterly ordinary young man, wakes up to find himself reincarnated on an unknown alien planet—with a body resembling that of a reptile. To reclaim his birthplace that has been put up for auction, the starting gun fires on a race that will decide Earth’s fate, with the entire universe as its stage!!"
+  },
+  "links": {
+   "mu": "xvp0jit"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "2df778fe-4479-495b-9b68-bf7788c98b20",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-14T03:11:11+00:00",
+  "updatedAt": "2025-01-14T03:13:19+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b25356f3-9c8c-41c6-830e-9d45856a054d",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-14T03:07:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shishitsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-14T03:07:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b25356f3-9c8c-41c6-830e-9d45856a054d",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-14T03:07:48+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shishitsu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-14T03:07:48+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8f9b5834-a76c-4d07-b856-87f6d2ef80da",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-14T03:11:13+00:00",
+    "description": "",
+    "fileName": "20c27c34-5bb2-434c-b44f-37bfd0fa396e.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-14T03:11:13+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "c55f8354-ec7c-4543-afaf-71a5e7088124",
+   "type": "creator"
+  }
+ ]
+}

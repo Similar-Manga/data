@@ -1,0 +1,141 @@
+{
+ "id": "c5623c04-414a-4a10-b423-74d38973c37e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Chaos Note"
+  },
+  "altTitles": [
+   {
+    "ja": "カオスノート"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "118114",
+   "amz": "https://www.amazon.co.jp/-/en/%E5%90%BE%E5%A6%BB%E3%81%B2%E3%81%A7%E3%81%8A-ebook/dp/B07XYTRQY2/ref=sr_1_1?dib=eyJ2IjoiMSJ9.AArToVATDc1cJvvDu7XfTep1hNl58UdDc9rwjy6-4P8bbaqinZDz9Uz3PIcmjRs7FRJP61tRI7owh8I9we1tQubR-Pcl59Q70wpk7Ckd0tJDVaGyiq4QqvEqCjqDej19nbQagBjKziEQLxXyDTqlMFQCdbNkuhxRa5b89t2IYliIUbpG_rkgqE-nxXRbL5-TkRafnFg5ukk5eke6bSiDfySNn9O6qq87o33r0zF6f2hMD4Qjl1TVIMZ47ykl13sC.MG4Y3FtIw6jkK8Czoul0ruTcRY06U5f4zu1Bkec0duo\u0026dib_tag=se\u0026keywords=%E3%82%AB%E3%82%AA%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88\u0026qid=1736707868\u0026s=digital-text\u0026sr=1-1",
+   "bw": "de7d88e7da-d2f2-4ff2-ba6d-a26486646b4a",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/558240/",
+   "mu": "7phurdc"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2014,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T18:53:44+00:00",
+  "updatedAt": "2025-01-12T18:59:22+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "83e49627-1799-48e8-a3a1-8e097b8c178c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T18:53:46+00:00",
+    "description": "",
+    "fileName": "7c380fb1-20df-45ad-9b60-f6232a5fc8a8.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T18:53:46+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

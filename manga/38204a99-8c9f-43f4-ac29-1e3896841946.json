@@ -12,9 +12,10 @@
   "status": "ongoing",
   "contentRating": "safe",
   "availableTranslatedLanguages": [
+   "en",
    "vi"
   ],
-  "latestUploadedChapter": "a45884d8-4c9b-408f-ac62-66e0fe07ef56",
+  "latestUploadedChapter": "df95b179-ecfe-4ea0-ace2-4ec3c6f740ca",
   "tags": [
    {
     "id": "320831a8-4026-470b-94f6-8353740e6f04",
@@ -61,6 +62,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -138,9 +151,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2024-10-14T10:25:28+00:00",
-  "updatedAt": "2024-10-15T15:05:09+00:00"
+  "updatedAt": "2025-01-07T16:33:35+00:00"
  },
  "relationships": [
   {

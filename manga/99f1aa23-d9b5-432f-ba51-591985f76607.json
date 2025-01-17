@@ -38,6 +38,30 @@
   "latestUploadedChapter": "a366a04b-be15-41bf-9056-b9ff713d8075",
   "tags": [
    {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -51,9 +75,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2020-05-11T10:11:14+00:00",
-  "updatedAt": "2024-10-09T04:10:20+00:00"
+  "updatedAt": "2025-01-13T03:32:20+00:00"
  },
  "relationships": [
   {

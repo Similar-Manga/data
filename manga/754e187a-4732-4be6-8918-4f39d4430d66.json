@@ -1,0 +1,145 @@
+{
+ "id": "754e187a-4732-4be6-8918-4f39d4430d66",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Josou"
+  },
+  "altTitles": [
+   {
+    "en": "Cross-dressing"
+   },
+   {
+    "zh-hk": "女裝"
+   },
+   {
+    "ja": "女装"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://www.pixiv.net/artworks/110184075"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "9ab53f92-3eed-4e9b-903a-917c86035ee3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crossdressing"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-13T21:08:38+00:00",
+  "updatedAt": "2025-01-15T08:27:47+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3668fde3-c454-422c-9514-567e36fafbf2",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Malaysia-based artist. Also known as 'マレーのカントク' ('Kantoku of Malaya,' a parody of 'The Tiger of Malaya')\n\n**Alt. names**:\nskyfreedom\nSky (Freedom)\nSukai\nスカイ\n\n**Additional Links**:\n[Patreon](https://www.patreon.com/skyfreedom/)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://skyfreedom.fanbox.cc/",
+    "fantia": "https://fantia.jp/fanclubs/478213",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sky",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/1017056",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/skyfreedom_212",
+    "updatedAt": "2025-01-15T08:27:39+00:00",
+    "version": 10,
+    "website": "https://lit.link/en/skyfreedom",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3668fde3-c454-422c-9514-567e36fafbf2",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Malaysia-based artist. Also known as 'マレーのカントク' ('Kantoku of Malaya,' a parody of 'The Tiger of Malaya')\n\n**Alt. names**:\nskyfreedom\nSky (Freedom)\nSukai\nスカイ\n\n**Additional Links**:\n[Patreon](https://www.patreon.com/skyfreedom/)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://skyfreedom.fanbox.cc/",
+    "fantia": "https://fantia.jp/fanclubs/478213",
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sky",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/1017056",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/skyfreedom_212",
+    "updatedAt": "2025-01-15T08:27:39+00:00",
+    "version": 10,
+    "website": "https://lit.link/en/skyfreedom",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9f5024a8-49a3-4c8a-8a65-3864ad5c0804",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-13T21:08:47+00:00",
+    "description": "",
+    "fileName": "1d381ccd-e097-45e5-8802-32c4096eda2c.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-13T21:08:47+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "3cd9a4ec-497d-40b8-98f5-aeeec0394318",
+   "type": "creator"
+  }
+ ]
+}

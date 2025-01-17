@@ -1,0 +1,143 @@
+{
+ "id": "6bdce376-e730-4413-aaa4-6af02231ab85",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Onna Hokusai Taizaiki"
+  },
+  "altTitles": [
+   {
+    "ja": "女北斎大罪記"
+   }
+  ],
+  "description": {
+   "ja": "ある日突然、葛飾北斎が急死したら？北斎の娘・栄は父の描いた傑作「北斎漫画」を世に残すため、父に成り代わることを決断する。しかしそれは、己の才能と向き合う地獄の始まりだった──これは「あってはならない」日本美術史上最大の“if”！！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DPYGR98J",
+   "bw": "series/503693",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/868319",
+   "mal": "172354",
+   "mu": "h7pexro",
+   "raw": "https://yanmaga.jp/comics/%E5%A5%B3%E5%8C%97%E6%96%8E%E5%A4%A7%E7%BD%AA%E8%A8%98"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-14T21:31:06+00:00",
+  "updatedAt": "2025-01-14T21:31:27+00:00"
+ },
+ "relationships": [
+  {
+   "id": "635e99cc-443c-4147-a1a3-90eaad4a3754",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Matsuda Shino",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-14T21:28:31+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "635e99cc-443c-4147-a1a3-90eaad4a3754",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Matsuda Shino",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-14T21:28:31+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d075a668-92d4-455e-a6a9-86e7b9abe468",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-14T21:31:19+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "0ecb847a-9c0f-44e0-b4f9-0d9cec830dac.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-14T21:31:19+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

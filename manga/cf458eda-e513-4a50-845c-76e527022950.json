@@ -1,0 +1,138 @@
+{
+ "id": "cf458eda-e513-4a50-845c-76e527022950",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "RELAX BOY"
+  },
+  "altTitles": [
+   {
+    "ja": "RELAX BOY"
+   },
+   {
+    "ja": "リラックス・ボーイ"
+   },
+   {
+    "ja": "リラックスボーイ"
+   }
+  ],
+  "description": {
+   "en": "What's wrong with being a subculture guy!?\nShibuya Chokkaku fires off the ultimate love story!!\n\nShibuya Chokkaku's album-like phantom first comic, which ran from 2000 to 2004, is now available in its complete edition! Includes a new and final chapter: RELAX BOY 2014."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/4778035070",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1601470",
+   "mu": "d9xk52q"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "status": "completed",
+  "year": 2000,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-11T06:45:49+00:00",
+  "updatedAt": "2025-01-11T06:51:58+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f976f21a-c8d9-46e6-a706-f8f854c00785",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 渋谷直角\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/shibuyachokkaku)\n\nColumnist and manga artist."
+    },
+    "booth": null,
+    "createdAt": "2025-01-11T01:20:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shibuya Chokkaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/shibuyachokkaku",
+    "updatedAt": "2025-01-11T01:21:53+00:00",
+    "version": 2,
+    "website": "https://www.shibuyachokkaku.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f976f21a-c8d9-46e6-a706-f8f854c00785",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 渋谷直角\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/shibuyachokkaku)\n\nColumnist and manga artist."
+    },
+    "booth": null,
+    "createdAt": "2025-01-11T01:20:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Shibuya Chokkaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/shibuyachokkaku",
+    "updatedAt": "2025-01-11T01:21:53+00:00",
+    "version": 2,
+    "website": "https://www.shibuyachokkaku.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "de61fffa-b1a4-4206-a95e-576bb67a2c05",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-11T06:45:58+00:00",
+    "description": "Complete Edition: Shougakukan, 2013\r\nAmazon",
+    "fileName": "b987b9f0-d9ff-4427-aa67-4f1ad56d0216.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-11T06:45:58+00:00",
+    "version": 1,
+    "volume": "1.1"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

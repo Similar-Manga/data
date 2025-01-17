@@ -1,0 +1,136 @@
+{
+ "id": "0de5479e-2a2c-453b-81fd-53905832de9b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Quadrilateral"
+  },
+  "description": {
+   "en": "A geometry project I made back in high school."
+  },
+  "originalLanguage": "en",
+  "status": "completed",
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "bee319f5-cd09-482f-b3bd-8716b57d3f46",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b1e97889-25b4-4258-b28b-cd7f4d28ea9b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Philosophical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-11T00:36:12+00:00",
+  "updatedAt": "2025-01-11T00:40:53+00:00"
+ },
+ "relationships": [
+  {
+   "id": "d62ab1a0-9375-4254-b871-0551f9841e33",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Birthday : September 13\n\n**Link:**\n- [Instagram](https://www.instagram.com/machipachi1901/)\n- [INPRNT](https://www.inprnt.com/profile/machipachi1901/)\n- [Ko-fi](https://ko-fi.com/machipachi1901)\n- [Defunct Carrd Link](https://machipachi.carrd.co/)"
+    },
+    "booth": null,
+    "createdAt": "2022-07-30T17:07:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "MachiPachi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/61187283",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/machipachi1901",
+    "updatedAt": "2025-01-04T13:05:40+00:00",
+    "version": 7,
+    "website": "https://linktr.ee/machipachi1901",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCp3jjnIkl6BkPCT9ck0JmNA"
+   }
+  },
+  {
+   "id": "d62ab1a0-9375-4254-b871-0551f9841e33",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "Birthday : September 13\n\n**Link:**\n- [Instagram](https://www.instagram.com/machipachi1901/)\n- [INPRNT](https://www.inprnt.com/profile/machipachi1901/)\n- [Ko-fi](https://ko-fi.com/machipachi1901)\n- [Defunct Carrd Link](https://machipachi.carrd.co/)"
+    },
+    "booth": null,
+    "createdAt": "2022-07-30T17:07:19+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "MachiPachi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/61187283",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/machipachi1901",
+    "updatedAt": "2025-01-04T13:05:40+00:00",
+    "version": 7,
+    "website": "https://linktr.ee/machipachi1901",
+    "weibo": null,
+    "youtube": "https://www.youtube.com/channel/UCp3jjnIkl6BkPCT9ck0JmNA"
+   }
+  },
+  {
+   "id": "f6fc019c-e674-4cad-a63a-5ea73b9c9760",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-11T00:36:24+00:00",
+    "description": "",
+    "fileName": "7cc43b75-7c50-49b5-8353-e06bbdf610e1.png",
+    "locale": "en",
+    "updatedAt": "2025-01-11T00:36:24+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "cbe1a007-ac08-43e5-b53e-e6668f716815",
+   "type": "creator"
+  }
+ ]
+}

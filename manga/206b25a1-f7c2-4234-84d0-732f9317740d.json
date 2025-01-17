@@ -7,14 +7,21 @@
   },
   "altTitles": [
    {
-    "zh": "You Shou QnA"
+    "zh-ro": "You Shou QnA"
+   },
+   {
+    "zh": "有兽Q\u0026A"
+   },
+   {
+    "zh": "有兽戏话"
    }
   ],
   "description": {
-   "en": "Youshou Xihua- a non-canon, spinoff slice-of-life mini-theater of the Youshou Yan Manga unrelated to the main plotline. Go read the main story [here](https://mangadex.org/title/151bca3e-db98-4ad2-8d8d-239943b91437/you-shou-yan)."
+   "en": "Youshou Xihua- a non-canon, spinoff slice-of-life mini-theater of the Youshou Yan Manga unrelated to the main plotline."
   },
   "links": {
-   "raw": "https://m.weibo.cn/search?containerid=231522type=1\u0026t=10\u0026q=#有兽戏话#\u0026extparam=#有兽戏话#\u0026luicode=10000011\u0026lfid=231522type=1\u0026t=10\u0026q=#有兽戏话#"
+   "mu": "0jbvtad",
+   "raw": "https://weibo.com/n/%E6%9C%89%E5%85%BD%E7%84%89%E6%BC%AB%E7%94%BB"
   },
   "originalLanguage": "zh",
   "status": "ongoing",
@@ -24,7 +31,7 @@
    "en",
    "es-la"
   ],
-  "latestUploadedChapter": "d546a98e-25ea-42eb-b994-1817ce6ae8a0",
+  "latestUploadedChapter": "4292c103-bea0-4051-9bc3-d0c0173f9f0e",
   "tags": [
    {
     "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
@@ -88,9 +95,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2024-05-18T20:22:20+00:00",
-  "updatedAt": "2024-06-18T00:54:59+00:00"
+  "updatedAt": "2025-01-14T21:47:20+00:00"
  },
  "relationships": [
   {
@@ -146,14 +153,14 @@
    }
   },
   {
-   "id": "dda7d09f-b3c8-484a-b1ee-88c948c85a4f",
+   "id": "0c91dde6-1329-4064-9381-1f644db93bbf",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-05-18T20:22:22+00:00",
+    "createdAt": "2025-01-14T21:42:12+00:00",
     "description": "",
-    "fileName": "641b4f75-3fb0-456b-8957-b0c35b5ce473.png",
+    "fileName": "c0ee1452-9085-4bb7-aea1-3fe1eb40e213.png",
     "locale": "zh",
-    "updatedAt": "2024-05-18T20:22:22+00:00",
+    "updatedAt": "2025-01-14T21:42:12+00:00",
     "version": 1,
     "volume": "1"
    }
@@ -161,7 +168,7 @@
   {
    "id": "151bca3e-db98-4ad2-8d8d-239943b91437",
    "type": "manga",
-   "related": "alternate_story"
+   "related": "adapted_from"
   },
   {
    "id": "2dc1ec9e-371a-49f7-bc79-2f24d60910b6",

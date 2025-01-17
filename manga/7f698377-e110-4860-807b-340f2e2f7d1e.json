@@ -7,13 +7,7 @@
   },
   "altTitles": [
    {
-    "en": "Yuri!!! on Ice dj - Eros and Katsudon"
-   },
-   {
-    "en": "Yuri!!! on Ice dj - Eros to Katsudon"
-   },
-   {
-    "en": "ユーリ!!! on ICE dj - エロスとカツ丼"
+    "ja": "ユーリ!!! on ICE - エロスとカツ丼 (Doujinshi)"
    }
   ],
   "description": {
@@ -23,15 +17,27 @@
    "mu": "137982"
   },
   "originalLanguage": "ja",
-  "lastChapter": "1",
   "status": "completed",
-  "contentRating": "safe",
+  "year": 2016,
+  "contentRating": "pornographic",
   "availableTranslatedLanguages": [
    "en",
    "pl"
   ],
   "latestUploadedChapter": "31fc3d70-ef59-45ac-9d63-f3cfbc49f266",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
     "type": "tag",
@@ -58,23 +64,25 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2019-11-02T22:52:15+00:00",
-  "updatedAt": "2021-05-25T15:44:25+00:00"
+  "updatedAt": "2025-01-09T10:47:15+00:00"
  },
  "relationships": [
   {
    "id": "08943cc7-1e17-4f7a-8de4-1bfb8bbb4def",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Members:**\nKanpachi (かんぱち)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Mayakan (Kanpachi)",
+    "name": "Mayakan (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -82,8 +90,36 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-09T10:47:07+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "807a2d0d-623a-4c80-860c-ba4c70cf0913",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\nNaritama (かんぱち)\n\n**Circles:**\nMayakan (まやかん)"
+    },
+    "booth": null,
+    "createdAt": "2025-01-09T10:39:49+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanpachi (なりたま)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/21168172",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T10:46:59+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -93,14 +129,16 @@
    "id": "08943cc7-1e17-4f7a-8de4-1bfb8bbb4def",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Members:**\nKanpachi (かんぱち)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Mayakan (Kanpachi)",
+    "name": "Mayakan (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -108,8 +146,36 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-09T10:47:07+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "807a2d0d-623a-4c80-860c-ba4c70cf0913",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\nNaritama (かんぱち)\n\n**Circles:**\nMayakan (まやかん)"
+    },
+    "booth": null,
+    "createdAt": "2025-01-09T10:39:49+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanpachi (なりたま)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/21168172",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-09T10:46:59+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

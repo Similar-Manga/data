@@ -18,6 +18,7 @@
    "amz": "https://www.amazon.co.jp/dp/B0DJVDTY4H",
    "bw": "series/493466/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/858700",
+   "mal": "177685",
    "mu": "9ac9723",
    "raw": "https://comic-walker.com/detail/KC_005381_S/episodes/KC_0053810000200011_E?episodeType=latest"
   },
@@ -39,6 +40,18 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -104,9 +117,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 12,
   "createdAt": "2024-02-22T11:03:51+00:00",
-  "updatedAt": "2025-01-06T02:05:31+00:00"
+  "updatedAt": "2025-01-07T21:06:01+00:00"
  },
  "relationships": [
   {

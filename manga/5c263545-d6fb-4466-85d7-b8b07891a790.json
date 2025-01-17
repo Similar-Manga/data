@@ -1,0 +1,113 @@
+{
+ "id": "5c263545-d6fb-4466-85d7-b8b07891a790",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Heisei Yakyuu Kusako"
+  },
+  "altTitles": [
+   {
+    "ja": "平成野球草子"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "186049"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "10",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1994,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-11T12:16:47+00:00",
+  "updatedAt": "2025-01-11T12:37:52+00:00"
+ },
+ "relationships": [
+  {
+   "id": "370fdd0d-ff84-4edf-beb5-db78cdca3f85",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizushima Shinji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "370fdd0d-ff84-4edf-beb5-db78cdca3f85",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizushima Shinji",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3594eba7-75b1-41ad-8bad-61eaedb44f1b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-11T12:16:48+00:00",
+    "description": "",
+    "fileName": "788a4364-d2fd-4a2c-bfc9-d6baffed0fad.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-11T12:16:48+00:00",
+    "version": 1,
+    "volume": "10"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,8 +3,13 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Mobile Suit Gundam Sidestory DEAD ZONE"
+   "en": "Mobile Suit Gundam Gaiden: DEAD ZONE"
   },
+  "altTitles": [
+   {
+    "en": "Mobile Suit Gundam Sidestory DEAD ZONE"
+   }
+  ],
   "description": {},
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
@@ -17,6 +22,18 @@
   "latestUploadedChapter": "97c4d61e-bea0-424a-97d4-6ac339a94644",
   "tags": [
    {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
     "type": "tag",
     "attributes": {
@@ -25,6 +42,18 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -46,6 +75,30 @@
     "attributes": {
      "name": {
       "en": "Mecha"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
      },
      "description": {},
      "group": "genre",
@@ -78,9 +131,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2025-01-05T15:46:27+00:00",
-  "updatedAt": "2025-01-05T15:46:43+00:00"
+  "updatedAt": "2025-01-15T05:40:39+00:00"
  },
  "relationships": [
   {
@@ -147,6 +200,11 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "f36895e4-5045-4a5c-a8ec-c073d8958433",
+   "type": "manga",
+   "related": "main_story"
   },
   {
    "id": "7db15f67-13ef-4417-b725-2b82e11329a8",

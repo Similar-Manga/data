@@ -1,0 +1,153 @@
+{
+ "id": "5e294abe-7179-4959-9877-f64e3d473681",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "S Ishii Golf Manga Series - Knife \u0026 Wedge"
+  },
+  "altTitles": [
+   {
+    "ja": "石井さだよしゴルフ漫画シリーズ 包丁とウェッジ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/239836/list"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-10T08:43:17+00:00",
+  "updatedAt": "2025-01-10T08:44:39+00:00"
+ },
+ "relationships": [
+  {
+   "id": "63029f08-472a-4851-aca8-465f71ba5b74",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-09-04T16:56:04+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sueda Yuichiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-09-04T16:56:04+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "812924a1-2b26-4311-a1b8-10f7cc449fdf",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-10-03T11:10:26+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ishii Sadayoshi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-10-03T11:10:26+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "112c084d-4bce-4759-be51-cf3ee6016fc3",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-10T08:43:28+00:00",
+    "description": "",
+    "fileName": "bca6fd3d-99c0-485c-836b-47385769be84.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-10T08:43:28+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "6ac2f679-d782-4963-bf29-b316e523467c",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

@@ -11,7 +11,7 @@
     "en": "Princess"
    },
    "contentRating": "safe",
-   "score": 0.29752734,
+   "score": 0.29751685,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "Seiten ni Tsurugi wo Kazase"
    },
    "contentRating": "safe",
-   "score": 0.25299263,
+   "score": 0.2529664,
    "languages": [
     "en",
     "pl"
@@ -34,7 +34,7 @@
     "en": "Tsuki no Toiki Ai no Kizu"
    },
    "contentRating": "safe",
-   "score": 0.24606963,
+   "score": 0.2460666,
    "languages": [
     "pl",
     "en"
@@ -46,7 +46,7 @@
     "en": "Gu Fang Bu Zi Shang"
    },
    "contentRating": "safe",
-   "score": 0.24073152,
+   "score": 0.24072166,
    "languages": [
     "en"
    ]
@@ -57,7 +57,7 @@
     "en": "The Battle of the Rainbow"
    },
    "contentRating": "safe",
-   "score": 0.24033964,
+   "score": 0.24030577,
    "languages": [
     "en"
    ]
@@ -68,7 +68,7 @@
     "en": "The Count's Daughter"
    },
    "contentRating": "safe",
-   "score": 0.23895903,
+   "score": 0.23895347,
    "languages": [
     "en"
    ]
@@ -79,10 +79,11 @@
     "en": "Shisei"
    },
    "contentRating": "safe",
-   "score": 0.23724012,
+   "score": 0.23722762,
    "languages": [
     "uk",
     "en",
+    "fr",
     "pl"
    ]
   },
@@ -92,21 +93,9 @@
     "en": "Sim Cheong"
    },
    "contentRating": "safe",
-   "score": 0.2323455,
+   "score": 0.23234406,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "11957b6b-a544-4d7b-bbb1-16f074d83be6",
-   "title": {
-    "en": "Cold Game"
-   },
-   "contentRating": "safe",
-   "score": 0.22980437,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -132,12 +121,24 @@
    ]
   },
   {
+   "id": "11957b6b-a544-4d7b-bbb1-16f074d83be6",
+   "title": {
+    "en": "Cold Game"
+   },
+   "contentRating": "safe",
+   "score": 0.22980437,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
+  },
+  {
    "id": "1631d535-8826-46f7-9a9c-4fc97de2a813",
    "title": {
     "en": "Shoku no Hana"
    },
    "contentRating": "safe",
-   "score": 0.22822763,
+   "score": 0.22822805,
    "languages": [
     "en"
    ]
@@ -148,32 +149,10 @@
     "en": "Knights of Alfheim"
    },
    "contentRating": "safe",
-   "score": 0.22644222,
+   "score": 0.22640035,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "279c8bd9-cd3a-43ff-a305-7cecbe5360ea",
-   "title": {
-    "en": "Hanamuko no Yakusoku"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "845bcd50-4faf-4033-8898-005abe6ff593",
-   "title": {
-    "en": "Grave of the Pharaoh"
-   },
-   "contentRating": "safe",
-   "score": 0.22506468,
-   "languages": [
-    "en"
    ]
   },
   {
@@ -186,7 +165,33 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "0dfe9335-5d55-4565-b189-3acc6cfc6195",
+   "title": {
+    "en": "Alpine Rose"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "tr",
+    "en",
+    "fr"
+   ]
+  },
+  {
+   "id": "729940e6-e49e-4ce0-9011-12c10b80f97e",
+   "title": {
+    "en": "Golden Japanesque"
+   },
+   "contentRating": "safe",
+   "score": 0.22506468,
+   "languages": [
+    "es",
+    "es-la",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2025-01-08T00:01:20+00:00"
+ "updatedAt": "2025-01-15T23:15:26+00:00"
 }

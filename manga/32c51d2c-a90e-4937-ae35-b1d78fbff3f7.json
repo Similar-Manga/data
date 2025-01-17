@@ -7,13 +7,13 @@
   },
   "altTitles": [
    {
-    "ru": "Дзимен"
-   },
-   {
     "ja": "ジンメン"
    },
    {
     "zh": "人面"
+   },
+   {
+    "ru": "Дзимен"
    }
   ],
   "description": {
@@ -23,20 +23,22 @@
   },
   "links": {
    "al": "101515",
-   "amz": "https://www.amazon.co.jp/gp/product/B074CJXRZR",
+   "amz": "https://www.amazon.co.jp/dp/B074CJXRZR",
    "ap": "jinmen",
    "bw": "series/124252/list",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2394353",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/392725",
    "kt": "40452",
    "mal": "106025",
-   "mu": "140034"
+   "mu": "140034",
+   "raw": "https://www.sunday-webry.com/episode/3269754496618325035"
   },
   "originalLanguage": "ja",
   "lastVolume": "13",
   "lastChapter": "145",
   "publicationDemographic": "shounen",
   "status": "completed",
+  "year": 2016,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "id",
@@ -218,32 +220,34 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2019-03-06T07:06:31+00:00",
-  "updatedAt": "2024-11-02T15:40:43+00:00"
+  "updatedAt": "2025-01-13T14:59:32+00:00"
  },
  "relationships": [
   {
    "id": "f97d6811-8494-473b-9978-1d651f8c9c94",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** カトウタカヒロ\n\n**Circle:** Mogu-mogu Abura-age (モグモグアブラアゲ)\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/oiign)\n- [Bluesky](https://bsky.app/profile/ogitaka96.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=125158",
     "name": "Katou Takahiro",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/1962168",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ogitaka96",
+    "updatedAt": "2025-01-09T13:30:34+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -253,39 +257,41 @@
    "id": "f97d6811-8494-473b-9978-1d651f8c9c94",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** カトウタカヒロ\n\n**Circle:** Mogu-mogu Abura-age (モグモグアブラアゲ)\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/oiign)\n- [Bluesky](https://bsky.app/profile/ogitaka96.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=125158",
     "name": "Katou Takahiro",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/1962168",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ogitaka96",
+    "updatedAt": "2025-01-09T13:30:34+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "3198207e-139f-4f19-8947-a15c1b8f4641",
+   "id": "e9086304-f2b4-4fbe-903c-6d7b43b6263f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:03:35+00:00",
+    "createdAt": "2021-05-23T06:27:06+00:00",
     "description": "",
-    "fileName": "615a6df9-091f-4490-98d3-9db7d90e3df0.jpg",
+    "fileName": "db9313f3-d9d8-401a-9263-9f07fefd7650.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:03:35+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T06:27:06+00:00",
+    "version": 2,
+    "volume": "13"
    }
   }
  ]

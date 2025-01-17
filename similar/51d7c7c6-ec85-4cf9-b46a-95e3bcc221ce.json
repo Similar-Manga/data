@@ -6,6 +6,17 @@
  "contentRating": "safe",
  "matches": [
   {
+   "id": "a57b2144-ed01-44d0-9b83-dd7000125c7e",
+   "title": {
+    "en": "Gattai Idol! Snow-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.25190344,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "87e46cbb-53a3-40cc-8cc4-923988d1dfb5",
    "title": {
     "en": "Akuno Himitsu Kessha"
@@ -28,14 +39,17 @@
    ]
   },
   {
-   "id": "a57b2144-ed01-44d0-9b83-dd7000125c7e",
+   "id": "f750b290-ca6b-4fc2-85ed-05592cf09919",
    "title": {
-    "en": "Gattai Idol! Snow-chan"
+    "en": "SK8 the Infinity: Chill Out!"
    },
    "contentRating": "safe",
-   "score": 0.25190344,
+   "score": 0.23360583,
    "languages": [
-    "en"
+    "hu",
+    "en",
+    "pt",
+    "pt-br"
    ]
   },
   {
@@ -44,7 +58,7 @@
     "en": "Chrome Shelled Regios Felli's Poem: a four frame comic strip"
    },
    "contentRating": "safe",
-   "score": 0.22826421,
+   "score": 0.22824164,
    "languages": [
     "en"
    ]
@@ -55,7 +69,7 @@
     "en": "Lucky☆Star"
    },
    "contentRating": "safe",
-   "score": 0.2265328,
+   "score": 0.22652397,
    "languages": [
     "it",
     "pl",
@@ -77,15 +91,28 @@
    ]
   },
   {
-   "id": "392afdba-74dc-4518-90ed-2ac286f40950",
+   "id": "57c2c292-d09b-4075-af15-63d84f7f61e7",
    "title": {
-    "en": "J-Ota Danshi Asahina-kun"
+    "en": "Sketchbook"
    },
    "contentRating": "safe",
    "score": 0.21815477,
    "languages": [
     "en",
-    "vi"
+    "pl",
+    "pt-br",
+    "it"
+   ]
+  },
+  {
+   "id": "f07638e9-8392-4ade-8bbd-2952304aa3a8",
+   "title": {
+    "en": "Welcome to Lodoss Island!"
+   },
+   "contentRating": "safe",
+   "score": 0.21815477,
+   "languages": [
+    "en"
    ]
   },
   {
@@ -102,28 +129,15 @@
    ]
   },
   {
-   "id": "f07638e9-8392-4ade-8bbd-2952304aa3a8",
+   "id": "392afdba-74dc-4518-90ed-2ac286f40950",
    "title": {
-    "en": "Welcome to Lodoss Island!"
-   },
-   "contentRating": "safe",
-   "score": 0.21815477,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "57c2c292-d09b-4075-af15-63d84f7f61e7",
-   "title": {
-    "en": "Sketchbook"
+    "en": "J-Ota Danshi Asahina-kun"
    },
    "contentRating": "safe",
    "score": 0.21815477,
    "languages": [
     "en",
-    "pl",
-    "pt-br",
-    "it"
+    "vi"
    ]
   },
   {
@@ -132,33 +146,10 @@
     "en": "Aru Hi, Totsuzen Gal no Iinazuke ga Dekita"
    },
    "contentRating": "safe",
-   "score": 0.20060115,
+   "score": 0.20060416,
    "languages": [
     "id",
     "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "bdc9c0f8-468f-4f89-87bc-eceadd21551d",
-   "title": {
-    "en": "The Melancholy of a Trap"
-   },
-   "contentRating": "safe",
-   "score": 0.19512355,
-   "languages": [
-    "id",
-    "en"
-   ]
-  },
-  {
-   "id": "880dc0df-36d7-49f8-b87f-cd0a442aaa2a",
-   "title": {
-    "en": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru 4-Koma"
-   },
-   "contentRating": "safe",
-   "score": 0.19512355,
-   "languages": [
     "en"
    ]
   },
@@ -174,18 +165,6 @@
    ]
   },
   {
-   "id": "6af5379f-ace2-453f-a9dd-94f7c443937a",
-   "title": {
-    "en": "Shinozaki Himeno's Love Q\u0026A"
-   },
-   "contentRating": "safe",
-   "score": 0.19512355,
-   "languages": [
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "27e62003-e44a-4271-93da-c808e497791e",
    "title": {
     "en": "The Prince of the Afterschool"
@@ -195,7 +174,30 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "8902e74b-a0a9-4f43-be24-5a6fa41fc2db",
+   "title": {
+    "en": "Money, Maidens, Love, and Innocence"
+   },
+   "contentRating": "safe",
+   "score": 0.19512355,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bdc9c0f8-468f-4f89-87bc-eceadd21551d",
+   "title": {
+    "en": "The Melancholy of a Trap"
+   },
+   "contentRating": "safe",
+   "score": 0.19512355,
+   "languages": [
+    "id",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2025-01-08T00:34:54+00:00"
+ "updatedAt": "2025-01-15T23:49:35+00:00"
 }

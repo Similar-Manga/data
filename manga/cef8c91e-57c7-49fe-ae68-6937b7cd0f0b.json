@@ -24,9 +24,11 @@
    "mu": "30848"
   },
   "originalLanguage": "ja",
+  "lastVolume": "2",
   "publicationDemographic": "shounen",
   "status": "completed",
-  "contentRating": "safe",
+  "year": 1997,
+  "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "en"
   ],
@@ -43,12 +45,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2018-09-22T20:02:28+00:00",
-  "updatedAt": "2023-10-03T05:59:38+00:00"
+  "updatedAt": "2025-01-12T00:35:19+00:00"
  },
  "relationships": [
   {
@@ -62,7 +76,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Hasegawa Yuuichi",
+    "name": "Hasegawa Yuichi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -70,8 +84,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-11T19:21:24+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -88,7 +102,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Hasegawa Yuuichi",
+    "name": "Hasegawa Yuichi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -96,24 +110,24 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-11T19:21:24+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "11c963eb-7c2d-4fb2-b064-6bbc723fb693",
+   "id": "3ceba0c4-b4b3-4852-b301-445d4bfaef96",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T16:45:46+00:00",
+    "createdAt": "2025-01-12T00:34:28+00:00",
     "description": "",
-    "fileName": "0974622b-bf97-4873-a51b-537aec7b4716.jpg",
+    "fileName": "8a85ae37-4001-46cf-958f-3bb026512672.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T16:45:46+00:00",
+    "updatedAt": "2025-01-12T00:34:28+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

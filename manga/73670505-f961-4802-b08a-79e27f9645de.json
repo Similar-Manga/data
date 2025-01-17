@@ -3,18 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Zen Jidō Mahō o-to Majikku no Kosu Pa Musō\" Seichō Supi-do ga Chō Osoi\" to Tsuihōsareta ga, Hōchishite mo Keikenchi ga Atsumaru Mitai Desu Komikkuban"
+   "en": "Zen Jidou Mahou [Auto Magic] no Cost Performance Musou \"Seichou Speed ga Chou Osoi\" to Tsuihou Sareta ga, Houchishite mo Keikenchi ga Atsumaru Mitai Desu"
   },
   "altTitles": [
    {
-    "ja": "全自動魔法【オート・マジック】のコスパ無双 「成長スピードが超遅い」と追放されたが、放置しても経験値が集まるみたいです コミック版"
+    "ja": "全自動魔法【オート・マジック】のコスパ無双 「成長スピードが超遅い」と追放されたが、放置しても経験値が集まるみたいです"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "生涯に一度きりの「適性の儀」で、主人公・アルトは最低の魔法適性しか得られず、役立たずの烙印を押されてウェルズリー家を追放されてしまう。騎士になるという夢が断たれ、失意に沈んだアルトは低賃金でこき使われる毎日を送っていた。しかし共に夢を追う幼馴染に励まされたことをきっかけに、アルトのユニークスキル「自動魔法」が覚醒する！スキルのおかげでいつでもどこでもたまっていく経験値！才能の無さを上回る超効率で成長していくアルト！！だけど今度は冒険者ギルドからも追放されてしまって――!!?"
+  },
   "links": {
-   "bw": "series/475166/list"
+   "amz": "https://www.amazon.co.jp/dp/B0D5N7LXBW",
+   "bw": "series/475166",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/832632"
   },
   "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2024,
   "contentRating": "safe",
@@ -69,9 +74,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2025-01-04T07:21:41+00:00",
-  "updatedAt": "2025-01-04T07:26:41+00:00"
+  "updatedAt": "2025-01-14T12:07:04+00:00"
  },
  "relationships": [
   {
@@ -104,7 +109,9 @@
    "id": "3f6f22c6-aeb9-45a0-9d90-207568acbc41",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "LN illustrator."
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -119,8 +126,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-08T07:27:53+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

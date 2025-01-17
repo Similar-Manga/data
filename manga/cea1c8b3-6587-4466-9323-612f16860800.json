@@ -1,0 +1,153 @@
+{
+ "id": "cea1c8b3-6587-4466-9323-612f16860800",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Youkai Touzoku Mazarisharif"
+  },
+  "altTitles": [
+   {
+    "ja": "妖怪盗賊マザリシャリフ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "176617",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B074CK215R?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1736715519\u0026sr=1-1",
+   "bw": "series/9520/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/169482/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "19",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 1994,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T21:00:36+00:00",
+  "updatedAt": "2025-01-12T21:07:16+00:00"
+ },
+ "relationships": [
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3eee2c00-f035-4fdf-b720-c7a53a11e898",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T21:00:38+00:00",
+    "description": "",
+    "fileName": "8d06f862-423a-4be6-8a81-e61e7bb0c746.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T21:00:38+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

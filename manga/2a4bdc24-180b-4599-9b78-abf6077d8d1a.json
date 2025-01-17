@@ -15,6 +15,7 @@
   },
   "links": {
    "amz": "https://www.amazon.co.jp/-/en/dp/B0B5SQRS3F?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tukn",
+   "bw": "series/239836/list",
    "mu": "gvx1k9g"
   },
   "originalLanguage": "ja",
@@ -39,9 +40,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2023-06-13T07:20:28+00:00",
-  "updatedAt": "2023-06-13T22:55:22+00:00"
+  "updatedAt": "2025-01-10T08:48:54+00:00"
  },
  "relationships": [
   {
@@ -134,6 +135,11 @@
     "version": 1,
     "volume": "2"
    }
+  },
+  {
+   "id": "0dece919-e665-4428-ada8-60b0dba52eac",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "ecf379e6-bc34-42c4-b25d-63698875cdfb",

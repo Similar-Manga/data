@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Doko Ka de Atta Ki ga Suru Mesugaki Reiya"
+   "en": "I Feel Like I've Met That Bratty Cosplayer Somewhere Before"
   },
   "altTitles": [
    {
     "ja": "どこかで会った気がするメスガキレイヤー"
+   },
+   {
+    "ja-ro": "Doko Ka de Atta Ki ga Suru Mesugaki Reiya"
    }
   ],
   "description": {},
@@ -61,9 +64,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2023-07-09T09:52:11+00:00",
-  "updatedAt": "2023-07-09T09:54:42+00:00"
+  "updatedAt": "2025-01-14T16:28:32+00:00"
  },
  "relationships": [
   {
@@ -123,14 +126,14 @@
    }
   },
   {
-   "id": "c99383c3-64f8-4cf8-b53d-ca83b3718c7e",
+   "id": "7f85ab24-662b-43e7-b81f-f6fa5971d6a7",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-11-01T13:12:52+00:00",
+    "createdAt": "2025-01-14T16:27:18+00:00",
     "description": "",
-    "fileName": "523a0d57-8da5-452e-a6c2-ab6759e18fbd.jpg",
+    "fileName": "3d10b217-fbf9-4a5e-a3bc-9521ad23593e.jpg",
     "locale": "ja",
-    "updatedAt": "2023-11-01T13:12:52+00:00",
+    "updatedAt": "2025-01-14T16:27:18+00:00",
     "version": 1,
     "volume": null
    }

@@ -33,7 +33,7 @@
     "en": "Fami-res Iko."
    },
    "contentRating": "safe",
-   "score": 0.19927986,
+   "score": 0.19925807,
    "languages": [
     "en",
     "zh-hk"
@@ -58,7 +58,7 @@
     "en": "Akuta no Shinigiwa"
    },
    "contentRating": "safe",
-   "score": 0.15691264,
+   "score": 0.15690218,
    "languages": [
     "en",
     "zh-hk"
@@ -77,6 +77,43 @@
     "id",
     "it",
     "pt-br"
+   ]
+  },
+  {
+   "id": "23bc060b-0e8f-440c-985d-94fe95fce27c",
+   "title": {
+    "en": "Oshi ga Shinda Asa"
+   },
+   "contentRating": "safe",
+   "score": 0.14285715,
+   "languages": [
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
+   "title": {
+    "en": "Kemutai Hanashi"
+   },
+   "contentRating": "safe",
+   "score": 0.14285715,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "322773cb-d279-412c-82e1-708a4dfca6f8",
+   "title": {
+    "en": "Uchi no Pi-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.14285715,
+   "languages": [
+    "vi",
+    "zh-hk",
+    "en",
+    "fr"
    ]
   },
   {
@@ -102,43 +139,6 @@
    ]
   },
   {
-   "id": "322773cb-d279-412c-82e1-708a4dfca6f8",
-   "title": {
-    "en": "Uchi no Pi-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "vi",
-    "zh-hk",
-    "en",
-    "fr"
-   ]
-  },
-  {
-   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
-   "title": {
-    "en": "Kemutai Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "23bc060b-0e8f-440c-985d-94fe95fce27c",
-   "title": {
-    "en": "Oshi ga Shinda Asa"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "zh-hk"
-   ]
-  },
-  {
    "id": "674c0331-a8b8-4ead-8ff9-d78895ce0b02",
    "title": {
     "en": "Rumic Theater"
@@ -148,6 +148,7 @@
    "languages": [
     "en",
     "pl",
+    "pt-br",
     "bg",
     "zh-hk"
    ]
@@ -158,26 +159,9 @@
     "en": "Greenfingers no Hakoniwa"
    },
    "contentRating": "safe",
-   "score": 0.12731425,
+   "score": 0.12739483,
    "languages": [
     "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "4a433d6b-f51a-4c2f-a183-85419fe98efc",
-   "title": {
-    "en": "Medalist"
-   },
-   "contentRating": "safe",
-   "score": 0.11664238,
-   "languages": [
-    "zh",
-    "en",
-    "pt-br",
-    "es-la",
-    "ru",
-    "vi",
     "zh-hk"
    ]
   },
@@ -203,7 +187,24 @@
     "en",
     "zh-hk"
    ]
+  },
+  {
+   "id": "4a433d6b-f51a-4c2f-a183-85419fe98efc",
+   "title": {
+    "en": "Medalist"
+   },
+   "contentRating": "safe",
+   "score": 0.11664238,
+   "languages": [
+    "zh",
+    "en",
+    "pt-br",
+    "es-la",
+    "ru",
+    "vi",
+    "zh-hk"
+   ]
   }
  ],
- "updatedAt": "2025-01-08T01:50:40+00:00"
+ "updatedAt": "2025-01-16T01:10:14+00:00"
 }

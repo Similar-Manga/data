@@ -5,15 +5,22 @@
   "title": {
    "en": "Sakura Trick Happy Days"
   },
+  "altTitles": [
+   {
+    "ja": "桜Trick Happy Days"
+   }
+  ],
   "description": {
    "en": "Sakura Trick Happy Days takes place a few years after the original Sakura Trick and the story starts with Haruka doing fine in college, and then gets an unexpected reunion with her friends back at Misato West. Though the main question is: Is Haruka doing fine with her girlfriend Yuu?"
   },
   "links": {
-   "al": "113066"
+   "al": "113066",
+   "mu": "trk12ze"
   },
   "originalLanguage": "ja",
   "lastChapter": "2",
   "status": "completed",
+  "year": 2019,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "es-la",
@@ -27,6 +34,18 @@
     "attributes": {
      "name": {
       "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
      },
      "description": {},
      "group": "genre",
@@ -71,9 +90,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 7,
   "createdAt": "2020-03-24T20:16:54+00:00",
-  "updatedAt": "2024-03-31T21:27:23+00:00"
+  "updatedAt": "2025-01-14T05:35:58+00:00"
  },
  "relationships": [
   {

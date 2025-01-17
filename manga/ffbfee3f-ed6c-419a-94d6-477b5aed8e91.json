@@ -1,0 +1,160 @@
+{
+ "id": "ffbfee3f-ed6c-419a-94d6-477b5aed8e91",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "The Daughter of a Rogue Successor!"
+  },
+  "altTitles": [
+   {
+    "ko": "망나니 후계자의 딸이라니!"
+   }
+  ],
+  "description": {
+   "en": "Reincarnated as the daughter of a disgraceful marquis, she works hard to fix her father's mistakes and earns the respect of her grandfather, only to find herself entangled in a web of obsession."
+  },
+  "links": {
+   "raw": "https://page.kakao.com/content/65908111?tab_type=overview"
+  },
+  "originalLanguage": "ko",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2025-01-14T13:34:20+00:00",
+  "updatedAt": "2025-01-14T22:21:44+00:00"
+ },
+ "relationships": [
+  {
+   "id": "935615da-40e9-43e7-9ba7-579c9f4e9b1a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-14T13:35:24+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Idali",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-14T13:35:24+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "935615da-40e9-43e7-9ba7-579c9f4e9b1a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-14T13:35:24+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Idali",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-14T13:35:24+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4770a541-21f6-4a0c-acab-467fd28cc766",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-14T13:34:25+00:00",
+    "description": "",
+    "fileName": "70b3c695-9d8e-45da-b14f-f3380a0bccb1.jpg",
+    "locale": "ko",
+    "updatedAt": "2025-01-14T13:34:25+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "0f74f2ed-c339-4945-a7ce-708f386c8373",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,26 +3,27 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Green Star"
+   "en": "Midori no Hoshi"
   },
   "altTitles": [
    {
     "ja": "みどりの星"
    },
    {
-    "ja-ro": "Midori no Hoshi"
+    "en": "Green Star"
    }
   ],
   "description": {
-   "en": "Takaichi, a part-timer at the transportation company Himawari Unyu, crash-lands on a planet with two suns and inhabitants resembling frogs, along with employee Mr. Yamamoto. With his high adaptability, Takaichi quickly blends in with the inhabitants. However, when he learns that there are humanoid inhabitants in addition to the frogs, he sets off on a journey to explore the planet! That was the beginning of his misfortune and love!"
+   "en": "Takaichi, a part-timer at the transportation company Himawari Unyu, crash-lands on a planet with two suns and inhabitants resembling frogs, along with employee Mr. Yamamoto. With his high adaptability, Takaichi quickly blends in with the inhabitants. However, when he learns that there are humanoid inhabitants in addition to the frogs, he sets off on a journey to explore the planet!",
+   "ja": "運送会社「ひまわりうんゆ」のバイト、高市は社員の山本さんとともに太陽がふたつありカエルに似た住民の住む惑星に不時着する。高い適応力でさっさっと住民となじむ高市。しかし、カエル達以外に人型の住民もいることを知り、探索の旅へ出る！"
   },
   "links": {
    "al": "93651",
-   "amz": "https://www.amazon.co.jp/gp/product/B074CH1YGX",
+   "amz": "https://www.amazon.co.jp/dp/B074CH1YGX",
    "ap": "midori-no-hoshi",
    "bw": "series/125586",
-   "cdj": "http://www.cdjapan.co.jp/product/NEOBK-1497688",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/214800/",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-1497688",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/214800",
    "kt": "34132",
    "mal": "84811",
    "mu": "93711"
@@ -72,6 +73,18 @@
     }
    },
    {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
     "attributes": {
@@ -85,9 +98,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2019-05-22T05:28:15+00:00",
-  "updatedAt": "2023-11-28T19:28:00+00:00"
+  "updatedAt": "2025-01-09T23:47:37+00:00"
  },
  "relationships": [
   {
@@ -147,16 +160,16 @@
    }
   },
   {
-   "id": "6d2aa064-e0a0-4f0e-bf61-1c143b312b3e",
+   "id": "c8a2da8b-7815-40ea-87f3-9c7734ba4f0a",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:12:46+00:00",
-    "description": "",
-    "fileName": "6d3ad626-b0bf-4c0b-b4d6-aae95c8c9d3a.jpg",
+    "createdAt": "2025-01-09T23:47:03+00:00",
+    "description": "Volume 4 Cover from Amazon",
+    "fileName": "390ba4b8-05b7-48bb-8a3c-a81d560c7484.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:12:46+00:00",
+    "updatedAt": "2025-01-09T23:47:03+00:00",
     "version": 1,
-    "volume": null
+    "volume": "4"
    }
   }
  ]

@@ -1,0 +1,142 @@
+{
+ "id": "cf6713ab-7302-4c31-a15c-fe8039699949",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Zekkyou Kyoushi Eddie"
+  },
+  "altTitles": [
+   {
+    "ja": "絶叫教師エディー"
+   },
+   {
+    "en": "Eddy, the Crying Teacher"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/12597/list",
+   "mu": "1wq2g5v"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "33",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2002,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-10T09:19:50+00:00",
+  "updatedAt": "2025-01-10T09:21:42+00:00"
+ },
+ "relationships": [
+  {
+   "id": "63029f08-472a-4851-aca8-465f71ba5b74",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-09-04T16:56:04+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sueda Yuichiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-09-04T16:56:04+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cadfcc78-fd38-492a-928e-b4a35d74d8c0",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahashi Noboru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "70b8f5de-9fc1-4fc6-bd0d-471085433fd5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-10T09:23:51+00:00",
+    "description": "",
+    "fileName": "228eb2a2-c894-4188-9dce-6b37cb243df2.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-10T09:23:51+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

@@ -17,11 +17,15 @@
    "en": "Reclusive Fushishiba tries to find solace in a research facility on a remote island after struggling to fit in. There he meets a strange but beautiful Futaba… who claims to be an alien?!"
   },
   "links": {
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/396642/",
    "engtl": "https://www.manga.club/book/title/MEDIBANGEN00017/",
-   "mu": "142018"
+   "mu": "142018",
+   "raw": "https://www.cmoa.jp/title/126309/"
   },
   "originalLanguage": "ja",
+  "lastChapter": "6",
   "status": "completed",
+  "year": 2017,
   "contentRating": "safe",
   "tags": [
    {
@@ -62,16 +66,18 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2020-09-16T20:54:38+00:00",
-  "updatedAt": "2022-11-18T18:57:33+00:00"
+  "updatedAt": "2025-01-07T16:44:43+00:00"
  },
  "relationships": [
   {
    "id": "f0b2d3ed-30f4-47a0-a651-7100cd89132a",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n央川みはら"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -82,13 +88,13 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/en/users/3559611",
+    "skeb": "https://skeb.jp/@Rata_to",
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/rata_to",
+    "updatedAt": "2025-01-07T16:27:23+00:00",
+    "version": 2,
+    "website": "https://marshmallow-qa.com/rata_to",
     "weibo": null,
     "youtube": null
    }
@@ -97,7 +103,9 @@
    "id": "f0b2d3ed-30f4-47a0-a651-7100cd89132a",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name** (in native language)\n央川みはら"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -108,28 +116,28 @@
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "pixiv": "https://www.pixiv.net/en/users/3559611",
+    "skeb": "https://skeb.jp/@Rata_to",
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/rata_to",
+    "updatedAt": "2025-01-07T16:27:23+00:00",
+    "version": 2,
+    "website": "https://marshmallow-qa.com/rata_to",
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "d4917810-84ba-4fbe-a4b8-8e96c7463275",
+   "id": "b9fe0445-e008-40e2-b882-3f112b300077",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-28T23:14:14+00:00",
+    "createdAt": "2025-01-07T16:44:42+00:00",
     "description": "",
-    "fileName": "92634783-fe93-4c90-aac2-9f4ec68395bf.jpg",
+    "fileName": "b05100bf-e764-43a8-8bc7-4ccf8ebd1afa.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-28T23:14:14+00:00",
+    "updatedAt": "2025-01-07T16:44:42+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

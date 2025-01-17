@@ -11,10 +11,11 @@
     "en": "Rumic Theater"
    },
    "contentRating": "safe",
-   "score": 0.2683,
+   "score": 0.26827264,
    "languages": [
     "en",
     "pl",
+    "pt-br",
     "bg",
     "zh-hk"
    ]
@@ -25,7 +26,7 @@
     "en": "Sayonara Diamond"
    },
    "contentRating": "safe",
-   "score": 0.2403284,
+   "score": 0.24034674,
    "languages": [
     "en"
    ]
@@ -37,17 +38,6 @@
    },
    "contentRating": "safe",
    "score": 0.2388799,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
-   "title": {
-    "en": "Cloud"
-   },
-   "contentRating": "safe",
-   "score": 0.23567893,
    "languages": [
     "en"
    ]
@@ -65,12 +55,23 @@
    ]
   },
   {
+   "id": "49e0e6a2-d567-4f4b-93c3-cc30faa58529",
+   "title": {
+    "en": "Cloud"
+   },
+   "contentRating": "safe",
+   "score": 0.23567893,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "b94e7e6b-7d46-4361-b1a0-dc52c12e9a56",
    "title": {
     "en": "Kyosuurei"
    },
    "contentRating": "safe",
-   "score": 0.22731446,
+   "score": 0.22732083,
    "languages": [
     "en"
    ]
@@ -81,7 +82,7 @@
     "en": "Tell Me A Lie"
    },
    "contentRating": "safe",
-   "score": 0.2256713,
+   "score": 0.22567673,
    "languages": [
     "en",
     "pt-br"
@@ -93,7 +94,7 @@
     "en": "Greenfingers no Hakoniwa"
    },
    "contentRating": "safe",
-   "score": 0.22485612,
+   "score": 0.2249128,
    "languages": [
     "en",
     "zh-hk"
@@ -105,7 +106,7 @@
     "en": "Iceland"
    },
    "contentRating": "safe",
-   "score": 0.22142187,
+   "score": 0.22142047,
    "languages": [
     "pt-br"
    ]
@@ -116,7 +117,7 @@
     "en": "Blood Alone"
    },
    "contentRating": "safe",
-   "score": 0.21748625,
+   "score": 0.21747117,
    "languages": [
     "en",
     "pl"
@@ -128,7 +129,7 @@
     "en": "Red Garden"
    },
    "contentRating": "safe",
-   "score": 0.21610643,
+   "score": 0.21611035,
    "languages": [
     "en"
    ]
@@ -139,7 +140,7 @@
     "en": "Coffee Mou Ippai"
    },
    "contentRating": "safe",
-   "score": 0.21570474,
+   "score": 0.21571447,
    "languages": [
     "en"
    ]
@@ -150,7 +151,7 @@
     "en": "Fushigi na Shounen"
    },
    "contentRating": "safe",
-   "score": 0.21170242,
+   "score": 0.2117073,
    "languages": [
     "en",
     "pl"
@@ -162,7 +163,7 @@
     "en": "Shadows House (Official Colored)"
    },
    "contentRating": "safe",
-   "score": 0.2082779,
+   "score": 0.2082613,
    "languages": [
     "pt-br",
     "en",
@@ -178,22 +179,6 @@
    ]
   },
   {
-   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
-   "title": {
-    "en": "Iris Zero"
-   },
-   "contentRating": "safe",
-   "score": 0.20261057,
-   "languages": [
-    "pl",
-    "vi",
-    "it",
-    "pt-br",
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
    "title": {
     "en": "B"
@@ -203,7 +188,23 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "786ff721-8fd3-413d-8e50-938d8b06f917",
+   "title": {
+    "en": "Iris Zero"
+   },
+   "contentRating": "safe",
+   "score": 0.19606166,
+   "languages": [
+    "pl",
+    "vi",
+    "it",
+    "pt-br",
+    "en",
+    "es-la"
+   ]
   }
  ],
- "updatedAt": "2025-01-08T01:28:35+00:00"
+ "updatedAt": "2025-01-16T00:47:30+00:00"
 }

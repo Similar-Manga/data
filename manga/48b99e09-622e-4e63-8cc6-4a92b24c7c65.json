@@ -1,0 +1,145 @@
+{
+ "id": "48b99e09-622e-4e63-8cc6-4a92b24c7c65",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Munou Nintei de Bouken Mono Kubi ni Natta kara Jimoto ni Kaette Kekkon Suru ~Kekkon Aite ga Sekai wa Horoboshi Kaketa Ryuo no Musume de Ore no Nouryoku ga Kakusei Shita~"
+  },
+  "altTitles": [
+   {
+    "ja": "無能認定で冒険者クビになったから地元に帰って結婚する~結婚相手が世界を滅ぼしかけた龍王の娘で俺の能力が覚醒した~"
+   }
+  ],
+  "description": {
+   "ja": "スキルが発現する可能性はゼロと認定され、冒険者になる夢を諦めギルドを後にするアレク。故郷に戻ると幼馴染のヒロイン･ナージャに結婚を迫られ、二人で平穏な日々を過ごすことを心に決める。しかし、魔物の群れが村に押し寄せてきて……。"
+  },
+  "links": {
+   "al": "163848",
+   "amz": "https://www.amazon.co.jp/dp/B0C3HCDFFX",
+   "bw": "series/410741",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/757630",
+   "mu": "kby1rhb",
+   "raw": "https://kuragebunch.com/episode/14079602755156435451"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-15T22:22:48+00:00",
+  "updatedAt": "2025-01-15T22:23:21+00:00"
+ },
+ "relationships": [
+  {
+   "id": "675c825d-9337-41e1-96d1-0909b76865a3",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-15T22:16:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hibiki Kyouya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-15T22:16:15+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2a4ef569-75cc-42a0-a5d1-3b258c9958bf",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\n結い\n\n[Alt Twitter](https://twitter.com/GunyugunyuJ1)\n[Blog](https://ameblo.jp/nyu279/)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": "https://yui-hamusu.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "YUI",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/10445461",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/fuwafuwana7",
+    "updatedAt": "2023-06-01T05:09:51+00:00",
+    "version": 3,
+    "website": "https://nyu279.amebaownd.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c090409f-42ac-4aa1-809a-4ac5ab80c98a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-15T22:22:53+00:00",
+    "description": "Volume 4 Cover from BookLive",
+    "fileName": "52be56b1-4e16-413b-a4b9-49f5c83f1eff.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-15T22:22:53+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

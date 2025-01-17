@@ -1,0 +1,129 @@
+{
+ "id": "1bb9ee02-8647-486b-b8ca-0e796c1de440",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Chi wo Hau Sakana: Hideo no Seishun Nikki"
+  },
+  "altTitles": [
+   {
+    "ja": "地を這う魚 ひでおの青春日記"
+   }
+  ],
+  "description": {
+   "en": "An autobiographical youth manga depicting the daily lives of Hideo Azuma and his friends who came to Tokyo in 1968 with the aim of becoming a manga artist."
+  },
+  "links": {
+   "al": "156505",
+   "amz": "https://www.amazon.co.jp/%E5%9C%B0%E3%82%92%E9%80%99%E3%81%86%E9%AD%9A-%E3%81%B2%E3%81%A7%E3%81%8A%E3%81%AE%E9%9D%92%E6%98%A5%E6%97%A5%E8%A8%98-%E5%8D%98%E8%A1%8C%E6%9C%AC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%90%BE%E5%A6%BB-%E3%81%B2%E3%81%A7%E3%81%8A/dp/4048541447",
+   "mu": "jjoskr8",
+   "raw": "https://www.kadokawa.co.jp/product/200702000302/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "status": "completed",
+  "year": 2009,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T18:56:42+00:00",
+  "updatedAt": "2025-01-12T18:59:24+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5e31919d-8f84-4d98-bbb5-67a9a9575eba",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T18:56:45+00:00",
+    "description": "",
+    "fileName": "b31ca0c2-5473-4fdf-ae93-3e39df9fb815.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T18:56:45+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

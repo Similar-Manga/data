@@ -3,11 +3,17 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "My Recently Hired Maid Is Suspicious (Magazine)"
+   "en": "The Maid I Hired Recently Is Mysterious (Magazine)"
   },
   "altTitles": [
    {
+    "ja": "最近雇ったメイドが怪しい"
+   },
+   {
     "ja-ro": "Saikin Yatotta Maid ga Ayashii"
+   },
+   {
+    "en": "My Recently Hired Maid Is Suspicious"
    },
    {
     "es-la": "La criada que contraté recientemente es sospechosa."
@@ -20,24 +26,26 @@
    },
    {
     "ru": "Моя новая горничная ну очень подозрительна"
-   },
-   {
-    "ja": "最近雇ったメイドが怪しい"
    }
   ],
   "description": {
-   "en": "I hired a maid who has something about her I just can’t put my finger on. Sure, she looks great and is a fabulous cook, but something about her’s not quite right. What have I gotten myself into!?\n\n**Magazine version of [this title](https://mangadex.org/title/d73077f0-2355-4314-a907-9dddf04c4d4b).**",
+   "en": "I hired a maid who has something about her I just can’t put my finger on. Sure, she looks great and is a fabulous cook, but something about her’s not quite right. What have I gotten myself into!?\n\n**Because of the significant differences, the volume version of this series was given [its own page](https://mangadex.org/title/d73077f0-2355-4314-a907-9dddf04c4d4b).**",
    "pt-br": "Eu contratei uma empregada, mas tem algo suspeito sobre ela. Claro, ela é linda e cozinha fabulosamente, mas tem algo sobre ela que não parece certo. O que será que aquela mulher está tramando? ...Será que é amor?"
   },
   "links": {
+   "al": "114917",
+   "amz": "https://www.amazon.co.jp/s?rh=p_27:ガンガンJOKER編集部\u0026s=date-desc-rank",
+   "ap": "the-maid-i-hired-recently-is-mysterious",
+   "bw": "series/117902",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/412188/",
    "engtl": "https://global.manga-up.com/manga/192",
    "kt": "saikin-yatotta-maid-ga-ayashii-serialization",
    "mal": "123450",
-   "mu": "161878"
+   "mu": "z47ijpk"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2020,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
@@ -92,24 +100,12 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Adaptation"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 18,
   "createdAt": "2021-11-21T22:07:13+00:00",
-  "updatedAt": "2023-11-22T23:38:50+00:00"
+  "updatedAt": "2025-01-13T12:32:50+00:00"
  },
  "relationships": [
   {
@@ -189,7 +185,7 @@
   {
    "id": "d73077f0-2355-4314-a907-9dddf04c4d4b",
    "type": "manga",
-   "related": "alternate_story"
+   "related": "alternate_version"
   },
   {
    "id": "f8cc4f8a-e596-4618-ab05-ef6572980bbf",

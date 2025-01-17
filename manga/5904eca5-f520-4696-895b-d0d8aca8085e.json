@@ -1,0 +1,117 @@
+{
+ "id": "5904eca5-f520-4696-895b-d0d8aca8085e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Grand Prix wa Watashi de Sukedo nani ka? ~Jiko Koutei Monster no Misukon Musou~"
+  },
+  "altTitles": [
+   {
+    "ja": "グランプリは私ですけど何か?～自己肯定モンスターのミスコン無双～"
+   },
+   {
+    "ja-ro": "Grand Prix wa Watashi de Sukedo nani ka? ~Jiko Koutei Monster no Misukon Musou~"
+   }
+  ],
+  "description": {
+   "en": "The “Miss Campus Contest,” the centerpiece event of the university festival, still attracts a lot of attention even in this age of lookism. The students compete with various dreams in mind: to become a female announcer, to become famous, to change the Miss Campus Contest for the betterment of all women, etc. However, there are various desires swirling around the beauty pageant that seek to take advantage of their dreams - the name of this woman is “MEME”! She has an overwhelming sense of self-esteem, and she will destroy the beauty pageant, and Japan!"
+  },
+  "links": {
+   "mu": "7hzoadk"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2025,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-11T12:16:25+00:00",
+  "updatedAt": "2025-01-11T12:23:00+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6010a895-92ba-4eaf-964f-2b2ff57c1c98",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-10-04T20:51:08+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "egumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-04T20:51:08+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "48e9493f-fbcb-46de-b672-3d35770fcded",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-11T12:14:31+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "TOUSHI Tsukasa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-11T12:14:31+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7906f554-4f99-456d-90a4-b5b070c500b4",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-11T12:16:35+00:00",
+    "description": "",
+    "fileName": "95c29990-22ce-44ae-9971-03aa9fd0d9d3.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-11T12:16:35+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "132c7600-c1bd-4263-bcaf-c0e0c1a644ab",
+   "type": "creator"
+  }
+ ]
+}

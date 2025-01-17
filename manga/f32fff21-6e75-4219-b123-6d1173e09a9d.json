@@ -1,0 +1,133 @@
+{
+ "id": "f32fff21-6e75-4219-b123-6d1173e09a9d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Gareki-machi no Ruu to Meeko"
+  },
+  "altTitles": [
+   {
+    "ja": "ガレキ街のルウとメエ子"
+   },
+   {
+    "en": "Ruu \u0026 Meeko Of Rubble Town"
+   }
+  ],
+  "description": {
+   "en": "In order to earn money to pay for tickets to see their fave, two girls try some shady part-time work…!\n\nIn the near future, Japan is divided between the wealthy who live in the sky city and the poor who live on the ground. Ruu and Meeko are sharing a room in the old town on the ground, but their personalities are polar opposites…\n\nThe curtain opens on a near-future sisterhood!"
+  },
+  "links": {
+   "raw": "https://flowercomics.jp/title/2072"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2024-12-16T09:14:32+00:00",
+  "updatedAt": "2025-01-10T07:54:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "db2082fd-d20f-4916-8941-9c6c0126543c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 緒川みのる"
+    },
+    "booth": null,
+    "createdAt": "2024-04-23T10:09:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ogawa Minoru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-06T20:21:33+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "db2082fd-d20f-4916-8941-9c6c0126543c",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 緒川みのる"
+    },
+    "booth": null,
+    "createdAt": "2024-04-23T10:09:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ogawa Minoru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-06T20:21:33+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5225b66e-7f7e-4518-94ea-74295176af7e",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-10T07:53:43+00:00",
+    "description": "Chapter 1 color page\r\nhttps://x.com/flowers_edit/status/1872447320492757140",
+    "fileName": "58b8a5bd-4ca2-4c2b-a490-1e1b7bcc89d1.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-10T07:53:43+00:00",
+    "version": 1,
+    "volume": "0.1"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

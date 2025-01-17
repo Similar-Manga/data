@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Shosen Hitogoto desu kara ~Toaru Bengoshi no Honne no Shigoto~"
+   "en": "Shosen Hitogoto Desu kara ~Toaru Bengoshi no Honne no Shigoto~"
   },
   "altTitles": [
    {
@@ -11,7 +11,7 @@
    }
   ],
   "description": {
-   "en": "Have you ever been involved in an online flame war or a social media attack? A blogger housewife who became the target of slander and libel after being caught in the crossfire of unprovoked rumors went to a free consultation with a lawyer. The lawyer she met seems to be good at handling cyber crimes, but he's a bit... unusual. Everyone's a victim or a victimizer in today's digital age!",
+   "en": "Have you ever been involved in an online flame war or a social media attack? A blogger housewife who became the target of slander and libel after being caught in the crossfire of unprovoked rumors went to a free consultation with a lawyer. The lawyer she met seems to be good at handling cyber crimes, but he's… considerably eccentric. Everyone's a victim or a victimizer in today's digital age!\n___\n**Supervisor:** [Shimizu Youhei (Law Firm ALCIEN)](https://mangadex.org/author/e03cbae3-b508-4c60-999c-69f4daacf47c)",
    "ja": "ネット炎上・SNSトラブルに遭ったことはありますか？いわれのないガセネタで炎上して誹謗中傷の的になってしまったブロガー主婦が弁護士の無料相談所へ。出会った弁護士はネット案件に強いみたいだけど、だいぶ変わり者…？誰もが今日にも被害者に、そして加害者になる、現代の闇！"
   },
   "links": {
@@ -20,7 +20,7 @@
    "bw": "series/311647",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/648656/",
    "mu": "7f962vt",
-   "raw": "https://www.cmoa.jp/title/216891/"
+   "raw": "https://younganimal.com/series/a8c1ab1ce0788"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "josei",
@@ -28,6 +28,30 @@
   "year": 2021,
   "contentRating": "safe",
   "tags": [
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
@@ -39,19 +63,33 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 8,
+  "version": 10,
   "createdAt": "2023-05-17T22:03:50+00:00",
-  "updatedAt": "2024-12-13T17:25:17+00:00"
+  "updatedAt": "2025-01-15T09:18:38+00:00"
  },
  "relationships": [
   {
    "id": "a9c4de89-0d75-4d49-87a9-7bc01ff4895c",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 左藤真通\n\n**Additional Sites:**\n- [note](https://note.com/reu_reu_)"
+    },
     "booth": null,
     "createdAt": "2022-07-09T00:33:05+00:00",
     "fanBox": null,
@@ -65,9 +103,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-09-17T06:56:23+00:00",
-    "version": 2,
+    "twitter": "https://twitter.com/reu_reu_",
+    "updatedAt": "2025-01-15T09:04:36+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -78,7 +116,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "Alt name: 富士屋カツヒト "
+     "en": "**Name In Native Language:** 富士屋カツヒト"
     },
     "booth": null,
     "createdAt": "2023-09-17T06:03:45+00:00",
@@ -93,9 +131,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-03-12T06:31:03+00:00",
-    "version": 3,
+    "twitter": "https://twitter.com/huziyakatuhito",
+    "updatedAt": "2025-01-15T09:17:30+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

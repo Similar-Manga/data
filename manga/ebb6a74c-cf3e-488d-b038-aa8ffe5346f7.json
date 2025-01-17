@@ -3,37 +3,44 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Sabishigariya no muboubi nyanko"
+   "en": "Sabishigariya no Muboubi Nyanko"
   },
   "altTitles": [
-   {
-    "en": "Defenseless kitty who gets lonely very easily."
-   },
    {
     "ja": "寂しがり屋のむぼうびニャンコ"
    },
    {
-    "uk": "Беззахисне кошеня, котре дуже легко стає самотньою"
+    "en": "Defenseless Kitty Who Gets Lonely Very Easily"
    },
    {
     "ru": "Беззащитная кошечка, которая очень легко становится одинокой"
+   },
+   {
+    "uk": "Беззахисне кошеня, котре дуже легко стає самотньою"
    }
   ],
   "description": {
-   "en": "Manga about defenseless kitty who gets lonely very easily.  \n  \n\n\n---",
+   "en": "Manga about defenseless kitty who gets lonely very easily.",
+   "ja": "突然、擬人化してしまったネコの女の子の、日常マンガです。",
    "pt": "Mangá sobre uma gatinha que fica solitária com muita facilidade.",
    "ru": "Манга про беззащитную кошечку, которая очень легко становится одинокой",
    "uk": "Манґа про беззахисне кошеня, которе дуже швидко стає самотньою."
   },
   "links": {
    "al": "123203",
+   "amz": "https://www.amazon.co.jp/dp/B08NSRWPKC",
+   "ap": "sabishigariya-no-muboubi-nyanko",
+   "bw": "series/247642",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/586895",
    "kt": "56612",
+   "mal": "126582",
    "mu": "166249",
    "raw": "https://rookie.shonenjump.com/series/X1vJnKYdk-o"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
   "status": "ongoing",
+  "year": 2020,
   "contentRating": "suggestive",
   "availableTranslatedLanguages": [
    "pt-br",
@@ -93,9 +100,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2020-06-26T02:42:44+00:00",
-  "updatedAt": "2023-07-27T18:40:19+00:00"
+  "updatedAt": "2025-01-11T00:50:09+00:00"
  },
  "relationships": [
   {
@@ -155,16 +162,16 @@
    }
   },
   {
-   "id": "085b04b6-7bd0-4fec-ba72-2f6374c4f8d7",
+   "id": "d907dc25-90e8-4678-9d35-27ec6982df07",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T18:00:43+00:00",
-    "description": "",
-    "fileName": "3a16a4e7-5ba3-464b-b267-c91f0d616439.jpg",
+    "createdAt": "2025-01-11T00:50:09+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "cf747086-a2cf-45a8-b437-c4801e0b7194.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T18:00:43+00:00",
+    "updatedAt": "2025-01-11T00:50:09+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   }
  ]

@@ -11,11 +11,15 @@
    },
    {
     "ja-ro": "Ichininmae - Saru ga Oshieru Golf Manner"
+   },
+   {
+    "ja": "石井さだよしゴルフ漫画シリーズ 一人前 -サルが教えるゴルフマナー"
    }
   ],
   "description": {},
   "links": {
-   "amz": "https://www.amazon.co.jp/-/en/dp/B0C45QBRJR?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1712245739\u0026sr=1-67"
+   "amz": "https://www.amazon.co.jp/-/en/dp/B0C45QBRJR?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1712245739\u0026sr=1-67",
+   "bw": "series/239836/list"
   },
   "originalLanguage": "ja",
   "lastVolume": "2",
@@ -79,9 +83,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2024-03-22T16:24:29+00:00",
-  "updatedAt": "2024-04-04T15:50:09+00:00"
+  "updatedAt": "2025-01-10T08:45:40+00:00"
  },
  "relationships": [
   {
@@ -137,17 +141,27 @@
    }
   },
   {
-   "id": "85855e3d-61ec-4817-8a95-e594df482474",
+   "id": "3fb8036f-7fe7-4c81-a8f4-e9dfe0fec157",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-04-04T15:50:09+00:00",
+    "createdAt": "2025-01-10T08:50:24+00:00",
     "description": "",
-    "fileName": "dd86f965-a240-4979-af94-96d3d03abf80.jpg",
+    "fileName": "99928266-a9f0-4588-ad00-55b5107138d3.jpg",
     "locale": "ja",
-    "updatedAt": "2024-04-04T15:50:09+00:00",
+    "updatedAt": "2025-01-10T08:50:24+00:00",
     "version": 1,
     "volume": "2"
    }
+  },
+  {
+   "id": "0dece919-e665-4428-ada8-60b0dba52eac",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "5e294abe-7179-4959-9877-f64e3d473681",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "1025c6e5-1efa-400b-a111-3288582369e6",

@@ -1,0 +1,131 @@
+{
+ "id": "0a22bb85-4589-4a53-8842-fe077f0aac4b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Oyabaka Nisshi"
+  },
+  "altTitles": [
+   {
+    "ja": "親バカ日誌"
+   }
+  ],
+  "description": {
+   "en": "The doting father Maya Mineo shares stories from his daily life with his two children. The oldest Marie is a ballerina, a shonen manga fan, but has poor kanji knowledge. His youngest, Mao, is a little rascal hooked on video games who might be even better at coming up with gags than his father."
+  },
+  "links": {
+   "al": "164649",
+   "amz": "https://www.amazon.co.jp/-/en/%E9%AD%94%E5%A4%9C%E5%B3%B0%E5%A4%AE-ebook/dp/B0779RY622/ref=sr_1_1?crid=2L3AZMNWL9R7H\u0026dib=eyJ2IjoiMSJ9.Y2Y5aDDUbmQERctfDEkNRc-F5DOt6elEqIery2jgHvgjd8jsVCKPwpupbY3kwSIk5vwVze4-5S13uQIA3BZF_A.NWRd1rpmzFmCAvO7RsSRANBSxHU9DdwtDxArRwUUO9w\u0026dib_tag=se\u0026keywords=%E8%A6%AA%E3%83%90%E3%82%AB%E6%97%A5%E8%AA%8C\u0026qid=1736715323\u0026s=digital-text\u0026sprefix=%E8%A6%AA%E3%83%90%E3%82%AB%E6%97%A5%E8%AA%8C%2Cdigital-text%2C541\u0026sr=1-1",
+   "bw": "de928594a8-3160-4178-8eff-1d4e6d46cf7b",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/430056/",
+   "mu": "easv1di"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 2001,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T20:57:28+00:00",
+  "updatedAt": "2025-01-12T21:07:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ccf79188-3e97-41ca-aa0e-b30d9f8373f3",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T20:57:30+00:00",
+    "description": "",
+    "fileName": "849d25c7-3e67-46c1-a346-b335209c55d9.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T20:57:30+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

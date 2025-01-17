@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Super Robot Wars α THE STORY: The Day the Dragon Died+ Getter Robo Zan!!"
+   "en": "Super Robot Wars α THE STORY: The Day the Dragon Died + Getter Robo Zan!!"
   },
   "altTitles": [
    {
     "ja": "スーパーロボット大戦 一般コミック/スーパーロボット大戦α THE STORY 竜が滅ぶ日."
+   },
+   {
+    "en": "Super Robots Wars Alpha The Story: The Day the Dragon Died"
    }
   ],
   "description": {
@@ -22,7 +25,7 @@
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2001,
-  "contentRating": "suggestive",
+  "contentRating": "safe",
   "availableTranslatedLanguages": [
    "es-la"
   ],
@@ -101,6 +104,18 @@
     }
    },
    {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -114,9 +129,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2024-07-25T05:30:45+00:00",
-  "updatedAt": "2024-12-22T07:06:51+00:00"
+  "updatedAt": "2025-01-11T19:30:58+00:00"
  },
  "relationships": [
   {
@@ -184,7 +199,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Hasegawa Yuuichi",
+    "name": "Hasegawa Yuichi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -192,8 +207,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-11T19:21:24+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

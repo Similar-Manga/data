@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "THE POOL"
+   "en": "The POOL"
   },
   "altTitles": [
    {
@@ -13,10 +13,13 @@
     "ja-ro": "THE POOL"
    },
    {
-    "ne": "द पूल"
+    "en": "THE POOL"
    },
    {
     "ru": "Бассейн"
+   },
+   {
+    "ne": "द पूल"
    }
   ],
   "description": {
@@ -24,6 +27,8 @@
   },
   "links": {
    "al": "174578",
+   "ap": "the-pool",
+   "engtl": "https://x.com/KodanshaManga/status/1818739089132470536",
    "kt": "the-pool",
    "mal": "167051",
    "mu": "2ffv5w0",
@@ -41,7 +46,7 @@
    "es-la",
    "id"
   ],
-  "latestUploadedChapter": "0b5fd3e0-2f74-4266-a44e-fc43fe862b9a",
+  "latestUploadedChapter": "4fbb7ff1-7461-40a2-ae0b-a4c3c4e5e084",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -93,9 +98,9 @@
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 18,
   "createdAt": "2023-12-26T22:35:50+00:00",
-  "updatedAt": "2024-07-21T23:24:26+00:00"
+  "updatedAt": "2025-01-13T08:48:58+00:00"
  },
  "relationships": [
   {
@@ -157,16 +162,16 @@
    }
   },
   {
-   "id": "264e83ca-7950-4ef9-8ae0-3a8fb65af3bf",
+   "id": "004b6ca6-fb21-47c3-aad3-25ab5f4544bd",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-02-02T11:19:30+00:00",
+    "createdAt": "2024-02-06T22:26:17+00:00",
     "description": "",
-    "fileName": "83d7a4c7-8673-432c-a8db-2000d50fd0dd.jpg",
+    "fileName": "ba24d767-cb75-4fe8-b3de-f73847764734.jpg",
     "locale": "ja",
-    "updatedAt": "2024-02-02T11:19:30+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2025-01-13T08:47:32+00:00",
+    "version": 2,
+    "volume": "0.1"
    }
   },
   {

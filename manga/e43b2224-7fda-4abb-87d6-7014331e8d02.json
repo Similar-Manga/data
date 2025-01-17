@@ -1,0 +1,139 @@
+{
+ "id": "e43b2224-7fda-4abb-87d6-7014331e8d02",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "V. Madonna"
+  },
+  "altTitles": [
+   {
+    "ja": "V.マドンナ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "165378"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 1985,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T22:05:02+00:00",
+  "updatedAt": "2025-01-12T22:17:54+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1700f270-4fd1-440d-87df-e12b7cdc4dd8",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nozawa Hisashi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c35fa1ca-b36c-4d28-a335-fe991acd0724",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T22:05:04+00:00",
+    "description": "",
+    "fileName": "e922bd92-118b-4862-9f43-42e9821252c3.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T22:05:04+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

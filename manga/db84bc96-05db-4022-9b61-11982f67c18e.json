@@ -1,0 +1,153 @@
+{
+ "id": "db84bc96-05db-4022-9b61-11982f67c18e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Anne Shirley"
+  },
+  "altTitles": [
+   {
+    "ja": "アン・シャーリー"
+   },
+   {
+    "ja-ro": "Anne Shirley"
+   }
+  ],
+  "description": {
+   "en": "Anne of Green Gables depicts Anne's adolescence when she fell in love and learned about love.\nAnne is an orphaned child taken in by Marilla and Mashou in Avonleigh on Prince Edward Island, a beautiful small island in Canada, who has an overwhelming imagination and a beautiful heart that compensates for her difficult circumstances until the age of 11!\nThe way she faces any challenge gradually brings about change in the hearts of those around her.\nThe beauty of nature, the small joys of everyday life, and the romance that thrills the heart..."
+  },
+  "links": {
+   "mu": "q6ixcn9"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2025,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-11T12:22:22+00:00",
+  "updatedAt": "2025-01-13T14:42:30+00:00"
+ },
+ "relationships": [
+  {
+   "id": "494bfe5d-a9c3-46e6-95e5-92df562b9d10",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Lucy Maud Montgomery",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b9c6939a-4d59-48a3-b21b-7dc54a815d51",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Hoshikubo Akane",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "20dafb0e-d2f7-466c-80c6-40a7cace4034",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-11T12:22:24+00:00",
+    "description": "",
+    "fileName": "ad568db1-eea4-4f26-8548-ecc9de9997c5.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-11T12:22:24+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "132c7600-c1bd-4263-bcaf-c0e0c1a644ab",
+   "type": "creator"
+  }
+ ]
+}

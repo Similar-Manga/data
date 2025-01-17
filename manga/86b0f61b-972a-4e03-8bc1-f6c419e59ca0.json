@@ -1,0 +1,132 @@
+{
+ "id": "86b0f61b-972a-4e03-8bc1-f6c419e59ca0",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Haikei Yuusha-sama. Youjo ni Tensei shita no de, Mou Kuni ni wa Modoremasen! ~Densetsu no Majo wa Nidome no Jinsei Demo Saikyou deshita~"
+  },
+  "altTitles": [
+   {
+    "ja": "拝啓勇者様。幼女に転生したので、もう国には戻れません！ ～伝説の魔女は二度目の人生でも最強でした～ コミック版"
+   }
+  ],
+  "description": {
+   "ja": "魔王軍から勇者ケビンを守るために自ら犠牲となった宮廷魔術師アニエス。死の間際、自身に転生魔法をかけて死の回避に成功するが、転生先はなんと田舎で暮らす3歳の幼女リタだった！！前世と変わらぬ知識と魔力を引き継いで転生した彼女は様々な波乱を巻き起こしていき…？転生したアニエスと勇者ケビンが再び出会う日はやってくるのか――！？"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0CW19DP8Q",
+   "ap": "haikei-yuusha-sama-youjo-ni-tensei-shita-no-de-mou-kuni-ni-wa-modoremasen-densetsu-no-majo-wa-nidome-no-jinsei-demo-saikyou-deshita",
+   "bw": "series/445610",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/796130",
+   "mu": "0ei3hja"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "14",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2023,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-14T12:24:10+00:00",
+  "updatedAt": "2025-01-14T12:24:41+00:00"
+ },
+ "relationships": [
+  {
+   "id": "3d121d44-743b-498b-9e7d-287bdfac0848",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-14T12:22:15+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kuroi Chikuwa",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-14T12:22:15+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ca5af0e2-c6dd-4db8-93a3-8a5725ec7a50",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanbayashi Ichitora",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ced30641-b359-4c89-add2-9648f26bb441",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-14T12:24:22+00:00",
+    "description": "Volume 2 Cover from BookLive",
+    "fileName": "2d49e047-f35a-484f-bb32-4954a2fd06e0.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-14T12:24:22+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

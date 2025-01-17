@@ -1,0 +1,142 @@
+{
+ "id": "025ce6dd-9ec0-4cc0-b9b3-9c610736d587",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Odekake-saki wa Isekai desu ka? ~Karada wa 5-sai Zunou wa 16-sai no \"Nanchatte Youjo\", Bikemen-tachi ni Aisarechuu!?~"
+  },
+  "altTitles": [
+   {
+    "ja": "お出かけ先は異世界ですか？～身体は５歳・頭脳は16歳の“なんちゃって幼女”、美ケメン達に愛されちゅう!?～"
+   }
+  ],
+  "description": {
+   "ja": "16歳の女子高生・水元桃子は、ある日突然、軍神召喚に巻き込まれ異世界転移してしまう。「うわあああん」気が付くと美形のお兄さん達に囲まれていて…その姿は５歳児に──！？身体は５歳、頭脳は16歳のなんちゃって幼女となってしまった桃子だったが、“モモ”として異世界暮らしを決意する。"
+  },
+  "links": {
+   "al": "186131",
+   "amz": "https://www.amazon.co.jp/dp/B0CW1838R6",
+   "bw": "series/506589",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/873234",
+   "mu": "x2q5mhv"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-14T13:19:30+00:00",
+  "updatedAt": "2025-01-14T13:20:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "2b05c339-23db-432a-bcf6-086021b68613",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-14T13:18:03+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Amakawa Sichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-14T13:18:03+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "42b4d91d-69d9-4761-8ad0-c6c6854f4d03",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-11-19T03:36:49+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Nanao Tatsumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-11-19T03:36:49+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7c233ced-3528-4310-9ded-bf4af7f8a119",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-14T13:19:35+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "628e59bd-1ffd-435f-9439-891c7f683a4c.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-14T13:19:35+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

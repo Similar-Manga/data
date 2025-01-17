@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hibana"
+   "en": "Sparks"
   },
   "altTitles": [
    {
@@ -13,11 +13,11 @@
     "ja": "火花"
    },
    {
-    "en": "Spark"
+    "ja-ro": "Hibana"
    }
   ],
   "description": {
-   "en": "The story is told from a third person perspective. About her boyfriend and a transfer boy."
+   "en": "High school girl, Tomori, is dating an unstable boy named Inukai who is relentlessly violent toward Misato, a new transfer student. Refusing to listen to his friends or Tomori's pleas to stop, Inukai's obsession steadily escalates. Is this from hatred, or for some other reason?\n\nMeeting, drifting apart, and inevitably drawn to each other again... Sparks fly when they cross."
   },
   "links": {
    "amz": "https://www.amazon.co.jp/dp/4799769537/",
@@ -33,9 +33,10 @@
   "year": 2021,
   "contentRating": "erotica",
   "availableTranslatedLanguages": [
+   "en",
    "vi"
   ],
-  "latestUploadedChapter": "4b092797-c162-4318-a493-7b4cf49111cd",
+  "latestUploadedChapter": "0992677d-6feb-4c87-8975-38328a6c7a10",
   "tags": [
    {
     "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
@@ -46,6 +47,18 @@
      },
      "description": {},
      "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -99,9 +112,9 @@
    }
   ],
   "state": "published",
-  "version": 10,
+  "version": 13,
   "createdAt": "2022-07-29T06:33:20+00:00",
-  "updatedAt": "2025-01-06T03:49:20+00:00"
+  "updatedAt": "2025-01-14T02:26:28+00:00"
  },
  "relationships": [
   {

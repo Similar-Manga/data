@@ -3,24 +3,24 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Great Pretender"
+   "en": "GREAT PRETENDER"
   },
   "altTitles": [
    {
-    "ja": "グレートプリテンダー"
+    "ja": "GREAT PRETENDER"
    },
    {
-    "ja-ro": "GREAT PRETENDER"
+    "ja": "グレートプリテンダー"
    }
   ],
   "description": {
-   "en": "Makoto Edamura is supposedly Japan's greatest swindler. \nHe and his partner Kudo try to trick a Frenchman in Asakusa but unexpectedly get tricked instead. \nThe guy they tried to swindle turns out to be Laurent Thierry- a much higher-level 'confidence man'. \nEdamura is yet to find out what fate awaits him, after having engaged in the Frenchman's dirty jobs…!"
+   "en": "Makoto Edamura is supposedly Japan's greatest swindler. \nHe and his partner Kudo try to trick a Frenchman in Asakusa but unexpectedly get tricked instead. \nThe guy they tried to swindle turns out to be Laurent Thierry, a much higher-level ‘confidence man’. \nEdamura is yet to find out what fate awaits him, after having engaged in the Frenchman's dirty jobs…!\n\n**Cancellation Note:** Due to artist Daichi Marui's poor health, the series was put on hiatus and then eventually cancelled on December 24, 2020. ([MAGCOMI](https://magcomi.com/article/entry/gp_release))\n___\n**Original Conceptor:** Animation ‘GREAT PRETENDER’\n**Director:** [Kaburagi Hiro](https://mangadex.org/author/e5cc8ed3-8fab-40f4-9fc4-083fea1f06c8)\n**Character Designer:** [Sadamoto Yoshiyuki](https://mangadex.org/author/27fe4aca-a3ee-4a4b-8a5a-15c2590c0818)"
   },
   "links": {
    "al": "118960",
-   "amz": "https://www.amazon.co.jp/gp/product/4800009936",
+   "amz": "https://www.amazon.co.jp/dp/4800009936",
    "ap": "great-pretender",
-   "bw": "series/254958/list",
+   "bw": "de1a0fa818-89a8-4a7d-8264-1293433b3a77",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2499689",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/595390/",
    "engtl": "https://sevenseasentertainment.com/series/great-pretender/",
@@ -29,8 +29,10 @@
    "raw": "https://magcomi.com/episode/13933686331653199963"
   },
   "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "3",
   "publicationDemographic": "seinen",
-  "status": "hiatus",
+  "status": "cancelled",
   "year": 2020,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -137,58 +139,34 @@
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 11,
   "createdAt": "2020-08-14T10:49:57+00:00",
-  "updatedAt": "2023-06-11T04:32:22+00:00"
+  "updatedAt": "2025-01-15T02:14:36+00:00"
  },
  "relationships": [
   {
    "id": "6a0b3ffe-44a0-4a6f-ba01-2243fd3ff45b",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 古沢良太\n\n**Additional Sites:**\n- [Facebook](https://www.facebook.com/kosawaryota/)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Ryouta Furusawa",
+    "name": "Kosawa Ryouta",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
-    "weibo": null,
-    "youtube": null
-   }
-  },
-  {
-   "id": "e5cc8ed3-8fab-40f4-9fc4-083fea1f06c8",
-   "type": "author",
-   "attributes": {
-    "biography": {},
-    "booth": null,
-    "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Hiro Kaburagi",
-    "namicomi": null,
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/kosawaryota",
+    "updatedAt": "2025-01-15T02:03:14+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -198,23 +176,25 @@
    "id": "646f37a5-b594-4734-86f0-5e12657cfd8c",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 円井大地"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Daichi Marui",
+    "name": "Marui Daichi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/maruidaichi",
+    "updatedAt": "2025-01-14T08:03:10+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

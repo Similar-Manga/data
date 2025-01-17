@@ -6,9 +6,9 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "94258494-f2c5-40ea-883c-d4dfd7c3e14e",
+   "id": "177b99e6-c9ea-47fc-b9b1-0f3eb5d13eb3",
    "title": {
-    "en": "Shigoto no Ato wa Dakishimete"
+    "en": "Snap decision"
    },
    "contentRating": "safe",
    "score": 0.28350797,
@@ -20,6 +20,40 @@
    "id": "f8d1ba3a-7107-4207-a71a-312a6fb1065f",
    "title": {
     "en": "Shinchou-sa Kanojo"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "94258494-f2c5-40ea-883c-d4dfd7c3e14e",
+   "title": {
+    "en": "Shigoto no Ato wa Dakishimete"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "cee92894-d203-4f61-a6ce-e74ca7408837",
+   "title": {
+    "en": "Story of a Certain Yuri Couple"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en",
+    "id"
+   ]
+  },
+  {
+   "id": "00e911ff-0443-4c2d-bb4f-c89740df4a2d",
+   "title": {
+    "en": "Watashi to Kanojo no Kawaii Koi no Hajime Kata"
    },
    "contentRating": "safe",
    "score": 0.28350797,
@@ -41,46 +75,12 @@
    ]
   },
   {
-   "id": "cee92894-d203-4f61-a6ce-e74ca7408837",
-   "title": {
-    "en": "Story of a Certain Yuri Couple"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en",
-    "id"
-   ]
-  },
-  {
-   "id": "177b99e6-c9ea-47fc-b9b1-0f3eb5d13eb3",
-   "title": {
-    "en": "Snap decision"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "00e911ff-0443-4c2d-bb4f-c89740df4a2d",
-   "title": {
-    "en": "Watashi to Kanojo no Kawaii Koi no Hajime Kata"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "b09e79d6-d149-4daf-9c05-5f33acc79c8e",
    "title": {
     "en": "Stay as Who You Are"
    },
    "contentRating": "safe",
-   "score": 0.25468266,
+   "score": 0.25468302,
    "languages": [
     "en",
     "id"
@@ -92,7 +92,7 @@
     "en": "Sentimental Beach Side"
    },
    "contentRating": "safe",
-   "score": 0.25341937,
+   "score": 0.25342044,
    "languages": [
     "id",
     "en"
@@ -104,7 +104,7 @@
     "en": "Edible Flowers"
    },
    "contentRating": "safe",
-   "score": 0.25012335,
+   "score": 0.25013003,
    "languages": [
     "it",
     "en"
@@ -116,7 +116,7 @@
     "en": "Doushitara Osananajimi ♀️ no Kanojo ni Naremasu Ka!?"
    },
    "contentRating": "safe",
-   "score": 0.24771407,
+   "score": 0.24771729,
    "languages": [
     "en",
     "id"
@@ -128,7 +128,7 @@
     "en": "Mabataki Dekinai"
    },
    "contentRating": "safe",
-   "score": 0.24710004,
+   "score": 0.24710938,
    "languages": [
     "en"
    ]
@@ -139,7 +139,7 @@
     "en": "The Star Next Door"
    },
    "contentRating": "safe",
-   "score": 0.24486378,
+   "score": 0.24486326,
    "languages": [
     "en"
    ]
@@ -150,7 +150,7 @@
     "en": "The Older Girl Living in Her Neighborhood"
    },
    "contentRating": "safe",
-   "score": 0.23996028,
+   "score": 0.23996179,
    "languages": [
     "en",
     "id"
@@ -162,7 +162,7 @@
     "en": "Shakaijin Yuri Anthology"
    },
    "contentRating": "safe",
-   "score": 0.23874618,
+   "score": 0.23874773,
    "languages": [
     "ko",
     "id",
@@ -175,7 +175,7 @@
     "en": "Tensei Shitara Akari dake ga Slime Datta Ken"
    },
    "contentRating": "safe",
-   "score": 0.23772638,
+   "score": 0.2376477,
    "languages": [
     "es-la",
     "en",
@@ -184,16 +184,18 @@
    ]
   },
   {
-   "id": "e4a69f69-2593-40c5-9c2f-a9a1c32559d8",
+   "id": "25f67770-7009-4a3e-9f55-2ea38e86e082",
    "title": {
-    "en": "Kira Kira no Natsu"
+    "en": "Yuri Yuri Panic ~Toutosugiru Jian ga Hasseishiteimasu!~"
    },
    "contentRating": "safe",
-   "score": 0.23564368,
+   "score": 0.23653889,
    "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "ru"
    ]
   }
  ],
- "updatedAt": "2025-01-08T00:54:48+00:00"
+ "updatedAt": "2025-01-16T00:10:50+00:00"
 }

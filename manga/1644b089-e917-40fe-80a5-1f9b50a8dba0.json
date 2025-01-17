@@ -1,0 +1,137 @@
+{
+ "id": "1644b089-e917-40fe-80a5-1f9b50a8dba0",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tobe Tobe Donkey"
+  },
+  "altTitles": [
+   {
+    "ja": "翔べ翔べドンキー"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "164796",
+   "mu": "y7smucy"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 1980,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T19:42:48+00:00",
+  "updatedAt": "2025-01-12T20:02:10+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "11058af5-8c95-4d07-85a5-8d2afb2497c1",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T19:42:50+00:00",
+    "description": "",
+    "fileName": "57a90b72-920b-4043-8370-10ffff7f7028.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T19:42:50+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

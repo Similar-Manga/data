@@ -1,0 +1,129 @@
+{
+ "id": "c754c0ff-e419-47e5-b732-f94bd96149b9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sau On'na no Tashinami ~Datsusara OL no Sentou Renovation~"
+  },
+  "altTitles": [
+   {
+    "ja": "サウ女のたしなみ～脱サラOLの銭湯リノベーション～"
+   },
+   {
+    "ja-ro": "Sau On'na no Tashinami ~Datsusara OL no Sentou Renovation~"
+   }
+  ],
+  "description": {
+   "en": "Sakura Kawazu is an office worker who is neither enthusiastic nor challenging, but does not have the courage to change jobs.\nOne day after working overtime, she happens to enter a public bathhouse sauna and meets a cool co-worker, Yoshino Somei.\nThey had never talked much, but Somei, who wanted to make a sauna friend, taught Kawazu how to enjoy the sauna.\nKawazu and Somei were so fascinated by the sauna that they began to visit saunas together.\nThen Kawazu's grandmother, who runs a bathhouse by herself, collapses...?"
+  },
+  "links": {
+   "mu": "j6cfj6s"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2025,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-11T12:12:33+00:00",
+  "updatedAt": "2025-01-11T12:23:02+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f5503ed4-39d3-4d49-bcbc-bf0b05ae12ea",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-11T12:12:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kaoruko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-11T12:12:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f5503ed4-39d3-4d49-bcbc-bf0b05ae12ea",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-11T12:12:18+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kaoruko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-11T12:12:18+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "639abb98-2e72-4bf8-a0d7-4b3027f2b825",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-11T12:12:40+00:00",
+    "description": "",
+    "fileName": "0b77f01f-a19c-4992-adab-222a16fb7e48.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-11T12:12:40+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "132c7600-c1bd-4263-bcaf-c0e0c1a644ab",
+   "type": "creator"
+  }
+ ]
+}

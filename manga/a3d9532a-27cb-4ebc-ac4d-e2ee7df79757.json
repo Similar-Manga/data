@@ -22,7 +22,9 @@
     "ja-ro": "Za Koppu - Tokusatsukan -"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Kenzaki, who was just an ordinary detective until yesterday, is appointed to the secret rank of \"Special Assassin\" within the police force. This is a violent action blockbuster that depicts the exploits of the \"Special Assassin\" who takes the place of the law to punish people who cannot be punished by the law!"
+  },
   "links": {
    "amz": "https://www.amazon.co.jp/-/en/gp/product/B016CS1JQC",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/102340/",
@@ -30,11 +32,24 @@
   },
   "originalLanguage": "ja",
   "lastVolume": "7",
+  "lastChapter": "26",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 1982,
   "contentRating": "suggestive",
   "tags": [
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "df33b754-73a3-4c54-80e6-1a74a8058539",
     "type": "tag",
@@ -49,9 +64,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2024-10-12T17:31:50+00:00",
-  "updatedAt": "2024-12-22T22:10:46+00:00"
+  "updatedAt": "2025-01-13T09:18:00+00:00"
  },
  "relationships": [
   {
@@ -107,16 +122,16 @@
    }
   },
   {
-   "id": "ca0070c3-4192-48c9-beae-6ed867a3fc4c",
+   "id": "d13453fb-e642-4933-8cfa-9d55738e9f21",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-12T17:31:54+00:00",
+    "createdAt": "2024-10-12T17:31:52+00:00",
     "description": "",
-    "fileName": "e419d4b1-7f7f-48c9-b52d-13930e50b074.jpg",
+    "fileName": "4b2bcddd-097a-41c7-9643-9fbf34157344.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-12T17:31:54+00:00",
-    "version": 1,
-    "volume": "10"
+    "updatedAt": "2025-01-13T09:17:59+00:00",
+    "version": 2,
+    "volume": "7.4"
    }
   },
   {

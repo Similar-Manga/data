@@ -1,0 +1,140 @@
+{
+ "id": "79a90e99-9b7f-47d7-9ef8-6c15e4c45bfd",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kimagure Gokuu"
+  },
+  "altTitles": [
+   {
+    "ja": "きまぐれ悟空"
+   }
+  ],
+  "description": {
+   "en": "Born in an unexplored region in the mountains, Sun Wukong is accompanied by Xuanzang and heads to Tianzhu with a companion named Zhu Bajie Sha Wujing."
+  },
+  "links": {
+   "al": "156508",
+   "mu": "ig1hx32"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "publicationDemographic": "shounen",
+  "status": "completed",
+  "year": 1977,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T19:47:29+00:00",
+  "updatedAt": "2025-01-12T20:02:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "100bee10-4eec-47be-9599-2eaa59a7a5d5",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T19:47:31+00:00",
+    "description": "",
+    "fileName": "a1d6a3aa-82c4-460b-99ea-159411905dc3.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T19:47:31+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

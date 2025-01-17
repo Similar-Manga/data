@@ -11,7 +11,7 @@
     "en": "Sang Raksaka"
    },
    "contentRating": "safe",
-   "score": 0.36200082
+   "score": 0.36094874
   },
   {
    "id": "ad05a8ad-ab31-4eec-9d77-e8b6c61ab143",
@@ -19,7 +19,7 @@
     "en": "Akai Chou Tsuki no Yoru"
    },
    "contentRating": "safe",
-   "score": 0.35618997
+   "score": 0.3505647
   },
   {
    "id": "fb6d9239-e641-4654-9c57-61a1f696aa33",
@@ -27,15 +27,21 @@
     "en": "RE: united"
    },
    "contentRating": "safe",
-   "score": 0.30025768
+   "score": 0.2919834,
+   "languages": [
+    "en"
+   ]
   },
   {
-   "id": "c6af8a2d-c4fc-4a2b-a02b-ec0cfeae9f77",
+   "id": "f84211cc-bedf-401e-8e09-596137998f22",
    "title": {
-    "en": "My Friend Frankenstein"
+    "en": "Witch Sanctuary"
    },
    "contentRating": "safe",
-   "score": 0.25507298
+   "score": 0.26155245,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "d5aca45d-fc61-41ea-a758-0f9d80da0116",
@@ -50,31 +56,20 @@
    ]
   },
   {
+   "id": "c6af8a2d-c4fc-4a2b-a02b-ec0cfeae9f77",
+   "title": {
+    "en": "My Friend Frankenstein"
+   },
+   "contentRating": "safe",
+   "score": 0.25065017
+  },
+  {
    "id": "33e831ed-4221-424b-a0c3-d88d57a20487",
    "title": {
     "en": "Black Behemoth"
    },
    "contentRating": "safe",
-   "score": 0.24931946,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "797d01fe-368c-4123-a577-5cd1c8035f5b",
-   "title": {
-    "en": "Laika"
-   },
-   "contentRating": "safe",
-   "score": 0.2427604
-  },
-  {
-   "id": "f84211cc-bedf-401e-8e09-596137998f22",
-   "title": {
-    "en": "Witch Sanctuary"
-   },
-   "contentRating": "safe",
-   "score": 0.2411803,
+   "score": 0.24938367,
    "languages": [
     "en"
    ]
@@ -93,21 +88,18 @@
     "en": "Cyfandir Chronicles"
    },
    "contentRating": "safe",
-   "score": 0.23874307,
+   "score": 0.2389107,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "ef8b3d52-56c6-4df3-a278-854fd7a80177",
+   "id": "797d01fe-368c-4123-a577-5cd1c8035f5b",
    "title": {
-    "en": "Clock Tower"
+    "en": "Laika"
    },
    "contentRating": "safe",
-   "score": 0.23652364,
-   "languages": [
-    "en"
-   ]
+   "score": 0.23698488
   },
   {
    "id": "1bde8e50-2dd7-4e93-a685-2cf2da078d3a",
@@ -122,20 +114,12 @@
    ]
   },
   {
-   "id": "9316a82d-8506-4172-a27f-1c1cda617788",
+   "id": "ef8b3d52-56c6-4df3-a278-854fd7a80177",
    "title": {
-    "en": "Konyaku Haki Shiro to Iwareta no de Akuyaku Reijou wo Enjite Mitai to Omoimasu"
+    "en": "Clock Tower"
    },
    "contentRating": "safe",
-   "score": 0.23647119
-  },
-  {
-   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
-   "title": {
-    "en": "Strange Moon"
-   },
-   "contentRating": "safe",
-   "score": 0.23487802,
+   "score": 0.23652364,
    "languages": [
     "en"
    ]
@@ -152,16 +136,37 @@
    ]
   },
   {
-   "id": "f44c1ae4-75d6-4ff6-9e5c-7330773e2dbd",
+   "id": "77a95107-bbf5-4f8a-8094-68982894a7b7",
    "title": {
-    "en": "Darkness and Death"
+    "en": "Strange Moon"
    },
    "contentRating": "safe",
-   "score": 0.23102391,
+   "score": 0.23487802,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "9316a82d-8506-4172-a27f-1c1cda617788",
+   "title": {
+    "en": "Konyaku Haki Shiro to Iwareta no de Akuyaku Reijou wo Enjite Mitai to Omoimasu"
+   },
+   "contentRating": "safe",
+   "score": 0.23293187
+  },
+  {
+   "id": "245f2aac-1aee-4983-b2d5-34ea5dab460e",
+   "title": {
+    "en": "xxxHOLiC Rei"
+   },
+   "contentRating": "safe",
+   "score": 0.22941573,
+   "languages": [
+    "pt-br",
+    "en",
+    "ru"
+   ]
   }
  ],
- "updatedAt": "2025-01-08T00:06:51+00:00"
+ "updatedAt": "2025-01-15T23:21:02+00:00"
 }

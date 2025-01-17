@@ -5,8 +5,16 @@
   "title": {
    "en": "Kuroko no Basket - Kagome no Hana (Doujinshi)"
   },
+  "altTitles": [
+   {
+    "ja": "黒子のバスケ - かごめの華 (Doujinshi)"
+   }
+  ],
   "description": {
    "en": "Pairing: Akashi Seijuurou x Kuroko Tetsuya"
+  },
+  "links": {
+   "mu": "u8ew8we"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -115,9 +123,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-10-27T13:29:18+00:00",
-  "updatedAt": "2024-10-28T15:44:36+00:00"
+  "updatedAt": "2025-01-09T15:22:38+00:00"
  },
  "relationships": [
   {
@@ -143,6 +151,34 @@
     "twitter": null,
     "updatedAt": "2024-03-16T15:44:56+00:00",
     "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bb8cb465-97e2-45c2-a068-c3e6b4dfaafd",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\n田宮こも\n\n**Circles:**\nTAM\nJumping Konjou\n\n[Twitter 2](https://twitter.com/tamiya_powari)"
+    },
+    "booth": "https://comotamiya.booth.pm/",
+    "createdAt": "2024-03-16T15:34:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamiya Komo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/6000813",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tamiya0000",
+    "updatedAt": "2024-03-16T15:36:05+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -177,14 +213,42 @@
    }
   },
   {
-   "id": "136d0801-9ee7-492e-9273-c0b7223b1085",
+   "id": "bb8cb465-97e2-45c2-a068-c3e6b4dfaafd",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\n田宮こも\n\n**Circles:**\nTAM\nJumping Konjou\n\n[Twitter 2](https://twitter.com/tamiya_powari)"
+    },
+    "booth": "https://comotamiya.booth.pm/",
+    "createdAt": "2024-03-16T15:34:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamiya Komo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/6000813",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tamiya0000",
+    "updatedAt": "2024-03-16T15:36:05+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "442da8e2-807d-40c9-a860-96e69054211b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-27T13:29:20+00:00",
+    "createdAt": "2025-01-09T15:24:17+00:00",
     "description": "",
-    "fileName": "af51fc25-11af-4d85-a075-4533046d52c4.jpg",
+    "fileName": "6b651591-d552-4dc7-bf77-eb7236dfac87.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-27T13:29:20+00:00",
+    "updatedAt": "2025-01-09T15:24:17+00:00",
     "version": 1,
     "volume": "1"
    }

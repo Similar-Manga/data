@@ -1,0 +1,151 @@
+{
+ "id": "02aa22c2-deaf-4592-b649-26dab7138c5a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Bishounenteki Daikyougen"
+  },
+  "altTitles": [
+   {
+    "ja-ro": "Bishonen no Daikyougen"
+   },
+   {
+    "ja-ro": "Cherry Boy Scramble"
+   },
+   {
+    "ja": "美少年的大狂言"
+   },
+   {
+    "ja": "チェリーボーイ・スクランブル"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "134725",
+   "amz": "https://www.amazon.co.jp/-/en/%E9%AD%94%E5%A4%9C%E5%B3%B0%E5%A4%AE-ebook/dp/B0779N94R5/ref=sr_1_1?dib=eyJ2IjoiMSJ9.oUnts1dgjEEld5Q_Po8nQ2XsDZwE93hPCNaVPsJfGAmEIgsNPBKpD7BVXffSJNBJ.x6PjUq1b465abqT-pvMbvYb41aOwYCIuXTuzXNaif38\u0026dib_tag=se\u0026keywords=%E7%BE%8E%E5%B0%91%E5%B9%B4%E7%9A%84%E5%A4%A7%E7%8B%82%E8%A8%80%28%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%BB%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%29\u0026qid=1736719517\u0026s=digital-text\u0026sr=1-1",
+   "bw": "de1640fdd2-ab7e-4dab-a5df-480881d8ba38",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/430055/",
+   "mu": "2122w3m"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "12",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 1991,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T22:08:26+00:00",
+  "updatedAt": "2025-01-12T22:17:56+00:00"
+ },
+ "relationships": [
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "baa5731e-42e0-4c24-ac92-ddead9814c98",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T22:08:28+00:00",
+    "description": "",
+    "fileName": "80e45b26-7f57-4028-97aa-6808e5a49bae.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T22:08:28+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

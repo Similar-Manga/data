@@ -1,0 +1,156 @@
+{
+ "id": "69d23053-dcff-4be1-b37f-cf5ad525d5ac",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tensei shitara Saiai no Kazoku ni Mouichido Deaemashita ~Afureru Ai wo Kono Hitosara ni Nosete~"
+  },
+  "altTitles": [
+   {
+    "ja": "転生したら最愛の家族にもう一度出会えました ～あふれる愛をこの一皿にのせて～"
+   }
+  ],
+  "description": {
+   "ja": "生まれてすぐに公爵家からさらわれ、拾ってくれた家族のもとで愛情いっぱいに育てられるアーシェラ。農家だった前世の記憶を活かして料理を作ると、驚くほどの大好評！ラスクに始まり日本食などなど、料理を通してまわりの人たちを幸せに──。愛情いっぱいのお料理で、オナカもココロも満たします──！！"
+  },
+  "links": {
+   "al": "186104",
+   "amz": "https://www.amazon.co.jp/dp/B0DRKM5JSQ",
+   "ap": "tenseishitara-saiai-no-kazoku-ni-mou-ichido-deaemashita-afureru-ai-wo-kono-hitosara-ni-nosete",
+   "bw": "series/506590",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/873235",
+   "mu": "mbvijnb",
+   "raw": "https://comic.pixiv.net/works/10853"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-14T13:32:39+00:00",
+  "updatedAt": "2025-01-14T13:33:14+00:00"
+ },
+ "relationships": [
+  {
+   "id": "642e499e-194b-4ba0-80c4-8cf41b150c7f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-14T13:31:02+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aya Sakura",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-14T13:31:02+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "d7f28555-c836-4ddd-8abe-ef84602258a4",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-14T13:31:13+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizuchi Izumi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-14T13:31:13+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6c57ccd9-c465-40b0-a085-8c3dd51dba9c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-14T13:32:50+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "832d1da1-5ca0-4836-a686-e79ce3ab9907.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-14T13:32:50+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

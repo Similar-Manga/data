@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Sozoro Gennai"
+   "en": "Gennai's Wanderings: A Record of his Explorations of Edo"
   },
   "altTitles": [
    {
@@ -11,11 +11,16 @@
    },
    {
     "ja": "そぞろ源内 大江戸さぐり控え帳"
+   },
+   {
+    "ja-ro": "Sozoro Gennai"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "\"There are no strange phenomena in the world.\"\nA suspenseful mystery period drama by Seisaku Kana!\n\nThe time is Edo, the mid-18th century.\nIn this metropolis of the early modern period, where strange and rational, human and supernatural phenomena coexist,\nthere was a man who, at his whim, stuck his nose into strange incidents.\nHis name was Gennai Hiraga, a botanist.\nWhile studying in Edo, he teams up with Genpaku Sugita, a mad Dutch doctor who loves dissections, andinvestigates strange incidents in Edo. \n\nThis is the most popular series in the Comic Ran Twins magazine.\nThe first new book in four years from the No. 1 erotic artist, Seisaku Kana! A grand opening to an entertaining suspenseful period drama that\ncuts through the strange and mysterious darkness of Edo with intelligence ! (Author) Manga: Seisaku Kana Manga artist and illustrator. Since the 1970s, his manga for young men, such as \"Auction House\" and \"Experimental Doll Dummy Oscar,\" based on the original works of Kazuo Koike, have become popular, and he is currently active in period drama magazines. He is also recognized as a pioneer of digital drawing using Photoshop. Scenario: Akira Amasawa Screenwriter, playwright, and novelist. In addition to writing scripts for many TV dramas and anime, his recent works include the novel \"Oedo Kodomo Torimonochō\" (Bunken Publishing). He also adapted the manga \"Kenkaku Shobai\" (manga by Yasuichi Oshima, original story by Shotaro Ikenami, published by LEED Publishing)."
+  },
   "links": {
-   "amz": "https://www.amazon.co.jp/-/en/%E5%8F%B6%E7%B2%BE%E4%BD%9C-ebook/dp/B0CZXFYD2J/",
+   "amz": "https://www.amazon.co.jp/-/en/叶精作-ebook/dp/B0CZXFYD2J/",
    "mu": "tjzzsr3"
   },
   "originalLanguage": "ja",
@@ -35,12 +40,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "36fd93ea-e8b8-445e-b836-358f02b3d33d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Monsters"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-10-12T18:36:29+00:00",
-  "updatedAt": "2024-12-22T22:10:48+00:00"
+  "updatedAt": "2025-01-13T10:46:15+00:00"
  },
  "relationships": [
   {
@@ -96,16 +113,16 @@
    }
   },
   {
-   "id": "8d2a4fe2-8253-4bfa-8f12-9fbe265752bf",
+   "id": "53962900-eb23-47f7-b076-176a4c6827aa",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-12T18:36:32+00:00",
+    "createdAt": "2025-01-13T10:46:14+00:00",
     "description": "",
-    "fileName": "8f9c651d-c654-4d71-902f-c1d5cd806423.jpg",
+    "fileName": "3764a172-ae1e-4672-953f-1ab785c28cad.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-12T18:36:32+00:00",
+    "updatedAt": "2025-01-13T10:46:14+00:00",
     "version": 1,
-    "volume": "3"
+    "volume": "4"
    }
   },
   {

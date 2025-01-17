@@ -1,0 +1,152 @@
+{
+ "id": "e8b55624-0181-48b9-8c6e-ec420fb9fc16",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Fantasy ni wa Najimenai ~ArFor Otoko, Hard Mode Isekai ni Teni shita Kedo Kekkyoku Musou~"
+  },
+  "altTitles": [
+   {
+    "ja": "ファンタジーには馴染めない　～アラフォー男、ハードモード異世界に転移したけど結局無双～"
+   },
+   {
+    "en": "I Can't Get Used to Fantasy: A Man in His Forties Was Transported to Another World at Hard Mode, but He Remains Unmatched"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/315404/list"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "lastChapter": "18",
+  "status": "completed",
+  "year": 2021,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-10T08:26:20+00:00",
+  "updatedAt": "2025-01-10T15:28:53+00:00"
+ },
+ "relationships": [
+  {
+   "id": "cf23b4ae-44c2-4303-9114-e228bb1437a9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Senmu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cf23b4ae-44c2-4303-9114-e228bb1437a9",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Senmu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "05d814c4-5cba-481c-bd93-12c77c1fb25a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-10T08:26:33+00:00",
+    "description": "",
+    "fileName": "1df866c8-22a5-47fa-8163-6489e199d45c.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-10T08:26:33+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

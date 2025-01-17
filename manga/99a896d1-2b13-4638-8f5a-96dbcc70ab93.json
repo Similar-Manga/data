@@ -1,0 +1,142 @@
+{
+ "id": "99a896d1-2b13-4638-8f5a-96dbcc70ab93",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shiro Majo-san to no Henkyou Gurashi"
+  },
+  "altTitles": [
+   {
+    "ja": "白魔女さんとの辺境ぐらし ～最強の魔女はのんびり暮らしたい～"
+   },
+   {
+    "ja-ro": "Shiro Majo-san to no Henkyou Gurashi: Saikyou no Majo wa Nonbiri Kurashitai"
+   },
+   {
+    "en": "A Cozy Life in the Woods with the White Witch"
+   }
+  ],
+  "description": {
+   "en": "Tori, who works as a handyman for the platinum-class clan \"Four Horns of Mud\", is fired from his job when the clans are merged. \nJust as he is at a loss as to what to do, the White Witch, a renowned and strongest adventurer, appears before him.\nThe old woman, with the presence of an end-of-the-century champion, says she wants to hire Tori.\nTori suspects that the White Witch is just making fun of him, and tries to implicitly refuse by offering a high salary, but she readily accepts and takes him to the witch's house.\nAs Tori kneels down and apologizes, the White Witch, who was supposed to be an old woman, transforms into a cute young girl and says, \"Your first job... I'd like you to clean.\"",
+   "ja": "仲間から解雇されてしまった雑用係トーリは最強の冒険者 “白の魔女”からお世話係に任命される。 生活力ゼロな彼女の自宅は散らかし放題の酷い有様で…？ 長年の経験を活かしてドタバタだけど温かい新生活を始めます！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DK2M8YLG",
+   "ap": "a-cozy-life-in-the-woods-with-the-white-witch",
+   "bw": "series/506179",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/853467/",
+   "mal": "174732",
+   "mu": "h178sua",
+   "raw": "https://comic-growl.com/article/shiromajyo"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 12,
+  "createdAt": "2025-01-08T14:45:52+00:00",
+  "updatedAt": "2025-01-14T04:08:08+00:00"
+ },
+ "relationships": [
+  {
+   "id": "564df1ea-a063-4f94-9a14-cc113f69b17d",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language**: 門司柿家"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "MOJIKAKIYA",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/MOJIKAKIYA",
+    "updatedAt": "2024-05-20T12:40:05+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a63fe30c-3c84-4892-81e0-e971ac342377",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated Names:**\nFuyuzora\nHuyuno sora\nHuyusora\n冬空\n후유소라\nPILOT+ (Fuyusora)\nPILOT+ (冬空)\nPluspt\nYzm2\n\n"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Fuyusora",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/591482",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-10-24T17:59:19+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "397cf213-5e12-4775-8e7a-96c833848a4a",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-08T14:46:17+00:00",
+    "description": "1",
+    "fileName": "fc15ce85-2f66-4811-95cb-e09441f970da.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-08T14:46:17+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "8138b513-b3d3-4d32-a743-042bf368fbe7",
+   "type": "creator"
+  }
+ ]
+}

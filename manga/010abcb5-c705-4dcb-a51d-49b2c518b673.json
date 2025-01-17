@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Gyaru Gamer ni Homeraretai"
+   "en": "Gyaru Gamer ni Homeraretai (Pre-Serialization)"
   },
   "altTitles": [
    {
@@ -23,17 +23,12 @@
    }
   ],
   "description": {
-   "en": "Raito Sasaki is your average gamer, but he wants to be one of the best.  \r\nHe decides to spend his money on a Trainer, little did he know that his coach is a gyaru gamer girl!  \r\nWill our protagonist be able to concentrate on the game?",
+   "en": "Raito Sasaki is your average gamer, but he wants to be one of the best.  \nHe decides to spend his money on a Trainer, little did he know that his coach is a gyaru gamer girl!  \nWill our protagonist be able to concentrate on the game?\n\n---\n**Notes:**\n- The manga got licensed by Kadokawa on November 3, 2021 and its first volume was published on January 2022. Also, the manga started being published on the website Comic Newtype since November 19, 2021.\n- The serialized version is completely monochrome.",
    "pt-br": "Raito Sasaki é um gamer comum, mas ele quer se tornar o melhor. Então ele começa a pagar um treinador, mas mal sabia ele que esse \"treinador\" era uma Gyaru gamer! Será que o nosso protagonista será capaz de se concentrar no game?"
   },
   "links": {
    "al": "128260",
-   "amz": "https://www.amazon.co.jp/dp/B0BC7BPT4S",
    "ap": "gyaru-gamer-ni-homeraretai",
-   "bw": "series/334909/list",
-   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2766962",
-   "ebj": "https://ebookjapan.yahoo.co.jp/books/675526/",
-   "engtl": "https://yenpress.com/series/i-want-a-gal-gamer-to-praise-me",
    "kt": "60688",
    "mal": "141584",
    "mu": "175120",
@@ -116,9 +111,9 @@
    }
   ],
   "state": "published",
-  "version": 34,
+  "version": 42,
   "createdAt": "2021-01-02T09:48:26+00:00",
-  "updatedAt": "2024-08-21T02:27:22+00:00"
+  "updatedAt": "2025-01-13T12:52:07+00:00"
  },
  "relationships": [
   {
@@ -178,17 +173,22 @@
    }
   },
   {
-   "id": "a898d162-f5d3-4e90-8e54-c5a9789ca789",
+   "id": "9d9e62e4-d500-4ce0-b59d-d9a15b872d0f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-04-17T09:20:39+00:00",
+    "createdAt": "2025-01-13T12:52:07+00:00",
     "description": "",
-    "fileName": "b81e6d4c-e5b8-4b29-89da-4fd1fcf79c68.jpg",
+    "fileName": "af1fd3d0-a2ee-49e8-86e6-d4ae562bb693.jpg",
     "locale": "ja",
-    "updatedAt": "2024-04-17T09:20:39+00:00",
+    "updatedAt": "2025-01-13T12:52:07+00:00",
     "version": 1,
-    "volume": "4"
+    "volume": null
    }
+  },
+  {
+   "id": "542122fe-1d96-4369-b85e-49b03d0af4ec",
+   "type": "manga",
+   "related": "serialization"
   }
  ]
 }

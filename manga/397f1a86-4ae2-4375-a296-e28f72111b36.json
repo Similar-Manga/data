@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Kare ga Kanojo wo Kaizou Suruhodo Kokoro to Karada ga Tsunagatte Iku Hanashi"
+   "en": "Kare ga Kanojo o Kaizou Suruhodo Kokoro to Karada ga Tsunagatte Iku Hanashi"
   },
   "altTitles": [
    {
     "ja": "彼が彼女を改造するほど心と体がつながっていく話"
+   },
+   {
+    "ja-ro": "Kare ga Kanojo wo Kaizou Suruhodo Kokoro to Karada ga Tsunagatte Iku Hanashi"
    },
    {
     "en": "The Story of Their Hearts and Bodies Becoming Connected as He Modifies Her"
@@ -78,32 +81,34 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2023-06-24T13:19:46+00:00",
-  "updatedAt": "2023-06-24T18:33:49+00:00"
+  "updatedAt": "2025-01-09T12:34:47+00:00"
  },
  "relationships": [
   {
    "id": "f97d6811-8494-473b-9978-1d651f8c9c94",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** カトウタカヒロ\n\n**Circle:** Mogu-mogu Abura-age (モグモグアブラアゲ)\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/oiign)\n- [Bluesky](https://bsky.app/profile/ogitaka96.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=125158",
     "name": "Katou Takahiro",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/1962168",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ogitaka96",
+    "updatedAt": "2025-01-09T13:30:34+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -113,23 +118,25 @@
    "id": "f97d6811-8494-473b-9978-1d651f8c9c94",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** カトウタカヒロ\n\n**Circle:** Mogu-mogu Abura-age (モグモグアブラアゲ)\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/oiign)\n- [Bluesky](https://bsky.app/profile/ogitaka96.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
-    "melonBook": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=125158",
     "name": "Katou Takahiro",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/1962168",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/ogitaka96",
+    "updatedAt": "2025-01-09T13:30:34+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

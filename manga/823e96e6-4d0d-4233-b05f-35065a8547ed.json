@@ -1,0 +1,167 @@
+{
+ "id": "823e96e6-4d0d-4233-b05f-35065a8547ed",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Isekai Shuumatsu"
+  },
+  "altTitles": [
+   {
+    "ja": "異世界終末"
+   },
+   {
+    "en": "Isekai Apocalypse"
+   },
+   {
+    "en": "The End Of Another World"
+   }
+  ],
+  "description": {
+   "en": "I kept saving and finally was able to save some money. The money I worked so hard to collect was automatically transformed into a magic sword right before my eyes, and I could no longer control my brain. I hold my sword and swear to destroy everything!"
+  },
+  "links": {
+   "raw": "https://comic-walker.com/detail/KC_006237_S"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2025,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 7,
+  "createdAt": "2025-01-10T13:13:11+00:00",
+  "updatedAt": "2025-01-11T09:33:47+00:00"
+ },
+ "relationships": [
+  {
+   "id": "9f8a3cae-d5af-45b2-85d9-fb6da987bc76",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-07-29T17:17:35+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ido",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-07-29T17:17:35+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "9f8a3cae-d5af-45b2-85d9-fb6da987bc76",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-07-29T17:17:35+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ido",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-07-29T17:17:35+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c64b6df5-5cbf-4ad8-a17c-3037d657eb15",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-10T13:13:13+00:00",
+    "description": "",
+    "fileName": "4569d947-6672-46cc-8676-49b619063d68.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-10T13:13:13+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "890bd18f-1797-42ed-8e66-d9542e9b468d",
+   "type": "creator"
+  }
+ ]
+}

@@ -3,31 +3,36 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Shin Sakura Tsuushin"
+   "en": "New Sakura Diaries"
   },
   "altTitles": [
    {
-    "en": "New Sakura Diaries"
+    "ja-ro": "Shin Sakura Tsuushin"
    },
    {
-    "en": "Nuevo diario sakura"
+    "es": "Nuevo diario sakura"
    },
    {
-    "en": "新・桜通信"
+    "ja": "新・桜通信"
    }
   ],
   "description": {
-   "en": ""
+   "en": "The classic \"Sakura Diaries\" is revived in modern times!! Yashiro Heita, commonly known as Yajirobe, is a job-hunting ronin who moves to Tokyo to try his best to find a job, but is unsuccessful. He is staying with his uncle and is determined to try his best to find a job again, but there is a woman he admires. Just as Heita is about to get a job and confess his feelings to the girl he has a crush on, a high school girl (self-proclaimed) appears in front of him and calls him \"big brother\"!! Without even knowing who she is, the two enter into an illicit relationship...!! A love triangle that seems like it will bloom but never does is about to begin...!!"
   },
   "links": {
    "al": "90623",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B075GQY3BW?binding=kindle_edition",
+   "bw": "series/22946",
    "kt": "29851",
    "mal": "67389",
    "mu": "108442"
   },
   "originalLanguage": "ja",
+  "lastVolume": "2",
+  "lastChapter": "10",
   "publicationDemographic": "seinen",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2014,
   "contentRating": "suggestive",
   "tags": [
    {
@@ -53,12 +58,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 1,
+  "version": 2,
   "createdAt": "2019-04-10T07:42:27+00:00",
-  "updatedAt": "2019-04-10T07:42:27+00:00"
+  "updatedAt": "2025-01-12T00:04:23+00:00"
  },
  "relationships": [
   {
@@ -114,16 +131,16 @@
    }
   },
   {
-   "id": "dfafe414-793c-4ff1-98bd-e42806b2df22",
+   "id": "3d9d9bc3-06f0-41d3-a62d-db70be714e26",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:07:31+00:00",
+    "createdAt": "2025-01-12T00:04:22+00:00",
     "description": "",
-    "fileName": "8b8a8b28-f220-433c-bc86-2c01fe33edf6.jpg",
+    "fileName": "a31ff5be-765c-4e3d-abe2-5c7932e6205e.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:07:31+00:00",
+    "updatedAt": "2025-01-12T00:04:22+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
   },
   {

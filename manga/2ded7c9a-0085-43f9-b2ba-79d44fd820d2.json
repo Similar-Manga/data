@@ -5,8 +5,19 @@
   "title": {
    "en": "Kuroko no Basket - Tonari no Akashi-kun (Doujinshi)"
   },
+  "altTitles": [
+   {
+    "ja": "黒子のバスケ - となりのあかしくん (Doujinshi)"
+   },
+   {
+    "en": "Kuroko no Basket - Akashi-kun from Next Door (Doujinshi)"
+   }
+  ],
   "description": {
    "en": "Pairing: Akashi Seijuurou x Kuroko Tetsuya"
+  },
+  "links": {
+   "mu": "6bl120x"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -80,9 +91,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-08-13T10:37:13+00:00",
-  "updatedAt": "2024-09-27T08:41:57+00:00"
+  "updatedAt": "2025-01-09T15:11:05+00:00"
  },
  "relationships": [
   {
@@ -108,6 +119,34 @@
     "twitter": null,
     "updatedAt": "2024-03-16T15:44:56+00:00",
     "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bb8cb465-97e2-45c2-a068-c3e6b4dfaafd",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\n田宮こも\n\n**Circles:**\nTAM\nJumping Konjou\n\n[Twitter 2](https://twitter.com/tamiya_powari)"
+    },
+    "booth": "https://comotamiya.booth.pm/",
+    "createdAt": "2024-03-16T15:34:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamiya Komo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/6000813",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tamiya0000",
+    "updatedAt": "2024-03-16T15:36:05+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -142,14 +181,42 @@
    }
   },
   {
-   "id": "15369a1a-1c21-491c-bb1b-b6defa82ea66",
+   "id": "bb8cb465-97e2-45c2-a068-c3e6b4dfaafd",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\n田宮こも\n\n**Circles:**\nTAM\nJumping Konjou\n\n[Twitter 2](https://twitter.com/tamiya_powari)"
+    },
+    "booth": "https://comotamiya.booth.pm/",
+    "createdAt": "2024-03-16T15:34:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamiya Komo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/6000813",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tamiya0000",
+    "updatedAt": "2024-03-16T15:36:05+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "16163180-fde0-4344-9b02-8aec720a642c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-08-13T10:37:14+00:00",
+    "createdAt": "2025-01-09T15:11:04+00:00",
     "description": "",
-    "fileName": "6263c750-c375-4a3b-8fda-126413a3e64f.png",
+    "fileName": "cd41b291-81c1-4e29-a80f-3e558d1d36fd.jpg",
     "locale": "ja",
-    "updatedAt": "2024-08-13T10:37:14+00:00",
+    "updatedAt": "2025-01-09T15:11:04+00:00",
     "version": 1,
     "volume": "1"
    }

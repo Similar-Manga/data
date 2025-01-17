@@ -1,0 +1,139 @@
+{
+ "id": "82353564-0617-464d-bc3e-33157795297b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Empressage"
+  },
+  "altTitles": [
+   {
+    "ja": "エンプレスエイジ ～闇社会の主役は我々だ"
+   },
+   {
+    "ja-ro": "Empressage - Yamisyakai no Syuyaku wa Wareware da!"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/388462/list"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-10T08:08:50+00:00",
+  "updatedAt": "2025-01-10T08:09:06+00:00"
+ },
+ "relationships": [
+  {
+   "id": "25ed875c-bac7-412d-bb72-4ccb3bc8ddd9",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-10T08:06:43+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Zom",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-10T08:06:43+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2c72b35e-fbf1-4fb4-81ee-17d48ceb3d28",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-05-13T19:10:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mikaru sera",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-05-13T19:10:12+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2c72b35e-fbf1-4fb4-81ee-17d48ceb3d28",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-05-13T19:10:12+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mikaru sera",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-05-13T19:10:12+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ada3ff88-c0fc-4c45-b3d4-dccbb79b5164",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-10T08:09:02+00:00",
+    "description": "",
+    "fileName": "c91f646d-feac-4020-880f-c1967f7973d4.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-10T08:09:02+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

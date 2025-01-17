@@ -33,7 +33,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "f3469ca6-864f-4902-85d6-3567f35826be",
+  "latestUploadedChapter": "9b4cb1dc-72b1-41bc-bc20-0e6063790c86",
   "tags": [
    {
     "id": "07251805-a27e-4d59-b488-f0bfbec15168",
@@ -41,6 +41,18 @@
     "attributes": {
      "name": {
       "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sports"
      },
      "description": {},
      "group": "genre",
@@ -61,9 +73,9 @@
    }
   ],
   "state": "published",
-  "version": 12,
+  "version": 13,
   "createdAt": "2024-07-05T15:08:34+00:00",
-  "updatedAt": "2024-12-04T18:01:40+00:00"
+  "updatedAt": "2025-01-10T11:36:12+00:00"
  },
  "relationships": [
   {

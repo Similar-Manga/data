@@ -27,6 +27,7 @@
   },
   "links": {
    "amz": "https://www.amazon.co.jp/-/en/dp/B0BL7MLF2P?binding=kindle_edition\u0026ref=dbs_dp_rwt_sb_pc_tukn",
+   "bw": "series/239836/list",
    "mu": "lmjukbx"
   },
   "originalLanguage": "ja",
@@ -51,9 +52,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 5,
   "createdAt": "2023-06-13T07:36:18+00:00",
-  "updatedAt": "2023-06-13T07:38:00+00:00"
+  "updatedAt": "2025-01-10T08:48:32+00:00"
  },
  "relationships": [
   {
@@ -109,17 +110,27 @@
    }
   },
   {
-   "id": "cf2b0682-f1ee-41c3-94e0-3cb8d48c94cb",
+   "id": "1da62353-289c-4039-a24c-2c82b492c11b",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-06-13T07:36:27+00:00",
+    "createdAt": "2025-01-10T08:52:40+00:00",
     "description": "",
-    "fileName": "ee7e2b68-132c-4bbd-bed4-0dc5b28387e4.jpg",
+    "fileName": "6ae77f18-2696-4f10-8ab0-60d2fa23d5a2.jpg",
     "locale": "ja",
-    "updatedAt": "2023-06-13T07:36:27+00:00",
+    "updatedAt": "2025-01-10T08:52:40+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "3"
    }
+  },
+  {
+   "id": "2a4bdc24-180b-4599-9b78-abf6077d8d1a",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "6ac2f679-d782-4963-bf29-b316e523467c",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "ecf379e6-bc34-42c4-b25d-63698875cdfb",

@@ -1,0 +1,131 @@
+{
+ "id": "5d8d526f-d90f-425b-bcd4-256335b1dc6d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Denki Soukou Raijin"
+  },
+  "altTitles": [
+   {
+    "ja": "電騎装鋼 ライジン"
+   }
+  ],
+  "description": {
+   "en": "A young man called Kanou Ryoto was once saved as a child by a mysterious hero named \"Raijin\".\n\nTen years later, Ryoto works in his sister's dog cafe. While walking the dogs one day, he happens to save a strange dog from drowning. Soon after a monster attacks his sister and suddenly the dog he had saved earlier starts to talk to him. Not only that, he also teaches him how to transform into a battle hero and protect his loved ones.\n\nThis is the fateful moment Ryoto changes into Raijin Model One!"
+  },
+  "links": {
+   "mal": "177796",
+   "mu": "ez969lc",
+   "raw": "https://cycomi.com/title/225"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "020c5ab6-c802-49c7-89ea-308a1289eb01",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "7064a261-a137-4d3a-8848-2d385de3a99c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Superhero"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2025-01-10T17:05:02+00:00",
+  "updatedAt": "2025-01-11T19:05:24+00:00"
+ },
+ "relationships": [
+  {
+   "id": "e3fb4679-3090-4d60-a591-8ae15819d093",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kine Wosamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "e3fb4679-3090-4d60-a591-8ae15819d093",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kine Wosamu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "02637087-7fe7-46de-af93-8bb85c9d36b6",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-10T17:05:08+00:00",
+    "description": "",
+    "fileName": "7319f1f3-482d-4ea5-84c9-46d5d5f13faf.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-10T17:05:08+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "dba7f889-393f-438b-9391-24e9d223d47a",
+   "type": "creator"
+  }
+ ]
+}

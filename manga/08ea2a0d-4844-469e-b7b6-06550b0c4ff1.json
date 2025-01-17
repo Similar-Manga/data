@@ -1,0 +1,180 @@
+{
+ "id": "08ea2a0d-4844-469e-b7b6-06550b0c4ff1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Curse"
+  },
+  "description": {
+   "en": "Amara is a girl who doesn’t have such a great life. But she manages, til an ill fated day..I"
+  },
+  "links": {
+   "raw": "https://globalcomix.com/c/curse-1?utm_medium=GCMobileReaderApp\u0026utm_source=share-comic\u0026utm_campaign=Silviasdum\u0026utm_term=curse-1"
+  },
+  "originalLanguage": "en",
+  "status": "ongoing",
+  "year": 2025,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "d14322ac-4d6f-4e9b-afd9-629d5f4d8a41",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Villainess"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "ee968100-4191-4968-93d3-f82d72be7e46",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mystery"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2025-01-13T07:37:27+00:00",
+  "updatedAt": "2025-01-13T16:20:16+00:00"
+ },
+ "relationships": [
+  {
+   "id": "fe76a0dc-2f18-4545-9812-98afb584e835",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-13T07:32:05+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Silviasdum",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-13T07:32:05+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fe76a0dc-2f18-4545-9812-98afb584e835",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-13T07:32:05+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Silviasdum",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-13T07:32:05+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6c1f34ed-bd0c-415e-a208-2e6c58db1d0f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-13T07:37:30+00:00",
+    "description": "First chapter cover, as there are only 3 chapters planned for this and I have 2 others for when those two chapters release",
+    "fileName": "4801c17c-12e8-4a6c-b4b4-b150a33dddf6.png",
+    "locale": "en",
+    "updatedAt": "2025-01-13T07:43:05+00:00",
+    "version": 2,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "d443c160-b61a-4c62-9301-89ca60afc7fe",
+   "type": "creator"
+  }
+ ]
+}

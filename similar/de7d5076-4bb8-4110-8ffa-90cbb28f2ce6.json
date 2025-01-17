@@ -6,14 +6,14 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "43480b8a-4f4b-474d-9dc2-82f289434d2d",
+   "id": "5bc8917e-2d26-479c-95fc-4a145bb9729a",
    "title": {
-    "en": "Kyou mo Ashita mo."
+    "en": "Re Re Honey ~S.O.S Daisakusen~"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en",
+    "fr",
     "pt-br"
    ]
   },
@@ -29,14 +29,14 @@
    ]
   },
   {
-   "id": "5bc8917e-2d26-479c-95fc-4a145bb9729a",
+   "id": "43480b8a-4f4b-474d-9dc2-82f289434d2d",
    "title": {
-    "en": "Re Re Honey ~S.O.S Daisakusen~"
+    "en": "Kyou mo Ashita mo."
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "fr",
+    "en",
     "pt-br"
    ]
   },
@@ -46,7 +46,7 @@
     "en": "Seishun Lover's Festival"
    },
    "contentRating": "safe",
-   "score": 0.26359248,
+   "score": 0.26359752,
    "languages": [
     "es-la"
    ]
@@ -57,7 +57,7 @@
     "en": "Skip Beat!"
    },
    "contentRating": "safe",
-   "score": 0.25803268,
+   "score": 0.25803423,
    "languages": [
     "en",
     "pl",
@@ -73,10 +73,23 @@
     "en": "Koi suru 1/4"
    },
    "contentRating": "safe",
-   "score": 0.2539238,
+   "score": 0.25392795,
    "languages": [
     "pt-br",
     "de",
+    "en"
+   ]
+  },
+  {
+   "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
+   "title": {
+    "en": "Hana-kun to Koisuru Watashi"
+   },
+   "contentRating": "safe",
+   "score": 0.24756306,
+   "languages": [
+    "pt-br",
+    "pl",
     "en"
    ]
   },
@@ -93,30 +106,6 @@
    ]
   },
   {
-   "id": "3730920b-499d-4052-901c-025bab17e11f",
-   "title": {
-    "en": "Amai Cheri wo Ageru"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "es-la",
-    "en"
-   ]
-  },
-  {
-   "id": "9ce3fb74-cff0-477e-89d7-20c94d439142",
-   "title": {
-    "en": "Binetsu Shoujo"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "pt-br",
-    "en"
-   ]
-  },
-  {
    "id": "6a7b2566-aa51-40c6-9329-0cc5b97ebd01",
    "title": {
     "en": "Urakata!!"
@@ -125,20 +114,6 @@
    "score": 0.24743582,
    "languages": [
     "es-la"
-   ]
-  },
-  {
-   "id": "1a945050-9a18-4e5f-bfbc-1fc70d3ee427",
-   "title": {
-    "en": "Bitter Trap"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "en",
-    "bg",
-    "pt-br",
-    "pl"
    ]
   },
   {
@@ -167,44 +142,74 @@
    ]
   },
   {
-   "id": "fb9fb9a7-a661-49ae-a6bb-2d160b105184",
+   "id": "9ce3fb74-cff0-477e-89d7-20c94d439142",
    "title": {
-    "en": "Hana-kun to Koisuru Watashi"
+    "en": "Binetsu Shoujo"
    },
    "contentRating": "safe",
-   "score": 0.24738982,
+   "score": 0.24743582,
    "languages": [
     "pt-br",
-    "pl",
     "en"
    ]
   },
   {
-   "id": "37e8bcef-918f-4220-ac81-53f3a5919304",
+   "id": "1a945050-9a18-4e5f-bfbc-1fc70d3ee427",
    "title": {
-    "en": "Stray Cat \u0026 Wolf"
+    "en": "Bitter Trap"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
+   "score": 0.24743582,
    "languages": [
     "en",
-    "tl",
-    "pt-br"
+    "bg",
+    "pt-br",
+    "pl"
    ]
   },
   {
-   "id": "1461f8d2-ab00-412d-88cb-ef0ab21945c8",
+   "id": "3730920b-499d-4052-901c-025bab17e11f",
    "title": {
-    "en": "Bengoshi to 17-sai"
+    "en": "Amai Cheri wo Ageru"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "es-la",
+    "en"
+   ]
+  },
+  {
+   "id": "a2d16852-2aa2-42aa-903c-e5ce5b990d65",
+   "title": {
+    "en": "Inazuma to Romance"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
-    "vi",
+    "pt-br",
     "en",
+    "vi",
+    "hu",
+    "it",
     "es-la"
+   ]
+  },
+  {
+   "id": "853f628b-ac25-4865-9f72-3f45d86f798b",
+   "title": {
+    "en": "Tonari no Stella"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "ru",
+    "pt-br",
+    "en",
+    "fr",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2025-01-08T01:37:36+00:00"
+ "updatedAt": "2025-01-16T00:57:37+00:00"
 }

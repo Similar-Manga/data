@@ -21,7 +21,7 @@
    "raw": "https://twitter.com/nanakoro81/status/1638495766175178753"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "status": "completed",
   "year": 2023,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
@@ -29,6 +29,18 @@
   ],
   "latestUploadedChapter": "2d0f55b0-b8dd-44fb-a0e9-9df940f55428",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
     "type": "tag",
@@ -40,24 +52,12 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 6,
   "createdAt": "2023-03-22T13:05:34+00:00",
-  "updatedAt": "2024-11-08T13:57:48+00:00"
+  "updatedAt": "2025-01-13T17:14:59+00:00"
  },
  "relationships": [
   {

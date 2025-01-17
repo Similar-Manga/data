@@ -1,0 +1,133 @@
+{
+ "id": "c0feea45-8755-4dbb-ae2e-b2332af406dd",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Midnight Theatre"
+  },
+  "altTitles": [
+   {
+    "ja": "深夜劇場"
+   },
+   {
+    "ja-ro": "Shinya Gekijou"
+   }
+  ],
+  "description": {
+   "en": "The duo of Koike Kazuo's beloved disciples, the original author Kobori Hiroshi and the illustrator Kanae Seisaku, vividly depict the human drama of men and women living in the city at night. A mahjong parlor in Shinjuku at midnight. Take, an apprentice member, is busy running around today as usual. But one day, he discovers that a female customer is cheating. What will Take do?"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/-/en/叶-精作-ebook/dp/B01763G25A/",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/104733/",
+   "mu": "4bvu7vy"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "8",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1983,
+  "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Traditional Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "5ca48985-9a9d-4bd8-be29-80dc0303db72",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Crime"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2024-10-12T18:57:43+00:00",
+  "updatedAt": "2025-01-13T08:57:39+00:00"
+ },
+ "relationships": [
+  {
+   "id": "cfef575e-bedc-44f7-9161-2b326662b03a",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-02-12T06:54:02+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kobori You",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-02-12T06:54:02+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ce50cdfc-3965-42b2-9964-1fe0f421207b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Kanou Seisaku",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4f427f59-880f-4bc4-86d4-2bd092c8078c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2024-10-12T18:57:45+00:00",
+    "description": "",
+    "fileName": "d46c94d1-843b-4eb1-965d-c81c9ecc9900.jpg",
+    "locale": "ja",
+    "updatedAt": "2024-10-12T19:14:27+00:00",
+    "version": 2,
+    "volume": "1.3"
+   }
+  },
+  {
+   "id": "42251ed1-3ecf-49ee-b75e-6e742a44c345",
+   "type": "creator"
+  }
+ ]
+}

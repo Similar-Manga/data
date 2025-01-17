@@ -7,15 +7,25 @@
   },
   "altTitles": [
    {
-    "en": "Нанана!!"
+    "ja": "NANANA!!"
+   },
+   {
+    "ru": "Нанана!!"
    }
   ],
   "description": {
-   "en": ""
+   "en": "☆ A girl runs wild, the dead explode!! 49 pages of GB (ghost buster) gun action!!\n\nPublished in Jump NEXT!! 2025 Vol. 5."
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B016A7AZJC",
+   "bw": "de688f1254-3dd3-40eb-8f86-70e47b388395",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/132140/A001571377/",
+   "raw": "https://shonenjumpplus.com/magazine/13933686331641409426"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shounen",
-  "status": "ongoing",
+  "status": "completed",
+  "year": 2015,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "ru"
@@ -47,6 +57,18 @@
     }
    },
    {
+    "id": "3bb26d85-09d5-4d2e-880c-c34b974339e9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ghosts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
@@ -57,26 +79,40 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2019-01-20T05:21:32+00:00",
-  "updatedAt": "2021-05-25T15:46:09+00:00"
+  "updatedAt": "2025-01-12T03:56:34+00:00"
  },
  "relationships": [
   {
    "id": "28f43e37-3840-4b11-9be0-bd78c14e19f4",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 山下尚吾"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yamashita Shougo",
+    "name": "Yamashita Shougo (山下尚吾)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -84,8 +120,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-12T00:34:23+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -95,14 +131,16 @@
    "id": "28f43e37-3840-4b11-9be0-bd78c14e19f4",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 山下尚吾"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yamashita Shougo",
+    "name": "Yamashita Shougo (山下尚吾)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -110,8 +148,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-12T00:34:23+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
     "youtube": null

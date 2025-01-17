@@ -5,8 +5,16 @@
   "title": {
    "en": "Kuroko no Basket - Tsukumo no Karasawagi (Doujinshi)"
   },
+  "altTitles": [
+   {
+    "ja": "黒子のバスケ - つくものからさわぎ (Doujinshi)"
+   }
+  ],
   "description": {
    "en": "Pairing: Akashi Seijuurou x Kuroko Tetsuya"
+  },
+  "links": {
+   "mu": "y24oybi"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -92,9 +100,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-06-15T20:56:38+00:00",
-  "updatedAt": "2024-06-16T01:44:03+00:00"
+  "updatedAt": "2025-01-09T15:40:01+00:00"
  },
  "relationships": [
   {
@@ -120,6 +128,34 @@
     "twitter": null,
     "updatedAt": "2024-03-16T15:44:56+00:00",
     "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "bb8cb465-97e2-45c2-a068-c3e6b4dfaafd",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\n田宮こも\n\n**Circles:**\nTAM\nJumping Konjou\n\n[Twitter 2](https://twitter.com/tamiya_powari)"
+    },
+    "booth": "https://comotamiya.booth.pm/",
+    "createdAt": "2024-03-16T15:34:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamiya Komo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/6000813",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tamiya0000",
+    "updatedAt": "2024-03-16T15:36:05+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -154,6 +190,34 @@
    }
   },
   {
+   "id": "bb8cb465-97e2-45c2-a068-c3e6b4dfaafd",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\n田宮こも\n\n**Circles:**\nTAM\nJumping Konjou\n\n[Twitter 2](https://twitter.com/tamiya_powari)"
+    },
+    "booth": "https://comotamiya.booth.pm/",
+    "createdAt": "2024-03-16T15:34:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tamiya Komo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/6000813",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tamiya0000",
+    "updatedAt": "2024-03-16T15:36:05+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "dec6380c-4d65-4512-ae7b-e4641f0f0513",
    "type": "cover_art",
    "attributes": {
@@ -175,6 +239,11 @@
    "id": "679e1426-a1b2-47d0-8e4d-9b4d3738c84b",
    "type": "manga",
    "related": "prequel"
+  },
+  {
+   "id": "f8e41a48-5ca9-41e3-94a7-a1379a4fda62",
+   "type": "manga",
+   "related": "based_on"
   },
   {
    "id": "b0db63f6-e90c-4ae2-9719-1ebfef3755c6",

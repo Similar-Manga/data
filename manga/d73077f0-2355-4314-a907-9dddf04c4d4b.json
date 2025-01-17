@@ -3,17 +3,23 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Saikin Yatotta Maid ga Ayashii"
+   "en": "The Maid I Hired Recently Is Mysterious"
   },
   "altTitles": [
+   {
+    "ja": "最近雇ったメイドが怪しい"
+   },
+   {
+    "ja-ro": "Saikin Yatotta Maid ga Ayashii"
+   },
+   {
+    "en": "My Recently Hired Maid Is Suspicious"
+   },
    {
     "es-la": "La criada que contraté recientemente es sospechosa."
    },
    {
     "es-la": "Mi criada nueva es misteriosa"
-   },
-   {
-    "en": "The Maid I Hired Recently Is Mysterious"
    },
    {
     "pt-br": "A Empregada que acabei de contratar é muito suspeita"
@@ -22,14 +28,11 @@
     "ru": "Моя новая горничная ну очень подозрительна"
    },
    {
-    "ja": "最近雇ったメイドが怪しい"
-   },
-   {
     "uk": "Загадкова покоївка в моєму домі"
    }
   ],
   "description": {
-   "en": "I hired a maid who has something about her I just can’t put my finger on. Sure, she looks great and is a fabulous cook, but something about her’s not quite right. What have I gotten myself into!?\n\n**Physical volumes version of [this title](https://mangadex.org/title/1f366545-bf36-4f83-b3c1-f65021320a6e/my-recently-hired-maid-is-suspicious-magazine) with added webcomic parts and different chapter numbering.**",
+   "en": "I hired a maid who has something about her I just can’t put my finger on. Sure, she looks great and is a fabulous cook, but something about her’s not quite right. What have I gotten myself into!?\n\n**This definitive version adds [webcomic](https://mangadex.org/title/3ea7be90-0f1b-40dc-b53e-155880fa1887) parts to the [magazine version](https://mangadex.org/title/1f366545-bf36-4f83-b3c1-f65021320a6e), resulting in a different chapter numbering.**",
    "es": "El Joven Amo procede con cuidado debido al hecho de que su nueva criada hace cosas que lo hacen sentirse nervioso e incómodo. ¿¡Qué está tramando esta mujer seductora!?… ¿¡Acaso es amor!?",
    "pt-br": "Eu contratei uma empregada, mas tem algo suspeito sobre ela. Claro, ela é linda e cozinha bem, mas tem algo sobre ela que não parece certo. O que será que aquela mulher está tramando? ...Será que é amor?",
    "ru": "Это рассказ о маленьком мальчике и его недавно нанятой горничной, которая то ли дразнит своего господина, то ли действительно испытывает к нему серьёзные чувства.",
@@ -39,7 +42,7 @@
    "al": "114917",
    "amz": "https://www.amazon.co.jp/dp/B08KWPWWPT",
    "ap": "saikin-yatotta-maid-ga-ayashii",
-   "bw": "series/243987/list",
+   "bw": "series/243987",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2625482",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/586824/",
    "engtl": "https://yenpress.com/series/the-maid-i-hired-recently-is-mysterious",
@@ -49,7 +52,7 @@
   },
   "originalLanguage": "ja",
   "lastVolume": "8",
-  "lastChapter": "70",
+  "lastChapter": "71",
   "publicationDemographic": "shounen",
   "status": "completed",
   "year": 2020,
@@ -113,24 +116,12 @@
      "group": "genre",
      "version": 1
     }
-   },
-   {
-    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Adaptation"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 33,
+  "version": 34,
   "createdAt": "2020-05-04T14:36:20+00:00",
-  "updatedAt": "2024-11-27T13:28:29+00:00"
+  "updatedAt": "2025-01-13T12:18:02+00:00"
  },
  "relationships": [
   {
@@ -205,7 +196,7 @@
   {
    "id": "1f366545-bf36-4f83-b3c1-f65021320a6e",
    "type": "manga",
-   "related": "alternate_story"
+   "related": "alternate_version"
   },
   {
    "id": "3ea7be90-0f1b-40dc-b53e-155880fa1887",

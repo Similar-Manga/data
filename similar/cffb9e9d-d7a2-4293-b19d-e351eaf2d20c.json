@@ -11,7 +11,18 @@
     "en": "Sensei, Ote o Douzo?"
    },
    "contentRating": "safe",
-   "score": 0.25747037,
+   "score": 0.2574641,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "bdf777c3-64ba-47ff-b936-7d4aad8ccdf8",
+   "title": {
+    "en": "White of Dawn"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
    "languages": [
     "en"
    ]
@@ -29,23 +40,12 @@
    ]
   },
   {
-   "id": "bdf777c3-64ba-47ff-b936-7d4aad8ccdf8",
-   "title": {
-    "en": "White of Dawn"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d74c4f35-64d2-45a8-81fb-f4b3f7ff2f86",
    "title": {
     "en": "Uchi no Hide"
    },
    "contentRating": "safe",
-   "score": 0.23626927,
+   "score": 0.23624672,
    "languages": [
     "pl",
     "en",
@@ -58,7 +58,7 @@
     "en": "03"
    },
    "contentRating": "safe",
-   "score": 0.2306813,
+   "score": 0.23066321,
    "languages": [
     "en"
    ]
@@ -69,21 +69,33 @@
     "en": "Love Spice"
    },
    "contentRating": "safe",
-   "score": 0.21746302,
+   "score": 0.21746053,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "aaf57014-9900-4521-80db-983f90b408d6",
+   "id": "3d2420d7-7a5a-4318-935f-1d3fb35a55db",
    "title": {
-    "en": "Boku no Petto ni Narinasai."
+    "en": "Sweet Spot"
    },
    "contentRating": "safe",
    "score": 0.2163632,
    "languages": [
-    "pl",
-    "en"
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "0237e46f-07a8-4446-8359-6ffe97777a58",
+   "title": {
+    "en": "The Girl on the Other Side of the Glass"
+   },
+   "contentRating": "safe",
+   "score": 0.2163632,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -100,18 +112,6 @@
    ]
   },
   {
-   "id": "0237e46f-07a8-4446-8359-6ffe97777a58",
-   "title": {
-    "en": "The Girl on the Other Side of the Glass"
-   },
-   "contentRating": "safe",
-   "score": 0.2163632,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
    "id": "1c676e15-ac73-4c3c-89aa-a8d499f8e64b",
    "title": {
     "en": "Katou Kyouju no Iutori"
@@ -125,49 +125,13 @@
    ]
   },
   {
-   "id": "3d2420d7-7a5a-4318-935f-1d3fb35a55db",
+   "id": "aaf57014-9900-4521-80db-983f90b408d6",
    "title": {
-    "en": "Sweet Spot"
+    "en": "Boku no Petto ni Narinasai."
    },
    "contentRating": "safe",
    "score": 0.2163632,
    "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "19878414-f05e-4f4a-8789-2b552b381402",
-   "title": {
-    "en": "Entryway"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "6e98dfc5-b279-4156-9909-6658fd18ad8f",
-   "title": {
-    "en": "To Start"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "355aa5b3-b805-4073-8292-7de639b9145a",
-   "title": {
-    "en": "The Lady of Udon"
-   },
-   "contentRating": "safe",
-   "score": 0.2086253,
-   "languages": [
-    "es-la",
     "pl",
     "en"
    ]
@@ -185,18 +149,56 @@
    ]
   },
   {
-   "id": "980bf600-ceb9-4e11-8f95-cde35f597618",
+   "id": "19878414-f05e-4f4a-8789-2b552b381402",
    "title": {
-    "en": "Korogaru Onna to Koi no Numa"
+    "en": "Entryway"
    },
    "contentRating": "safe",
    "score": 0.2086253,
    "languages": [
     "en",
-    "pt-br",
-    "es-la"
+    "vi"
+   ]
+  },
+  {
+   "id": "4207cdff-c8cd-4b0e-842f-58b7e34357e2",
+   "title": {
+    "en": "Chibisan Date"
+   },
+   "contentRating": "safe",
+   "score": 0.2086253,
+   "languages": [
+    "es-la",
+    "en",
+    "hu"
+   ]
+  },
+  {
+   "id": "355aa5b3-b805-4073-8292-7de639b9145a",
+   "title": {
+    "en": "The Lady of Udon"
+   },
+   "contentRating": "safe",
+   "score": 0.2086253,
+   "languages": [
+    "es-la",
+    "pl",
+    "en"
+   ]
+  },
+  {
+   "id": "9837bda7-8de3-4ec0-90f2-d8b0886612eb",
+   "title": {
+    "en": "Kaze ga Nuketekunda"
+   },
+   "contentRating": "safe",
+   "score": 0.2086253,
+   "languages": [
+    "en",
+    "vi",
+    "fr"
    ]
   }
  ],
- "updatedAt": "2025-01-08T01:31:30+00:00"
+ "updatedAt": "2025-01-16T00:50:44+00:00"
 }

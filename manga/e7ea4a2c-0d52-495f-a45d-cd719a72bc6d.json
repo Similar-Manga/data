@@ -1,0 +1,145 @@
+{
+ "id": "e7ea4a2c-0d52-495f-a45d-cd719a72bc6d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Amaete Kibishi"
+  },
+  "altTitles": [
+   {
+    "ja": "あまえてキビシ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "132822",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B07QLB4R5S?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1736598746\u0026sr=1-1",
+   "bw": "series/136412/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/427341/",
+   "mu": "fag286c"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "2",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2017,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "489dd859-9b61-4c37-af75-5b18e88daafc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ninja"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-11T12:34:14+00:00",
+  "updatedAt": "2025-01-11T12:37:57+00:00"
+ },
+ "relationships": [
+  {
+   "id": "60130e62-fdd0-4909-8852-ddf836248fd3",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nYuki Shinichi\n結城心一 "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuuki Shinichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/532816",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/yuhki_shinichi",
+    "updatedAt": "2023-03-25T18:38:23+00:00",
+    "version": 3,
+    "website": "http://www92.sakura.ne.jp/~yuhki/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "60130e62-fdd0-4909-8852-ddf836248fd3",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nYuki Shinichi\n結城心一 "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuuki Shinichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/532816",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/yuhki_shinichi",
+    "updatedAt": "2023-03-25T18:38:23+00:00",
+    "version": 3,
+    "website": "http://www92.sakura.ne.jp/~yuhki/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ad3f74c4-bd41-4246-95b2-17c7d43ad620",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-11T12:34:18+00:00",
+    "description": "",
+    "fileName": "cb753521-ed13-4357-9633-6693dc734286.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-11T12:34:18+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

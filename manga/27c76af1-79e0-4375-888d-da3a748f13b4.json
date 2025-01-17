@@ -13,7 +13,10 @@
     "ja-ro": "Hagoku no Mazinger"
    },
    {
-    "en": "MAZINGER DESTROYING HELL"
+    "en": "Mazinger destroying Hell"
+   },
+   {
+    "es": "Mazinger Destruye el Infierno"
    }
   ],
   "description": {
@@ -22,13 +25,29 @@
   "links": {
    "al": "161628",
    "amz": "https://www.amazon.co.jp/dp/4798633267",
+   "mu": "z1fi9p0",
    "raw": "https://hjweb.jp/article/902552"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "3",
+  "lastChapter": "20",
+  "publicationDemographic": "shounen",
+  "status": "completed",
   "year": 2023,
-  "contentRating": "suggestive",
+  "contentRating": "safe",
   "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
     "type": "tag",
@@ -52,12 +71,48 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "5fff9cde-849c-4d78-aab0-0d52b2ee1d25",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Survival"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 13,
   "createdAt": "2023-11-27T07:16:13+00:00",
-  "updatedAt": "2023-12-23T04:43:25+00:00"
+  "updatedAt": "2025-01-08T08:08:35+00:00"
  },
  "relationships": [
   {
@@ -115,6 +170,34 @@
    }
   },
   {
+   "id": "cb94f9d0-af59-4e1e-b134-80a291b91ae7",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "Thanks to the success of Harenchi Gakuen, Dynamic Productions (ダイナミックプロダクション, also known as Dynamic Production or Dynamic Pro, ダイナミックプロ), was founded by [Go Nagai](https://mangadex.org/author/1a76535a-b389-4e42-9130-a71d0ec94611/nagai-go) with his brothers in April 1969. Meant to be a group to help him with his works, as a consequence Harenchi Gakuen, where he derived almost no royalties from the TV series, films, or related merchandise, Dynamic Productions became a company established to manage Nagai's relations and contractual rights of his work. Dynamic became one of the first companies to require publishers sign contracts (even today many manga are created and published only on the basis of verbal agreements).\n\n(Source: Wiki)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Dynamic Pro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/Dynamicpro_info",
+    "updatedAt": "2023-01-21T14:27:56+00:00",
+    "version": 3,
+    "website": "http://www.dynamicproduction.co.jp",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
    "id": "91e5f855-c098-4a2f-aa73-24b05e370c67",
    "type": "artist",
    "attributes": {
@@ -141,16 +224,16 @@
    }
   },
   {
-   "id": "d405d3de-6667-49e7-a718-9dc398d8e49a",
+   "id": "3e102d1e-d076-40dd-bfc0-3f00650cf27f",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-04-08T02:58:56+00:00",
+    "createdAt": "2025-01-08T07:41:18+00:00",
     "description": "",
-    "fileName": "a4c705d7-47f8-4c27-9a0e-d1cad11687c6.jpg",
+    "fileName": "d4fffb5e-e26e-420f-8de1-6d51cd466cf9.jpg",
     "locale": "ja",
-    "updatedAt": "2024-04-08T02:58:56+00:00",
+    "updatedAt": "2025-01-08T07:41:18+00:00",
     "version": 1,
-    "volume": "2"
+    "volume": "3"
    }
   },
   {

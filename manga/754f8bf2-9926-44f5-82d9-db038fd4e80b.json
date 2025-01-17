@@ -18,6 +18,7 @@
   },
   "links": {
    "mal": "173957",
+   "mu": "8egr5bs",
    "raw": "https://kuragebunch.com/episode/2550912964485407395"
   },
   "originalLanguage": "ja",
@@ -28,14 +29,38 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "9c06f268-a7d7-464a-afb1-fbca5850c7bf",
+  "latestUploadedChapter": "51e730c0-ad90-4a4b-9f8e-1421386f51bc",
   "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "3b60b75c-a2d7-4860-ab56-05f391bb889c",
     "type": "tag",
     "attributes": {
      "name": {
       "en": "Psychological"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
      },
      "description": {},
      "group": "genre",
@@ -127,6 +152,18 @@
     }
    },
    {
+    "id": "cdad7e68-1419-41dd-bdce-27753074a640",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Horror"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "ee968100-4191-4968-93d3-f82d72be7e46",
     "type": "tag",
     "attributes": {
@@ -140,9 +177,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-08-29T22:52:32+00:00",
-  "updatedAt": "2024-10-26T20:20:56+00:00"
+  "updatedAt": "2025-01-11T13:21:49+00:00"
  },
  "relationships": [
   {

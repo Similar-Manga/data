@@ -23,8 +23,20 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "055c4c66-4bb1-45e2-b205-bdd8880d5201",
+  "latestUploadedChapter": "d0df133e-b146-4793-b367-27f533414c13",
   "tags": [
+   {
+    "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Long Strip"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -75,9 +87,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2025-01-07T14:02:56+00:00",
-  "updatedAt": "2025-01-07T16:13:25+00:00"
+  "updatedAt": "2025-01-07T18:21:02+00:00"
  },
  "relationships": [
   {
@@ -185,16 +197,16 @@
    }
   },
   {
-   "id": "05a7f525-f470-4cfa-a8d9-8a68ba62cfee",
+   "id": "ee113e20-133f-4568-abb6-90ee01d1fa12",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2025-01-07T14:03:03+00:00",
+    "createdAt": "2025-01-08T14:08:34+00:00",
     "description": "",
-    "fileName": "663f9a3f-c91c-4a2e-9928-2d9f8f48f308.jpg",
+    "fileName": "747acf26-2aac-4ad5-9ad4-393762ff19e6.jpg",
     "locale": "ko",
-    "updatedAt": "2025-01-07T14:03:03+00:00",
+    "updatedAt": "2025-01-08T14:08:34+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "2"
    }
   },
   {

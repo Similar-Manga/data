@@ -1,0 +1,130 @@
+{
+ "id": "1ec86751-63d1-4115-9d76-557f3df93134",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shion Manikki"
+  },
+  "altTitles": [
+   {
+    "ja": "シオン魔日記"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "176616",
+   "amz": "https://www.amazon.co.jp/-/en/%E9%AD%94%E5%A4%9C%E5%B3%B0%E5%A4%AE-ebook/dp/B00FWOUCCA/ref=sr_1_1?crid=1JJK5YLFUVYZ0\u0026dib=eyJ2IjoiMSJ9.m5VyFpfHLUe9gYYryXN48Z4h3zgB6XDO9VithNGK4am_meAr25bq1gh5Vu6yStIHJbu1FiuonogWmtjcPkKriCN94vygU7D0ys7MYcM2URNi0Cr-KqIRKU3sVQbvXmUal6OooIgiJrGtskAyZCTDAg.RIU5u1LiFhCEkQD9sahW1tKT0SHEilboAdNU38ZvC0c\u0026dib_tag=se\u0026keywords=%E3%82%B7%E3%82%AA%E3%83%B3%E9%AD%94%E6%97%A5%E8%A8%98\u0026qid=1736715147\u0026s=digital-text\u0026sprefix=%E3%82%B7%E3%82%AA%E3%83%B3%E9%AD%94%E6%97%A5%E8%A8%98%2Cdigital-text%2C766\u0026sr=1-1",
+   "bw": "dee0e4aebb-657f-4f52-a2ef-f6d49a9b941b",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/168569/",
+   "mu": "vztj8gv"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "12",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 1998,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T20:54:11+00:00",
+  "updatedAt": "2025-01-12T21:07:12+00:00"
+ },
+ "relationships": [
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b37eaa59-a45e-4ceb-8d28-aaca06fb1fe8",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T20:54:13+00:00",
+    "description": "",
+    "fileName": "9b0ae4f0-6475-4a0c-9d0a-130c902debeb.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T20:54:13+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

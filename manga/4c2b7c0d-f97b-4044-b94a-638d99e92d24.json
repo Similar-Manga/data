@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hana Yori Dango: Boys Over Flowers"
+   "en": "Boys Over Flowers"
   },
   "altTitles": [
    {
@@ -13,7 +13,7 @@
     "vi": "Con Nhà Giàu"
    },
    {
-    "en": "Dumplings Over Flowers"
+    "ja-ro": "Dumplings Over Flowers"
    },
    {
     "ja-ro": "HanaDan"
@@ -25,9 +25,6 @@
     "es": "No me lo digas con flores"
    },
    {
-    "ja": "流星花园"
-   },
-   {
     "ja": "花より男子"
    },
    {
@@ -35,6 +32,12 @@
    },
    {
     "ko": "꽃보다 남자"
+   },
+   {
+    "en": "Hana Yori Dango: Boys Over Flowers"
+   },
+   {
+    "ja": "流星花园"
    }
   ],
   "description": {
@@ -44,13 +47,16 @@
    "al": "30877",
    "amz": "https://www.amazon.co.jp/gp/product/B075713DR2",
    "ap": "boys-over-flowers",
+   "bw": "series/12665/list",
+   "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2416121",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/141445/",
+   "engtl": "https://www.viz.com/boys-over-flowers",
    "kt": "1908",
    "mal": "877",
-   "mu": "328",
-   "raw": "https://www.viz.com/boys-over-flowers"
+   "mu": "328"
   },
   "originalLanguage": "ja",
-  "lastVolume": "37",
+  "lastVolume": "36",
   "lastChapter": "241.5",
   "publicationDemographic": "shoujo",
   "status": "completed",
@@ -137,9 +143,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2018-04-04T10:13:32+00:00",
-  "updatedAt": "2023-08-06T10:18:06+00:00"
+  "updatedAt": "2025-01-13T04:05:26+00:00"
  },
  "relationships": [
   {
@@ -195,16 +201,16 @@
    }
   },
   {
-   "id": "e7658df1-ca95-4f35-adbf-30f8fa55747b",
+   "id": "4de11b73-12c3-4f08-9b8e-493439afc82d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:37:08+00:00",
+    "createdAt": "2021-05-23T07:07:44+00:00",
     "description": "",
-    "fileName": "58376ba7-7925-4453-b34d-21f6d75939f8.png",
+    "fileName": "2fb3cb28-341a-475c-89ca-8c414380c92b.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:37:08+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2021-05-23T07:07:44+00:00",
+    "version": 2,
+    "volume": "37"
    }
   },
   {

@@ -3,17 +3,27 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Do Da Dancin'! - Venice Kokusai Hen"
+   "en": "Do Da Dancin'!: Venice Kokusai-hen"
   },
   "altTitles": [
    {
     "ja-ro": "Do Da Dancin'! - Venice Kokusai Hen"
+   },
+   {
+    "ja": "Do Da Dancin’！ ヴェネチア国際編"
    }
   ],
   "description": {
-   "en": "Taiko Sakuraba is 25 years old. She has no time left as a dancer, and the only way for her to succeed is to win a prize at the Venice International Competition, the pinnacle of classical ballet! Taiko's challenge begins in order to continue her favorite ballet."
+   "en": "Taiko Sakuraba is 25 years old. She has no time left as a dancer, and the only way for her to succeed is to win a prize at the Venice International Competition, the pinnacle of classical ballet! Taiko's challenge begins in order to continue her favorite ballet.",
+   "ja": "桜庭鯛子は25歳。ダンサーとして後がない彼女が成功するには、クラシックバレエの最高峰ヴェネチア国際コンクールで入賞すること!?　大好きなバレエを続けるために鯛子の挑戦が始まる。熱きダンサーズ・ストーリー、待望の新章スタート!!"
   },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/B077L85QSK",
+   "ap": "do-da-dancin-venice-kokusai-hen",
+   "bw": "series/15011",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/231942",
+   "kt": "do-da-dancin-venice-kokusai-hen",
+   "mal": "92928",
    "mu": "s9ppdum"
   },
   "originalLanguage": "ja",
@@ -37,9 +47,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2023-06-21T14:41:13+00:00",
-  "updatedAt": "2023-06-21T14:41:48+00:00"
+  "updatedAt": "2025-01-09T15:33:50+00:00"
  },
  "relationships": [
   {
@@ -95,16 +105,16 @@
    }
   },
   {
-   "id": "f8efdfa1-8009-4ba8-88c8-f121c33ced1f",
+   "id": "106d23cd-1f1a-43dc-86a8-748901a01454",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-06-21T14:41:15+00:00",
-    "description": "",
-    "fileName": "f2c11b81-2934-4bd9-b38d-91c17441c472.jpg",
+    "createdAt": "2025-01-09T13:36:28+00:00",
+    "description": "Format: Tankoubon\r\nImprint: Office You Comics\r\nPublisher: Shueisha Creative\r\nYear: 2007",
+    "fileName": "ed4b9dcf-48a5-49b6-90a6-f7b6cbe23b3f.png",
     "locale": "ja",
-    "updatedAt": "2023-06-21T14:41:15+00:00",
+    "updatedAt": "2025-01-09T13:36:28+00:00",
     "version": 1,
-    "volume": "13"
+    "volume": "1"
    }
   },
   {

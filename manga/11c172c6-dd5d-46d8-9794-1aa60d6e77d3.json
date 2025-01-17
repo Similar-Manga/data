@@ -7,27 +7,27 @@
   },
   "altTitles": [
    {
-    "ja-ro": "Ryuugoroshi no Brunhild"
+    "ja": "竜殺しのブリュンヒルド"
    },
    {
-    "ja": "竜殺しのブリュンヒルド"
+    "ja-ro": "Ryuugoroshi no Brunhild"
    }
   ],
   "description": {
-   "en": "Love tore them apart.\n\nThe dragon-slaying war hero, Sigibert, led the Norveland Imperial Army. The forces sent to claim the legendary island, “Eden” were repeatedly annihilated by the guardian dragon of the island.\n\nLeft behind on the shores of Eden was Brunhild, the daughter of Sigibert. By either chance or necessity, she survived. The dragon took her in and raised her like his own daughter. A human and a dragon loved and were loved.\n\nThirteen years later, however, Sigibert's cannon finally took the dragon's life and \"recaptured\" Brunhild, the hero's daughter, to the empire.\n\n[If you want to be reunited in God’s kingdom, you musn’t hate others]\nIn Brunhild’s vengeful heart, the teachings of the dragon who wished for justice and forgiveness echoed. Should she abide the teachings of her beloved, or give in to the ever-roiling love itself—.",
+   "en": "Love tore them apart.\n\nThe dragon-slaying war hero, Sigibert, led the Norveland Imperial Army. The forces sent to claim the legendary island, “Eden” were repeatedly annihilated by the guardian dragon of the island.\n\nLeft behind on the shores of Eden was Brunhild, the daughter of Sigibert. By either chance or necessity, she survived. The dragon took her in and raised her like his own daughter. A human and a dragon loved and were loved.\n\nThirteen years later, however, Sigibert's cannon finally took the dragon's life and \"recaptured\" Brunhild, the hero's daughter, to the empire.\n\n[If you want to be reunited in God’s kingdom, you musn’t hate others]\nIn Brunhild’s vengeful heart, the teachings of the dragon who wished for justice and forgiveness echoed. Should she abide the teachings of her beloved, or give in to the ever-roiling love itself—.\n___\n**Character Designer:** [Aoaso](https://mangadex.org/author/9104954b-91a9-4136-ad1a-48c2aba88992)",
    "id": "Cinta memisahkan mereka. Pahlawan perang pembunuh naga, Sigibert, memimpin Tentara Kekaisaran Norveland. Pasukan yang dikirim untuk mengklaim pulau legendaris, \"Eden\" berulang kali dimusnahkan oleh naga penjaga pulau itu, dan yang tertinggal di pantai Eden adalah Brunhild, putri Sigibert. Entah karena kebetulan atau kebutuhan, dia selamat. Sang naga mengambilnya dan membesarkannya seperti putrinya sendiri. Namun, tiga belas tahun kemudian, meriam Sigibert akhirnya merenggut nyawa sang naga, dan putri sang pahlawan akhirnya \"direbut kembali\". [Jika Anda ingin dipersatukan kembali di kerajaan Tuhan, Anda tidak boleh membenci orang lain] Di dalam hati Brunhild yang penuh dendam, ajaran naga yang menginginkan keadilan dan pengampunan bergema. Haruskah ia mematuhi ajaran yang disayanginya, atau menyerah pada cinta yang selalu membara itu sendiri-."
   },
   "links": {
    "al": "155491",
    "amz": "https://www.amazon.co.jp/dp/B0C5XVBKPN",
    "ap": "ryuugoroshi-no-brunhild",
-   "bw": "series/415928/list",
+   "bw": "series/415928",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/760901/",
    "engtl": "https://yenpress.com/series/brunhild-the-dragonslayer-manga",
    "mal": "152530",
    "mu": "xkvq895",
    "nu": "brunhild-the-dragon-slayer",
-   "raw": "https://comic-walker.com/contents/detail/KDCW_KS01203421010000_68/"
+   "raw": "https://comic-walker.com/detail/KC_003242_S?episodeType=first"
   },
   "originalLanguage": "ja",
   "lastVolume": "4",
@@ -62,6 +62,18 @@
     "attributes": {
      "name": {
       "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
      },
      "description": {},
      "group": "genre",
@@ -106,16 +118,18 @@
    }
   ],
   "state": "published",
-  "version": 14,
+  "version": 16,
   "createdAt": "2022-10-26T18:41:06+00:00",
-  "updatedAt": "2024-11-28T02:01:20+00:00"
+  "updatedAt": "2025-01-13T01:00:24+00:00"
  },
  "relationships": [
   {
    "id": "d23c416b-cb36-4738-b014-cba78de57609",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 東崎惟子"
+    },
     "booth": null,
     "createdAt": "2022-10-26T18:40:27+00:00",
     "fanBox": null,
@@ -129,9 +143,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-10-26T18:40:27+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/yuiko_agarizaki",
+    "updatedAt": "2025-01-13T00:43:25+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -141,7 +155,9 @@
    "id": "3bbdc855-3813-475f-bca9-4abd47393636",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 桐嶋たける"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
@@ -155,9 +171,9 @@
     "pixiv": "https://www.pixiv.net/users/12981703",
     "skeb": null,
     "tumblr": null,
-    "twitter": "https://twitter.com/kirikiri2116?lang=en",
-    "updatedAt": "2023-07-15T16:50:13+00:00",
-    "version": 2,
+    "twitter": "https://twitter.com/kirikiri2116",
+    "updatedAt": "2025-01-13T00:45:02+00:00",
+    "version": 3,
     "website": "https://kirisimatakeru.hatenablog.com/",
     "weibo": null,
     "youtube": null

@@ -6,37 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "dc31155b-d507-4b03-a212-f8962ccfea99",
-   "title": {
-    "en": "Futarigurashi no Otoriyose Biyori"
-   },
-   "contentRating": "safe",
-   "score": 0.2429687
-  },
-  {
-   "id": "6805981d-77d5-4e81-9c7b-c80926925a7b",
-   "title": {
-    "en": "Chagurin Aguri School"
-   },
-   "contentRating": "safe",
-   "score": 0.2429687
-  },
-  {
-   "id": "c1308a5b-2e2a-47e6-ac4b-0a72b3ceb97b",
-   "title": {
-    "en": "Fermat no Ryouri"
-   },
-   "contentRating": "safe",
-   "score": 0.2429687,
-   "languages": [
-    "pt-br",
-    "es-la",
-    "en",
-    "ru",
-    "zh-hk"
-   ]
-  },
-  {
    "id": "9313ca62-709a-43d3-bb11-a06cf5f2c38e",
    "title": {
     "en": "Convenience Store Secret"
@@ -56,6 +25,37 @@
    ]
   },
   {
+   "id": "c1308a5b-2e2a-47e6-ac4b-0a72b3ceb97b",
+   "title": {
+    "en": "Fermat no Ryouri"
+   },
+   "contentRating": "safe",
+   "score": 0.2429687,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en",
+    "ru",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "6805981d-77d5-4e81-9c7b-c80926925a7b",
+   "title": {
+    "en": "Chagurin Aguri School"
+   },
+   "contentRating": "safe",
+   "score": 0.2429687
+  },
+  {
+   "id": "dc31155b-d507-4b03-a212-f8962ccfea99",
+   "title": {
+    "en": "Futarigurashi no Otoriyose Biyori"
+   },
+   "contentRating": "safe",
+   "score": 0.2429687
+  },
+  {
    "id": "0a62cb38-c27e-4b27-9738-6fe317c2c004",
    "title": {
     "en": "Youheidan no Ryouriban"
@@ -72,7 +72,7 @@
     "en": "Kiyo in Kyoto: From the Maiko House"
    },
    "contentRating": "safe",
-   "score": 0.21675639,
+   "score": 0.21675834,
    "languages": [
     "en",
     "pt-br",
@@ -86,10 +86,25 @@
     "en": "Nabe ni Dangan wo Ukenagara"
    },
    "contentRating": "safe",
-   "score": 0.20657192,
+   "score": 0.20655756,
    "languages": [
     "en",
     "vi"
+   ]
+  },
+  {
+   "id": "33af412e-8d17-4ce5-90a5-a0857b8cb0ed",
+   "title": {
+    "en": "Yoru no Kurage wa Oyogenai"
+   },
+   "contentRating": "safe",
+   "score": 0.20490557,
+   "languages": [
+    "ko",
+    "vi",
+    "en",
+    "pt-br",
+    "ru"
    ]
   },
   {
@@ -98,7 +113,7 @@
     "en": "Kobito no Tsumamigui"
    },
    "contentRating": "safe",
-   "score": 0.20425352,
+   "score": 0.2042283,
    "languages": [
     "fr",
     "ru",
@@ -111,37 +126,11 @@
     "en": "Ryuu Majin Hime Valalice no Haiboku ～ Makai Saikyou no Hime ga Jinrui no Gurume ni Makeru Hazu ga Nai"
    },
    "contentRating": "safe",
-   "score": 0.20121916,
+   "score": 0.2012152,
    "languages": [
     "ko",
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "33af412e-8d17-4ce5-90a5-a0857b8cb0ed",
-   "title": {
-    "en": "Yoru no Kurage wa Oyogenai"
-   },
-   "contentRating": "safe",
-   "score": 0.19874051,
-   "languages": [
-    "ko",
-    "vi",
-    "en",
-    "pt-br",
-    "ru"
-   ]
-  },
-  {
-   "id": "c7a2af59-a269-4cc6-9404-9db12082a89b",
-   "title": {
-    "en": "Kakure Italian"
-   },
-   "contentRating": "safe",
-   "score": 0.19838311,
-   "languages": [
-    "es-la"
    ]
   },
   {
@@ -159,20 +148,15 @@
    ]
   },
   {
-   "id": "26391fa0-c14a-4234-97b0-1001c9609ea7",
+   "id": "c7a2af59-a269-4cc6-9404-9db12082a89b",
    "title": {
-    "en": "Gata Girl"
+    "en": "Kakure Italian"
    },
    "contentRating": "safe",
-   "score": 0.19838311
-  },
-  {
-   "id": "b1659aa6-cf82-4f4e-98b9-8a815303d8e7",
-   "title": {
-    "en": "@Home~Sisters’ Thoughts~"
-   },
-   "contentRating": "safe",
-   "score": 0.19838311
+   "score": 0.19838311,
+   "languages": [
+    "es-la"
+   ]
   },
   {
    "id": "a3314227-0ba0-4c3d-969f-f44dd24d7612",
@@ -184,7 +168,23 @@
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "b1659aa6-cf82-4f4e-98b9-8a815303d8e7",
+   "title": {
+    "en": "@Home~Sisters’ Thoughts~"
+   },
+   "contentRating": "safe",
+   "score": 0.19838311
+  },
+  {
+   "id": "26391fa0-c14a-4234-97b0-1001c9609ea7",
+   "title": {
+    "en": "Gata Girl"
+   },
+   "contentRating": "safe",
+   "score": 0.19838311
   }
  ],
- "updatedAt": "2025-01-08T01:50:11+00:00"
+ "updatedAt": "2025-01-16T01:09:57+00:00"
 }

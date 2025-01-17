@@ -20,6 +20,10 @@
   "status": "ongoing",
   "year": 2025,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "73642779-46fd-4f88-9539-73cb2201fb01",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -54,6 +58,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Self-Published"
+     },
+     "description": {},
+     "group": "format",
      "version": 1
     }
    },
@@ -107,9 +123,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2025-01-01T20:27:02+00:00",
-  "updatedAt": "2025-01-01T20:55:35+00:00"
+  "updatedAt": "2025-01-13T12:03:49+00:00"
  },
  "relationships": [
   {
@@ -139,34 +155,6 @@
     "updatedAt": "2024-11-18T16:20:27+00:00",
     "version": 4,
     "website": "https://linktr.ee/zobnuy",
-    "weibo": null,
-    "youtube": "https://www.youtube.com/@re_united"
-   }
-  },
-  {
-   "id": "dd86be33-ae77-446b-8809-43690f706ac9",
-   "type": "author",
-   "attributes": {
-    "biography": {
-     "en": "Every🐰bnuy is an independent team.\n\n---\n\n## 【Re: united】coming soon in January 2025!!"
-    },
-    "booth": null,
-    "createdAt": "2025-01-01T20:26:11+00:00",
-    "fanBox": null,
-    "fantia": null,
-    "imageUrl": null,
-    "melonBook": null,
-    "name": "Everybnuy",
-    "namicomi": "https://namicomi.com/en/org/everybnuy",
-    "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
-    "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2025-01-01T20:39:08+00:00",
-    "version": 2,
-    "website": null,
     "weibo": null,
     "youtube": "https://www.youtube.com/@re_united"
    }

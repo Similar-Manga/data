@@ -1,0 +1,131 @@
+{
+ "id": "15d43f2d-098d-4b1c-aac1-08a3992f0a5e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Burabura Hideo Enikki"
+  },
+  "altTitles": [
+   {
+    "ja": "ぶらぶらひでお絵日記"
+   },
+   {
+    "en": "The Picture Diary of Persistent Hideo"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "116127",
+   "amz": "https://www.amazon.co.jp/%E3%81%B6%E3%82%89%E3%81%B6%E3%82%89%E3%81%B2%E3%81%A7%E3%81%8A%E7%B5%B5%E6%97%A5%E8%A8%98-%E5%8D%98%E8%A1%8C%E6%9C%AC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%90%BE%E5%A6%BB-%E3%81%B2%E3%81%A7%E3%81%8A/dp/4041201152",
+   "mal": "97108",
+   "mu": "f0xkvww"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2012,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T18:37:10+00:00",
+  "updatedAt": "2025-01-12T18:59:15+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "359b0ca2-2184-408e-8343-ece1f5931e2f",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T18:37:12+00:00",
+    "description": "",
+    "fileName": "08184e0c-38c2-4579-b4f2-c07923581d34.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T18:37:12+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

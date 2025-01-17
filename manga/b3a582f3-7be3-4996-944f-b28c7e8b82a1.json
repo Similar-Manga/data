@@ -1,0 +1,168 @@
+{
+ "id": "b3a582f3-7be3-4996-944f-b28c7e8b82a1",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Bocchi the Rock! - Senpai-tachi no Pocky Game (Doujinshi)"
+  },
+  "altTitles": [
+   {
+    "ja": "先輩たちのポッキーゲーム"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://x.com/Kana_Taka11/status/1855814227497505000"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "3cdc0ffc-db17-4b28-a03b-81007059be92",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Doujinshi"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2025-01-08T16:04:02+00:00",
+  "updatedAt": "2025-01-14T19:59:18+00:00"
+ },
+ "relationships": [
+  {
+   "id": "1df9075e-3331-4675-a6ae-e1e7901d9914",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-08T16:05:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "鷹なゆ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-08T16:05:10+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1df9075e-3331-4675-a6ae-e1e7901d9914",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-08T16:05:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "鷹なゆ",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-08T16:05:10+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c7527a52-48ca-4736-b76a-82ea04fb1231",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-08T16:04:06+00:00",
+    "description": "",
+    "fileName": "f00c5cd0-8f98-49bb-b447-70c79aa856c3.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-08T16:04:06+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "2e0fdb3b-632c-4f8f-a311-5b56952db647",
+   "type": "manga",
+   "related": "based_on"
+  },
+  {
+   "id": "f319d314-4310-4610-bcea-98c0128def1d",
+   "type": "creator"
+  }
+ ]
+}

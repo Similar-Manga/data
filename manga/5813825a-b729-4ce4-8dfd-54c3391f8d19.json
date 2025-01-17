@@ -65,7 +65,7 @@
    "uk",
    "it"
   ],
-  "latestUploadedChapter": "cd192ec1-0041-4399-9479-977ec1a4f1ce",
+  "latestUploadedChapter": "a1667572-eb18-4a8b-97b7-3d4cd433d67a",
   "tags": [
    {
     "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
@@ -76,6 +76,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "2bd2e8d0-f146-434a-9b51-fc9ff2c5fe6a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Genderswap"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -165,9 +177,9 @@
    }
   ],
   "state": "published",
-  "version": 40,
+  "version": 41,
   "createdAt": "2022-10-13T16:54:07+00:00",
-  "updatedAt": "2024-12-25T01:38:01+00:00"
+  "updatedAt": "2025-01-11T08:13:44+00:00"
  },
  "relationships": [
   {

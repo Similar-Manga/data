@@ -1,0 +1,169 @@
+{
+ "id": "d0769258-c365-4bac-8e39-6835342a4761",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Osananajimi no Yuri (Erotica Bonus Pages)"
+  },
+  "altTitles": [
+   {
+    "en": "Childhood Friend Yuri (Erotica Bonus Pages)"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://ando03uni2302.fanbox.cc/posts"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2023,
+  "contentRating": "erotica",
+  "availableTranslatedLanguages": [
+   "en",
+   "pt-br"
+  ],
+  "latestUploadedChapter": "7daebdf1-a471-46b1-b6f8-6c145f6350b9",
+  "tags": [
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f5ba408b-0e7a-484d-8d49-4e9125ac96de",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Full Color"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-09T13:29:23+00:00",
+  "updatedAt": "2025-01-09T13:29:43+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8c3b9e81-843c-498e-aaa2-f21acb682f25",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T11:53:42+00:00",
+    "fanBox": "https://ando03uni2302.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ando Uni",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/92336063",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ando03uni2302",
+    "updatedAt": "2024-12-30T07:04:12+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8c3b9e81-843c-498e-aaa2-f21acb682f25",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2024-12-24T11:53:42+00:00",
+    "fanBox": "https://ando03uni2302.fanbox.cc/",
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ando Uni",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/92336063",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ando03uni2302",
+    "updatedAt": "2024-12-30T07:04:12+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "90c91514-5af2-4c75-9829-2bbf3ce096c0",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-09T13:29:26+00:00",
+    "description": "",
+    "fileName": "f15fd981-4d85-4f27-890b-4960b93634b2.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-09T13:29:26+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "981ad6bb-9eab-4777-b39a-0acb0be1ef8b",
+   "type": "manga",
+   "related": "main_story"
+  },
+  {
+   "id": "b58899b5-f2b9-45b9-8048-16395cc30b08",
+   "type": "creator"
+  }
+ ]
+}

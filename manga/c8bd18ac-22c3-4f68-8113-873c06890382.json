@@ -1,0 +1,132 @@
+{
+ "id": "c8bd18ac-22c3-4f68-8113-873c06890382",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Migratory Bird Azure"
+  },
+  "altTitles": [
+   {
+    "ja": "渡り鳥のアズール"
+   },
+   {
+    "ja-ro": "Wataridori no Azure"
+   }
+  ],
+  "description": {
+   "en": "Won an honorable mention in the Girls \u0026 Women Division of the 91st Shougakugan Newcomer Comic Awards."
+  },
+  "links": {
+   "raw": "https://shincomi.shogakukan.co.jp/viewer/91/03/402.html"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2022,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "87cc87cd-a395-47af-b27a-93258283bbc6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adventure"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-11T01:04:14+00:00",
+  "updatedAt": "2025-01-11T01:05:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "db2082fd-d20f-4916-8941-9c6c0126543c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 緒川みのる"
+    },
+    "booth": null,
+    "createdAt": "2024-04-23T10:09:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ogawa Minoru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-06T20:21:33+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "db2082fd-d20f-4916-8941-9c6c0126543c",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 緒川みのる"
+    },
+    "booth": null,
+    "createdAt": "2024-04-23T10:09:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ogawa Minoru",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2024-12-06T20:21:33+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5365a336-4539-4304-b500-22eca82dabf8",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-11T01:04:24+00:00",
+    "description": "",
+    "fileName": "b009abbe-066e-4510-9864-21144b6331d3.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-11T01:04:24+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

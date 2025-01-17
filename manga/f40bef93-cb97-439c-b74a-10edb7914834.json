@@ -11,16 +11,21 @@
    }
   ],
   "description": {
-   "en": "The new \"Saint Seiya\" Spin-off Manga Series \"Saint Mariya\" by Shimotsuki Seira, Masami Kurumada is on cover of the upcoming Monthly Princess issue 2/2025."
+   "en": "Mariya enters Graad Academy and looks forward to her school life. However, something strange occurs in the auditorium due to a mysterious evil action... A new galactic myth is now born in a girl's manga! The Cosmos burns in flames! The war for the Sacred Cloth begins!"
   },
   "links": {
-   "al": "185323"
+   "al": "185323",
+   "mu": "x8rjqca"
   },
   "originalLanguage": "ja",
   "publicationDemographic": "shoujo",
   "status": "ongoing",
   "year": 2025,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "pt-br"
+  ],
+  "latestUploadedChapter": "fc5a1de8-666a-4df8-b203-1584bf9e28a4",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -95,6 +100,18 @@
     }
    },
    {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
@@ -103,6 +120,18 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
      "version": 1
     }
    },
@@ -132,9 +161,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 8,
   "createdAt": "2024-12-31T04:23:44+00:00",
-  "updatedAt": "2025-01-03T15:18:52+00:00"
+  "updatedAt": "2025-01-11T12:01:39+00:00"
  },
  "relationships": [
   {
@@ -190,17 +219,22 @@
    }
   },
   {
-   "id": "295d421a-cfd7-4fba-9469-5eeebf326b04",
+   "id": "b2d24270-85b1-4cf7-a3ee-0461e51de35e",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-12-31T04:23:48+00:00",
+    "createdAt": "2025-01-07T13:03:39+00:00",
     "description": "",
-    "fileName": "584e92b3-2f43-44a4-b0a6-9c89e3cd628d.jpg",
+    "fileName": "3ec87491-b1df-400c-8b34-56075b4f66e6.jpg",
     "locale": "ja",
-    "updatedAt": "2024-12-31T04:23:48+00:00",
+    "updatedAt": "2025-01-07T13:03:39+00:00",
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "cb43467f-8e3a-4e7f-9af9-7e48c1d6d0dc",
+   "type": "manga",
+   "related": "adapted_from"
   },
   {
    "id": "c819fa88-22dd-47b0-aa84-8f7e1d134ee0",

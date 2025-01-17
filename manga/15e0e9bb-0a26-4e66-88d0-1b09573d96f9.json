@@ -1,0 +1,170 @@
+{
+ "id": "15e0e9bb-0a26-4e66-88d0-1b09573d96f9",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sonic X Shadow TOKYO MISSION -Episode 0-"
+  },
+  "altTitles": [
+   {
+    "ja": "ソニック × シャドウ TOKYO MISSION -Episode 0-"
+   }
+  ],
+  "description": {
+   "en": "A specially drawn comic describing the prequel story not told in the movie!"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "46d9f17f-ac3c-4a8d-8515-1cf741e6b202",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-12T12:10:49+00:00",
+  "updatedAt": "2025-01-12T13:17:39+00:00"
+ },
+ "relationships": [
+  {
+   "id": "37f0e509-40af-42d3-9205-77ce3a093849",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-02-15T20:26:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Imada Yuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-02-15T20:26:23+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "37f0e509-40af-42d3-9205-77ce3a093849",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-02-15T20:26:23+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Imada Yuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-02-15T20:26:23+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "70dc1450-4fe4-4da8-a872-2f8da7177227",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T12:11:12+00:00",
+    "description": "",
+    "fileName": "b02f177e-9fe2-4414-a20d-3a21547df1d3.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T12:11:12+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "279cbf3f-97c0-4664-9277-2bd1f5d5233a",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "322d5f1f-0dde-4953-a937-4dabd3888123",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "54905caa-fce6-4f78-80ee-1942a1a9c489",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "f9aada04-49fb-4b74-a5e5-1e533b29b92f",
+   "type": "manga",
+   "related": "same_franchise"
+  },
+  {
+   "id": "b9c11dbe-e19e-413d-875f-975495045000",
+   "type": "creator"
+  }
+ ]
+}

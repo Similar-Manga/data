@@ -11,7 +11,7 @@
     "en": "Brand New School Day"
    },
    "contentRating": "safe",
-   "score": 0.3052665,
+   "score": 0.30526748,
    "languages": [
     "fr",
     "ru",
@@ -27,7 +27,7 @@
     "en": "My Girlfriend Will Be a Mangaka"
    },
    "contentRating": "safe",
-   "score": 0.3038354,
+   "score": 0.30379522,
    "languages": [
     "id",
     "vi",
@@ -41,54 +41,23 @@
     "en": "Jibun Daisuki Aise-san"
    },
    "contentRating": "safe",
-   "score": 0.3023426,
+   "score": 0.30234095,
    "languages": [
     "id",
     "en"
    ]
   },
   {
-   "id": "77591a0e-161a-4332-bc3d-8db07366baa4",
+   "id": "ef3ded9f-1ccc-4fae-af0d-31c4fa79b81c",
    "title": {
-    "en": "Nuide Moraou ka"
+    "en": "First Breakfast"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
+    "vi",
     "en",
-    "id",
-    "vi"
-   ]
-  },
-  {
-   "id": "5e4c1d1e-9f27-4485-a96e-01c24c079dad",
-   "title": {
-    "en": "Fukuwa-san in the Back Seat"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "id",
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "7785688a-fc62-49f3-8891-946877f01878",
-   "title": {
-    "en": "Koibito Tutorial"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl",
-    "ru",
-    "id",
-    "pt-br",
-    "ro",
-    "es-la",
-    "vi"
+    "id"
    ]
   },
   {
@@ -106,16 +75,16 @@
    ]
   },
   {
-   "id": "ef3ded9f-1ccc-4fae-af0d-31c4fa79b81c",
+   "id": "5e4c1d1e-9f27-4485-a96e-01c24c079dad",
    "title": {
-    "en": "First Breakfast"
+    "en": "Fukuwa-san in the Back Seat"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "vi",
+    "id",
     "en",
-    "id"
+    "vi"
    ]
   },
   {
@@ -134,48 +103,6 @@
     "pt-br",
     "tr",
     "it"
-   ]
-  },
-  {
-   "id": "4034c39b-4abb-48e0-a409-8996b33c44d8",
-   "title": {
-    "en": "The Hidden Face of Majime-chan, Who is Dedicated to Her Studies"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "id",
-    "pt-br"
-   ]
-  },
-  {
-   "id": "2e376c3e-deac-4988-a07b-ce72871b6932",
-   "title": {
-    "en": "A Childhood Friend"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "id",
-    "es-la"
-   ]
-  },
-  {
-   "id": "449a2863-792e-4bff-8d7c-345aa419afeb",
-   "title": {
-    "en": "Parasol Alliance"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "vi",
-    "es-la",
-    "pt-br",
-    "id",
-    "ru",
-    "th",
-    "en"
    ]
   },
   {
@@ -205,17 +132,6 @@
    ]
   },
   {
-   "id": "b3f4b11f-88fd-4730-a4c3-4c577d2b0f04",
-   "title": {
-    "en": "Itsumademo Mukashi no Kyorikan na Osananajimi"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "id"
-   ]
-  },
-  {
    "id": "7c01c790-da04-4a86-8fca-20b9cab6fefa",
    "title": {
     "en": "Note wo Otoshita dake nanoni"
@@ -226,7 +142,93 @@
     "id",
     "en"
    ]
+  },
+  {
+   "id": "9fd8b5a6-72ba-428a-8466-0226106412d8",
+   "title": {
+    "en": "Convenient April Fool"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "vi",
+    "id"
+   ]
+  },
+  {
+   "id": "449a2863-792e-4bff-8d7c-345aa419afeb",
+   "title": {
+    "en": "Parasol Alliance"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "vi",
+    "es-la",
+    "pt-br",
+    "id",
+    "ru",
+    "th",
+    "en"
+   ]
+  },
+  {
+   "id": "77591a0e-161a-4332-bc3d-8db07366baa4",
+   "title": {
+    "en": "Nuide Moraou ka"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "id",
+    "vi"
+   ]
+  },
+  {
+   "id": "7785688a-fc62-49f3-8891-946877f01878",
+   "title": {
+    "en": "Koibito Tutorial"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pl",
+    "ru",
+    "id",
+    "pt-br",
+    "ro",
+    "es-la",
+    "vi"
+   ]
+  },
+  {
+   "id": "2e376c3e-deac-4988-a07b-ce72871b6932",
+   "title": {
+    "en": "A Childhood Friend"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "id",
+    "es-la"
+   ]
+  },
+  {
+   "id": "4034c39b-4abb-48e0-a409-8996b33c44d8",
+   "title": {
+    "en": "The Hidden Face of Majime-chan, Who is Dedicated to Her Studies"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "id",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2025-01-08T01:24:46+00:00"
+ "updatedAt": "2025-01-16T00:43:03+00:00"
 }

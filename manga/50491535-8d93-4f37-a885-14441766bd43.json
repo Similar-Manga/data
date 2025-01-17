@@ -14,6 +14,9 @@
    },
    {
     "es-la": "Después de ayudar a la \"Princesa de hielo\" de otra escuela, decidimos empezar como amigos"
+   },
+   {
+    "vi": "Sau khi giúp đỡ \"Công chúa băng giá\" từ trường khác, chúng tôi bắt đầu làm bạn."
    }
   ],
   "description": {
@@ -40,7 +43,7 @@
    "pt-br",
    "vi"
   ],
-  "latestUploadedChapter": "8d0b0ded-00f3-465e-b8a1-a441d5595755",
+  "latestUploadedChapter": "78d4eefa-1a73-4296-ba1f-26ee499a113c",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -48,6 +51,18 @@
     "attributes": {
      "name": {
       "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
      },
      "description": {},
      "group": "genre",
@@ -104,9 +119,9 @@
    }
   ],
   "state": "published",
-  "version": 16,
+  "version": 18,
   "createdAt": "2024-05-12T06:57:55+00:00",
-  "updatedAt": "2024-11-07T22:37:25+00:00"
+  "updatedAt": "2025-01-12T13:44:08+00:00"
  },
  "relationships": [
   {
@@ -162,16 +177,16 @@
    }
   },
   {
-   "id": "f0145a28-1743-450e-9bc7-6835b51c897f",
+   "id": "4ae65af4-54dd-4bd6-8d95-e58fa6de42a8",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-05-26T10:55:44+00:00",
+    "createdAt": "2025-01-12T10:15:54+00:00",
     "description": "",
-    "fileName": "11639988-5c94-4d23-ac49-19afe16396f7.png",
+    "fileName": "e27187bc-da13-4fda-ad1d-b69f5623e94d.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-04T13:39:15+00:00",
-    "version": 3,
-    "volume": null
+    "updatedAt": "2025-01-12T10:15:54+00:00",
+    "version": 1,
+    "volume": "1"
    }
   },
   {

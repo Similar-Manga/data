@@ -16,8 +16,11 @@
     "en": "I Want to Tell You How Much I Like You"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Published as part of the 45th Sunday Battle 8. Theme: anger."
+  },
   "links": {
+   "ap": "suki-wo-tsutaetai",
    "mal": "172099",
    "mu": "i1a8p5p",
    "raw": "https://www.sunday-webry.com/episode/2550689798380877508"
@@ -56,6 +59,18 @@
     }
    },
    {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
     "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
     "type": "tag",
     "attributes": {
@@ -66,12 +81,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 9,
   "createdAt": "2024-07-09T11:23:05+00:00",
-  "updatedAt": "2024-07-14T07:24:06+00:00"
+  "updatedAt": "2025-01-09T03:00:31+00:00"
  },
  "relationships": [
   {
@@ -79,7 +106,7 @@
    "type": "author",
    "attributes": {
     "biography": {
-     "en": "**Native name**: 森川佐太郎"
+     "en": "**Name In Native Language:** 森川佐太郎\n\nAssistant of [Doumoto Yuuki](https://mangadex.org/author/53865d17-a70e-4e8a-9352-9722c427ebe5)."
     },
     "booth": null,
     "createdAt": "2024-07-09T11:21:25+00:00",
@@ -94,9 +121,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-07-11T11:49:01+00:00",
-    "version": 3,
+    "twitter": "https://twitter.com/satarou0905",
+    "updatedAt": "2025-01-09T02:25:56+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -107,7 +134,7 @@
    "type": "artist",
    "attributes": {
     "biography": {
-     "en": "**Native name**: 森川佐太郎"
+     "en": "**Name In Native Language:** 森川佐太郎\n\nAssistant of [Doumoto Yuuki](https://mangadex.org/author/53865d17-a70e-4e8a-9352-9722c427ebe5)."
     },
     "booth": null,
     "createdAt": "2024-07-09T11:21:25+00:00",
@@ -122,9 +149,9 @@
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2024-07-11T11:49:01+00:00",
-    "version": 3,
+    "twitter": "https://twitter.com/satarou0905",
+    "updatedAt": "2025-01-09T02:25:56+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null

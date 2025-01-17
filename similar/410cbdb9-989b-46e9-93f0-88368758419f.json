@@ -11,11 +11,12 @@
     "en": "Hikaru ga Shinda Natsu"
    },
    "contentRating": "safe",
-   "score": 0.3919511,
+   "score": 0.39210364,
    "languages": [
     "pt-br",
     "en",
     "uk",
+    "cs",
     "es-la",
     "hu",
     "id"
@@ -27,7 +28,7 @@
     "en": "Cinderella Closet"
    },
    "contentRating": "safe",
-   "score": 0.38105875,
+   "score": 0.38117278,
    "languages": [
     "en"
    ]
@@ -38,7 +39,7 @@
     "en": "Maou Lover"
    },
    "contentRating": "safe",
-   "score": 0.37480396,
+   "score": 0.37499505,
    "languages": [
     "en"
    ]
@@ -49,7 +50,7 @@
     "en": "Tensei Idol to Doruota no Kishi"
    },
    "contentRating": "safe",
-   "score": 0.34791163,
+   "score": 0.34807745,
    "languages": [
     "en"
    ]
@@ -60,7 +61,7 @@
     "en": "Kenshuui wa Koakuma to Odoru"
    },
    "contentRating": "safe",
-   "score": 0.31240588,
+   "score": 0.3124122,
    "languages": [
     "en"
    ]
@@ -71,71 +72,27 @@
     "en": "Kooru Shakunetsu"
    },
    "contentRating": "safe",
-   "score": 0.2936325,
+   "score": 0.2936348,
    "languages": [
     "en",
     "pl"
    ]
   },
   {
-   "id": "1fb2b24f-9208-4a51-9a3b-19c84ca3d505",
-   "title": {
-    "en": "Okama Waltz"
-   },
-   "contentRating": "safe",
-   "score": 0.2835781,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f9bcf27a-d0d8-4abd-bb4b-3908d1e48214",
-   "title": {
-    "en": "Mou Sukoshi dake, Soba ni Ite"
-   },
-   "contentRating": "safe",
-   "score": 0.2835781,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "5bcac780-a7a8-45d7-a54c-157dc7cbc36e",
-   "title": {
-    "en": "Star Collector"
-   },
-   "contentRating": "safe",
-   "score": 0.2835781,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e6bf1178-5ad4-4c90-b70c-ba35c646abe8",
-   "title": {
-    "en": "Harusame Tunnel"
-   },
-   "contentRating": "safe",
-   "score": 0.2835781,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "48d9a13c-e2c2-475f-ba89-b9ed3db19fda",
-   "title": {
-    "en": "Ienekonora wa Oogataken ga Nigate"
-   },
-   "contentRating": "safe",
-   "score": 0.2835781,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "1bb36bea-5f0b-4c15-84f8-2ecfc01725f0",
    "title": {
     "en": "Soredemo Shutter no Oto wa Naru"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "1fb2b24f-9208-4a51-9a3b-19c84ca3d505",
+   "title": {
+    "en": "Okama Waltz"
    },
    "contentRating": "safe",
    "score": 0.2835781,
@@ -155,9 +112,20 @@
    ]
   },
   {
-   "id": "fb8ab84d-c4bd-47c2-8766-a2e54b80d568",
+   "id": "5bcac780-a7a8-45d7-a54c-157dc7cbc36e",
    "title": {
-    "en": "Bloom Brothers"
+    "en": "Star Collector"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "48d9a13c-e2c2-475f-ba89-b9ed3db19fda",
+   "title": {
+    "en": "Ienekonora wa Oogataken ga Nigate"
    },
    "contentRating": "safe",
    "score": 0.2835781,
@@ -177,16 +145,49 @@
    ]
   },
   {
+   "id": "f9bcf27a-d0d8-4abd-bb4b-3908d1e48214",
+   "title": {
+    "en": "Mou Sukoshi dake, Soba ni Ite"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "fb8ab84d-c4bd-47c2-8766-a2e54b80d568",
+   "title": {
+    "en": "Bloom Brothers"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "e6bf1178-5ad4-4c90-b70c-ba35c646abe8",
+   "title": {
+    "en": "Harusame Tunnel"
+   },
+   "contentRating": "safe",
+   "score": 0.2835781,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "423ef7d6-c45b-4568-965e-4186488c2f0c",
    "title": {
     "en": "Triangle Bookend"
    },
    "contentRating": "safe",
-   "score": 0.276467,
+   "score": 0.27648982,
    "languages": [
     "en"
    ]
   }
  ],
- "updatedAt": "2025-01-08T00:27:48+00:00"
+ "updatedAt": "2025-01-15T23:41:37+00:00"
 }

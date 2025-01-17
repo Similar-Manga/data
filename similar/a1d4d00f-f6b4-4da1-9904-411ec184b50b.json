@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "3b5ce4ef-ed76-4b70-97c7-52ae2231d6f9",
-   "title": {
-    "en": "Hanzai Koushounin Minegishi Eitarou"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "609ccb17-fd83-4126-876a-5bf8c037b065",
    "title": {
     "en": "Sonna Kazoku nara Sutechaeba?"
@@ -30,12 +19,23 @@
    ]
   },
   {
+   "id": "3b5ce4ef-ed76-4b70-97c7-52ae2231d6f9",
+   "title": {
+    "en": "Hanzai Koushounin Minegishi Eitarou"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "55226f5d-c4bb-4eff-95e6-896bf1977968",
    "title": {
     "en": "Nao Go Straight -Guide Dog Trainer-"
    },
    "contentRating": "safe",
-   "score": 0.22944812,
+   "score": 0.22941719,
    "languages": [
     "en"
    ]
@@ -46,10 +46,11 @@
     "en": "Rumic Theater"
    },
    "contentRating": "safe",
-   "score": 0.21928743,
+   "score": 0.21938139,
    "languages": [
     "en",
     "pl",
+    "pt-br",
     "bg",
     "zh-hk"
    ]
@@ -60,18 +61,7 @@
     "en": "Coffee Mou Ippai"
    },
    "contentRating": "safe",
-   "score": 0.20624049,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
-   "title": {
-    "en": "B"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
+   "score": 0.20625274,
    "languages": [
     "en"
    ]
@@ -80,52 +70,6 @@
    "id": "af2b38df-05bf-44b7-b604-3579072c590d",
    "title": {
     "en": "Vlad Dracula"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "92a46ccf-cf75-41dd-8a69-7016e4521102",
-   "title": {
-    "en": "Shadow Mahjong Fighter Mamiya"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
-   "title": {
-    "en": "JUMBO MAX"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "79513279-130d-461a-8a42-4c928fce1e80",
-   "title": {
-    "en": "Kaiji before Espoir"
-   },
-   "contentRating": "safe",
-   "score": 0.19047621,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
-   "title": {
-    "en": "REVOLT"
    },
    "contentRating": "safe",
    "score": 0.19047621,
@@ -158,6 +102,29 @@
    ]
   },
   {
+   "id": "d0e68889-154a-45cd-ae15-dfd86dd6dc69",
+   "title": {
+    "en": "REVOLT"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "2f2fc565-07db-4d2c-a246-5a6ee8aec79a",
+   "title": {
+    "en": "JUMBO MAX"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
    "id": "052e5256-6d5f-4591-8b17-35f628085a9c",
    "title": {
     "en": "Snow Blind"
@@ -187,16 +154,52 @@
    ]
   },
   {
-   "id": "f1cf9313-acaf-4e78-93da-6f2f2a419047",
+   "id": "92a46ccf-cf75-41dd-8a69-7016e4521102",
    "title": {
-    "en": "Be for the Beast Day.1"
+    "en": "Shadow Mahjong Fighter Mamiya"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "79513279-130d-461a-8a42-4c928fce1e80",
+   "title": {
+    "en": "Kaiji before Espoir"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8788ca54-24a9-4f98-a7fa-143f070a809a",
+   "title": {
+    "en": "B"
+   },
+   "contentRating": "safe",
+   "score": 0.19047621,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "03f0e455-26ab-482a-be63-d66236f2d240",
+   "title": {
+    "en": "DOG MATIC"
    },
    "contentRating": "safe",
    "score": 0.1870439,
    "languages": [
-    "en"
+    "vi",
+    "en",
+    "es-la"
    ]
   }
  ],
- "updatedAt": "2025-01-08T01:11:08+00:00"
+ "updatedAt": "2025-01-16T00:28:39+00:00"
 }

@@ -1,0 +1,115 @@
+{
+ "id": "07a356ef-65e0-4447-949e-223a69988778",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Alien Eiri"
+  },
+  "altTitles": [
+   {
+    "ja": "エイリアン永理"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "107228",
+   "mal": "97105",
+   "mu": "mh5u5y9"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "31",
+  "status": "completed",
+  "year": 1997,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T18:45:28+00:00",
+  "updatedAt": "2025-01-12T18:59:20+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "37d4c6c6-3fd5-4df0-bb7b-a5394cd5ac20",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T18:45:30+00:00",
+    "description": "",
+    "fileName": "b286da3d-a2a4-4c51-ac9c-cf238df68ed4.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T18:45:30+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

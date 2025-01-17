@@ -1,0 +1,126 @@
+{
+ "id": "e3564c28-cdf0-445c-9c1b-ca2bf3ee08cb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Himena Kamena"
+  },
+  "altTitles": [
+   {
+    "ja": "ひめなカメナ"
+   },
+   {
+    "ja-ro": "Hime na Kamena"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "37339",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B077L8WB2Y?binding=kindle_edition\u0026ref_=dbs_s_ks_series_rwt_tkin\u0026qid=1736598909\u0026sr=1-1",
+   "bw": "series/129687/list",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/160282/",
+   "mal": "7339",
+   "mu": "tbrl6gg"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "4",
+  "lastChapter": "32",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2005,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-11T12:37:40+00:00",
+  "updatedAt": "2025-01-11T12:37:59+00:00"
+ },
+ "relationships": [
+  {
+   "id": "60130e62-fdd0-4909-8852-ddf836248fd3",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nYuki Shinichi\n結城心一 "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuuki Shinichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/532816",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/yuhki_shinichi",
+    "updatedAt": "2023-03-25T18:38:23+00:00",
+    "version": 3,
+    "website": "http://www92.sakura.ne.jp/~yuhki/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "60130e62-fdd0-4909-8852-ddf836248fd3",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nYuki Shinichi\n結城心一 "
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yuuki Shinichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/532816",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/yuhki_shinichi",
+    "updatedAt": "2023-03-25T18:38:23+00:00",
+    "version": 3,
+    "website": "http://www92.sakura.ne.jp/~yuhki/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a942d73d-d23a-4c5d-b2aa-16000b3a1177",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-11T12:37:45+00:00",
+    "description": "",
+    "fileName": "87f6037d-ecb7-45c8-9831-5c8f8ca862b6.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-11T12:37:45+00:00",
+    "version": 1,
+    "volume": "4"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

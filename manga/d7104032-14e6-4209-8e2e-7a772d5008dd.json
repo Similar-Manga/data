@@ -1,0 +1,141 @@
+{
+ "id": "d7104032-14e6-4209-8e2e-7a772d5008dd",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Psycho Eyes"
+  },
+  "altTitles": [
+   {
+    "ja": "サイコアイズ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DFNRSMN4",
+   "bw": "series/505497/list",
+   "raw": "https://www.sunday-webry.com/episode/2550912964555826946"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 5,
+  "createdAt": "2025-01-08T07:36:51+00:00",
+  "updatedAt": "2025-01-13T14:59:56+00:00"
+ },
+ "relationships": [
+  {
+   "id": "f97d6811-8494-473b-9978-1d651f8c9c94",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** カトウタカヒロ\n\n**Circle:** Mogu-mogu Abura-age (モグモグアブラアゲ)\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/oiign)\n- [Bluesky](https://bsky.app/profile/ogitaka96.bsky.social)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=125158",
+    "name": "Katou Takahiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/1962168",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ogitaka96",
+    "updatedAt": "2025-01-09T13:30:34+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f97d6811-8494-473b-9978-1d651f8c9c94",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** カトウタカヒロ\n\n**Circle:** Mogu-mogu Abura-age (モグモグアブラアゲ)\n\n**Additional Sites:**\n- [Instagram](https://www.instagram.com/oiign)\n- [Bluesky](https://bsky.app/profile/ogitaka96.bsky.social)"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": "https://www.melonbooks.co.jp/circle/index.php?circle_id=125158",
+    "name": "Katou Takahiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/users/1962168",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/ogitaka96",
+    "updatedAt": "2025-01-09T13:30:34+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b16f1854-9b05-4dc3-9b94-c7d9fce5813c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-08T07:37:00+00:00",
+    "description": "",
+    "fileName": "945cdf5f-6413-4282-852b-42a7d579e48f.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-08T07:37:00+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

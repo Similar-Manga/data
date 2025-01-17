@@ -3,19 +3,28 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "CLANNAD: Kotomi's Spell"
+   "en": "Clannad - Himetaru Omoi (Doujinshi)"
   },
   "altTitles": [
    {
-    "ja": "CLANNAD ヒメタルオモイ"
+    "ja": "ヒメタルオモイ (CLANNAD)"
+   },
+   {
+    "en": "Kotomi's Spell (Clannad)"
    }
   ],
   "description": {},
+  "links": {
+   "raw": "https://www.suruga-ya.jp/product/detail/ZHORE40903"
+  },
   "originalLanguage": "ja",
-  "lastChapter": "1",
   "status": "completed",
   "year": 2004,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "a1f32c21-5d0a-4f29-b9cc-0182ed4987b3",
   "tags": [
    {
     "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
@@ -42,30 +51,6 @@
     }
    },
    {
-    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Comedy"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
-   {
-    "id": "891cf039-b895-47f0-9229-bef4c96eccd4",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Self-Published"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
     "type": "tag",
     "attributes": {
@@ -74,18 +59,6 @@
      },
      "description": {},
      "group": "format",
-     "version": 1
-    }
-   },
-   {
-    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Drama"
-     },
-     "description": {},
-     "group": "genre",
      "version": 1
     }
    },
@@ -115,9 +88,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2025-01-07T03:42:15+00:00",
-  "updatedAt": "2025-01-07T06:46:07+00:00"
+  "updatedAt": "2025-01-08T05:27:48+00:00"
  },
  "relationships": [
   {
@@ -131,7 +104,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Studio NG",
+    "name": "Studio NG (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -139,8 +112,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2025-01-07T03:38:11+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-08T05:23:45+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -183,7 +156,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Studio NG",
+    "name": "Studio NG (Circle)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -191,8 +164,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2025-01-07T03:38:11+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-08T05:23:45+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -236,6 +209,11 @@
     "version": 1,
     "volume": "1"
    }
+  },
+  {
+   "id": "a3f5d02e-d49b-46d9-ac54-6a7a4fd2d443",
+   "type": "manga",
+   "related": "based_on"
   },
   {
    "id": "cd9b7c3b-b034-488f-802d-af40df4d1027",

@@ -1,0 +1,155 @@
+{
+ "id": "f323e102-8ffa-4541-9d80-f8e610fb825b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ame to umi"
+  },
+  "altTitles": [
+   {
+    "ja": "あめとうみ"
+   },
+   {
+    "ja": "雨と海"
+   },
+   {
+    "en": "Rain and Sea"
+   },
+   {
+    "en": "Ame and Sea"
+   },
+   {
+    "ru": "Дождь и Море"
+   },
+   {
+    "ru": "Амэ и Уми"
+   }
+  ],
+  "description": {},
+  "links": {
+   "raw": "https://jumpsq.shueisha.co.jp/rensai/ametoumi/"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-09T22:45:24+00:00",
+  "updatedAt": "2025-01-09T22:46:25+00:00"
+ },
+ "relationships": [
+  {
+   "id": "fbae58c4-e332-482c-86fb-d86ebd1e1166",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nヤマガタアツカ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamagata Atsuka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-06-09T21:29:42+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fbae58c4-e332-482c-86fb-d86ebd1e1166",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Alt names**:\nヤマガタアツカ"
+    },
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Yamagata Atsuka",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-06-09T21:29:42+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "42b927e6-a744-4e37-b939-d3d44984bfd9",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-09T22:45:38+00:00",
+    "description": "",
+    "fileName": "f579a953-4546-4b3d-924e-1bcc145c29bd.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-09T22:45:38+00:00",
+    "version": 1,
+    "volume": "0"
+   }
+  },
+  {
+   "id": "5d54dfc3-9ceb-4c37-b45d-1638d00bfc15",
+   "type": "creator"
+  }
+ ]
+}

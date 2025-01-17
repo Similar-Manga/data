@@ -11,7 +11,7 @@
     "en": "My Home Afro Tanaka"
    },
    "contentRating": "safe",
-   "score": 0.3162409
+   "score": 0.31623852
   },
   {
    "id": "f1410291-02e0-4881-80ad-85abed3d9127",
@@ -19,7 +19,15 @@
     "en": "Princess Maison"
    },
    "contentRating": "safe",
-   "score": 0.31319863
+   "score": 0.31320086
+  },
+  {
+   "id": "508c4887-be01-45f3-a912-9d221712dc04",
+   "title": {
+    "en": "Chiseigaku Boys - Koku ga Salaryman ni natte Hataraku Kaisha"
+   },
+   "contentRating": "safe",
+   "score": 0.30550194
   },
   {
    "id": "e4311f19-8cc4-4161-8793-492cfc1e9a47",
@@ -27,7 +35,7 @@
     "en": "Sensha No Kaikata"
    },
    "contentRating": "safe",
-   "score": 0.30044484
+   "score": 0.3004529
   },
   {
    "id": "16986de0-8842-44eb-8ec1-750594362b93",
@@ -35,7 +43,7 @@
     "en": "Tawaman de Fukou ni Naranai Houhou"
    },
    "contentRating": "safe",
-   "score": 0.29618016
+   "score": 0.29618883
   },
   {
    "id": "2de5ebef-72be-44f1-941b-21a5cd49b593",
@@ -43,7 +51,7 @@
     "en": "Tokyo Fukagawa Sandaime"
    },
    "contentRating": "safe",
-   "score": 0.29547295
+   "score": 0.2954708
   },
   {
    "id": "f4e6c234-4c3b-4e7f-a684-e074264142fd",
@@ -51,7 +59,7 @@
     "en": "Are You A Cat?"
    },
    "contentRating": "safe",
-   "score": 0.29541588,
+   "score": 0.2954182,
    "languages": [
     "en"
    ]
@@ -62,7 +70,7 @@
     "en": "Koikuchi Room Share"
    },
    "contentRating": "safe",
-   "score": 0.29504126
+   "score": 0.2950392
   },
   {
    "id": "ce8e0d23-f93f-45f3-9cba-1f3f6f36b3ff",
@@ -70,70 +78,11 @@
     "en": "Mirukarani Ayashii Futari"
    },
    "contentRating": "safe",
-   "score": 0.29276085,
+   "score": 0.29276258,
    "languages": [
     "en",
     "pt-br"
    ]
-  },
-  {
-   "id": "cd9c1074-7937-40de-8d59-ff1fec7e3d58",
-   "title": {
-    "en": "Kotori Bunsho"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "b1a6ffb2-7dab-40ab-bc0f-908cecdc42b4",
-   "title": {
-    "en": "Nico Nicholson no Manga Doujouyaburi"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "93deca82-3862-4f9a-92b1-3c2fca679da5",
-   "title": {
-    "en": "3-bu Youjinbou Yoko-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "1cafd3cb-4f29-4229-9e10-40155e102fb1",
-   "title": {
-    "en": "Tokyo no Daidokoro"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "5cd831ea-cb54-459d-b99f-fb83655fb767",
-   "title": {
-    "en": "Seiri-chan"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "9b6b2c15-15af-4456-bd26-f8cbb27b754d",
-   "title": {
-    "en": "Solo Camp Numa no Mineko-san"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
-  },
-  {
-   "id": "0edec823-9006-4dda-8e21-90ca21060025",
-   "title": {
-    "en": "Bidaimichi!"
-   },
-   "contentRating": "safe",
-   "score": 0.28508148
   },
   {
    "id": "01c52e9d-855a-448b-a6e1-a04865f472a5",
@@ -145,7 +94,63 @@
    "languages": [
     "zh"
    ]
+  },
+  {
+   "id": "0edec823-9006-4dda-8e21-90ca21060025",
+   "title": {
+    "en": "Bidaimichi!"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "f42b7a16-8e22-48fc-ad84-044632b6ef2d",
+   "title": {
+    "en": "Ponshu-bu!"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "8a583c3f-eace-43e5-8a87-babe512e09eb",
+   "title": {
+    "en": "Adam to Eve no Rakuen Tsuihou Sareta Kedo..."
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "9378c75e-4cd7-4c6a-8ee3-7bbfb4f3ee54",
+   "title": {
+    "en": "Shima-san"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en",
+    "zh"
+   ]
+  },
+  {
+   "id": "93deca82-3862-4f9a-92b1-3c2fca679da5",
+   "title": {
+    "en": "3-bu Youjinbou Yoko-chan"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148
+  },
+  {
+   "id": "c9aaa96b-36fc-41c5-a427-6e39c26b7720",
+   "title": {
+    "en": "Fuku wo Kiru nara Konna Fuu ni"
+   },
+   "contentRating": "safe",
+   "score": 0.28508148,
+   "languages": [
+    "en",
+    "pt-br"
+   ]
   }
  ],
- "updatedAt": "2025-01-08T01:09:45+00:00"
+ "updatedAt": "2025-01-16T00:27:13+00:00"
 }

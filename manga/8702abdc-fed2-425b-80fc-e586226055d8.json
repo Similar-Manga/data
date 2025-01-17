@@ -3,14 +3,35 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hetalia - He Used To Be Vanya (doujinshi)"
+   "en": "Hetalia - Ivan's Heart (Doujinshi)"
   },
+  "altTitles": [
+   {
+    "ja": "ヴァーニャ、ヴァーニャ、おまえの心臓はどこだい?それが無くとも、おまえは死なない!"
+   },
+   {
+    "ja-ro": "Hetalia - Vanya, Vanya, Omae no Shinzou wa Dokodai? Sore ga Muku to mo, Omae wa Shi na Nai! (Doujinshi)"
+   },
+   {
+    "en": "Hetalia - Vanya, Vanya, Where Is Your Heart? Even Without It, You Won't Die! (Doujinshi)"
+   },
+   {
+    "en": "Hetalia - The Pulse of the Sunflowers (Doujinshi)"
+   },
+   {
+    "en": "Hetalia - He Used To Be Vanya (Doujinshi)"
+   }
+  ],
   "description": {
-   "en": "Ivan entrusts America with the last piece of him."
+   "en": "Two stories about Ivan’s heart and why he chooses to entrust it to his rival, America."
   },
   "originalLanguage": "ja",
   "status": "completed",
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "17856d8b-1378-4354-b5cd-75fcebdf8ca5",
   "tags": [
    {
     "id": "b13b2a48-c720-44a9-9c77-39c9979373fb",
@@ -38,9 +59,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 6,
   "createdAt": "2025-01-06T00:46:29+00:00",
-  "updatedAt": "2025-01-06T00:48:58+00:00"
+  "updatedAt": "2025-01-08T05:54:02+00:00"
  },
  "relationships": [
   {
@@ -96,15 +117,15 @@
    }
   },
   {
-   "id": "31d839f4-99c5-4629-b4a5-84e8f041ebd6",
+   "id": "f8013ebc-5ce2-4b4c-8cff-f6d481c45bf7",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2025-01-06T00:46:32+00:00",
+    "createdAt": "2025-01-07T16:53:09+00:00",
     "description": "",
-    "fileName": "c9cf7311-27a6-422b-b8d9-a2877745ae9c.jpg",
+    "fileName": "6099f11c-cc92-41f4-9fed-05b35cdfaa1b.jpg",
     "locale": "ja",
-    "updatedAt": "2025-01-06T00:46:32+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-07T16:55:13+00:00",
+    "version": 2,
     "volume": "1"
    }
   },

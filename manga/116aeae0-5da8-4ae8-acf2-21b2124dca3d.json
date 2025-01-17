@@ -8,10 +8,14 @@
   "altTitles": [
    {
     "ja": "Dr.アブノのイケない病"
+   },
+   {
+    "en": "Doctor Abno's Inappropriate Illness"
    }
   ],
   "description": {},
   "links": {
+   "bw": "series/468583/list",
    "mu": "tz1qilr",
    "raw": "https://peep.jp/stories/IkTG5etDcdvOH7te"
   },
@@ -19,14 +23,38 @@
   "publicationDemographic": "seinen",
   "status": "ongoing",
   "year": 2024,
-  "contentRating": "safe",
+  "contentRating": "suggestive",
   "tags": [
+   {
+    "id": "07251805-a27e-4d59-b488-f0bfbec15168",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Thriller"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
     "type": "tag",
     "attributes": {
      "name": {
       "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "c8cbe35b-1b2b-4a3f-9c37-db84c4514856",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Medical"
      },
      "description": {},
      "group": "genre",
@@ -47,9 +75,9 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2024-11-01T11:26:11+00:00",
-  "updatedAt": "2024-11-18T07:30:58+00:00"
+  "updatedAt": "2025-01-10T16:10:29+00:00"
  },
  "relationships": [
   {
@@ -131,14 +159,14 @@
    }
   },
   {
-   "id": "0dd6638e-28a3-4773-8c1d-ddc6fa89d117",
+   "id": "5cf46f17-a3ae-46a4-826a-a8ee701e8599",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-01T11:26:12+00:00",
-    "description": "",
-    "fileName": "875d132a-153c-4c14-b033-70b14d5c789b.jpg",
+    "createdAt": "2025-01-10T16:10:28+00:00",
+    "description": "Cover from BookLive replacing the previous 180x254 cover",
+    "fileName": "83c0237b-f30b-45b4-93cb-13eb89d40adc.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-01T11:26:12+00:00",
+    "updatedAt": "2025-01-10T16:10:28+00:00",
     "version": 1,
     "volume": "1"
    }

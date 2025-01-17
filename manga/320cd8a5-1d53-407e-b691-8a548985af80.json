@@ -1,0 +1,117 @@
+{
+ "id": "320cd8a5-1d53-407e-b691-8a548985af80",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Nemuranai Eve"
+  },
+  "altTitles": [
+   {
+    "ja": "眠らないイヴ"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "105476",
+   "amz": "https://www.amazon.co.jp/-/en/%E9%AD%94%E5%A4%9C%E5%B3%B0%E5%A4%AE-ebook/dp/B07KKCYRLL/ref=sr_1_1?crid=1ZKTUUA07R6EY\u0026dib=eyJ2IjoiMSJ9.TD2CdRGxJVVO-CU3seqplq2EbtquIxLlhAEAR0hykq4.AU7KDhIGORc43OilDNKp7owmrW9Rr4p4lPPHFYLImaQ\u0026dib_tag=se\u0026keywords=%E7%9C%A0%E3%82%89%E3%81%AA%E3%81%84%E3%82%A4%E3%83%B4\u0026qid=1736714212\u0026s=digital-text\u0026sprefix=%E7%9C%A0%E3%82%89%E3%81%AA%E3%81%84%E3%82%A4%E3%83%B4%2Cdigital-text%2C528\u0026sr=1-1",
+   "bw": "decba4188c-4f1e-407a-8197-dd33c3d02916",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/509817/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "20",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2001,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T20:40:23+00:00",
+  "updatedAt": "2025-01-12T21:07:08+00:00"
+ },
+ "relationships": [
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c0f4ab04-6a8c-421c-b838-be8fcfcdda6c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T20:40:25+00:00",
+    "description": "",
+    "fileName": "02760355-f601-4cc2-a97e-a914812ce889.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T20:40:25+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

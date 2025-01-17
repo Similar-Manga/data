@@ -38,7 +38,7 @@
    "pt-br",
    "es-la"
   ],
-  "latestUploadedChapter": "bca06f2a-a03d-4937-a915-2f06ea48d049",
+  "latestUploadedChapter": "653c4872-7e78-44cd-af58-a192d3324759",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -46,6 +46,18 @@
     "attributes": {
      "name": {
       "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
      },
      "description": {},
      "group": "genre",
@@ -75,12 +87,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "fad12b5e-68ba-460e-b933-9ae8318f5b65",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gyaru"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 9,
+  "version": 10,
   "createdAt": "2024-08-27T11:57:40+00:00",
-  "updatedAt": "2025-01-07T01:43:46+00:00"
+  "updatedAt": "2025-01-10T15:38:58+00:00"
  },
  "relationships": [
   {

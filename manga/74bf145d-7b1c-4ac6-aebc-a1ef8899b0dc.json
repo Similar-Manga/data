@@ -3,30 +3,37 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "A Pair of Childhood Friends Who Were Put into One of \"Those\" Rooms"
+   "en": "Rei no Heya ni Irerarechatta Osananajimi no Futari"
   },
   "altTitles": [
    {
     "ja": "例の部屋にいれられちゃった幼馴染の2人"
    },
    {
-    "ja-ro": "Rei no Heya ni Irerarechatta Osananajimi no Futari"
+    "en": "A Pair of Childhood Friends Who Were Put into One of \"Those\" Rooms"
    }
   ],
-  "description": {},
+  "description": {
+   "ja": "幼馴染のせいじとまい。ある日2人が目が覚ますと、2人はなぜかネットでよく見る「○○するまで出られない部屋」に入れられていた。○○するまで出られない部屋について何もしらないせいじ。せいじのことが気になっているため、絶対せいじに何の部屋なのか知られたくないまい。果たして2人はこの部屋から出ることはできるのか？部屋から出るための条件は…やっぱりアレなのか？"
+  },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/B08SQCK52M",
+   "bw": "series/275337",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/611615",
+   "mu": "o5f8pz8",
    "raw": "https://www.pixiv.net/en/artworks/81506782"
   },
   "originalLanguage": "ja",
   "lastVolume": "3",
   "lastChapter": "27",
+  "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2022,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "db304801-d317-49a8-9a1a-31377161bd29",
+  "latestUploadedChapter": "c73bc69d-d28c-48f8-b3f8-62fa2a95668a",
   "tags": [
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
@@ -78,9 +85,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2023-03-04T13:26:01+00:00",
-  "updatedAt": "2024-02-12T07:42:53+00:00"
+  "updatedAt": "2025-01-14T13:39:54+00:00"
  },
  "relationships": [
   {
@@ -88,25 +95,25 @@
    "type": "author",
    "attributes": {
     "biography": {},
-    "booth": null,
+    "booth": "https://sapuriba.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://sapuriba.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
     "name": "Yamaguchi Sapuri",
     "namicomi": null,
     "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "nicoVideo": "https://www.nicovideo.jp/user/1164507",
+    "pixiv": "https://www.pixiv.net/en/users/89818",
+    "skeb": "https://skeb.jp/@sapuriba",
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/sapuribadoujin",
+    "updatedAt": "2025-01-14T07:44:16+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@sapuriba-youtube"
    }
   },
   {
@@ -114,38 +121,38 @@
    "type": "artist",
    "attributes": {
     "biography": {},
-    "booth": null,
+    "booth": "https://sapuriba.booth.pm/",
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://sapuriba.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
     "name": "Yamaguchi Sapuri",
     "namicomi": null,
     "naver": null,
-    "nicoVideo": null,
-    "pixiv": null,
-    "skeb": null,
+    "nicoVideo": "https://www.nicovideo.jp/user/1164507",
+    "pixiv": "https://www.pixiv.net/en/users/89818",
+    "skeb": "https://skeb.jp/@sapuriba",
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/sapuribadoujin",
+    "updatedAt": "2025-01-14T07:44:16+00:00",
+    "version": 3,
     "website": null,
     "weibo": null,
-    "youtube": null
+    "youtube": "https://www.youtube.com/@sapuriba-youtube"
    }
   },
   {
-   "id": "446fb844-c9f0-4be8-8dd8-996c7be6e501",
+   "id": "31574493-943c-445d-afff-5307e89cb2b8",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2023-03-04T13:26:03+00:00",
-    "description": "",
-    "fileName": "d50a2009-7117-4f5a-a875-245ed7a5ef70.png",
+    "createdAt": "2025-01-14T07:41:34+00:00",
+    "description": "Volume Cover From Amazon",
+    "fileName": "fb13a7cb-0106-4168-a79e-72c33863375a.jpg",
     "locale": "ja",
-    "updatedAt": "2023-03-04T13:26:03+00:00",
+    "updatedAt": "2025-01-14T07:41:34+00:00",
     "version": 1,
-    "volume": "1"
+    "volume": "3"
    }
   },
   {

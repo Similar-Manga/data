@@ -6,19 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "23f136e5-d15b-4052-803b-3acc7c665105",
-   "title": {
-    "en": "Drunk Elves Harassing an Orc in a Tavern"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "hi",
-    "en",
-    "pt-br"
-   ]
-  },
-  {
    "id": "488a68b9-f0dd-49b7-9e9f-afcaa3ec9022",
    "title": {
     "en": "Drunk Elves harassing an Orc in a Tavern (Redrawn)"
@@ -40,6 +27,19 @@
    "score": 0.2857143,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "23f136e5-d15b-4052-803b-3acc7c665105",
+   "title": {
+    "en": "Drunk Elves Harassing an Orc in a Tavern"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "hi",
+    "en",
+    "pt-br"
    ]
   },
   {
@@ -70,7 +70,7 @@
     "en": "A Tale of Two Loners"
    },
    "contentRating": "safe",
-   "score": 0.2734695,
+   "score": 0.2734632,
    "languages": [
     "th",
     "fr",
@@ -85,7 +85,7 @@
     "en": "0°C no Mahou"
    },
    "contentRating": "safe",
-   "score": 0.27345335,
+   "score": 0.27345106,
    "languages": [
     "tr",
     "de",
@@ -104,7 +104,7 @@
     "en": "The Story of a Boy Who Petrifies Those Who Meet His Eyes and a Blind Saint"
    },
    "contentRating": "safe",
-   "score": 0.2671431,
+   "score": 0.26714465,
    "languages": [
     "id",
     "en",
@@ -117,7 +117,7 @@
     "en": "Mika and the Rainbow Cat"
    },
    "contentRating": "safe",
-   "score": 0.25242403,
+   "score": 0.25243014,
    "languages": [
     "en"
    ]
@@ -128,20 +128,24 @@
     "en": "Hoshi no Ohariko"
    },
    "contentRating": "safe",
-   "score": 0.24879648,
+   "score": 0.24878532,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "7acc9a91-4f49-4bc1-943f-bef19a8863f6",
+   "id": "b90c5bb9-9abb-4f38-9d60-7551c03b9ad1",
    "title": {
-    "en": "Oko-sama Lunch Identity"
+    "en": "Kyoufu no Mad Scientist ka to Omottara…!?"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
-    "en"
+    "es-la",
+    "pt-br",
+    "en",
+    "id",
+    "vi"
    ]
   },
   {
@@ -158,41 +162,14 @@
    ]
   },
   {
-   "id": "b274b205-c803-4260-bfd9-13283264284c",
+   "id": "f3cbc79f-ee48-4bed-9a16-789a92dd3632",
    "title": {
-    "en": "Welcome to the Dragon's Palace"
+    "en": "Issunboushi to Mimi Yowa Hime"
    },
    "contentRating": "safe",
    "score": 0.24743582,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "8e53b9eb-4845-47d8-8c81-9ea5285f4b34",
-   "title": {
-    "en": "Glasses You Can't Talk About After Seeing With Them"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "f82a5179-ad2a-491a-b1a1-6cabbd36c6b8",
-   "title": {
-    "en": "Looks Don't Really Matter Much at the Job"
-   },
-   "contentRating": "safe",
-   "score": 0.24743582,
-   "languages": [
-    "id",
-    "fr",
-    "en",
-    "es-la",
-    "pt-br"
    ]
   },
   {
@@ -206,7 +183,31 @@
     "en",
     "vi"
    ]
+  },
+  {
+   "id": "e1d98bf5-484b-4d2b-b6bb-75e420d7235a",
+   "title": {
+    "en": "Unsolicited Induction"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "pt-br",
+    "fr",
+    "en"
+   ]
+  },
+  {
+   "id": "b274b205-c803-4260-bfd9-13283264284c",
+   "title": {
+    "en": "Welcome to the Dragon's Palace"
+   },
+   "contentRating": "safe",
+   "score": 0.24743582,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2025-01-08T00:35:09+00:00"
+ "updatedAt": "2025-01-15T23:49:50+00:00"
 }

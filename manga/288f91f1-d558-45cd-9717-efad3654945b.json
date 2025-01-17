@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Jaseiken Necromancer"
+   "en": "Wicked Sword Necromancer"
   },
   "altTitles": [
    {
@@ -13,16 +13,19 @@
     "ja-ro": "Yokoshima Necromancer"
    },
    {
-    "en": "Wicked Sword Necromancer"
+    "ja-ro": "Jaseiken Necromancer"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "The main character, Kane, saves Romina during the journey. Kane's sword skills are recognized, so he sets out on a journey with Lime and Chaos to find the evil sword Necromancer and defeat the Demon King Azathoth. Maisto and Romina chase after the three and join them."
+  },
   "links": {
-   "amz": "https://www.amazon.co.jp/-/en/%E5%89%8D%E7%94%B0-%E4%BF%8A%E5%A4%AB/dp/488063509X",
+   "amz": "https://www.amazon.co.jp/-/en/前田-俊夫/dp/488063509X",
    "mu": "w4m883f"
   },
   "originalLanguage": "ja",
   "lastVolume": "1",
+  "publicationDemographic": "shounen",
   "status": "completed",
   "year": 1989,
   "contentRating": "suggestive",
@@ -74,12 +77,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2024-10-03T15:13:57+00:00",
-  "updatedAt": "2024-10-10T17:14:58+00:00"
+  "updatedAt": "2025-01-14T01:31:13+00:00"
  },
  "relationships": [
   {

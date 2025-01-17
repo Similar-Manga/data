@@ -3,27 +3,61 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Ibun Hana to Hebi"
+   "en": "A Tale of Flowers and Snakes"
   },
   "altTitles": [
    {
     "ja": "異聞・花と蛇"
+   },
+   {
+    "ja-ro": "Ibun Hana to Hebi"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Supervised by Oniroku Dan, the hit duo of Kazuo Koike and Seisaku Kanae has been made into a comic. It's confirmed that Seisaku Kanae and SM are a good match. First digital release!"
+  },
   "links": {
    "amz": "https://www.amazon.com/異聞・花と蛇-1-キングシリーズ/dp/4862258840",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/648256/",
    "mu": "oh02b2x"
   },
   "originalLanguage": "ja",
-  "status": "ongoing",
+  "lastVolume": "1",
+  "lastChapter": "4",
+  "publicationDemographic": "seinen",
+  "status": "completed",
   "year": 2012,
   "contentRating": "erotica",
+  "tags": [
+   {
+    "id": "33771934-028e-4cb3-8744-691e866a923e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Historical"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "85daba54-a71c-4554-8a28-9901a8b0afad",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Mafia"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-10-15T20:16:27+00:00",
-  "updatedAt": "2024-12-31T11:59:07+00:00"
+  "updatedAt": "2025-01-13T09:50:59+00:00"
  },
  "relationships": [
   {

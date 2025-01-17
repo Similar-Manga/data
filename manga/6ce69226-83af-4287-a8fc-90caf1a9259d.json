@@ -1,0 +1,157 @@
+{
+ "id": "6ce69226-83af-4287-a8fc-90caf1a9259d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Hai Natsu no Takushī"
+  },
+  "altTitles": [
+   {
+    "ja": "灰夏のタクシー"
+   },
+   {
+    "en": "Gray Summer Taxi"
+   }
+  ],
+  "description": {
+   "en": "Note: Won an honorable mention for Shonen Magazine's 113th upcoming mangaka awards.",
+   "ja": "第113回新人漫画賞受賞作 特別奨励賞"
+  },
+  "links": {
+   "raw": "https://pocket.shonenmagazine.com/episode/2550912965053724662"
+  },
+  "originalLanguage": "ja",
+  "status": "completed",
+  "year": 2025,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-15T02:29:03+00:00",
+  "updatedAt": "2025-01-15T02:29:23+00:00"
+ },
+ "relationships": [
+  {
+   "id": "88c0a99f-7bd3-4295-8955-5449a09aba75",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 2宮\n\n**Alt. names**:\n2miya"
+    },
+    "booth": null,
+    "createdAt": "2024-02-21T02:07:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Futamiya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/the_futamiya/",
+    "updatedAt": "2024-10-15T10:21:42+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "88c0a99f-7bd3-4295-8955-5449a09aba75",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Native name**: 2宮\n\n**Alt. names**:\n2miya"
+    },
+    "booth": null,
+    "createdAt": "2024-02-21T02:07:27+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Futamiya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/the_futamiya/",
+    "updatedAt": "2024-10-15T10:21:42+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "796872f8-c62e-41d1-b651-556e050cd0f2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-15T02:29:05+00:00",
+    "description": "",
+    "fileName": "a2564969-bb8a-4572-84c9-a3ab5ac458de.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-15T02:29:05+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f4c81724-4e50-4215-a046-850205a9ab0b",
+   "type": "creator"
+  }
+ ]
+}

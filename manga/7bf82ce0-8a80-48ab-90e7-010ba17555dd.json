@@ -3,14 +3,19 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Sutegoichi"
+   "en": "Sacrificial Pawn"
   },
   "altTitles": [
    {
     "ja": "捨て駒いち"
+   },
+   {
+    "ja-ro": "Sutegoichi"
    }
   ],
-  "description": {},
+  "description": {
+   "en": "Minato Police Station, Violent Crimes Division 2. This is a department where some of Japan's toughest detectives gather. In order to face the heinous crimes that occur one after another, these men, who are not easy to deal with, keep a close eye on. However, on days when there is nothing going on, they spend their time at illegal prostitution in the middle of the day, flashing their notebooks and not paying, and they break into Yakuza offices, hint at arrest and treat them to high-class sushi... truly evil! One day, a murder committed by a police officer occurs, and Detectives Kirisaka and his team from Division 2 are assigned to find the culprit. The chief says, \"The culprit is a fellow police officer. If you identify him, tens of thousands of officers across the country will point fingers at you as devils. If you don't, you will be demoted. In other words, you are expendable pawns!\" Well, there is a way to be an expendable pawn!! A masterpiece of a detective drama that depicts the messy but passionate pride of these misfit detectives!"
+  },
   "links": {
    "al": "184523",
    "bw": "series/219803/list",
@@ -19,10 +24,11 @@
   },
   "originalLanguage": "ja",
   "lastVolume": "8",
+  "lastChapter": "50",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 1983,
-  "contentRating": "suggestive",
+  "contentRating": "erotica",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -42,6 +48,18 @@
     "attributes": {
      "name": {
       "en": "Sexual Violence"
+     },
+     "description": {},
+     "group": "content",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
      },
      "description": {},
      "group": "content",
@@ -86,9 +104,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 9,
   "createdAt": "2024-11-22T14:27:35+00:00",
-  "updatedAt": "2024-11-22T15:06:45+00:00"
+  "updatedAt": "2025-01-13T07:57:12+00:00"
  },
  "relationships": [
   {
@@ -144,14 +162,14 @@
    }
   },
   {
-   "id": "bde9afe9-302d-46ab-b014-d2365907c3e7",
+   "id": "621657f1-f9b6-4146-806c-367d00d385fc",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-11-22T14:27:36+00:00",
+    "createdAt": "2025-01-13T07:57:11+00:00",
     "description": "",
-    "fileName": "5374191e-2c4e-427d-8a41-ebd69f704e24.jpg",
+    "fileName": "c7944e6b-8843-4543-a9f3-f4e3162b38a2.jpg",
     "locale": "ja",
-    "updatedAt": "2024-11-22T14:27:36+00:00",
+    "updatedAt": "2025-01-13T07:57:11+00:00",
     "version": 1,
     "volume": "8"
    }

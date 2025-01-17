@@ -1,0 +1,148 @@
+{
+ "id": "2cdcfe95-3c29-4cb3-a3c3-1aff19e4d46b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Sasen Deshitara Yorokonde!"
+  },
+  "altTitles": [
+   {
+    "ja": "左遷でしたら喜んで！　～首席魔術師、念願の辺境スローライフを目指す～"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/461206/list",
+   "raw": "https://www.alphapolis.co.jp/manga/official/324000544"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a1f53773-c69a-4ce5-8cab-fffcd90b1565",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Magic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-10T08:15:56+00:00",
+  "updatedAt": "2025-01-10T08:16:10+00:00"
+ },
+ "relationships": [
+  {
+   "id": "db10fde5-dd1f-4844-bbb4-6744dba08fdb",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-10T08:12:07+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mizu Ushi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-10T08:12:07+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5936b012-6199-4004-86f7-27c9d6e13c2b",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-10T08:13:55+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahiro Akizuki",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-10T08:13:55+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "3d7106c4-2816-4885-8ffc-b91810120963",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-10T08:16:07+00:00",
+    "description": "",
+    "fileName": "2d8b236a-5b9c-4c3c-860e-02f8d6e9f4cd.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-10T08:16:07+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

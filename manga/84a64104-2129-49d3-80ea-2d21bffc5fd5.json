@@ -23,6 +23,9 @@
    },
    {
     "ja": "失踪日記2 アル中病棟"
+   },
+   {
+    "ja-ro": "Shissou Nikki 2: Al-chuu Byoutou"
    }
   ],
   "description": {
@@ -117,9 +120,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2019-12-30T03:54:06+00:00",
-  "updatedAt": "2024-02-03T06:01:47+00:00"
+  "updatedAt": "2025-01-12T18:24:08+00:00"
  },
  "relationships": [
   {
@@ -175,17 +178,22 @@
    }
   },
   {
-   "id": "b0a9222c-a578-4f56-9e40-21e1b50756fd",
+   "id": "debf06f8-ef7b-462a-a5ec-d7497d75980d",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:39:19+00:00",
+    "createdAt": "2025-01-12T18:24:07+00:00",
     "description": "",
-    "fileName": "caac7f6d-7eaf-4ff7-9efb-4951c064ab9b.jpg",
+    "fileName": "515282e2-9000-44f2-9841-7a39562642f0.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:39:19+00:00",
+    "updatedAt": "2025-01-12T18:24:07+00:00",
     "version": 1,
-    "volume": null
+    "volume": "2"
    }
+  },
+  {
+   "id": "b05b297f-afb6-4caa-94c9-f0930a716d20",
+   "type": "manga",
+   "related": "sequel"
   }
  ]
 }

@@ -3,11 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Gashuu"
+   "en": "Art Book"
   },
   "altTitles": [
    {
-    "en": "画集"
+    "ja": "画集"
+   },
+   {
+    "ja-ro": "Gashuu"
    }
   ],
   "description": {
@@ -64,9 +67,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2018-11-11T06:16:19+00:00",
-  "updatedAt": "2021-05-25T15:48:59+00:00"
+  "updatedAt": "2025-01-14T08:09:28+00:00"
  },
  "relationships": [
   {

@@ -1,0 +1,161 @@
+{
+ "id": "d86e0a77-9318-491d-b1cf-282e164a6195",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Hazama Sandwich"
+  },
+  "altTitles": [
+   {
+    "ja": "はざまサンドイッチ"
+   }
+  ],
+  "description": {
+   "en": "Riri, a high school girl who can see other people's likability, enjoys observing people.\nEvery day she enjoys the changes in human relationships from a step back... that was supposed to be the case! But when her friend Hiiro confesses her feelings for her, she gets caught up in a complicated (?) relationship...!"
+  },
+  "links": {
+   "raw": "https://comic-fuz.com/manga/3128"
+  },
+  "originalLanguage": "ja",
+  "lastChapter": "2",
+  "status": "completed",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-12T20:28:22+00:00",
+  "updatedAt": "2025-01-12T20:31:37+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ac69d77d-8963-4d94-8037-3c5b016dbf05",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-12T20:31:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mekakuri (Okurigoma)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-12T20:31:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "ac69d77d-8963-4d94-8037-3c5b016dbf05",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-12T20:31:30+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Mekakuri (Okurigoma)",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-12T20:31:30+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a861194b-2edc-4381-b6e5-e96e453b5aba",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T20:28:33+00:00",
+    "description": "",
+    "fileName": "f5a5681b-0396-4e29-b447-860734351185.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T20:28:33+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "4e4f1cff-887b-474a-bb2b-d0a9ae50171b",
+   "type": "creator"
+  }
+ ]
+}

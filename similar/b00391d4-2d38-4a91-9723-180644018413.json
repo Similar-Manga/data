@@ -11,7 +11,7 @@
     "en": "The Metabaron"
    },
    "contentRating": "safe",
-   "score": 0.9958356,
+   "score": 0.9958402,
    "languages": [
     "en"
    ]
@@ -22,7 +22,7 @@
     "en": "The Magical Twins"
    },
    "contentRating": "safe",
-   "score": 0.26165968,
+   "score": 0.26165792,
    "languages": [
     "en"
    ]
@@ -33,20 +33,24 @@
     "en": "Ghost in the Shell: Global Neural Network"
    },
    "contentRating": "safe",
-   "score": 0.23833503,
+   "score": 0.23831162,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "9ecefba0-1881-4450-9cd3-e239c53874a9",
+   "id": "95fa7d3e-5fcd-4974-85e2-21fbb87a532f",
    "title": {
-    "en": "Marin"
+    "en": "Askr Yggdrasil's Wood"
    },
    "contentRating": "safe",
    "score": 0.2324953,
    "languages": [
-    "en"
+    "en",
+    "id",
+    "es",
+    "pt-br",
+    "fr"
    ]
   },
   {
@@ -70,7 +74,18 @@
     "en": "Armagedon"
    },
    "contentRating": "safe",
-   "score": 0.21367744,
+   "score": 0.21367101,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "20f25d58-2591-4bf4-8e54-9fdb07ace044",
+   "title": {
+    "en": "Eat Chicken and Save the World"
+   },
+   "contentRating": "safe",
+   "score": 0.21035288,
    "languages": [
     "en"
    ]
@@ -90,23 +105,12 @@
    ]
   },
   {
-   "id": "20f25d58-2591-4bf4-8e54-9fdb07ace044",
-   "title": {
-    "en": "Eat Chicken and Save the World"
-   },
-   "contentRating": "safe",
-   "score": 0.21035288,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d6ac40ec-622d-4f27-ad17-270e7e41ace3",
    "title": {
     "en": "Earthlight"
    },
    "contentRating": "safe",
-   "score": 0.20959745,
+   "score": 0.20957935,
    "languages": [
     "en"
    ]
@@ -117,7 +121,7 @@
     "en": "Path a Way"
    },
    "contentRating": "safe",
-   "score": 0.20935042,
+   "score": 0.20934589,
    "languages": [
     "en"
    ]
@@ -139,18 +143,7 @@
     "en": "Saitei Rank no Boukensha, Yuusha Shoujo wo Sodateru Orette"
    },
    "contentRating": "safe",
-   "score": 0.20654185,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "43dec29e-821c-459b-983b-315ca12f2c02",
-   "title": {
-    "en": "eV"
-   },
-   "contentRating": "safe",
-   "score": 0.20134681,
+   "score": 0.2065354,
    "languages": [
     "en"
    ]
@@ -159,6 +152,17 @@
    "id": "7de6a119-8228-44e6-940a-4a8718ab577c",
    "title": {
     "en": "Virtual Hero"
+   },
+   "contentRating": "safe",
+   "score": 0.20134681,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "43dec29e-821c-459b-983b-315ca12f2c02",
+   "title": {
+    "en": "eV"
    },
    "contentRating": "safe",
    "score": 0.20134681,
@@ -189,5 +193,5 @@
    ]
   }
  ],
- "updatedAt": "2025-01-08T01:18:13+00:00"
+ "updatedAt": "2025-01-16T00:35:30+00:00"
 }

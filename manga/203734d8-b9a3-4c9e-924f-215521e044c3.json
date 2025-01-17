@@ -7,10 +7,10 @@
   },
   "altTitles": [
    {
-    "en": "シーイズマイン"
+    "ja": "シーイズマイン"
    },
    {
-    "en": "她是我的"
+    "zh": "她是我的"
    }
   ],
   "description": {
@@ -18,7 +18,10 @@
   },
   "links": {
    "al": "44914",
+   "amz": "https://www.amazon.co.jp/dp/B074CFN1DS",
    "ap": "she-is-mine",
+   "bw": "series/12892",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/195983",
    "kt": "25198",
    "mal": "14914",
    "mu": "42062"
@@ -72,9 +75,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2018-04-04T08:06:53+00:00",
-  "updatedAt": "2021-05-25T15:40:12+00:00"
+  "updatedAt": "2025-01-08T15:51:00+00:00"
  },
  "relationships": [
   {
@@ -134,16 +137,16 @@
    }
   },
   {
-   "id": "3805efa9-3e79-4f5d-8e32-60609e8471f7",
+   "id": "9b7441e2-cf6d-4958-b3c2-1c0b24ebe0a7",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:36:58+00:00",
-    "description": "",
-    "fileName": "cb1c3ee7-0274-4bba-9828-ae54bd006b95.jpg",
+    "createdAt": "2025-01-08T15:50:58+00:00",
+    "description": "Format: Shinshoban\r\nImprint: Margaret Comics\r\nPublisher: Shueisha\r\nYear: 2009\r\n",
+    "fileName": "5cfd9a42-2d34-414a-bb56-d290e124c670.png",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:36:58+00:00",
+    "updatedAt": "2025-01-08T15:50:58+00:00",
     "version": 1,
-    "volume": null
+    "volume": "1"
    }
   }
  ]

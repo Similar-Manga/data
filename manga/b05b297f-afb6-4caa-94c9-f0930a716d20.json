@@ -1,0 +1,140 @@
+{
+ "id": "b05b297f-afb6-4caa-94c9-f0930a716d20",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Utsuutsu Hideo Nikki"
+  },
+  "altTitles": [
+   {
+    "ja": "うつうつひでお日記"
+   },
+   {
+    "ja-ro": "Utsu Utsu Hideo Diary"
+   },
+   {
+    "fr": "Journal d'une Dépression"
+   }
+  ],
+  "description": {
+   "en": "After he was alcoholic, Hideo Azuma describes his life in a diary. Utsutsu Hideo Nikki is in the continuity of Disappearance Diary. He speaks about his depression, readings, food and mangaka work. All is theoretically true."
+  },
+  "links": {
+   "al": "69773",
+   "mal": "39773",
+   "mu": "cndvab2"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 2006,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T18:30:38+00:00",
+  "updatedAt": "2025-01-12T18:59:12+00:00"
+ },
+ "relationships": [
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "0fd3240f-46e8-47dd-ba38-a47c568ccf30",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Azuma Hideo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "fd56ceef-d74e-4ea5-8d0c-a589ce4824c8",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T18:30:39+00:00",
+    "description": "",
+    "fileName": "f63c0fb2-6ee6-4640-8f70-20e577a7c238.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T18:30:39+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "84a64104-2129-49d3-80ea-2d21bffc5fd5",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

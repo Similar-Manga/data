@@ -1,0 +1,141 @@
+{
+ "id": "c1497608-b458-43c4-9b2d-8b13ceb44551",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Midnight Dimension"
+  },
+  "altTitles": [
+   {
+    "ja": "ミッドナイトディメンション"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "176613",
+   "amz": "https://www.amazon.co.jp/-/en/%E9%AD%94%E5%A4%9C%E5%B3%B0%E5%A4%AE-ebook/dp/B00FR1KC1Y/ref=sr_1_1?crid=1A83WN63BSVTF\u0026dib=eyJ2IjoiMSJ9.Ac--x4n9qXZVJNFf3pq1VT8ikTOgN047DyJRPDiS96_cOABaup9buj0BW8Xajj4YjRQ2g4GYB50swcrEu5EOvyMklY5bP_oi9nzVNbBIlCHjj1RWi8Jll5DqPHvG3TKO.k3lvHpggxt4Ti84OlnOyTyCvO8kqtoGnWzZJQm3673M\u0026dib_tag=se\u0026keywords=%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%87%E3%82%A3%E3%83%A1%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3\u0026qid=1736714796\u0026s=digital-text\u0026sprefix=%E7%9C%A0%E3%82%89%E3%81%AA%E3%81%84%E3%82%A4%E3%83%B4%2Cdigital-text%2C804\u0026sr=1-1",
+   "bw": "de86abf07e-96a8-47a5-95ac-1ef9aac376c5",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/169355/"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "1",
+  "lastChapter": "16",
+  "publicationDemographic": "shoujo",
+  "status": "completed",
+  "year": 1999,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b11fda93-8f1d-4bef-b2ed-8803d3733170",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "4-Koma"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-12T20:51:54+00:00",
+  "updatedAt": "2025-01-12T21:07:10+00:00"
+ },
+ "relationships": [
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "911d49e3-3e0b-46c7-b0a8-a75d3409430f",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Maya Mineo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5075a4ae-6a5e-4f9f-8759-c2d8849550ed",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-12T20:51:57+00:00",
+    "description": "",
+    "fileName": "0a616861-2341-4315-9304-1af73d13840d.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-12T20:51:57+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "67591cb1-95e1-45fd-ab85-4a45485ffc80",
+   "type": "creator"
+  }
+ ]
+}

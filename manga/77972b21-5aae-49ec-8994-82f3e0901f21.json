@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Tsuihō Sareta Girudo Shokuin wa, Sekai Saikyō no Shōkan Shi"
+   "en": "Tsuihou Sareta Guild Shokuin wa, Sekai Saikyou no Shoukanshi"
   },
   "altTitles": [
    {
@@ -70,9 +70,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 6,
   "createdAt": "2025-01-06T11:17:01+00:00",
-  "updatedAt": "2025-01-06T11:18:08+00:00"
+  "updatedAt": "2025-01-08T05:45:23+00:00"
  },
  "relationships": [
   {
@@ -86,7 +86,7 @@
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Shuichi Tsukishima",
+    "name": "Tsukishima Shuuichi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
@@ -94,35 +94,37 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-08T05:41:07+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
    }
   },
   {
-   "id": "0aaf12e5-7f52-49d6-b184-32c19c87bd33",
+   "id": "e33f0f4c-57da-4567-a3ea-c53c059af6f6",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "Not to be confused with the other manga artist named [Azuchi Ryou (あづち諒)](https://mangadex.org/author/58d7c42b-760f-484d-a078-3ed6dac00b33) whose name is written with a different kanji (諒) vs this author's (涼).\n\n**Native name**: あづち涼\n\n**Alt names**:\nAduchi Ryou\nAzuchi Ryo\n"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
-    "fanBox": null,
+    "fanBox": "https://aduchi.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Shuichi Tsukishima",
+    "name": "Azuchi Ryou (あづち涼)",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
-    "website": null,
+    "twitter": "https://twitter.com/aduchiryou",
+    "updatedAt": "2025-01-08T05:52:07+00:00",
+    "version": 5,
+    "website": "http://www2.odn.ne.jp/poe/",
     "weibo": null,
     "youtube": null
    }
