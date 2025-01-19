@@ -11,7 +11,7 @@
     "en": "Shinomiya Kouta wa Mada Shinenai -Border of the Dead-"
    },
    "contentRating": "safe",
-   "score": 0.22350697,
+   "score": 0.22351034,
    "languages": [
     "en",
     "vi"
@@ -40,7 +40,8 @@
    "languages": [
     "vi",
     "id",
-    "es-la"
+    "es-la",
+    "en"
    ]
   },
   {
@@ -49,7 +50,7 @@
     "ja": "EVOL"
    },
    "contentRating": "safe",
-   "score": 0.18271247,
+   "score": 0.18271482,
    "languages": [
     "es",
     "en"
@@ -61,23 +62,26 @@
     "en": "Ryoko's Case File"
    },
    "contentRating": "safe",
-   "score": 0.17632394,
+   "score": 0.17632629,
    "languages": [
     "ru",
     "en"
    ]
   },
   {
-   "id": "d4d5aa20-9ba8-4e5d-ae9f-e560c1428b06",
+   "id": "c96f1bf8-a100-40bb-98ef-c240b9b7cf96",
    "title": {
-    "en": "Higashi Iro"
+    "en": "MF Ghost"
    },
    "contentRating": "safe",
    "score": 0.17034185,
    "languages": [
     "en",
+    "pt-br",
+    "pl",
     "ru",
-    "ar"
+    "it",
+    "ms"
    ]
   },
   {
@@ -106,9 +110,22 @@
    ]
   },
   {
-   "id": "114d47e8-5439-4227-906e-fa33461910cf",
+   "id": "d4d5aa20-9ba8-4e5d-ae9f-e560c1428b06",
    "title": {
-    "en": "Haifuri"
+    "en": "Higashi Iro"
+   },
+   "contentRating": "safe",
+   "score": 0.17034185,
+   "languages": [
+    "en",
+    "ru",
+    "ar"
+   ]
+  },
+  {
+   "id": "779207d8-60fb-44bc-8dad-cc76c8c1140e",
+   "title": {
+    "en": "888"
    },
    "contentRating": "safe",
    "score": 0.17034185,
@@ -117,25 +134,9 @@
    ]
   },
   {
-   "id": "c96f1bf8-a100-40bb-98ef-c240b9b7cf96",
+   "id": "114d47e8-5439-4227-906e-fa33461910cf",
    "title": {
-    "en": "MF Ghost"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "ru",
-    "it",
-    "ms"
-   ]
-  },
-  {
-   "id": "779207d8-60fb-44bc-8dad-cc76c8c1140e",
-   "title": {
-    "en": "888"
+    "en": "Haifuri"
    },
    "contentRating": "safe",
    "score": 0.17034185,
@@ -160,9 +161,20 @@
     "en": "Op: Yoake Itaru no Iro no Nai Hibi"
    },
    "contentRating": "safe",
-   "score": 0.15901238,
+   "score": 0.15901053,
    "languages": [
     "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "368516b3-4226-45cb-bdf2-312ddcfec518",
+   "title": {
+    "en": "Moon Edge"
+   },
+   "contentRating": "safe",
+   "score": 0.15898573,
+   "languages": [
     "en"
    ]
   },
@@ -179,17 +191,6 @@
    ]
   },
   {
-   "id": "368516b3-4226-45cb-bdf2-312ddcfec518",
-   "title": {
-    "en": "Moon Edge"
-   },
-   "contentRating": "safe",
-   "score": 0.15898573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "45b6ddd1-21db-4875-9a75-b900960449ee",
    "title": {
     "en": "JA - Joshi ni Yoru Agriculture"
@@ -201,5 +202,5 @@
    ]
   }
  ],
- "updatedAt": "2025-01-16T00:35:55+00:00"
+ "updatedAt": "2025-01-18T00:18:55+00:00"
 }

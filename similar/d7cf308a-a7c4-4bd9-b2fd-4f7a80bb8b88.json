@@ -6,25 +6,9 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c8037208-7583-444a-a77b-0443008f79b5",
-   "title": {
-    "en": "Lion Magpie"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
    "id": "1492128f-218e-4070-bc9e-66ddfeea149e",
    "title": {
     "en": "Ygg-Drasil"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143
-  },
-  {
-   "id": "0428c483-ad8d-4856-9560-d641901931af",
-   "title": {
-    "en": "The King of Beetles Mushiking Battle Story"
    },
    "contentRating": "safe",
    "score": 0.2857143
@@ -38,9 +22,17 @@
    "score": 0.2857143
   },
   {
-   "id": "64c6620b-2d50-4971-bf89-85a690d9ff4f",
+   "id": "0428c483-ad8d-4856-9560-d641901931af",
    "title": {
-    "en": "The Seven Dwarfs"
+    "en": "The King of Beetles Mushiking Battle Story"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
+   "id": "c8037208-7583-444a-a77b-0443008f79b5",
+   "title": {
+    "en": "Lion Magpie"
    },
    "contentRating": "safe",
    "score": 0.2857143
@@ -54,12 +46,20 @@
    "score": 0.2857143
   },
   {
+   "id": "64c6620b-2d50-4971-bf89-85a690d9ff4f",
+   "title": {
+    "en": "The Seven Dwarfs"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
+  },
+  {
    "id": "31da0b76-9b27-4b7a-b3e5-85d65fb0bb9c",
    "title": {
     "en": "Uzu Majin"
    },
    "contentRating": "safe",
-   "score": 0.26475805
+   "score": 0.26475704
   },
   {
    "id": "0583ff42-51f8-4c44-9613-4282180185f1",
@@ -67,7 +67,7 @@
     "en": "Dinosaur Sword Drag"
    },
    "contentRating": "safe",
-   "score": 0.25627485
+   "score": 0.25627917
   },
   {
    "id": "88b64947-fd18-4739-9e42-ab12a959023f",
@@ -75,7 +75,7 @@
     "en": "Kid of the Plains Sabu"
    },
    "contentRating": "safe",
-   "score": 0.23725753
+   "score": 0.23725882
   },
   {
    "id": "ae5248f1-84f9-4e24-a2b4-8bbdb2b750ff",
@@ -83,20 +83,23 @@
     "en": "Dinosaur Century Dinocroa"
    },
    "contentRating": "safe",
-   "score": 0.2334995
+   "score": 0.2335054
+  },
+  {
+   "id": "7f532337-0c2c-4a4a-b780-3984567a5efe",
+   "title": {
+    "en": "A Banished Odd-Jobber Starts a New Life"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "b1e1f70a-5f3d-4eba-9c00-309d190a24b3",
    "title": {
     "en": "Di Gi Charat - Dejiko à la Mode"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476
-  },
-  {
-   "id": "04f2c7a9-7148-4f08-bb07-0b930c73a24d",
-   "title": {
-    "en": "I am the Culprit"
    },
    "contentRating": "safe",
    "score": 0.23328476
@@ -110,15 +113,12 @@
    "score": 0.23328476
   },
   {
-   "id": "7f532337-0c2c-4a4a-b780-3984567a5efe",
+   "id": "04f2c7a9-7148-4f08-bb07-0b930c73a24d",
    "title": {
-    "en": "A Banished Odd-Jobber Starts a New Life"
+    "en": "I am the Culprit"
    },
    "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en"
-   ]
+   "score": 0.23328476
   },
   {
    "id": "85faf70f-08b6-4175-ae18-426033032865",
@@ -134,8 +134,8 @@
     "en": "Dinosaur King: Pterosaur Legends"
    },
    "contentRating": "safe",
-   "score": 0.21600986
+   "score": 0.21601215
   }
  ],
- "updatedAt": "2025-01-16T00:54:27+00:00"
+ "updatedAt": "2025-01-18T00:39:21+00:00"
 }

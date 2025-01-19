@@ -33,8 +33,20 @@
    "pt-br",
    "ru"
   ],
-  "latestUploadedChapter": "4cc3ff86-6627-427c-98ca-ffc4b53242f0",
+  "latestUploadedChapter": "c45ab2d5-305f-4e95-9ace-004057c41bbd",
   "tags": [
+   {
+    "id": "256c8bd9-4904-4360-bf4f-508a76d67183",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Sci-Fi"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -82,12 +94,24 @@
      "group": "theme",
      "version": 1
     }
+   },
+   {
+    "id": "e64f6742-c834-471d-8d72-dd51fc02b835",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Aliens"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 7,
+  "version": 8,
   "createdAt": "2025-01-04T00:51:06+00:00",
-  "updatedAt": "2025-01-10T21:03:42+00:00"
+  "updatedAt": "2025-01-16T00:13:51+00:00"
  },
  "relationships": [
   {
@@ -147,15 +171,15 @@
    }
   },
   {
-   "id": "50f9c325-6451-4212-a6be-47e8417892ce",
+   "id": "af0c35c7-8b91-40a1-87df-3614901356f5",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2025-01-04T00:51:08+00:00",
-    "description": "",
-    "fileName": "bc638df2-c9b4-49aa-ac59-d8adf7c2471a.jpg",
+    "createdAt": "2025-01-15T14:28:37+00:00",
+    "description": "Cover from Comic Action",
+    "fileName": "1da9d70d-5cf4-4828-bc2c-5d4f65fd5498.jpg",
     "locale": "ja",
-    "updatedAt": "2025-01-10T21:03:41+00:00",
-    "version": 2,
+    "updatedAt": "2025-01-15T14:28:37+00:00",
+    "version": 1,
     "volume": null
    }
   },

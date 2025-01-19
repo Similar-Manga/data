@@ -1,0 +1,105 @@
+{
+ "id": "9a4b1169-5e7b-421e-9f3c-165ec3c9959f",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shishi to Botan"
+  },
+  "altTitles": [
+   {
+    "ja": "獅子と牡丹"
+   },
+   {
+    "fr": "Leone e Peonie"
+   },
+   {
+    "en": "The Lion and the Moutan Peony"
+   }
+  ],
+  "description": {},
+  "links": {
+   "al": "173483",
+   "bw": "series/507143/list",
+   "raw": "https://to-ti.in/story/shishitobotan01"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-16T10:47:44+00:00",
+  "updatedAt": "2025-01-16T10:50:36+00:00"
+ },
+ "relationships": [
+  {
+   "id": "6c765574-186c-41cc-9c37-3c88e570de51",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahama Kan",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "6c765574-186c-41cc-9c37-3c88e570de51",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Takahama Kan",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "120298a3-9be4-418e-b07a-e4f7b3b6e1af",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-16T10:47:56+00:00",
+    "description": "",
+    "fileName": "b563d69a-380a-4cf0-bdb0-3ad81feffba2.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-16T10:47:56+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

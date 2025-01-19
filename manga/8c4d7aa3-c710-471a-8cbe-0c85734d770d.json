@@ -1,0 +1,134 @@
+{
+ "id": "8c4d7aa3-c710-471a-8cbe-0c85734d770d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kakuge-chan DE ROUND."
+  },
+  "altTitles": [
+   {
+    "ja": "格ゲーちゃんDE ROUND."
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/399929/list"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "799c202e-7daa-44eb-9cf7-8a3c0441531e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Martial Arts"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-16T11:00:35+00:00",
+  "updatedAt": "2025-01-16T11:02:19+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a5b7dad7-d3a6-4db1-ad5a-df5d0e42f2e5",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-16T10:58:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aku Medan",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-16T10:58:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a5b7dad7-d3a6-4db1-ad5a-df5d0e42f2e5",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-16T10:58:47+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aku Medan",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-16T10:58:47+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "745c7566-f23e-40b2-9e3a-ed00cc83665c",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-16T11:00:46+00:00",
+    "description": "",
+    "fileName": "19c5c935-5cda-4ff0-8ee7-2a865a0c7cdd.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-16T11:00:46+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

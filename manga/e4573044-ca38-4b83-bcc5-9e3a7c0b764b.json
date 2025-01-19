@@ -1,0 +1,152 @@
+{
+ "id": "e4573044-ca38-4b83-bcc5-9e3a7c0b764b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "haike, arashi hini saku hana tachie"
+  },
+  "altTitles": [
+   {
+    "ja": "拝啓、在りし日に咲く花たちへ"
+   },
+   {
+    "ko": "배계, 지난날에 피어난 꽃들에게."
+   }
+  ],
+  "description": {},
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "ko"
+  ],
+  "latestUploadedChapter": "88294982-7206-4483-8cd6-1a1872c4ca2d",
+  "tags": [
+   {
+    "id": "a3c67850-4684-404e-9b7f-c69850ee5da6",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Girls' Love"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "caaa44eb-cd40-4177-b930-79d3ef2afe87",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "School Life"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-16T12:19:48+00:00",
+  "updatedAt": "2025-01-16T12:20:01+00:00"
+ },
+ "relationships": [
+  {
+   "id": "01bbab84-c566-4a3f-99d0-c2707dc46b5e",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-12-08T21:06:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jun Igarashi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-12-08T21:06:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "01bbab84-c566-4a3f-99d0-c2707dc46b5e",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-12-08T21:06:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Jun Igarashi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-12-08T21:06:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "12c6f048-4351-40b3-81da-e7d46e65c00d",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-16T12:19:50+00:00",
+    "description": "",
+    "fileName": "d2178e0d-c5a0-4c01-9a71-23b7668786bc.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-16T12:19:50+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "11a9a6d5-c51e-4511-a849-9854e8b443c6",
+   "type": "creator"
+  }
+ ]
+}

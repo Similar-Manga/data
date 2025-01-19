@@ -41,6 +41,7 @@
   },
   "links": {
    "al": "137230",
+   "ap": "new-suitor-for-the-abandoned-wife",
    "engtl": "https://www.pocketcomics.com/comic/408",
    "mu": "183919",
    "raw": "https://www.comico.kr/comic/408"
@@ -57,6 +58,18 @@
   ],
   "latestUploadedChapter": "d8ed5203-9da9-48f2-a245-6e4ae2af65b0",
   "tags": [
+   {
+    "id": "2bd2e8d0-f146-434a-9b51-fc9ff2c5fe6a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Genderswap"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "3e2b8dae-350e-4ab8-a8ce-016e844b9f0d",
     "type": "tag",
@@ -94,18 +107,6 @@
     }
    },
    {
-    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Web Comic"
-     },
-     "description": {},
-     "group": "format",
-     "version": 1
-    }
-   },
-   {
     "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
     "type": "tag",
     "attributes": {
@@ -128,24 +129,12 @@
      "group": "format",
      "version": 1
     }
-   },
-   {
-    "id": "f8f62932-27da-4fe4-8ee1-6779a8c5edba",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Tragedy"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 7,
   "createdAt": "2022-01-29T11:03:57+00:00",
-  "updatedAt": "2022-09-14T06:03:51+00:00"
+  "updatedAt": "2025-01-17T05:16:44+00:00"
  },
  "relationships": [
   {

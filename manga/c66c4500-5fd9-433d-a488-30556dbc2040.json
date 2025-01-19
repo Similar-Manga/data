@@ -1,0 +1,119 @@
+{
+ "id": "c66c4500-5fd9-433d-a488-30556dbc2040",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Kinpika"
+  },
+  "altTitles": [
+   {
+    "ja": "きんぴか"
+   }
+  ],
+  "description": {
+   "ja": "13年ぶりに出所した伝説のヒットマン・阪口健太。湾岸派兵を憂い一人クーデターを起こした元自衛隊員・大河原勲。代議士にはめられ、すべてを失った元議員秘書・広橋秀彦。三匹の悪漢を束ねる元刑事・蝮の権佐。"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B075TYXYGX",
+   "bw": "series/88328",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/382574",
+   "mu": "ap6yk90"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "6",
+  "lastChapter": "57",
+  "publicationDemographic": "seinen",
+  "status": "completed",
+  "year": 1996,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-16T21:37:22+00:00",
+  "updatedAt": "2025-01-16T21:37:41+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b53b453f-63a9-45eb-8814-c0340f0ce5ad",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Asada Jiro",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "b6aa38be-84de-4304-b936-decec0fd4e15",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Katayama Makoto",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "71f5ce8e-9420-44cf-90da-faa6af22d988",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-16T21:37:32+00:00",
+    "description": "Volume 6 Cover from BookWalker",
+    "fileName": "2638a151-bcae-4088-86c8-a32a56fa4805.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-16T21:37:32+00:00",
+    "version": 1,
+    "volume": "6"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

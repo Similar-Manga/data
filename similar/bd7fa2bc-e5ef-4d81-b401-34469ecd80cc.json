@@ -26,7 +26,8 @@
    "languages": [
     "vi",
     "id",
-    "es-la"
+    "es-la",
+    "en"
    ]
   },
   {
@@ -35,7 +36,7 @@
     "en": "Hard-Boiled Stories from the Cat Bar"
    },
    "contentRating": "safe",
-   "score": 0.17894125
+   "score": 0.17894238
   },
   {
    "id": "a437129d-18e9-48d7-9484-9fb9b9073ddd",
@@ -43,7 +44,7 @@
     "en": "Space Brothers"
    },
    "contentRating": "safe",
-   "score": 0.17727995,
+   "score": 0.17727946,
    "languages": [
     "en",
     "es-la",
@@ -60,7 +61,7 @@
     "en": "Blue Period"
    },
    "contentRating": "safe",
-   "score": 0.17527606,
+   "score": 0.1752898,
    "languages": [
     "pt-br",
     "es-la",
@@ -78,13 +79,64 @@
     "en": "Waves, Listen to me!"
    },
    "contentRating": "safe",
-   "score": 0.17153613,
+   "score": 0.17153187,
    "languages": [
     "zh",
     "en",
     "pt-br",
     "es-la",
     "ru"
+   ]
+  },
+  {
+   "id": "e632d47a-df01-42cd-8ac4-0349a6150a5f",
+   "title": {
+    "en": "Death"
+   },
+   "contentRating": "safe",
+   "score": 0.17034185,
+   "languages": [
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "27e5efc9-7ac6-4288-b388-19ceb066aa4c",
+   "title": {
+    "en": "Can You Cut off Your 100 Friends?"
+   },
+   "contentRating": "safe",
+   "score": 0.17034185
+  },
+  {
+   "id": "9e689233-0f23-44cc-9286-ed96aa2efef7",
+   "title": {
+    "en": "Mirai no Yukue"
+   },
+   "contentRating": "safe",
+   "score": 0.17034185
+  },
+  {
+   "id": "8c116ad0-c64e-4e47-b4aa-6c00c92e5748",
+   "title": {
+    "en": "Ijimerarekko ga Kuru!"
+   },
+   "contentRating": "safe",
+   "score": 0.17034185,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "edba4793-6c16-42ad-b437-82daceb52f30",
+   "title": {
+    "en": "Night at the Aquarium"
+   },
+   "contentRating": "safe",
+   "score": 0.17034185,
+   "languages": [
+    "vi",
+    "en"
    ]
   },
   {
@@ -110,17 +162,9 @@
    ]
   },
   {
-   "id": "7f091669-52a5-45e1-8ab4-44ad8cf59204",
+   "id": "bd7cff10-976f-4b83-acf4-8495f9358467",
    "title": {
-    "en": "Bukkomi no Taku ~After Decade~"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185
-  },
-  {
-   "id": "27e5efc9-7ac6-4288-b388-19ceb066aa4c",
-   "title": {
-    "en": "Can You Cut off Your 100 Friends?"
+    "en": "New Tokyo Camouflage Hour"
    },
    "contentRating": "safe",
    "score": 0.17034185
@@ -134,49 +178,6 @@
    "score": 0.17034185
   },
   {
-   "id": "8c116ad0-c64e-4e47-b4aa-6c00c92e5748",
-   "title": {
-    "en": "Ijimerarekko ga Kuru!"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "e632d47a-df01-42cd-8ac4-0349a6150a5f",
-   "title": {
-    "en": "Death"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "edba4793-6c16-42ad-b437-82daceb52f30",
-   "title": {
-    "en": "Night at the Aquarium"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185,
-   "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "bd7cff10-976f-4b83-acf4-8495f9358467",
-   "title": {
-    "en": "New Tokyo Camouflage Hour"
-   },
-   "contentRating": "safe",
-   "score": 0.17034185
-  },
-  {
    "id": "92bafec7-6379-47cc-8f24-e783ada685d0",
    "title": {
     "en": "Sutta mon da!"
@@ -185,5 +186,5 @@
    "score": 0.17034185
   }
  ],
- "updatedAt": "2025-01-16T00:41:57+00:00"
+ "updatedAt": "2025-01-18T00:25:27+00:00"
 }

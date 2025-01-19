@@ -3,14 +3,14 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Hai Natsu no Takushī"
+   "en": "Gray Summer Taxi"
   },
   "altTitles": [
    {
     "ja": "灰夏のタクシー"
    },
    {
-    "en": "Gray Summer Taxi"
+    "ja-ro": "Hai Natsu no Taxi"
    }
   ],
   "description": {
@@ -18,12 +18,17 @@
    "ja": "第113回新人漫画賞受賞作 特別奨励賞"
   },
   "links": {
+   "kt": "hai-natsu-no-taxi",
    "raw": "https://pocket.shonenmagazine.com/episode/2550912965053724662"
   },
   "originalLanguage": "ja",
   "status": "completed",
   "year": 2025,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "a74b51ce-51ce-4984-91d1-e2c29a4530c3",
   "tags": [
    {
     "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
@@ -31,6 +36,18 @@
     "attributes": {
      "name": {
       "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
+   {
+    "id": "0a39b5a1-b235-4886-a747-1d05d216532d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Award Winning"
      },
      "description": {},
      "group": "format",
@@ -75,9 +92,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 6,
   "createdAt": "2025-01-15T02:29:03+00:00",
-  "updatedAt": "2025-01-15T02:29:23+00:00"
+  "updatedAt": "2025-01-16T10:45:04+00:00"
  },
  "relationships": [
   {

@@ -11,7 +11,7 @@
    }
   ],
   "description": {
-   "en": "---\n**Volumes 348-351 of the Osamu Tezuka Complete Works**"
+   "en": "The time and place of this tale are unknown... The rival kingdoms of Kukrit and Groman exchanged the third prince and the third princess of each kingdom in exchange for peace. Emiya grows up to be a fine princess of Kukrit, but her parents always have trouble because of her tomboyish, sports-loving personality. One day at a ball, Emiya turns down an invitation to dance with Prince Pilar of the kingdom of Groman, but what will come of the secret relationship between the two...?\n\n---\n**Volumes 348-351 of the Osamu Tezuka Complete Works**"
   },
   "links": {
    "al": "52266",
@@ -52,6 +52,18 @@
      },
      "description": {},
      "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "292e862b-2d17-4062-90a2-0356caa4ae27",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Time Travel"
+     },
+     "description": {},
+     "group": "theme",
      "version": 1
     }
    },
@@ -152,6 +164,18 @@
     }
    },
    {
+    "id": "9467335a-1b83-4497-9231-765337a00b96",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Post-Apocalyptic"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "ac72833b-c4e9-4878-b9db-6c8a4a99444a",
     "type": "tag",
     "attributes": {
@@ -160,6 +184,18 @@
      },
      "description": {},
      "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b29d6a3d-1569-4e7a-8caf-7557bc92cd5d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Gore"
+     },
+     "description": {},
+     "group": "content",
      "version": 1
     }
    },
@@ -212,6 +248,18 @@
     }
    },
    {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "ee968100-4191-4968-93d3-f82d72be7e46",
     "type": "tag",
     "attributes": {
@@ -237,9 +285,9 @@
    }
   ],
   "state": "published",
-  "version": 6,
+  "version": 8,
   "createdAt": "2021-02-02T17:13:39+00:00",
-  "updatedAt": "2022-09-02T01:43:05+00:00"
+  "updatedAt": "2025-01-16T17:42:05+00:00"
  },
  "relationships": [
   {

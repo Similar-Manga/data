@@ -20,8 +20,9 @@
   "links": {
    "al": "179267",
    "amz": "https://www.amazon.co.jp/dp/B0D35D4WW2",
-   "bw": "series/486685",
+   "bw": "series/486685/list",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/851786/",
+   "mal": "177900",
    "mu": "58fa8ei",
    "raw": "https://televikun-super-hero-comics.com/rensai/sekaisaikyonogamer/"
   },
@@ -33,7 +34,7 @@
   "availableTranslatedLanguages": [
    "en"
   ],
-  "latestUploadedChapter": "97aa6c44-4373-4fb9-922a-f7340964f2f2",
+  "latestUploadedChapter": "82152e92-51a0-4255-9e0b-ab94c5f6d0d4",
   "tags": [
    {
     "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
@@ -84,6 +85,18 @@
     }
    },
    {
+    "id": "aafb99c1-7f60-43fa-b75f-fc9502ce29c7",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Harem"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
     "id": "ace04997-f6bd-436e-b261-779182193d3d",
     "type": "tag",
     "attributes": {
@@ -109,9 +122,9 @@
    }
   ],
   "state": "published",
-  "version": 5,
+  "version": 7,
   "createdAt": "2024-10-13T00:57:57+00:00",
-  "updatedAt": "2025-01-14T15:02:47+00:00"
+  "updatedAt": "2025-01-16T22:20:27+00:00"
  },
  "relationships": [
   {
@@ -167,14 +180,14 @@
    }
   },
   {
-   "id": "43d7163f-05e6-469f-848c-e6db7e173cb0",
+   "id": "aea01c1f-fbb5-4ebe-8811-4dc172225c1c",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2024-10-13T00:58:00+00:00",
+    "createdAt": "2025-01-15T11:17:41+00:00",
     "description": "",
-    "fileName": "7a49c7a8-7a3c-4dba-a570-481e6e94cd7d.jpg",
+    "fileName": "0b9015cb-8f88-4c61-9241-06aeea52c3bf.jpg",
     "locale": "ja",
-    "updatedAt": "2024-10-13T00:58:00+00:00",
+    "updatedAt": "2025-01-15T11:17:41+00:00",
     "version": 1,
     "volume": "1"
    }

@@ -11,7 +11,7 @@
     "en": "Isshou Watashi no Joshu de ite!"
    },
    "contentRating": "safe",
-   "score": 0.31782147,
+   "score": 0.31782985,
    "languages": [
     "en",
     "vi"
@@ -23,7 +23,7 @@
     "en": "Detective Conan Special"
    },
    "contentRating": "safe",
-   "score": 0.27317888,
+   "score": 0.27318877,
    "languages": [
     "en"
    ]
@@ -34,7 +34,7 @@
     "en": "Contract Detective Kasuhiro Nokori"
    },
    "contentRating": "safe",
-   "score": 0.2669099,
+   "score": 0.26692095,
    "languages": [
     "de",
     "pt-br",
@@ -47,7 +47,7 @@
     "en": "Detective Conan: The Culprit Hanzawa-san"
    },
    "contentRating": "safe",
-   "score": 0.2531805,
+   "score": 0.2531857,
    "languages": [
     "ru",
     "es",
@@ -58,100 +58,12 @@
    ]
   },
   {
-   "id": "a92bd70d-a716-4e48-90c6-137682742137",
-   "title": {
-    "en": "Ron Kamonohashi: Deranged Detective"
-   },
-   "contentRating": "safe",
-   "score": 0.24489357,
-   "languages": [
-    "pt-br",
-    "es",
-    "th",
-    "en",
-    "id",
-    "ru"
-   ]
-  },
-  {
-   "id": "ae5a849e-ead8-4658-8e27-6c703876ee20",
-   "title": {
-    "en": "Yakuza Cleaner"
-   },
-   "contentRating": "safe",
-   "score": 0.24172175,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b4c43bfb-4bbb-4f0c-a3ae-7a263b3d0d0f",
-   "title": {
-    "en": "A Smartphone in Love (Preserialization)"
-   },
-   "contentRating": "safe",
-   "score": 0.23270324,
-   "languages": [
-    "id",
-    "en",
-    "es-la"
-   ]
-  },
-  {
-   "id": "affbeb9e-8d7c-48ab-a271-c01c9dbd6c70",
-   "title": {
-    "en": "Japanese History Detective Conan"
-   },
-   "contentRating": "safe",
-   "score": 0.22863093,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "231a5d96-583b-4c58-97fd-5ac1396be737",
-   "title": {
-    "en": "Oyaji to Nyankichi"
-   },
-   "contentRating": "safe",
-   "score": 0.22553854,
-   "languages": [
-    "pt-br",
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "3af63f39-90b4-45f1-9427-301a7e015ab0",
-   "title": {
-    "en": "Hiroware Koneko to Moto Yakuza"
-   },
-   "contentRating": "safe",
-   "score": 0.22325847,
-   "languages": [
-    "ru",
-    "en"
-   ]
-  },
-  {
-   "id": "ce382191-8f61-4b45-94cb-0d1692ff6229",
-   "title": {
-    "en": "My Clueless First Friend - Side Stories"
-   },
-   "contentRating": "safe",
-   "score": 0.21908428,
-   "languages": [
-    "en",
-    "uk"
-   ]
-  },
-  {
    "id": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
    "title": {
     "en": "Detective Conan"
    },
    "contentRating": "safe",
-   "score": 0.2185521,
+   "score": 0.25043082,
    "languages": [
     "vi",
     "id",
@@ -172,12 +84,84 @@
    ]
   },
   {
+   "id": "ae5a849e-ead8-4658-8e27-6c703876ee20",
+   "title": {
+    "en": "Yakuza Cleaner"
+   },
+   "contentRating": "safe",
+   "score": 0.24174224,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "b4c43bfb-4bbb-4f0c-a3ae-7a263b3d0d0f",
+   "title": {
+    "en": "A Smartphone in Love (Preserialization)"
+   },
+   "contentRating": "safe",
+   "score": 0.23271783,
+   "languages": [
+    "id",
+    "en",
+    "es-la"
+   ]
+  },
+  {
+   "id": "affbeb9e-8d7c-48ab-a271-c01c9dbd6c70",
+   "title": {
+    "en": "Japanese History Detective Conan"
+   },
+   "contentRating": "safe",
+   "score": 0.22864677,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "231a5d96-583b-4c58-97fd-5ac1396be737",
+   "title": {
+    "en": "Oyaji to Nyankichi"
+   },
+   "contentRating": "safe",
+   "score": 0.22554949,
+   "languages": [
+    "pt-br",
+    "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "3af63f39-90b4-45f1-9427-301a7e015ab0",
+   "title": {
+    "en": "Hiroware Koneko to Moto Yakuza"
+   },
+   "contentRating": "safe",
+   "score": 0.22325853,
+   "languages": [
+    "ru",
+    "en"
+   ]
+  },
+  {
+   "id": "ce382191-8f61-4b45-94cb-0d1692ff6229",
+   "title": {
+    "en": "My Clueless First Friend - Side Stories"
+   },
+   "contentRating": "safe",
+   "score": 0.21909021,
+   "languages": [
+    "en",
+    "uk"
+   ]
+  },
+  {
    "id": "4ec2c726-326b-4c17-93b2-8c923ecf8afc",
    "title": {
     "en": "The Crest"
    },
    "contentRating": "safe",
-   "score": 0.21625172,
+   "score": 0.21625587,
    "languages": [
     "en"
    ]
@@ -188,7 +172,7 @@
     "en": "Tetsujin No. 28 Full Length Detective Manga"
    },
    "contentRating": "safe",
-   "score": 0.21054904,
+   "score": 0.21055733,
    "languages": [
     "en"
    ]
@@ -199,7 +183,7 @@
     "en": "Tayutau Kemuri wa Tsukamenai"
    },
    "contentRating": "safe",
-   "score": 0.2077799,
+   "score": 0.20778398,
    "languages": [
     "pt-br",
     "vi",
@@ -214,7 +198,7 @@
     "en": "Tonikaku Kawaii"
    },
    "contentRating": "safe",
-   "score": 0.20705847,
+   "score": 0.20705996,
    "languages": [
     "en",
     "vi",
@@ -231,7 +215,19 @@
     "de",
     "es"
    ]
+  },
+  {
+   "id": "f153b6c4-13b0-40bf-b6a3-5194f1bd4dfa",
+   "title": {
+    "en": "The Story of a Boy Who Can See Lifespans"
+   },
+   "contentRating": "safe",
+   "score": 0.20482366,
+   "languages": [
+    "uk",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2025-01-16T01:08:13+00:00"
+ "updatedAt": "2025-01-18T00:54:37+00:00"
 }

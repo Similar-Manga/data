@@ -11,7 +11,7 @@
     "en": "AIM"
    },
    "contentRating": "safe",
-   "score": 0.5632139
+   "score": 0.513996
   },
   {
    "id": "97397d79-3ae7-477a-abf2-61ae25e0c34e",
@@ -19,7 +19,7 @@
     "en": "Paper Plane"
    },
    "contentRating": "safe",
-   "score": 0.46426025
+   "score": 0.43667513
   },
   {
    "id": "4136fde7-7a9b-4496-a2cf-3577bf7815c7",
@@ -27,7 +27,7 @@
     "en": "Cosmic Arc Travel"
    },
    "contentRating": "safe",
-   "score": 0.44369605,
+   "score": 0.4195583,
    "languages": [
     "pt-br",
     "en"
@@ -39,7 +39,7 @@
     "en": "Kinnikuman Jump"
    },
    "contentRating": "safe",
-   "score": 0.382314,
+   "score": 0.37974533,
    "languages": [
     "en"
    ]
@@ -50,21 +50,9 @@
     "en": "Jinzou Ningen 100 (Pre-Serialization)"
    },
    "contentRating": "safe",
-   "score": 0.35048488,
+   "score": 0.33003595,
    "languages": [
     "id",
-    "en"
-   ]
-  },
-  {
-   "id": "25106536-240e-4fe1-b749-857a8559c45f",
-   "title": {
-    "en": "Super Heavy Charge Vanguard"
-   },
-   "contentRating": "safe",
-   "score": 0.33619994,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -74,8 +62,20 @@
     "en": "Dancing Heihou Hehou"
    },
    "contentRating": "safe",
-   "score": 0.3224918,
+   "score": 0.3066209,
    "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "25106536-240e-4fe1-b749-857a8559c45f",
+   "title": {
+    "en": "Super Heavy Charge Vanguard"
+   },
+   "contentRating": "safe",
+   "score": 0.30163378,
+   "languages": [
+    "pt-br",
     "en"
    ]
   },
@@ -85,21 +85,10 @@
     "en": "Naruse-kun Is Bad at Smiling"
    },
    "contentRating": "safe",
-   "score": 0.32056946,
+   "score": 0.29948464,
    "languages": [
     "en",
     "tr"
-   ]
-  },
-  {
-   "id": "a6999c9e-c0e2-4534-a4da-632d09f010e9",
-   "title": {
-    "en": "Section 459"
-   },
-   "contentRating": "safe",
-   "score": 0.31203187,
-   "languages": [
-    "fr"
    ]
   },
   {
@@ -108,7 +97,7 @@
     "en": "I Spy"
    },
    "contentRating": "safe",
-   "score": 0.30180845,
+   "score": 0.28083342,
    "languages": [
     "pt-br",
     "ru",
@@ -123,15 +112,18 @@
     "en": "Captain Velvet Meteor: The Jump+ Dimensions ~The Beginning~"
    },
    "contentRating": "safe",
-   "score": 0.27807903
+   "score": 0.276769
   },
   {
-   "id": "18197c22-712d-4475-a997-cb6d4b67d05f",
+   "id": "a6999c9e-c0e2-4534-a4da-632d09f010e9",
    "title": {
-    "en": "Yasha Tsubaki"
+    "en": "Section 459"
    },
    "contentRating": "safe",
-   "score": 0.25878012
+   "score": 0.26844487,
+   "languages": [
+    "fr"
+   ]
   },
   {
    "id": "def2a662-f52b-4765-9539-5d02cf1c760e",
@@ -139,28 +131,15 @@
     "en": "Fierce battle! Tamiya RC F-1 Grand Prix"
    },
    "contentRating": "safe",
-   "score": 0.2562388
+   "score": 0.255341
   },
   {
-   "id": "cb117c49-22e8-48e4-83cb-015aaae0d827",
+   "id": "a138d26b-9575-4991-8c91-8c27d19a2ece",
    "title": {
-    "en": "LOVE THE WARZ"
+    "en": "Kuwata to Tonkatsu"
    },
    "contentRating": "safe",
-   "score": 0.25423306,
-   "languages": [
-    "en",
-    "pt-br",
-    "vi"
-   ]
-  },
-  {
-   "id": "1d4476e4-ca22-4874-8ed0-d2d86c4bcf5c",
-   "title": {
-    "en": "Suki-gurui"
-   },
-   "contentRating": "safe",
-   "score": 0.25145954
+   "score": 0.2519047
   },
   {
    "id": "0422bf7b-e8fe-4ea6-8367-2f7e14db2dd6",
@@ -168,11 +147,36 @@
     "en": "Janpu ru-ki-! No koukoku shuunyuu ha zengaku, sakusha ni hairu hanashi"
    },
    "contentRating": "safe",
-   "score": 0.24894479,
+   "score": 0.2481377,
    "languages": [
     "pt-br"
    ]
+  },
+  {
+   "id": "786158f0-9e2a-4c53-8929-07972e466667",
+   "title": {
+    "en": "KochiKame × To Love Ru Darkness"
+   },
+   "contentRating": "safe",
+   "score": 0.24127953,
+   "languages": [
+    "es",
+    "fr"
+   ]
+  },
+  {
+   "id": "cb117c49-22e8-48e4-83cb-015aaae0d827",
+   "title": {
+    "en": "LOVE THE WARZ"
+   },
+   "contentRating": "safe",
+   "score": 0.23904741,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2025-01-16T00:53:23+00:00"
+ "updatedAt": "2025-01-18T00:38:10+00:00"
 }

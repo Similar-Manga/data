@@ -1,0 +1,122 @@
+{
+ "id": "d37ef66f-9934-4478-a629-22f6984e9cd5",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Tokyo Saitei Saiaku Saikou!"
+  },
+  "altTitles": [
+   {
+    "ja": "東京最低最悪最高！"
+   }
+  ],
+  "description": {
+   "ja": "どんな夢を描いて、何を目指して、どこに向かって進んでいたかなんてとっくに忘れてしまったけど、立ち止まったらきっと 心が死んでしまうから、私たちは今日も回遊魚のようにただ泳ぎ続ける。まるで溺れてるみたいにーー。"
+  },
+  "links": {
+   "al": "181361",
+   "amz": "https://www.amazon.co.jp/dp/B0DHY5VYP4",
+   "bw": "series/505499",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/873612",
+   "raw": "https://bigcomics.jp/series/6b5e15270db3d"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-16T21:47:24+00:00",
+  "updatedAt": "2025-01-16T21:47:51+00:00"
+ },
+ "relationships": [
+  {
+   "id": "4be9ae3e-8743-46dd-b139-2f3894fab36b",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\n鳥トマト\n\n[Instagram](https://www.instagram.com/tori.the.tomato/)"
+    },
+    "booth": null,
+    "createdAt": "2023-08-01T09:13:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tori Tomato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/43574486",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tori_the_tomato",
+    "updatedAt": "2023-08-01T09:27:06+00:00",
+    "version": 2,
+    "website": "https://tomatotri.amebaownd.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "4be9ae3e-8743-46dd-b139-2f3894fab36b",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\n鳥トマト\n\n[Instagram](https://www.instagram.com/tori.the.tomato/)"
+    },
+    "booth": null,
+    "createdAt": "2023-08-01T09:13:06+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tori Tomato",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/43574486",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/tori_the_tomato",
+    "updatedAt": "2023-08-01T09:27:06+00:00",
+    "version": 2,
+    "website": "https://tomatotri.amebaownd.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "811e2455-5278-4a4b-aee2-550a5b8f48cd",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-16T21:47:34+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "ffc498a7-d41b-4491-9477-2b37f508ebc9.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-16T21:47:34+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

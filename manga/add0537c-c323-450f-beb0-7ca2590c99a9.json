@@ -8,9 +8,6 @@
   "altTitles": [
    {
     "ja": "花男"
-   },
-   {
-    "ja": "花男 （山田 憂香）"
    }
   ],
   "description": {
@@ -25,6 +22,7 @@
   },
   "originalLanguage": "ja",
   "status": "completed",
+  "year": 2016,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -93,32 +91,34 @@
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 5,
   "createdAt": "2019-01-03T09:09:14+00:00",
-  "updatedAt": "2023-10-25T11:23:08+00:00"
+  "updatedAt": "2025-01-16T13:57:52+00:00"
  },
  "relationships": [
   {
    "id": "daf6ce01-314f-44f4-82d9-907199b1c70e",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 山田憂香"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yamada Yuka",
+    "name": "Yamada Yuuka",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/06yuka_21",
+    "updatedAt": "2025-01-16T13:49:02+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -128,23 +128,25 @@
    "id": "daf6ce01-314f-44f4-82d9-907199b1c70e",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 山田憂香"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yamada Yuka",
+    "name": "Yamada Yuuka",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/06yuka_21",
+    "updatedAt": "2025-01-16T13:49:02+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

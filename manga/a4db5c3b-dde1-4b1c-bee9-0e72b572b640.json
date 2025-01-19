@@ -3,7 +3,7 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Deities of a Peaceful Era"
+   "en": "The Idaten Deities Know Only Peace"
   },
   "altTitles": [
    {
@@ -26,7 +26,9 @@
    "raw": "http://amahara.bob.buttobi.net/"
   },
   "originalLanguage": "ja",
+  "lastChapter": "28",
   "status": "completed",
+  "year": 2016,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en"
@@ -39,6 +41,18 @@
     "attributes": {
      "name": {
       "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
      },
      "description": {},
      "group": "genre",
@@ -68,12 +82,24 @@
      "group": "genre",
      "version": 1
     }
+   },
+   {
+    "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Supernatural"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
    }
   ],
   "state": "published",
-  "version": 4,
+  "version": 6,
   "createdAt": "2019-02-01T16:01:38+00:00",
-  "updatedAt": "2024-02-23T23:37:21+00:00"
+  "updatedAt": "2025-01-15T11:52:43+00:00"
  },
  "relationships": [
   {

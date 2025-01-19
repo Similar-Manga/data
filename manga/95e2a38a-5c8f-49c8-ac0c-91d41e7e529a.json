@@ -1,0 +1,126 @@
+{
+ "id": "95e2a38a-5c8f-49c8-ac0c-91d41e7e529a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Isekai Machikouba Musou: Shinrai to Jisseki no Isekai Seifuku"
+  },
+  "altTitles": [
+   {
+    "ja": "異世界町工場無双　～信頼と実績の異世界征服～"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/487380/list",
+   "mu": "7z572tj",
+   "raw": "https://comic-days.com/episode/2550689798416314628"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "seinen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-16T11:52:55+00:00",
+  "updatedAt": "2025-01-16T11:53:21+00:00"
+ },
+ "relationships": [
+  {
+   "id": "8ae5301c-f831-410c-a2ff-b792fbad2123",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2023-05-19T09:04:39+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Eiji Miruno",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2023-05-19T09:04:39+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "8f1d87fb-af4f-4e95-b376-4055bbcf3a61",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Abd Inoue",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-04-19T21:59:45+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "cd2ef017-7207-4919-b77c-64d2931ce2d2",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-16T11:53:15+00:00",
+    "description": "",
+    "fileName": "594d30de-0f6c-4714-bc8a-2cb96265bc03.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-16T11:53:15+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

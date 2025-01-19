@@ -22,7 +22,7 @@
     "en": "Takaga Tasogare"
    },
    "contentRating": "safe",
-   "score": 0.2501451,
+   "score": 0.2501442,
    "languages": [
     "it",
     "en"
@@ -34,33 +34,24 @@
     "en": "Bakajo 26-ji"
    },
    "contentRating": "safe",
-   "score": 0.24700257,
+   "score": 0.24700366,
    "languages": [
     "vi",
     "en"
    ]
   },
   {
-   "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
+   "id": "624907a9-9aac-4998-8f1e-bed15ab26d71",
    "title": {
-    "en": "Double"
+    "en": "The Magnificent Grand Scene"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "vi",
-    "en"
-   ]
-  },
-  {
-   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
-   "title": {
-    "en": "Sunny Sunny Ann!"
-   },
-   "contentRating": "safe",
-   "score": 0.24692619,
-   "languages": [
-    "en"
+    "en",
+    "pt-br",
+    "es-la",
+    "es"
    ]
   },
   {
@@ -86,17 +77,26 @@
    ]
   },
   {
-   "id": "624907a9-9aac-4998-8f1e-bed15ab26d71",
+   "id": "44ad8762-2993-4962-b6dd-468c4331ab0c",
    "title": {
-    "en": "The Magnificent Grand Scene"
+    "en": "Sunny Sunny Ann!"
    },
    "contentRating": "safe",
    "score": 0.24692619,
    "languages": [
-    "en",
-    "pt-br",
-    "es-la",
-    "es"
+    "en"
+   ]
+  },
+  {
+   "id": "bfcea94a-c6e5-4a40-a5ad-c00b9a578180",
+   "title": {
+    "en": "Double"
+   },
+   "contentRating": "safe",
+   "score": 0.24692619,
+   "languages": [
+    "vi",
+    "en"
    ]
   },
   {
@@ -105,7 +105,7 @@
     "en": "Boy's Summer"
    },
    "contentRating": "safe",
-   "score": 0.24260491,
+   "score": 0.24260513,
    "languages": [
     "en",
     "pt-br",
@@ -113,9 +113,43 @@
    ]
   },
   {
+   "id": "b709517f-b92a-4262-8373-cba613bc1d98",
+   "title": {
+    "en": "Zenkamono"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "zh"
+   ]
+  },
+  {
+   "id": "39b6cbe5-9706-4feb-a06e-57d905f47f5c",
+   "title": {
+    "en": "Botsuichi"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "945f9411-dc49-4a9a-b40a-6084e94bcab9",
    "title": {
     "en": "Akuta no Shinigiwa"
+   },
+   "contentRating": "safe",
+   "score": 0.23809525,
+   "languages": [
+    "en",
+    "zh-hk"
+   ]
+  },
+  {
+   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
+   "title": {
+    "en": "Kemutai Hanashi"
    },
    "contentRating": "safe",
    "score": 0.23809525,
@@ -149,40 +183,6 @@
    ]
   },
   {
-   "id": "b709517f-b92a-4262-8373-cba613bc1d98",
-   "title": {
-    "en": "Zenkamono"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
-   "id": "b28525ae-ef8a-47aa-a120-5917a351be2d",
-   "title": {
-    "en": "Kemutai Hanashi"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "39b6cbe5-9706-4feb-a06e-57d905f47f5c",
-   "title": {
-    "en": "Botsuichi"
-   },
-   "contentRating": "safe",
-   "score": 0.23809525,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "ec9f5e07-2703-417f-b63f-fc392fee132d",
    "title": {
     "en": "Otona no Zukan Kaiteiban"
@@ -194,5 +194,5 @@
    ]
   }
  ],
- "updatedAt": "2025-01-16T00:50:18+00:00"
+ "updatedAt": "2025-01-18T00:34:34+00:00"
 }

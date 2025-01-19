@@ -1,0 +1,158 @@
+{
+ "id": "fc15fab1-2a0a-4734-b41a-dbc239f382eb",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Isekai Nonbiri Camp"
+  },
+  "altTitles": [
+   {
+    "ja": "異世界のんびりキャンプ～聖獣たちの住まう島で自由気ままにスローライフを謳歌する～"
+   }
+  ],
+  "description": {},
+  "links": {
+   "bw": "series/480643/list"
+  },
+  "originalLanguage": "ja",
+  "status": "ongoing",
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "ace04997-f6bd-436e-b261-779182193d3d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Isekai"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "ea2bc92d-1c26-4930-9b7c-d5c0dc1b6869",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Cooking"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-17T08:12:01+00:00",
+  "updatedAt": "2025-01-17T08:12:17+00:00"
+ },
+ "relationships": [
+  {
+   "id": "b6b8d75f-7614-4ca3-9015-96c1c6aba065",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-04-19T21:59:45+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Bunzaburo Nagano",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2022-03-22T21:51:55+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "45cc4e9b-9af4-4fcf-8caa-abc24fd5103a",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-10T18:08:53+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Sirosaki Aya",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-10-10T18:08:53+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "03db2c3c-9b02-4ac7-b29a-fd587756f937",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-17T08:12:05+00:00",
+    "description": "",
+    "fileName": "beb4f44d-7886-477a-96ff-b5effa024e54.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-17T08:12:05+00:00",
+    "version": 1,
+    "volume": "2"
+   }
+  },
+  {
+   "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+   "type": "creator"
+  }
+ ]
+}

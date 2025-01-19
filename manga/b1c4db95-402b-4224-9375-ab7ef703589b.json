@@ -1,0 +1,140 @@
+{
+ "id": "b1c4db95-402b-4224-9375-ab7ef703589b",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Shin Shougi Sasu Kedamono"
+  },
+  "altTitles": [
+   {
+    "ja": "新・将棋指す獣"
+   },
+   {
+    "ja": "新将棋指す獣"
+   },
+   {
+    "en": "New Shougi-Playing Beast"
+   }
+  ],
+  "description": {
+   "en": "Hikari's Shougi-playing continues!\n\n**Status Note:** Made for free. Currently Satou-sensei is too busy with other, paid work. ([note](https://note.com/reu_reu_/n/n7b74485ebc76))\n___\n**Supervisor:** [Segawa Shouji](https://mangadex.org/author/701c91bf-3979-40d2-ae89-309c31e477c8)"
+  },
+  "links": {
+   "raw": "https://note.com/reu_reu_/m/m8bacbee2401f"
+  },
+  "originalLanguage": "ja",
+  "status": "hiatus",
+  "year": 2020,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Traditional Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e197df38-d0e7-43b5-9b09-2842d0c326dd",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Web Comic"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-16T11:10:26+00:00",
+  "updatedAt": "2025-01-16T11:15:07+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a9c4de89-0d75-4d49-87a9-7bc01ff4895c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 左藤真通\n\n**Additional Sites:**\n- [note](https://note.com/reu_reu_)"
+    },
+    "booth": null,
+    "createdAt": "2022-07-09T00:33:05+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Satou Masamichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/reu_reu_",
+    "updatedAt": "2025-01-15T09:04:36+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "891ff700-97fe-49a4-ac1a-5941c1fa5fd4",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 市丸いろは"
+    },
+    "booth": null,
+    "createdAt": "2022-02-05T08:30:09+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Ichimaru Iroha",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-16T10:39:55+00:00",
+    "version": 2,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "2353e5b1-c1b5-447a-9f7c-4fbc87378586",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-16T11:10:38+00:00",
+    "description": "",
+    "fileName": "86d34a39-de3e-4dd4-9402-dd0bc470f1ec.png",
+    "locale": "ja",
+    "updatedAt": "2025-01-16T11:10:38+00:00",
+    "version": 1,
+    "volume": null
+   }
+  },
+  {
+   "id": "03a6a6c4-b494-43a6-b525-28df8013d094",
+   "type": "manga",
+   "related": "prequel"
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

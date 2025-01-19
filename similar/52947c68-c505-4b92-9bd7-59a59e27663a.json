@@ -6,23 +6,23 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "c979d16e-e6e2-4e53-ab47-007cec9628fb",
-   "title": {
-    "en": "Ore ga Suki tte Ittara Dou Suru?"
-   },
-   "contentRating": "safe",
-   "score": 0.270799,
-   "languages": [
-    "vi"
-   ]
-  },
-  {
    "id": "7bc15569-3f3c-4227-833a-653a29f59bf9",
    "title": {
     "en": "Suiheisen wa Yagate Matataku"
    },
    "contentRating": "safe",
-   "score": 0.2613875,
+   "score": 0.2613887,
+   "languages": [
+    "vi"
+   ]
+  },
+  {
+   "id": "c979d16e-e6e2-4e53-ab47-007cec9628fb",
+   "title": {
+    "en": "Ore ga Suki tte Ittara Dou Suru?"
+   },
+   "contentRating": "safe",
+   "score": 0.25905317,
    "languages": [
     "vi"
    ]
@@ -33,11 +33,26 @@
     "en": "Isso Anata ga Todome wo Sashite"
    },
    "contentRating": "safe",
-   "score": 0.24918184,
+   "score": 0.24917722,
    "languages": [
     "vi",
     "en",
     "pt-br"
+   ]
+  },
+  {
+   "id": "0d3ffb54-73a6-4bf3-b111-782ec4173999",
+   "title": {
+    "en": "Tadaima, Okaeri"
+   },
+   "contentRating": "safe",
+   "score": 0.2461571,
+   "languages": [
+    "en",
+    "es-la",
+    "vi",
+    "pl",
+    "tr"
    ]
   },
   {
@@ -65,27 +80,12 @@
    ]
   },
   {
-   "id": "0d3ffb54-73a6-4bf3-b111-782ec4173999",
-   "title": {
-    "en": "Tadaima, Okaeri"
-   },
-   "contentRating": "safe",
-   "score": 0.2461571,
-   "languages": [
-    "en",
-    "es-la",
-    "vi",
-    "pl",
-    "tr"
-   ]
-  },
-  {
    "id": "243c78ab-a9d5-488f-9f95-f9e9557dfaff",
    "title": {
     "en": "Kyou, Furyo wo Hirou"
    },
    "contentRating": "safe",
-   "score": 0.2393878,
+   "score": 0.23938636,
    "languages": [
     "en",
     "vi"
@@ -97,7 +97,7 @@
     "en": "Teihen na Bokura no Jijou"
    },
    "contentRating": "safe",
-   "score": 0.2389268,
+   "score": 0.23892641,
    "languages": [
     "en",
     "ru",
@@ -110,7 +110,7 @@
     "en": "Aisaseteyo Sensei"
    },
    "contentRating": "safe",
-   "score": 0.23734659,
+   "score": 0.23734666,
    "languages": [
     "en",
     "tr",
@@ -129,18 +129,6 @@
    ]
   },
   {
-   "id": "f89b8b86-96f2-412d-8f12-b23638620152",
-   "title": {
-    "en": "Spice!"
-   },
-   "contentRating": "safe",
-   "score": 0.23207912,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
    "id": "16e8c498-23ea-464e-a9e4-ed3c576cf46a",
    "title": {
     "en": "Sono Ki ni Sasete"
@@ -154,27 +142,27 @@
    ]
   },
   {
-   "id": "ef323a0d-9a81-4028-9c21-e85b6f318744",
+   "id": "f89b8b86-96f2-412d-8f12-b23638620152",
    "title": {
-    "en": "Sekai ga Hajimaru Asa ni Umi wo Mito"
+    "en": "Spice!"
    },
    "contentRating": "safe",
-   "score": 0.23086295,
+   "score": 0.23207912,
    "languages": [
     "en",
     "vi"
    ]
   },
   {
-   "id": "70bd81d9-cf45-45fc-a26a-a2f0a269779b",
+   "id": "ef323a0d-9a81-4028-9c21-e85b6f318744",
    "title": {
-    "en": "Chameleon wa Tenohira ni Koi wo Suru"
+    "en": "Sekai ga Hajimaru Asa ni Umi wo Mito"
    },
    "contentRating": "safe",
-   "score": 0.2201696,
+   "score": 0.23086253,
    "languages": [
-    "vi",
-    "en"
+    "en",
+    "vi"
    ]
   },
   {
@@ -188,6 +176,18 @@
     "en",
     "pt-br",
     "vi"
+   ]
+  },
+  {
+   "id": "70bd81d9-cf45-45fc-a26a-a2f0a269779b",
+   "title": {
+    "en": "Chameleon wa Tenohira ni Koi wo Suru"
+   },
+   "contentRating": "safe",
+   "score": 0.2201696,
+   "languages": [
+    "vi",
+    "en"
    ]
   },
   {
@@ -205,5 +205,5 @@
    ]
   }
  ],
- "updatedAt": "2025-01-15T23:49:58+00:00"
+ "updatedAt": "2025-01-17T23:29:02+00:00"
 }

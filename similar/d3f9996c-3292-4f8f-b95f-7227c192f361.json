@@ -11,7 +11,7 @@
     "en": "Mitsu wo Ou"
    },
    "contentRating": "safe",
-   "score": 0.2737891
+   "score": 0.2691822
   },
   {
    "id": "2ac783c7-f6b8-4bfe-ac0f-72aeebafbc8a",
@@ -38,6 +38,22 @@
    ]
   },
   {
+   "id": "62b23f4d-b792-44e0-af8b-80a3780de517",
+   "title": {
+    "en": "Adesugata Junjou Hanafubuki"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573
+  },
+  {
+   "id": "143cf24d-b940-4819-b0c2-5c7e16339be2",
+   "title": {
+    "en": "20th Century Phantom Thief"
+   },
+   "contentRating": "safe",
+   "score": 0.21428573
+  },
+  {
    "id": "e6afe37a-a25a-44a0-a6b6-9e70bb7ce7a9",
    "title": {
     "en": "A Cuckolding Manga"
@@ -51,20 +67,15 @@
    ]
   },
   {
-   "id": "143cf24d-b940-4819-b0c2-5c7e16339be2",
+   "id": "773fd242-2898-49fa-ae82-3dd26473fead",
    "title": {
-    "en": "20th Century Phantom Thief"
+    "en": "The Life of a Returning Officer"
    },
    "contentRating": "safe",
-   "score": 0.21428573
-  },
-  {
-   "id": "62b23f4d-b792-44e0-af8b-80a3780de517",
-   "title": {
-    "en": "Adesugata Junjou Hanafubuki"
-   },
-   "contentRating": "safe",
-   "score": 0.21428573
+   "score": 0.2106365,
+   "languages": [
+    "en"
+   ]
   },
   {
    "id": "931effec-d47d-4c47-aae6-106e4f759e26",
@@ -72,32 +83,8 @@
     "en": "Diary of My Daily Failures"
    },
    "contentRating": "safe",
-   "score": 0.21313712,
+   "score": 0.21016437,
    "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "773fd242-2898-49fa-ae82-3dd26473fead",
-   "title": {
-    "en": "The Life of a Returning Officer"
-   },
-   "contentRating": "safe",
-   "score": 0.2115254,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "f8ee17c0-ea65-4f0d-9666-182406db1e1a",
-   "title": {
-    "en": "Favela no Mangaka"
-   },
-   "contentRating": "safe",
-   "score": 0.21067733,
-   "languages": [
-    "pt-br",
-    "es-la",
     "en"
    ]
   },
@@ -107,18 +94,23 @@
     "en": "Aquaholic Mothers"
    },
    "contentRating": "safe",
-   "score": 0.20462859
+   "score": 0.20295109
   },
   {
-   "id": "dd993f93-af18-41e4-91b8-3b6a93dde176",
+   "id": "cf31e244-0711-41d7-bd73-586e6289698a",
    "title": {
-    "en": "The Overpowered Cop"
+    "en": "Special Prosecutor Q"
    },
    "contentRating": "safe",
-   "score": 0.20234524,
-   "languages": [
-    "en"
-   ]
+   "score": 0.20203052
+  },
+  {
+   "id": "7eb2a733-adaa-4fb2-85a7-7e46976bc52f",
+   "title": {
+    "en": "Akari wa Yukihime ni Naritai -Nekura na Hikikomori ga Vtuber ni Natta Riyuu-"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052
   },
   {
    "id": "d25f1766-d07a-491f-9f39-60cbc253ab86",
@@ -132,22 +124,6 @@
    ]
   },
   {
-   "id": "7eb2a733-adaa-4fb2-85a7-7e46976bc52f",
-   "title": {
-    "en": "Akari wa Yukihime ni Naritai -Nekura na Hikikomori ga Vtuber ni Natta Riyuu-"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
-   "id": "cf31e244-0711-41d7-bd73-586e6289698a",
-   "title": {
-    "en": "Special Prosecutor Q"
-   },
-   "contentRating": "safe",
-   "score": 0.20203052
-  },
-  {
    "id": "21d7b422-8c33-45de-9bb4-4e1d78ba6518",
    "title": {
     "en": "Sheriff (MAKIMURA Tadashi)"
@@ -156,13 +132,37 @@
    "score": 0.20203052
   },
   {
+   "id": "f8ee17c0-ea65-4f0d-9666-182406db1e1a",
+   "title": {
+    "en": "Favela no Mangaka"
+   },
+   "contentRating": "safe",
+   "score": 0.20203052,
+   "languages": [
+    "pt-br",
+    "es-la",
+    "en"
+   ]
+  },
+  {
    "id": "446a8cf1-067b-436f-b375-61d97ec6895a",
    "title": {
     "en": "Senma"
    },
    "contentRating": "safe",
    "score": 0.20203052
+  },
+  {
+   "id": "dd993f93-af18-41e4-91b8-3b6a93dde176",
+   "title": {
+    "en": "The Overpowered Cop"
+   },
+   "contentRating": "safe",
+   "score": 0.201844,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2025-01-16T00:52:28+00:00"
+ "updatedAt": "2025-01-18T00:37:11+00:00"
 }

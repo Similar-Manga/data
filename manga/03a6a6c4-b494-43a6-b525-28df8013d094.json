@@ -8,62 +8,71 @@
   "altTitles": [
    {
     "ja": "将棋指す獣"
+   },
+   {
+    "en": "Shougi-Playing Beast"
    }
   ],
   "description": {
-   "en": "Danzuka Hikaru, female. Already third dan of the Scholarship Society, she wants to become a professional Shogi player. The world of Shogi is tough and very few people have managed to become professionals. And there are no women among them.\nThe Shogi boom has reached its peak here! The story of the birth of the first professional Shogi player is about to begin! The woman who used to be called 'Beast' now makes a neat move that blossoms on the chessboard."
+   "en": "Dandzuka Hikari, woman. Her challenge is a battle to the death on the board. The Shougi world is intense, and there is no precedent of a woman becoming a pro. A derisory amount of humans have risen from amateur to pro. Now, the claws of a beast have been thrust into that tall wall.\n___\n**Supervisor:** [Segawa Shouji](https://mangadex.org/author/701c91bf-3979-40d2-ae89-309c31e477c8)"
   },
   "links": {
+   "amz": "https://www.amazon.co.jp/dp/B07QN8L7XH",
    "bw": "series/181570",
-   "mu": "7u7aa7q"
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/501980/",
+   "mu": "7u7aa7q",
+   "raw": "https://kuragebunch.com/episode/13933686331620101334"
   },
   "originalLanguage": "ja",
   "lastVolume": "4",
+  "lastChapter": "22",
   "publicationDemographic": "seinen",
   "status": "completed",
   "year": 2018,
   "contentRating": "safe",
   "tags": [
    {
-    "id": "69964a64-2f90-4d33-beeb-f3ed2875eb4c",
+    "id": "31932a7e-5b8e-49a6-9f12-2afa39dc544c",
     "type": "tag",
     "attributes": {
      "name": {
-      "en": "Sports"
+      "en": "Traditional Games"
      },
      "description": {},
-     "group": "genre",
+     "group": "theme",
      "version": 1
     }
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 4,
   "createdAt": "2022-11-27T20:54:11+00:00",
-  "updatedAt": "2022-11-27T20:55:02+00:00"
+  "updatedAt": "2025-01-16T10:55:16+00:00"
  },
  "relationships": [
   {
-   "id": "701c91bf-3979-40d2-ae89-309c31e477c8",
+   "id": "a9c4de89-0d75-4d49-87a9-7bc01ff4895c",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 左藤真通\n\n**Additional Sites:**\n- [note](https://note.com/reu_reu_)"
+    },
     "booth": null,
-    "createdAt": "2022-11-27T20:51:48+00:00",
+    "createdAt": "2022-07-09T00:33:05+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Shouji Segawa",
+    "name": "Satou Masamichi",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2022-11-27T20:51:48+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/reu_reu_",
+    "updatedAt": "2025-01-15T09:04:36+00:00",
+    "version": 4,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -73,7 +82,9 @@
    "id": "891ff700-97fe-49a4-ac1a-5941c1fa5fd4",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 市丸いろは"
+    },
     "booth": null,
     "createdAt": "2022-02-05T08:30:09+00:00",
     "fanBox": null,
@@ -88,8 +99,8 @@
     "skeb": null,
     "tumblr": null,
     "twitter": null,
-    "updatedAt": "2022-02-05T08:30:09+00:00",
-    "version": 1,
+    "updatedAt": "2025-01-16T10:39:55+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -107,6 +118,11 @@
     "version": 1,
     "volume": "4"
    }
+  },
+  {
+   "id": "b1c4db95-402b-4224-9375-ab7ef703589b",
+   "type": "manga",
+   "related": "sequel"
   },
   {
    "id": "ddc27fae-f41a-4618-b8dc-6cf98106fd4c",

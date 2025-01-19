@@ -1,0 +1,169 @@
+{
+ "id": "01a383d2-7bfc-42d8-945e-2280d873b59e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Ninja Dakedo, OL Yattemasu"
+  },
+  "altTitles": [
+   {
+    "ja": "忍者だけど、ＯＬやってます"
+   },
+   {
+    "en": "I'm a Ninja, but I'm an Office Worker."
+   }
+  ],
+  "description": {
+   "ja": "28歳、丸の内で働く会社員、望月陽菜子には秘密がある。実は忍びの里出身の「忍者」だということ。掟に縛られる生き方に嫌気がさし、忍者という身分を捨て、今は一般人として生きている。――いや、生きていた。同期で次期社長のほんわか(すぎる)男・和泉沢創が、何者かに社の重要な契約書を奪い取られる日まで …! 和泉沢のため、今生きている環境を守るため陽菜子は再び忍術に手を出すことに …!! しかしそれは、元許嫁の忍び・向坂惣真と再会することも意味していて――。\n\n「…俺を納得させてみろ」"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DRW5VV78",
+   "bw": "series/505385",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/870923",
+   "mu": "5vcd7cg",
+   "raw": "https://comic.pixiv.net/works/11104"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "489dd859-9b61-4c37-af75-5b18e88daafc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Ninja"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "92d6d951-ca5e-429c-ac78-451071cbf064",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Office Workers"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-17T18:47:56+00:00",
+  "updatedAt": "2025-01-17T18:48:10+00:00"
+ },
+ "relationships": [
+  {
+   "id": "201bcb85-b326-4671-9e6b-ba73acf4c802",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-17T18:45:32+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tachibana Momo",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-17T18:45:32+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "5c5d6234-f15c-4287-88fd-808802a70270",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2022-03-27T12:08:35+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "iko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/iko_shigoto",
+    "updatedAt": "2022-03-27T14:40:58+00:00",
+    "version": 2,
+    "website": "https://ikoshigoto.blogspot.com/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "1039e542-a4e3-414a-90e3-dcbf03eab49b",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-17T18:48:04+00:00",
+    "description": "Volume 1 Cover from Amazon",
+    "fileName": "d7e09288-f6dd-4b93-8833-7ea97fb4232f.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-17T18:48:04+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

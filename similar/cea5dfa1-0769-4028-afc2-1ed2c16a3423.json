@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "da529315-e879-47ca-bc2a-cfb015074d33",
-   "title": {
-    "en": "I'll be Back by Evening"
-   },
-   "contentRating": "safe",
-   "score": 0.28520605
-  },
-  {
    "id": "aa59fdc5-4e8e-4807-b579-542318f557a1",
    "title": {
     "en": "Giv'er a Ride"
@@ -22,12 +14,33 @@
    "score": 0.28520605
   },
   {
+   "id": "da529315-e879-47ca-bc2a-cfb015074d33",
+   "title": {
+    "en": "I'll be Back by Evening"
+   },
+   "contentRating": "safe",
+   "score": 0.28520605
+  },
+  {
+   "id": "ac99bb12-c788-4f7d-95c1-1264d0d943b4",
+   "title": {
+    "en": "Maid Skater"
+   },
+   "contentRating": "safe",
+   "score": 0.27445343,
+   "languages": [
+    "en",
+    "pt-br",
+    "vi"
+   ]
+  },
+  {
    "id": "6e52e5ac-aa12-4f6f-b77f-f0f9b7873835",
    "title": {
     "en": "Tonari no Koroshiya-chan"
    },
    "contentRating": "safe",
-   "score": 0.26958457
+   "score": 0.2695864
   },
   {
    "id": "b3459517-f680-425f-ac22-4950937ee3a1",
@@ -35,7 +48,7 @@
     "en": "Mukukano: Muku de Mukuchi na Shokunin Kanojo to, Shizuka de Nigiyakana Futarigurashi"
    },
    "contentRating": "safe",
-   "score": 0.26354668
+   "score": 0.26354644
   },
   {
    "id": "e4d3cba5-60bc-479f-b36f-9aee06e14819",
@@ -43,7 +56,7 @@
     "en": "Ansatsu Koukyuu ~Ansatsu Nyokan Karin wa Yuttari Ikitai~"
    },
    "contentRating": "safe",
-   "score": 0.26222444
+   "score": 0.26223367
   },
   {
    "id": "5dc5917b-01f7-4f24-baee-17b515c888f9",
@@ -51,7 +64,7 @@
     "en": "Shimokitazawa Backyard Story"
    },
    "contentRating": "safe",
-   "score": 0.26063302
+   "score": 0.2606344
   },
   {
    "id": "18edd030-769e-4fb0-8b91-f87b815f42ea",
@@ -59,7 +72,7 @@
     "en": "I Was Betrayed. So I Changed My Job To The Queen's Maid of Honor!"
    },
    "contentRating": "safe",
-   "score": 0.25728777
+   "score": 0.2572774
   },
   {
    "id": "dc06f388-f2aa-4df7-96c7-82c271464e94",
@@ -67,7 +80,7 @@
     "en": "Mozuku, Walking!"
    },
    "contentRating": "safe",
-   "score": 0.25723442,
+   "score": 0.2572335,
    "languages": [
     "en"
    ]
@@ -81,12 +94,15 @@
    "score": 0.25509605
   },
   {
-   "id": "ee91d45e-6d57-400c-ac38-16c9b718b535",
+   "id": "1fc13c46-42b4-44af-964c-6112a58567be",
    "title": {
-    "en": "Shita no Kai ni Sundeiru Hikikomori Bishojo wa Ote Jimusho no Shinjin Vtuber Deshita"
+    "en": "Hadaka de Koi o Katarunaka"
    },
    "contentRating": "safe",
-   "score": 0.24983473
+   "score": 0.24983473,
+   "languages": [
+    "zh"
+   ]
   },
   {
    "id": "e59fbe4d-5efe-4fc6-93ed-41809659a928",
@@ -100,28 +116,6 @@
    ]
   },
   {
-   "id": "cf381a3d-ece9-4ae7-a693-96a49a69908a",
-   "title": {
-    "en": "Tamariba"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "b72aaa4b-ad74-40cf-889b-9cf0a9bed5f0",
-   "title": {
-    "en": "The Picky Eater Wants to Fill Her Stomach With Love"
-   },
-   "contentRating": "safe",
-   "score": 0.24983473,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "08fa4925-fa3d-499c-ac5f-07025ac8438a",
    "title": {
     "en": "Sono Unmei wa Uranaenai!"
@@ -130,24 +124,39 @@
    "score": 0.24983473
   },
   {
-   "id": "97256c94-29ef-4a77-ac73-761728e3032d",
+   "id": "c44b3e3b-a7e0-4101-b43a-6d58768e7726",
    "title": {
-    "en": "Menchi Kitte, Koi."
-   },
-   "contentRating": "safe",
-   "score": 0.24983473
-  },
-  {
-   "id": "1fc13c46-42b4-44af-964c-6112a58567be",
-   "title": {
-    "en": "Hadaka de Koi o Katarunaka"
+    "en": "Ten yori Takaku"
    },
    "contentRating": "safe",
    "score": 0.24983473,
    "languages": [
-    "zh"
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "b9fdf429-5cca-46d8-9022-7d84be8947ef",
+   "title": {
+    "en": "Otakon no Susume!"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "es-la"
+   ]
+  },
+  {
+   "id": "7bba4ac3-5d5c-4456-97d1-104abaa960a7",
+   "title": {
+    "en": "Jinjya no Susume"
+   },
+   "contentRating": "safe",
+   "score": 0.24983473,
+   "languages": [
+    "en"
    ]
   }
  ],
- "updatedAt": "2025-01-16T00:50:07+00:00"
+ "updatedAt": "2025-01-18T00:34:22+00:00"
 }

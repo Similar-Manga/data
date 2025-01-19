@@ -30,6 +30,7 @@
   },
   "links": {
    "al": "44281",
+   "amz": "https://www.amazon.co.jp/-/en/dp/B074CGYG89?binding=kindle_edition",
    "ap": "keiji",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/129816/",
    "kt": "24771",
@@ -43,6 +44,10 @@
   "status": "completed",
   "year": 1990,
   "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "f5a3f65d-b1a4-44fc-bb8c-cf3e6801207c",
   "tags": [
    {
     "id": "33771934-028e-4cb3-8744-691e866a923e",
@@ -130,9 +135,9 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2018-04-07T05:14:29+00:00",
-  "updatedAt": "2022-02-22T04:14:26+00:00"
+  "updatedAt": "2025-01-15T12:12:16+00:00"
  },
  "relationships": [
   {
@@ -214,16 +219,16 @@
    }
   },
   {
-   "id": "b0dd5278-4fec-4f15-ab0f-9b8300404bf6",
+   "id": "77158967-0e2b-4c7a-87ff-af541f4b7ae1",
    "type": "cover_art",
    "attributes": {
-    "createdAt": "2021-05-24T17:40:07+00:00",
+    "createdAt": "2025-01-15T12:12:15+00:00",
     "description": "",
-    "fileName": "a50c227b-8808-4dc9-b4db-c7594b4ef7ce.jpg",
+    "fileName": "fa3a3d5f-daa4-4412-964f-03c540db40b2.jpg",
     "locale": "ja",
-    "updatedAt": "2022-02-22T04:14:26+00:00",
-    "version": 2,
-    "volume": "1"
+    "updatedAt": "2025-01-15T12:12:15+00:00",
+    "version": 1,
+    "volume": "18"
    }
   },
   {

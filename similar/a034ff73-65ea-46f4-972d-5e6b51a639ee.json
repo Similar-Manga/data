@@ -6,24 +6,24 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "d02647cb-0ec5-40b9-9415-ceb2c137d29a",
-   "title": {
-    "en": "Rugby Rumble"
-   },
-   "contentRating": "safe",
-   "score": 0.5454924,
-   "languages": [
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "dfb019ee-ddf4-4b57-946f-76ef5130ab45",
    "title": {
     "en": "Try Try"
    },
    "contentRating": "safe",
-   "score": 0.5437155
+   "score": 0.5437131
+  },
+  {
+   "id": "d02647cb-0ec5-40b9-9415-ceb2c137d29a",
+   "title": {
+    "en": "Rugby Rumble"
+   },
+   "contentRating": "safe",
+   "score": 0.4757764,
+   "languages": [
+    "en",
+    "es-la"
+   ]
   },
   {
    "id": "acaed15b-d941-438d-96be-8ccd84a76b66",
@@ -31,7 +31,7 @@
     "en": "Robing Skonk's Great Reversal!"
    },
    "contentRating": "safe",
-   "score": 0.3374609
+   "score": 0.3374695
   },
   {
    "id": "ce4a557a-b59c-4c7b-ae9b-af385e5b9f7b",
@@ -39,7 +39,7 @@
     "en": "Red-Blood's Eleven"
    },
    "contentRating": "safe",
-   "score": 0.31416154
+   "score": 0.31416512
   },
   {
    "id": "c0526031-af3f-4fde-a901-55a56c1a06f0",
@@ -47,7 +47,7 @@
     "en": "Australia Yamato"
    },
    "contentRating": "safe",
-   "score": 0.31181693
+   "score": 0.31181064
   },
   {
    "id": "6089a488-6925-42e1-b632-6b118f12647d",
@@ -55,18 +55,7 @@
     "en": "Mud Ace"
    },
    "contentRating": "safe",
-   "score": 0.30446777
-  },
-  {
-   "id": "336e84a4-5fda-4729-bec9-102396c8ff65",
-   "title": {
-    "en": "Tokyo Cycle Girls."
-   },
-   "contentRating": "safe",
-   "score": 0.2957633,
-   "languages": [
-    "en"
-   ]
+   "score": 0.30445564
   },
   {
    "id": "c584b3d8-f3d8-4edf-9a6c-0690494f1e41",
@@ -74,7 +63,18 @@
     "en": "Eleven"
    },
    "contentRating": "safe",
-   "score": 0.29462054,
+   "score": 0.29809484,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "336e84a4-5fda-4729-bec9-102396c8ff65",
+   "title": {
+    "en": "Tokyo Cycle Girls."
+   },
+   "contentRating": "safe",
+   "score": 0.295762,
    "languages": [
     "en"
    ]
@@ -85,31 +85,7 @@
     "en": "Slapstick Milky Sensei"
    },
    "contentRating": "safe",
-   "score": 0.29460943
-  },
-  {
-   "id": "40dc6147-201c-4b3d-a176-ecf0a688bd91",
-   "title": {
-    "en": "Nagashima-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797
-  },
-  {
-   "id": "6433d988-4935-485a-97a7-2fb3e79d6ff0",
-   "title": {
-    "en": "Shoot! Attack"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797
-  },
-  {
-   "id": "e5d36de5-7c46-4b56-b810-b94e67c7f295",
-   "title": {
-    "en": "Ojamanga Yamada-kun"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797
+   "score": 0.29461002
   },
   {
    "id": "6bce1eba-4474-497c-9665-f39907ae4d20",
@@ -120,20 +96,33 @@
    "score": 0.28350797
   },
   {
-   "id": "22de2d21-57af-412d-a9dc-43b13675a0d1",
+   "id": "527020f8-ccb4-427c-b03c-d9b0f364f544",
    "title": {
-    "en": "Whistle! W"
+    "en": "Getabaki Koushien"
    },
    "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en"
-   ]
+   "score": 0.28350797
   },
   {
    "id": "46d51e76-a83c-43e1-b02f-365430315053",
    "title": {
     "en": "Shiroboshi-kun"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797
+  },
+  {
+   "id": "7c15a220-6793-4456-9f59-8d4437e4dd13",
+   "title": {
+    "en": "Home Room"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797
+  },
+  {
+   "id": "40dc6147-201c-4b3d-a176-ecf0a688bd91",
+   "title": {
+    "en": "Nagashima-kun"
    },
    "contentRating": "safe",
    "score": 0.28350797
@@ -145,7 +134,15 @@
    },
    "contentRating": "safe",
    "score": 0.28350797
+  },
+  {
+   "id": "f6c7230b-cace-450f-a4c8-0f33799fb791",
+   "title": {
+    "en": "Go! Akutaro"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797
   }
  ],
- "updatedAt": "2025-01-16T00:27:52+00:00"
+ "updatedAt": "2025-01-18T00:10:04+00:00"
 }

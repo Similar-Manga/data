@@ -11,7 +11,7 @@
     "en": "Vintage"
    },
    "contentRating": "safe",
-   "score": 0.65296394,
+   "score": 0.6529863,
    "languages": [
     "en",
     "ru"
@@ -23,7 +23,7 @@
     "en": "Otakon no Susume!"
    },
    "contentRating": "safe",
-   "score": 0.29761672,
+   "score": 0.29761598,
    "languages": [
     "es-la"
    ]
@@ -34,7 +34,7 @@
     "en": "Jinjya no Susume"
    },
    "contentRating": "safe",
-   "score": 0.29654738,
+   "score": 0.29654992,
    "languages": [
     "en"
    ]
@@ -45,23 +45,53 @@
     "en": "The Picky Eater Wants to Fill Her Stomach With Love"
    },
    "contentRating": "safe",
-   "score": 0.29291192,
+   "score": 0.29291174,
    "languages": [
     "en"
    ]
   },
   {
-   "id": "97256c94-29ef-4a77-ac73-761728e3032d",
+   "id": "1fc13c46-42b4-44af-964c-6112a58567be",
    "title": {
-    "en": "Menchi Kitte, Koi."
+    "en": "Hadaka de Koi o Katarunaka"
    },
    "contentRating": "safe",
-   "score": 0.2851258
+   "score": 0.2851258,
+   "languages": [
+    "zh"
+   ]
   },
   {
    "id": "5c6ab575-9884-4de8-b762-921c650ea134",
    "title": {
     "en": "Oshi Korosu"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
+  },
+  {
+   "id": "672a9834-15a0-466f-85db-d8309bd0a85c",
+   "title": {
+    "en": "Amael-san mo Amaetai"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
+  },
+  {
+   "id": "dc06f388-f2aa-4df7-96c7-82c271464e94",
+   "title": {
+    "en": "Mozuku, Walking!"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "08fa4925-fa3d-499c-ac5f-07025ac8438a",
+   "title": {
+    "en": "Sono Unmei wa Uranaenai!"
    },
    "contentRating": "safe",
    "score": 0.2851258
@@ -78,6 +108,14 @@
    ]
   },
   {
+   "id": "ee91d45e-6d57-400c-ac38-16c9b718b535",
+   "title": {
+    "en": "Shita no Kai ni Sundeiru Hikikomori Bishojo wa Ote Jimusho no Shinjin Vtuber Deshita"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258
+  },
+  {
    "id": "c44b3e3b-a7e0-4101-b43a-6d58768e7726",
    "title": {
     "en": "Ten yori Takaku"
@@ -90,40 +128,9 @@
    ]
   },
   {
-   "id": "4c111bd9-7039-4db1-9704-db6a5166f278",
+   "id": "97256c94-29ef-4a77-ac73-761728e3032d",
    "title": {
-    "en": "Wagahai no Kare wa Baka de aru"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "en",
-    "vi"
-   ]
-  },
-  {
-   "id": "1fc13c46-42b4-44af-964c-6112a58567be",
-   "title": {
-    "en": "Hadaka de Koi o Katarunaka"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258,
-   "languages": [
-    "zh"
-   ]
-  },
-  {
-   "id": "a010b62b-0ea6-4f7e-b7f3-3bd719a530c0",
-   "title": {
-    "en": "Takumashi-san wa Mainichi Saikyou"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258
-  },
-  {
-   "id": "08fa4925-fa3d-499c-ac5f-07025ac8438a",
-   "title": {
-    "en": "Sono Unmei wa Uranaenai!"
+    "en": "Menchi Kitte, Koi."
    },
    "contentRating": "safe",
    "score": 0.2851258
@@ -140,32 +147,28 @@
    ]
   },
   {
-   "id": "672a9834-15a0-466f-85db-d8309bd0a85c",
+   "id": "79132cf3-9137-43ab-9522-41277e394f28",
    "title": {
-    "en": "Amael-san mo Amaetai"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258
-  },
-  {
-   "id": "ee91d45e-6d57-400c-ac38-16c9b718b535",
-   "title": {
-    "en": "Shita no Kai ni Sundeiru Hikikomori Bishojo wa Ote Jimusho no Shinjin Vtuber Deshita"
-   },
-   "contentRating": "safe",
-   "score": 0.2851258
-  },
-  {
-   "id": "dc06f388-f2aa-4df7-96c7-82c271464e94",
-   "title": {
-    "en": "Mozuku, Walking!"
+    "en": "Himote no Gimon ni Kotaeru Hon"
    },
    "contentRating": "safe",
    "score": 0.2851258,
    "languages": [
-    "en"
+    "es-la"
+   ]
+  },
+  {
+   "id": "4c111bd9-7039-4db1-9704-db6a5166f278",
+   "title": {
+    "en": "Wagahai no Kare wa Baka de aru"
+   },
+   "contentRating": "safe",
+   "score": 0.2851258,
+   "languages": [
+    "en",
+    "vi"
    ]
   }
  ],
- "updatedAt": "2025-01-15T23:55:28+00:00"
+ "updatedAt": "2025-01-17T23:35:01+00:00"
 }

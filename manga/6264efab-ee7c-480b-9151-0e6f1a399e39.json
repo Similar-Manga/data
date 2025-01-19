@@ -7,13 +7,13 @@
   },
   "altTitles": [
    {
-    "en": "Shingeki no Kyojin dj - Michi no Koibito"
+    "ja": "進撃の巨人 - 未知の恋人 (同人誌)"
    },
    {
-    "en": "Shingeki no Kyojin dj - Unknown my sweetheart"
+    "ja-ro": "Shingeki no Kyojin - Michi no Koibito (Doujinshi)"
    },
    {
-    "en": "未知の恋人"
+    "en": "Attack on Titan - Unknown my sweetheart (Doujinshi)"
    }
   ],
   "description": {
@@ -30,6 +30,18 @@
   ],
   "latestUploadedChapter": "88539b1b-eb96-4d4a-a5d8-845ddaf10061",
   "tags": [
+   {
+    "id": "0234a31e-a729-4e28-9d6a-3f87c4966b9e",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Oneshot"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   },
    {
     "id": "5920b825-4181-4a17-beeb-9918b0ff7a30",
     "type": "tag",
@@ -56,9 +68,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-12-16T05:21:02+00:00",
-  "updatedAt": "2021-05-25T15:43:03+00:00"
+  "updatedAt": "2025-01-15T08:09:36+00:00"
  },
  "relationships": [
   {
@@ -181,6 +193,11 @@
     "version": 1,
     "volume": null
    }
+  },
+  {
+   "id": "304ceac3-8cdb-4fe7-acf7-2b6ff7a60613",
+   "type": "manga",
+   "related": "based_on"
   }
  ]
 }

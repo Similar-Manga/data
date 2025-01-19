@@ -11,7 +11,7 @@
     "en": "Fantasies"
    },
    "contentRating": "safe",
-   "score": 0.29896107,
+   "score": 0.2989657,
    "languages": [
     "en",
     "de"
@@ -45,7 +45,7 @@
     "en": "Section 459"
    },
    "contentRating": "safe",
-   "score": 0.24389291,
+   "score": 0.24389322,
    "languages": [
     "fr"
    ]
@@ -56,22 +56,23 @@
     "en": "レンタルキラー"
    },
    "contentRating": "safe",
-   "score": 0.24141172,
+   "score": 0.24141479,
    "languages": [
     "pt-br"
    ]
   },
   {
-   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
+   "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
    "title": {
-    "en": "Minds"
+    "en": "Karakuri"
    },
    "contentRating": "safe",
    "score": 0.23328476,
    "languages": [
     "en",
-    "tr",
-    "pl"
+    "pl",
+    "pt-br",
+    "it"
    ]
   },
   {
@@ -99,6 +100,19 @@
    ]
   },
   {
+   "id": "f25e0525-a016-4575-92b3-45c7cd1d2c7b",
+   "title": {
+    "en": "Minds"
+   },
+   "contentRating": "safe",
+   "score": 0.23328476,
+   "languages": [
+    "en",
+    "tr",
+    "pl"
+   ]
+  },
+  {
    "id": "02718594-7b6a-47d8-9c49-6b8fb6586865",
    "title": {
     "en": "Chou Kasoku Ningen Leo"
@@ -110,26 +124,12 @@
    ]
   },
   {
-   "id": "99b3c4fd-6a90-44c4-bf03-ee7308b1b05e",
-   "title": {
-    "en": "Karakuri"
-   },
-   "contentRating": "safe",
-   "score": 0.23328476,
-   "languages": [
-    "en",
-    "pl",
-    "pt-br",
-    "it"
-   ]
-  },
-  {
    "id": "9865c978-3393-42a6-9b0c-947814ac8a24",
    "title": {
     "en": "Count Over"
    },
    "contentRating": "safe",
-   "score": 0.22301237,
+   "score": 0.22301598,
    "languages": [
     "pt-br",
     "id",
@@ -144,25 +144,12 @@
     "en": "Hero Killer"
    },
    "contentRating": "safe",
-   "score": 0.22237703,
+   "score": 0.22238879,
    "languages": [
     "fr",
     "en",
     "pl",
     "tr"
-   ]
-  },
-  {
-   "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
-   "title": {
-    "en": "KILLER PARENT"
-   },
-   "contentRating": "safe",
-   "score": 0.22131334,
-   "languages": [
-    "tr",
-    "en",
-    "ru"
    ]
   },
   {
@@ -190,12 +177,25 @@
    ]
   },
   {
+   "id": "0d8fd229-983d-4b55-b2b3-db7de30fe6f0",
+   "title": {
+    "en": "KILLER PARENT"
+   },
+   "contentRating": "safe",
+   "score": 0.22131334,
+   "languages": [
+    "tr",
+    "en",
+    "ru"
+   ]
+  },
+  {
    "id": "523ab7de-2ec8-4e8f-9674-1631a318bb36",
    "title": {
     "en": "Hello Baby"
    },
    "contentRating": "safe",
-   "score": 0.20722547,
+   "score": 0.20723331,
    "languages": [
     "ca",
     "en",
@@ -207,5 +207,5 @@
    ]
   }
  ],
- "updatedAt": "2025-01-16T01:09:22+00:00"
+ "updatedAt": "2025-01-18T00:56:03+00:00"
 }

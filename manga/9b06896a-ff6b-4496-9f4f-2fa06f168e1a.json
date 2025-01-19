@@ -1,0 +1,137 @@
+{
+ "id": "9b06896a-ff6b-4496-9f4f-2fa06f168e1a",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Mainichi Tori Biyori"
+  },
+  "altTitles": [
+   {
+    "ja": "まいにち鳥びより"
+   },
+   {
+    "en": "Everyday is a good day for bird watching"
+   }
+  ],
+  "description": {
+   "en": "Let's find fun creatures that are close at hand! At 6 a.m. in the pleasantly clean air, I was walking along the riverside in my neighborhood when I found a paradise for wild birds. A different perspective on an ordinary scenery can make your heart beat faster. A casual and easygoing bird-watching essay by Hajime Tobita!"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/%E3%81%BE%E3%81%84%E3%81%AB%E3%81%A1%E9%B3%A5%E3%81%B3%E3%82%88%E3%82%8A-%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9COMICS-%E9%B3%B6%E7%94%B0%E3%83%8F%E3%82%B8%E3%83%A1/dp/486675401X",
+   "bw": "de0237ba5e-9ef2-4357-9e4a-5c15f9f16934",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/872805/A005657415/",
+   "mu": "6ep2bz4",
+   "raw": "https://comic-polaris.jp/toribiyori/"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shoujo",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "3de8c75d-8ee3-48ff-98ee-e20a65c86451",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Animals"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
+   {
+    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Slice of Life"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-17T11:20:46+00:00",
+  "updatedAt": "2025-01-17T17:36:39+00:00"
+ },
+ "relationships": [
+  {
+   "id": "dfe56073-e66b-49f8-8292-b3b954b5346c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 鳶田ハジメ\n\n**Additional Socials:**\n- [Instagram](https://www.instagram.com/kazuholland_dr/)\n- [2nd Instagram](https://www.instagram.com/kazuholland_dr2/)\n- [Tumblr](https://hajimetobita.tumblr.com/)\n- [POTOFU](https://potofu.me/tobitahajime)"
+    },
+    "booth": null,
+    "createdAt": "2022-10-21T13:55:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tobita Hajime",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kazuholland_dr",
+    "updatedAt": "2024-11-05T17:29:10+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "dfe56073-e66b-49f8-8292-b3b954b5346c",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 鳶田ハジメ\n\n**Additional Socials:**\n- [Instagram](https://www.instagram.com/kazuholland_dr/)\n- [2nd Instagram](https://www.instagram.com/kazuholland_dr2/)\n- [Tumblr](https://hajimetobita.tumblr.com/)\n- [POTOFU](https://potofu.me/tobitahajime)"
+    },
+    "booth": null,
+    "createdAt": "2022-10-21T13:55:00+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Tobita Hajime",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/kazuholland_dr",
+    "updatedAt": "2024-11-05T17:29:10+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "f58f0e75-19e9-41b9-b6bb-bbeca33e7240",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-17T11:20:49+00:00",
+    "description": "",
+    "fileName": "3dc8c6b1-241b-4bc1-9573-447943a014b6.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-17T11:20:49+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "cf326533-07d1-4596-ac9e-e8ec899277b7",
+   "type": "creator"
+  }
+ ]
+}

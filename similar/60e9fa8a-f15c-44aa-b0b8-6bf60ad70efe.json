@@ -6,17 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "6e3d0841-96b5-48f3-9b71-dea671b51fab",
-   "title": {
-    "en": "Highway Wolf"
-   },
-   "contentRating": "safe",
-   "score": 0.28350797,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "d88f684f-6cfe-4d31-9605-9e9f73f7ff11",
    "title": {
     "en": "The Days of Diamond"
@@ -31,14 +20,42 @@
    ]
   },
   {
+   "id": "6e3d0841-96b5-48f3-9b71-dea671b51fab",
+   "title": {
+    "en": "Highway Wolf"
+   },
+   "contentRating": "safe",
+   "score": 0.28350797,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "286da3e0-4981-42b1-9f8f-c59a7e91d3de",
    "title": {
     "en": "Shoujo Fight"
    },
    "contentRating": "safe",
-   "score": 0.23246735,
+   "score": 0.2324594,
    "languages": [
     "en"
+   ]
+  },
+  {
+   "id": "4a433d6b-f51a-4c2f-a183-85419fe98efc",
+   "title": {
+    "en": "Medalist"
+   },
+   "contentRating": "safe",
+   "score": 0.23148328,
+   "languages": [
+    "zh",
+    "en",
+    "pt-br",
+    "es-la",
+    "ru",
+    "vi",
+    "zh-hk"
    ]
   },
   {
@@ -66,34 +83,6 @@
    ]
   },
   {
-   "id": "4a433d6b-f51a-4c2f-a183-85419fe98efc",
-   "title": {
-    "en": "Medalist"
-   },
-   "contentRating": "safe",
-   "score": 0.23148328,
-   "languages": [
-    "zh",
-    "en",
-    "pt-br",
-    "es-la",
-    "ru",
-    "vi",
-    "zh-hk"
-   ]
-  },
-  {
-   "id": "66164b4e-dd16-4f51-a670-174ac822e3ba",
-   "title": {
-    "en": "Yamato no Hane"
-   },
-   "contentRating": "safe",
-   "score": 0.22552921,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c9858bff-2e9a-4f7e-8b3f-06abe9496b59",
    "title": {
     "en": "Nikaidou Hell Golf"
@@ -106,9 +95,9 @@
    ]
   },
   {
-   "id": "a8c1f264-e95c-4d9a-bbbe-4cd8e5e293d2",
+   "id": "66164b4e-dd16-4f51-a670-174ac822e3ba",
    "title": {
-    "en": "Zero Angel: The Clear Blue Fallen Angel"
+    "en": "Yamato no Hane"
    },
    "contentRating": "safe",
    "score": 0.22552921,
@@ -144,12 +133,23 @@
    ]
   },
   {
+   "id": "a8c1f264-e95c-4d9a-bbbe-4cd8e5e293d2",
+   "title": {
+    "en": "Zero Angel: The Clear Blue Fallen Angel"
+   },
+   "contentRating": "safe",
+   "score": 0.22552921,
+   "languages": [
+    "en"
+   ]
+  },
+  {
    "id": "3b6c3a0b-8752-41fc-9d3e-1310f6f28252",
    "title": {
     "en": "Giant Killing"
    },
    "contentRating": "safe",
-   "score": 0.21097077,
+   "score": 0.21097237,
    "languages": [
     "ar",
     "pt-br",
@@ -166,7 +166,7 @@
     "en": "Golondrina"
    },
    "contentRating": "safe",
-   "score": 0.20972748,
+   "score": 0.20972817,
    "languages": [
     "pl",
     "en",
@@ -188,23 +188,22 @@
    ]
   },
   {
-   "id": "624907a9-9aac-4998-8f1e-bed15ab26d71",
+   "id": "e2ff6606-4391-4286-93db-78f78297305f",
    "title": {
-    "en": "The Magnificent Grand Scene"
+    "en": "Captain Tsubasa - Rising Sun"
    },
    "contentRating": "safe",
    "score": 0.20047042,
    "languages": [
     "en",
-    "pt-br",
-    "es-la",
-    "es"
+    "tr",
+    "vi"
    ]
   },
   {
-   "id": "4daee0fc-c770-4b4d-90bb-cb3ed4a5e19c",
+   "id": "3e32a4b1-8fa1-423c-ae24-1b28013a9eab",
    "title": {
-    "en": "Mukoubuchi: The High-Stakes Underground Mahjong Series"
+    "en": "Oyaju Rider"
    },
    "contentRating": "safe",
    "score": 0.20047042,
@@ -213,5 +212,5 @@
    ]
   }
  ],
- "updatedAt": "2025-01-15T23:57:00+00:00"
+ "updatedAt": "2025-01-17T23:36:41+00:00"
 }

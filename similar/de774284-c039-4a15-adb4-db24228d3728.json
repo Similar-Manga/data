@@ -6,14 +6,6 @@
  "contentRating": "safe",
  "matches": [
   {
-   "id": "ba5ab3bc-80e3-4404-8f04-ba7dcd2542c3",
-   "title": {
-    "en": "Holy Blood's Marine Mammal"
-   },
-   "contentRating": "safe",
-   "score": 0.19471695
-  },
-  {
    "id": "c1cdce81-b41e-4f81-aa01-df4ee3cb6e7d",
    "title": {
     "en": "AYAKA - Muzzle Flash Back!!"
@@ -22,12 +14,12 @@
    "score": 0.19471695
   },
   {
-   "id": "1d88fc5f-617d-477b-9cff-55f3ac653878",
+   "id": "ba5ab3bc-80e3-4404-8f04-ba7dcd2542c3",
    "title": {
-    "en": "Scylla"
+    "en": "Holy Blood's Marine Mammal"
    },
    "contentRating": "safe",
-   "score": 0.18286848
+   "score": 0.19471695
   },
   {
    "id": "4c4fa9c1-f529-4707-aa4e-816b17a7cea4",
@@ -35,7 +27,15 @@
     "en": "Ada Senki"
    },
    "contentRating": "safe",
-   "score": 0.17802674
+   "score": 0.18652467
+  },
+  {
+   "id": "1d88fc5f-617d-477b-9cff-55f3ac653878",
+   "title": {
+    "en": "Scylla"
+   },
+   "contentRating": "safe",
+   "score": 0.1828901
   },
   {
    "id": "d4469677-4aca-453e-87e6-d1ef9ea67335",
@@ -43,7 +43,7 @@
     "en": "Technoroid: OVERMIND"
    },
    "contentRating": "safe",
-   "score": 0.17179234
+   "score": 0.1717993
   },
   {
    "id": "feaf1695-8f41-4b9b-8c4d-77fbc3589004",
@@ -51,12 +51,23 @@
     "en": "The Dragon Dream"
    },
    "contentRating": "safe",
-   "score": 0.1710673
+   "score": 0.1710826
   },
   {
    "id": "2b7ee0c2-dcaa-4ccd-96ff-dff4e61c0f34",
    "title": {
     "en": "Tenkyuugi  Sephirahnatus"
+   },
+   "contentRating": "safe",
+   "score": 0.15898573,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c9648b66-1aef-4831-9f57-f89c7843d1a7",
+   "title": {
+    "en": "Mr. Applicant"
    },
    "contentRating": "safe",
    "score": 0.15898573,
@@ -73,23 +84,12 @@
    "score": 0.15898573
   },
   {
-   "id": "c9648b66-1aef-4831-9f57-f89c7843d1a7",
-   "title": {
-    "en": "Mr. Applicant"
-   },
-   "contentRating": "safe",
-   "score": 0.15898573,
-   "languages": [
-    "en"
-   ]
-  },
-  {
    "id": "c2557c75-9204-4a8c-a23d-3b97f920dfc9",
    "title": {
     "en": "Ao no Souyoku - Phantom of Dragon"
    },
    "contentRating": "safe",
-   "score": 0.14605662,
+   "score": 0.14606296,
    "languages": [
     "en"
    ]
@@ -108,7 +108,7 @@
     "en": "Saiyuki Ibun"
    },
    "contentRating": "safe",
-   "score": 0.1407346,
+   "score": 0.14074603,
    "languages": [
     "en"
    ]
@@ -119,38 +119,42 @@
     "en": "Lucien"
    },
    "contentRating": "safe",
-   "score": 0.13803689
+   "score": 0.1380677
   },
   {
-   "id": "922aff3a-e4f3-4f44-ad9d-d1e1549b0d0b",
+   "id": "5fa08e64-ceee-41d9-b48e-39e848bedb82",
    "title": {
-    "en": "Michian no - Sanji no Omizu"
+    "en": "Arcana 09 - Transformation☆Personification"
    },
    "contentRating": "safe",
    "score": 0.13768567,
    "languages": [
-    "zh-hk"
+    "en",
+    "pl",
+    "hu",
+    "fr"
    ]
   },
   {
-   "id": "663c0803-96a5-4ab9-91c5-795c114c88b1",
+   "id": "c1ca7b04-4c74-4da6-81a1-88b7d805f2e4",
    "title": {
-    "en": "Haigakura"
-   },
-   "contentRating": "safe",
-   "score": 0.13768567,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "ce9c94bd-0c36-47e3-9890-4377071a1d6e",
-   "title": {
-    "en": "Shiitagerare Reijou wa Hitogirai no Mahoutsukai ni Deshiiri suru"
+    "en": "Kadafuu Raiden"
    },
    "contentRating": "safe",
    "score": 0.13768567
+  },
+  {
+   "id": "22a86d7c-6827-402c-80af-dbdee3c6c6aa",
+   "title": {
+    "en": "Ihou no Oswald"
+   },
+   "contentRating": "safe",
+   "score": 0.13768567,
+   "languages": [
+    "zh-hk",
+    "en"
+   ]
   }
  ],
- "updatedAt": "2025-01-16T00:57:36+00:00"
+ "updatedAt": "2025-01-18T00:42:46+00:00"
 }

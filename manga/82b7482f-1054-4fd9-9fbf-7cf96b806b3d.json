@@ -1,0 +1,149 @@
+{
+ "id": "82b7482f-1054-4fd9-9fbf-7cf96b806b3d",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Watashi wa Erabarenai"
+  },
+  "altTitles": [
+   {
+    "en": "I Will Not Be Chosen"
+   },
+   {
+    "ja": "私は選ばれない"
+   }
+  ],
+  "description": {
+   "en": "Although her marriage was arranged by her parents, Chloe, the daughter of a count, had deeply loved her fiancé, Ernest, the eldest heir of the Ordrand Marquis family, since childhood. However, she is struck by the shocking reality when Ernest decides to break off their engagement and choose her younger sister, Emily, instead.\nAmid the pain of betrayal and heartbreak, Lionel, a young duke from the renowned Cislay family, suddenly appears and proposes marriage to her without any warning."
+  },
+  "links": {
+   "mal": "177954",
+   "mu": "s7d696m",
+   "raw": "https://www.cmoa.jp/title/287124/"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "josei",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "availableTranslatedLanguages": [
+   "en"
+  ],
+  "latestUploadedChapter": "bf42a455-372f-459b-ae11-850f28eef059",
+  "tags": [
+   {
+    "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Romance"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 4,
+  "createdAt": "2025-01-16T04:52:05+00:00",
+  "updatedAt": "2025-01-17T00:31:09+00:00"
+ },
+ "relationships": [
+  {
+   "id": "ade2307a-ae26-4f01-b601-bc4558c5421f",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-16T04:49:42+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "MidorI Takako",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/midori_takako",
+    "updatedAt": "2025-01-16T18:27:29+00:00",
+    "version": 3,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "265c9e9d-25d7-41a8-88c2-cf31539b76e7",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Associated names:**\n鈴宮ユニコ\nmarsh. (Suzu)\nmarsh. (すず)\nSuzu (II)\nすず\n\n**Circles:**\nmarsh\n\n[Alt Twitter](https://twitter.com/szmallow_xx)\n[Instagram](https://www.instagram.com/sz_mallow_xx/)"
+    },
+    "booth": null,
+    "createdAt": "2022-01-10T19:07:10+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Suzumiya Yuniko",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": "https://www.pixiv.net/en/users/15385760",
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/szmallow_xx",
+    "updatedAt": "2022-05-12T13:47:31+00:00",
+    "version": 3,
+    "website": "https://www.instagram.com/sz_mallow_xx/",
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "424e10c1-a139-4a73-961c-7664dc832de8",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-16T04:52:21+00:00",
+    "description": "",
+    "fileName": "0cb2a769-2992-4523-848d-d2f19f7152ed.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-16T04:52:21+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "2e048289-ec5b-4cbe-91a4-090307761e6c",
+   "type": "creator"
+  }
+ ]
+}

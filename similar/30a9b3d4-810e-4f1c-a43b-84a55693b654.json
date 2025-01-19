@@ -11,7 +11,7 @@
     "en": "Reiko Monogatari"
    },
    "contentRating": "safe",
-   "score": 0.24947762
+   "score": 0.24948336
   },
   {
    "id": "87b0d20f-b99d-4d1c-ad5e-2568d1b152aa",
@@ -19,23 +19,20 @@
     "en": "Thriller Professor and Mean Professor"
    },
    "contentRating": "safe",
-   "score": 0.23513861
+   "score": 0.23513868
+  },
+  {
+   "id": "63d803cc-76f7-4d24-9092-c89541ec50e8",
+   "title": {
+    "en": "Moko to Yuganda Satsujinki domo"
+   },
+   "contentRating": "safe",
+   "score": 0.23276806
   },
   {
    "id": "a4648945-4b64-40bb-8a85-eeec2cc8f04c",
    "title": {
     "en": "Osorochi"
-   },
-   "contentRating": "safe",
-   "score": 0.23276806,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3af112b9-2e75-4aff-8f0a-e84bca481a7d",
-   "title": {
-    "en": "Horror Brutal Blood"
    },
    "contentRating": "safe",
    "score": 0.23276806,
@@ -55,25 +52,28 @@
    ]
   },
   {
-   "id": "63d803cc-76f7-4d24-9092-c89541ec50e8",
+   "id": "3af112b9-2e75-4aff-8f0a-e84bca481a7d",
    "title": {
-    "en": "Moko to Yuganda Satsujinki domo"
+    "en": "Horror Brutal Blood"
    },
    "contentRating": "safe",
-   "score": 0.23276806
+   "score": 0.23276806,
+   "languages": [
+    "en"
+   ]
   },
   {
-   "id": "ae669ba5-ea9d-4436-aefa-27c9ef2b2409",
+   "id": "111b6998-629d-4685-a733-79ba3f413e42",
    "title": {
-    "en": "Broadway of the Dead"
+    "en": "Eight Grave Village"
    },
    "contentRating": "safe",
    "score": 0.21502191
   },
   {
-   "id": "342811b9-2c86-4b5e-8276-8b77913f1896",
+   "id": "ae669ba5-ea9d-4436-aefa-27c9ef2b2409",
    "title": {
-    "en": "Chii-chan"
+    "en": "Broadway of the Dead"
    },
    "contentRating": "safe",
    "score": 0.21502191
@@ -87,9 +87,9 @@
    "score": 0.21502191
   },
   {
-   "id": "111b6998-629d-4685-a733-79ba3f413e42",
+   "id": "342811b9-2c86-4b5e-8276-8b77913f1896",
    "title": {
-    "en": "Eight Grave Village"
+    "en": "Chii-chan"
    },
    "contentRating": "safe",
    "score": 0.21502191
@@ -133,14 +133,20 @@
    ]
   },
   {
-   "id": "959ac289-6dd1-4418-aa79-5e43938326a0",
+   "id": "f546580d-2bf5-4738-a2d9-420f6e56970b",
    "title": {
-    "en": "Dero Dero"
+    "en": "Hino Hideshi's Doraemon"
    },
    "contentRating": "safe",
    "score": 0.20158304,
    "languages": [
-    "en"
+    "id",
+    "pt-br",
+    "en",
+    "it",
+    "pl",
+    "es-la",
+    "vi"
    ]
   },
   {
@@ -152,5 +158,5 @@
    "score": 0.20158304
   }
  ],
- "updatedAt": "2025-01-15T23:33:39+00:00"
+ "updatedAt": "2025-01-17T23:11:10+00:00"
 }

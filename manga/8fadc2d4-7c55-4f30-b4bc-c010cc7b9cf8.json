@@ -1,0 +1,121 @@
+{
+ "id": "8fadc2d4-7c55-4f30-b4bc-c010cc7b9cf8",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "From the Gameshop “6th Planet”"
+  },
+  "altTitles": [
+   {
+    "ja": "第六惑星から"
+   },
+   {
+    "ja-ro": "Dairoku Wakusei kara"
+   },
+   {
+    "en": "From 6th Planet"
+   }
+  ],
+  "description": {
+   "en": "6th Planet, a second-hand shop that only sells Sega Saturns, introduces various Sega Saturn games with its own judgements and prejudices.\n\nAn essay comic for Sega Saturn fans by a Sega Saturn fan.\n___\n**Buy:**\n- Volume 1: [Suruga-ya](https://www.suruga-ya.jp/product/detail/ZHORO42819), [AliceBooks](https://alice-books.com/item/show/4972-1)\n- Volume 2: [Suruga-ya](https://www.suruga-ya.jp/product/detail/ZHORO53248), [AliceBooks](https://alice-books.com/item/show/4972-2)\n- Volume 3: [Suruga-ya](https://www.suruga-ya.jp/product/detail/ZHORO42820), [AliceBooks](https://alice-books.com/item/show/4972-3)\n- Omnibus: [BEEP](https://www.beep-shop.com/ec/products/detail/139), [COMIC ZIN](https://shop.comiczin.jp/products/detail.php?product_id=34131), [Suruga-ya](https://www.suruga-ya.jp/product/detail/ZHORO61998), [MANDARAKE](https://ec.mandarake.co.jp/order/detailPage/item?itemCode=1277161222)"
+  },
+  "originalLanguage": "ja",
+  "lastVolume": "3",
+  "status": "completed",
+  "year": 2015,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "9438db5a-7e2a-4ac0-b39e-e0d95a34b8a8",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Video Games"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 3,
+  "createdAt": "2025-01-16T05:31:34+00:00",
+  "updatedAt": "2025-01-16T05:35:31+00:00"
+ },
+ "relationships": [
+  {
+   "id": "a9c4de89-0d75-4d49-87a9-7bc01ff4895c",
+   "type": "author",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 左藤真通\n\n**Additional Sites:**\n- [note](https://note.com/reu_reu_)"
+    },
+    "booth": null,
+    "createdAt": "2022-07-09T00:33:05+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Satou Masamichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/reu_reu_",
+    "updatedAt": "2025-01-15T09:04:36+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "a9c4de89-0d75-4d49-87a9-7bc01ff4895c",
+   "type": "artist",
+   "attributes": {
+    "biography": {
+     "en": "**Name In Native Language:** 左藤真通\n\n**Additional Sites:**\n- [note](https://note.com/reu_reu_)"
+    },
+    "booth": null,
+    "createdAt": "2022-07-09T00:33:05+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Satou Masamichi",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": "https://twitter.com/reu_reu_",
+    "updatedAt": "2025-01-15T09:04:36+00:00",
+    "version": 4,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "c40ac555-e4f8-4c9b-aa82-25437efd1854",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-16T05:31:37+00:00",
+    "description": "",
+    "fileName": "1a1793d0-bfd9-4048-96f4-e04e11e1550e.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-16T05:31:37+00:00",
+    "version": 1,
+    "volume": "3"
+   }
+  },
+  {
+   "id": "4bf80b7d-a82e-4e0d-9dc2-108ca51bddf1",
+   "type": "creator"
+  }
+ ]
+}

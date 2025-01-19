@@ -7,19 +7,25 @@
   },
   "altTitles": [
    {
+    "ja": "うそつきなスキ"
+   },
+   {
     "en": "Your Gesture Says I Like You"
    },
    {
-    "en": "うそつきなスキ"
-   },
-   {
-    "en": "彆扭愛著你"
+    "zh-hk": "彆扭愛著你"
    }
   ],
   "description": {
-   "en": "I will show you the way to make that popular guy falling in love with you.  \n  \n\"You don’t know me! Don’t be so pretencious\"  \n  \nHe is always in front of my eyes, making fun of me. He always sees me with that kind of face and it’s intolerably sexy! But even if I want to be honest with him, I can’t. At the next culture festival, I wonder if I’ll change that?"
+   "en": "I will show you the way to make that popular guy falling in love with you.\n\n\"You don’t know me! Don't be so pretentious.\"\n\nHe is always in front of my eyes, making fun of me. He always sees me with that kind of face and it's intolerably sexy! But even if I want to be honest with him, I can't. At the next culture festival, I wonder if I'll change that?",
+   "ja": "「わかってんじゃん俺のこと」「自惚れないでよねっ！！」カレは上から目線で、いつもあたしをからかう。でもその余裕な表情が、たまらなく好き。素直になりたいのに、素直になれない。今度の文化祭こそ、あたし、変われるかな？"
   },
   "links": {
+   "al": "112682",
+   "amz": "https://www.amazon.co.jp/dp/B00COKM0R0",
+   "ap": "usotsuki-na-suki",
+   "bw": "series/126487",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/160290",
    "mu": "63732"
   },
   "originalLanguage": "ja",
@@ -27,6 +33,7 @@
   "lastChapter": "5",
   "publicationDemographic": "shoujo",
   "status": "completed",
+  "year": 2011,
   "contentRating": "safe",
   "availableTranslatedLanguages": [
    "en",
@@ -34,6 +41,18 @@
   ],
   "latestUploadedChapter": "c9410ba0-33b9-400f-abe8-911071612486",
   "tags": [
+   {
+    "id": "2bd2e8d0-f146-434a-9b51-fc9ff2c5fe6a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Genderswap"
+     },
+     "description": {},
+     "group": "theme",
+     "version": 1
+    }
+   },
    {
     "id": "423e2eae-a7a2-4a8b-ac03-a8351462d71d",
     "type": "tag",
@@ -60,9 +79,9 @@
    }
   ],
   "state": "published",
-  "version": 2,
+  "version": 3,
   "createdAt": "2019-02-22T04:21:20+00:00",
-  "updatedAt": "2021-05-25T15:41:53+00:00"
+  "updatedAt": "2025-01-15T23:22:03+00:00"
  },
  "relationships": [
   {
@@ -125,9 +144,9 @@
     "description": "",
     "fileName": "ca0f168e-20a1-476e-bde3-c54fdeac87f6.jpg",
     "locale": "ja",
-    "updatedAt": "2021-05-24T17:02:14+00:00",
-    "version": 1,
-    "volume": null
+    "updatedAt": "2025-01-15T23:22:02+00:00",
+    "version": 2,
+    "volume": "1"
    }
   }
  ]

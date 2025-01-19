@@ -11,7 +11,7 @@
     "en": "The End in Common Ruin"
    },
    "contentRating": "safe",
-   "score": 0.6887654,
+   "score": 0.6887762,
    "languages": [
     "pt-br",
     "bg",
@@ -26,7 +26,7 @@
     "en": "Deserted Place"
    },
    "contentRating": "safe",
-   "score": 0.61472815,
+   "score": 0.6147514,
    "languages": [
     "pl",
     "en",
@@ -40,7 +40,7 @@
     "en": "Alice in Underground"
    },
    "contentRating": "safe",
-   "score": 0.611132,
+   "score": 0.6111395,
    "languages": [
     "pt-br",
     "pl",
@@ -54,7 +54,7 @@
     "en": "Slice of Black Chocolate"
    },
    "contentRating": "safe",
-   "score": 0.5005484,
+   "score": 0.50056124,
    "languages": [
     "en",
     "hu",
@@ -64,78 +64,14 @@
    ]
   },
   {
-   "id": "81a9a7a4-8b65-4124-a884-548d64db0d75",
+   "id": "db3c863d-6b50-46bd-a094-32b36b5684e7",
    "title": {
-    "en": "We Can Fly!"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pt-br",
-    "pl",
-    "it"
-   ]
-  },
-  {
-   "id": "c282a4d4-3c9a-4914-a508-e4224e842ccc",
-   "title": {
-    "en": "ECO"
+    "en": "Arikai Annu"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
     "en"
-   ]
-  },
-  {
-   "id": "e81db69f-dd8c-4c0e-8897-f32ccdebd0e3",
-   "title": {
-    "en": "Ougon no Koku"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "ru"
-   ]
-  },
-  {
-   "id": "8f36f107-4a7f-42cd-91b0-2b842f35d829",
-   "title": {
-    "en": "OCEAN"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "ca82d43e-c953-4721-8452-c56b0d2db636",
-   "title": {
-    "en": "Mermaid of the End"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "pl"
-   ]
-  },
-  {
-   "id": "4cedd07e-bb0c-4e07-96ba-2ceb7ba55bea",
-   "title": {
-    "en": "Smargs Won't Sing"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "fr",
-    "tr",
-    "en",
-    "it"
    ]
   },
   {
@@ -154,18 +90,6 @@
    ]
   },
   {
-   "id": "4797ccc1-5bfc-48d7-9d2e-e57aebcaf9d7",
-   "title": {
-    "en": "The Straw Hat and the Carp"
-   },
-   "contentRating": "safe",
-   "score": 0.2857143,
-   "languages": [
-    "en",
-    "hu"
-   ]
-  },
-  {
    "id": "84a194d2-86d9-4522-b60b-5e31096b7fbb",
    "title": {
     "en": "Creation of the World Garden"
@@ -177,14 +101,27 @@
    ]
   },
   {
-   "id": "db3c863d-6b50-46bd-a094-32b36b5684e7",
+   "id": "ca82d43e-c953-4721-8452-c56b0d2db636",
    "title": {
-    "en": "Arikai Annu"
+    "en": "Mermaid of the End"
    },
    "contentRating": "safe",
    "score": 0.2857143,
    "languages": [
-    "en"
+    "en",
+    "pl"
+   ]
+  },
+  {
+   "id": "8f36f107-4a7f-42cd-91b0-2b842f35d829",
+   "title": {
+    "en": "OCEAN"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pl"
    ]
   },
   {
@@ -201,16 +138,87 @@
    ]
   },
   {
+   "id": "4797ccc1-5bfc-48d7-9d2e-e57aebcaf9d7",
+   "title": {
+    "en": "The Straw Hat and the Carp"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "hu"
+   ]
+  },
+  {
+   "id": "4cedd07e-bb0c-4e07-96ba-2ceb7ba55bea",
+   "title": {
+    "en": "Smargs Won't Sing"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "fr",
+    "tr",
+    "en",
+    "it"
+   ]
+  },
+  {
+   "id": "e81db69f-dd8c-4c0e-8897-f32ccdebd0e3",
+   "title": {
+    "en": "Ougon no Koku"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "ru"
+   ]
+  },
+  {
+   "id": "81a9a7a4-8b65-4124-a884-548d64db0d75",
+   "title": {
+    "en": "We Can Fly!"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "pt-br",
+    "pl",
+    "it"
+   ]
+  },
+  {
    "id": "db311f91-030d-494f-ae1b-c7bbeabfbd22",
    "title": {
     "en": "Watashi, Idol Yamemasu"
    },
    "contentRating": "safe",
-   "score": 0.28178236,
+   "score": 0.28178185,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "a77f9078-9ba4-4e87-8458-aae9a657ad32",
+   "title": {
+    "en": "0°C no Mahou"
+   },
+   "contentRating": "safe",
+   "score": 0.27475378,
+   "languages": [
+    "tr",
+    "de",
+    "hi",
+    "it",
+    "pt-br",
+    "en",
+    "es-la",
+    "fr",
+    "ca"
+   ]
   }
  ],
- "updatedAt": "2025-01-15T23:49:59+00:00"
+ "updatedAt": "2025-01-17T23:29:03+00:00"
 }

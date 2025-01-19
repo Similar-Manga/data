@@ -22,7 +22,7 @@
     "ja": "Yasashii Shinigami no Kaikata"
    },
    "contentRating": "safe",
-   "score": 0.18872495,
+   "score": 0.18871768,
    "languages": [
     "ru"
    ]
@@ -41,25 +41,12 @@
    ]
   },
   {
-   "id": "d3b64ad5-3d33-4008-a5d2-b6016003a792",
-   "title": {
-    "en": "Baskerville-ke no Seiryaku Kekkon"
-   },
-   "contentRating": "safe",
-   "score": 0.16198477,
-   "languages": [
-    "fr",
-    "en",
-    "es-la"
-   ]
-  },
-  {
    "id": "edcfb308-b228-4588-9c6b-2148e8fa63c0",
    "title": {
     "en": "Usemono Ari no Houichi"
    },
    "contentRating": "safe",
-   "score": 0.16091059,
+   "score": 0.16091242,
    "languages": [
     "zh",
     "en"
@@ -71,7 +58,18 @@
     "en": "Uryuudou Yumebanashi"
    },
    "contentRating": "safe",
-   "score": 0.15453702,
+   "score": 0.15453894,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "c0bceade-287c-4f81-b157-825cf836c6fb",
+   "title": {
+    "en": "Housekishou Richard-shi no Nazo Kantei"
+   },
+   "contentRating": "safe",
+   "score": 0.14285715,
    "languages": [
     "en"
    ]
@@ -80,42 +78,6 @@
    "id": "663c0803-96a5-4ab9-91c5-795c114c88b1",
    "title": {
     "en": "Haigakura"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "7b8446e7-9905-43d7-a826-a646bdbf60f9",
-   "title": {
-    "en": "The Haunted Bookstore - Gateway to a Parallel Universe"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "en",
-    "es"
-   ]
-  },
-  {
-   "id": "5b08ade2-4eab-486d-80a3-023acb1d24a2",
-   "title": {
-    "en": "Orthoros"
-   },
-   "contentRating": "safe",
-   "score": 0.14285715,
-   "languages": [
-    "ru",
-    "hu",
-    "en"
-   ]
-  },
-  {
-   "id": "c0bceade-287c-4f81-b157-825cf836c6fb",
-   "title": {
-    "en": "Housekishou Richard-shi no Nazo Kantei"
    },
    "contentRating": "safe",
    "score": 0.14285715,
@@ -138,12 +100,37 @@
    ]
   },
   {
+   "id": "5b08ade2-4eab-486d-80a3-023acb1d24a2",
+   "title": {
+    "en": "Orthoros"
+   },
+   "contentRating": "safe",
+   "score": 0.14285715,
+   "languages": [
+    "ru",
+    "hu",
+    "en"
+   ]
+  },
+  {
+   "id": "7b8446e7-9905-43d7-a826-a646bdbf60f9",
+   "title": {
+    "en": "The Haunted Bookstore - Gateway to a Parallel Universe"
+   },
+   "contentRating": "safe",
+   "score": 0.14285715,
+   "languages": [
+    "en",
+    "es"
+   ]
+  },
+  {
    "id": "227d3378-da59-45dd-b666-d3c1fc7e93f1",
    "title": {
     "en": "Saiyuki Ibun"
    },
    "contentRating": "safe",
-   "score": 0.13727328,
+   "score": 0.13727662,
    "languages": [
     "en"
    ]
@@ -154,32 +141,9 @@
     "en": "The Kind Older Sister Is No More"
    },
    "contentRating": "safe",
-   "score": 0.13642065,
+   "score": 0.13642657,
    "languages": [
     "pl",
-    "en"
-   ]
-  },
-  {
-   "id": "1b6f9358-64ef-4000-bb02-5a2fb9f1b81e",
-   "title": {
-    "en": "Henjin Tantei Emu"
-   },
-   "contentRating": "safe",
-   "score": 0.12777533,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "3d8e3b97-c875-4090-b52c-1b5a63f591a9",
-   "title": {
-    "en": "Kashoku no Shiro"
-   },
-   "contentRating": "safe",
-   "score": 0.12777533,
-   "languages": [
-    "pt-br",
     "en"
    ]
   },
@@ -196,7 +160,41 @@
     "id",
     "pt-br"
    ]
+  },
+  {
+   "id": "3d8e3b97-c875-4090-b52c-1b5a63f591a9",
+   "title": {
+    "en": "Kashoku no Shiro"
+   },
+   "contentRating": "safe",
+   "score": 0.12777533,
+   "languages": [
+    "pt-br",
+    "en"
+   ]
+  },
+  {
+   "id": "1b6f9358-64ef-4000-bb02-5a2fb9f1b81e",
+   "title": {
+    "en": "Henjin Tantei Emu"
+   },
+   "contentRating": "safe",
+   "score": 0.12777533,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "12e69ced-43f6-4204-8fb1-4207022c28d6",
+   "title": {
+    "en": "Hizumi no Dual"
+   },
+   "contentRating": "safe",
+   "score": 0.12777533,
+   "languages": [
+    "en"
+   ]
   }
  ],
- "updatedAt": "2025-01-15T23:26:57+00:00"
+ "updatedAt": "2025-01-17T23:03:55+00:00"
 }

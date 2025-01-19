@@ -11,7 +11,7 @@
     "en": "Burning Kabaddi"
    },
    "contentRating": "safe",
-   "score": 0.25743705,
+   "score": 0.25743943,
    "languages": [
     "en",
     "fr",
@@ -26,7 +26,7 @@
     "en": "Play Ball"
    },
    "contentRating": "safe",
-   "score": 0.25169536
+   "score": 0.25169793
   },
   {
    "id": "ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
@@ -34,7 +34,7 @@
     "en": "Blue Box"
    },
    "contentRating": "safe",
-   "score": 0.24192621,
+   "score": 0.24192877,
    "languages": [
     "vi",
     "es-la",
@@ -72,7 +72,7 @@
     "en": "Welcome to the Ballroom"
    },
    "contentRating": "safe",
-   "score": 0.23910443,
+   "score": 0.23910545,
    "languages": [
     "en",
     "pt-br",
@@ -100,17 +100,20 @@
    ]
   },
   {
-   "id": "3d521799-62fc-4fb1-95b7-b39caa9a442c",
+   "id": "67ea46f9-500e-4e81-b4aa-71131e4d5c71",
    "title": {
-    "en": "Yama no Susume"
+    "en": "Kyūdo-kun"
    },
    "contentRating": "safe",
-   "score": 0.23173857,
-   "languages": [
-    "es-la",
-    "id",
-    "en"
-   ]
+   "score": 0.23173857
+  },
+  {
+   "id": "1f1f43b4-9a72-4d5e-817e-44883a375fb9",
+   "title": {
+    "en": "Dai Koshien - Dokaben Part 2"
+   },
+   "contentRating": "safe",
+   "score": 0.23173857
   },
   {
    "id": "5d0f020b-cf8b-4055-b303-862db5377c31",
@@ -121,9 +124,9 @@
    "score": 0.23173857
   },
   {
-   "id": "1f1f43b4-9a72-4d5e-817e-44883a375fb9",
+   "id": "af57614e-3a11-4e2c-b37d-8b47d025bcda",
    "title": {
-    "en": "Dai Koshien - Dokaben Part 2"
+    "en": "By Far"
    },
    "contentRating": "safe",
    "score": 0.23173857
@@ -141,20 +144,17 @@
    ]
   },
   {
-   "id": "67ea46f9-500e-4e81-b4aa-71131e4d5c71",
+   "id": "3d521799-62fc-4fb1-95b7-b39caa9a442c",
    "title": {
-    "en": "Kyūdo-kun"
+    "en": "Yama no Susume"
    },
    "contentRating": "safe",
-   "score": 0.23173857
-  },
-  {
-   "id": "af57614e-3a11-4e2c-b37d-8b47d025bcda",
-   "title": {
-    "en": "By Far"
-   },
-   "contentRating": "safe",
-   "score": 0.23173857
+   "score": 0.23173857,
+   "languages": [
+    "es-la",
+    "id",
+    "en"
+   ]
   },
   {
    "id": "ec0c3cbf-dc3d-4df2-b2c6-2af7ad41541e",
@@ -162,7 +162,7 @@
     "en": "Mane Mane Nichi Nichi"
    },
    "contentRating": "safe",
-   "score": 0.22859621,
+   "score": 0.2285982,
    "languages": [
     "en",
     "pt-br",
@@ -178,23 +178,11 @@
     "en": "Idol A"
    },
    "contentRating": "safe",
-   "score": 0.22649872,
+   "score": 0.2265022,
    "languages": [
     "pt-br",
     "en",
     "pl"
-   ]
-  },
-  {
-   "id": "3805fc64-44f0-46b6-b972-5c14ce7e856c",
-   "title": {
-    "en": "Maple Purple"
-   },
-   "contentRating": "safe",
-   "score": 0.2259078,
-   "languages": [
-    "en",
-    "pt-br"
    ]
   },
   {
@@ -203,7 +191,7 @@
     "en": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
    },
    "contentRating": "safe",
-   "score": 0.22329624,
+   "score": 0.22330217,
    "languages": [
     "en",
     "pt-br",
@@ -216,7 +204,21 @@
     "vi",
     "es"
    ]
+  },
+  {
+   "id": "67047cf9-9624-4b9d-903e-c82f4f58f973",
+   "title": {
+    "en": "Haikyuu-bu!!"
+   },
+   "contentRating": "safe",
+   "score": 0.22246654,
+   "languages": [
+    "en",
+    "pt-br",
+    "es-la",
+    "vi"
+   ]
   }
  ],
- "updatedAt": "2025-01-16T00:53:18+00:00"
+ "updatedAt": "2025-01-18T00:38:04+00:00"
 }

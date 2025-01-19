@@ -11,7 +11,7 @@
     "en": "Inase Sushi"
    },
    "contentRating": "safe",
-   "score": 0.548449
+   "score": 0.5484568
   },
   {
    "id": "b18d8328-d14d-4901-9643-e8bbead2143d",
@@ -19,7 +19,7 @@
     "en": "Shinratsu Naru Gourmet"
    },
    "contentRating": "safe",
-   "score": 0.3714974
+   "score": 0.37150204
   },
   {
    "id": "f77bb064-2f90-497d-a9b7-f13a6d8bb121",
@@ -27,7 +27,7 @@
     "en": "Children's Gourmet"
    },
    "contentRating": "safe",
-   "score": 0.37000325
+   "score": 0.3700098
   },
   {
    "id": "ec564541-3735-4f91-b650-7d83bd0c1fac",
@@ -35,18 +35,10 @@
     "en": "Host to Shachiku"
    },
    "contentRating": "safe",
-   "score": 0.3212793,
+   "score": 0.32128385,
    "languages": [
     "zh"
    ]
-  },
-  {
-   "id": "d9e49497-2270-490c-9617-cfc273f9ad84",
-   "title": {
-    "en": "Kirigiri Hotaru no Kirai na Tabemono"
-   },
-   "contentRating": "safe",
-   "score": 0.31641522
   },
   {
    "id": "cc307f9b-7599-4342-a97b-140e6ad08e41",
@@ -54,7 +46,7 @@
     "en": "Bungou Natsume wa Ryourinin ga Kirai"
    },
    "contentRating": "safe",
-   "score": 0.31208703
+   "score": 0.31209198
   },
   {
    "id": "9b7c9224-b766-475a-b0c8-3edbae4e1d6d",
@@ -62,7 +54,7 @@
     "en": "Curryman"
    },
    "contentRating": "safe",
-   "score": 0.30682668
+   "score": 0.30682784
   },
   {
    "id": "f5bb8210-1000-4d9a-a59d-a6fde0061baf",
@@ -70,10 +62,18 @@
     "en": "Shiawase Restaurant"
    },
    "contentRating": "safe",
-   "score": 0.30475432,
+   "score": 0.30475897,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "c52b08ae-1a37-42b1-a8c0-f7f0b515e828",
+   "title": {
+    "en": "Cuisinier"
+   },
+   "contentRating": "safe",
+   "score": 0.3016997
   },
   {
    "id": "eadb9e8c-07e0-4889-863e-4960bd43024b",
@@ -81,7 +81,7 @@
     "en": "Rokuhōdō Yotsuiro Biyori"
    },
    "contentRating": "safe",
-   "score": 0.29803127,
+   "score": 0.29803282,
    "languages": [
     "en"
    ]
@@ -92,7 +92,7 @@
     "en": "Netherland no Kissaten"
    },
    "contentRating": "safe",
-   "score": 0.2974699
+   "score": 0.2974672
   },
   {
    "id": "b9dcc38e-9427-4742-b82b-50a009e7348b",
@@ -100,18 +100,10 @@
     "en": "Gohoubi Gohan"
    },
    "contentRating": "safe",
-   "score": 0.29642105,
+   "score": 0.29642156,
    "languages": [
     "en"
    ]
-  },
-  {
-   "id": "bd8d78ac-0daa-4058-9b3e-3c3075da2bec",
-   "title": {
-    "en": "Believe in Tomorrow"
-   },
-   "contentRating": "safe",
-   "score": 0.28783402
   },
   {
    "id": "cb188ff1-962a-4129-9c99-17c73a3ef574",
@@ -119,7 +111,15 @@
     "en": "Garçon"
    },
    "contentRating": "safe",
-   "score": 0.28776625
+   "score": 0.28777042
+  },
+  {
+   "id": "e23b14ed-b783-46c4-a4a1-38a6dd19e077",
+   "title": {
+    "en": "Nanki no Daidokoro"
+   },
+   "contentRating": "safe",
+   "score": 0.2857143
   },
   {
    "id": "12566c46-9623-4a77-8232-e3e78f16ba83",
@@ -130,21 +130,25 @@
    "score": 0.2857143
   },
   {
-   "id": "c52b08ae-1a37-42b1-a8c0-f7f0b515e828",
+   "id": "77566ea5-33a0-43e2-ba5b-ff7af8c397c9",
    "title": {
-    "en": "Cuisinier"
+    "en": "Witch Hat Atelier Kitchen"
    },
    "contentRating": "safe",
-   "score": 0.2857143
+   "score": 0.2857143,
+   "languages": [
+    "en",
+    "ru"
+   ]
   },
   {
-   "id": "e23b14ed-b783-46c4-a4a1-38a6dd19e077",
+   "id": "b58250f9-8b67-4cc7-b737-241786bbf4fb",
    "title": {
-    "en": "Nanki no Daidokoro"
+    "en": "The Chef - Final"
    },
    "contentRating": "safe",
    "score": 0.2857143
   }
  ],
- "updatedAt": "2025-01-16T00:43:33+00:00"
+ "updatedAt": "2025-01-18T00:27:09+00:00"
 }

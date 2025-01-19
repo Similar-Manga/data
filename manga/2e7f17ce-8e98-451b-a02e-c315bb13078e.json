@@ -1,0 +1,165 @@
+{
+ "id": "2e7f17ce-8e98-451b-a02e-c315bb13078e",
+ "type": "manga",
+ "attributes": {
+  "title": {
+   "en": "Level no Gainen ga nai Sekai de, Ore dake ga \"Zenjidou Level Up\" ~Skill de Ichibyou Goto ni Tsuyoku naru~"
+  },
+  "altTitles": [
+   {
+    "ja": "レベルの概念がない世界で、俺だけが【全自動レベルアップ】～スキルで一秒ごとに強くなる～"
+   }
+  ],
+  "description": {
+   "ja": "毎分毎秒強くなる！ 最速最強トップスピードファンタジー、開幕!!　貧しき青年、アルバート。18歳の授与式で得たスキルは「全自動レベルアップ」という意味不明なスキル。だが実はこのスキル、毎分毎秒ごとに際限なく強くなり続けるというとんでもないもので…!? 一歩踏み出す勇気と脅威のスキルで凶悪な敵へと立ち向かえ！"
+  },
+  "links": {
+   "amz": "https://www.amazon.co.jp/dp/B0DQP3KLGG",
+   "bw": "series/504405",
+   "ebj": "https://ebookjapan.yahoo.co.jp/books/872724",
+   "mu": "sgcn4iz"
+  },
+  "originalLanguage": "ja",
+  "publicationDemographic": "shounen",
+  "status": "ongoing",
+  "year": 2024,
+  "contentRating": "safe",
+  "tags": [
+   {
+    "id": "391b0423-d847-456f-aff0-8b0cfc03066b",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Action"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "4d32cc48-9f00-4cca-9b5a-a839f0764984",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Comedy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "b9af3a63-f058-46de-a9a0-e0c13906197a",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Drama"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Fantasy"
+     },
+     "description": {},
+     "group": "genre",
+     "version": 1
+    }
+   },
+   {
+    "id": "f4122d1c-3b44-44d0-9936-ff7502c39ad3",
+    "type": "tag",
+    "attributes": {
+     "name": {
+      "en": "Adaptation"
+     },
+     "description": {},
+     "group": "format",
+     "version": 1
+    }
+   }
+  ],
+  "state": "published",
+  "version": 2,
+  "createdAt": "2025-01-16T21:42:31+00:00",
+  "updatedAt": "2025-01-16T21:42:58+00:00"
+ },
+ "relationships": [
+  {
+   "id": "25bb3207-e932-4ffa-b322-ed9925a267cd",
+   "type": "author",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2021-10-10T10:10:40+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Domadoma",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2021-10-10T10:10:40+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "7b5bedd7-b908-41ab-b9cf-bce3e5ca9d78",
+   "type": "artist",
+   "attributes": {
+    "biography": {},
+    "booth": null,
+    "createdAt": "2025-01-16T21:41:29+00:00",
+    "fanBox": null,
+    "fantia": null,
+    "imageUrl": null,
+    "melonBook": null,
+    "name": "Aoki Ayumu",
+    "namicomi": null,
+    "naver": null,
+    "nicoVideo": null,
+    "pixiv": null,
+    "skeb": null,
+    "tumblr": null,
+    "twitter": null,
+    "updatedAt": "2025-01-16T21:41:29+00:00",
+    "version": 1,
+    "website": null,
+    "weibo": null,
+    "youtube": null
+   }
+  },
+  {
+   "id": "282337da-9dee-4ff0-81b2-6664e9bd1b21",
+   "type": "cover_art",
+   "attributes": {
+    "createdAt": "2025-01-16T21:42:35+00:00",
+    "description": "Volume 1 Cover from BookLive",
+    "fileName": "09bc0884-8cf2-4033-bfa2-320eb2ffbefd.jpg",
+    "locale": "ja",
+    "updatedAt": "2025-01-16T21:42:35+00:00",
+    "version": 1,
+    "volume": "1"
+   }
+  },
+  {
+   "id": "27bde0e8-71b0-4bf2-8e25-2902a7b2dd4b",
+   "type": "creator"
+  }
+ ]
+}

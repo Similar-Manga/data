@@ -11,7 +11,7 @@
     "en": "Urban Legend Maker"
    },
    "contentRating": "safe",
-   "score": 0.43531504,
+   "score": 0.42127845,
    "languages": [
     "en",
     "vi"
@@ -23,7 +23,7 @@
     "en": "Yokohama Tasogare Totsutotsu Kaiji"
    },
    "contentRating": "safe",
-   "score": 0.42240945
+   "score": 0.4030415
   },
   {
    "id": "f4d295c0-bc6f-498b-bdd7-7606b810c444",
@@ -31,7 +31,7 @@
     "en": "Tokyo Toshi Densetsu"
    },
    "contentRating": "safe",
-   "score": 0.32186982
+   "score": 0.3105054
   },
   {
    "id": "7b49e09c-78b5-432e-a2ef-884ec209f22d",
@@ -39,7 +39,7 @@
     "en": "Urban Beasts"
    },
    "contentRating": "safe",
-   "score": 0.31653112,
+   "score": 0.3079837,
    "languages": [
     "pt-br"
    ]
@@ -50,7 +50,7 @@
     "en": "The Woman in the Red Room"
    },
    "contentRating": "safe",
-   "score": 0.2959273
+   "score": 0.28666887
   },
   {
    "id": "d7a0b8d8-68f3-4213-8eae-4890306e11d4",
@@ -58,7 +58,7 @@
     "en": "Crossroads"
    },
    "contentRating": "safe",
-   "score": 0.2841602,
+   "score": 0.2769769,
    "languages": [
     "en"
    ]
@@ -69,9 +69,20 @@
     "en": "Thompson"
    },
    "contentRating": "safe",
-   "score": 0.26887208,
+   "score": 0.2622946,
    "languages": [
     "vi",
+    "en"
+   ]
+  },
+  {
+   "id": "208a6b72-4fa7-412c-806c-fdcd6034155d",
+   "title": {
+    "en": "The Legend of the Final Warden"
+   },
+   "contentRating": "safe",
+   "score": 0.26013255,
+   "languages": [
     "en"
    ]
   },
@@ -81,44 +92,10 @@
     "en": "Dragon's Son Changsik"
    },
    "contentRating": "safe",
-   "score": 0.2643486,
+   "score": 0.2586167,
    "languages": [
     "en",
     "fr"
-   ]
-  },
-  {
-   "id": "208a6b72-4fa7-412c-806c-fdcd6034155d",
-   "title": {
-    "en": "The Legend of the Final Warden"
-   },
-   "contentRating": "safe",
-   "score": 0.26419988,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "d86c90aa-7cfb-455a-99f7-37ad6d6a6eb2",
-   "title": {
-    "en": "GASOLINE"
-   },
-   "contentRating": "safe",
-   "score": 0.25389084,
-   "languages": [
-    "pt-br"
-   ]
-  },
-  {
-   "id": "8a2eeb92-44ae-4c20-b97e-a13624d6c111",
-   "title": {
-    "en": "Urban Cross"
-   },
-   "contentRating": "safe",
-   "score": 0.25345585,
-   "languages": [
-    "en",
-    "tr"
    ]
   },
   {
@@ -127,18 +104,7 @@
     "en": "Imadoki no Toshi Densetsu Girls"
    },
    "contentRating": "safe",
-   "score": 0.25280422,
-   "languages": [
-    "en"
-   ]
-  },
-  {
-   "id": "0ee0ef1a-3ebd-4dc2-8251-7ff0dff6282b",
-   "title": {
-    "en": "The Urban Legend Files"
-   },
-   "contentRating": "safe",
-   "score": 0.24699405,
+   "score": 0.24389002,
    "languages": [
     "en"
    ]
@@ -149,18 +115,7 @@
     "en": "Face On"
    },
    "contentRating": "safe",
-   "score": 0.24544518
-  },
-  {
-   "id": "610cd99a-de57-4dba-afd8-069e828929fd",
-   "title": {
-    "en": "The Legend of Zelda Breath of the Wild - At the same time, with the same face"
-   },
-   "contentRating": "safe",
-   "score": 0.2356916,
-   "languages": [
-    "en"
-   ]
+   "score": 0.24220522
   },
   {
    "id": "c8736457-f9e3-49fe-996c-e1ed0ed8bf5a",
@@ -168,11 +123,56 @@
     "en": "Vigilante Part 2"
    },
    "contentRating": "safe",
-   "score": 0.23119617,
+   "score": 0.23962775,
    "languages": [
     "en"
    ]
+  },
+  {
+   "id": "0ee0ef1a-3ebd-4dc2-8251-7ff0dff6282b",
+   "title": {
+    "en": "The Urban Legend Files"
+   },
+   "contentRating": "safe",
+   "score": 0.23873179,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "d86c90aa-7cfb-455a-99f7-37ad6d6a6eb2",
+   "title": {
+    "en": "GASOLINE"
+   },
+   "contentRating": "safe",
+   "score": 0.23778115,
+   "languages": [
+    "pt-br"
+   ]
+  },
+  {
+   "id": "c7783d45-4f6c-429e-91c8-495d4dd85a88",
+   "title": {
+    "en": "Everything Nice"
+   },
+   "contentRating": "safe",
+   "score": 0.22903492,
+   "languages": [
+    "en"
+   ]
+  },
+  {
+   "id": "8a2eeb92-44ae-4c20-b97e-a13624d6c111",
+   "title": {
+    "en": "Urban Cross"
+   },
+   "contentRating": "safe",
+   "score": 0.22452872,
+   "languages": [
+    "en",
+    "tr"
+   ]
   }
  ],
- "updatedAt": "2025-01-15T23:57:09+00:00"
+ "updatedAt": "2025-01-17T23:36:51+00:00"
 }

@@ -3,29 +3,36 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "Wakeari Shinrei Mansion"
+   "en": "Welcome to Ghost Mansion"
   },
   "altTitles": [
    {
     "ja": "訳アリ心霊マンション"
    },
    {
-    "en": "Welcome Ghost Mansion"
+    "ja-ro": "Wakeari Shinrei Mansion"
+   },
+   {
+    "ja": "Welcome Ghost Mansion"
+   },
+   {
+    "en": "Condominium Of Spirits With Particular Circumstances"
    },
    {
     "vi": "Chào Mừng Đến Với Chung Cư Ma Ám"
    }
   ],
   "description": {
-   "en": "Kaoru Shinonome, who had been living as a freelancer, invests her inheritance in property and buys a vast old condominium. Her dream life as a wealthy landlord is about to begin—but there are no living tenants, only spirits, and her new property is a rollercoaster ride of psychic phenomena. Kaoru embraces her new specter-filled life as the owner of Ghost Mansion and starts recruiting for new non-living residents!"
+   "en": "Kaoru Shinonome, who had been living as a freelancer, invests her inheritance in property and buys a vast old condominium. Her dream life as a wealthy landlord is about to begin—but there are no living tenants, only spirits, and her new property is a rollercoaster ride of psychic phenomena. Kaoru embraces her new specter-filled life as the owner of Ghost Mansion and starts recruiting for new non-living residents!  (Titan Manga)"
   },
   "links": {
    "al": "175209",
-   "amz": "https://www.amazon.co.jp/dp/B0BF9K26DN",
+   "amz": "https://www.amazon.co.jp/dp/B0C37JXPW5",
    "ap": "welcome-to-ghost-mansion",
-   "bw": "series/379596/list",
+   "bw": "series/379596",
    "cdj": "https://www.cdjapan.co.jp/product/NEOBK-2777372",
    "ebj": "https://ebookjapan.yahoo.co.jp/books/724371",
+   "engtl": "https://titan-comics.com/?tag__series=welcome-to-ghost-mansion",
    "kt": "wakeari-shinrei-mansion",
    "mal": "167353",
    "mu": "6iw5hic",
@@ -78,18 +85,6 @@
     }
    },
    {
-    "id": "e5301a23-ebd9-49dd-a0cb-2add944c7fe9",
-    "type": "tag",
-    "attributes": {
-     "name": {
-      "en": "Slice of Life"
-     },
-     "description": {},
-     "group": "genre",
-     "version": 1
-    }
-   },
-   {
     "id": "eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
     "type": "tag",
     "attributes": {
@@ -103,32 +98,34 @@
    }
   ],
   "state": "published",
-  "version": 15,
+  "version": 20,
   "createdAt": "2023-07-07T03:49:35+00:00",
-  "updatedAt": "2024-11-03T00:37:15+00:00"
+  "updatedAt": "2025-01-16T13:42:20+00:00"
  },
  "relationships": [
   {
    "id": "a5ab3992-4bde-499f-a974-f66e029df6fe",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** ネブクロ\n\n**Additional Sites:**\n- [Bluesky](https://bsky.app/profile/nebukuro.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2023-07-07T03:44:55+00:00",
-    "fanBox": null,
+    "fanBox": "https://nebukuro.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "nebukuro",
+    "name": "Nebukuro",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/818317",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-07-07T03:44:55+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/nebukuro41",
+    "updatedAt": "2025-01-16T11:51:34+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -138,23 +135,25 @@
    "id": "a5ab3992-4bde-499f-a974-f66e029df6fe",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** ネブクロ\n\n**Additional Sites:**\n- [Bluesky](https://bsky.app/profile/nebukuro.bsky.social)"
+    },
     "booth": null,
     "createdAt": "2023-07-07T03:44:55+00:00",
-    "fanBox": null,
+    "fanBox": "https://nebukuro.fanbox.cc/",
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "nebukuro",
+    "name": "Nebukuro",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
-    "pixiv": null,
+    "pixiv": "https://www.pixiv.net/users/818317",
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2023-07-07T03:44:55+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/nebukuro41",
+    "updatedAt": "2025-01-16T11:51:34+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null

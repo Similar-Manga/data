@@ -3,21 +3,21 @@
  "type": "manga",
  "attributes": {
   "title": {
-   "en": "\"Something\" That Isn’t Santa Has Come"
+   "en": "“Something” That Isn’t Santa Has Come"
   },
   "altTitles": [
    {
     "ja": "サンタじゃない「何か」が来る話"
    },
    {
-    "ja-ro": "Santa Janai \"Nani ka\" ga Kuru Hanashi"
+    "ja-ro": "Santa Janai “Nani ka” ga Kuru Hanashi"
    }
   ],
   "description": {
-   "en": "8 page oneshot about a boy that sees something that he shouldn't have seen during Christmas…"
+   "en": "A boy sees something that he shouldn't have during Christmastime…"
   },
   "links": {
-   "raw": "https://twicomi.com/manga/06yuka_21/1606591752722599937"
+   "raw": "https://x.com/06yuka_21/status/1606591752722599937"
   },
   "originalLanguage": "ja",
   "status": "completed",
@@ -89,32 +89,34 @@
    }
   ],
   "state": "published",
-  "version": 3,
+  "version": 4,
   "createdAt": "2024-12-10T11:29:18+00:00",
-  "updatedAt": "2024-12-23T20:19:28+00:00"
+  "updatedAt": "2025-01-16T13:47:26+00:00"
  },
  "relationships": [
   {
    "id": "daf6ce01-314f-44f4-82d9-907199b1c70e",
    "type": "author",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 山田憂香"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yamada Yuka",
+    "name": "Yamada Yuuka",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/06yuka_21",
+    "updatedAt": "2025-01-16T13:49:02+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -124,23 +126,25 @@
    "id": "daf6ce01-314f-44f4-82d9-907199b1c70e",
    "type": "artist",
    "attributes": {
-    "biography": {},
+    "biography": {
+     "en": "**Name In Native Language:** 山田憂香"
+    },
     "booth": null,
     "createdAt": "2021-04-19T21:59:45+00:00",
     "fanBox": null,
     "fantia": null,
     "imageUrl": null,
     "melonBook": null,
-    "name": "Yamada Yuka",
+    "name": "Yamada Yuuka",
     "namicomi": null,
     "naver": null,
     "nicoVideo": null,
     "pixiv": null,
     "skeb": null,
     "tumblr": null,
-    "twitter": null,
-    "updatedAt": "2021-04-19T21:59:45+00:00",
-    "version": 1,
+    "twitter": "https://twitter.com/06yuka_21",
+    "updatedAt": "2025-01-16T13:49:02+00:00",
+    "version": 2,
     "website": null,
     "weibo": null,
     "youtube": null
@@ -154,9 +158,9 @@
     "description": "",
     "fileName": "ee77dac8-e2af-4e9d-901f-4a0a53d0370a.jpg",
     "locale": "ja",
-    "updatedAt": "2024-12-10T11:35:04+00:00",
-    "version": 1,
-    "volume": "1"
+    "updatedAt": "2025-01-16T13:47:25+00:00",
+    "version": 2,
+    "volume": null
    }
   },
   {
